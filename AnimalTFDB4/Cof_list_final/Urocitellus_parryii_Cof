@@ -1,0 +1,928 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Urocitellus_parryii	MBTD1	ENSUPAG00010000047	Others	NA
+Urocitellus_parryii	TAF5L	ENSUPAG00010000168	TATA-box	NA
+Urocitellus_parryii	DNMT1	ENSUPAG00010000182	DNA_methylase	NA
+Urocitellus_parryii	TSPYL2	ENSUPAG00010000187	Others	113195774
+Urocitellus_parryii	KDM5C	ENSUPAG00010000203	Lysine demethylase	NA
+Urocitellus_parryii	AGO1	ENSUPAG00010000213	Others	NA
+Urocitellus_parryii	FLNA	ENSUPAG00010000336	Others	113176587
+Urocitellus_parryii	TRIP4	ENSUPAG00010000337	Thyroid hormone receptor	113180019
+Urocitellus_parryii	ALYREF	ENSUPAG00010000402	Others	NA
+Urocitellus_parryii	TADA1	ENSUPAG00010000434	Transcriptional adaptor	NA
+Urocitellus_parryii	CCNH	ENSUPAG00010000452	Cyclin	NA
+Urocitellus_parryii	FRK	ENSUPAG00010000456	Others	113201315
+Urocitellus_parryii	SIRT7	ENSUPAG00010000513	Sirtuin	113198175
+Urocitellus_parryii		ENSUPAG00010000520	Other_CRF	NA
+Urocitellus_parryii	RALGAPA1	ENSUPAG00010000544	Others	NA
+Urocitellus_parryii	PHF10	ENSUPAG00010000590	PHF	113175933
+Urocitellus_parryii	SMARCA5	ENSUPAG00010000746	SWI/SNF	NA
+Urocitellus_parryii	ACTA2	ENSUPAG00010000762	Actin	113176620
+Urocitellus_parryii	JMJD6	ENSUPAG00010000850	Others	113193945
+Urocitellus_parryii	SRSF2	ENSUPAG00010000884	Others	NA
+Urocitellus_parryii		ENSUPAG00010000893	Others	113197569
+Urocitellus_parryii	BRD4	ENSUPAG00010000930	Bromodomain	113183716
+Urocitellus_parryii	HLTF	ENSUPAG00010000994	Others	113195182
+Urocitellus_parryii	HSBP1L1	ENSUPAG00010001050	Heat shock protein	NA
+Urocitellus_parryii	TRAF6	ENSUPAG00010001061	Others	113194113
+Urocitellus_parryii	NOTCH3	ENSUPAG00010001075	Notch	113183510
+Urocitellus_parryii	PPHLN1	ENSUPAG00010001163	Others	NA
+Urocitellus_parryii	NFKBIA	ENSUPAG00010001173	NFKB associated	NA
+Urocitellus_parryii	FHL5	ENSUPAG00010001189	FHL	NA
+Urocitellus_parryii	MED14	ENSUPAG00010001193	Mediator complex	NA
+Urocitellus_parryii	UFL1	ENSUPAG00010001205	Others	NA
+Urocitellus_parryii	SMARCD2	ENSUPAG00010001214	SWI/SNF	113192184
+Urocitellus_parryii		ENSUPAG00010001252	Ring finger protein	NA
+Urocitellus_parryii	YAF2	ENSUPAG00010001259	Others	NA
+Urocitellus_parryii	HEXIM2	ENSUPAG00010001321	Others	113196345
+Urocitellus_parryii	HEXIM1	ENSUPAG00010001331	Others	NA
+Urocitellus_parryii		ENSUPAG00010001357	Others	113197591
+Urocitellus_parryii	CASK	ENSUPAG00010001389	CAMK	NA
+Urocitellus_parryii	EED	ENSUPAG00010001408	Others	NA
+Urocitellus_parryii	PHF8	ENSUPAG00010001412	PHF	NA
+Urocitellus_parryii	FGF3	ENSUPAG00010001476	FGF	NA
+Urocitellus_parryii	TAF1D	ENSUPAG00010001478	TATA-box	NA
+Urocitellus_parryii	ERN1	ENSUPAG00010001480	Others	NA
+Urocitellus_parryii		ENSUPAG00010001536	Others	NA
+Urocitellus_parryii	ATF7IP	ENSUPAG00010001543	Others	NA
+Urocitellus_parryii		ENSUPAG00010001550	Others	NA
+Urocitellus_parryii	PBXIP1	ENSUPAG00010001559	Others	113194054
+Urocitellus_parryii	PHF21B	ENSUPAG00010001567	PHF	NA
+Urocitellus_parryii		ENSUPAG00010001622	Mediator complex	NA
+Urocitellus_parryii	CNOT3	ENSUPAG00010001661	CCR4-NOT	113176670
+Urocitellus_parryii	PRNP	ENSUPAG00010001664	Others	NA
+Urocitellus_parryii	SFMBT2	ENSUPAG00010001682	Others	NA
+Urocitellus_parryii	BAZ1A	ENSUPAG00010001722	Bromodomain	NA
+Urocitellus_parryii	SND1	ENSUPAG00010001727	Others	113198832
+Urocitellus_parryii	CHAF1B	ENSUPAG00010001732	Others	113175986
+Urocitellus_parryii		ENSUPAG00010001753	Others	NA
+Urocitellus_parryii		ENSUPAG00010001759	ANP	NA
+Urocitellus_parryii	CRY1	ENSUPAG00010001762	Others	NA
+Urocitellus_parryii	DDX5	ENSUPAG00010001773	RNA helicase	NA
+Urocitellus_parryii	SNX6	ENSUPAG00010001786	Others	NA
+Urocitellus_parryii	CDK13	ENSUPAG00010001813	Cyclin	NA
+Urocitellus_parryii	EAPP	ENSUPAG00010001833	Others	NA
+Urocitellus_parryii	NELFA	ENSUPAG00010001867	GTF	NA
+Urocitellus_parryii	TAF3	ENSUPAG00010001868	TATA-box	NA
+Urocitellus_parryii	CCNA1	ENSUPAG00010001949	Cyclin	NA
+Urocitellus_parryii	CENPB	ENSUPAG00010001970	CENP	NA
+Urocitellus_parryii	ARHGAP5	ENSUPAG00010001993	Others	NA
+Urocitellus_parryii	CENPU	ENSUPAG00010001999	CENP	113191015
+Urocitellus_parryii	RFXAP	ENSUPAG00010002005	Others	NA
+Urocitellus_parryii	CHD6	ENSUPAG00010002013	CHD	113178878
+Urocitellus_parryii	EFCAB6	ENSUPAG00010002017	Others	NA
+Urocitellus_parryii	SUPT20H	ENSUPAG00010002093	SUPT	113187354
+Urocitellus_parryii	LBH	ENSUPAG00010002100	Others	NA
+Urocitellus_parryii	TRADD	ENSUPAG00010002125	Others	NA
+Urocitellus_parryii	SMURF2	ENSUPAG00010002142	Others	NA
+Urocitellus_parryii	LPIN3	ENSUPAG00010002149	LPIN	NA
+Urocitellus_parryii	SFRP4	ENSUPAG00010002173	Others	NA
+Urocitellus_parryii	WWC2	ENSUPAG00010002189	WW	NA
+Urocitellus_parryii	TENM2	ENSUPAG00010002216	Others	113195799
+Urocitellus_parryii	TBPL1	ENSUPAG00010002221	TATA-box	NA
+Urocitellus_parryii	KMT5C	ENSUPAG00010002223	Lysine methyltransferase	NA
+Urocitellus_parryii	MED11	ENSUPAG00010002253	Mediator complex	NA
+Urocitellus_parryii	ARRB2	ENSUPAG00010002262	Others	NA
+Urocitellus_parryii	TOP1	ENSUPAG00010002274	Other_CRF	NA
+Urocitellus_parryii	ASCC2	ENSUPAG00010002276	ASCC	113200071
+Urocitellus_parryii	BPTF	ENSUPAG00010002285	Bromodomain	NA
+Urocitellus_parryii	PELP1	ENSUPAG00010002297	Others	NA
+Urocitellus_parryii		ENSUPAG00010002314	Others	113187397
+Urocitellus_parryii	LIN9	ENSUPAG00010002320	Others	NA
+Urocitellus_parryii	NOL11	ENSUPAG00010002348	Nuclear coactivator	NA
+Urocitellus_parryii	SMARCB1	ENSUPAG00010002354	SWI/SNF	NA
+Urocitellus_parryii	SMARCAD1	ENSUPAG00010002357	SWI/SNF	NA
+Urocitellus_parryii	ATXN7L3	ENSUPAG00010002358	Others	NA
+Urocitellus_parryii	HDAC5	ENSUPAG00010002429	Histone deacetylase	NA
+Urocitellus_parryii	EID3	ENSUPAG00010002436	EID	NA
+Urocitellus_parryii	ACTR5	ENSUPAG00010002443	ACTR	NA
+Urocitellus_parryii	SUPT16H	ENSUPAG00010002444	SUPT	NA
+Urocitellus_parryii	HCFC2	ENSUPAG00010002459	Others	NA
+Urocitellus_parryii	CHD8	ENSUPAG00010002471	CHD	113200691
+Urocitellus_parryii	DACT1	ENSUPAG00010002490	Others	113197631
+Urocitellus_parryii	SENP1	ENSUPAG00010002512	Others	113191029
+Urocitellus_parryii	CTNNBIP1	ENSUPAG00010002537	Casein	NA
+Urocitellus_parryii	THOC5	ENSUPAG00010002546	Others	113200058
+Urocitellus_parryii		ENSUPAG00010002603	TATA-box	NA
+Urocitellus_parryii	TCF20	ENSUPAG00010002621	Others	113186761
+Urocitellus_parryii	CNOT10	ENSUPAG00010002658	CCR4-NOT	NA
+Urocitellus_parryii	SKOR2	ENSUPAG00010002670	SKI	113176765
+Urocitellus_parryii		ENSUPAG00010002677	ANP	NA
+Urocitellus_parryii		ENSUPAG00010002695	TATA-box	NA
+Urocitellus_parryii	RPRD1B	ENSUPAG00010002782	Others	NA
+Urocitellus_parryii	HDAC7	ENSUPAG00010002786	Histone deacetylase	113191027
+Urocitellus_parryii	SUV39H1	ENSUPAG00010002798	Others	NA
+Urocitellus_parryii	ASH1L	ENSUPAG00010002818	Others	NA
+Urocitellus_parryii	HDAC6	ENSUPAG00010002848	Histone deacetylase	113195261
+Urocitellus_parryii	TLE3	ENSUPAG00010002889	Transducin	NA
+Urocitellus_parryii	SRC	ENSUPAG00010002917	Others	NA
+Urocitellus_parryii	PQBP1	ENSUPAG00010002947	Others	NA
+Urocitellus_parryii	CHCHD3	ENSUPAG00010002976	Coiled-coil	NA
+Urocitellus_parryii	TCEA1	ENSUPAG00010003008	TEF	NA
+Urocitellus_parryii	TBPL2	ENSUPAG00010003064	TATA-box	NA
+Urocitellus_parryii	BASP1	ENSUPAG00010003065	Others	NA
+Urocitellus_parryii	MYCBP2	ENSUPAG00010003069	MYC	113195836
+Urocitellus_parryii	HELLS	ENSUPAG00010003070	Others	NA
+Urocitellus_parryii	CCNA2	ENSUPAG00010003078	Cyclin	NA
+Urocitellus_parryii	RBL1	ENSUPAG00010003087	Other_Co-activator/repressors	113178909
+Urocitellus_parryii	CARM1	ENSUPAG00010003160	Others	113190376
+Urocitellus_parryii	ASCC1	ENSUPAG00010003174	ASCC	113194641
+Urocitellus_parryii	PEX14	ENSUPAG00010003209	Others	113189253
+Urocitellus_parryii	SMARCA4	ENSUPAG00010003222	SWI/SNF	113190528
+Urocitellus_parryii	PABPC1L	ENSUPAG00010003318	Other_CRF	NA
+Urocitellus_parryii	NCOA4	ENSUPAG00010003333	Nuclear receptor coactivator	NA
+Urocitellus_parryii	YWHAB	ENSUPAG00010003342	Others	NA
+Urocitellus_parryii	CTDP1	ENSUPAG00010003386	Others	113199479
+Urocitellus_parryii	TCEA2	ENSUPAG00010003444	TEF	NA
+Urocitellus_parryii	PRPF6	ENSUPAG00010003455	Others	NA
+Urocitellus_parryii	MTOR	ENSUPAG00010003456	Others	113189262
+Urocitellus_parryii	TPR	ENSUPAG00010003463	Others	113185621
+Urocitellus_parryii	DVL3	ENSUPAG00010003477	Others	NA
+Urocitellus_parryii	ACTR6	ENSUPAG00010003498	ACTR	NA
+Urocitellus_parryii	VEGFA	ENSUPAG00010003509	Other_CRF	NA
+Urocitellus_parryii	MAD2L2	ENSUPAG00010003610	Others	113189248
+Urocitellus_parryii	HABP4	ENSUPAG00010003633	Others	113176087
+Urocitellus_parryii	BIRC5	ENSUPAG00010003664	Others	113196479
+Urocitellus_parryii	ELP3	ENSUPAG00010003737	ELP	113189851
+Urocitellus_parryii	SCAND1	ENSUPAG00010003746	Others	NA
+Urocitellus_parryii	PHF20	ENSUPAG00010003757	PHF	NA
+Urocitellus_parryii	YEATS2	ENSUPAG00010003780	Others	113183159
+Urocitellus_parryii	RBM39	ENSUPAG00010003791	RNA binding protein	NA
+Urocitellus_parryii	TERF2IP	ENSUPAG00010003814	Others	113196996
+Urocitellus_parryii	GTF2H4	ENSUPAG00010003828	GTF	113200757
+Urocitellus_parryii	SRFBP1	ENSUPAG00010003868	Others	113188061
+Urocitellus_parryii	CLU	ENSUPAG00010003882	Others	113189876
+Urocitellus_parryii	HNRNPK	ENSUPAG00010003944	HNRNP	NA
+Urocitellus_parryii	POLR3F	ENSUPAG00010003952	POLR	NA
+Urocitellus_parryii	CITED2	ENSUPAG00010003961	CITED	NA
+Urocitellus_parryii		ENSUPAG00010004034	Others	113194095
+Urocitellus_parryii	ELL2	ENSUPAG00010004043	GTF	113180719
+Urocitellus_parryii	SNAPC2	ENSUPAG00010004119	Others	NA
+Urocitellus_parryii	SUPT3H	ENSUPAG00010004183	SUPT	NA
+Urocitellus_parryii	CBX8	ENSUPAG00010004226	Chromobox	113196466
+Urocitellus_parryii	CBX4	ENSUPAG00010004238	Chromobox	113196465
+Urocitellus_parryii	PCBD1	ENSUPAG00010004314	Others	NA
+Urocitellus_parryii	NMI	ENSUPAG00010004358	Others	NA
+Urocitellus_parryii	RB1	ENSUPAG00010004366	Other_Co-activator/repressors	NA
+Urocitellus_parryii	CHD1	ENSUPAG00010004368	CHD	113180730
+Urocitellus_parryii	SKI	ENSUPAG00010004373	SKI	NA
+Urocitellus_parryii	PID1	ENSUPAG00010004402	Others	NA
+Urocitellus_parryii	MED4	ENSUPAG00010004439	Mediator complex	113186276
+Urocitellus_parryii	EDRF1	ENSUPAG00010004494	Others	113179577
+Urocitellus_parryii	EPC2	ENSUPAG00010004529	Others	NA
+Urocitellus_parryii	MACROH2A2	ENSUPAG00010004534	Others	NA
+Urocitellus_parryii		ENSUPAG00010004547	Others	NA
+Urocitellus_parryii	STRAP	ENSUPAG00010004554	Others	113185000
+Urocitellus_parryii	HELZ2	ENSUPAG00010004576	Others	NA
+Urocitellus_parryii	ITCH	ENSUPAG00010004671	Others	NA
+Urocitellus_parryii	PRAME	ENSUPAG00010004679	Others	113178106
+Urocitellus_parryii	RALY	ENSUPAG00010004731	Others	NA
+Urocitellus_parryii	CBFA2T2	ENSUPAG00010004884	Others	NA
+Urocitellus_parryii		ENSUPAG00010004887	Mediator complex	NA
+Urocitellus_parryii	RUVBL1	ENSUPAG00010004889	Other_CRF	113198267
+Urocitellus_parryii	MCIDAS	ENSUPAG00010004982	Others	113180776
+Urocitellus_parryii	NEO1	ENSUPAG00010004993	Others	113182035
+Urocitellus_parryii	NCL	ENSUPAG00010005009	Others	NA
+Urocitellus_parryii	BRD2	ENSUPAG00010005033	Bromodomain	113179036
+Urocitellus_parryii	SDR16C5	ENSUPAG00010005049	Others	NA
+Urocitellus_parryii	RBFOX2	ENSUPAG00010005052	Others	NA
+Urocitellus_parryii	ZNF451	ENSUPAG00010005180	Zinc finger	NA
+Urocitellus_parryii	PML	ENSUPAG00010005190	Others	113182074
+Urocitellus_parryii	OGT	ENSUPAG00010005205	Others	NA
+Urocitellus_parryii	HDAC4	ENSUPAG00010005212	Histone deacetylase	NA
+Urocitellus_parryii	LRRK2	ENSUPAG00010005215	Other_CRF	113196558
+Urocitellus_parryii	TAF6L	ENSUPAG00010005260	TATA-box	113195906
+Urocitellus_parryii		ENSUPAG00010005288	TATA-box	NA
+Urocitellus_parryii	PAWR	ENSUPAG00010005305	Others	NA
+Urocitellus_parryii	LPIN2	ENSUPAG00010005308	LPIN	113186921
+Urocitellus_parryii	KDM5A	ENSUPAG00010005310	Lysine demethylase	NA
+Urocitellus_parryii	BRD1	ENSUPAG00010005315	Bromodomain	NA
+Urocitellus_parryii	HDAC1	ENSUPAG00010005322	Histone deacetylase	NA
+Urocitellus_parryii	DHX9	ENSUPAG00010005390	RNA helicase	113185667
+Urocitellus_parryii	ANXA4	ENSUPAG00010005426	Others	NA
+Urocitellus_parryii	ABT1	ENSUPAG00010005543	Others	113195963
+Urocitellus_parryii	CCNT2	ENSUPAG00010005558	Cyclin	NA
+Urocitellus_parryii	TNIP2	ENSUPAG00010005563	Others	NA
+Urocitellus_parryii	KDM2B	ENSUPAG00010005594	Lysine demethylase	NA
+Urocitellus_parryii		ENSUPAG00010005597	Others	NA
+Urocitellus_parryii	RNF4	ENSUPAG00010005616	Ring finger protein	NA
+Urocitellus_parryii		ENSUPAG00010005619	MBD	NA
+Urocitellus_parryii	MBD3L1	ENSUPAG00010005629	MBD	113198974
+Urocitellus_parryii	NONO	ENSUPAG00010005675	Others	NA
+Urocitellus_parryii		ENSUPAG00010005713	Others	NA
+Urocitellus_parryii	PRMT6	ENSUPAG00010005729	Arginine methyltransferase	NA
+Urocitellus_parryii	SIN3A	ENSUPAG00010005790	Other_CRF	113182040
+Urocitellus_parryii	SAP130	ENSUPAG00010005822	SAP	NA
+Urocitellus_parryii	MED12	ENSUPAG00010005824	Mediator complex	NA
+Urocitellus_parryii		ENSUPAG00010005834	Others	NA
+Urocitellus_parryii		ENSUPAG00010005837	Others	NA
+Urocitellus_parryii	XRCC6	ENSUPAG00010005843	Others	NA
+Urocitellus_parryii	SUPT7L	ENSUPAG00010005879	SUPT	NA
+Urocitellus_parryii	H1-4	ENSUPAG00010005887	Histone cluster 1 H1	NA
+Urocitellus_parryii	H1-6	ENSUPAG00010005899	Histone cluster 1 H1	113195949
+Urocitellus_parryii	PHF5A	ENSUPAG00010005980	PHF	NA
+Urocitellus_parryii	TOB2	ENSUPAG00010005994	Others	NA
+Urocitellus_parryii	NELFB	ENSUPAG00010006009	GTF	113187651
+Urocitellus_parryii	CDK8	ENSUPAG00010006034	Cyclin	113199602
+Urocitellus_parryii	ZNF638	ENSUPAG00010006058	Zinc finger	113194126
+Urocitellus_parryii	RNF6	ENSUPAG00010006079	Ring finger protein	NA
+Urocitellus_parryii	L3MBTL2	ENSUPAG00010006102	Others	113194723
+Urocitellus_parryii	EP300	ENSUPAG00010006142	Others	NA
+Urocitellus_parryii	ERCC3	ENSUPAG00010006159	Others	113182970
+Urocitellus_parryii	RLIM	ENSUPAG00010006168	Ring finger protein	NA
+Urocitellus_parryii	RBX1	ENSUPAG00010006183	Others	NA
+Urocitellus_parryii	GMNN	ENSUPAG00010006223	Others	NA
+Urocitellus_parryii	KDM6A	ENSUPAG00010006233	Lysine demethylase	NA
+Urocitellus_parryii	APBB1	ENSUPAG00010006285	Others	113200807
+Urocitellus_parryii	AGO2	ENSUPAG00010006287	Others	NA
+Urocitellus_parryii	MRTFA	ENSUPAG00010006297	Others	NA
+Urocitellus_parryii	CD3D	ENSUPAG00010006334	Others	113188139
+Urocitellus_parryii	SKAP1	ENSUPAG00010006345	Others	NA
+Urocitellus_parryii	CBX1	ENSUPAG00010006381	Chromobox	NA
+Urocitellus_parryii	FGFR2	ENSUPAG00010006384	FGF	113179562
+Urocitellus_parryii		ENSUPAG00010006395	Lysine methyltransferase	NA
+Urocitellus_parryii	TDP2	ENSUPAG00010006423	Others	NA
+Urocitellus_parryii	EDF1	ENSUPAG00010006437	Others	NA
+Urocitellus_parryii	CDK5RAP3	ENSUPAG00010006466	Cyclin	113181307
+Urocitellus_parryii	TRIM28	ENSUPAG00010006492	Tripartite motif	113175470
+Urocitellus_parryii	XIAP	ENSUPAG00010006638	Others	NA
+Urocitellus_parryii	MED10	ENSUPAG00010006667	Mediator complex	NA
+Urocitellus_parryii	TBP	ENSUPAG00010006675	TATA-box	113176287
+Urocitellus_parryii	DHX36	ENSUPAG00010006741	RNA helicase	NA
+Urocitellus_parryii	NOTCH1	ENSUPAG00010006771	Notch	NA
+Urocitellus_parryii	CDK5	ENSUPAG00010006800	Cyclin	NA
+Urocitellus_parryii	SSBP2	ENSUPAG00010006805	Others	NA
+Urocitellus_parryii	BCL9L	ENSUPAG00010006821	BCL	NA
+Urocitellus_parryii	TENM1	ENSUPAG00010006864	Others	113199645
+Urocitellus_parryii	MDM4	ENSUPAG00010006879	Others	NA
+Urocitellus_parryii	GNL3	ENSUPAG00010006908	Others	NA
+Urocitellus_parryii	TCERG1L	ENSUPAG00010006942	TEF	113197780
+Urocitellus_parryii	MLLT6	ENSUPAG00010006969	Others	NA
+Urocitellus_parryii	TRRAP	ENSUPAG00010006983	Others	113193565
+Urocitellus_parryii	PHF2	ENSUPAG00010006992	PHF	NA
+Urocitellus_parryii	DNTTIP2	ENSUPAG00010007018	Others	113192835
+Urocitellus_parryii	PCGF2	ENSUPAG00010007076	PCGF	NA
+Urocitellus_parryii	COPS5	ENSUPAG00010007096	Others	NA
+Urocitellus_parryii	CCND1	ENSUPAG00010007111	Cyclin	NA
+Urocitellus_parryii	DR1	ENSUPAG00010007132	Others	NA
+Urocitellus_parryii	BTG1	ENSUPAG00010007152	Others	NA
+Urocitellus_parryii	MTF2	ENSUPAG00010007198	Others	113192844
+Urocitellus_parryii	ILK	ENSUPAG00010007263	Others	NA
+Urocitellus_parryii	TAF10	ENSUPAG00010007279	TATA-box	NA
+Urocitellus_parryii		ENSUPAG00010007295	TEF	NA
+Urocitellus_parryii	TESC	ENSUPAG00010007437	Others	113180897
+Urocitellus_parryii	RPAP2	ENSUPAG00010007445	Others	NA
+Urocitellus_parryii	SMARCD3	ENSUPAG00010007449	SWI/SNF	NA
+Urocitellus_parryii	CEP290	ENSUPAG00010007458	Others	113189104
+Urocitellus_parryii	MED1	ENSUPAG00010007468	Mediator complex	NA
+Urocitellus_parryii	KMT5B	ENSUPAG00010007478	Lysine methyltransferase	NA
+Urocitellus_parryii	CDK12	ENSUPAG00010007498	Cyclin	NA
+Urocitellus_parryii	MED13L	ENSUPAG00010007504	Mediator complex	NA
+Urocitellus_parryii	PRDX5	ENSUPAG00010007537	Others	NA
+Urocitellus_parryii	SRA1	ENSUPAG00010007542	Others	NA
+Urocitellus_parryii	LEO1	ENSUPAG00010007559	Others	113184223
+Urocitellus_parryii	SMURF1	ENSUPAG00010007614	Others	NA
+Urocitellus_parryii	INO80D	ENSUPAG00010007624	INO80 complex	NA
+Urocitellus_parryii	ERBB2	ENSUPAG00010007639	Erbb2	113181263
+Urocitellus_parryii	SAV1	ENSUPAG00010007736	Others	NA
+Urocitellus_parryii	EPC1	ENSUPAG00010007788	Others	NA
+Urocitellus_parryii	BUD31	ENSUPAG00010007837	Others	NA
+Urocitellus_parryii	TOPORS	ENSUPAG00010007847	Others	NA
+Urocitellus_parryii	AIP	ENSUPAG00010007946	Others	NA
+Urocitellus_parryii	MED24	ENSUPAG00010008015	Mediator complex	NA
+Urocitellus_parryii	APEX1	ENSUPAG00010008064	Others	113199118
+Urocitellus_parryii	SLC25A2	ENSUPAG00010008107	SLC	113179733
+Urocitellus_parryii	TAF7	ENSUPAG00010008113	TATA-box	NA
+Urocitellus_parryii	TAF9B	ENSUPAG00010008118	TATA-box	NA
+Urocitellus_parryii	PRMT2	ENSUPAG00010008124	Arginine methyltransferase	113175556
+Urocitellus_parryii	NPAT	ENSUPAG00010008128	Nuclear coactivator	113189987
+Urocitellus_parryii	SIRT1	ENSUPAG00010008156	Sirtuin	NA
+Urocitellus_parryii	CALR	ENSUPAG00010008184	Others	113190396
+Urocitellus_parryii	TLE2	ENSUPAG00010008216	Transducin	113193601
+Urocitellus_parryii	WWTR1	ENSUPAG00010008228	WW	NA
+Urocitellus_parryii	KDM2A	ENSUPAG00010008235	Lysine demethylase	113188389
+Urocitellus_parryii	CNOT6L	ENSUPAG00010008241	CCR4-NOT	NA
+Urocitellus_parryii	TLE5	ENSUPAG00010008263	Others	NA
+Urocitellus_parryii	CRYM	ENSUPAG00010008365	Others	113192352
+Urocitellus_parryii	KDM5B	ENSUPAG00010008412	Lysine demethylase	NA
+Urocitellus_parryii	TAF4	ENSUPAG00010008419	TATA-box	NA
+Urocitellus_parryii	RITA1	ENSUPAG00010008446	Others	NA
+Urocitellus_parryii	DDX54	ENSUPAG00010008454	RNA helicase	NA
+Urocitellus_parryii	SS18L1	ENSUPAG00010008474	SS18	NA
+Urocitellus_parryii	COPS2	ENSUPAG00010008477	Others	113184728
+Urocitellus_parryii	ELP1	ENSUPAG00010008488	ELP	NA
+Urocitellus_parryii	CCAR1	ENSUPAG00010008541	Others	NA
+Urocitellus_parryii	DTX1	ENSUPAG00010008557	Others	113199190
+Urocitellus_parryii	WDR5	ENSUPAG00010008588	WD	NA
+Urocitellus_parryii	EID1	ENSUPAG00010008597	EID	NA
+Urocitellus_parryii	BRD3	ENSUPAG00010008619	Bromodomain	NA
+Urocitellus_parryii	TRIB1	ENSUPAG00010008649	Others	NA
+Urocitellus_parryii	NUDT5	ENSUPAG00010008681	Other_CRF	NA
+Urocitellus_parryii	BRMS1	ENSUPAG00010008786	Other_CRF	113188273
+Urocitellus_parryii	CCNT1	ENSUPAG00010008871	Cyclin	NA
+Urocitellus_parryii	CNOT11	ENSUPAG00010008934	CCR4-NOT	NA
+Urocitellus_parryii	REXO4	ENSUPAG00010008958	Others	NA
+Urocitellus_parryii		ENSUPAG00010008976	Others	NA
+Urocitellus_parryii	CDYL2	ENSUPAG00010008980	Chromodomain Y	NA
+Urocitellus_parryii	CNOT7	ENSUPAG00010009004	CCR4-NOT	NA
+Urocitellus_parryii	MNAT1	ENSUPAG00010009017	Others	NA
+Urocitellus_parryii	TNNI2	ENSUPAG00010009030	Others	NA
+Urocitellus_parryii	WWOX	ENSUPAG00010009031	WW	NA
+Urocitellus_parryii		ENSUPAG00010009070	MAGE	NA
+Urocitellus_parryii	PHF21A	ENSUPAG00010009105	PHF	113190032
+Urocitellus_parryii	RIPK3	ENSUPAG00010009162	Others	NA
+Urocitellus_parryii	JUP	ENSUPAG00010009167	Others	NA
+Urocitellus_parryii	DRAP1	ENSUPAG00010009170	Others	113188288
+Urocitellus_parryii	CCDC85B	ENSUPAG00010009218	Coiled-coil	NA
+Urocitellus_parryii	MED22	ENSUPAG00010009242	Mediator complex	NA
+Urocitellus_parryii		ENSUPAG00010009258	Others	NA
+Urocitellus_parryii	SMYD2	ENSUPAG00010009330	SMYD	NA
+Urocitellus_parryii	DAPK3	ENSUPAG00010009346	Others	NA
+Urocitellus_parryii	CENPF	ENSUPAG00010009384	CENP	NA
+Urocitellus_parryii	HDAC11	ENSUPAG00010009388	Histone deacetylase	113201391
+Urocitellus_parryii	KAT5	ENSUPAG00010009430	Lysine acetyltransferase	113188226
+Urocitellus_parryii	SIRT6	ENSUPAG00010009478	Sirtuin	113193677
+Urocitellus_parryii	MRGBP	ENSUPAG00010009485	Others	NA
+Urocitellus_parryii	KAT2A	ENSUPAG00010009504	Lysine acetyltransferase	113181457
+Urocitellus_parryii	INO80E	ENSUPAG00010009549	INO80 complex	113176467
+Urocitellus_parryii	WNT3A	ENSUPAG00010009580	Others	NA
+Urocitellus_parryii	NFKBIB	ENSUPAG00010009598	NFKB associated	113199252
+Urocitellus_parryii	SIRT2	ENSUPAG00010009610	Sirtuin	NA
+Urocitellus_parryii	XRN2	ENSUPAG00010009667	Others	NA
+Urocitellus_parryii	MCRS1	ENSUPAG00010009699	Others	NA
+Urocitellus_parryii	CAVIN1	ENSUPAG00010009709	Others	113181297
+Urocitellus_parryii	DDX1	ENSUPAG00010009711	RNA helicase	113187008
+Urocitellus_parryii	ARHGAP35	ENSUPAG00010009739	Others	NA
+Urocitellus_parryii	PPRC1	ENSUPAG00010009814	Others	113196149
+Urocitellus_parryii	KAT6B	ENSUPAG00010009815	Lysine acetyltransferase	113183777
+Urocitellus_parryii	POLR3C	ENSUPAG00010009818	POLR	113176489
+Urocitellus_parryii	ACTN4	ENSUPAG00010009820	Actin	113199242
+Urocitellus_parryii	LDB1	ENSUPAG00010009826	LIM	NA
+Urocitellus_parryii	DPF2	ENSUPAG00010009890	DPF	113188281
+Urocitellus_parryii	LPIN1	ENSUPAG00010009943	LPIN	113182834
+Urocitellus_parryii	EZH1	ENSUPAG00010009961	Others	113181317
+Urocitellus_parryii		ENSUPAG00010009975	Others	NA
+Urocitellus_parryii	CCNE1	ENSUPAG00010010001	Cyclin	NA
+Urocitellus_parryii	ASCC3	ENSUPAG00010010003	ASCC	NA
+Urocitellus_parryii	URI1	ENSUPAG00010010020	Others	NA
+Urocitellus_parryii	TXNIP	ENSUPAG00010010057	Others	113176480
+Urocitellus_parryii	NPM3	ENSUPAG00010010073	Nucleoplasmin	113196160
+Urocitellus_parryii		ENSUPAG00010010097	SWI/SNF	NA
+Urocitellus_parryii	KDM4B	ENSUPAG00010010101	Lysine demethylase	NA
+Urocitellus_parryii	CCNC	ENSUPAG00010010134	Cyclin	113192380
+Urocitellus_parryii	BTK	ENSUPAG00010010154	Others	NA
+Urocitellus_parryii	TAF7L	ENSUPAG00010010197	TATA-box	NA
+Urocitellus_parryii	BTRC	ENSUPAG00010010245	Others	NA
+Urocitellus_parryii	ELL3	ENSUPAG00010010367	GTF	113185859
+Urocitellus_parryii	TNP1	ENSUPAG00010010377	Other_CRF	NA
+Urocitellus_parryii	RBBP8	ENSUPAG00010010428	RBBP	NA
+Urocitellus_parryii	GTF2H1	ENSUPAG00010010513	GTF	NA
+Urocitellus_parryii	TSG101	ENSUPAG00010010565	Others	113200893
+Urocitellus_parryii	PDLIM1	ENSUPAG00010010593	Others	113187121
+Urocitellus_parryii	TGFB1	ENSUPAG00010010599	Others	NA
+Urocitellus_parryii		ENSUPAG00010010674	Other_Co-activator/repressors	NA
+Urocitellus_parryii		ENSUPAG00010010677	Others	113187337
+Urocitellus_parryii	CDYL	ENSUPAG00010010685	Chromodomain Y	113195549
+Urocitellus_parryii	HAT1	ENSUPAG00010010712	Others	113183278
+Urocitellus_parryii	WTIP	ENSUPAG00010010767	Others	NA
+Urocitellus_parryii	NCOA2	ENSUPAG00010010786	Nuclear receptor coactivator	NA
+Urocitellus_parryii	PLK1	ENSUPAG00010010813	Others	NA
+Urocitellus_parryii	IKBKG	ENSUPAG00010010819	Others	NA
+Urocitellus_parryii	SERTAD2	ENSUPAG00010010839	Others	NA
+Urocitellus_parryii	EYA1	ENSUPAG00010010877	EYA	NA
+Urocitellus_parryii	MEN1	ENSUPAG00010010886	Others	NA
+Urocitellus_parryii		ENSUPAG00010010893	Others	NA
+Urocitellus_parryii	BRIP1	ENSUPAG00010010903	Others	113189311
+Urocitellus_parryii	MNDA	ENSUPAG00010010911	Others	NA
+Urocitellus_parryii	PELI1	ENSUPAG00010010945	Others	NA
+Urocitellus_parryii	AIM2	ENSUPAG00010010949	Others	113196224
+Urocitellus_parryii	SF1	ENSUPAG00010010986	Others	NA
+Urocitellus_parryii	TLE1	ENSUPAG00010011030	Transducin	NA
+Urocitellus_parryii	BCAS3	ENSUPAG00010011040	Others	NA
+Urocitellus_parryii	CTNNB1	ENSUPAG00010011046	Casein	113191753
+Urocitellus_parryii	CIITA	ENSUPAG00010011088	Others	NA
+Urocitellus_parryii	DCAF6	ENSUPAG00010011091	Others	NA
+Urocitellus_parryii	BRCA2	ENSUPAG00010011103	Others	113200937
+Urocitellus_parryii	PHF19	ENSUPAG00010011123	PHF	NA
+Urocitellus_parryii	KDM8	ENSUPAG00010011213	Lysine demethylase	NA
+Urocitellus_parryii	AJUBA	ENSUPAG00010011224	Others	113194810
+Urocitellus_parryii	PRMT5	ENSUPAG00010011261	Arginine methyltransferase	113194817
+Urocitellus_parryii		ENSUPAG00010011263	Others	NA
+Urocitellus_parryii	ARGLU1	ENSUPAG00010011266	Others	NA
+Urocitellus_parryii		ENSUPAG00010011281	Others	NA
+Urocitellus_parryii	ANKRD1	ENSUPAG00010011335	Ankyrin repeat	113188829
+Urocitellus_parryii	DPF1	ENSUPAG00010011350	DPF	NA
+Urocitellus_parryii	PCGF5	ENSUPAG00010011353	PCGF	NA
+Urocitellus_parryii	HSPA2	ENSUPAG00010011385	Heat shock protein	NA
+Urocitellus_parryii	TRIM27	ENSUPAG00010011396	Tripartite motif	NA
+Urocitellus_parryii	AATF	ENSUPAG00010011404	Others	NA
+Urocitellus_parryii	ECD	ENSUPAG00010011448	Others	NA
+Urocitellus_parryii	NFATC2IP	ENSUPAG00010011493	Nuclear coactivator	NA
+Urocitellus_parryii	TAF1B	ENSUPAG00010011508	TATA-box	113196029
+Urocitellus_parryii		ENSUPAG00010011538	Others	NA
+Urocitellus_parryii	MED27	ENSUPAG00010011579	Mediator complex	113187627
+Urocitellus_parryii	CNOT1	ENSUPAG00010011626	CCR4-NOT	113187693
+Urocitellus_parryii	CHEK2	ENSUPAG00010011646	Others	113199287
+Urocitellus_parryii	BTAF1	ENSUPAG00010011669	Others	113188855
+Urocitellus_parryii	HIRA	ENSUPAG00010011725	Others	113191842
+Urocitellus_parryii	BCL10	ENSUPAG00010011755	BCL	NA
+Urocitellus_parryii	PARK7	ENSUPAG00010011769	Others	NA
+Urocitellus_parryii	SETD6	ENSUPAG00010011793	SET	NA
+Urocitellus_parryii		ENSUPAG00010011802	Transducin	NA
+Urocitellus_parryii	TP53BP1	ENSUPAG00010011808	Others	113184506
+Urocitellus_parryii	KMT2B	ENSUPAG00010011832	Lysine methyltransferase	113175739
+Urocitellus_parryii	CTDSP1	ENSUPAG00010011867	Others	NA
+Urocitellus_parryii	HCFC1	ENSUPAG00010011877	Others	NA
+Urocitellus_parryii	LANCL2	ENSUPAG00010011884	Others	NA
+Urocitellus_parryii	ASF1B	ENSUPAG00010011900	Others	113190500
+Urocitellus_parryii	EGFR	ENSUPAG00010011920	Others	NA
+Urocitellus_parryii	CSNK2A2	ENSUPAG00010011923	Casein	NA
+Urocitellus_parryii	SGF29	ENSUPAG00010011936	Others	113185132
+Urocitellus_parryii	MED15	ENSUPAG00010011965	Mediator complex	NA
+Urocitellus_parryii	RAP2C	ENSUPAG00010011988	Others	NA
+Urocitellus_parryii	THRSP	ENSUPAG00010011995	Others	NA
+Urocitellus_parryii	RSF1	ENSUPAG00010012048	Others	NA
+Urocitellus_parryii	HDAC3	ENSUPAG00010012085	Histone deacetylase	113179692
+Urocitellus_parryii	CAMK4	ENSUPAG00010012093	CAMK	NA
+Urocitellus_parryii	ATN1	ENSUPAG00010012129	Others	NA
+Urocitellus_parryii	MAML3	ENSUPAG00010012184	MAML	NA
+Urocitellus_parryii	SS18L2	ENSUPAG00010012192	SS18	NA
+Urocitellus_parryii	SETD7	ENSUPAG00010012201	SET	NA
+Urocitellus_parryii	NAA15	ENSUPAG00010012214	Others	NA
+Urocitellus_parryii	CNOT9	ENSUPAG00010012221	CCR4-NOT	NA
+Urocitellus_parryii	RNF14	ENSUPAG00010012274	Ring finger protein	NA
+Urocitellus_parryii	RNF25	ENSUPAG00010012304	Ring finger protein	113183873
+Urocitellus_parryii	STK36	ENSUPAG00010012312	Others	NA
+Urocitellus_parryii	STRN3	ENSUPAG00010012325	Others	NA
+Urocitellus_parryii	ACTN1	ENSUPAG00010012346	Actin	113180300
+Urocitellus_parryii	NELFCD	ENSUPAG00010012356	GTF	113199338
+Urocitellus_parryii	FGF1	ENSUPAG00010012366	FGF	113179684
+Urocitellus_parryii	MALT1	ENSUPAG00010012381	Others	NA
+Urocitellus_parryii	GTF2A1	ENSUPAG00010012382	GTF	NA
+Urocitellus_parryii	HDAC9	ENSUPAG00010012420	Histone deacetylase	NA
+Urocitellus_parryii	NFKBID	ENSUPAG00010012437	NFKB associated	NA
+Urocitellus_parryii	WAC	ENSUPAG00010012460	WW	NA
+Urocitellus_parryii	CECR2	ENSUPAG00010012462	Other_CRF	113200440
+Urocitellus_parryii	PRMT8	ENSUPAG00010012621	Arginine methyltransferase	NA
+Urocitellus_parryii	SIAH2	ENSUPAG00010012632	Others	NA
+Urocitellus_parryii	ING4	ENSUPAG00010012637	ING	NA
+Urocitellus_parryii	TAB3	ENSUPAG00010012656	Others	113192481
+Urocitellus_parryii	MED12L	ENSUPAG00010012669	Mediator complex	113196332
+Urocitellus_parryii	H2AZ1	ENSUPAG00010012688	Others	113189383
+Urocitellus_parryii		ENSUPAG00010012693	CHD	113192937
+Urocitellus_parryii		ENSUPAG00010012720	SS18	NA
+Urocitellus_parryii	TCERG1	ENSUPAG00010012722	TEF	113179648
+Urocitellus_parryii	CAMK2D	ENSUPAG00010012766	CAMK	NA
+Urocitellus_parryii	SFMBT1	ENSUPAG00010012769	Others	NA
+Urocitellus_parryii	EHMT1	ENSUPAG00010012773	Histone lysine methyltransferase	113201452
+Urocitellus_parryii	ARL2BP	ENSUPAG00010012796	Others	NA
+Urocitellus_parryii	TAF4B	ENSUPAG00010012814	TATA-box	113182250
+Urocitellus_parryii	SNW1	ENSUPAG00010012840	Others	NA
+Urocitellus_parryii	KCTD1	ENSUPAG00010012862	Others	NA
+Urocitellus_parryii	MAML1	ENSUPAG00010012921	MAML	NA
+Urocitellus_parryii	NRIP2	ENSUPAG00010012925	Nuclear coactivator	113195641
+Urocitellus_parryii	RBMXL1	ENSUPAG00010012952	RNA binding protein	NA
+Urocitellus_parryii	SQSTM1	ENSUPAG00010012981	Others	NA
+Urocitellus_parryii	EMSY	ENSUPAG00010013019	Others	113181684
+Urocitellus_parryii	PIR	ENSUPAG00010013104	Others	NA
+Urocitellus_parryii	STK3	ENSUPAG00010013132	Others	NA
+Urocitellus_parryii	RUVBL2	ENSUPAG00010013144	Other_CRF	113194939
+Urocitellus_parryii	TTF2	ENSUPAG00010013148	Others	NA
+Urocitellus_parryii	DOT1L	ENSUPAG00010013151	Others	NA
+Urocitellus_parryii	ADRB2	ENSUPAG00010013166	Others	NA
+Urocitellus_parryii	VGLL1	ENSUPAG00010013182	Vestigial like	NA
+Urocitellus_parryii	HTATSF1	ENSUPAG00010013190	Others	NA
+Urocitellus_parryii	AXIN1	ENSUPAG00010013191	Others	113180464
+Urocitellus_parryii	CSRP3	ENSUPAG00010013238	Others	NA
+Urocitellus_parryii	IRF2BPL	ENSUPAG00010013317	Others	NA
+Urocitellus_parryii	MTDH	ENSUPAG00010013325	Others	NA
+Urocitellus_parryii	CCDC59	ENSUPAG00010013356	Coiled-coil	NA
+Urocitellus_parryii	TXLNG	ENSUPAG00010013379	Others	NA
+Urocitellus_parryii	RBBP7	ENSUPAG00010013404	RBBP	113188414
+Urocitellus_parryii	RING1	ENSUPAG00010013424	Ring finger protein	NA
+Urocitellus_parryii	ACTR8	ENSUPAG00010013432	ACTR	NA
+Urocitellus_parryii	KMT2E	ENSUPAG00010013434	Lysine methyltransferase	NA
+Urocitellus_parryii	JMY	ENSUPAG00010013443	Others	NA
+Urocitellus_parryii	PPARGC1B	ENSUPAG00010013478	Others	NA
+Urocitellus_parryii	ARRB1	ENSUPAG00010013533	Others	NA
+Urocitellus_parryii	CNOT6	ENSUPAG00010013547	CCR4-NOT	NA
+Urocitellus_parryii	SCAI	ENSUPAG00010013570	Others	NA
+Urocitellus_parryii	TRIM37	ENSUPAG00010013575	Tripartite motif	113195691
+Urocitellus_parryii	PIH1D1	ENSUPAG00010013578	Other_CRF	NA
+Urocitellus_parryii	HTATIP2	ENSUPAG00010013589	Others	NA
+Urocitellus_parryii	NSD1	ENSUPAG00010013591	Nuclear receptor coactivator	NA
+Urocitellus_parryii	DAXX	ENSUPAG00010013614	Other_CRF	113179069
+Urocitellus_parryii	PHF1	ENSUPAG00010013695	PHF	NA
+Urocitellus_parryii	BRD7	ENSUPAG00010013735	Bromodomain	NA
+Urocitellus_parryii	TASOR	ENSUPAG00010013761	FAM	NA
+Urocitellus_parryii	CITED4	ENSUPAG00010013767	CITED	113199797
+Urocitellus_parryii	SCMH1	ENSUPAG00010013807	Others	113199805
+Urocitellus_parryii	KDM4C	ENSUPAG00010013809	Lysine demethylase	113184685
+Urocitellus_parryii	NOD2	ENSUPAG00010013810	Others	113185221
+Urocitellus_parryii	RIPPLY1	ENSUPAG00010013869	Others	NA
+Urocitellus_parryii	PRMT1	ENSUPAG00010013901	Arginine methyltransferase	113195024
+Urocitellus_parryii	SUPT4H1	ENSUPAG00010014012	SUPT	NA
+Urocitellus_parryii	CHD9	ENSUPAG00010014099	CHD	NA
+Urocitellus_parryii	NLRP3	ENSUPAG00010014117	Others	113177578
+Urocitellus_parryii	SLC26A3	ENSUPAG00010014119	SLC	113187773
+Urocitellus_parryii	RBL2	ENSUPAG00010014149	Other_Co-activator/repressors	NA
+Urocitellus_parryii	RBBP5	ENSUPAG00010014156	RBBP	NA
+Urocitellus_parryii	HDGFL3	ENSUPAG00010014172	Others	NA
+Urocitellus_parryii	RUNX1T1	ENSUPAG00010014181	Others	NA
+Urocitellus_parryii	NIBAN2	ENSUPAG00010014186	FAM	113181139
+Urocitellus_parryii	DEPDC1	ENSUPAG00010014188	Others	113197506
+Urocitellus_parryii	PCBD2	ENSUPAG00010014239	Others	NA
+Urocitellus_parryii	NCK1	ENSUPAG00010014258	Others	NA
+Urocitellus_parryii	MED25	ENSUPAG00010014262	Mediator complex	113194946
+Urocitellus_parryii	ENY2	ENSUPAG00010014269	Others	NA
+Urocitellus_parryii	DVL2	ENSUPAG00010014286	Others	NA
+Urocitellus_parryii	NIPBL	ENSUPAG00010014346	Others	113191894
+Urocitellus_parryii	CDK9	ENSUPAG00010014391	Cyclin	113181045
+Urocitellus_parryii	ABRA	ENSUPAG00010014421	Actin	NA
+Urocitellus_parryii	FHOD3	ENSUPAG00010014473	Others	113190629
+Urocitellus_parryii	ENG	ENSUPAG00010014476	Others	NA
+Urocitellus_parryii	GPS2	ENSUPAG00010014484	Others	NA
+Urocitellus_parryii	TAF11	ENSUPAG00010014501	TATA-box	113179140
+Urocitellus_parryii	ALPK3	ENSUPAG00010014511	Others	NA
+Urocitellus_parryii	NUP62	ENSUPAG00010014523	Others	NA
+Urocitellus_parryii	CTH	ENSUPAG00010014528	Others	NA
+Urocitellus_parryii	MMS19	ENSUPAG00010014546	Others	113187165
+Urocitellus_parryii	TRAK2	ENSUPAG00010014606	Others	NA
+Urocitellus_parryii	MED9	ENSUPAG00010014607	Mediator complex	NA
+Urocitellus_parryii	BDP1	ENSUPAG00010014613	GTF	NA
+Urocitellus_parryii	RASD1	ENSUPAG00010014622	Others	113196669
+Urocitellus_parryii	RTF1	ENSUPAG00010014636	Others	NA
+Urocitellus_parryii	MED16	ENSUPAG00010014641	Mediator complex	NA
+Urocitellus_parryii	ANKRD2	ENSUPAG00010014650	Ankyrin repeat	NA
+Urocitellus_parryii	RAI1	ENSUPAG00010014657	Others	NA
+Urocitellus_parryii		ENSUPAG00010014667	TEF	113175806
+Urocitellus_parryii	ELANE	ENSUPAG00010014669	Others	113200514
+Urocitellus_parryii		ENSUPAG00010014682	Others	NA
+Urocitellus_parryii		ENSUPAG00010014825	INO80 complex	NA
+Urocitellus_parryii	CDK1	ENSUPAG00010014842	Cyclin	NA
+Urocitellus_parryii	ELP2	ENSUPAG00010014926	ELP	NA
+Urocitellus_parryii	BLM	ENSUPAG00010014964	Others	113182307
+Urocitellus_parryii		ENSUPAG00010014978	MAGE	NA
+Urocitellus_parryii	RPRD1A	ENSUPAG00010014997	Others	113190638
+Urocitellus_parryii	ORC2	ENSUPAG00010015014	Others	113194305
+Urocitellus_parryii	BTF3	ENSUPAG00010015040	Others	NA
+Urocitellus_parryii	TRIM25	ENSUPAG00010015054	Tripartite motif	NA
+Urocitellus_parryii	RNF20	ENSUPAG00010015055	Ring finger protein	NA
+Urocitellus_parryii	INO80C	ENSUPAG00010015060	INO80 complex	113190637
+Urocitellus_parryii	ANKRA2	ENSUPAG00010015076	Ankyrin repeat	NA
+Urocitellus_parryii	NRBF2	ENSUPAG00010015104	Nuclear receptor coactivator	NA
+Urocitellus_parryii	JMJD1C	ENSUPAG00010015120	Other_CRF	NA
+Urocitellus_parryii	POLR2A	ENSUPAG00010015140	POLR	113183955
+Urocitellus_parryii	NIF3L1	ENSUPAG00010015151	Others	NA
+Urocitellus_parryii	CRTC2	ENSUPAG00010015170	CREB	NA
+Urocitellus_parryii	CDK2	ENSUPAG00010015183	Cyclin	113189518
+Urocitellus_parryii	BANP	ENSUPAG00010015194	Others	113191956
+Urocitellus_parryii		ENSUPAG00010015303	Others	NA
+Urocitellus_parryii	TAF13	ENSUPAG00010015364	TATA-box	NA
+Urocitellus_parryii	SAP30	ENSUPAG00010015378	SAP	113183444
+Urocitellus_parryii	CXXC1	ENSUPAG00010015403	Others	113186352
+Urocitellus_parryii	PSEN1	ENSUPAG00010015426	Others	NA
+Urocitellus_parryii	CREG1	ENSUPAG00010015430	Others	113175835
+Urocitellus_parryii	MED21	ENSUPAG00010015431	Mediator complex	NA
+Urocitellus_parryii	NOC2L	ENSUPAG00010015435	Others	NA
+Urocitellus_parryii	FLII	ENSUPAG00010015459	Others	113196658
+Urocitellus_parryii	ILF2	ENSUPAG00010015468	Others	NA
+Urocitellus_parryii	CHTOP	ENSUPAG00010015512	Others	NA
+Urocitellus_parryii	HIPK2	ENSUPAG00010015519	HIPK	NA
+Urocitellus_parryii	DPF3	ENSUPAG00010015555	DPF	113191788
+Urocitellus_parryii	DNAJB4	ENSUPAG00010015599	Others	NA
+Urocitellus_parryii	KDM7A	ENSUPAG00010015626	Lysine demethylase	NA
+Urocitellus_parryii	LIMD1	ENSUPAG00010015694	LIM	NA
+Urocitellus_parryii	KDM6B	ENSUPAG00010015706	Lysine demethylase	113183961
+Urocitellus_parryii	ING3	ENSUPAG00010015709	ING	113182712
+Urocitellus_parryii	GTF2B	ENSUPAG00010015723	GTF	NA
+Urocitellus_parryii	PHIP	ENSUPAG00010015746	Others	113197919
+Urocitellus_parryii	S100A8	ENSUPAG00010015757	Others	NA
+Urocitellus_parryii	S100A9	ENSUPAG00010015768	Others	NA
+Urocitellus_parryii	WWP1	ENSUPAG00010015775	WW	NA
+Urocitellus_parryii	CBFA2T3	ENSUPAG00010015810	Others	NA
+Urocitellus_parryii	CHD3	ENSUPAG00010015846	CHD	NA
+Urocitellus_parryii	BAZ1B	ENSUPAG00010015894	Bromodomain	NA
+Urocitellus_parryii	TIMELESS	ENSUPAG00010015979	Others	113189534
+Urocitellus_parryii	C6orf89	ENSUPAG00010015999	Other_CRF	NA
+Urocitellus_parryii	MAK	ENSUPAG00010016076	Others	NA
+Urocitellus_parryii	RBM15	ENSUPAG00010016124	RNA binding protein	NA
+Urocitellus_parryii	PIM1	ENSUPAG00010016150	Others	113179193
+Urocitellus_parryii	ITGB3BP	ENSUPAG00010016157	Others	NA
+Urocitellus_parryii	CTR9	ENSUPAG00010016173	Others	NA
+Urocitellus_parryii	RNF8	ENSUPAG00010016181	Ring finger protein	113179079
+Urocitellus_parryii	PINK1	ENSUPAG00010016201	Others	NA
+Urocitellus_parryii	LRIF1	ENSUPAG00010016206	Others	NA
+Urocitellus_parryii	DAB2	ENSUPAG00010016229	Others	NA
+Urocitellus_parryii	PAK6	ENSUPAG00010016257	Others	NA
+Urocitellus_parryii	ICE1	ENSUPAG00010016270	Others	113191973
+Urocitellus_parryii	SETD2	ENSUPAG00010016281	SET	NA
+Urocitellus_parryii	RNF141	ENSUPAG00010016286	Ring finger protein	NA
+Urocitellus_parryii	AURKAIP1	ENSUPAG00010016333	Others	NA
+Urocitellus_parryii	POLE4	ENSUPAG00010016344	Other_CRF	113188898
+Urocitellus_parryii	NACA	ENSUPAG00010016347	Others	113189558
+Urocitellus_parryii	AURKB	ENSUPAG00010016381	Others	NA
+Urocitellus_parryii	TRIM32	ENSUPAG00010016391	Tripartite motif	NA
+Urocitellus_parryii	MED6	ENSUPAG00010016393	Mediator complex	NA
+Urocitellus_parryii	LOXL3	ENSUPAG00010016491	Others	NA
+Urocitellus_parryii		ENSUPAG00010016507	Zinc finger	113192682
+Urocitellus_parryii	NAB2	ENSUPAG00010016528	Others	113189532
+Urocitellus_parryii	PPIE	ENSUPAG00010016536	Others	NA
+Urocitellus_parryii	SIRT5	ENSUPAG00010016559	Sirtuin	NA
+Urocitellus_parryii	MORF4L2	ENSUPAG00010016580	Other_CRF	NA
+Urocitellus_parryii	TCEAL1	ENSUPAG00010016588	TEF	NA
+Urocitellus_parryii		ENSUPAG00010016594	TEF	NA
+Urocitellus_parryii	PCGF1	ENSUPAG00010016615	PCGF	NA
+Urocitellus_parryii		ENSUPAG00010016655	Histone deacetylase	NA
+Urocitellus_parryii	CITED1	ENSUPAG00010016670	CITED	NA
+Urocitellus_parryii	PEX2	ENSUPAG00010016725	Others	NA
+Urocitellus_parryii		ENSUPAG00010016726	INO80 complex	113188882
+Urocitellus_parryii	KAT2B	ENSUPAG00010016744	Lysine acetyltransferase	NA
+Urocitellus_parryii	RBPMS	ENSUPAG00010016759	RNA binding protein	113200570
+Urocitellus_parryii	GRHPR	ENSUPAG00010016805	Others	NA
+Urocitellus_parryii	KANK1	ENSUPAG00010016810	Others	113199885
+Urocitellus_parryii	SLC19A1	ENSUPAG00010016817	SLC	NA
+Urocitellus_parryii		ENSUPAG00010016841	MYC	NA
+Urocitellus_parryii	PICALM	ENSUPAG00010016850	Others	113179900
+Urocitellus_parryii	RNF10	ENSUPAG00010016864	Ring finger protein	113193054
+Urocitellus_parryii	FHL3	ENSUPAG00010016892	FHL	NA
+Urocitellus_parryii	SMARCA2	ENSUPAG00010016919	SWI/SNF	113195076
+Urocitellus_parryii	TNKS	ENSUPAG00010016956	Others	NA
+Urocitellus_parryii	KCNIP3	ENSUPAG00010016958	Others	NA
+Urocitellus_parryii	MED7	ENSUPAG00010017002	Mediator complex	NA
+Urocitellus_parryii		ENSUPAG00010017171	Others	NA
+Urocitellus_parryii	MDFI	ENSUPAG00010017189	Others	NA
+Urocitellus_parryii	TNIP1	ENSUPAG00010017190	Others	NA
+Urocitellus_parryii	RPTOR	ENSUPAG00010017210	Others	NA
+Urocitellus_parryii	LDB2	ENSUPAG00010017297	LIM	NA
+Urocitellus_parryii	TAF15	ENSUPAG00010017298	TATA-box	113175895
+Urocitellus_parryii	FBP1	ENSUPAG00010017318	Others	113192015
+Urocitellus_parryii	SNIP1	ENSUPAG00010017338	Others	113186078
+Urocitellus_parryii	MEAF6	ENSUPAG00010017344	Others	NA
+Urocitellus_parryii		ENSUPAG00010017366	Mediator complex	NA
+Urocitellus_parryii	LPXN	ENSUPAG00010017394	Others	NA
+Urocitellus_parryii		ENSUPAG00010017477	Mediator complex	NA
+Urocitellus_parryii	LOXL2	ENSUPAG00010017498	Others	NA
+Urocitellus_parryii		ENSUPAG00010017506	GTF	NA
+Urocitellus_parryii	SUDS3	ENSUPAG00010017512	Other_Co-activator/repressors	NA
+Urocitellus_parryii	TRIP6	ENSUPAG00010017526	Thyroid hormone receptor	NA
+Urocitellus_parryii	THRAP3	ENSUPAG00010017531	Thyroid hormone receptor	NA
+Urocitellus_parryii	TAF8	ENSUPAG00010017545	TATA-box	113179135
+Urocitellus_parryii	CTNND1	ENSUPAG00010017551	Casein	NA
+Urocitellus_parryii	CCAR2	ENSUPAG00010017585	Others	113188933
+Urocitellus_parryii		ENSUPAG00010017604	Others	113176850
+Urocitellus_parryii	FHIT	ENSUPAG00010017629	Others	NA
+Urocitellus_parryii	PADI4	ENSUPAG00010017640	Others	113191174
+Urocitellus_parryii	EZR	ENSUPAG00010017642	Others	113186381
+Urocitellus_parryii	CNOT8	ENSUPAG00010017652	CCR4-NOT	113182431
+Urocitellus_parryii		ENSUPAG00010017660	SET	NA
+Urocitellus_parryii	SPAG8	ENSUPAG00010017666	Others	NA
+Urocitellus_parryii	ACTL6B	ENSUPAG00010017680	Actin	113199970
+Urocitellus_parryii	SAP30L	ENSUPAG00010017689	SAP	NA
+Urocitellus_parryii	PADI2	ENSUPAG00010017708	Other_CRF	NA
+Urocitellus_parryii	MYOCD	ENSUPAG00010017746	Others	113184053
+Urocitellus_parryii	SKOR1	ENSUPAG00010017792	SKI	113196751
+Urocitellus_parryii	HR	ENSUPAG00010017864	Lysine methyltransferase	NA
+Urocitellus_parryii	PLRG1	ENSUPAG00010017885	Others	113179911
+Urocitellus_parryii	TAF2	ENSUPAG00010017939	TATA-box	113186426
+Urocitellus_parryii	EAF1	ENSUPAG00010017973	Others	NA
+Urocitellus_parryii	SPEN	ENSUPAG00010018064	Others	113191191
+Urocitellus_parryii	CDC73	ENSUPAG00010018083	Others	NA
+Urocitellus_parryii	MED30	ENSUPAG00010018114	Mediator complex	113186424
+Urocitellus_parryii	SNAPC5	ENSUPAG00010018142	Others	NA
+Urocitellus_parryii	RAD21	ENSUPAG00010018144	Others	NA
+Urocitellus_parryii	SMYD3	ENSUPAG00010018170	SMYD	NA
+Urocitellus_parryii	TAF6	ENSUPAG00010018176	TATA-box	NA
+Urocitellus_parryii	PPARGC1A	ENSUPAG00010018212	Others	NA
+Urocitellus_parryii	HNRNPU	ENSUPAG00010018254	HNRNP	NA
+Urocitellus_parryii	CRK	ENSUPAG00010018266	Others	113182847
+Urocitellus_parryii	CRTC1	ENSUPAG00010018349	CREB	113183618
+Urocitellus_parryii	FBXW7	ENSUPAG00010018370	Others	113179906
+Urocitellus_parryii	CTNND2	ENSUPAG00010018407	Casein	NA
+Urocitellus_parryii	NPM2	ENSUPAG00010018414	Nucleoplasmin	113188967
+Urocitellus_parryii	ELL	ENSUPAG00010018509	GTF	113183477
+Urocitellus_parryii	KMT5A	ENSUPAG00010018535	Lysine methyltransferase	NA
+Urocitellus_parryii	CHUK	ENSUPAG00010018536	Others	NA
+Urocitellus_parryii	LZTS1	ENSUPAG00010018548	Others	113188960
+Urocitellus_parryii	CBL	ENSUPAG00010018560	Others	NA
+Urocitellus_parryii	EYA4	ENSUPAG00010018561	EYA	113176171
+Urocitellus_parryii	TRIM24	ENSUPAG00010018604	Tripartite motif	NA
+Urocitellus_parryii	ELP4	ENSUPAG00010018640	ELP	NA
+Urocitellus_parryii	TRIM6	ENSUPAG00010018642	Tripartite motif	113191339
+Urocitellus_parryii	SIVA1	ENSUPAG00010018682	Others	NA
+Urocitellus_parryii		ENSUPAG00010018684	Casein	NA
+Urocitellus_parryii	GTF2H3	ENSUPAG00010018709	GTF	NA
+Urocitellus_parryii	TRIB3	ENSUPAG00010018765	Others	NA
+Urocitellus_parryii	MPHOSPH8	ENSUPAG00010018779	Others	NA
+Urocitellus_parryii	PSPC1	ENSUPAG00010018787	Others	NA
+Urocitellus_parryii		ENSUPAG00010018802	Others	NA
+Urocitellus_parryii	ZMYM2	ENSUPAG00010018828	Zinc finger	NA
+Urocitellus_parryii	MTPN	ENSUPAG00010018855	Others	NA
+Urocitellus_parryii	BRF1	ENSUPAG00010018960	GTF	NA
+Urocitellus_parryii	TRIM29	ENSUPAG00010018992	Tripartite motif	113193116
+Urocitellus_parryii	INSR	ENSUPAG00010019031	Others	NA
+Urocitellus_parryii	MLLT3	ENSUPAG00010019064	GTF	113188987
+Urocitellus_parryii	CREBBP	ENSUPAG00010019068	CREB	NA
+Urocitellus_parryii		ENSUPAG00010019075	SAP	NA
+Urocitellus_parryii	JAK3	ENSUPAG00010019085	Others	NA
+Urocitellus_parryii	CASP8AP2	ENSUPAG00010019134	Others	NA
+Urocitellus_parryii	HIPK3	ENSUPAG00010019217	HIPK	NA
+Urocitellus_parryii	HCK	ENSUPAG00010019243	Others	113192071
+Urocitellus_parryii	CHCHD2	ENSUPAG00010019260	Coiled-coil	NA
+Urocitellus_parryii	PSIP1	ENSUPAG00010019272	Others	NA
+Urocitellus_parryii	DNAJA3	ENSUPAG00010019292	Others	NA
+Urocitellus_parryii	ABL1	ENSUPAG00010019305	Others	113180980
+Urocitellus_parryii	NUP98	ENSUPAG00010019310	Others	113191228
+Urocitellus_parryii	ASXL1	ENSUPAG00010019320	Others	113192067
+Urocitellus_parryii	DNMT3B	ENSUPAG00010019383	DNA_methylase	NA
+Urocitellus_parryii	TGFB1I1	ENSUPAG00010019387	Others	113190909
+Urocitellus_parryii	LMO2	ENSUPAG00010019388	LIM	113193678
+Urocitellus_parryii	MED23	ENSUPAG00010019418	Mediator complex	NA
+Urocitellus_parryii	C1QBP	ENSUPAG00010019445	Others	NA
+Urocitellus_parryii	DHX33	ENSUPAG00010019456	RNA helicase	NA
+Urocitellus_parryii	SLTM	ENSUPAG00010019462	Others	113180006
+Urocitellus_parryii	BAHCC1	ENSUPAG00010019471	Others	NA
+Urocitellus_parryii	YAP1	ENSUPAG00010019515	Others	NA
+Urocitellus_parryii	NRIP1	ENSUPAG00010019517	Nuclear receptor coactivator	NA
+Urocitellus_parryii	PYCARD	ENSUPAG00010019533	Others	NA
+Urocitellus_parryii	FUS	ENSUPAG00010019539	Others	NA
+Urocitellus_parryii	RNF111	ENSUPAG00010019547	Ring finger protein	NA
+Urocitellus_parryii	BIRC2	ENSUPAG00010019549	Others	NA
+Urocitellus_parryii	CHD7	ENSUPAG00010019570	CHD	NA
+Urocitellus_parryii	MED31	ENSUPAG00010019595	Mediator complex	NA
+Urocitellus_parryii	SLC30A9	ENSUPAG00010019599	SLC	NA
+Urocitellus_parryii		ENSUPAG00010019600	Notch	113201578
+Urocitellus_parryii		ENSUPAG00010019628	GTF	113180031
+Urocitellus_parryii	KAT8	ENSUPAG00010019632	Lysine acetyltransferase	NA
+Urocitellus_parryii	ICE2	ENSUPAG00010019658	GTF	113180068
+Urocitellus_parryii		ENSUPAG00010019700	Others	NA
+Urocitellus_parryii	SETD1A	ENSUPAG00010019723	SET	NA
+Urocitellus_parryii	MYBBP1A	ENSUPAG00010019764	MYB	NA
+Urocitellus_parryii	ESF1	ENSUPAG00010019813	Others	NA
+Urocitellus_parryii		ENSUPAG00010019912	Others	113190855
+Urocitellus_parryii	ERBIN	ENSUPAG00010019927	Erbb2	NA
+Urocitellus_parryii	KDM1B	ENSUPAG00010019978	Lysine demethylase	NA
+Urocitellus_parryii	DEK	ENSUPAG00010019996	Other_CRF	NA
+Urocitellus_parryii	GSK3B	ENSUPAG00010020003	Others	NA
+Urocitellus_parryii	NELFE	ENSUPAG00010020030	GTF	NA
+Urocitellus_parryii	MED19	ENSUPAG00010020068	Mediator complex	NA
+Urocitellus_parryii	ATRX	ENSUPAG00010020076	Others	NA
+Urocitellus_parryii		ENSUPAG00010020082	GTF	NA
+Urocitellus_parryii	EHMT2	ENSUPAG00010020118	Histone lysine methyltransferase	113201570
+Urocitellus_parryii	POU2AF1	ENSUPAG00010020144	Others	NA
+Urocitellus_parryii	SFR1	ENSUPAG00010020181	Others	113191404
+Urocitellus_parryii	HSPA1L	ENSUPAG00010020211	Heat shock protein	NA
+Urocitellus_parryii	ZMYND11	ENSUPAG00010020227	Zinc finger	NA
+Urocitellus_parryii	BRWD1	ENSUPAG00010020246	Bromodomain	113190220
+Urocitellus_parryii	HCLS1	ENSUPAG00010020307	Others	NA
+Urocitellus_parryii	NCOA7	ENSUPAG00010020328	Nuclear receptor coactivator	NA
+Urocitellus_parryii	EAF2	ENSUPAG00010020354	Others	113187079
+Urocitellus_parryii	TRIP13	ENSUPAG00010020420	Thyroid hormone receptor	113176965
+Urocitellus_parryii	DSCAM	ENSUPAG00010020438	Others	113190221
+Urocitellus_parryii	EZH2	ENSUPAG00010020450	Others	113198428
+Urocitellus_parryii	TAF5	ENSUPAG00010020451	TATA-box	113191415
+Urocitellus_parryii	PCGF6	ENSUPAG00010020458	PCGF	NA
+Urocitellus_parryii	GTF2A1L	ENSUPAG00010020487	GTF	NA
+Urocitellus_parryii	CBX5	ENSUPAG00010020504	Chromobox	NA
+Urocitellus_parryii	NFKBIZ	ENSUPAG00010020526	NFKB associated	NA
+Urocitellus_parryii	SUFU	ENSUPAG00010020560	Others	113191431
+Urocitellus_parryii	CALCOCO1	ENSUPAG00010020573	Others	113189768
+Urocitellus_parryii	PPID	ENSUPAG00010020581	Others	NA
+Urocitellus_parryii	PARP14	ENSUPAG00010020584	PARP	113186725
+Urocitellus_parryii	DDX39B	ENSUPAG00010020627	RNA helicase	NA
+Urocitellus_parryii	SKIL	ENSUPAG00010020765	SKI	NA
+Urocitellus_parryii	WNT4	ENSUPAG00010020796	Others	NA
+Urocitellus_parryii	LRPPRC	ENSUPAG00010020805	Others	NA
+Urocitellus_parryii	SETD3	ENSUPAG00010020807	SET	113190240
+Urocitellus_parryii	MED18	ENSUPAG00010020827	Mediator complex	NA
+Urocitellus_parryii	CCNK	ENSUPAG00010020832	Cyclin	NA
+Urocitellus_parryii	EYA3	ENSUPAG00010020872	EYA	NA
+Urocitellus_parryii	KDM1A	ENSUPAG00010020880	Lysine demethylase	113193204
+Urocitellus_parryii	ACTN2	ENSUPAG00010020890	Actin	NA
+Urocitellus_parryii	HEATR1	ENSUPAG00010020924	Others	NA
+Urocitellus_parryii	CIDEA	ENSUPAG00010020936	Others	NA
+Urocitellus_parryii	PFDN5	ENSUPAG00010020941	Others	NA
+Urocitellus_parryii	PLK3	ENSUPAG00010020965	Others	113189141
+Urocitellus_parryii	AEBP1	ENSUPAG00010020977	Others	113190284
+Urocitellus_parryii	PIK3R1	ENSUPAG00010020989	Others	NA
+Urocitellus_parryii	PNRC2	ENSUPAG00010021043	Others	NA
+Urocitellus_parryii	CDK7	ENSUPAG00010021083	Cyclin	113184211
+Urocitellus_parryii	DMAP1	ENSUPAG00010021126	DNA_methylase	NA
+Urocitellus_parryii	WDTC1	ENSUPAG00010021189	WD	NA
+Urocitellus_parryii		ENSUPAG00010021216	GTF	NA
+Urocitellus_parryii	JADE1	ENSUPAG00010021308	Others	NA
+Urocitellus_parryii	KDM4A	ENSUPAG00010021313	Lysine demethylase	NA
+Urocitellus_parryii	SSBP3	ENSUPAG00010021320	Others	NA
+Urocitellus_parryii	MED8	ENSUPAG00010021409	Mediator complex	113189130
+Urocitellus_parryii	PER2	ENSUPAG00010021414	Others	113187908
+Urocitellus_parryii	TARBP1	ENSUPAG00010021424	Others	NA
+Urocitellus_parryii	EYA2	ENSUPAG00010021582	EYA	113184295
+Urocitellus_parryii	RYBP	ENSUPAG00010021587	Others	NA
+Urocitellus_parryii	NCOA3	ENSUPAG00010021604	Nuclear receptor coactivator	NA
+Urocitellus_parryii		ENSUPAG00010021616	Others	NA
+Urocitellus_parryii	SIN3B	ENSUPAG00010021629	Others	NA
+Urocitellus_parryii		ENSUPAG00010021653	Mediator complex	NA
+Urocitellus_parryii	HNRNPD	ENSUPAG00010021669	HNRNP	NA
+Urocitellus_parryii	ERCC2	ENSUPAG00010021698	Others	NA
+Urocitellus_parryii	ZNF593	ENSUPAG00010021709	Zinc finger	NA
+Urocitellus_parryii		ENSUPAG00010021761	Others	NA
+Urocitellus_parryii	VGLL3	ENSUPAG00010021778	Vestigial like	NA
+Urocitellus_parryii	BCL3	ENSUPAG00010021803	BCL	113193329
+Urocitellus_parryii	FHL2	ENSUPAG00010021854	FHL	NA
+Urocitellus_parryii	TLE4	ENSUPAG00010021868	Transducin	NA
+Urocitellus_parryii		ENSUPAG00010021894	Others	NA
+Urocitellus_parryii	VGLL2	ENSUPAG00010021945	Vestigial like	113186594
+Urocitellus_parryii	BRD8	ENSUPAG00010021951	Bromodomain	113191469
+Urocitellus_parryii	ASF1A	ENSUPAG00010021997	Others	113186590
+Urocitellus_parryii	KDM3B	ENSUPAG00010022021	Lysine demethylase	113191516
+Urocitellus_parryii	WDR77	ENSUPAG00010022061	WD	NA
+Urocitellus_parryii	DDX20	ENSUPAG00010022080	RNA helicase	NA
+Urocitellus_parryii	TAF1C	ENSUPAG00010022083	TATA-box	NA
+Urocitellus_parryii	CXXC5	ENSUPAG00010022106	Others	113191473
+Urocitellus_parryii	HSBP1	ENSUPAG00010022128	Heat shock protein	NA
+Urocitellus_parryii		ENSUPAG00010022177	Nucleoplasmin	NA
+Urocitellus_parryii		ENSUPAG00010022184	Others	NA
+Urocitellus_parryii	PHF12	ENSUPAG00010022185	PHF	NA
+Urocitellus_parryii	SUPT6H	ENSUPAG00010022227	SUPT	113182753
+Urocitellus_parryii	RGCC	ENSUPAG00010022251	Others	NA
+Urocitellus_parryii	TAB1	ENSUPAG00010022276	Others	NA
+Urocitellus_parryii	CBX7	ENSUPAG00010022291	Chromobox	NA
+Urocitellus_parryii	CBX6	ENSUPAG00010022300	Chromobox	113198649
+Urocitellus_parryii	HIPK1	ENSUPAG00010022316	HIPK	113186612
+Urocitellus_parryii	TRIM33	ENSUPAG00010022324	Tripartite motif	NA
+Urocitellus_parryii	DDX17	ENSUPAG00010022338	RNA helicase	NA
+Urocitellus_parryii	NLK	ENSUPAG00010022389	Others	NA
+Urocitellus_parryii		ENSUPAG00010022405	Others	113182786
+Urocitellus_parryii	EGLN2	ENSUPAG00010022428	Others	NA
+Urocitellus_parryii	PIN1	ENSUPAG00010022430	Others	NA
+Urocitellus_parryii	DCAF1	ENSUPAG00010022457	Others	NA
+Urocitellus_parryii	COPRS	ENSUPAG00010022492	Others	113182835
+Urocitellus_parryii	SUZ12	ENSUPAG00010022503	Others	NA
+Urocitellus_parryii	SERTAD3	ENSUPAG00010022510	Others	NA
+Urocitellus_parryii	DYRK1B	ENSUPAG00010022568	Others	NA
+Urocitellus_parryii	EID2	ENSUPAG00010022573	EID	NA
+Urocitellus_parryii	SUPT5H	ENSUPAG00010022579	SUPT	113198694
+Urocitellus_parryii	SAMD4B	ENSUPAG00010022587	Others	NA
+Urocitellus_parryii	PAF1	ENSUPAG00010022593	Others	NA
+Urocitellus_parryii	TRIP11	ENSUPAG00010022598	Thyroid hormone receptor	113186691
+Urocitellus_parryii	HYAL2	ENSUPAG00010022639	Others	NA
+Urocitellus_parryii	RRN3	ENSUPAG00010022658	Others	113197067
+Urocitellus_parryii	MRTFB	ENSUPAG00010022669	Others	NA
+Urocitellus_parryii	CDKN1B	ENSUPAG00010022692	Cyclin	NA
+Urocitellus_parryii	ACTL6A	ENSUPAG00010022696	Actin	113178644
+Urocitellus_parryii	IKBKB	ENSUPAG00010022720	Others	NA
+Urocitellus_parryii	KAT6A	ENSUPAG00010022729	Lysine acetyltransferase	NA
+Urocitellus_parryii	TBL1XR1	ENSUPAG00010022733	Transducin	NA
+Urocitellus_parryii		ENSUPAG00010022734	Others	NA
+Urocitellus_parryii	ARHGEF5	ENSUPAG00010022818	Others	NA
+Urocitellus_parryii	LMCD1	ENSUPAG00010022849	LIM	NA
+Urocitellus_parryii	NRG1	ENSUPAG00010022865	Others	113197205
+Urocitellus_parryii	PIDD1	ENSUPAG00010022870	Others	113175151
+Urocitellus_parryii	DUSP26	ENSUPAG00010022896	Others	113197211
+Urocitellus_parryii	TADA3	ENSUPAG00010022928	Transcriptional adaptor	113178841
+Urocitellus_parryii	KDM3A	ENSUPAG00010022954	Lysine demethylase	113197219
+Urocitellus_parryii	PCGF3	ENSUPAG00010022958	PCGF	113175216
+Urocitellus_parryii	SMYD1	ENSUPAG00010022971	SMYD	NA
+Urocitellus_parryii	DGKQ	ENSUPAG00010022980	Others	NA
+Urocitellus_parryii	VGLL4	ENSUPAG00010023024	Vestigial like	113178786
+Urocitellus_parryii	RAF1	ENSUPAG00010023038	Others	NA
+Urocitellus_parryii	CTBP1	ENSUPAG00010023056	Others	NA
+Urocitellus_parryii	CDK5R1	ENSUPAG00010023059	Cyclin	NA
+Urocitellus_parryii	ANKAR	ENSUPAG00010023110	Ankyrin repeat	NA
+Urocitellus_parryii	MYO6	ENSUPAG00010023115	Others	NA
+Urocitellus_parryii	NAB1	ENSUPAG00010023136	Others	NA
+Urocitellus_parryii	HDAC2	ENSUPAG00010023155	Histone deacetylase	NA
+Urocitellus_parryii	PDCD4	ENSUPAG00010023211	Others	113183002
+Urocitellus_parryii	GRIP1	ENSUPAG00010023223	Others	NA
+Urocitellus_parryii	LMO1	ENSUPAG00010023254	LIM	NA
+Urocitellus_parryii	MAGED1	ENSUPAG00010023286	MAGE	113177070
+Urocitellus_parryii	RWDD3	ENSUPAG00010023324	Others	113197349
+Urocitellus_parryii	SFSWAP	ENSUPAG00010023337	Others	113197365
+Urocitellus_parryii		ENSUPAG00010023340	Others	NA
+Urocitellus_parryii	CNOT2	ENSUPAG00010023418	CCR4-NOT	NA
+Urocitellus_parryii	PUF60	ENSUPAG00010023489	Others	NA
+Urocitellus_parryii	LIN54	ENSUPAG00010023507	Others	NA
+Urocitellus_parryii	PARP10	ENSUPAG00010023525	PARP	113197492
+Urocitellus_parryii	TONSL	ENSUPAG00010023556	Others	113197510
+Urocitellus_parryii	PAGR1	ENSUPAG00010023586	Others	NA
+Urocitellus_parryii		ENSUPAG00010023602	ANP	NA
+Urocitellus_parryii	WDR61	ENSUPAG00010023608	WD	NA
+Urocitellus_parryii	MORF4L1	ENSUPAG00010023618	Other_CRF	NA
+Urocitellus_parryii	SAFB2	ENSUPAG00010023625	Others	NA
+Urocitellus_parryii	SAFB	ENSUPAG00010023630	Others	113193637
+Urocitellus_parryii	MLLT1	ENSUPAG00010023650	GTF	113193652
+Urocitellus_parryii	GTF2F1	ENSUPAG00010023655	GTF	NA
+Urocitellus_parryii	PRMT7	ENSUPAG00010023721	Arginine methyltransferase	NA
+Urocitellus_parryii	UTP4	ENSUPAG00010023732	Others	113193724
+Urocitellus_parryii	WWP2	ENSUPAG00010023764	WW	NA
+Urocitellus_parryii	NOTCH2	ENSUPAG00010023780	Notch	113177177
+Urocitellus_parryii	FAM83G	ENSUPAG00010023806	FAM	113177184
+Urocitellus_parryii	CHEK1	ENSUPAG00010023830	Others	NA
+Urocitellus_parryii	TIRAP	ENSUPAG00010023865	Others	NA
+Urocitellus_parryii	FGFR1	ENSUPAG00010023903	FGF	113193875
+Urocitellus_parryii	NSD3	ENSUPAG00010023907	Nuclear receptor coactivator	113193876
+Urocitellus_parryii	ASH2L	ENSUPAG00010023941	Others	113193888
+Urocitellus_parryii	BRF2	ENSUPAG00010023951	GTF	NA
+Urocitellus_parryii	ZNF703	ENSUPAG00010023959	Zinc finger	NA
+Urocitellus_parryii	RECQL5	ENSUPAG00010024001	Others	NA
+Urocitellus_parryii	SAP30BP	ENSUPAG00010024004	SAP	NA
+Urocitellus_parryii		ENSUPAG00010024009	WW	NA

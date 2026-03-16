@@ -1,0 +1,958 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Moschus_moschiferus	EGLN2	ENSMMSG00000000018	Others	NA
+Moschus_moschiferus	NOTCH2	ENSMMSG00000000075	Notch	NA
+Moschus_moschiferus	TNKS	ENSMMSG00000000139	Others	NA
+Moschus_moschiferus	CHRAC1	ENSMMSG00000000143	Other_CRF	NA
+Moschus_moschiferus	DVL3	ENSMMSG00000000155	Others	NA
+Moschus_moschiferus	AGO2	ENSMMSG00000000171	Others	NA
+Moschus_moschiferus		ENSMMSG00000000248	Others	NA
+Moschus_moschiferus	MCIDAS	ENSMMSG00000000277	Others	NA
+Moschus_moschiferus	FHL2	ENSMMSG00000000375	FHL	NA
+Moschus_moschiferus	TAF9B	ENSMMSG00000000384	TATA-box	NA
+Moschus_moschiferus	BRCA2	ENSMMSG00000000412	Others	NA
+Moschus_moschiferus	KAT8	ENSMMSG00000000464	Lysine acetyltransferase	NA
+Moschus_moschiferus	SAP30	ENSMMSG00000000567	SAP	NA
+Moschus_moschiferus	SERTAD3	ENSMMSG00000000586	Others	NA
+Moschus_moschiferus	RUNX1T1	ENSMMSG00000000603	Others	NA
+Moschus_moschiferus	TLE2	ENSMMSG00000000627	Transducin	NA
+Moschus_moschiferus	ATRX	ENSMMSG00000000633	Others	NA
+Moschus_moschiferus	TAF2	ENSMMSG00000000641	TATA-box	NA
+Moschus_moschiferus	YEATS2	ENSMMSG00000000661	Others	NA
+Moschus_moschiferus	CARM1	ENSMMSG00000000737	Others	NA
+Moschus_moschiferus	PYCARD	ENSMMSG00000000772	Others	NA
+Moschus_moschiferus	TRIM28	ENSMMSG00000000789	Tripartite motif	NA
+Moschus_moschiferus	JADE1	ENSMMSG00000000816	Others	NA
+Moschus_moschiferus	TAF1B	ENSMMSG00000000824	TATA-box	NA
+Moschus_moschiferus	ADRB2	ENSMMSG00000000847	Others	NA
+Moschus_moschiferus		ENSMMSG00000000860	Others	NA
+Moschus_moschiferus	SMARCA4	ENSMMSG00000000864	SWI/SNF	NA
+Moschus_moschiferus	NFKBID	ENSMMSG00000001095	NFKB associated	NA
+Moschus_moschiferus		ENSMMSG00000001187	Nuclear receptor coactivator	NA
+Moschus_moschiferus	DYRK1B	ENSMMSG00000001189	Others	NA
+Moschus_moschiferus	RLIM	ENSMMSG00000001223	Ring finger protein	NA
+Moschus_moschiferus	MORF4L2	ENSMMSG00000001238	Other_CRF	NA
+Moschus_moschiferus	TCEAL1	ENSMMSG00000001247	TEF	NA
+Moschus_moschiferus	SNAPC5	ENSMMSG00000001249	Others	NA
+Moschus_moschiferus	EID2	ENSMMSG00000001251	EID	NA
+Moschus_moschiferus	S100A9	ENSMMSG00000001252	Others	NA
+Moschus_moschiferus		ENSMMSG00000001264	TEF	NA
+Moschus_moschiferus	S100A8	ENSMMSG00000001274	Others	NA
+Moschus_moschiferus		ENSMMSG00000001282	TEF	NA
+Moschus_moschiferus	KDM4C	ENSMMSG00000001310	Lysine demethylase	NA
+Moschus_moschiferus		ENSMMSG00000001354	Others	NA
+Moschus_moschiferus	NRG1	ENSMMSG00000001369	Others	NA
+Moschus_moschiferus	MLLT3	ENSMMSG00000001379	GTF	NA
+Moschus_moschiferus	SUPT5H	ENSMMSG00000001394	SUPT	NA
+Moschus_moschiferus	NCOA3	ENSMMSG00000001419	Nuclear receptor coactivator	NA
+Moschus_moschiferus	MYCBP2	ENSMMSG00000001431	MYC	NA
+Moschus_moschiferus	CNOT11	ENSMMSG00000001455	CCR4-NOT	NA
+Moschus_moschiferus	DOT1L	ENSMMSG00000001501	Others	NA
+Moschus_moschiferus	GTF2H5	ENSMMSG00000001513	GTF	NA
+Moschus_moschiferus	PPARGC1B	ENSMMSG00000001527	Others	NA
+Moschus_moschiferus	CAMK4	ENSMMSG00000001548	CAMK	NA
+Moschus_moschiferus	NAA15	ENSMMSG00000001555	Others	NA
+Moschus_moschiferus		ENSMMSG00000001581	Histone deacetylase	NA
+Moschus_moschiferus		ENSMMSG00000001587	RNA binding protein	NA
+Moschus_moschiferus	ZMYND8	ENSMMSG00000001641	Zinc finger	NA
+Moschus_moschiferus	MTDH	ENSMMSG00000001656	Others	NA
+Moschus_moschiferus	MED29	ENSMMSG00000001682	Mediator complex	NA
+Moschus_moschiferus	EMSY	ENSMMSG00000001685	Others	NA
+Moschus_moschiferus		ENSMMSG00000001700	GTF	NA
+Moschus_moschiferus	LPIN1	ENSMMSG00000001708	LPIN	NA
+Moschus_moschiferus	PAF1	ENSMMSG00000001711	Others	NA
+Moschus_moschiferus	ARHGAP35	ENSMMSG00000001730	Others	NA
+Moschus_moschiferus	SETD7	ENSMMSG00000001737	SET	NA
+Moschus_moschiferus		ENSMMSG00000001739	Others	NA
+Moschus_moschiferus		ENSMMSG00000001758	Others	NA
+Moschus_moschiferus	CITED1	ENSMMSG00000001777	CITED	NA
+Moschus_moschiferus		ENSMMSG00000001779	MBD	NA
+Moschus_moschiferus	MAML3	ENSMMSG00000001791	MAML	NA
+Moschus_moschiferus	INSR	ENSMMSG00000001802	Others	NA
+Moschus_moschiferus	ELP3	ENSMMSG00000001831	ELP	NA
+Moschus_moschiferus	JAK2	ENSMMSG00000001846	Others	NA
+Moschus_moschiferus	CNOT3	ENSMMSG00000001863	CCR4-NOT	NA
+Moschus_moschiferus	KDM7A	ENSMMSG00000001870	Lysine demethylase	NA
+Moschus_moschiferus	STK3	ENSMMSG00000001896	Others	NA
+Moschus_moschiferus	URI1	ENSMMSG00000001916	Others	NA
+Moschus_moschiferus	CCNE1	ENSMMSG00000001931	Cyclin	NA
+Moschus_moschiferus	EZR	ENSMMSG00000001963	Others	NA
+Moschus_moschiferus	MED12	ENSMMSG00000002028	Mediator complex	NA
+Moschus_moschiferus	KMT2B	ENSMMSG00000002034	Lysine methyltransferase	NA
+Moschus_moschiferus	HIPK2	ENSMMSG00000002055	HIPK	NA
+Moschus_moschiferus	SKOR1	ENSMMSG00000002112	SKI	NA
+Moschus_moschiferus	DDX1	ENSMMSG00000002128	RNA helicase	NA
+Moschus_moschiferus	CITED2	ENSMMSG00000002134	CITED	NA
+Moschus_moschiferus	MED25	ENSMMSG00000002159	Mediator complex	NA
+Moschus_moschiferus	ATAD2	ENSMMSG00000002262	Others	NA
+Moschus_moschiferus	TRADD	ENSMMSG00000002296	Others	NA
+Moschus_moschiferus	TFB2M	ENSMMSG00000002316	Others	NA
+Moschus_moschiferus	SMARCA2	ENSMMSG00000002325	SWI/SNF	NA
+Moschus_moschiferus	PSIP1	ENSMMSG00000002346	Others	NA
+Moschus_moschiferus	SMYD3	ENSMMSG00000002362	SMYD	NA
+Moschus_moschiferus	AJUBA	ENSMMSG00000002391	Others	NA
+Moschus_moschiferus		ENSMMSG00000002440	Arginine methyltransferase	NA
+Moschus_moschiferus	EYA2	ENSMMSG00000002444	EYA	NA
+Moschus_moschiferus		ENSMMSG00000002461	ANP	NA
+Moschus_moschiferus		ENSMMSG00000002473	SWI/SNF	NA
+Moschus_moschiferus	NFKBIB	ENSMMSG00000002488	NFKB associated	NA
+Moschus_moschiferus	HNRNPU	ENSMMSG00000002510	HNRNP	NA
+Moschus_moschiferus	TNIP1	ENSMMSG00000002511	Others	NA
+Moschus_moschiferus	SIRT2	ENSMMSG00000002515	Sirtuin	NA
+Moschus_moschiferus	TGFB1I1	ENSMMSG00000002525	Others	NA
+Moschus_moschiferus	NFKBIZ	ENSMMSG00000002549	NFKB associated	NA
+Moschus_moschiferus		ENSMMSG00000002568	Others	NA
+Moschus_moschiferus	PRMT5	ENSMMSG00000002569	Arginine methyltransferase	NA
+Moschus_moschiferus	EZH2	ENSMMSG00000002589	Others	NA
+Moschus_moschiferus	NCOA7	ENSMMSG00000002630	Nuclear receptor coactivator	NA
+Moschus_moschiferus	PRMT6	ENSMMSG00000002697	Arginine methyltransferase	NA
+Moschus_moschiferus	SIRT3	ENSMMSG00000002699	Sirtuin	NA
+Moschus_moschiferus		ENSMMSG00000002703	TATA-box	NA
+Moschus_moschiferus	TCERG1	ENSMMSG00000002704	TEF	NA
+Moschus_moschiferus	KANK1	ENSMMSG00000002767	Others	NA
+Moschus_moschiferus	DNMT1	ENSMMSG00000002790	DNA_methylase	NA
+Moschus_moschiferus	ACTN4	ENSMMSG00000002816	Actin	NA
+Moschus_moschiferus	MYO6	ENSMMSG00000002820	Others	NA
+Moschus_moschiferus	UXT	ENSMMSG00000002867	Others	NA
+Moschus_moschiferus	TLE3	ENSMMSG00000002903	Transducin	NA
+Moschus_moschiferus	OGT	ENSMMSG00000002941	Others	NA
+Moschus_moschiferus	DUSP26	ENSMMSG00000002953	Others	NA
+Moschus_moschiferus	TRIM24	ENSMMSG00000002963	Tripartite motif	NA
+Moschus_moschiferus	MALT1	ENSMMSG00000002981	Others	NA
+Moschus_moschiferus	SNAPC2	ENSMMSG00000002987	Others	NA
+Moschus_moschiferus		ENSMMSG00000003003	Coiled-coil	NA
+Moschus_moschiferus	PHIP	ENSMMSG00000003088	Others	NA
+Moschus_moschiferus	ELL2	ENSMMSG00000003142	GTF	NA
+Moschus_moschiferus	PIH1D1	ENSMMSG00000003162	Other_CRF	NA
+Moschus_moschiferus	CDK8	ENSMMSG00000003210	Cyclin	NA
+Moschus_moschiferus	RNF6	ENSMMSG00000003228	Ring finger protein	NA
+Moschus_moschiferus	WWP2	ENSMMSG00000003281	WW	NA
+Moschus_moschiferus	CXXC5	ENSMMSG00000003284	Others	NA
+Moschus_moschiferus	LZTS1	ENSMMSG00000003358	Others	NA
+Moschus_moschiferus	SAP30L	ENSMMSG00000003388	SAP	NA
+Moschus_moschiferus	ACTL6A	ENSMMSG00000003389	Actin	NA
+Moschus_moschiferus		ENSMMSG00000003422	Others	NA
+Moschus_moschiferus	RNF14	ENSMMSG00000003466	Ring finger protein	NA
+Moschus_moschiferus	AUTS2	ENSMMSG00000003484	Others	NA
+Moschus_moschiferus	TAF13	ENSMMSG00000003524	TATA-box	NA
+Moschus_moschiferus	CNOT8	ENSMMSG00000003528	CCR4-NOT	NA
+Moschus_moschiferus	ZNF703	ENSMMSG00000003532	Zinc finger	NA
+Moschus_moschiferus	ERCC2	ENSMMSG00000003542	Others	NA
+Moschus_moschiferus	TBL1XR1	ENSMMSG00000003575	Transducin	NA
+Moschus_moschiferus	UTP4	ENSMMSG00000003594	Others	NA
+Moschus_moschiferus	BRF2	ENSMMSG00000003642	GTF	NA
+Moschus_moschiferus	MTPN	ENSMMSG00000003734	Others	NA
+Moschus_moschiferus		ENSMMSG00000003736	Others	NA
+Moschus_moschiferus	ASH2L	ENSMMSG00000003750	Others	NA
+Moschus_moschiferus	RUVBL2	ENSMMSG00000003756	Other_CRF	NA
+Moschus_moschiferus	KDM3B	ENSMMSG00000003793	Lysine demethylase	NA
+Moschus_moschiferus		ENSMMSG00000003801	Others	NA
+Moschus_moschiferus	SAP18	ENSMMSG00000003802	SAP	NA
+Moschus_moschiferus	HDAC3	ENSMMSG00000003806	Histone deacetylase	NA
+Moschus_moschiferus	MED7	ENSMMSG00000003843	Mediator complex	NA
+Moschus_moschiferus	NSD3	ENSMMSG00000003925	Nuclear receptor coactivator	NA
+Moschus_moschiferus	TAF7	ENSMMSG00000003968	TATA-box	NA
+Moschus_moschiferus	SLC25A2	ENSMMSG00000003974	SLC	NA
+Moschus_moschiferus	CHD1	ENSMMSG00000003988	CHD	NA
+Moschus_moschiferus	ZMYM2	ENSMMSG00000004047	Zinc finger	NA
+Moschus_moschiferus	FGFR1	ENSMMSG00000004064	FGF	NA
+Moschus_moschiferus	PRMT7	ENSMMSG00000004075	Arginine methyltransferase	NA
+Moschus_moschiferus	CNOT1	ENSMMSG00000004096	CCR4-NOT	NA
+Moschus_moschiferus	ZMYM5	ENSMMSG00000004106	Zinc finger	NA
+Moschus_moschiferus	BRD8	ENSMMSG00000004111	Bromodomain	NA
+Moschus_moschiferus	PSPC1	ENSMMSG00000004123	Others	NA
+Moschus_moschiferus	VGLL2	ENSMMSG00000004130	Vestigial like	NA
+Moschus_moschiferus	SETD6	ENSMMSG00000004139	SET	NA
+Moschus_moschiferus	KCNIP3	ENSMMSG00000004159	Others	NA
+Moschus_moschiferus	MPHOSPH8	ENSMMSG00000004166	Others	NA
+Moschus_moschiferus	PIN1	ENSMMSG00000004218	Others	NA
+Moschus_moschiferus	RBBP5	ENSMMSG00000004225	RBBP	NA
+Moschus_moschiferus	SKIL	ENSMMSG00000004231	SKI	NA
+Moschus_moschiferus		ENSMMSG00000004236	MAGE	NA
+Moschus_moschiferus		ENSMMSG00000004269	Casein	NA
+Moschus_moschiferus	DPF1	ENSMMSG00000004338	DPF	NA
+Moschus_moschiferus		ENSMMSG00000004441	GTF	NA
+Moschus_moschiferus	SCMH1	ENSMMSG00000004452	Others	NA
+Moschus_moschiferus	TBPL2	ENSMMSG00000004490	TATA-box	NA
+Moschus_moschiferus		ENSMMSG00000004525	ANP	NA
+Moschus_moschiferus	PHF10	ENSMMSG00000004537	PHF	NA
+Moschus_moschiferus	FRK	ENSMMSG00000004640	Others	NA
+Moschus_moschiferus	DHX33	ENSMMSG00000004647	RNA helicase	NA
+Moschus_moschiferus	CITED4	ENSMMSG00000004673	CITED	NA
+Moschus_moschiferus	PINK1	ENSMMSG00000004678	Others	NA
+Moschus_moschiferus	CRK	ENSMMSG00000004683	Others	NA
+Moschus_moschiferus	C1QBP	ENSMMSG00000004696	Others	NA
+Moschus_moschiferus	GTF2H4	ENSMMSG00000004849	GTF	NA
+Moschus_moschiferus	PAK6	ENSMMSG00000004855	Others	NA
+Moschus_moschiferus	RAP2C	ENSMMSG00000004872	Others	NA
+Moschus_moschiferus		ENSMMSG00000004892	Histone deacetylase	NA
+Moschus_moschiferus	THRSP	ENSMMSG00000004930	Others	NA
+Moschus_moschiferus	TRIM6	ENSMMSG00000004946	Tripartite motif	NA
+Moschus_moschiferus	TSPYL2	ENSMMSG00000004991	Others	NA
+Moschus_moschiferus	RBM15	ENSMMSG00000005006	RNA binding protein	NA
+Moschus_moschiferus	YAF2	ENSMMSG00000005011	Others	NA
+Moschus_moschiferus		ENSMMSG00000005021	Tripartite motif	NA
+Moschus_moschiferus	KDM5C	ENSMMSG00000005040	Lysine demethylase	NA
+Moschus_moschiferus	AXIN1	ENSMMSG00000005094	Others	NA
+Moschus_moschiferus	NKAP	ENSMMSG00000005109	NFKB associated	NA
+Moschus_moschiferus	PPHLN1	ENSMMSG00000005148	Others	NA
+Moschus_moschiferus	DEPDC1	ENSMMSG00000005154	Others	NA
+Moschus_moschiferus	BAZ1B	ENSMMSG00000005208	Bromodomain	NA
+Moschus_moschiferus	RPRD1B	ENSMMSG00000005269	Others	NA
+Moschus_moschiferus	RSF1	ENSMMSG00000005280	Others	NA
+Moschus_moschiferus	CGGBP1	ENSMMSG00000005329	Others	NA
+Moschus_moschiferus	CBFA2T3	ENSMMSG00000005338	Others	NA
+Moschus_moschiferus	MAGED1	ENSMMSG00000005374	MAGE	NA
+Moschus_moschiferus	THOC5	ENSMMSG00000005406	Others	NA
+Moschus_moschiferus		ENSMMSG00000005479	TATA-box	NA
+Moschus_moschiferus		ENSMMSG00000005567	Others	NA
+Moschus_moschiferus	VGLL3	ENSMMSG00000005580	Vestigial like	NA
+Moschus_moschiferus	ELP1	ENSMMSG00000005654	ELP	NA
+Moschus_moschiferus	SRC	ENSMMSG00000005700	Others	NA
+Moschus_moschiferus	TERF2IP	ENSMMSG00000005728	Others	NA
+Moschus_moschiferus		ENSMMSG00000005836	Others	NA
+Moschus_moschiferus	ZNF593	ENSMMSG00000005859	Zinc finger	NA
+Moschus_moschiferus	KDM5B	ENSMMSG00000005920	Lysine demethylase	NA
+Moschus_moschiferus		ENSMMSG00000005969	Others	NA
+Moschus_moschiferus		ENSMMSG00000005973	Others	NA
+Moschus_moschiferus		ENSMMSG00000005986	Vestigial like	NA
+Moschus_moschiferus	CNOT7	ENSMMSG00000006030	CCR4-NOT	NA
+Moschus_moschiferus	CXXC1	ENSMMSG00000006036	Others	NA
+Moschus_moschiferus		ENSMMSG00000006067	Tripartite motif	NA
+Moschus_moschiferus	WWP1	ENSMMSG00000006077	WW	NA
+Moschus_moschiferus	IRF2BPL	ENSMMSG00000006088	Others	NA
+Moschus_moschiferus		ENSMMSG00000006133	Others	NA
+Moschus_moschiferus		ENSMMSG00000006152	Others	NA
+Moschus_moschiferus	CCNK	ENSMMSG00000006165	Cyclin	NA
+Moschus_moschiferus	ABRA	ENSMMSG00000006167	Actin	NA
+Moschus_moschiferus	XIAP	ENSMMSG00000006180	Others	NA
+Moschus_moschiferus	SETD3	ENSMMSG00000006199	SET	NA
+Moschus_moschiferus	WWOX	ENSMMSG00000006266	WW	NA
+Moschus_moschiferus	CDYL2	ENSMMSG00000006390	Chromodomain Y	NA
+Moschus_moschiferus	C6orf89	ENSMMSG00000006496	Other_CRF	NA
+Moschus_moschiferus	TENM1	ENSMMSG00000006523	Others	NA
+Moschus_moschiferus	NLK	ENSMMSG00000006544	Others	NA
+Moschus_moschiferus	KAT6A	ENSMMSG00000006547	Lysine acetyltransferase	NA
+Moschus_moschiferus	PHF8	ENSMMSG00000006574	PHF	NA
+Moschus_moschiferus	RIPK3	ENSMMSG00000006584	Others	NA
+Moschus_moschiferus	CCDC62	ENSMMSG00000006617	Coiled-coil	NA
+Moschus_moschiferus	CHEK2	ENSMMSG00000006670	Others	NA
+Moschus_moschiferus	PLK3	ENSMMSG00000006678	Others	NA
+Moschus_moschiferus		ENSMMSG00000006701	Others	NA
+Moschus_moschiferus	PIM1	ENSMMSG00000006722	Others	NA
+Moschus_moschiferus	DNAJA3	ENSMMSG00000006755	Others	NA
+Moschus_moschiferus	DCC	ENSMMSG00000006766	Others	NA
+Moschus_moschiferus	INO80	ENSMMSG00000006784	INO80 complex	NA
+Moschus_moschiferus	SKOR2	ENSMMSG00000006829	SKI	NA
+Moschus_moschiferus	ENO3	ENSMMSG00000006853	Others	NA
+Moschus_moschiferus	BCL10	ENSMMSG00000006944	BCL	NA
+Moschus_moschiferus	FBP1	ENSMMSG00000006947	Others	NA
+Moschus_moschiferus	IKBKB	ENSMMSG00000006959	Others	NA
+Moschus_moschiferus	ASH1L	ENSMMSG00000006966	Others	NA
+Moschus_moschiferus	CALCOCO1	ENSMMSG00000007007	Others	NA
+Moschus_moschiferus		ENSMMSG00000007051	MYC	NA
+Moschus_moschiferus	CHD8	ENSMMSG00000007057	CHD	NA
+Moschus_moschiferus	KDM8	ENSMMSG00000007084	Lysine demethylase	NA
+Moschus_moschiferus	RBL1	ENSMMSG00000007085	Other_Co-activator/repressors	NA
+Moschus_moschiferus	SERTAD2	ENSMMSG00000007146	Others	NA
+Moschus_moschiferus	ANKAR	ENSMMSG00000007160	Ankyrin repeat	NA
+Moschus_moschiferus	CREBBP	ENSMMSG00000007171	CREB	NA
+Moschus_moschiferus	HSBP1L1	ENSMMSG00000007184	Heat shock protein	NA
+Moschus_moschiferus	FHL3	ENSMMSG00000007192	FHL	NA
+Moschus_moschiferus	SNW1	ENSMMSG00000007212	Others	NA
+Moschus_moschiferus	RTF1	ENSMMSG00000007234	Others	NA
+Moschus_moschiferus	PELI1	ENSMMSG00000007255	Others	NA
+Moschus_moschiferus		ENSMMSG00000007291	Others	NA
+Moschus_moschiferus	LRIF1	ENSMMSG00000007300	Others	NA
+Moschus_moschiferus	VEGFA	ENSMMSG00000007348	Other_CRF	NA
+Moschus_moschiferus	CTDP1	ENSMMSG00000007350	Others	NA
+Moschus_moschiferus	TENM2	ENSMMSG00000007353	Others	NA
+Moschus_moschiferus	PER2	ENSMMSG00000007392	Others	NA
+Moschus_moschiferus	DMAP1	ENSMMSG00000007396	DNA_methylase	NA
+Moschus_moschiferus	CBX5	ENSMMSG00000007428	Chromobox	NA
+Moschus_moschiferus	SUPT16H	ENSMMSG00000007478	SUPT	NA
+Moschus_moschiferus	RAD21	ENSMMSG00000007551	Others	NA
+Moschus_moschiferus	PADI4	ENSMMSG00000007578	Others	NA
+Moschus_moschiferus	SUV39H2	ENSMMSG00000007587	Others	NA
+Moschus_moschiferus		ENSMMSG00000007603	HNRNP	NA
+Moschus_moschiferus	ARGLU1	ENSMMSG00000007641	Others	NA
+Moschus_moschiferus	MED30	ENSMMSG00000007736	Mediator complex	NA
+Moschus_moschiferus	ABL1	ENSMMSG00000007779	Others	NA
+Moschus_moschiferus	PADI2	ENSMMSG00000007807	Other_CRF	NA
+Moschus_moschiferus	SPEN	ENSMMSG00000007827	Others	NA
+Moschus_moschiferus	ASF1B	ENSMMSG00000007873	Others	NA
+Moschus_moschiferus	LEO1	ENSMMSG00000007876	Others	NA
+Moschus_moschiferus	NAB1	ENSMMSG00000007884	Others	NA
+Moschus_moschiferus	WWC1	ENSMMSG00000007937	WW	NA
+Moschus_moschiferus		ENSMMSG00000007954	Others	NA
+Moschus_moschiferus	HABP4	ENSMMSG00000007990	Others	NA
+Moschus_moschiferus	CENPB	ENSMMSG00000008006	CENP	NA
+Moschus_moschiferus	PCBD1	ENSMMSG00000008012	Others	NA
+Moschus_moschiferus	HSBP1	ENSMMSG00000008024	Heat shock protein	NA
+Moschus_moschiferus		ENSMMSG00000008041	Others	NA
+Moschus_moschiferus	HDAC7	ENSMMSG00000008049	Histone deacetylase	NA
+Moschus_moschiferus	BCAS3	ENSMMSG00000008066	Others	NA
+Moschus_moschiferus	MEAF6	ENSMMSG00000008080	Others	NA
+Moschus_moschiferus	DACT1	ENSMMSG00000008105	Others	NA
+Moschus_moschiferus	BRWD1	ENSMMSG00000008117	Bromodomain	NA
+Moschus_moschiferus	PNRC2	ENSMMSG00000008137	Others	NA
+Moschus_moschiferus	SUPT6H	ENSMMSG00000008154	SUPT	NA
+Moschus_moschiferus	BCOR	ENSMMSG00000008193	Other_Co-activator/repressors	NA
+Moschus_moschiferus	NOC2L	ENSMMSG00000008201	Others	NA
+Moschus_moschiferus	NFATC2IP	ENSMMSG00000008219	Nuclear coactivator	NA
+Moschus_moschiferus	MED11	ENSMMSG00000008224	Mediator complex	NA
+Moschus_moschiferus	ING3	ENSMMSG00000008263	ING	NA
+Moschus_moschiferus	ARRB2	ENSMMSG00000008277	Others	NA
+Moschus_moschiferus	HDAC4	ENSMMSG00000008314	Histone deacetylase	NA
+Moschus_moschiferus	GTF2F1	ENSMMSG00000008317	GTF	NA
+Moschus_moschiferus	COMMD1	ENSMMSG00000008325	Others	NA
+Moschus_moschiferus		ENSMMSG00000008333	Chromobox	NA
+Moschus_moschiferus	KMT5A	ENSMMSG00000008337	Lysine methyltransferase	NA
+Moschus_moschiferus	PELP1	ENSMMSG00000008342	Others	NA
+Moschus_moschiferus	TRIM27	ENSMMSG00000008383	Tripartite motif	NA
+Moschus_moschiferus		ENSMMSG00000008389	Others	NA
+Moschus_moschiferus	BRMS1	ENSMMSG00000008394	Other_CRF	NA
+Moschus_moschiferus	SUPT3H	ENSMMSG00000008424	SUPT	NA
+Moschus_moschiferus	CIR1	ENSMMSG00000008433	Other_Co-activator/repressors	NA
+Moschus_moschiferus	TAF1C	ENSMMSG00000008444	TATA-box	NA
+Moschus_moschiferus	MLLT1	ENSMMSG00000008480	GTF	NA
+Moschus_moschiferus	SUPT7L	ENSMMSG00000008507	SUPT	NA
+Moschus_moschiferus		ENSMMSG00000008625	GTF	NA
+Moschus_moschiferus	WDR77	ENSMMSG00000008635	WD	NA
+Moschus_moschiferus	DNAJB1	ENSMMSG00000008644	Others	NA
+Moschus_moschiferus	THRAP3	ENSMMSG00000008671	Thyroid hormone receptor	NA
+Moschus_moschiferus	HIRA	ENSMMSG00000008682	Others	NA
+Moschus_moschiferus	ERCC3	ENSMMSG00000008705	Others	NA
+Moschus_moschiferus	LPIN2	ENSMMSG00000008712	LPIN	NA
+Moschus_moschiferus	DSCAM	ENSMMSG00000008722	Others	NA
+Moschus_moschiferus	BRD7	ENSMMSG00000008887	Bromodomain	NA
+Moschus_moschiferus	APEX1	ENSMMSG00000008936	Others	NA
+Moschus_moschiferus	DDX20	ENSMMSG00000008956	RNA helicase	NA
+Moschus_moschiferus	SCAND1	ENSMMSG00000009012	Others	NA
+Moschus_moschiferus	PHF20	ENSMMSG00000009035	PHF	NA
+Moschus_moschiferus	LGALS12	ENSMMSG00000009042	Others	NA
+Moschus_moschiferus		ENSMMSG00000009047	Lysine demethylase	NA
+Moschus_moschiferus	NOTCH4	ENSMMSG00000009064	Notch	NA
+Moschus_moschiferus	NOD2	ENSMMSG00000009067	Others	NA
+Moschus_moschiferus	KDM4A	ENSMMSG00000009090	Lysine demethylase	NA
+Moschus_moschiferus	RBM39	ENSMMSG00000009105	RNA binding protein	NA
+Moschus_moschiferus	PAWR	ENSMMSG00000009120	Others	NA
+Moschus_moschiferus	AATF	ENSMMSG00000009137	Others	NA
+Moschus_moschiferus		ENSMMSG00000009140	Others	NA
+Moschus_moschiferus	GTF2A1L	ENSMMSG00000009159	GTF	NA
+Moschus_moschiferus	MDFI	ENSMMSG00000009206	Others	NA
+Moschus_moschiferus	MED27	ENSMMSG00000009213	Mediator complex	NA
+Moschus_moschiferus	PHF12	ENSMMSG00000009230	PHF	NA
+Moschus_moschiferus	AGO1	ENSMMSG00000009238	Others	NA
+Moschus_moschiferus	ITGB3BP	ENSMMSG00000009277	Others	NA
+Moschus_moschiferus	INO80C	ENSMMSG00000009323	INO80 complex	NA
+Moschus_moschiferus	CDK13	ENSMMSG00000009356	Cyclin	NA
+Moschus_moschiferus	GRHPR	ENSMMSG00000009409	Others	NA
+Moschus_moschiferus	PEX2	ENSMMSG00000009421	Others	NA
+Moschus_moschiferus	PRNP	ENSMMSG00000009466	Others	NA
+Moschus_moschiferus	MNAT1	ENSMMSG00000009474	Others	NA
+Moschus_moschiferus		ENSMMSG00000009488	Others	NA
+Moschus_moschiferus	ZMYND11	ENSMMSG00000009508	Zinc finger	NA
+Moschus_moschiferus	RPRD1A	ENSMMSG00000009522	Others	NA
+Moschus_moschiferus	DPY30	ENSMMSG00000009525	Others	NA
+Moschus_moschiferus	CHD9	ENSMMSG00000009559	CHD	NA
+Moschus_moschiferus	ASCC1	ENSMMSG00000009578	ASCC	NA
+Moschus_moschiferus	BEND3	ENSMMSG00000009582	Others	NA
+Moschus_moschiferus		ENSMMSG00000009591	Mediator complex	NA
+Moschus_moschiferus	CCDC85B	ENSMMSG00000009601	Coiled-coil	NA
+Moschus_moschiferus	RNF141	ENSMMSG00000009603	Ring finger protein	NA
+Moschus_moschiferus	KDM6A	ENSMMSG00000009624	Lysine demethylase	NA
+Moschus_moschiferus	SENP1	ENSMMSG00000009631	Others	NA
+Moschus_moschiferus	ELP2	ENSMMSG00000009636	ELP	NA
+Moschus_moschiferus	WNT4	ENSMMSG00000009640	Others	NA
+Moschus_moschiferus	LBH	ENSMMSG00000009685	Others	NA
+Moschus_moschiferus	CASP8AP2	ENSMMSG00000009688	Others	NA
+Moschus_moschiferus	SMARCD3	ENSMMSG00000009749	SWI/SNF	NA
+Moschus_moschiferus		ENSMMSG00000009793	TATA-box	NA
+Moschus_moschiferus	PHF21A	ENSMMSG00000009796	PHF	NA
+Moschus_moschiferus	PARK7	ENSMMSG00000009819	Others	NA
+Moschus_moschiferus	GTF2A1	ENSMMSG00000009842	GTF	NA
+Moschus_moschiferus	ABT1	ENSMMSG00000009933	Others	NA
+Moschus_moschiferus	COPS2	ENSMMSG00000009947	Others	NA
+Moschus_moschiferus	RBL2	ENSMMSG00000009982	Other_Co-activator/repressors	NA
+Moschus_moschiferus	SGF29	ENSMMSG00000010009	Others	NA
+Moschus_moschiferus	TAF8	ENSMMSG00000010017	TATA-box	NA
+Moschus_moschiferus	DVL2	ENSMMSG00000010027	Others	NA
+Moschus_moschiferus		ENSMMSG00000010052	Others	NA
+Moschus_moschiferus	BANP	ENSMMSG00000010083	Others	NA
+Moschus_moschiferus	BTN3A1	ENSMMSG00000010159	Others	NA
+Moschus_moschiferus	GNL3	ENSMMSG00000010179	Others	NA
+Moschus_moschiferus	PCGF3	ENSMMSG00000010181	PCGF	NA
+Moschus_moschiferus	CTR9	ENSMMSG00000010186	Others	NA
+Moschus_moschiferus	ECD	ENSMMSG00000010214	Others	NA
+Moschus_moschiferus	PBXIP1	ENSMMSG00000010216	Others	NA
+Moschus_moschiferus		ENSMMSG00000010244	EID	NA
+Moschus_moschiferus	NCK1	ENSMMSG00000010247	Others	NA
+Moschus_moschiferus	TRIP11	ENSMMSG00000010250	Thyroid hormone receptor	NA
+Moschus_moschiferus	FGF2	ENSMMSG00000010302	FGF	NA
+Moschus_moschiferus	AEBP1	ENSMMSG00000010337	Others	NA
+Moschus_moschiferus		ENSMMSG00000010401	Others	NA
+Moschus_moschiferus	DGKQ	ENSMMSG00000010406	Others	NA
+Moschus_moschiferus	CCNH	ENSMMSG00000010425	Cyclin	NA
+Moschus_moschiferus		ENSMMSG00000010451	Others	NA
+Moschus_moschiferus	CDC73	ENSMMSG00000010453	Others	NA
+Moschus_moschiferus		ENSMMSG00000010478	Zinc finger	NA
+Moschus_moschiferus	MED8	ENSMMSG00000010487	Mediator complex	NA
+Moschus_moschiferus		ENSMMSG00000010637	Others	NA
+Moschus_moschiferus	ARRB1	ENSMMSG00000010638	Others	NA
+Moschus_moschiferus	CTNNBIP1	ENSMMSG00000010639	Casein	NA
+Moschus_moschiferus	ANXA4	ENSMMSG00000010654	Others	NA
+Moschus_moschiferus	H1-4	ENSMMSG00000010675	Histone cluster 1 H1	NA
+Moschus_moschiferus	CCNT1	ENSMMSG00000010725	Cyclin	NA
+Moschus_moschiferus	H1-6	ENSMMSG00000010727	Histone cluster 1 H1	NA
+Moschus_moschiferus	GPS2	ENSMMSG00000010738	Others	NA
+Moschus_moschiferus	CTBP1	ENSMMSG00000010749	Others	NA
+Moschus_moschiferus	EED	ENSMMSG00000010761	Others	NA
+Moschus_moschiferus	CASK	ENSMMSG00000010789	CAMK	NA
+Moschus_moschiferus	HAT1	ENSMMSG00000010893	Others	NA
+Moschus_moschiferus	CDK7	ENSMMSG00000010909	Cyclin	NA
+Moschus_moschiferus	PICALM	ENSMMSG00000010915	Others	NA
+Moschus_moschiferus	EYA1	ENSMMSG00000010939	EYA	NA
+Moschus_moschiferus	HIPK1	ENSMMSG00000011030	HIPK	NA
+Moschus_moschiferus	AURKAIP1	ENSMMSG00000011079	Others	NA
+Moschus_moschiferus	PNRC1	ENSMMSG00000011087	Others	NA
+Moschus_moschiferus	BTAF1	ENSMMSG00000011097	Others	NA
+Moschus_moschiferus	LPXN	ENSMMSG00000011098	Others	NA
+Moschus_moschiferus	SFMBT1	ENSMMSG00000011103	Others	NA
+Moschus_moschiferus	PIK3R1	ENSMMSG00000011184	Others	NA
+Moschus_moschiferus	ASCC3	ENSMMSG00000011234	ASCC	NA
+Moschus_moschiferus		ENSMMSG00000011248	Others	NA
+Moschus_moschiferus	RBBP8	ENSMMSG00000011287	RBBP	NA
+Moschus_moschiferus	TRAK2	ENSMMSG00000011295	Others	NA
+Moschus_moschiferus	INO80E	ENSMMSG00000011322	INO80 complex	NA
+Moschus_moschiferus	TRIP6	ENSMMSG00000011338	Thyroid hormone receptor	NA
+Moschus_moschiferus	HR	ENSMMSG00000011355	Lysine methyltransferase	NA
+Moschus_moschiferus	SSU72	ENSMMSG00000011362	Others	NA
+Moschus_moschiferus	TCERG1L	ENSMMSG00000011373	TEF	NA
+Moschus_moschiferus	SIVA1	ENSMMSG00000011374	Others	NA
+Moschus_moschiferus	TRIM33	ENSMMSG00000011404	Tripartite motif	NA
+Moschus_moschiferus	LRPPRC	ENSMMSG00000011457	Others	NA
+Moschus_moschiferus	CTNND1	ENSMMSG00000011459	Casein	NA
+Moschus_moschiferus	C1D	ENSMMSG00000011514	Other_Co-activator/repressors	NA
+Moschus_moschiferus	CCNC	ENSMMSG00000011528	Cyclin	NA
+Moschus_moschiferus	NRIP1	ENSMMSG00000011545	Nuclear receptor coactivator	NA
+Moschus_moschiferus	ELL3	ENSMMSG00000011646	GTF	NA
+Moschus_moschiferus	CDK5	ENSMMSG00000011686	Cyclin	NA
+Moschus_moschiferus	PCGF5	ENSMMSG00000011720	PCGF	NA
+Moschus_moschiferus	HNRNPK	ENSMMSG00000011741	HNRNP	NA
+Moschus_moschiferus	NELFA	ENSMMSG00000011766	GTF	NA
+Moschus_moschiferus	FGF11	ENSMMSG00000011773	FGF	NA
+Moschus_moschiferus	ANKRD1	ENSMMSG00000011783	Ankyrin repeat	NA
+Moschus_moschiferus	ITCH	ENSMMSG00000011807	Others	NA
+Moschus_moschiferus		ENSMMSG00000011871	Others	NA
+Moschus_moschiferus	MED19	ENSMMSG00000011903	Mediator complex	NA
+Moschus_moschiferus	MYBBP1A	ENSMMSG00000011933	MYB	NA
+Moschus_moschiferus	TRAF6	ENSMMSG00000011934	Others	NA
+Moschus_moschiferus	ACTL6B	ENSMMSG00000011987	Actin	NA
+Moschus_moschiferus	TARBP1	ENSMMSG00000012045	Others	NA
+Moschus_moschiferus	RALY	ENSMMSG00000012103	Others	NA
+Moschus_moschiferus	SKI	ENSMMSG00000012173	SKI	NA
+Moschus_moschiferus	SFSWAP	ENSMMSG00000012216	Others	NA
+Moschus_moschiferus	TP53BP1	ENSMMSG00000012242	Others	NA
+Moschus_moschiferus	NELFB	ENSMMSG00000012290	GTF	NA
+Moschus_moschiferus	TAF15	ENSMMSG00000012333	TATA-box	NA
+Moschus_moschiferus	MED31	ENSMMSG00000012348	Mediator complex	NA
+Moschus_moschiferus	EDRF1	ENSMMSG00000012377	Others	NA
+Moschus_moschiferus	CBFA2T2	ENSMMSG00000012397	Others	NA
+Moschus_moschiferus	SMYD2	ENSMMSG00000012419	SMYD	NA
+Moschus_moschiferus	KAT6B	ENSMMSG00000012486	Lysine acetyltransferase	NA
+Moschus_moschiferus	CTBP2	ENSMMSG00000012540	Others	NA
+Moschus_moschiferus	POLR1A	ENSMMSG00000012542	POLR	NA
+Moschus_moschiferus	SFRP4	ENSMMSG00000012546	Others	NA
+Moschus_moschiferus	EP400	ENSMMSG00000012568	Others	NA
+Moschus_moschiferus	TAF6L	ENSMMSG00000012575	TATA-box	NA
+Moschus_moschiferus	CENPF	ENSMMSG00000012586	CENP	NA
+Moschus_moschiferus	CCAR2	ENSMMSG00000012636	Others	NA
+Moschus_moschiferus		ENSMMSG00000012690	Others	NA
+Moschus_moschiferus	ATF7IP2	ENSMMSG00000012744	Others	NA
+Moschus_moschiferus	NCOA2	ENSMMSG00000012815	Nuclear receptor coactivator	NA
+Moschus_moschiferus	ERBIN	ENSMMSG00000012886	Erbb2	NA
+Moschus_moschiferus	CIDEA	ENSMMSG00000012968	Others	NA
+Moschus_moschiferus	ACTR8	ENSMMSG00000012979	ACTR	NA
+Moschus_moschiferus	RBBP4	ENSMMSG00000012981	RBBP	NA
+Moschus_moschiferus	CIITA	ENSMMSG00000012985	Others	NA
+Moschus_moschiferus	TPR	ENSMMSG00000012992	Others	NA
+Moschus_moschiferus	KDM3A	ENSMMSG00000013019	Lysine demethylase	NA
+Moschus_moschiferus	LOXL2	ENSMMSG00000013026	Others	NA
+Moschus_moschiferus		ENSMMSG00000013036	CREB	NA
+Moschus_moschiferus	BTG1	ENSMMSG00000013074	Others	NA
+Moschus_moschiferus	FHL5	ENSMMSG00000013095	FHL	NA
+Moschus_moschiferus	TTF2	ENSMMSG00000013101	Others	NA
+Moschus_moschiferus	SLC19A1	ENSMMSG00000013111	SLC	NA
+Moschus_moschiferus	UFL1	ENSMMSG00000013113	Others	NA
+Moschus_moschiferus	EHMT1	ENSMMSG00000013139	Histone lysine methyltransferase	NA
+Moschus_moschiferus	PHF2	ENSMMSG00000013156	PHF	NA
+Moschus_moschiferus	CCDC59	ENSMMSG00000013247	Coiled-coil	NA
+Moschus_moschiferus	SSBP3	ENSMMSG00000013264	Others	NA
+Moschus_moschiferus	TXNIP	ENSMMSG00000013265	Others	NA
+Moschus_moschiferus	CTH	ENSMMSG00000013275	Others	NA
+Moschus_moschiferus	TAF6	ENSMMSG00000013278	TATA-box	NA
+Moschus_moschiferus	PAGR1	ENSMMSG00000013279	Others	NA
+Moschus_moschiferus		ENSMMSG00000013291	ANP	NA
+Moschus_moschiferus	SS18	ENSMMSG00000013386	SS18	NA
+Moschus_moschiferus	SMYD1	ENSMMSG00000013392	SMYD	NA
+Moschus_moschiferus	XRCC6	ENSMMSG00000013395	Others	NA
+Moschus_moschiferus	GSK3B	ENSMMSG00000013438	Others	NA
+Moschus_moschiferus	SAP130	ENSMMSG00000013441	SAP	NA
+Moschus_moschiferus		ENSMMSG00000013451	Histone deacetylase	NA
+Moschus_moschiferus	GMNN	ENSMMSG00000013483	Others	NA
+Moschus_moschiferus	ILF2	ENSMMSG00000013509	Others	NA
+Moschus_moschiferus	IKBKG	ENSMMSG00000013522	Others	NA
+Moschus_moschiferus	MED4	ENSMMSG00000013569	Mediator complex	NA
+Moschus_moschiferus	TDP2	ENSMMSG00000013575	Others	NA
+Moschus_moschiferus	SYK	ENSMMSG00000013609	Others	NA
+Moschus_moschiferus		ENSMMSG00000013644	PHF	NA
+Moschus_moschiferus	TRIM25	ENSMMSG00000013646	Tripartite motif	NA
+Moschus_moschiferus	CHTOP	ENSMMSG00000013653	Others	NA
+Moschus_moschiferus	BTK	ENSMMSG00000013659	Others	NA
+Moschus_moschiferus	RB1	ENSMMSG00000013661	Other_Co-activator/repressors	NA
+Moschus_moschiferus	TOB2	ENSMMSG00000013665	Others	NA
+Moschus_moschiferus	PRDM7	ENSMMSG00000013678	Others	NA
+Moschus_moschiferus	TAF4B	ENSMMSG00000013698	TATA-box	NA
+Moschus_moschiferus	KCTD1	ENSMMSG00000013715	Others	NA
+Moschus_moschiferus		ENSMMSG00000013735	Zinc finger	NA
+Moschus_moschiferus	GTF2E1	ENSMMSG00000013738	GTF	NA
+Moschus_moschiferus	TAF7L	ENSMMSG00000013786	TATA-box	NA
+Moschus_moschiferus	TASOR	ENSMMSG00000013805	FAM	NA
+Moschus_moschiferus	LMO2	ENSMMSG00000013814	LIM	NA
+Moschus_moschiferus	RNF10	ENSMMSG00000013817	Ring finger protein	NA
+Moschus_moschiferus	PRMT2	ENSMMSG00000013848	Arginine methyltransferase	NA
+Moschus_moschiferus	CEP290	ENSMMSG00000013904	Others	NA
+Moschus_moschiferus	L3MBTL2	ENSMMSG00000013921	Others	NA
+Moschus_moschiferus	SLC26A3	ENSMMSG00000013947	SLC	NA
+Moschus_moschiferus	PCBD2	ENSMMSG00000013960	Others	NA
+Moschus_moschiferus	MBD3L1	ENSMMSG00000013965	MBD	NA
+Moschus_moschiferus	EP300	ENSMMSG00000013986	Others	NA
+Moschus_moschiferus		ENSMMSG00000014039	Cyclin	NA
+Moschus_moschiferus	DHX9	ENSMMSG00000014054	RNA helicase	NA
+Moschus_moschiferus	RBX1	ENSMMSG00000014067	Others	NA
+Moschus_moschiferus	HIPK3	ENSMMSG00000014072	HIPK	NA
+Moschus_moschiferus		ENSMMSG00000014111	SSX	NA
+Moschus_moschiferus	CDK5R1	ENSMMSG00000014112	Cyclin	NA
+Moschus_moschiferus	TLE1	ENSMMSG00000014201	Transducin	NA
+Moschus_moschiferus	PPARGC1A	ENSMMSG00000014222	Others	NA
+Moschus_moschiferus	DNMT3B	ENSMMSG00000014277	DNA_methylase	NA
+Moschus_moschiferus	MRTFA	ENSMMSG00000014290	Others	NA
+Moschus_moschiferus	CHAF1B	ENSMMSG00000014326	Others	NA
+Moschus_moschiferus	TLE4	ENSMMSG00000014344	Transducin	NA
+Moschus_moschiferus	FLNA	ENSMMSG00000014357	Others	NA
+Moschus_moschiferus		ENSMMSG00000014360	Others	NA
+Moschus_moschiferus	CNOT6	ENSMMSG00000014444	CCR4-NOT	NA
+Moschus_moschiferus	RNF2	ENSMMSG00000014531	Ring finger protein	NA
+Moschus_moschiferus		ENSMMSG00000014562	Others	NA
+Moschus_moschiferus	NLRP3	ENSMMSG00000014576	Others	NA
+Moschus_moschiferus	SUV39H1	ENSMMSG00000014578	Others	NA
+Moschus_moschiferus	BUD31	ENSMMSG00000014656	Others	NA
+Moschus_moschiferus	HDAC6	ENSMMSG00000014675	Histone deacetylase	NA
+Moschus_moschiferus	DHX36	ENSMMSG00000014726	RNA helicase	NA
+Moschus_moschiferus	SUZ12	ENSMMSG00000014732	Others	NA
+Moschus_moschiferus	MED14	ENSMMSG00000014735	Mediator complex	NA
+Moschus_moschiferus		ENSMMSG00000014752	SUPT	NA
+Moschus_moschiferus	DCAF6	ENSMMSG00000014780	Others	NA
+Moschus_moschiferus	PQBP1	ENSMMSG00000014787	Others	NA
+Moschus_moschiferus	JUP	ENSMMSG00000014793	Others	NA
+Moschus_moschiferus	SETD1A	ENSMMSG00000014803	SET	NA
+Moschus_moschiferus		ENSMMSG00000014806	Mediator complex	NA
+Moschus_moschiferus	SMURF1	ENSMMSG00000014815	Others	NA
+Moschus_moschiferus	MRTFB	ENSMMSG00000014818	Others	NA
+Moschus_moschiferus	NUDT5	ENSMMSG00000014844	Other_CRF	NA
+Moschus_moschiferus	SRFBP1	ENSMMSG00000014852	Others	NA
+Moschus_moschiferus	KMT2E	ENSMMSG00000014853	Lysine methyltransferase	NA
+Moschus_moschiferus	HCLS1	ENSMMSG00000014862	Others	NA
+Moschus_moschiferus	COPRS	ENSMMSG00000014900	Others	NA
+Moschus_moschiferus	SAV1	ENSMMSG00000014902	Others	NA
+Moschus_moschiferus	ACTN1	ENSMMSG00000014903	Actin	NA
+Moschus_moschiferus	BCL3	ENSMMSG00000014922	BCL	NA
+Moschus_moschiferus	RNF20	ENSMMSG00000014924	Ring finger protein	NA
+Moschus_moschiferus	TRRAP	ENSMMSG00000014927	Others	NA
+Moschus_moschiferus		ENSMMSG00000014928	INO80 complex	NA
+Moschus_moschiferus	SQSTM1	ENSMMSG00000014995	Others	NA
+Moschus_moschiferus	ASXL1	ENSMMSG00000015025	Others	NA
+Moschus_moschiferus	MCRS1	ENSMMSG00000015080	Others	NA
+Moschus_moschiferus		ENSMMSG00000015081	Others	NA
+Moschus_moschiferus	TRIM29	ENSMMSG00000015084	Tripartite motif	NA
+Moschus_moschiferus	MAML1	ENSMMSG00000015102	MAML	NA
+Moschus_moschiferus		ENSMMSG00000015103	Ankyrin repeat	NA
+Moschus_moschiferus	SIN3B	ENSMMSG00000015118	Others	NA
+Moschus_moschiferus	PCGF1	ENSMMSG00000015168	PCGF	NA
+Moschus_moschiferus	TRIM32	ENSMMSG00000015172	Tripartite motif	NA
+Moschus_moschiferus	RRN3	ENSMMSG00000015199	Others	NA
+Moschus_moschiferus	KDM6B	ENSMMSG00000015220	Lysine demethylase	NA
+Moschus_moschiferus	POU2AF1	ENSMMSG00000015256	Others	NA
+Moschus_moschiferus	VGLL4	ENSMMSG00000015264	Vestigial like	NA
+Moschus_moschiferus	CREG1	ENSMMSG00000015297	Others	NA
+Moschus_moschiferus	HCK	ENSMMSG00000015303	Others	NA
+Moschus_moschiferus	EAF2	ENSMMSG00000015318	Others	NA
+Moschus_moschiferus	FBXW7	ENSMMSG00000015345	Others	NA
+Moschus_moschiferus	LOXL3	ENSMMSG00000015398	Others	NA
+Moschus_moschiferus	COPS5	ENSMMSG00000015410	Others	NA
+Moschus_moschiferus	CHD3	ENSMMSG00000015421	CHD	NA
+Moschus_moschiferus	HCFC1	ENSMMSG00000015453	Others	NA
+Moschus_moschiferus	TIMELESS	ENSMMSG00000015470	Others	NA
+Moschus_moschiferus	KAT2A	ENSMMSG00000015477	Lysine acetyltransferase	NA
+Moschus_moschiferus	EHMT2	ENSMMSG00000015492	Histone lysine methyltransferase	NA
+Moschus_moschiferus	KDM5A	ENSMMSG00000015495	Lysine demethylase	NA
+Moschus_moschiferus	KDM1B	ENSMMSG00000015511	Lysine demethylase	NA
+Moschus_moschiferus	CBL	ENSMMSG00000015560	Others	NA
+Moschus_moschiferus	RHOA	ENSMMSG00000015567	Others	NA
+Moschus_moschiferus	TAB1	ENSMMSG00000015603	Others	NA
+Moschus_moschiferus	NSMCE4A	ENSMMSG00000015672	EID	NA
+Moschus_moschiferus	TAB3	ENSMMSG00000015761	Others	NA
+Moschus_moschiferus	CBX7	ENSMMSG00000015769	Chromobox	NA
+Moschus_moschiferus	SMARCD1	ENSMMSG00000015795	SWI/SNF	NA
+Moschus_moschiferus	RNF4	ENSMMSG00000015797	Ring finger protein	NA
+Moschus_moschiferus	TNIP2	ENSMMSG00000015869	Others	NA
+Moschus_moschiferus	ELP4	ENSMMSG00000015874	ELP	NA
+Moschus_moschiferus	TNP1	ENSMMSG00000015890	Other_CRF	NA
+Moschus_moschiferus	CHCHD3	ENSMMSG00000015903	Coiled-coil	NA
+Moschus_moschiferus	PHF19	ENSMMSG00000015912	PHF	NA
+Moschus_moschiferus		ENSMMSG00000015929	Heat shock protein	NA
+Moschus_moschiferus	CBX6	ENSMMSG00000015947	Chromobox	NA
+Moschus_moschiferus	BRMS1L	ENSMMSG00000015961	Other_CRF	NA
+Moschus_moschiferus	CAVIN1	ENSMMSG00000015980	Others	NA
+Moschus_moschiferus		ENSMMSG00000015991	RNA binding protein	NA
+Moschus_moschiferus	TAF3	ENSMMSG00000016016	TATA-box	NA
+Moschus_moschiferus	FGFR2	ENSMMSG00000016023	FGF	NA
+Moschus_moschiferus	RALGAPA1	ENSMMSG00000016068	Others	NA
+Moschus_moschiferus	PARP9	ENSMMSG00000016081	PARP	NA
+Moschus_moschiferus	RYBP	ENSMMSG00000016107	Others	NA
+Moschus_moschiferus	TRIP4	ENSMMSG00000016140	Thyroid hormone receptor	NA
+Moschus_moschiferus		ENSMMSG00000016159	Others	NA
+Moschus_moschiferus		ENSMMSG00000016174	Transducin	NA
+Moschus_moschiferus	TRIM37	ENSMMSG00000016226	Tripartite motif	NA
+Moschus_moschiferus	TRIB3	ENSMMSG00000016229	Others	NA
+Moschus_moschiferus	PARP14	ENSMMSG00000016234	PARP	NA
+Moschus_moschiferus	NPAT	ENSMMSG00000016265	Nuclear coactivator	NA
+Moschus_moschiferus	BAZ1A	ENSMMSG00000016300	Bromodomain	NA
+Moschus_moschiferus	MED12L	ENSMMSG00000016328	Mediator complex	NA
+Moschus_moschiferus		ENSMMSG00000016348	NFKB associated	NA
+Moschus_moschiferus		ENSMMSG00000016531	Casein	NA
+Moschus_moschiferus	SFMBT2	ENSMMSG00000016534	Others	NA
+Moschus_moschiferus	RBBP7	ENSMMSG00000016581	RBBP	NA
+Moschus_moschiferus	DDX17	ENSMMSG00000016642	RNA helicase	NA
+Moschus_moschiferus	SNX6	ENSMMSG00000016683	Others	NA
+Moschus_moschiferus	AURKB	ENSMMSG00000016737	Others	NA
+Moschus_moschiferus	TXLNG	ENSMMSG00000016743	Others	NA
+Moschus_moschiferus	BCL9L	ENSMMSG00000016772	BCL	NA
+Moschus_moschiferus	NRIP2	ENSMMSG00000016777	Nuclear coactivator	NA
+Moschus_moschiferus		ENSMMSG00000016793	Others	NA
+Moschus_moschiferus	MED6	ENSMMSG00000016803	Mediator complex	NA
+Moschus_moschiferus	NUP98	ENSMMSG00000016850	Others	NA
+Moschus_moschiferus	DPPA2	ENSMMSG00000016857	Others	NA
+Moschus_moschiferus	INO80D	ENSMMSG00000016888	INO80 complex	NA
+Moschus_moschiferus	BTRC	ENSMMSG00000016899	Others	NA
+Moschus_moschiferus	EZH1	ENSMMSG00000016924	Others	NA
+Moschus_moschiferus	NAB2	ENSMMSG00000016947	Others	NA
+Moschus_moschiferus	APBB1	ENSMMSG00000016950	Others	NA
+Moschus_moschiferus	FBXW11	ENSMMSG00000016966	Others	NA
+Moschus_moschiferus		ENSMMSG00000017068	Ring finger protein	NA
+Moschus_moschiferus	CTDSP1	ENSMMSG00000017093	Others	NA
+Moschus_moschiferus		ENSMMSG00000017108	Others	NA
+Moschus_moschiferus	MBTD1	ENSMMSG00000017124	Others	NA
+Moschus_moschiferus	REXO4	ENSMMSG00000017141	Others	NA
+Moschus_moschiferus		ENSMMSG00000017147	Nucleoplasmin	NA
+Moschus_moschiferus	PRMT8	ENSMMSG00000017164	Arginine methyltransferase	NA
+Moschus_moschiferus	MED28	ENSMMSG00000017166	Mediator complex	NA
+Moschus_moschiferus	RIPPLY1	ENSMMSG00000017171	Others	NA
+Moschus_moschiferus	KAT5	ENSMMSG00000017197	Lysine acetyltransferase	NA
+Moschus_moschiferus	SIRT5	ENSMMSG00000017298	Sirtuin	NA
+Moschus_moschiferus	CHD7	ENSMMSG00000017316	CHD	NA
+Moschus_moschiferus	NLRP12	ENSMMSG00000017337	Others	NA
+Moschus_moschiferus	ZNF451	ENSMMSG00000017377	Zinc finger	NA
+Moschus_moschiferus	POLR3C	ENSMMSG00000017384	POLR	NA
+Moschus_moschiferus	CNOT9	ENSMMSG00000017385	CCR4-NOT	NA
+Moschus_moschiferus	NSD1	ENSMMSG00000017394	Nuclear receptor coactivator	NA
+Moschus_moschiferus		ENSMMSG00000017464	Others	NA
+Moschus_moschiferus	SIAH2	ENSMMSG00000017488	Others	NA
+Moschus_moschiferus	ARHGAP5	ENSMMSG00000017499	Others	NA
+Moschus_moschiferus	RNF25	ENSMMSG00000017525	Ring finger protein	NA
+Moschus_moschiferus	STK36	ENSMMSG00000017568	Others	NA
+Moschus_moschiferus	MED23	ENSMMSG00000017570	Mediator complex	NA
+Moschus_moschiferus	SUPT20H	ENSMMSG00000017640	SUPT	NA
+Moschus_moschiferus	TAF1D	ENSMMSG00000017642	TATA-box	NA
+Moschus_moschiferus	TOB1	ENSMMSG00000017677	Others	NA
+Moschus_moschiferus		ENSMMSG00000017742	Lysine methyltransferase	NA
+Moschus_moschiferus	MED18	ENSMMSG00000017791	Mediator complex	NA
+Moschus_moschiferus	BEND6	ENSMMSG00000017806	Others	NA
+Moschus_moschiferus	PML	ENSMMSG00000017852	Others	NA
+Moschus_moschiferus	TADA1	ENSMMSG00000017875	Transcriptional adaptor	NA
+Moschus_moschiferus	DDX39B	ENSMMSG00000017881	RNA helicase	NA
+Moschus_moschiferus	BCL9	ENSMMSG00000017896	BCL	NA
+Moschus_moschiferus	TRIP13	ENSMMSG00000017904	Thyroid hormone receptor	NA
+Moschus_moschiferus	ILK	ENSMMSG00000017911	Others	NA
+Moschus_moschiferus	NIPBL	ENSMMSG00000017930	Others	NA
+Moschus_moschiferus	TAF10	ENSMMSG00000017970	TATA-box	NA
+Moschus_moschiferus	ACTB	ENSMMSG00000018023	Actin	NA
+Moschus_moschiferus	BRD3	ENSMMSG00000018045	Bromodomain	NA
+Moschus_moschiferus	RBFOX2	ENSMMSG00000018051	Others	NA
+Moschus_moschiferus	MAD2L2	ENSMMSG00000018054	Others	NA
+Moschus_moschiferus	MED13	ENSMMSG00000018082	Mediator complex	NA
+Moschus_moschiferus	EYA3	ENSMMSG00000018084	EYA	NA
+Moschus_moschiferus	CHD1L	ENSMMSG00000018089	CHD	NA
+Moschus_moschiferus	RWDD3	ENSMMSG00000018092	Others	NA
+Moschus_moschiferus	TDRD3	ENSMMSG00000018099	Others	NA
+Moschus_moschiferus	WDR5	ENSMMSG00000018102	WD	NA
+Moschus_moschiferus	RFXAP	ENSMMSG00000018161	Others	NA
+Moschus_moschiferus	JMY	ENSMMSG00000018183	Others	NA
+Moschus_moschiferus		ENSMMSG00000018195	Others	NA
+Moschus_moschiferus	CCNA1	ENSMMSG00000018218	Cyclin	NA
+Moschus_moschiferus	CCNA2	ENSMMSG00000018221	Cyclin	NA
+Moschus_moschiferus	TRIB1	ENSMMSG00000018222	Others	NA
+Moschus_moschiferus	SCAI	ENSMMSG00000018254	Others	NA
+Moschus_moschiferus	HIF1AN	ENSMMSG00000018273	Others	NA
+Moschus_moschiferus	WWTR1	ENSMMSG00000018305	WW	NA
+Moschus_moschiferus		ENSMMSG00000018306	Others	NA
+Moschus_moschiferus	PABPC1L	ENSMMSG00000018315	Other_CRF	NA
+Moschus_moschiferus	FHIT	ENSMMSG00000018323	Others	NA
+Moschus_moschiferus	MTOR	ENSMMSG00000018337	Others	NA
+Moschus_moschiferus	SDR16C5	ENSMMSG00000018350	Others	NA
+Moschus_moschiferus	YWHAB	ENSMMSG00000018362	Others	NA
+Moschus_moschiferus	HMOX1	ENSMMSG00000018365	Others	NA
+Moschus_moschiferus	NMI	ENSMMSG00000018423	Others	NA
+Moschus_moschiferus	BRIP1	ENSMMSG00000018426	Others	NA
+Moschus_moschiferus	RITA1	ENSMMSG00000018441	Others	NA
+Moschus_moschiferus	CENPU	ENSMMSG00000018468	CENP	NA
+Moschus_moschiferus	NELFCD	ENSMMSG00000018476	GTF	NA
+Moschus_moschiferus	DDX54	ENSMMSG00000018478	RNA helicase	NA
+Moschus_moschiferus	GRIP1	ENSMMSG00000018549	Others	NA
+Moschus_moschiferus	CD3D	ENSMMSG00000018552	Others	NA
+Moschus_moschiferus	BRF1	ENSMMSG00000018638	GTF	NA
+Moschus_moschiferus		ENSMMSG00000018737	Others	NA
+Moschus_moschiferus	NOTCH1	ENSMMSG00000018769	Notch	NA
+Moschus_moschiferus	EPC2	ENSMMSG00000018790	Others	NA
+Moschus_moschiferus	HLTF	ENSMMSG00000018794	Others	NA
+Moschus_moschiferus	TGS1	ENSMMSG00000018818	Others	NA
+Moschus_moschiferus	DTX1	ENSMMSG00000018853	Others	NA
+Moschus_moschiferus		ENSMMSG00000018864	Others	NA
+Moschus_moschiferus	BRCA1	ENSMMSG00000018868	Others	NA
+Moschus_moschiferus	HDAC10	ENSMMSG00000018921	Histone deacetylase	NA
+Moschus_moschiferus	LIMD1	ENSMMSG00000018986	LIM	NA
+Moschus_moschiferus	SMARCB1	ENSMMSG00000018987	SWI/SNF	NA
+Moschus_moschiferus	HEATR1	ENSMMSG00000019023	Others	NA
+Moschus_moschiferus	ICE2	ENSMMSG00000019040	GTF	NA
+Moschus_moschiferus	XRN2	ENSMMSG00000019064	Others	NA
+Moschus_moschiferus	MED22	ENSMMSG00000019115	Mediator complex	NA
+Moschus_moschiferus	LIN54	ENSMMSG00000019121	Others	NA
+Moschus_moschiferus	LIN9	ENSMMSG00000019171	Others	NA
+Moschus_moschiferus	PEX14	ENSMMSG00000019184	Others	NA
+Moschus_moschiferus	ACTN2	ENSMMSG00000019197	Actin	NA
+Moschus_moschiferus	HDAC5	ENSMMSG00000019223	Histone deacetylase	NA
+Moschus_moschiferus	TCEA1	ENSMMSG00000019249	TEF	NA
+Moschus_moschiferus	EYA4	ENSMMSG00000019255	EYA	NA
+Moschus_moschiferus	GTF2A2	ENSMMSG00000019278	GTF	NA
+Moschus_moschiferus	DNTTIP2	ENSMMSG00000019293	Others	NA
+Moschus_moschiferus	MED13L	ENSMMSG00000019318	Mediator complex	NA
+Moschus_moschiferus	SMARCAD1	ENSMMSG00000019370	SWI/SNF	NA
+Moschus_moschiferus	YAP1	ENSMMSG00000019446	Others	NA
+Moschus_moschiferus		ENSMMSG00000019467	Others	NA
+Moschus_moschiferus	PRAME	ENSMMSG00000019528	Others	NA
+Moschus_moschiferus		ENSMMSG00000019529	Others	NA
+Moschus_moschiferus	TOPORS	ENSMMSG00000019541	Others	NA
+Moschus_moschiferus	TAF4	ENSMMSG00000019546	TATA-box	NA
+Moschus_moschiferus	RNF111	ENSMMSG00000019565	Ring finger protein	NA
+Moschus_moschiferus	TESC	ENSMMSG00000019593	Others	NA
+Moschus_moschiferus	PUF60	ENSMMSG00000019612	Others	NA
+Moschus_moschiferus	SLTM	ENSMMSG00000019627	Others	NA
+Moschus_moschiferus		ENSMMSG00000019634	Others	NA
+Moschus_moschiferus	WDTC1	ENSMMSG00000019642	WD	NA
+Moschus_moschiferus	DPF3	ENSMMSG00000019667	DPF	NA
+Moschus_moschiferus	HSPA8	ENSMMSG00000019680	Heat shock protein	NA
+Moschus_moschiferus	DPF2	ENSMMSG00000019700	DPF	NA
+Moschus_moschiferus	ATXN7L3	ENSMMSG00000019750	Others	NA
+Moschus_moschiferus	LMO1	ENSMMSG00000019773	LIM	NA
+Moschus_moschiferus	RGCC	ENSMMSG00000019778	Others	NA
+Moschus_moschiferus	HYAL2	ENSMMSG00000019823	Others	NA
+Moschus_moschiferus	RPTOR	ENSMMSG00000019851	Others	NA
+Moschus_moschiferus	SIN3A	ENSMMSG00000019854	Other_CRF	NA
+Moschus_moschiferus	MED16	ENSMMSG00000019859	Mediator complex	NA
+Moschus_moschiferus		ENSMMSG00000019866	Others	NA
+Moschus_moschiferus	SS18L1	ENSMMSG00000019914	SS18	NA
+Moschus_moschiferus	DAB2	ENSMMSG00000019922	Others	NA
+Moschus_moschiferus	ELANE	ENSMMSG00000019927	Others	NA
+Moschus_moschiferus	PARP10	ENSMMSG00000019945	PARP	NA
+Moschus_moschiferus	POLR3F	ENSMMSG00000019988	POLR	NA
+Moschus_moschiferus	PSEN1	ENSMMSG00000019994	Others	NA
+Moschus_moschiferus		ENSMMSG00000020011	CHD	NA
+Moschus_moschiferus	CRY1	ENSMMSG00000020037	Others	NA
+Moschus_moschiferus	NIBAN2	ENSMMSG00000020068	FAM	NA
+Moschus_moschiferus	TRIM11	ENSMMSG00000020106	Tripartite motif	NA
+Moschus_moschiferus	CDYL	ENSMMSG00000020126	Chromodomain Y	NA
+Moschus_moschiferus	MLLT6	ENSMMSG00000020128	Others	NA
+Moschus_moschiferus	PCGF2	ENSMMSG00000020178	PCGF	NA
+Moschus_moschiferus	TNNI2	ENSMMSG00000020255	Others	NA
+Moschus_moschiferus	KMT5C	ENSMMSG00000020268	Lysine methyltransferase	NA
+Moschus_moschiferus		ENSMMSG00000020291	Others	NA
+Moschus_moschiferus	HNRNPD	ENSMMSG00000020376	HNRNP	NA
+Moschus_moschiferus	BRD1	ENSMMSG00000020432	Bromodomain	NA
+Moschus_moschiferus	SUDS3	ENSMMSG00000020439	Other_Co-activator/repressors	NA
+Moschus_moschiferus	RPAP2	ENSMMSG00000020475	Others	NA
+Moschus_moschiferus	ICE1	ENSMMSG00000020525	Others	NA
+Moschus_moschiferus	ANP32E	ENSMMSG00000020532	ANP	NA
+Moschus_moschiferus		ENSMMSG00000020553	Others	NA
+Moschus_moschiferus	TGFB1	ENSMMSG00000020561	Others	NA
+Moschus_moschiferus	CDKN1B	ENSMMSG00000020563	Cyclin	NA
+Moschus_moschiferus	NOTCH3	ENSMMSG00000020568	Notch	NA
+Moschus_moschiferus	LDB2	ENSMMSG00000020581	LIM	NA
+Moschus_moschiferus	MED10	ENSMMSG00000020585	Mediator complex	NA
+Moschus_moschiferus	PLRG1	ENSMMSG00000020599	Others	NA
+Moschus_moschiferus	EAF1	ENSMMSG00000020617	Others	NA
+Moschus_moschiferus	ERBB4	ENSMMSG00000020665	Erbb2	NA
+Moschus_moschiferus		ENSMMSG00000020672	Bromodomain	NA
+Moschus_moschiferus	TBPL1	ENSMMSG00000020735	TATA-box	NA
+Moschus_moschiferus	SETD2	ENSMMSG00000020751	SET	NA
+Moschus_moschiferus	SND1	ENSMMSG00000020818	Others	NA
+Moschus_moschiferus	CDK9	ENSMMSG00000020821	Cyclin	NA
+Moschus_moschiferus	ANKRD2	ENSMMSG00000020830	Ankyrin repeat	NA
+Moschus_moschiferus	MRGBP	ENSMMSG00000020847	Others	NA
+Moschus_moschiferus	SGK1	ENSMMSG00000020868	Others	NA
+Moschus_moschiferus	ENG	ENSMMSG00000020969	Others	NA
+Moschus_moschiferus		ENSMMSG00000020982	SS18	NA
+Moschus_moschiferus	BRDT	ENSMMSG00000021008	Bromodomain	NA
+Moschus_moschiferus	MMS19	ENSMMSG00000021033	Others	NA
+Moschus_moschiferus	HDGF	ENSMMSG00000021041	Others	NA
+Moschus_moschiferus	ATF7IP	ENSMMSG00000021118	Others	NA
+Moschus_moschiferus		ENSMMSG00000021193	Others	NA
+Moschus_moschiferus	WAC	ENSMMSG00000021254	WW	NA
+Moschus_moschiferus		ENSMMSG00000021257	Ring finger protein	NA
+Moschus_moschiferus	CHD6	ENSMMSG00000021276	CHD	NA
+Moschus_moschiferus	MED1	ENSMMSG00000021293	Mediator complex	NA
+Moschus_moschiferus		ENSMMSG00000021296	Others	NA
+Moschus_moschiferus	TRAK1	ENSMMSG00000021330	Others	NA
+Moschus_moschiferus	CNOT10	ENSMMSG00000021363	CCR4-NOT	NA
+Moschus_moschiferus	CDK12	ENSMMSG00000021370	Cyclin	NA
+Moschus_moschiferus	TONSL	ENSMMSG00000021375	Others	NA
+Moschus_moschiferus	LPIN3	ENSMMSG00000021376	LPIN	NA
+Moschus_moschiferus	PDCD4	ENSMMSG00000021390	Others	NA
+Moschus_moschiferus	SMARCD2	ENSMMSG00000021396	SWI/SNF	NA
+Moschus_moschiferus	CNOT2	ENSMMSG00000021430	CCR4-NOT	NA
+Moschus_moschiferus		ENSMMSG00000021461	TATA-box	NA
+Moschus_moschiferus	TOP1	ENSMMSG00000021477	Other_CRF	NA
+Moschus_moschiferus	HEXIM2	ENSMMSG00000021492	Others	NA
+Moschus_moschiferus	ING4	ENSMMSG00000021540	ING	NA
+Moschus_moschiferus	MEN1	ENSMMSG00000021571	Others	NA
+Moschus_moschiferus		ENSMMSG00000021622	Casein	NA
+Moschus_moschiferus	WDR61	ENSMMSG00000021635	WD	NA
+Moschus_moschiferus		ENSMMSG00000021727	Others	NA
+Moschus_moschiferus	CNOT6L	ENSMMSG00000021746	CCR4-NOT	NA
+Moschus_moschiferus	ERBB2	ENSMMSG00000021769	Erbb2	NA
+Moschus_moschiferus	GTF2H1	ENSMMSG00000021771	GTF	NA
+Moschus_moschiferus	ACTR5	ENSMMSG00000021772	ACTR	NA
+Moschus_moschiferus	SF1	ENSMMSG00000021777	Others	NA
+Moschus_moschiferus	CRYM	ENSMMSG00000021817	Others	NA
+Moschus_moschiferus	TIRAP	ENSMMSG00000021833	Others	NA
+Moschus_moschiferus	CDKN1C	ENSMMSG00000021836	Cyclin	NA
+Moschus_moschiferus	HCFC2	ENSMMSG00000021847	Others	NA
+Moschus_moschiferus	ERN1	ENSMMSG00000021903	Others	NA
+Moschus_moschiferus	ESF1	ENSMMSG00000021908	Others	NA
+Moschus_moschiferus	TDG	ENSMMSG00000021918	Others	NA
+Moschus_moschiferus	ELL	ENSMMSG00000021935	GTF	NA
+Moschus_moschiferus	CTNND2	ENSMMSG00000022008	Casein	NA
+Moschus_moschiferus		ENSMMSG00000022013	Others	NA
+Moschus_moschiferus		ENSMMSG00000022142	Other_CRF	NA
+Moschus_moschiferus	DDX5	ENSMMSG00000022147	RNA helicase	NA
+Moschus_moschiferus	CRTC1	ENSMMSG00000022161	CREB	NA
+Moschus_moschiferus	KAT2B	ENSMMSG00000022164	Lysine acetyltransferase	NA
+Moschus_moschiferus		ENSMMSG00000022165	Others	NA
+Moschus_moschiferus		ENSMMSG00000022171	RNA binding protein	NA
+Moschus_moschiferus	DCAF1	ENSMMSG00000022183	Others	NA
+Moschus_moschiferus	STRAP	ENSMMSG00000022184	Others	NA
+Moschus_moschiferus	ATN1	ENSMMSG00000022203	Others	NA
+Moschus_moschiferus	KDM4B	ENSMMSG00000022220	Lysine demethylase	NA
+Moschus_moschiferus	CDK1	ENSMMSG00000022254	Cyclin	NA
+Moschus_moschiferus	CSRP3	ENSMMSG00000022318	Others	NA
+Moschus_moschiferus	CHEK1	ENSMMSG00000022326	Others	NA
+Moschus_moschiferus	BRD2	ENSMMSG00000022334	Bromodomain	NA
+Moschus_moschiferus	SMURF2	ENSMMSG00000022347	Others	NA
+Moschus_moschiferus	NRBF2	ENSMMSG00000022442	Nuclear receptor coactivator	NA
+Moschus_moschiferus	BPTF	ENSMMSG00000022444	Bromodomain	NA
+Moschus_moschiferus	JMJD1C	ENSMMSG00000022469	Other_CRF	NA
+Moschus_moschiferus	EPC1	ENSMMSG00000022508	Others	NA
+Moschus_moschiferus	WNT3A	ENSMMSG00000022541	Others	NA
+Moschus_moschiferus	CCNT2	ENSMMSG00000022579	Cyclin	NA
+Moschus_moschiferus	PRDX5	ENSMMSG00000022654	Others	NA
+Moschus_moschiferus	LRRK2	ENSMMSG00000022665	Other_CRF	NA
+Moschus_moschiferus	KDM2B	ENSMMSG00000022687	Lysine demethylase	NA
+Moschus_moschiferus	SIRT1	ENSMMSG00000022691	Sirtuin	NA
+Moschus_moschiferus	SET	ENSMMSG00000022708	SET	NA
+Moschus_moschiferus	BASP1	ENSMMSG00000022727	Others	NA
+Moschus_moschiferus	NOL11	ENSMMSG00000022761	Nuclear coactivator	NA
+Moschus_moschiferus	SFR1	ENSMMSG00000022773	Others	NA
+Moschus_moschiferus	SIRT6	ENSMMSG00000022789	Sirtuin	NA
+Moschus_moschiferus	SETD1B	ENSMMSG00000022793	SET	NA
+Moschus_moschiferus	EGFR	ENSMMSG00000022810	Others	NA
+Moschus_moschiferus		ENSMMSG00000022815	Others	NA
+Moschus_moschiferus	HTATIP2	ENSMMSG00000022848	Others	NA
+Moschus_moschiferus	LANCL2	ENSMMSG00000022852	Others	NA
+Moschus_moschiferus	DAPK3	ENSMMSG00000022904	Others	NA
+Moschus_moschiferus		ENSMMSG00000022947	TATA-box	NA
+Moschus_moschiferus	STRN3	ENSMMSG00000022995	Others	NA
+Moschus_moschiferus	CBX4	ENSMMSG00000023049	Chromobox	NA
+Moschus_moschiferus	CBX8	ENSMMSG00000023061	Chromobox	NA
+Moschus_moschiferus	CBX2	ENSMMSG00000023066	Chromobox	NA
+Moschus_moschiferus		ENSMMSG00000023069	GTF	NA
+Moschus_moschiferus	RING1	ENSMMSG00000023081	Ring finger protein	NA
+Moschus_moschiferus	TAF5	ENSMMSG00000023138	TATA-box	NA
+Moschus_moschiferus	CCAR1	ENSMMSG00000023140	Others	NA
+Moschus_moschiferus		ENSMMSG00000023151	PCGF	NA
+Moschus_moschiferus	ALPK3	ENSMMSG00000023207	Others	NA
+Moschus_moschiferus	DAXX	ENSMMSG00000023208	Other_CRF	NA
+Moschus_moschiferus		ENSMMSG00000023279	Others	NA
+Moschus_moschiferus	PHF1	ENSMMSG00000023287	PHF	NA
+Moschus_moschiferus	RUVBL1	ENSMMSG00000023371	Other_CRF	NA
+Moschus_moschiferus	BLM	ENSMMSG00000023383	Others	NA
+Moschus_moschiferus	SIRT7	ENSMMSG00000023387	Sirtuin	NA
+Moschus_moschiferus	BIRC5	ENSMMSG00000023409	Others	NA
+Moschus_moschiferus	ALYREF	ENSMMSG00000023460	Others	NA
+Moschus_moschiferus	LMCD1	ENSMMSG00000023464	LIM	NA
+Moschus_moschiferus	HELLS	ENSMMSG00000023469	Others	NA
+Moschus_moschiferus	MED24	ENSMMSG00000023477	Mediator complex	NA
+Moschus_moschiferus	PLK1	ENSMMSG00000023479	Others	NA
+Moschus_moschiferus	TRIM8	ENSMMSG00000023486	Tripartite motif	NA
+Moschus_moschiferus	SUFU	ENSMMSG00000023494	Others	NA
+Moschus_moschiferus	PRPF6	ENSMMSG00000023525	Others	NA
+Moschus_moschiferus	KMT5B	ENSMMSG00000023533	Lysine methyltransferase	NA
+Moschus_moschiferus	PHF21B	ENSMMSG00000023551	PHF	NA
+Moschus_moschiferus	TCEA2	ENSMMSG00000023564	TEF	NA
+Moschus_moschiferus	ACTR6	ENSMMSG00000023566	ACTR	NA
+Moschus_moschiferus	SLC30A9	ENSMMSG00000023608	SLC	NA
+Moschus_moschiferus	TAF11	ENSMMSG00000023653	TATA-box	NA
+Moschus_moschiferus	BAHCC1	ENSMMSG00000023656	Others	NA
+Moschus_moschiferus	PPRC1	ENSMMSG00000023667	Others	NA
+Moschus_moschiferus	LDB1	ENSMMSG00000023714	LIM	NA
+Moschus_moschiferus	HDAC11	ENSMMSG00000023715	Histone deacetylase	NA
+Moschus_moschiferus	EFCAB6	ENSMMSG00000023723	Others	NA
+Moschus_moschiferus	TADA3	ENSMMSG00000023726	Transcriptional adaptor	NA
+Moschus_moschiferus	SRSF2	ENSMMSG00000023746	Others	NA
+Moschus_moschiferus	JMJD6	ENSMMSG00000023758	Others	NA
+Moschus_moschiferus	AIP	ENSMMSG00000023787	Others	NA
+Moschus_moschiferus		ENSMMSG00000023864	Others	NA
+Moschus_moschiferus		ENSMMSG00000023881	Others	NA
+Moschus_moschiferus	TCF20	ENSMMSG00000023893	Others	NA
+Moschus_moschiferus	NPM3	ENSMMSG00000023905	Nucleoplasmin	NA
+Moschus_moschiferus	MED21	ENSMMSG00000023910	Mediator complex	NA
+Moschus_moschiferus	WBP2NL	ENSMMSG00000023938	Others	NA
+Moschus_moschiferus	KDM2A	ENSMMSG00000023992	Lysine demethylase	NA
+Moschus_moschiferus	MYOCD	ENSMMSG00000024025	Others	NA
+Moschus_moschiferus	WBP2	ENSMMSG00000024083	WW	NA
+Moschus_moschiferus	RBM14	ENSMMSG00000024136	RNA binding protein	NA
+Moschus_moschiferus	TRIM16	ENSMMSG00000024152	Tripartite motif	NA
+Moschus_moschiferus	RAF1	ENSMMSG00000024157	Others	NA
+Moschus_moschiferus	SAP30BP	ENSMMSG00000024161	SAP	NA
+Moschus_moschiferus	RECQL5	ENSMMSG00000024167	Others	NA
+Moschus_moschiferus	CAMK2D	ENSMMSG00000024263	CAMK	NA
+Moschus_moschiferus	FAM83G	ENSMMSG00000024328	FAM	NA
+Moschus_moschiferus	NIF3L1	ENSMMSG00000024332	Others	NA
+Moschus_moschiferus	ORC2	ENSMMSG00000024335	Others	NA
+Moschus_moschiferus	FLII	ENSMMSG00000024348	Others	NA
+Moschus_moschiferus	MACROH2A2	ENSMMSG00000024354	Others	NA
+Moschus_moschiferus	RAI1	ENSMMSG00000024391	Others	NA
+Moschus_moschiferus	RASD1	ENSMMSG00000024397	Others	NA
+Moschus_moschiferus	MED9	ENSMMSG00000024398	Mediator complex	NA
+Moschus_moschiferus	ASCC2	ENSMMSG00000024410	ASCC	NA
+Moschus_moschiferus	HDAC9	ENSMMSG00000024464	Histone deacetylase	NA
+Moschus_moschiferus	SKAP1	ENSMMSG00000024536	Others	NA
+Moschus_moschiferus	CDK5RAP3	ENSMMSG00000024548	Cyclin	NA

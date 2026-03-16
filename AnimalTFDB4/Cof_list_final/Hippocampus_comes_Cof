@@ -1,0 +1,712 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Hippocampus_comes	sirt6	ENSHCOG00000000050	Sirtuin	109507346
+Hippocampus_comes	hnrnpd	ENSHCOG00000000087	HNRNP	109529131
+Hippocampus_comes	GSK3B	ENSHCOG00000000150	Others	109531284
+Hippocampus_comes	skap2	ENSHCOG00000000161	Others	109525647
+Hippocampus_comes	taf1b	ENSHCOG00000000234	TATA-box	109531723
+Hippocampus_comes	aurkb	ENSHCOG00000000240	Others	109515948
+Hippocampus_comes	clu	ENSHCOG00000000291	Others	109516297
+Hippocampus_comes	morf4l1	ENSHCOG00000000418	Other_CRF	109519468
+Hippocampus_comes	seta	ENSHCOG00000000472	SET	109515647
+Hippocampus_comes	sin3ab	ENSHCOG00000000491	Other_CRF	109525885
+Hippocampus_comes	vgll4b	ENSHCOG00000000510	Vestigial like	109529197
+Hippocampus_comes	fhit	ENSHCOG00000000541	Others	109521654
+Hippocampus_comes	brd3a	ENSHCOG00000000568	Bromodomain	109525285
+Hippocampus_comes	adrb2a	ENSHCOG00000000575	Others	109524471
+Hippocampus_comes		ENSHCOG00000000601	Mediator complex	109524355
+Hippocampus_comes		ENSHCOG00000000616	MYC	109515420
+Hippocampus_comes	ccne1	ENSHCOG00000000652	Cyclin	109524571
+Hippocampus_comes	ndnl2	ENSHCOG00000000653	MAGE	109519818
+Hippocampus_comes	cited1	ENSHCOG00000000655	CITED	109516642
+Hippocampus_comes	ccnd2a	ENSHCOG00000000658	Cyclin	109526797
+Hippocampus_comes	fgfr1a	ENSHCOG00000000677	FGF	109511602
+Hippocampus_comes	rap2c	ENSHCOG00000000689	Others	109516583
+Hippocampus_comes	ino80e	ENSHCOG00000000706	INO80 complex	109531687
+Hippocampus_comes	taf8	ENSHCOG00000000716	TATA-box	109513033
+Hippocampus_comes	med4	ENSHCOG00000000784	Mediator complex	109509803
+Hippocampus_comes		ENSHCOG00000000788	Others	109507352
+Hippocampus_comes	tnksb	ENSHCOG00000000804	Others	109524974
+Hippocampus_comes	taf10	ENSHCOG00000000807	TATA-box	109514735
+Hippocampus_comes	polr3c	ENSHCOG00000000823	POLR	109522797
+Hippocampus_comes	ino80da	ENSHCOG00000000853	INO80 complex	109531228
+Hippocampus_comes	hat1	ENSHCOG00000000854	Others	109507897
+Hippocampus_comes	dnajb1b	ENSHCOG00000000897	Others	109527516
+Hippocampus_comes	chd9	ENSHCOG00000000937	CHD	109513904
+Hippocampus_comes	cdca4	ENSHCOG00000000948	Others	109521048
+Hippocampus_comes	nod2	ENSHCOG00000000996	Others	109513982
+Hippocampus_comes	jade1	ENSHCOG00000000999	Others	109521102
+Hippocampus_comes	brd7	ENSHCOG00000001006	Bromodomain	109513989
+Hippocampus_comes	cbfa2t2	ENSHCOG00000001009	Others	109510619
+Hippocampus_comes	taf7	ENSHCOG00000001025	TATA-box	109511949
+Hippocampus_comes	crebbpa	ENSHCOG00000001061	CREB	109527342
+Hippocampus_comes	ell	ENSHCOG00000001070	GTF	109532120
+Hippocampus_comes	dot1l	ENSHCOG00000001086	Others	109532198
+Hippocampus_comes	smarcd1	ENSHCOG00000001093	SWI/SNF	109508255
+Hippocampus_comes		ENSHCOG00000001097	TATA-box	109513977
+Hippocampus_comes	rbmx	ENSHCOG00000001111	RNA binding protein	109511929
+Hippocampus_comes	hells	ENSHCOG00000001119	Others	109520119
+Hippocampus_comes	suds3	ENSHCOG00000001140	Other_Co-activator/repressors	109525319
+Hippocampus_comes	NDUFA13	ENSHCOG00000001161	Others	109507331
+Hippocampus_comes	SRC	ENSHCOG00000001176	Others	109507451
+Hippocampus_comes	smarcd3b	ENSHCOG00000001249	SWI/SNF	109521820
+Hippocampus_comes	HYAL2	ENSHCOG00000001262	Others	109510664
+Hippocampus_comes	apbb1	ENSHCOG00000001273	Others	109527218
+Hippocampus_comes	ILK	ENSHCOG00000001283	Others	109527221
+Hippocampus_comes	ezh2	ENSHCOG00000001287	Others	109521815
+Hippocampus_comes	txlng	ENSHCOG00000001399	Others	109521795
+Hippocampus_comes	leo1	ENSHCOG00000001464	Others	109525746
+Hippocampus_comes	paf1	ENSHCOG00000001482	Others	109518512
+Hippocampus_comes	SAMD4B	ENSHCOG00000001513	Others	109518484
+Hippocampus_comes		ENSHCOG00000001536	Others	109532028
+Hippocampus_comes	ash2l	ENSHCOG00000001657	Others	109525094
+Hippocampus_comes	padi2	ENSHCOG00000001680	Other_CRF	109507846
+Hippocampus_comes	safb	ENSHCOG00000001705	Others	109532264
+Hippocampus_comes	pdcd4b	ENSHCOG00000001710	Others	109519917
+Hippocampus_comes	tescb	ENSHCOG00000001741	Others	109517183
+Hippocampus_comes	cops2	ENSHCOG00000001781	Others	109525992
+Hippocampus_comes	cnot11	ENSHCOG00000001826	CCR4-NOT	109519361
+Hippocampus_comes	brd2a	ENSHCOG00000001831	Bromodomain	109527188
+Hippocampus_comes	nelfb	ENSHCOG00000001847	GTF	109510587
+Hippocampus_comes	ddx20	ENSHCOG00000001915	RNA helicase	NA
+Hippocampus_comes		ENSHCOG00000001948	Others	109527142
+Hippocampus_comes	plrg1	ENSHCOG00000001976	Others	109517207
+Hippocampus_comes	aip	ENSHCOG00000002007	Others	109519871
+Hippocampus_comes	sgf29	ENSHCOG00000002018	Others	109513745
+Hippocampus_comes	kat5b	ENSHCOG00000002064	Lysine acetyltransferase	109517874
+Hippocampus_comes	lmo1	ENSHCOG00000002066	LIM	109526001
+Hippocampus_comes	LRPPRC	ENSHCOG00000002107	Others	109510182
+Hippocampus_comes	tdrd3	ENSHCOG00000002157	Others	109524629
+Hippocampus_comes	mybbp1a	ENSHCOG00000002264	MYB	109517924
+Hippocampus_comes		ENSHCOG00000002275	Others	109512601
+Hippocampus_comes	sap18	ENSHCOG00000002348	SAP	109510455
+Hippocampus_comes		ENSHCOG00000002406	PCGF	109521753
+Hippocampus_comes	ino80	ENSHCOG00000002445	INO80 complex	109513253
+Hippocampus_comes	cdk9	ENSHCOG00000002494	Cyclin	109529116
+Hippocampus_comes		ENSHCOG00000002510	Others	109525990
+Hippocampus_comes	actr8	ENSHCOG00000002561	ACTR	109517777
+Hippocampus_comes	s100s	ENSHCOG00000002600	Others	109514634
+Hippocampus_comes	znf503	ENSHCOG00000002607	Zinc finger	109512548
+Hippocampus_comes	insra	ENSHCOG00000002618	Others	109507385
+Hippocampus_comes	calr	ENSHCOG00000002655	Others	109532019
+Hippocampus_comes	jmjd6	ENSHCOG00000002683	Others	109513742
+Hippocampus_comes	med11	ENSHCOG00000002695	Mediator complex	109516572
+Hippocampus_comes	ncoa4	ENSHCOG00000002698	Nuclear receptor coactivator	109510014
+Hippocampus_comes	pelp1	ENSHCOG00000002703	Others	109516526
+Hippocampus_comes	dab2	ENSHCOG00000002714	Others	109529107
+Hippocampus_comes	trrap	ENSHCOG00000002728	Others	109507687
+Hippocampus_comes	skila	ENSHCOG00000002748	SKI	109507349
+Hippocampus_comes	mad2l2	ENSHCOG00000002752	Others	109528488
+Hippocampus_comes		ENSHCOG00000002795	Others	109516533
+Hippocampus_comes	mnat1	ENSHCOG00000002831	Others	109515987
+Hippocampus_comes	lin54	ENSHCOG00000002894	Others	109529142
+Hippocampus_comes	actr5	ENSHCOG00000002908	ACTR	109517801
+Hippocampus_comes	creg1	ENSHCOG00000002961	Others	109510452
+Hippocampus_comes	OGT	ENSHCOG00000003016	Others	109515817
+Hippocampus_comes	TENM2	ENSHCOG00000003038	Others	109524427
+Hippocampus_comes	jak2a	ENSHCOG00000003063	Others	109517077
+Hippocampus_comes	ncoa3	ENSHCOG00000003088	Nuclear receptor coactivator	109521541
+Hippocampus_comes		ENSHCOG00000003099	Others	109507258
+Hippocampus_comes	setd1a	ENSHCOG00000003119	SET	109531597
+Hippocampus_comes	hif1an	ENSHCOG00000003121	Others	109509915
+Hippocampus_comes	camk2d2	ENSHCOG00000003174	CAMK	109519800
+Hippocampus_comes	pa2g4b	ENSHCOG00000003195	Others	109531390
+Hippocampus_comes	phf20a	ENSHCOG00000003224	PHF	109521579
+Hippocampus_comes	DGKQ	ENSHCOG00000003297	Others	109516660
+Hippocampus_comes	niban2a	ENSHCOG00000003334	FAM	109527068
+Hippocampus_comes	hdac1	ENSHCOG00000003352	Histone deacetylase	109514575
+Hippocampus_comes	rnf111	ENSHCOG00000003380	Ring finger protein	109525980
+Hippocampus_comes		ENSHCOG00000003389	Cyclin	109528044
+Hippocampus_comes		ENSHCOG00000003437	Lysine methyltransferase	NA
+Hippocampus_comes	raf1a	ENSHCOG00000003447	Others	109507267
+Hippocampus_comes	brip1	ENSHCOG00000003492	Others	109523864
+Hippocampus_comes	HABP4	ENSHCOG00000003516	Others	109526856
+Hippocampus_comes	setd7	ENSHCOG00000003551	SET	109529075
+Hippocampus_comes	tenm1	ENSHCOG00000003560	Others	109524220
+Hippocampus_comes	ehmt1b	ENSHCOG00000003641	Histone lysine methyltransferase	109527076
+Hippocampus_comes	top1l	ENSHCOG00000003669	Other_CRF	109521497
+Hippocampus_comes	mtor	ENSHCOG00000003681	Others	109511770
+Hippocampus_comes	dhx36	ENSHCOG00000003686	RNA helicase	109518475
+Hippocampus_comes	fgfr2	ENSHCOG00000003717	FGF	109523130
+Hippocampus_comes	lzts2a	ENSHCOG00000003752	Others	109509929
+Hippocampus_comes	rgcc	ENSHCOG00000003759	Others	109514542
+Hippocampus_comes		ENSHCOG00000003785	Others	109532056
+Hippocampus_comes	HCFC1	ENSHCOG00000003837	Others	109521561
+Hippocampus_comes	xiap	ENSHCOG00000003864	Others	109524245
+Hippocampus_comes	phip	ENSHCOG00000003867	Others	109507222
+Hippocampus_comes	ccdc85b	ENSHCOG00000003868	Coiled-coil	109516631
+Hippocampus_comes	frzb	ENSHCOG00000003870	Others	109517040
+Hippocampus_comes	pcgf1	ENSHCOG00000003873	PCGF	109529041
+Hippocampus_comes	smyd1b	ENSHCOG00000003881	SMYD	109527440
+Hippocampus_comes	trim33	ENSHCOG00000003888	Tripartite motif	109517767
+Hippocampus_comes	npm1b	ENSHCOG00000003895	Nucleoplasmin	109529059
+Hippocampus_comes	vhl	ENSHCOG00000003935	Others	NA
+Hippocampus_comes	FHL2	ENSHCOG00000003948	FHL	109530679
+Hippocampus_comes	cdk5rap3	ENSHCOG00000004014	Cyclin	109526506
+Hippocampus_comes	rbm15	ENSHCOG00000004048	RNA binding protein	109510492
+Hippocampus_comes	elp3	ENSHCOG00000004054	ELP	109508127
+Hippocampus_comes	fgf2	ENSHCOG00000004057	FGF	109529054
+Hippocampus_comes	meaf6	ENSHCOG00000004069	Others	109523845
+Hippocampus_comes	ccar1	ENSHCOG00000004083	Others	NA
+Hippocampus_comes	mdm2	ENSHCOG00000004090	Others	109532684
+Hippocampus_comes	trappc2	ENSHCOG00000004104	Others	109531225
+Hippocampus_comes	cdc73	ENSHCOG00000004110	Others	109521338
+Hippocampus_comes	ruvbl1	ENSHCOG00000004175	Other_CRF	109522184
+Hippocampus_comes	atad2b	ENSHCOG00000004261	Others	109507209
+Hippocampus_comes	tbl1x	ENSHCOG00000004264	Transducin	109531218
+Hippocampus_comes	trib2	ENSHCOG00000004299	Others	109507217
+Hippocampus_comes	chchd3a	ENSHCOG00000004369	Coiled-coil	109523796
+Hippocampus_comes	tradd	ENSHCOG00000004372	Others	109525984
+Hippocampus_comes	uxt	ENSHCOG00000004409	Others	109510384
+Hippocampus_comes	KCNIP3	ENSHCOG00000004421	Others	109526124
+Hippocampus_comes	hdac6	ENSHCOG00000004463	Histone deacetylase	109510379
+Hippocampus_comes	hck	ENSHCOG00000004526	Others	109511820
+Hippocampus_comes	cdkn1bb	ENSHCOG00000004530	Cyclin	109529876
+Hippocampus_comes	sirt1	ENSHCOG00000004534	Sirtuin	109523155
+Hippocampus_comes	dnmt3bb.1	ENSHCOG00000004544	DNA_methylase	109528683
+Hippocampus_comes	hexim1	ENSHCOG00000004560	Others	NA
+Hippocampus_comes	cbfa2t3	ENSHCOG00000004595	Others	109519692
+Hippocampus_comes	HDAC3	ENSHCOG00000004619	Histone deacetylase	109524297
+Hippocampus_comes	anp32b	ENSHCOG00000004637	ANP	109511221
+Hippocampus_comes	taf6	ENSHCOG00000004669	TATA-box	109512426
+Hippocampus_comes	chaf1b	ENSHCOG00000004695	Others	109531318
+Hippocampus_comes	bud31	ENSHCOG00000004703	Others	109527028
+Hippocampus_comes	kat2a	ENSHCOG00000004704	Lysine acetyltransferase	109532223
+Hippocampus_comes	bcl9	ENSHCOG00000004712	BCL	109531238
+Hippocampus_comes	eloca	ENSHCOG00000004749	Others	109517014
+Hippocampus_comes	ccdc59	ENSHCOG00000004915	Coiled-coil	109523782
+Hippocampus_comes	pcbd1	ENSHCOG00000004927	Others	109523167
+Hippocampus_comes	supt5h	ENSHCOG00000004932	SUPT	109514672
+Hippocampus_comes	txnipa	ENSHCOG00000004936	Others	109513141
+Hippocampus_comes	pdlim1	ENSHCOG00000004978	Others	109523100
+Hippocampus_comes	slc25a15b	ENSHCOG00000005031	SLC	109512448
+Hippocampus_comes	cdk5	ENSHCOG00000005068	Cyclin	109526480
+Hippocampus_comes	csrp3	ENSHCOG00000005117	Others	109519715
+Hippocampus_comes		ENSHCOG00000005138	WD	109522354
+Hippocampus_comes	sfmbt2	ENSHCOG00000005203	Others	109532639
+Hippocampus_comes	snd1	ENSHCOG00000005266	Others	109523792
+Hippocampus_comes	rnf8	ENSHCOG00000005277	Ring finger protein	109508016
+Hippocampus_comes	TADA1	ENSHCOG00000005317	Transcriptional adaptor	109521334
+Hippocampus_comes	taf1a	ENSHCOG00000005321	TATA-box	109508018
+Hippocampus_comes	htatip2	ENSHCOG00000005326	Others	109519738
+Hippocampus_comes	SFMBT1	ENSHCOG00000005344	Others	109523756
+Hippocampus_comes	mak	ENSHCOG00000005369	Others	109519172
+Hippocampus_comes	hdac10	ENSHCOG00000005375	Histone deacetylase	109529885
+Hippocampus_comes	mrgbp	ENSHCOG00000005376	Others	109526475
+Hippocampus_comes	med20	ENSHCOG00000005377	Mediator complex	109522293
+Hippocampus_comes	smarca5	ENSHCOG00000005458	SWI/SNF	109511378
+Hippocampus_comes	ENY2	ENSHCOG00000005492	Others	109518357
+Hippocampus_comes	tob1a	ENSHCOG00000005514	Others	109526997
+Hippocampus_comes	bmi1a	ENSHCOG00000005588	Others	NA
+Hippocampus_comes	tada3l	ENSHCOG00000005625	Transcriptional adaptor	109509860
+Hippocampus_comes	ssu72	ENSHCOG00000005632	Others	109522392
+Hippocampus_comes	slc19a1	ENSHCOG00000005663	SLC	109528531
+Hippocampus_comes	wdtc1	ENSHCOG00000005698	WD	109525675
+Hippocampus_comes	ago1	ENSHCOG00000005708	Others	109515348
+Hippocampus_comes	noc2l	ENSHCOG00000005732	Others	109511760
+Hippocampus_comes		ENSHCOG00000005745	Histone deacetylase	109528296
+Hippocampus_comes	rbpms	ENSHCOG00000005774	RNA binding protein	109520353
+Hippocampus_comes	btaf1	ENSHCOG00000005812	Others	109523079
+Hippocampus_comes	rb1	ENSHCOG00000005819	Other_Co-activator/repressors	109512505
+Hippocampus_comes	eno1a	ENSHCOG00000005868	Others	109511788
+Hippocampus_comes	MDFIC	ENSHCOG00000005894	Others	109523650
+Hippocampus_comes	pnrc2	ENSHCOG00000005899	Others	109515344
+Hippocampus_comes	kmt5b	ENSHCOG00000005960	Lysine methyltransferase	109514373
+Hippocampus_comes	ash1l	ENSHCOG00000005991	Others	109513128
+Hippocampus_comes	SPEN	ENSHCOG00000006004	Others	109522309
+Hippocampus_comes	taf1	ENSHCOG00000006024	TATA-box	109512496
+Hippocampus_comes	lpin2	ENSHCOG00000006036	LPIN	109531816
+Hippocampus_comes	nsd3	ENSHCOG00000006071	Nuclear receptor coactivator	109525952
+Hippocampus_comes	hsbp1b	ENSHCOG00000006165	Heat shock protein	109530419
+Hippocampus_comes		ENSHCOG00000006176	Others	109532586
+Hippocampus_comes	ago2	ENSHCOG00000006200	Others	109515243
+Hippocampus_comes	tnip1	ENSHCOG00000006214	Others	109515741
+Hippocampus_comes	med29	ENSHCOG00000006271	Mediator complex	109526375
+Hippocampus_comes	flii	ENSHCOG00000006352	Others	109520268
+Hippocampus_comes	med8	ENSHCOG00000006355	Mediator complex	109516945
+Hippocampus_comes	sirt3	ENSHCOG00000006367	Sirtuin	109514431
+Hippocampus_comes	dr1	ENSHCOG00000006391	Others	NA
+Hippocampus_comes	rhoab	ENSHCOG00000006423	Others	109522387
+Hippocampus_comes	kdm8	ENSHCOG00000006483	Lysine demethylase	109513772
+Hippocampus_comes		ENSHCOG00000006487	Other_CRF	109530348
+Hippocampus_comes	cnot1	ENSHCOG00000006501	CCR4-NOT	109531112
+Hippocampus_comes	loxl2b	ENSHCOG00000006573	Others	109525047
+Hippocampus_comes	elp1	ENSHCOG00000006585	ELP	109524260
+Hippocampus_comes	rnf25	ENSHCOG00000006589	Ring finger protein	109527789
+Hippocampus_comes	kat8	ENSHCOG00000006613	Lysine acetyltransferase	109527788
+Hippocampus_comes	lrrk1	ENSHCOG00000006625	Other_CRF	109529803
+Hippocampus_comes	med28	ENSHCOG00000006630	Mediator complex	109511159
+Hippocampus_comes	cnot9	ENSHCOG00000006646	CCR4-NOT	109517564
+Hippocampus_comes	PHF21B	ENSHCOG00000006677	PHF	109532597
+Hippocampus_comes	tp53bp1	ENSHCOG00000006687	Others	109514322
+Hippocampus_comes	setd6	ENSHCOG00000006715	SET	109531142
+Hippocampus_comes	tprb	ENSHCOG00000006718	Others	109519023
+Hippocampus_comes	btf3	ENSHCOG00000006829	Others	109527241
+Hippocampus_comes	ing3	ENSHCOG00000006861	ING	109532600
+Hippocampus_comes	PCGF3	ENSHCOG00000006888	PCGF	109524316
+Hippocampus_comes	TOB2	ENSHCOG00000006912	Others	109516405
+Hippocampus_comes		ENSHCOG00000006914	Others	109526341
+Hippocampus_comes	med30	ENSHCOG00000006939	Mediator complex	109516369
+Hippocampus_comes	mllt1b	ENSHCOG00000006999	GTF	109519101
+Hippocampus_comes	pcgf6	ENSHCOG00000007039	PCGF	109523219
+Hippocampus_comes	ilf2	ENSHCOG00000007106	Others	109515162
+Hippocampus_comes	CTBP1	ENSHCOG00000007124	Others	109524296
+Hippocampus_comes	prmt8b	ENSHCOG00000007139	Arginine methyltransferase	109530463
+Hippocampus_comes	prmt7	ENSHCOG00000007157	Arginine methyltransferase	109513066
+Hippocampus_comes	smurf1	ENSHCOG00000007183	Others	109520252
+Hippocampus_comes		ENSHCOG00000007252	Actin	109520242
+Hippocampus_comes	tab2	ENSHCOG00000007281	Others	109524845
+Hippocampus_comes	hspa8	ENSHCOG00000007322	Heat shock protein	109519592
+Hippocampus_comes		ENSHCOG00000007362	Others	109511525
+Hippocampus_comes	slc30a9	ENSHCOG00000007409	SLC	109515920
+Hippocampus_comes	kmt2bb	ENSHCOG00000007420	Lysine methyltransferase	109525616
+Hippocampus_comes	aurkaip1	ENSHCOG00000007535	Others	109512995
+Hippocampus_comes	hipk2	ENSHCOG00000007564	HIPK	109530388
+Hippocampus_comes		ENSHCOG00000007590	Others	109523690
+Hippocampus_comes	pim1	ENSHCOG00000007630	Others	109511823
+Hippocampus_comes	SGK1	ENSHCOG00000007633	Others	109531787
+Hippocampus_comes	eya4	ENSHCOG00000007656	EYA	109524877
+Hippocampus_comes	tbpl1	ENSHCOG00000007678	TATA-box	109524923
+Hippocampus_comes	carm1	ENSHCOG00000007723	Others	109532547
+Hippocampus_comes	uri1	ENSHCOG00000007724	Others	109530465
+Hippocampus_comes	med12	ENSHCOG00000007750	Mediator complex	109515895
+Hippocampus_comes	btk	ENSHCOG00000007797	Others	109515846
+Hippocampus_comes	smarcad1a	ENSHCOG00000007848	SWI/SNF	109526922
+Hippocampus_comes	znf593	ENSHCOG00000007954	Zinc finger	109525625
+Hippocampus_comes	eya1	ENSHCOG00000007961	EYA	109513696
+Hippocampus_comes	crtc1b	ENSHCOG00000008053	CREB	109519076
+Hippocampus_comes	nsmce4a	ENSHCOG00000008094	EID	109513530
+Hippocampus_comes	pbxip1b	ENSHCOG00000008188	Others	109521037
+Hippocampus_comes	vgll3	ENSHCOG00000008220	Vestigial like	109531315
+Hippocampus_comes	cnot2	ENSHCOG00000008229	CCR4-NOT	109530341
+Hippocampus_comes	sirt5	ENSHCOG00000008235	Sirtuin	109524717
+Hippocampus_comes	KDM7A	ENSHCOG00000008290	Lysine demethylase	109523662
+Hippocampus_comes	cops5	ENSHCOG00000008337	Others	109513690
+Hippocampus_comes	med25	ENSHCOG00000008359	Mediator complex	109527822
+Hippocampus_comes	sin3b	ENSHCOG00000008407	Others	109516888
+Hippocampus_comes	ankra2	ENSHCOG00000008411	Ankyrin repeat	109525550
+Hippocampus_comes	kmt5c	ENSHCOG00000008446	Lysine methyltransferase	109527740
+Hippocampus_comes	supt7l	ENSHCOG00000008465	SUPT	109519535
+Hippocampus_comes	ufl1	ENSHCOG00000008493	Others	NA
+Hippocampus_comes	nab1a	ENSHCOG00000008544	Others	109520222
+Hippocampus_comes	ascc2	ENSHCOG00000008591	ASCC	109526931
+Hippocampus_comes	AXIN1	ENSHCOG00000008602	Others	109511398
+Hippocampus_comes	epc1a	ENSHCOG00000008724	Others	109518982
+Hippocampus_comes	nrip1b	ENSHCOG00000008798	Nuclear receptor coactivator	109507978
+Hippocampus_comes	ddx5	ENSHCOG00000008800	RNA helicase	109508484
+Hippocampus_comes	rfxap	ENSHCOG00000008879	Others	109515632
+Hippocampus_comes	gps2	ENSHCOG00000008891	Others	109518298
+Hippocampus_comes	mdm4	ENSHCOG00000008924	Others	109522483
+Hippocampus_comes		ENSHCOG00000008925	Others	109520918
+Hippocampus_comes	slc26a3.2	ENSHCOG00000008984	SLC	109513599
+Hippocampus_comes	dpf2l	ENSHCOG00000008986	DPF	109524409
+Hippocampus_comes		ENSHCOG00000009074	Others	109523715
+Hippocampus_comes	cdk1	ENSHCOG00000009089	Cyclin	109523199
+Hippocampus_comes	DDX39A	ENSHCOG00000009111	RNA helicase	109508533
+Hippocampus_comes	ppid	ENSHCOG00000009156	Others	109526260
+Hippocampus_comes	rad21a	ENSHCOG00000009169	Others	109529660
+Hippocampus_comes	rbm39b	ENSHCOG00000009222	RNA binding protein	109528659
+Hippocampus_comes	fgf5	ENSHCOG00000009271	FGF	109526904
+Hippocampus_comes	actr6	ENSHCOG00000009404	ACTR	109518224
+Hippocampus_comes	gnl3	ENSHCOG00000009446	Others	109522518
+Hippocampus_comes	pqbp1	ENSHCOG00000009471	Others	109513016
+Hippocampus_comes	sfswap	ENSHCOG00000009475	Others	109515119
+Hippocampus_comes	tsg101a	ENSHCOG00000009506	Others	109530356
+Hippocampus_comes	smarca4a	ENSHCOG00000009510	SWI/SNF	109508408
+Hippocampus_comes	ctnnb1	ENSHCOG00000009527	Casein	109529634
+Hippocampus_comes	ldb2a	ENSHCOG00000009547	LIM	109526252
+Hippocampus_comes	depdc1a	ENSHCOG00000009576	Others	109524606
+Hippocampus_comes	mbtd1	ENSHCOG00000009615	Others	109524792
+Hippocampus_comes	mms19	ENSHCOG00000009664	Others	109512196
+Hippocampus_comes	commd1	ENSHCOG00000009708	Others	109527647
+Hippocampus_comes	kdm5c	ENSHCOG00000009709	Lysine demethylase	109512943
+Hippocampus_comes	ccnt2a	ENSHCOG00000009728	Cyclin	109512302
+Hippocampus_comes	kdm2ab	ENSHCOG00000009733	Lysine demethylase	109524342
+Hippocampus_comes	egln1a	ENSHCOG00000009754	Others	109516196
+Hippocampus_comes	ran	ENSHCOG00000009757	Others	109524377
+Hippocampus_comes	drap1	ENSHCOG00000009796	Others	109508423
+Hippocampus_comes	mrtfab	ENSHCOG00000009798	Others	109512177
+Hippocampus_comes	xrcc6	ENSHCOG00000009821	Others	109512785
+Hippocampus_comes	tnni2a.1	ENSHCOG00000009875	Others	109507938
+Hippocampus_comes	DCAF1	ENSHCOG00000009880	Others	109526866
+Hippocampus_comes	TLE3	ENSHCOG00000009901	Transducin	109514385
+Hippocampus_comes		ENSHCOG00000009913	Erbb2	109528703
+Hippocampus_comes	CRK	ENSHCOG00000009925	Others	109515648
+Hippocampus_comes	cxxc1b	ENSHCOG00000009945	Others	NA
+Hippocampus_comes	ccna2	ENSHCOG00000009956	Cyclin	109526270
+Hippocampus_comes	apex1	ENSHCOG00000009961	Others	109528822
+Hippocampus_comes	med19a	ENSHCOG00000009995	Mediator complex	109524240
+Hippocampus_comes	si:dkey-6i22.5	ENSHCOG00000010001	Others	109524241
+Hippocampus_comes	tab1	ENSHCOG00000010004	Others	109511279
+Hippocampus_comes	KDM5B	ENSHCOG00000010033	Lysine demethylase	109526864
+Hippocampus_comes	bend3	ENSHCOG00000010084	Others	109519541
+Hippocampus_comes	phf5a	ENSHCOG00000010129	PHF	109512349
+Hippocampus_comes	chd3	ENSHCOG00000010170	CHD	109508437
+Hippocampus_comes	ncl	ENSHCOG00000010234	Others	109519071
+Hippocampus_comes	CTNND1	ENSHCOG00000010241	Casein	109524385
+Hippocampus_comes	CIR1	ENSHCOG00000010261	Other_Co-activator/repressors	109507887
+Hippocampus_comes	taf6l	ENSHCOG00000010268	TATA-box	109508534
+Hippocampus_comes	anp32a	ENSHCOG00000010440	ANP	109514400
+Hippocampus_comes	hdac5	ENSHCOG00000010467	Histone deacetylase	109524745
+Hippocampus_comes		ENSHCOG00000010505	Others	109507861
+Hippocampus_comes	med21	ENSHCOG00000010515	Mediator complex	109528856
+Hippocampus_comes		ENSHCOG00000010520	Tripartite motif	NA
+Hippocampus_comes	ajuba	ENSHCOG00000010600	Others	109508426
+Hippocampus_comes	supt4h1	ENSHCOG00000010739	SUPT	109531132
+Hippocampus_comes	CRTC2	ENSHCOG00000010747	CREB	109512134
+Hippocampus_comes	kdm4aa	ENSHCOG00000010765	Lysine demethylase	109524769
+Hippocampus_comes	prmt1	ENSHCOG00000010782	Arginine methyltransferase	109524756
+Hippocampus_comes	STRN	ENSHCOG00000010828	Others	109516192
+Hippocampus_comes	PCBD2	ENSHCOG00000010843	Others	109517593
+Hippocampus_comes	anxa4	ENSHCOG00000010863	Others	109523589
+Hippocampus_comes	brf2	ENSHCOG00000010882	GTF	109523588
+Hippocampus_comes	tasorb	ENSHCOG00000010887	FAM	109515020
+Hippocampus_comes		ENSHCOG00000010890	Transducin	109514214
+Hippocampus_comes		ENSHCOG00000010900	Others	109508446
+Hippocampus_comes	nelfa	ENSHCOG00000010961	GTF	109508393
+Hippocampus_comes	banp	ENSHCOG00000011005	Others	109530430
+Hippocampus_comes	snw1	ENSHCOG00000011007	Others	109528430
+Hippocampus_comes	emsy	ENSHCOG00000011123	Others	109517475
+Hippocampus_comes	c1qbp	ENSHCOG00000011124	Others	109531121
+Hippocampus_comes	yap1	ENSHCOG00000011146	Others	109526208
+Hippocampus_comes	nudt5	ENSHCOG00000011149	Other_CRF	109528866
+Hippocampus_comes	dhx33	ENSHCOG00000011161	RNA helicase	109531094
+Hippocampus_comes	med22	ENSHCOG00000011324	Mediator complex	109510527
+Hippocampus_comes	PLK1	ENSHCOG00000011376	Others	109511272
+Hippocampus_comes	loxl3b	ENSHCOG00000011391	Others	109528187
+Hippocampus_comes	pin1	ENSHCOG00000011456	Others	109511306
+Hippocampus_comes	men1	ENSHCOG00000011488	Others	109508447
+Hippocampus_comes	SFR1	ENSHCOG00000011490	Others	109528782
+Hippocampus_comes	ddx1	ENSHCOG00000011492	RNA helicase	109516734
+Hippocampus_comes	malt3	ENSHCOG00000011506	Others	109531236
+Hippocampus_comes	prpf6	ENSHCOG00000011513	Others	109514947
+Hippocampus_comes	nck1a	ENSHCOG00000011576	Others	109519481
+Hippocampus_comes	dpy30	ENSHCOG00000011640	Others	109527639
+Hippocampus_comes	H2AZ1	ENSHCOG00000011658	Others	109508452
+Hippocampus_comes	lin9	ENSHCOG00000011676	Others	109518091
+Hippocampus_comes	supt20	ENSHCOG00000011716	SUPT	109517015
+Hippocampus_comes	zmynd11	ENSHCOG00000011732	Zinc finger	109518890
+Hippocampus_comes	polr3f	ENSHCOG00000011751	POLR	109527635
+Hippocampus_comes	vgll2a	ENSHCOG00000011770	Vestigial like	109516701
+Hippocampus_comes	rnf10	ENSHCOG00000011802	Ring finger protein	109511553
+Hippocampus_comes	siah1	ENSHCOG00000011819	Others	109526770
+Hippocampus_comes	taf9	ENSHCOG00000011829	TATA-box	109517330
+Hippocampus_comes	phf8	ENSHCOG00000011831	PHF	109520217
+Hippocampus_comes	arrb2a	ENSHCOG00000011837	Others	109517202
+Hippocampus_comes	wwp1	ENSHCOG00000011847	WW	109507829
+Hippocampus_comes	polr2a	ENSHCOG00000011874	POLR	109508358
+Hippocampus_comes	LIMD1	ENSHCOG00000011905	LIM	109517651
+Hippocampus_comes		ENSHCOG00000011983	Thyroid hormone receptor	109508368
+Hippocampus_comes	xrn2	ENSHCOG00000011994	Others	109516769
+Hippocampus_comes	sdr16c5a	ENSHCOG00000012025	Others	109524163
+Hippocampus_comes	ruvbl2	ENSHCOG00000012047	Other_CRF	109531106
+Hippocampus_comes	dvl2	ENSHCOG00000012079	Others	109508365
+Hippocampus_comes	btg1	ENSHCOG00000012176	Others	109520126
+Hippocampus_comes	rbl1	ENSHCOG00000012180	Other_Co-activator/repressors	109510273
+Hippocampus_comes	arl2bp	ENSHCOG00000012200	Others	109526845
+Hippocampus_comes	brd1a	ENSHCOG00000012217	Bromodomain	109523613
+Hippocampus_comes	med31	ENSHCOG00000012220	Mediator complex	109517363
+Hippocampus_comes	raly	ENSHCOG00000012268	Others	109510300
+Hippocampus_comes	ino80b	ENSHCOG00000012295	INO80 complex	109508377
+Hippocampus_comes	hnrnpc	ENSHCOG00000012333	HNRNP	109529521
+Hippocampus_comes	kank1b	ENSHCOG00000012379	Others	NA
+Hippocampus_comes	pycard	ENSHCOG00000012431	Others	109512265
+Hippocampus_comes	strap	ENSHCOG00000012449	Others	109520124
+Hippocampus_comes	trim32	ENSHCOG00000012452	Tripartite motif	NA
+Hippocampus_comes	fhl3a	ENSHCOG00000012453	FHL	109520800
+Hippocampus_comes	bcl9l	ENSHCOG00000012473	BCL	109526193
+Hippocampus_comes	med13a	ENSHCOG00000012491	Mediator complex	109531148
+Hippocampus_comes	YWHAB	ENSHCOG00000012503	Others	109510288
+Hippocampus_comes	nlk2	ENSHCOG00000012555	Others	109510916
+Hippocampus_comes	eya3	ENSHCOG00000012603	EYA	109513524
+Hippocampus_comes	auts2a	ENSHCOG00000012618	Others	109531145
+Hippocampus_comes	DVL3	ENSHCOG00000012626	Others	109531620
+Hippocampus_comes	ppie	ENSHCOG00000012644	Others	109520809
+Hippocampus_comes	cdk13	ENSHCOG00000012706	Cyclin	109524713
+Hippocampus_comes	csnk2a1	ENSHCOG00000012724	Casein	109517597
+Hippocampus_comes	chd1l	ENSHCOG00000012787	CHD	109532279
+Hippocampus_comes	gtf2a1l	ENSHCOG00000012837	GTF	109516167
+Hippocampus_comes	lgals9l3	ENSHCOG00000012839	Others	109510785
+Hippocampus_comes	wwc3	ENSHCOG00000012842	WW	NA
+Hippocampus_comes	NAA15	ENSHCOG00000012888	Others	109527446
+Hippocampus_comes	maml3	ENSHCOG00000012903	MAML	109527324
+Hippocampus_comes		ENSHCOG00000012956	Others	109522849
+Hippocampus_comes	dhx9	ENSHCOG00000012968	RNA helicase	109518912
+Hippocampus_comes	pex2	ENSHCOG00000012984	Others	109515583
+Hippocampus_comes		ENSHCOG00000013003	CENP	NA
+Hippocampus_comes	kdm1a	ENSHCOG00000013009	Lysine demethylase	109526830
+Hippocampus_comes	rbbp5	ENSHCOG00000013010	RBBP	109510280
+Hippocampus_comes	pid1	ENSHCOG00000013045	Others	109525497
+Hippocampus_comes	zgc:162255	ENSHCOG00000013056	Other_CRF	109510319
+Hippocampus_comes	kat2b	ENSHCOG00000013077	Lysine acetyltransferase	109531601
+Hippocampus_comes		ENSHCOG00000013146	Others	109517333
+Hippocampus_comes	ssbp3b	ENSHCOG00000013160	Others	109532347
+Hippocampus_comes	grip2b	ENSHCOG00000013177	Others	109510322
+Hippocampus_comes	dscama	ENSHCOG00000013198	Others	109531173
+Hippocampus_comes	pspc1	ENSHCOG00000013251	Others	109515034
+Hippocampus_comes	cdyl	ENSHCOG00000013254	Chromodomain Y	109518870
+Hippocampus_comes	wdr5	ENSHCOG00000013287	WD	109530340
+Hippocampus_comes	baz1b	ENSHCOG00000013324	Bromodomain	109525480
+Hippocampus_comes	supt16h	ENSHCOG00000013334	SUPT	109516512
+Hippocampus_comes	suv39h1a	ENSHCOG00000013337	Others	109528227
+Hippocampus_comes		ENSHCOG00000013376	Others	109516637
+Hippocampus_comes	elp2	ENSHCOG00000013399	ELP	109531584
+Hippocampus_comes		ENSHCOG00000013400	Others	109513456
+Hippocampus_comes	CBX4	ENSHCOG00000013487	Chromobox	109527525
+Hippocampus_comes	abraa	ENSHCOG00000013488	Actin	109510255
+Hippocampus_comes	sqstm1	ENSHCOG00000013492	Others	109508331
+Hippocampus_comes	cbx8b	ENSHCOG00000013493	Chromobox	109527520
+Hippocampus_comes	lancl2	ENSHCOG00000013494	Others	109530294
+Hippocampus_comes		ENSHCOG00000013502	Other_CRF	109507076
+Hippocampus_comes	rnf4	ENSHCOG00000013524	Ring finger protein	109508341
+Hippocampus_comes	smyd2a	ENSHCOG00000013526	SMYD	109531565
+Hippocampus_comes	trim25	ENSHCOG00000013613	Tripartite motif	109527299
+Hippocampus_comes	eaf1	ENSHCOG00000013619	Others	109512199
+Hippocampus_comes	phf10	ENSHCOG00000013701	PHF	109531563
+Hippocampus_comes	lmcd1	ENSHCOG00000013716	LIM	109510342
+Hippocampus_comes	wnt4	ENSHCOG00000013720	Others	109521622
+Hippocampus_comes		ENSHCOG00000013849	Others	109508596
+Hippocampus_comes	birc5a	ENSHCOG00000013853	Others	109516568
+Hippocampus_comes		ENSHCOG00000013860	Others	NA
+Hippocampus_comes	rptor	ENSHCOG00000013903	Others	109527445
+Hippocampus_comes	crym	ENSHCOG00000013909	Others	109516409
+Hippocampus_comes	MSL3	ENSHCOG00000013930	Others	109515037
+Hippocampus_comes	znf451	ENSHCOG00000013937	Zinc finger	109516153
+Hippocampus_comes	ep400	ENSHCOG00000013990	Others	109511591
+Hippocampus_comes	nipbla	ENSHCOG00000014093	Others	109514168
+Hippocampus_comes	oxr1b	ENSHCOG00000014145	Nuclear receptor coactivator	109507066
+Hippocampus_comes	lyn	ENSHCOG00000014161	Others	109515482
+Hippocampus_comes	gtf2h5	ENSHCOG00000014167	GTF	109530988
+Hippocampus_comes	syk	ENSHCOG00000014174	Others	109530546
+Hippocampus_comes	sap130a	ENSHCOG00000014176	SAP	109532323
+Hippocampus_comes	ftr67	ENSHCOG00000014206	Tripartite motif	NA
+Hippocampus_comes	chd1	ENSHCOG00000014222	CHD	109530678
+Hippocampus_comes	med14	ENSHCOG00000014242	Mediator complex	109510181
+Hippocampus_comes	rbm15b	ENSHCOG00000014262	RNA binding protein	109522301
+Hippocampus_comes	rasd1	ENSHCOG00000014294	Others	109512034
+Hippocampus_comes	tonsl	ENSHCOG00000014336	Others	109507755
+Hippocampus_comes	skia	ENSHCOG00000014360	SKI	109528287
+Hippocampus_comes	chd7	ENSHCOG00000014380	CHD	109515490
+Hippocampus_comes	tbp	ENSHCOG00000014488	TATA-box	109531554
+Hippocampus_comes	gtf2h3	ENSHCOG00000014501	GTF	109514188
+Hippocampus_comes	rbbp4	ENSHCOG00000014507	RBBP	109526097
+Hippocampus_comes	fbxw11a	ENSHCOG00000014517	Others	109518762
+Hippocampus_comes	hira	ENSHCOG00000014535	Others	109524661
+Hippocampus_comes	c1d	ENSHCOG00000014568	Other_Co-activator/repressors	109526716
+Hippocampus_comes	myo6b	ENSHCOG00000014658	Others	109507761
+Hippocampus_comes	SSBP2	ENSHCOG00000014699	Others	109514171
+Hippocampus_comes	ikbkg	ENSHCOG00000014702	Others	109528595
+Hippocampus_comes	utp4	ENSHCOG00000014802	Others	NA
+Hippocampus_comes	FLNB	ENSHCOG00000014820	Others	109521545
+Hippocampus_comes	dpf1	ENSHCOG00000014836	DPF	109529411
+Hippocampus_comes	gtf2h2	ENSHCOG00000014844	GTF	109506821
+Hippocampus_comes	ppargc1a	ENSHCOG00000014886	Others	109507025
+Hippocampus_comes	orc2	ENSHCOG00000014912	Others	109512792
+Hippocampus_comes	recql5	ENSHCOG00000014953	Others	109514907
+Hippocampus_comes	elp4	ENSHCOG00000014971	ELP	109531525
+Hippocampus_comes	snapc5	ENSHCOG00000014982	Others	109519421
+Hippocampus_comes	sirt7	ENSHCOG00000015014	Sirtuin	109527332
+Hippocampus_comes	ALYREF	ENSHCOG00000015046	Others	109514870
+Hippocampus_comes	PELI1	ENSHCOG00000015073	Others	109526678
+Hippocampus_comes	hltf	ENSHCOG00000015160	Others	109517329
+Hippocampus_comes	kdm3b	ENSHCOG00000015205	Lysine demethylase	109518753
+Hippocampus_comes		ENSHCOG00000015217	Others	109513503
+Hippocampus_comes	DTX1	ENSHCOG00000015233	Others	109511121
+Hippocampus_comes	hipk3b	ENSHCOG00000015255	HIPK	109531530
+Hippocampus_comes	JMY	ENSHCOG00000015287	Others	109514140
+Hippocampus_comes	ldb1b	ENSHCOG00000015353	LIM	109527323
+Hippocampus_comes	CDYL2	ENSHCOG00000015376	Chromodomain Y	109531500
+Hippocampus_comes	bahcc1a	ENSHCOG00000015394	Others	109519359
+Hippocampus_comes	cdk7	ENSHCOG00000015461	Cyclin	109514144
+Hippocampus_comes	jupa	ENSHCOG00000015466	Others	109527442
+Hippocampus_comes	CIITA	ENSHCOG00000015475	Others	109514883
+Hippocampus_comes	ccnt1	ENSHCOG00000015496	Cyclin	109523053
+Hippocampus_comes	trip13	ENSHCOG00000015514	Thyroid hormone receptor	109518040
+Hippocampus_comes	puf60b	ENSHCOG00000015541	Others	109529849
+Hippocampus_comes	ctnnbip1	ENSHCOG00000015544	Casein	109526625
+Hippocampus_comes	si:dkey-28e7.3	ENSHCOG00000015579	Others	109527449
+Hippocampus_comes	trim8b	ENSHCOG00000015586	Tripartite motif	109516174
+Hippocampus_comes	med18	ENSHCOG00000015588	Mediator complex	109522791
+Hippocampus_comes	kat6b	ENSHCOG00000015590	Lysine acetyltransferase	109513423
+Hippocampus_comes	SCMH1	ENSHCOG00000015614	Others	109522793
+Hippocampus_comes		ENSHCOG00000015680	Casein	109519995
+Hippocampus_comes		ENSHCOG00000015708	BCL	NA
+Hippocampus_comes	asf1ba	ENSHCOG00000015722	Others	109521463
+Hippocampus_comes	thoc5	ENSHCOG00000015808	Others	109514110
+Hippocampus_comes	taf12	ENSHCOG00000015844	TATA-box	109522773
+Hippocampus_comes	macroh2a2	ENSHCOG00000015984	Others	109522745
+Hippocampus_comes	taf5	ENSHCOG00000015986	TATA-box	109527276
+Hippocampus_comes	pex14	ENSHCOG00000016004	Others	109526645
+Hippocampus_comes	wwox	ENSHCOG00000016027	WW	109507572
+Hippocampus_comes	med1	ENSHCOG00000016037	Mediator complex	NA
+Hippocampus_comes	cdk5r1b	ENSHCOG00000016046	Cyclin	109530169
+Hippocampus_comes	dnaja3a	ENSHCOG00000016052	Others	109521432
+Hippocampus_comes	rnf14	ENSHCOG00000016085	Ring finger protein	109517863
+Hippocampus_comes	wnt3	ENSHCOG00000016086	Others	109530170
+Hippocampus_comes	rbfox2	ENSHCOG00000016102	Others	109511339
+Hippocampus_comes	ascc1	ENSHCOG00000016151	ASCC	109522523
+Hippocampus_comes	cidec	ENSHCOG00000016171	Others	109522216
+Hippocampus_comes	cnot6b	ENSHCOG00000016176	CCR4-NOT	109518774
+Hippocampus_comes	ern1	ENSHCOG00000016199	Others	109522743
+Hippocampus_comes		ENSHCOG00000016228	Casein	109515495
+Hippocampus_comes	actn4	ENSHCOG00000016231	Actin	109529370
+Hippocampus_comes	TLE5	ENSHCOG00000016276	Others	109517455
+Hippocampus_comes	dcc	ENSHCOG00000016416	Others	109528110
+Hippocampus_comes		ENSHCOG00000016434	Others	109510089
+Hippocampus_comes	nono	ENSHCOG00000016441	Others	109510688
+Hippocampus_comes	cbx3a	ENSHCOG00000016474	Chromobox	109522111
+Hippocampus_comes	kdm6ba	ENSHCOG00000016575	Lysine demethylase	109507018
+Hippocampus_comes	chd8	ENSHCOG00000016611	CHD	109512784
+Hippocampus_comes	rnf2	ENSHCOG00000016621	Ring finger protein	109521325
+Hippocampus_comes	dnmt1	ENSHCOG00000016624	DNA_methylase	109519302
+Hippocampus_comes	smarcb1b	ENSHCOG00000016642	SWI/SNF	109515611
+Hippocampus_comes	rnf20	ENSHCOG00000016665	Ring finger protein	109518721
+Hippocampus_comes	ino80c	ENSHCOG00000016688	INO80 complex	109515465
+Hippocampus_comes	TGFB1I1	ENSHCOG00000016748	Others	109527147
+Hippocampus_comes	nedd8	ENSHCOG00000016752	Others	109512809
+Hippocampus_comes	rnf141	ENSHCOG00000016755	Ring finger protein	109530884
+Hippocampus_comes	grhpra	ENSHCOG00000016761	Others	NA
+Hippocampus_comes	PER2	ENSHCOG00000016767	Others	109510843
+Hippocampus_comes	bcl10	ENSHCOG00000016788	BCL	109524079
+Hippocampus_comes	CBL	ENSHCOG00000016811	Others	109529378
+Hippocampus_comes	ppp1r16a	ENSHCOG00000016815	NFKB associated	109530156
+Hippocampus_comes	sav1	ENSHCOG00000016856	Others	109517408
+Hippocampus_comes	prmt5	ENSHCOG00000016863	Arginine methyltransferase	109512807
+Hippocampus_comes	ercc3	ENSHCOG00000016924	Others	109530149
+Hippocampus_comes	cthl	ENSHCOG00000016935	Others	109522055
+Hippocampus_comes	si:ch211-200p22.4	ENSHCOG00000016943	Others	109506972
+Hippocampus_comes	sirt2	ENSHCOG00000016976	Sirtuin	109510864
+Hippocampus_comes	rrn3	ENSHCOG00000016981	Others	109529121
+Hippocampus_comes	HMOX1	ENSHCOG00000016995	Others	109511094
+Hippocampus_comes	chchd2	ENSHCOG00000017016	Coiled-coil	109525442
+Hippocampus_comes		ENSHCOG00000017027	Others	109518708
+Hippocampus_comes	ccnh	ENSHCOG00000017060	Cyclin	109520681
+Hippocampus_comes	ecd	ENSHCOG00000017076	Others	109510134
+Hippocampus_comes	prmt6	ENSHCOG00000017120	Arginine methyltransferase	109514232
+Hippocampus_comes	notch3	ENSHCOG00000017134	Notch	109519326
+Hippocampus_comes	erbb2	ENSHCOG00000017162	Erbb2	109523903
+Hippocampus_comes		ENSHCOG00000017168	RNA helicase	109527301
+Hippocampus_comes	actn2b	ENSHCOG00000017206	Actin	109510137
+Hippocampus_comes	erbin	ENSHCOG00000017216	Erbb2	109526041
+Hippocampus_comes	DUSP26	ENSHCOG00000017243	Others	109511570
+Hippocampus_comes	CASK	ENSHCOG00000017283	CAMK	109519991
+Hippocampus_comes	egfra	ENSHCOG00000017284	Others	109521299
+Hippocampus_comes	suz12b	ENSHCOG00000017321	Others	109511184
+Hippocampus_comes	prmt2	ENSHCOG00000017343	Arginine methyltransferase	109523387
+Hippocampus_comes	kdm5a	ENSHCOG00000017403	Lysine demethylase	109530074
+Hippocampus_comes		ENSHCOG00000017525	CHD	109515384
+Hippocampus_comes	hcls1	ENSHCOG00000017538	Others	109530097
+Hippocampus_comes	smarcd2	ENSHCOG00000017540	SWI/SNF	109523933
+Hippocampus_comes	waca	ENSHCOG00000017551	WW	109514233
+Hippocampus_comes	kdm6a	ENSHCOG00000017561	Lysine demethylase	109519982
+Hippocampus_comes	nrbf2b	ENSHCOG00000017649	Nuclear receptor coactivator	109529309
+Hippocampus_comes	nfkbiaa	ENSHCOG00000017682	NFKB associated	109509783
+Hippocampus_comes	pagr1	ENSHCOG00000017693	Others	109523819
+Hippocampus_comes	plk2b	ENSHCOG00000017701	Others	109520647
+Hippocampus_comes	tdg.1	ENSHCOG00000017715	Others	109530839
+Hippocampus_comes	rprd1b	ENSHCOG00000017755	Others	109514731
+Hippocampus_comes	actn1	ENSHCOG00000017769	Actin	109517259
+Hippocampus_comes	nif3l1	ENSHCOG00000017825	Others	109524411
+Hippocampus_comes	ing4	ENSHCOG00000017838	ING	109515373
+Hippocampus_comes	pak6a	ENSHCOG00000017853	Others	109516085
+Hippocampus_comes		ENSHCOG00000017888	Others	109518553
+Hippocampus_comes	trip4	ENSHCOG00000017904	Thyroid hormone receptor	109525963
+Hippocampus_comes	med6	ENSHCOG00000017913	Mediator complex	109517257
+Hippocampus_comes	nab2	ENSHCOG00000017994	Others	109522673
+Hippocampus_comes	gtf2h4	ENSHCOG00000018003	GTF	109528051
+Hippocampus_comes	ttf2	ENSHCOG00000018006	Others	109522366
+Hippocampus_comes	eed	ENSHCOG00000018019	Others	109528724
+Hippocampus_comes	cdk8	ENSHCOG00000018055	Cyclin	109514052
+Hippocampus_comes	arglu1a	ENSHCOG00000018056	Others	109519256
+Hippocampus_comes	rnf6	ENSHCOG00000018062	Ring finger protein	109514049
+Hippocampus_comes	zmym2	ENSHCOG00000018071	Zinc finger	109522002
+Hippocampus_comes		ENSHCOG00000018110	SMYD	109528434
+Hippocampus_comes	cry1a	ENSHCOG00000018111	Others	109530089
+Hippocampus_comes	cavin1b	ENSHCOG00000018193	Others	109529302
+Hippocampus_comes	rexo4	ENSHCOG00000018196	Others	109523987
+Hippocampus_comes	med23	ENSHCOG00000018372	Mediator complex	109509408
+Hippocampus_comes	siva1	ENSHCOG00000018376	Others	109516043
+Hippocampus_comes	trim16	ENSHCOG00000018423	Tripartite motif	109518536
+Hippocampus_comes	ctdp1	ENSHCOG00000018427	Others	109508271
+Hippocampus_comes	MED26	ENSHCOG00000018572	Mediator complex	109520601
+Hippocampus_comes	nelfcd	ENSHCOG00000018622	GTF	109522376
+Hippocampus_comes	med17	ENSHCOG00000018684	Mediator complex	109510830
+Hippocampus_comes	ankrd1a	ENSHCOG00000018723	Ankyrin repeat	109510076
+Hippocampus_comes	pih1d1	ENSHCOG00000018741	Other_CRF	109506916
+Hippocampus_comes		ENSHCOG00000018754	ANP	NA
+Hippocampus_comes	pcgf5a	ENSHCOG00000018765	PCGF	109510222
+Hippocampus_comes	chek1	ENSHCOG00000018804	Others	109517900
+Hippocampus_comes	lpin1	ENSHCOG00000018810	LPIN	109528679
+Hippocampus_comes	tfb2m	ENSHCOG00000018851	Others	109528501
+Hippocampus_comes	psen1	ENSHCOG00000018868	Others	109517281
+Hippocampus_comes	sap30l	ENSHCOG00000018890	SAP	109508234
+Hippocampus_comes	actl6a	ENSHCOG00000018936	Actin	109522069
+Hippocampus_comes	prkcbp1l	ENSHCOG00000018957	Zinc finger	109528543
+Hippocampus_comes	cnot8	ENSHCOG00000019016	CCR4-NOT	109508237
+Hippocampus_comes	tcea1	ENSHCOG00000019117	TEF	109520557
+Hippocampus_comes	traf6	ENSHCOG00000019132	Others	109525774
+Hippocampus_comes	abl1	ENSHCOG00000019180	Others	109514691
+Hippocampus_comes	gtf2e1	ENSHCOG00000019208	GTF	109523325
+Hippocampus_comes		ENSHCOG00000019237	Others	109527991
+Hippocampus_comes	smurf2	ENSHCOG00000019246	Others	109519824
+Hippocampus_comes	cdk2	ENSHCOG00000019256	Cyclin	109522438
+Hippocampus_comes	ddx54	ENSHCOG00000019287	RNA helicase	109514713
+Hippocampus_comes	npm3	ENSHCOG00000019322	Nucleoplasmin	109512686
+Hippocampus_comes	bptf	ENSHCOG00000019348	Bromodomain	109519852
+Hippocampus_comes	nol11	ENSHCOG00000019366	Nuclear coactivator	109519809
+Hippocampus_comes	itcha	ENSHCOG00000019377	Others	109521640
+Hippocampus_comes	sufu	ENSHCOG00000019381	Others	109512682
+Hippocampus_comes	chrac1	ENSHCOG00000019395	Other_CRF	109518181
+Hippocampus_comes		ENSHCOG00000019406	Transducin	109525167
+Hippocampus_comes	mtf2	ENSHCOG00000019448	Others	109520552
+Hippocampus_comes	tdp2b	ENSHCOG00000019466	Others	109518258
+Hippocampus_comes	gmnn	ENSHCOG00000019492	Others	109518507
+Hippocampus_comes	cbx5	ENSHCOG00000019540	Chromobox	109531352
+Hippocampus_comes	rtf1	ENSHCOG00000019565	Others	109517300
+Hippocampus_comes	rpap2	ENSHCOG00000019576	Others	109520544
+Hippocampus_comes	gtf2a1	ENSHCOG00000019621	GTF	109508165
+Hippocampus_comes	timeless	ENSHCOG00000019649	Others	109522443
+Hippocampus_comes	mcrs1	ENSHCOG00000019686	Others	109522666
+Hippocampus_comes	frk	ENSHCOG00000019705	Others	109509298
+Hippocampus_comes	brms1lb	ENSHCOG00000019717	Other_CRF	109508151
+Hippocampus_comes	ELOF1	ENSHCOG00000019738	GTF	NA
+Hippocampus_comes	trip11	ENSHCOG00000019787	Thyroid hormone receptor	109517297
+Hippocampus_comes	hnrpkl	ENSHCOG00000019870	HNRNP	109527924
+Hippocampus_comes	nrg2a	ENSHCOG00000019891	Others	109517841
+Hippocampus_comes	dmap1	ENSHCOG00000019899	DNA_methylase	109522016
+Hippocampus_comes	cxxc5a	ENSHCOG00000019934	Others	109517962
+Hippocampus_comes	edf1	ENSHCOG00000019988	Others	109528130
+Hippocampus_comes	hnrnpub	ENSHCOG00000020091	HNRNP	109508149
+Hippocampus_comes	taf11	ENSHCOG00000020114	TATA-box	109528397
+Hippocampus_comes	park7	ENSHCOG00000020147	Others	109529237
+Hippocampus_comes	wbp2	ENSHCOG00000020162	WW	109513302
+Hippocampus_comes	notch1b	ENSHCOG00000020166	Notch	109525191
+Hippocampus_comes	mid1ip1a	ENSHCOG00000020266	Others	109530619
+Hippocampus_comes		ENSHCOG00000020286	Others	109525994
+Hippocampus_comes	bcor	ENSHCOG00000020296	Other_Co-activator/repressors	109530621
+Hippocampus_comes	prdx5	ENSHCOG00000020301	Others	109509091
+Hippocampus_comes	pir	ENSHCOG00000020340	Others	109525971
+Hippocampus_comes	gtf2h1	ENSHCOG00000020395	GTF	109507513
+Hippocampus_comes	med10	ENSHCOG00000020505	Mediator complex	109519221
+Hippocampus_comes	SUMO3	ENSHCOG00000020554	Others	109517292
+Hippocampus_comes		ENSHCOG00000020559	SUPT	109510192
+Hippocampus_comes	ripk2	ENSHCOG00000020572	Others	109520486
+Hippocampus_comes	pidd1	ENSHCOG00000020666	Others	109507545
+Hippocampus_comes	tbl1xr1b	ENSHCOG00000020735	Transducin	109520496
+Hippocampus_comes	lbh	ENSHCOG00000020790	Others	109517322
+Hippocampus_comes	camk4	ENSHCOG00000020826	CAMK	109506827
+Hippocampus_comes	arhgap5	ENSHCOG00000020862	Others	109521040
+Hippocampus_comes	pfdn5	ENSHCOG00000020867	Others	109522132
+Hippocampus_comes	stk3	ENSHCOG00000020927	Others	109514570
+Hippocampus_comes	cnot3a	ENSHCOG00000020968	CCR4-NOT	109515288
+Hippocampus_comes	sap30bp	ENSHCOG00000021023	SAP	109513301
+Hippocampus_comes	taf5l	ENSHCOG00000021046	TATA-box	109512621
+Hippocampus_comes	ss18	ENSHCOG00000021070	SS18	109521329
+Hippocampus_comes	fhod3a	ENSHCOG00000021075	Others	NA
+Hippocampus_comes	eapp	ENSHCOG00000021078	Others	109521130
+Hippocampus_comes	taf2	ENSHCOG00000021114	TATA-box	109521927
+Hippocampus_comes	ascc3	ENSHCOG00000021142	ASCC	109521912
+Hippocampus_comes	tgfb2	ENSHCOG00000021165	Others	109521921
+Hippocampus_comes	snx6	ENSHCOG00000021168	Others	109520421
+Hippocampus_comes	chek2	ENSHCOG00000021174	Others	109525295
+Hippocampus_comes	cnot10	ENSHCOG00000021197	CCR4-NOT	109521885
+Hippocampus_comes	dyrk1b	ENSHCOG00000021212	Others	109521876

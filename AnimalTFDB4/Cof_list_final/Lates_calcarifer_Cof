@@ -1,0 +1,729 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Lates_calcarifer	nfatc2ip	ENSLCAG00010000134	Nuclear coactivator	108892221
+Lates_calcarifer	sgf29	ENSLCAG00010000140	Others	108892222
+Lates_calcarifer	eaf1	ENSLCAG00010000164	Others	NA
+Lates_calcarifer	dnaja3a	ENSLCAG00010000244	Others	108886155
+Lates_calcarifer	ccnd1	ENSLCAG00010000249	Cyclin	108877824
+Lates_calcarifer	rprd1b	ENSLCAG00010000281	Others	108891672
+Lates_calcarifer	crk	ENSLCAG00010000370	Others	108888177
+Lates_calcarifer	sqstm1	ENSLCAG00010000566	Others	NA
+Lates_calcarifer	hnrnpc	ENSLCAG00010000603	HNRNP	108884283
+Lates_calcarifer	actr6	ENSLCAG00010000610	ACTR	NA
+Lates_calcarifer		ENSLCAG00010000663	Transducin	108878657
+Lates_calcarifer		ENSLCAG00010000687	Ring finger protein	NA
+Lates_calcarifer	mad2l2	ENSLCAG00010000702	Others	108882587
+Lates_calcarifer	TLE3	ENSLCAG00010000716	Transducin	NA
+Lates_calcarifer	skia	ENSLCAG00010000872	SKI	NA
+Lates_calcarifer	mrtfba	ENSLCAG00010000913	Others	NA
+Lates_calcarifer	actr5	ENSLCAG00010000950	ACTR	NA
+Lates_calcarifer		ENSLCAG00010001017	Other_CRF	108887870
+Lates_calcarifer		ENSLCAG00010001031	Others	NA
+Lates_calcarifer	bcl10	ENSLCAG00010001037	BCL	108883322
+Lates_calcarifer	hck	ENSLCAG00010001041	Others	108885037
+Lates_calcarifer	slc25a15b	ENSLCAG00010001053	SLC	108893758
+Lates_calcarifer	smarcad1a	ENSLCAG00010001088	SWI/SNF	108878705
+Lates_calcarifer	taf6	ENSLCAG00010001094	TATA-box	108893885
+Lates_calcarifer	cnot7	ENSLCAG00010001291	CCR4-NOT	108882732
+Lates_calcarifer	pcgf1	ENSLCAG00010001389	PCGF	108901540
+Lates_calcarifer	med12	ENSLCAG00010001457	Mediator complex	108895376
+Lates_calcarifer	fgf2	ENSLCAG00010001459	FGF	108901525
+Lates_calcarifer	kat5b	ENSLCAG00010001466	Lysine acetyltransferase	108893587
+Lates_calcarifer	btk	ENSLCAG00010001486	Others	108895374
+Lates_calcarifer	dpf2	ENSLCAG00010001553	DPF	108893352
+Lates_calcarifer		ENSLCAG00010001607	Others	NA
+Lates_calcarifer	recql5	ENSLCAG00010001627	Others	108881041
+Lates_calcarifer	alyref	ENSLCAG00010001639	Others	108881046
+Lates_calcarifer	nsmce4a	ENSLCAG00010001671	EID	108877117
+Lates_calcarifer	trim33	ENSLCAG00010001694	Tripartite motif	NA
+Lates_calcarifer	TADA1	ENSLCAG00010001736	Transcriptional adaptor	108883833
+Lates_calcarifer	egfra	ENSLCAG00010001759	Others	108883329
+Lates_calcarifer	aip	ENSLCAG00010001863	Others	NA
+Lates_calcarifer	cops2	ENSLCAG00010001882	Others	108887898
+Lates_calcarifer	pycard	ENSLCAG00010001963	Others	108899584
+Lates_calcarifer	fgfr2	ENSLCAG00010002001	FGF	NA
+Lates_calcarifer	pcgf5a	ENSLCAG00010002006	PCGF	108872899
+Lates_calcarifer	ankrd1a	ENSLCAG00010002009	Ankyrin repeat	NA
+Lates_calcarifer		ENSLCAG00010002074	Others	108877785
+Lates_calcarifer	dek	ENSLCAG00010002083	Other_CRF	NA
+Lates_calcarifer	crtc3	ENSLCAG00010002101	CREB	108894244
+Lates_calcarifer	anp32b	ENSLCAG00010002104	ANP	108873392
+Lates_calcarifer	mtor	ENSLCAG00010002119	Others	NA
+Lates_calcarifer	tradd	ENSLCAG00010002223	Others	108877852
+Lates_calcarifer	rbm45	ENSLCAG00010002388	RNA binding protein	108872924
+Lates_calcarifer	supt3h	ENSLCAG00010002408	SUPT	108872929
+Lates_calcarifer	sap18	ENSLCAG00010002421	SAP	108900598
+Lates_calcarifer	ago1	ENSLCAG00010002423	Others	108899451
+Lates_calcarifer	tes	ENSLCAG00010002530	LIM	NA
+Lates_calcarifer	fbxw11a	ENSLCAG00010002586	Others	108899221
+Lates_calcarifer	tenm1	ENSLCAG00010002628	Others	NA
+Lates_calcarifer	dhx36	ENSLCAG00010002655	RNA helicase	108900945
+Lates_calcarifer	actr8	ENSLCAG00010002771	ACTR	108891722
+Lates_calcarifer	mtpn	ENSLCAG00010002786	Others	108886193
+Lates_calcarifer	cep290	ENSLCAG00010002829	Others	NA
+Lates_calcarifer	strap	ENSLCAG00010002833	Others	108897536
+Lates_calcarifer	kdm8	ENSLCAG00010002882	Lysine demethylase	108903012
+Lates_calcarifer	ikbkb	ENSLCAG00010002901	Others	NA
+Lates_calcarifer	nlk2	ENSLCAG00010002914	Others	108899896
+Lates_calcarifer	axin1	ENSLCAG00010002926	Others	NA
+Lates_calcarifer	grhpra	ENSLCAG00010003112	Others	108899172
+Lates_calcarifer	zmynd11	ENSLCAG00010003178	Zinc finger	108880934
+Lates_calcarifer	pawr	ENSLCAG00010003184	Others	108873674
+Lates_calcarifer	ing3	ENSLCAG00010003201	ING	NA
+Lates_calcarifer	KDM7A	ENSLCAG00010003250	Lysine demethylase	108886202
+Lates_calcarifer	kmt2e	ENSLCAG00010003283	Lysine methyltransferase	NA
+Lates_calcarifer	pnrc2	ENSLCAG00010003408	Others	108899517
+Lates_calcarifer	fhl3a	ENSLCAG00010003463	FHL	108899566
+Lates_calcarifer	snip1	ENSLCAG00010003515	Others	108899501
+Lates_calcarifer	prmt6	ENSLCAG00010003517	Arginine methyltransferase	NA
+Lates_calcarifer	nsd3	ENSLCAG00010003573	Nuclear receptor coactivator	108881778
+Lates_calcarifer	toporsa	ENSLCAG00010003631	Others	108896626
+Lates_calcarifer	taf5	ENSLCAG00010003754	TATA-box	NA
+Lates_calcarifer	KCNIP3	ENSLCAG00010003796	Others	108881850
+Lates_calcarifer	CDYL2	ENSLCAG00010003889	Chromodomain Y	108877807
+Lates_calcarifer	ccdc59	ENSLCAG00010003910	Coiled-coil	108879653
+Lates_calcarifer	tp53bp1	ENSLCAG00010003916	Others	NA
+Lates_calcarifer		ENSLCAG00010003930	Arginine methyltransferase	NA
+Lates_calcarifer	jupa	ENSLCAG00010004132	Others	NA
+Lates_calcarifer	cnot6b	ENSLCAG00010004179	CCR4-NOT	NA
+Lates_calcarifer	gtf2a1	ENSLCAG00010004180	GTF	108895839
+Lates_calcarifer	phf12b	ENSLCAG00010004197	PHF	108900101
+Lates_calcarifer	sufu	ENSLCAG00010004215	Others	NA
+Lates_calcarifer	orc2	ENSLCAG00010004223	Others	NA
+Lates_calcarifer	sirt3	ENSLCAG00010004243	Sirtuin	108894168
+Lates_calcarifer	rbbp5	ENSLCAG00010004246	RBBP	108889797
+Lates_calcarifer	brms1lb	ENSLCAG00010004254	Other_CRF	108895844
+Lates_calcarifer	nfkbiaa	ENSLCAG00010004258	NFKB associated	108895835
+Lates_calcarifer	bcas3	ENSLCAG00010004270	Others	NA
+Lates_calcarifer	flii	ENSLCAG00010004298	Others	NA
+Lates_calcarifer	hipk3b	ENSLCAG00010004305	HIPK	108877757
+Lates_calcarifer	ccar1	ENSLCAG00010004327	Others	108884434
+Lates_calcarifer	taf9	ENSLCAG00010004374	TATA-box	108877274
+Lates_calcarifer	kmt5b	ENSLCAG00010004407	Lysine methyltransferase	108894245
+Lates_calcarifer	med31	ENSLCAG00010004429	Mediator complex	108877235
+Lates_calcarifer	dhx9	ENSLCAG00010004430	RNA helicase	108884873
+Lates_calcarifer	wnt3a	ENSLCAG00010004433	Others	108883356
+Lates_calcarifer	brip1	ENSLCAG00010004436	Others	108900170
+Lates_calcarifer	pex14	ENSLCAG00010004453	Others	108876420
+Lates_calcarifer	smarcd1	ENSLCAG00010004490	SWI/SNF	108884126
+Lates_calcarifer	npm3	ENSLCAG00010004497	Nucleoplasmin	108888313
+Lates_calcarifer	siah2l	ENSLCAG00010004570	Others	108877269
+Lates_calcarifer	hdac1	ENSLCAG00010004615	Histone deacetylase	108900358
+Lates_calcarifer	arrb2a	ENSLCAG00010004660	Others	108877244
+Lates_calcarifer	ripk3	ENSLCAG00010004670	Others	108890753
+Lates_calcarifer	HDGF	ENSLCAG00010004687	Others	NA
+Lates_calcarifer	xiap	ENSLCAG00010004694	Others	108882775
+Lates_calcarifer	leo1	ENSLCAG00010004765	Others	NA
+Lates_calcarifer	egln1a	ENSLCAG00010004788	Others	108885792
+Lates_calcarifer	hsbp1b	ENSLCAG00010004804	Heat shock protein	108901912
+Lates_calcarifer	cdk5	ENSLCAG00010004830	Cyclin	108883365
+Lates_calcarifer	yap1	ENSLCAG00010004848	Others	108876204
+Lates_calcarifer	elp4	ENSLCAG00010004854	ELP	108877818
+Lates_calcarifer	ppargc1b	ENSLCAG00010004900	Others	108885305
+Lates_calcarifer		ENSLCAG00010004908	Others	108888223
+Lates_calcarifer	supt16h	ENSLCAG00010004935	SUPT	108890758
+Lates_calcarifer	erbb2	ENSLCAG00010004938	Erbb2	108890417
+Lates_calcarifer	ldb1b	ENSLCAG00010004959	LIM	108875630
+Lates_calcarifer	noc2l	ENSLCAG00010005016	Others	NA
+Lates_calcarifer	TENM2	ENSLCAG00010005032	Others	108882780
+Lates_calcarifer	blm	ENSLCAG00010005093	Others	108875432
+Lates_calcarifer	PCGF3	ENSLCAG00010005097	PCGF	108885314
+Lates_calcarifer	eapp	ENSLCAG00010005134	Others	108881165
+Lates_calcarifer		ENSLCAG00010005203	Others	108881108
+Lates_calcarifer	ilf2	ENSLCAG00010005225	Others	NA
+Lates_calcarifer	hnrnpub	ENSLCAG00010005315	HNRNP	NA
+Lates_calcarifer	mrgbp	ENSLCAG00010005346	Others	NA
+Lates_calcarifer	HYAL2	ENSLCAG00010005349	Others	108899272
+Lates_calcarifer	bcl9l	ENSLCAG00010005392	BCL	NA
+Lates_calcarifer	sirt7	ENSLCAG00010005400	Sirtuin	108875649
+Lates_calcarifer	snd1	ENSLCAG00010005441	Others	NA
+Lates_calcarifer	dyrk1b	ENSLCAG00010005488	Others	NA
+Lates_calcarifer	elp3	ENSLCAG00010005534	ELP	108895792
+Lates_calcarifer	smyd1b	ENSLCAG00010005554	SMYD	108882344
+Lates_calcarifer	cnot10	ENSLCAG00010005695	CCR4-NOT	108886115
+Lates_calcarifer	ddx54	ENSLCAG00010005700	RNA helicase	108888969
+Lates_calcarifer	abl1	ENSLCAG00010005729	Others	108888951
+Lates_calcarifer	LPIN2	ENSLCAG00010005737	LPIN	NA
+Lates_calcarifer	setd1a	ENSLCAG00010005768	SET	108880620
+Lates_calcarifer	hspa1b	ENSLCAG00010005781	Heat shock protein	NA
+Lates_calcarifer	rbm15	ENSLCAG00010005842	RNA binding protein	108876521
+Lates_calcarifer	jade1	ENSLCAG00010005897	Others	108902204
+Lates_calcarifer	wdtc1	ENSLCAG00010005904	WD	108889709
+Lates_calcarifer	anxa4	ENSLCAG00010005918	Others	NA
+Lates_calcarifer	edf1	ENSLCAG00010005990	Others	108874115
+Lates_calcarifer	brf2	ENSLCAG00010005999	GTF	108879851
+Lates_calcarifer	wdr61	ENSLCAG00010006016	WD	108883029
+Lates_calcarifer	tbl1x	ENSLCAG00010006041	Transducin	NA
+Lates_calcarifer	ino80c	ENSLCAG00010006059	INO80 complex	108889644
+Lates_calcarifer	adrb2a	ENSLCAG00010006103	Others	NA
+Lates_calcarifer	runx1t1	ENSLCAG00010006125	Others	NA
+Lates_calcarifer	arhgap5	ENSLCAG00010006168	Others	108901632
+Lates_calcarifer	kdm2bb	ENSLCAG00010006180	Lysine demethylase	108879821
+Lates_calcarifer	sin3aa	ENSLCAG00010006234	Other_CRF	NA
+Lates_calcarifer	trim32	ENSLCAG00010006261	Tripartite motif	108874065
+Lates_calcarifer	ncoa4	ENSLCAG00010006292	Nuclear receptor coactivator	108874360
+Lates_calcarifer	cdyl	ENSLCAG00010006312	Chromodomain Y	108884951
+Lates_calcarifer		ENSLCAG00010006414	Others	108880608
+Lates_calcarifer	erbin	ENSLCAG00010006490	Erbb2	NA
+Lates_calcarifer	cbx2	ENSLCAG00010006539	Chromobox	NA
+Lates_calcarifer	TGFB1I1	ENSLCAG00010006610	Others	108890415
+Lates_calcarifer	hdac5	ENSLCAG00010006646	Histone deacetylase	NA
+Lates_calcarifer		ENSLCAG00010006717	Others	108899670
+Lates_calcarifer		ENSLCAG00010006740	Others	108880253
+Lates_calcarifer	chd3	ENSLCAG00010006804	CHD	NA
+Lates_calcarifer	DGKQ	ENSLCAG00010006811	Others	108873749
+Lates_calcarifer	cnot6l	ENSLCAG00010006876	CCR4-NOT	NA
+Lates_calcarifer		ENSLCAG00010006890	Others	NA
+Lates_calcarifer	seta	ENSLCAG00010006918	SET	NA
+Lates_calcarifer	chchd2	ENSLCAG00010007009	Coiled-coil	NA
+Lates_calcarifer	smarcb1b	ENSLCAG00010007012	SWI/SNF	NA
+Lates_calcarifer	cavin1a	ENSLCAG00010007087	Others	108901172
+Lates_calcarifer	ptena	ENSLCAG00010007107	Others	108897292
+Lates_calcarifer	crym	ENSLCAG00010007154	Others	NA
+Lates_calcarifer	tescb	ENSLCAG00010007184	Others	108879814
+Lates_calcarifer	sfr1	ENSLCAG00010007224	Others	108897289
+Lates_calcarifer	pik3r1	ENSLCAG00010007246	Others	108895428
+Lates_calcarifer	prmt5	ENSLCAG00010007248	Arginine methyltransferase	108883946
+Lates_calcarifer	gtf2a2	ENSLCAG00010007257	GTF	108894130
+Lates_calcarifer	FHL2	ENSLCAG00010007311	FHL	108901001
+Lates_calcarifer	hira	ENSLCAG00010007314	Others	NA
+Lates_calcarifer	birc5a	ENSLCAG00010007371	Others	108880779
+Lates_calcarifer	ell2	ENSLCAG00010007379	GTF	108899699
+Lates_calcarifer	kat2a	ENSLCAG00010007538	Lysine acetyltransferase	108901253
+Lates_calcarifer	pin1	ENSLCAG00010007549	Others	108899380
+Lates_calcarifer		ENSLCAG00010007577	Sirtuin	NA
+Lates_calcarifer	gps2	ENSLCAG00010007607	Others	108880000
+Lates_calcarifer	CBL	ENSLCAG00010007618	Others	108886386
+Lates_calcarifer	ldb2a	ENSLCAG00010007636	LIM	NA
+Lates_calcarifer	suv39h1a	ENSLCAG00010007678	Others	NA
+Lates_calcarifer	med8	ENSLCAG00010007690	Mediator complex	108878919
+Lates_calcarifer	polr2a	ENSLCAG00010007694	POLR	108879972
+Lates_calcarifer	tirap	ENSLCAG00010007758	Others	108898789
+Lates_calcarifer	rasd1	ENSLCAG00010007822	Others	108902150
+Lates_calcarifer	fhod1	ENSLCAG00010007879	Others	108894225
+Lates_calcarifer	tnip1	ENSLCAG00010007902	Others	NA
+Lates_calcarifer	ZNF703	ENSLCAG00010007904	Zinc finger	108895455
+Lates_calcarifer	cdkn1bb	ENSLCAG00010007928	Cyclin	108883075
+Lates_calcarifer	lin54	ENSLCAG00010007953	Others	108895485
+Lates_calcarifer	brwd1	ENSLCAG00010008026	Bromodomain	108873760
+Lates_calcarifer	tab1	ENSLCAG00010008050	Others	NA
+Lates_calcarifer	dr1	ENSLCAG00010008069	Others	108878985
+Lates_calcarifer	hnrnpd	ENSLCAG00010008100	HNRNP	108895480
+Lates_calcarifer	hdac7a	ENSLCAG00010008134	Histone deacetylase	108882658
+Lates_calcarifer	chchd6a	ENSLCAG00010008169	Coiled-coil	NA
+Lates_calcarifer	tprb	ENSLCAG00010008223	Others	NA
+Lates_calcarifer	hdac10	ENSLCAG00010008237	Histone deacetylase	108883087
+Lates_calcarifer	cttn	ENSLCAG00010008301	Others	NA
+Lates_calcarifer	pcbd1	ENSLCAG00010008304	Others	108886255
+Lates_calcarifer	TGFB3	ENSLCAG00010008342	Others	108895683
+Lates_calcarifer	txlng	ENSLCAG00010008392	Others	108880519
+Lates_calcarifer	pdlim1	ENSLCAG00010008527	Others	108886256
+Lates_calcarifer	grip1	ENSLCAG00010008531	Others	108901394
+Lates_calcarifer	prmt7	ENSLCAG00010008560	Arginine methyltransferase	108901970
+Lates_calcarifer		ENSLCAG00010008563	Others	108880507
+Lates_calcarifer		ENSLCAG00010008613	Other_CRF	NA
+Lates_calcarifer		ENSLCAG00010008616	NFKB associated	108890843
+Lates_calcarifer	tgfbr3	ENSLCAG00010008627	Others	108878910
+Lates_calcarifer	smarcd3b	ENSLCAG00010008638	SWI/SNF	108895029
+Lates_calcarifer	ercc3	ENSLCAG00010008685	Others	NA
+Lates_calcarifer	mak	ENSLCAG00010008729	Others	NA
+Lates_calcarifer	cxxc5a	ENSLCAG00010008811	Others	108893995
+Lates_calcarifer	tdrd3	ENSLCAG00010008812	Others	108887994
+Lates_calcarifer	SLC26A3	ENSLCAG00010008863	SLC	NA
+Lates_calcarifer	nelfa	ENSLCAG00010008928	GTF	NA
+Lates_calcarifer	phf2	ENSLCAG00010008931	PHF	NA
+Lates_calcarifer	arrb1	ENSLCAG00010008954	Others	NA
+Lates_calcarifer		ENSLCAG00010009163	Casein	108886571
+Lates_calcarifer	btaf1	ENSLCAG00010009323	Others	NA
+Lates_calcarifer	serbp1a	ENSLCAG00010009339	Others	108879097
+Lates_calcarifer	ercc2	ENSLCAG00010009350	Others	108876146
+Lates_calcarifer	rrn3	ENSLCAG00010009431	Others	NA
+Lates_calcarifer	rbbp4	ENSLCAG00010009505	RBBP	NA
+Lates_calcarifer	gtf2h4	ENSLCAG00010009512	GTF	108896382
+Lates_calcarifer	emsy	ENSLCAG00010009535	Others	NA
+Lates_calcarifer	padi2	ENSLCAG00010009538	Other_CRF	108888078
+Lates_calcarifer	chek1	ENSLCAG00010009544	Others	108893136
+Lates_calcarifer	rprd1a	ENSLCAG00010009573	Others	108897818
+Lates_calcarifer	ddx39b	ENSLCAG00010009591	RNA helicase	108896383
+Lates_calcarifer	wu:fj64h06	ENSLCAG00010009611	TATA-box	NA
+Lates_calcarifer	ccne1	ENSLCAG00010009733	Cyclin	108894340
+Lates_calcarifer	birc2	ENSLCAG00010009918	Others	108893387
+Lates_calcarifer	sfmbt2	ENSLCAG00010009921	Others	NA
+Lates_calcarifer	smurf1	ENSLCAG00010010006	Others	108877640
+Lates_calcarifer	psen1	ENSLCAG00010010030	Others	NA
+Lates_calcarifer	lin9	ENSLCAG00010010050	Others	108895638
+Lates_calcarifer	med24	ENSLCAG00010010092	Mediator complex	NA
+Lates_calcarifer	snw1	ENSLCAG00010010110	Others	108898069
+Lates_calcarifer	kmt5aa	ENSLCAG00010010197	Lysine methyltransferase	108897302
+Lates_calcarifer	eno1b	ENSLCAG00010010204	Others	108889362
+Lates_calcarifer	drap1	ENSLCAG00010010213	Others	108882044
+Lates_calcarifer	setd7	ENSLCAG00010010276	SET	108875518
+Lates_calcarifer	CCNK	ENSLCAG00010010282	Cyclin	108898058
+Lates_calcarifer		ENSLCAG00010010285	Other_Co-activator/repressors	108901238
+Lates_calcarifer	phip	ENSLCAG00010010446	Others	NA
+Lates_calcarifer	ss18	ENSLCAG00010010463	SS18	108883433
+Lates_calcarifer	eed	ENSLCAG00010010473	Others	108873087
+Lates_calcarifer		ENSLCAG00010010498	Actin	108877582
+Lates_calcarifer	rptor	ENSLCAG00010010545	Others	NA
+Lates_calcarifer	pdcd4b	ENSLCAG00010010594	Others	108885390
+Lates_calcarifer	ice2	ENSLCAG00010010599	GTF	108885981
+Lates_calcarifer	rbl1	ENSLCAG00010010623	Other_Co-activator/repressors	NA
+Lates_calcarifer	pim1	ENSLCAG00010010663	Others	108882691
+Lates_calcarifer	arl2bp	ENSLCAG00010010716	Others	108901917
+Lates_calcarifer	bud31	ENSLCAG00010010738	Others	108877666
+Lates_calcarifer	ing4	ENSLCAG00010010751	ING	108887347
+Lates_calcarifer	taf11	ENSLCAG00010010799	TATA-box	108882103
+Lates_calcarifer	ep300b	ENSLCAG00010010925	Others	NA
+Lates_calcarifer	taf8	ENSLCAG00010010934	TATA-box	108890974
+Lates_calcarifer	trim25	ENSLCAG00010010945	Tripartite motif	108884561
+Lates_calcarifer	cbx8b	ENSLCAG00010010988	Chromobox	108884564
+Lates_calcarifer	med4	ENSLCAG00010010998	Mediator complex	108896328
+Lates_calcarifer	setd6	ENSLCAG00010011033	SET	108901869
+Lates_calcarifer	rbx1	ENSLCAG00010011043	Others	108877581
+Lates_calcarifer	cnot1	ENSLCAG00010011068	CCR4-NOT	NA
+Lates_calcarifer	sap130a	ENSLCAG00010011094	SAP	108878868
+Lates_calcarifer	maml3	ENSLCAG00010011102	MAML	NA
+Lates_calcarifer	TOB2	ENSLCAG00010011105	Others	108877643
+Lates_calcarifer	NAA15	ENSLCAG00010011132	Others	108900150
+Lates_calcarifer	kat8	ENSLCAG00010011145	Lysine acetyltransferase	NA
+Lates_calcarifer	mybbp1a	ENSLCAG00010011152	MYB	108893874
+Lates_calcarifer	gtf2e1	ENSLCAG00010011155	GTF	108886884
+Lates_calcarifer	med14	ENSLCAG00010011192	Mediator complex	108901310
+Lates_calcarifer	crebbpa	ENSLCAG00010011238	CREB	NA
+Lates_calcarifer	ran	ENSLCAG00010011295	Others	108878285
+Lates_calcarifer	SCMH1	ENSLCAG00010011324	Others	108898509
+Lates_calcarifer	med18	ENSLCAG00010011340	Mediator complex	108898596
+Lates_calcarifer	ctnnd1	ENSLCAG00010011365	Casein	108900140
+Lates_calcarifer	kdm2ab	ENSLCAG00010011367	Lysine demethylase	108878302
+Lates_calcarifer	HSPA8	ENSLCAG00010011447	Heat shock protein	NA
+Lates_calcarifer	SDR16C5	ENSLCAG00010011551	Others	108895259
+Lates_calcarifer	trim37	ENSLCAG00010011559	Tripartite motif	108893895
+Lates_calcarifer	kmt2cb	ENSLCAG00010011562	Lysine methyltransferase	NA
+Lates_calcarifer	dnajb1b	ENSLCAG00010011576	Others	108885427
+Lates_calcarifer	chd6	ENSLCAG00010011649	CHD	NA
+Lates_calcarifer	strn	ENSLCAG00010011653	Others	NA
+Lates_calcarifer	cdk9	ENSLCAG00010011745	Cyclin	NA
+Lates_calcarifer	gnl3	ENSLCAG00010011811	Others	NA
+Lates_calcarifer	lpxn	ENSLCAG00010011812	Others	108877413
+Lates_calcarifer	syk	ENSLCAG00010011881	Others	108900733
+Lates_calcarifer	mdm4	ENSLCAG00010011986	Others	108889406
+Lates_calcarifer	edrf1	ENSLCAG00010011995	Others	108897310
+Lates_calcarifer		ENSLCAG00010012034	Others	108889418
+Lates_calcarifer	lpp	ENSLCAG00010012106	Thyroid hormone receptor	108878886
+Lates_calcarifer	chd1	ENSLCAG00010012142	CHD	108900724
+Lates_calcarifer		ENSLCAG00010012203	RNA helicase	NA
+Lates_calcarifer	snapc5	ENSLCAG00010012353	Others	108886460
+Lates_calcarifer	aurkaip1	ENSLCAG00010012418	Others	108882160
+Lates_calcarifer	ufl1	ENSLCAG00010012434	Others	NA
+Lates_calcarifer	med11	ENSLCAG00010012472	Mediator complex	108895237
+Lates_calcarifer	frk	ENSLCAG00010012485	Others	108899285
+Lates_calcarifer	cdk8	ENSLCAG00010012572	Cyclin	108881753
+Lates_calcarifer	lmo1	ENSLCAG00010012600	LIM	108888827
+Lates_calcarifer	trip13	ENSLCAG00010012649	Thyroid hormone receptor	108891801
+Lates_calcarifer	ttf2	ENSLCAG00010012689	Others	NA
+Lates_calcarifer	cnot8	ENSLCAG00010012721	CCR4-NOT	108899868
+Lates_calcarifer	fhit	ENSLCAG00010012729	Others	108888910
+Lates_calcarifer	hells	ENSLCAG00010012788	Others	108895330
+Lates_calcarifer	arglu1a	ENSLCAG00010012864	Others	108891847
+Lates_calcarifer	ppie	ENSLCAG00010012917	Others	108898028
+Lates_calcarifer	abrab	ENSLCAG00010012994	Actin	108889560
+Lates_calcarifer	ILK	ENSLCAG00010013043	Others	NA
+Lates_calcarifer	dpf1	ENSLCAG00010013050	DPF	NA
+Lates_calcarifer	wwox	ENSLCAG00010013054	WW	108875372
+Lates_calcarifer	apbb1	ENSLCAG00010013062	Others	108876088
+Lates_calcarifer	ern1	ENSLCAG00010013076	Others	NA
+Lates_calcarifer	mycbp	ENSLCAG00010013096	MYC	108898975
+Lates_calcarifer	loxl3b	ENSLCAG00010013151	Others	NA
+Lates_calcarifer	KDM1B	ENSLCAG00010013197	Lysine demethylase	108899011
+Lates_calcarifer	cdk1	ENSLCAG00010013233	Cyclin	NA
+Lates_calcarifer	scai	ENSLCAG00010013254	Others	108900727
+Lates_calcarifer	cthl	ENSLCAG00010013306	Others	NA
+Lates_calcarifer	cops5	ENSLCAG00010013424	Others	108881797
+Lates_calcarifer	PELI1	ENSLCAG00010013496	Others	NA
+Lates_calcarifer	trim8b	ENSLCAG00010013499	Tripartite motif	108876224
+Lates_calcarifer	pqbp1	ENSLCAG00010013518	Others	108882183
+Lates_calcarifer		ENSLCAG00010013536	Others	108890654
+Lates_calcarifer	puf60b	ENSLCAG00010013544	Others	108899992
+Lates_calcarifer	lgals9l6	ENSLCAG00010013628	Others	108902884
+Lates_calcarifer	ripply1	ENSLCAG00010013662	Others	108900061
+Lates_calcarifer	cnot9	ENSLCAG00010013701	CCR4-NOT	108902590
+Lates_calcarifer	ENY2	ENSLCAG00010013753	Others	108899083
+Lates_calcarifer	ogt.1	ENSLCAG00010013834	Others	108882891
+Lates_calcarifer	lrrc14b	ENSLCAG00010013845	Others	NA
+Lates_calcarifer	chrac1	ENSLCAG00010013893	Other_CRF	108898152
+Lates_calcarifer		ENSLCAG00010013900	Others	108880226
+Lates_calcarifer	tdp2b	ENSLCAG00010013901	Others	108898112
+Lates_calcarifer	gmnn	ENSLCAG00010013905	Others	108898113
+Lates_calcarifer	smarcd2	ENSLCAG00010013976	SWI/SNF	108873451
+Lates_calcarifer	prpf6	ENSLCAG00010013990	Others	108889515
+Lates_calcarifer	nab1a	ENSLCAG00010013993	Others	108873122
+Lates_calcarifer	cdk5r1b	ENSLCAG00010014014	Cyclin	NA
+Lates_calcarifer	c1d	ENSLCAG00010014064	Other_Co-activator/repressors	108873357
+Lates_calcarifer		ENSLCAG00010014128	PARP	108874995
+Lates_calcarifer	pidd1	ENSLCAG00010014158	Others	NA
+Lates_calcarifer	brca2	ENSLCAG00010014215	Others	NA
+Lates_calcarifer	stk3	ENSLCAG00010014219	Others	108898178
+Lates_calcarifer	plk3	ENSLCAG00010014259	Others	108883487
+Lates_calcarifer	ncoa2	ENSLCAG00010014317	Nuclear receptor coactivator	NA
+Lates_calcarifer	hipk2	ENSLCAG00010014354	HIPK	108875452
+Lates_calcarifer	polr3f	ENSLCAG00010014363	POLR	108882306
+Lates_calcarifer	eya1	ENSLCAG00010014376	EYA	108881810
+Lates_calcarifer		ENSLCAG00010014384	Others	108900020
+Lates_calcarifer	hltf	ENSLCAG00010014386	Others	NA
+Lates_calcarifer	cdk13	ENSLCAG00010014402	Cyclin	108900000
+Lates_calcarifer	sltm	ENSLCAG00010014476	Others	108887705
+Lates_calcarifer	cdk5rap3	ENSLCAG00010014478	Cyclin	NA
+Lates_calcarifer	rnf111	ENSLCAG00010014490	Ring finger protein	108887704
+Lates_calcarifer	skap1	ENSLCAG00010014518	Others	108892021
+Lates_calcarifer	chd1l	ENSLCAG00010014573	CHD	108878906
+Lates_calcarifer	trib2	ENSLCAG00010014626	Others	108896935
+Lates_calcarifer	tob1a	ENSLCAG00010014633	Others	108880596
+Lates_calcarifer	gtf2h1	ENSLCAG00010014685	GTF	108887012
+Lates_calcarifer	tasorb	ENSLCAG00010014712	FAM	108889521
+Lates_calcarifer		ENSLCAG00010014727	Others	108879927
+Lates_calcarifer	med29	ENSLCAG00010014739	Mediator complex	108895268
+Lates_calcarifer	itcha	ENSLCAG00010014766	Others	108902110
+Lates_calcarifer	eya4	ENSLCAG00010014890	EYA	NA
+Lates_calcarifer	gtf2a1l	ENSLCAG00010014904	GTF	NA
+Lates_calcarifer	CHUK	ENSLCAG00010014923	Others	NA
+Lates_calcarifer	trak2	ENSLCAG00010014926	Others	NA
+Lates_calcarifer	nrip1b	ENSLCAG00010014946	Nuclear receptor coactivator	108893699
+Lates_calcarifer	oxr1b	ENSLCAG00010014947	Nuclear receptor coactivator	108887156
+Lates_calcarifer	ifi35	ENSLCAG00010014972	Others	NA
+Lates_calcarifer	carm1	ENSLCAG00010015078	Others	NA
+Lates_calcarifer	eloca	ENSLCAG00010015100	Others	108881823
+Lates_calcarifer	rlim	ENSLCAG00010015110	Ring finger protein	108882905
+Lates_calcarifer	dscama	ENSLCAG00010015139	Others	NA
+Lates_calcarifer	dpy30	ENSLCAG00010015208	Others	NA
+Lates_calcarifer	sirt2	ENSLCAG00010015253	Sirtuin	108883126
+Lates_calcarifer	atrx	ENSLCAG00010015255	Others	NA
+Lates_calcarifer	DCAF1	ENSLCAG00010015551	Others	108889483
+Lates_calcarifer	btg1	ENSLCAG00010015599	Others	108889259
+Lates_calcarifer	ctr9	ENSLCAG00010015676	Others	108874578
+Lates_calcarifer	skila	ENSLCAG00010015709	SKI	108884149
+Lates_calcarifer	ywhabb	ENSLCAG00010015738	Others	108889496
+Lates_calcarifer	nsd1a	ENSLCAG00010015744	Nuclear receptor coactivator	108882946
+Lates_calcarifer	pabpc1l	ENSLCAG00010015754	Other_CRF	108889490
+Lates_calcarifer	ikbkg	ENSLCAG00010015766	Others	NA
+Lates_calcarifer	MED13L	ENSLCAG00010015783	Mediator complex	NA
+Lates_calcarifer		ENSLCAG00010015805	Others	108884162
+Lates_calcarifer		ENSLCAG00010015816	Others	108875011
+Lates_calcarifer	suds3	ENSLCAG00010015848	Other_Co-activator/repressors	108901963
+Lates_calcarifer	sf1	ENSLCAG00010015865	Others	108879713
+Lates_calcarifer	ss18l2	ENSLCAG00010015916	SS18	108876907
+Lates_calcarifer	baz1b	ENSLCAG00010016028	Bromodomain	NA
+Lates_calcarifer	insra	ENSLCAG00010016069	Others	108884165
+Lates_calcarifer		ENSLCAG00010016123	Casein	NA
+Lates_calcarifer	hif1an	ENSLCAG00010016142	Others	108880378
+Lates_calcarifer	auts2a	ENSLCAG00010016162	Others	NA
+Lates_calcarifer	brd7	ENSLCAG00010016194	Bromodomain	108876971
+Lates_calcarifer	taf6l	ENSLCAG00010016197	TATA-box	108895217
+Lates_calcarifer	nod2	ENSLCAG00010016222	Others	108876863
+Lates_calcarifer	NDUFA13	ENSLCAG00010016224	Others	108883580
+Lates_calcarifer	ELOF1	ENSLCAG00010016336	GTF	NA
+Lates_calcarifer	men1	ENSLCAG00010016345	Others	108879711
+Lates_calcarifer	rgcc	ENSLCAG00010016379	Others	108897621
+Lates_calcarifer	med13a	ENSLCAG00010016388	Mediator complex	NA
+Lates_calcarifer	cbfa2t2	ENSLCAG00010016403	Others	NA
+Lates_calcarifer	taf7	ENSLCAG00010016445	TATA-box	NA
+Lates_calcarifer	tbpl1	ENSLCAG00010016492	TATA-box	108896872
+Lates_calcarifer	SGK1	ENSLCAG00010016501	Others	NA
+Lates_calcarifer	atad2	ENSLCAG00010016506	Others	NA
+Lates_calcarifer	KDM5B	ENSLCAG00010016578	Lysine demethylase	108890488
+Lates_calcarifer	ruvbl2	ENSLCAG00010016656	Other_CRF	NA
+Lates_calcarifer	cbx3a	ENSLCAG00010016686	Chromobox	108877463
+Lates_calcarifer	rbmx	ENSLCAG00010016690	RNA binding protein	NA
+Lates_calcarifer	banp	ENSLCAG00010016761	Others	108875392
+Lates_calcarifer	gtf2f1	ENSLCAG00010016798	GTF	108880688
+Lates_calcarifer	dvl2	ENSLCAG00010016889	Others	108897075
+Lates_calcarifer	fgf5	ENSLCAG00010016976	FGF	108887138
+Lates_calcarifer	trak1a	ENSLCAG00010016991	Others	108888333
+Lates_calcarifer	ppargc1a	ENSLCAG00010017001	Others	108892713
+Lates_calcarifer	lbh	ENSLCAG00010017012	Others	108875052
+Lates_calcarifer	ctnnb1	ENSLCAG00010017054	Casein	108888404
+Lates_calcarifer	notch1b	ENSLCAG00010017057	Notch	108875238
+Lates_calcarifer	txnipa	ENSLCAG00010017258	Others	108896194
+Lates_calcarifer	ago2	ENSLCAG00010017287	Others	NA
+Lates_calcarifer	hint2	ENSLCAG00010017289	Others	NA
+Lates_calcarifer	malt1	ENSLCAG00010017298	Others	NA
+Lates_calcarifer	eya3	ENSLCAG00010017361	EYA	NA
+Lates_calcarifer	pid1	ENSLCAG00010017371	Others	108872407
+Lates_calcarifer	pfdn5	ENSLCAG00010017415	Others	108881442
+Lates_calcarifer	tsg101a	ENSLCAG00010017417	Others	108875415
+Lates_calcarifer	asb2a.1	ENSLCAG00010017454	NFKB associated	108890052
+Lates_calcarifer	brf1b	ENSLCAG00010017485	GTF	NA
+Lates_calcarifer	actn2b	ENSLCAG00010017521	Actin	NA
+Lates_calcarifer	ddx1	ENSLCAG00010017623	RNA helicase	108896834
+Lates_calcarifer	jak2b	ENSLCAG00010017718	Others	NA
+Lates_calcarifer	csrp3	ENSLCAG00010017763	Others	108887876
+Lates_calcarifer	dhx33	ENSLCAG00010017766	RNA helicase	108893982
+Lates_calcarifer	c1qbp	ENSLCAG00010017771	Others	108894003
+Lates_calcarifer	sirt6	ENSLCAG00010017822	Sirtuin	108883607
+Lates_calcarifer	supt4h1	ENSLCAG00010017846	SUPT	108893509
+Lates_calcarifer	htatip2	ENSLCAG00010017906	Others	108887780
+Lates_calcarifer	si:ch73-21k16.1	ENSLCAG00010017908	LPIN	108896846
+Lates_calcarifer	abt1	ENSLCAG00010017969	Others	108890561
+Lates_calcarifer	lancl2	ENSLCAG00010018032	Others	108898456
+Lates_calcarifer	ccnc	ENSLCAG00010018034	Cyclin	108896794
+Lates_calcarifer	eaf2	ENSLCAG00010018035	Others	108897121
+Lates_calcarifer	med28	ENSLCAG00010018076	Mediator complex	108893084
+Lates_calcarifer	pak6b	ENSLCAG00010018105	Others	NA
+Lates_calcarifer	wwp2	ENSLCAG00010018124	WW	NA
+Lates_calcarifer	med20	ENSLCAG00010018149	Mediator complex	108886480
+Lates_calcarifer	pa2g4a	ENSLCAG00010018150	Others	NA
+Lates_calcarifer	vhl	ENSLCAG00010018175	Others	108881483
+Lates_calcarifer	mbtd1	ENSLCAG00010018178	Others	108876809
+Lates_calcarifer	med23	ENSLCAG00010018185	Mediator complex	108896823
+Lates_calcarifer	ruvbl1	ENSLCAG00010018211	Other_CRF	108881493
+Lates_calcarifer	ascc3	ENSLCAG00010018250	ASCC	108876288
+Lates_calcarifer	kat6a	ENSLCAG00010018266	Lysine acetyltransferase	108878406
+Lates_calcarifer	frzb	ENSLCAG00010018454	Others	108897618
+Lates_calcarifer	tnni1a	ENSLCAG00010018476	Others	NA
+Lates_calcarifer	cnot11	ENSLCAG00010018491	CCR4-NOT	NA
+Lates_calcarifer	ecd	ENSLCAG00010018550	Others	NA
+Lates_calcarifer	traf6	ENSLCAG00010018578	Others	108887802
+Lates_calcarifer	prkcbp1l	ENSLCAG00010018579	Zinc finger	108900227
+Lates_calcarifer	kdm1a	ENSLCAG00010018590	Lysine demethylase	NA
+Lates_calcarifer	cxxc1b	ENSLCAG00010018774	Others	NA
+Lates_calcarifer	ssu72	ENSLCAG00010018800	Others	108886491
+Lates_calcarifer	rad21b	ENSLCAG00010018880	Others	108901190
+Lates_calcarifer	arhgap35a	ENSLCAG00010018908	Others	NA
+Lates_calcarifer	cnot2	ENSLCAG00010018975	CCR4-NOT	NA
+Lates_calcarifer	med30	ENSLCAG00010019049	Mediator complex	108901194
+Lates_calcarifer		ENSLCAG00010019145	Tripartite motif	108890921
+Lates_calcarifer		ENSLCAG00010019154	Others	108886517
+Lates_calcarifer		ENSLCAG00010019194	Others	NA
+Lates_calcarifer	phf8	ENSLCAG00010019206	PHF	108876399
+Lates_calcarifer	myo6a	ENSLCAG00010019237	Others	NA
+Lates_calcarifer	rnf8	ENSLCAG00010019275	Ring finger protein	108873483
+Lates_calcarifer	ndnl2	ENSLCAG00010019411	MAGE	108873289
+Lates_calcarifer	camk2b1	ENSLCAG00010019428	CAMK	108895334
+Lates_calcarifer	raf1a	ENSLCAG00010019431	Others	108900163
+Lates_calcarifer		ENSLCAG00010019464	Others	108873632
+Lates_calcarifer	vgll2a	ENSLCAG00010019475	Vestigial like	108885267
+Lates_calcarifer		ENSLCAG00010019548	Transducin	NA
+Lates_calcarifer		ENSLCAG00010019561	Others	108901674
+Lates_calcarifer	plrg1	ENSLCAG00010019584	Others	108901665
+Lates_calcarifer	SS18L1	ENSLCAG00010019593	SS18	108900201
+Lates_calcarifer	taf2	ENSLCAG00010019611	TATA-box	108876270
+Lates_calcarifer	smarca5	ENSLCAG00010019634	SWI/SNF	108893074
+Lates_calcarifer	ino80	ENSLCAG00010019682	INO80 complex	NA
+Lates_calcarifer	rnf14	ENSLCAG00010019733	Ring finger protein	108893421
+Lates_calcarifer	ccdc85b	ENSLCAG00010019871	Coiled-coil	NA
+Lates_calcarifer	phf20a	ENSLCAG00010019917	PHF	NA
+Lates_calcarifer	dnmt3bb.1	ENSLCAG00010019969	DNA_methylase	108873297
+Lates_calcarifer	DDX5	ENSLCAG00010020056	RNA helicase	108875925
+Lates_calcarifer	tnksb	ENSLCAG00010020063	Others	108878510
+Lates_calcarifer	kat2b	ENSLCAG00010020147	Lysine acetyltransferase	NA
+Lates_calcarifer		ENSLCAG00010020155	Transducin	108878821
+Lates_calcarifer	ascc1	ENSLCAG00010020310	ASCC	108899032
+Lates_calcarifer	prmt2	ENSLCAG00010020424	Arginine methyltransferase	108880428
+Lates_calcarifer	vgll4b	ENSLCAG00010020467	Vestigial like	108890086
+Lates_calcarifer	smarca4a	ENSLCAG00010020479	SWI/SNF	NA
+Lates_calcarifer	DUSP26	ENSLCAG00010020483	Others	108895451
+Lates_calcarifer	ash2l	ENSLCAG00010020536	Others	NA
+Lates_calcarifer	RING1	ENSLCAG00010020537	Ring finger protein	108891253
+Lates_calcarifer	prdx5	ENSLCAG00010020595	Others	108893777
+Lates_calcarifer	cdk2	ENSLCAG00010020639	Cyclin	108898963
+Lates_calcarifer	slc19a1	ENSLCAG00010020663	SLC	108892834
+Lates_calcarifer		ENSLCAG00010020668	Others	NA
+Lates_calcarifer	timeless	ENSLCAG00010020669	Others	108898965
+Lates_calcarifer	dvl3a	ENSLCAG00010020676	Others	108883643
+Lates_calcarifer	ezrb	ENSLCAG00010020689	Others	NA
+Lates_calcarifer	hdac11	ENSLCAG00010020739	Histone deacetylase	NA
+Lates_calcarifer	mcrs1	ENSLCAG00010020749	Others	108898956
+Lates_calcarifer	CTDSP1	ENSLCAG00010020750	Others	108873028
+Lates_calcarifer	rnf10	ENSLCAG00010020798	Ring finger protein	108878253
+Lates_calcarifer	utp4	ENSLCAG00010020852	Others	108902275
+Lates_calcarifer	NCK2	ENSLCAG00010020860	Others	108890262
+Lates_calcarifer	daxx	ENSLCAG00010020876	Other_CRF	108881908
+Lates_calcarifer	znf593	ENSLCAG00010021012	Zinc finger	108874838
+Lates_calcarifer	ankra2	ENSLCAG00010021015	Ankyrin repeat	108882001
+Lates_calcarifer	btf3	ENSLCAG00010021025	Others	NA
+Lates_calcarifer	trip4	ENSLCAG00010021041	Thyroid hormone receptor	108887853
+Lates_calcarifer	dcc	ENSLCAG00010021045	Others	NA
+Lates_calcarifer	ddx20	ENSLCAG00010021048	RNA helicase	108877922
+Lates_calcarifer	tonsl	ENSLCAG00010021056	Others	NA
+Lates_calcarifer	tcea1	ENSLCAG00010021112	TEF	108883285
+Lates_calcarifer	flncb	ENSLCAG00010021189	Others	NA
+Lates_calcarifer	tada3l	ENSLCAG00010021200	Transcriptional adaptor	108885620
+Lates_calcarifer	taf3	ENSLCAG00010021221	TATA-box	NA
+Lates_calcarifer	camk4	ENSLCAG00010021406	CAMK	108891760
+Lates_calcarifer		ENSLCAG00010021427	Erbb2	108873032
+Lates_calcarifer	depdc1a	ENSLCAG00010021490	Others	108879554
+Lates_calcarifer	trrap	ENSLCAG00010021502	Others	NA
+Lates_calcarifer	top1	ENSLCAG00010021519	Other_CRF	108877950
+Lates_calcarifer	anp32a	ENSLCAG00010021535	ANP	NA
+Lates_calcarifer	med19a	ENSLCAG00010021545	Mediator complex	NA
+Lates_calcarifer	si:dkey-6i22.5	ENSLCAG00010021546	Others	108894707
+Lates_calcarifer	pik3r2	ENSLCAG00010021561	Others	108883666
+Lates_calcarifer	crtc1a	ENSLCAG00010021571	CREB	108883669
+Lates_calcarifer		ENSLCAG00010021575	Mediator complex	108883667
+Lates_calcarifer		ENSLCAG00010021595	Others	NA
+Lates_calcarifer	meaf6	ENSLCAG00010021725	Others	108903144
+Lates_calcarifer		ENSLCAG00010021740	Others	108879544
+Lates_calcarifer	fgfr1a	ENSLCAG00010021834	FGF	108878351
+Lates_calcarifer	supt7l	ENSLCAG00010021898	SUPT	108896170
+Lates_calcarifer	med27	ENSLCAG00010021909	Mediator complex	108894234
+Lates_calcarifer	mllt3	ENSLCAG00010021914	GTF	108895189
+Lates_calcarifer	sap30bp	ENSLCAG00010021949	SAP	108872508
+Lates_calcarifer	phf19	ENSLCAG00010021972	PHF	108894410
+Lates_calcarifer	sirt5	ENSLCAG00010021977	Sirtuin	NA
+Lates_calcarifer	nup98	ENSLCAG00010021984	Others	NA
+Lates_calcarifer	cidec	ENSLCAG00010022007	Others	NA
+Lates_calcarifer	fbp1b	ENSLCAG00010022190	Others	108883270
+Lates_calcarifer	dab2	ENSLCAG00010022206	Others	NA
+Lates_calcarifer		ENSLCAG00010022290	Zinc finger	NA
+Lates_calcarifer	ehmt1b	ENSLCAG00010022358	Histone lysine methyltransferase	108889015
+Lates_calcarifer	mms19	ENSLCAG00010022360	Others	NA
+Lates_calcarifer	wbp2	ENSLCAG00010022361	WW	108872603
+Lates_calcarifer	kdm4ab	ENSLCAG00010022407	Lysine demethylase	108883687
+Lates_calcarifer	setd3	ENSLCAG00010022414	SET	108897905
+Lates_calcarifer	s100a10a	ENSLCAG00010022493	Others	108888880
+Lates_calcarifer	SFMBT1	ENSLCAG00010022507	Others	108885645
+Lates_calcarifer	aurkb	ENSLCAG00010022522	Others	NA
+Lates_calcarifer	pspc1	ENSLCAG00010022571	Others	108900649
+Lates_calcarifer	ppid	ENSLCAG00010022627	Others	NA
+Lates_calcarifer	ccnt2b	ENSLCAG00010022687	Cyclin	NA
+Lates_calcarifer	mtf2	ENSLCAG00010022740	Others	108883706
+Lates_calcarifer		ENSLCAG00010022746	Others	NA
+Lates_calcarifer	rtf1	ENSLCAG00010022771	Others	108886678
+Lates_calcarifer	gtf2b	ENSLCAG00010022785	GTF	108883720
+Lates_calcarifer	RBPMS	ENSLCAG00010022813	RNA binding protein	108890910
+Lates_calcarifer	actl6a	ENSLCAG00010022856	Actin	108881295
+Lates_calcarifer	med6	ENSLCAG00010022871	Mediator complex	NA
+Lates_calcarifer	PLK1	ENSLCAG00010022905	Others	108894767
+Lates_calcarifer	cnot3a	ENSLCAG00010023011	CCR4-NOT	108885883
+Lates_calcarifer	actn1	ENSLCAG00010023033	Actin	108886695
+Lates_calcarifer	macroh2a2	ENSLCAG00010023103	Others	NA
+Lates_calcarifer	supt5h	ENSLCAG00010023151	SUPT	NA
+Lates_calcarifer	tab3	ENSLCAG00010023225	Others	108881311
+Lates_calcarifer	dmap1	ENSLCAG00010023299	DNA_methylase	NA
+Lates_calcarifer	jmjd6	ENSLCAG00010023324	Others	108882389
+Lates_calcarifer	wnt4	ENSLCAG00010023404	Others	108877528
+Lates_calcarifer	slc30a9	ENSLCAG00010023475	SLC	108895349
+Lates_calcarifer	nrbf2b	ENSLCAG00010023485	Nuclear receptor coactivator	108876776
+Lates_calcarifer	SMARCA2	ENSLCAG00010023510	SWI/SNF	108878388
+Lates_calcarifer	kank1a	ENSLCAG00010023606	Others	108878354
+Lates_calcarifer		ENSLCAG00010023615	Others	108883734
+Lates_calcarifer	picalmb	ENSLCAG00010023624	Others	NA
+Lates_calcarifer	brd1a	ENSLCAG00010023706	Bromodomain	NA
+Lates_calcarifer	med10	ENSLCAG00010023716	Mediator complex	108900414
+Lates_calcarifer	ep400	ENSLCAG00010023732	Others	NA
+Lates_calcarifer	yaf2	ENSLCAG00010023745	Others	108888558
+Lates_calcarifer	kdm5a	ENSLCAG00010023749	Lysine demethylase	NA
+Lates_calcarifer	mnat1	ENSLCAG00010023795	Others	108892563
+Lates_calcarifer		ENSLCAG00010023809	Others	NA
+Lates_calcarifer	si:dkey-21c19.3	ENSLCAG00010023835	Others	108876507
+Lates_calcarifer	h2az2a	ENSLCAG00010023846	Others	108878404
+Lates_calcarifer	calcoco1a	ENSLCAG00010023952	Others	NA
+Lates_calcarifer	sap30l	ENSLCAG00010023954	SAP	NA
+Lates_calcarifer	ascc2	ENSLCAG00010024008	ASCC	108891350
+Lates_calcarifer	cbx5	ENSLCAG00010024014	Chromobox	108876474
+Lates_calcarifer	chek2	ENSLCAG00010024040	Others	NA
+Lates_calcarifer	chd4a	ENSLCAG00010024042	CHD	108887524
+Lates_calcarifer		ENSLCAG00010024092	WD	108894557
+Lates_calcarifer	BRD3	ENSLCAG00010024146	Bromodomain	NA
+Lates_calcarifer	niban2b	ENSLCAG00010024155	FAM	108878324
+Lates_calcarifer	hdac8	ENSLCAG00010024272	Histone deacetylase	NA
+Lates_calcarifer	supt6h	ENSLCAG00010024343	SUPT	108893700
+Lates_calcarifer	gtf2h2	ENSLCAG00010024373	GTF	108878580
+Lates_calcarifer	pink1	ENSLCAG00010024381	Others	108888944
+Lates_calcarifer	park7	ENSLCAG00010024382	Others	108899924
+Lates_calcarifer	caskb	ENSLCAG00010024399	CAMK	108872986
+Lates_calcarifer	bmi1a	ENSLCAG00010024462	Others	NA
+Lates_calcarifer	cdc73	ENSLCAG00010024468	Others	NA
+Lates_calcarifer	sav1	ENSLCAG00010024521	Others	108886703
+Lates_calcarifer	DTX1	ENSLCAG00010024615	Others	108878309
+Lates_calcarifer	rfxap	ENSLCAG00010024629	Others	108893716
+Lates_calcarifer	supt20	ENSLCAG00010024675	SUPT	108893876
+Lates_calcarifer	clu	ENSLCAG00010024971	Others	NA
+Lates_calcarifer	polr3c	ENSLCAG00010025028	POLR	108885919
+Lates_calcarifer	dot1l	ENSLCAG00010025038	Others	NA
+Lates_calcarifer	suz12b	ENSLCAG00010025043	Others	NA
+Lates_calcarifer	nrg2b	ENSLCAG00010025062	Others	108878723
+Lates_calcarifer	xrn2	ENSLCAG00010025068	Others	108872468
+Lates_calcarifer	ell	ENSLCAG00010025072	GTF	NA
+Lates_calcarifer	nono	ENSLCAG00010025092	Others	108878228
+Lates_calcarifer	notch2	ENSLCAG00010025181	Notch	108877344
+Lates_calcarifer	pex2	ENSLCAG00010025187	Others	108900774
+Lates_calcarifer	creg1	ENSLCAG00010025273	Others	108877183
+Lates_calcarifer	sin3b	ENSLCAG00010025277	Others	108881354
+Lates_calcarifer	HMOX1	ENSLCAG00010025306	Others	108875822
+Lates_calcarifer	ezh2	ENSLCAG00010025323	Others	108884998
+Lates_calcarifer	nol11	ENSLCAG00010025328	Nuclear coactivator	108875757
+Lates_calcarifer	bptf	ENSLCAG00010025373	Bromodomain	NA
+Lates_calcarifer	MID1IP1	ENSLCAG00010025437	Others	NA
+Lates_calcarifer	taf1	ENSLCAG00010025457	TATA-box	NA
+Lates_calcarifer	hdac3	ENSLCAG00010025496	Histone deacetylase	NA
+Lates_calcarifer	hat1	ENSLCAG00010025548	Others	108888693
+Lates_calcarifer	smurf2	ENSLCAG00010025558	Others	108875765
+Lates_calcarifer	rb1	ENSLCAG00010025606	Other_Co-activator/repressors	108893878
+Lates_calcarifer	ACTN4	ENSLCAG00010025640	Actin	108872698
+Lates_calcarifer	nab2	ENSLCAG00010025672	Others	108898925
+Lates_calcarifer	med16	ENSLCAG00010025686	Mediator complex	NA
+Lates_calcarifer	kdm6al	ENSLCAG00010025784	Lysine demethylase	108872980
+Lates_calcarifer		ENSLCAG00010025828	Others	108888692
+Lates_calcarifer	src	ENSLCAG00010025877	Others	108895090
+Lates_calcarifer		ENSLCAG00010025900	SMYD	108876917
+Lates_calcarifer	rbfox2	ENSLCAG00010025939	Others	108875875
+Lates_calcarifer	nelfcd	ENSLCAG00010025977	GTF	NA
+Lates_calcarifer	rybpa	ENSLCAG00010025986	Others	108898879
+Lates_calcarifer	dnmt1	ENSLCAG00010025990	DNA_methylase	108902999
+Lates_calcarifer	tdg.1	ENSLCAG00010026031	Others	108889295
+Lates_calcarifer	rbl2	ENSLCAG00010026080	Other_Co-activator/repressors	NA
+Lates_calcarifer	taf1b	ENSLCAG00010026119	TATA-box	108891562
+Lates_calcarifer	FAM83G	ENSLCAG00010026136	FAM	108888455
+Lates_calcarifer	med17	ENSLCAG00010026176	Mediator complex	108872693
+Lates_calcarifer	uxt	ENSLCAG00010026178	Others	108879511
+Lates_calcarifer	TLE5	ENSLCAG00010026218	Others	NA
+Lates_calcarifer		ENSLCAG00010026228	Others	108902710
+Lates_calcarifer	med21	ENSLCAG00010026284	Mediator complex	108888354
+Lates_calcarifer	ccna2	ENSLCAG00010026361	Cyclin	108901509
+Lates_calcarifer	tbp	ENSLCAG00010026364	TATA-box	108876897
+Lates_calcarifer	phf10	ENSLCAG00010026383	PHF	108876894
+Lates_calcarifer		ENSLCAG00010026410	Others	108895043
+Lates_calcarifer	rnf141	ENSLCAG00010026422	Ring finger protein	108880876
+Lates_calcarifer	apex1	ENSLCAG00010026457	Others	108888369
+Lates_calcarifer		ENSLCAG00010026460	Others	108903072
+Lates_calcarifer	xrcc6	ENSLCAG00010026491	Others	108889101
+Lates_calcarifer	phf5a	ENSLCAG00010026552	PHF	NA
+Lates_calcarifer	smyd2a	ENSLCAG00010026576	SMYD	108876957
+Lates_calcarifer	tfb2m	ENSLCAG00010026676	Others	108876887
+Lates_calcarifer	WDR77	ENSLCAG00010026717	WD	108886456
+Lates_calcarifer	wwp1	ENSLCAG00010026914	WW	NA
+Lates_calcarifer	nrip2	ENSLCAG00010026932	Nuclear coactivator	108897591
+Lates_calcarifer	calr	ENSLCAG00010026951	Others	108881368
+Lates_calcarifer	med25	ENSLCAG00010026976	Mediator complex	NA
+Lates_calcarifer	MYOCD	ENSLCAG00010027038	Others	NA
+Lates_calcarifer	cry1a	ENSLCAG00010027085	Others	108897577
+Lates_calcarifer	nelfb	ENSLCAG00010027153	GTF	NA
+Lates_calcarifer	SAMD4B	ENSLCAG00010027170	Others	NA
+Lates_calcarifer	paf1	ENSLCAG00010027179	Others	NA
+Lates_calcarifer	gsk3ba	ENSLCAG00010027248	Others	108884414
+Lates_calcarifer	rexo4	ENSLCAG00010027277	Others	108884424
+Lates_calcarifer	rnf2	ENSLCAG00010027353	Ring finger protein	108885338
+Lates_calcarifer	rap2c	ENSLCAG00010027421	Others	108879374
+Lates_calcarifer	loxl2b	ENSLCAG00010027448	Others	NA
+Lates_calcarifer	taf10	ENSLCAG00010027550	TATA-box	108891684
+Lates_calcarifer	wwc1	ENSLCAG00010027585	WW	108885350
+Lates_calcarifer	tbpl2	ENSLCAG00010027586	TATA-box	108882341
+Lates_calcarifer	nif3l1	ENSLCAG00010027598	Others	108884466
+Lates_calcarifer	dact1	ENSLCAG00010027599	Others	NA
+Lates_calcarifer	irf2bpl	ENSLCAG00010027602	Others	NA
+Lates_calcarifer	med22	ENSLCAG00010027637	Mediator complex	108878365
+Lates_calcarifer	pagr1	ENSLCAG00010027645	Others	108884472
+Lates_calcarifer	snx6	ENSLCAG00010027652	Others	108882350
+Lates_calcarifer	EPC1	ENSLCAG00010027697	Others	NA
+Lates_calcarifer	kdm4c	ENSLCAG00010027698	Lysine demethylase	NA
+Lates_calcarifer	taf5l	ENSLCAG00010027706	TATA-box	108882511
+Lates_calcarifer	lzts1	ENSLCAG00010027824	Others	108878638
+Lates_calcarifer	znf451	ENSLCAG00010027849	Zinc finger	108892388
+Lates_calcarifer	ccnh	ENSLCAG00010027920	Cyclin	108878517
+Lates_calcarifer	cbx6a	ENSLCAG00010027977	Chromobox	108887174
+Lates_calcarifer	hdac4	ENSLCAG00010028057	Histone deacetylase	108887082
+Lates_calcarifer	JMY	ENSLCAG00010028112	Others	108878148
+Lates_calcarifer	cdk7	ENSLCAG00010028164	Cyclin	108878776
+Lates_calcarifer	thoc5	ENSLCAG00010028185	Others	108878735
+Lates_calcarifer	gtf2h3	ENSLCAG00010028295	GTF	108878085
+Lates_calcarifer	nipbla	ENSLCAG00010028323	Others	108878289
+Lates_calcarifer	hnrnpk	ENSLCAG00010028333	HNRNP	108878244

@@ -1,0 +1,955 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Sciurus_vulgaris	NOC2L	ENSSVLG00005000005	Others	NA
+Sciurus_vulgaris	AURKAIP1	ENSSVLG00005000028	Others	NA
+Sciurus_vulgaris		ENSSVLG00005000036	Others	NA
+Sciurus_vulgaris	SKI	ENSSVLG00005000051	SKI	NA
+Sciurus_vulgaris		ENSSVLG00005000147	Others	NA
+Sciurus_vulgaris	MTF2	ENSSVLG00005000167	Others	NA
+Sciurus_vulgaris	WWP1	ENSSVLG00005000173	WW	NA
+Sciurus_vulgaris	EDRF1	ENSSVLG00005000243	Others	NA
+Sciurus_vulgaris	NOL11	ENSSVLG00005000246	Nuclear coactivator	NA
+Sciurus_vulgaris	DR1	ENSSVLG00005000282	Others	NA
+Sciurus_vulgaris	CBX5	ENSSVLG00005000307	Chromobox	NA
+Sciurus_vulgaris	KAT2A	ENSSVLG00005000319	Lysine acetyltransferase	NA
+Sciurus_vulgaris	CTBP2	ENSSVLG00005000348	Others	NA
+Sciurus_vulgaris	XRN2	ENSSVLG00005000470	Others	NA
+Sciurus_vulgaris	MACROH2A2	ENSSVLG00005000480	Others	NA
+Sciurus_vulgaris	DNTTIP2	ENSSVLG00005000490	Others	NA
+Sciurus_vulgaris	BPTF	ENSSVLG00005000533	Bromodomain	NA
+Sciurus_vulgaris	PNRC2	ENSSVLG00005000620	Others	NA
+Sciurus_vulgaris		ENSSVLG00005000640	Casein	NA
+Sciurus_vulgaris	NEDD8	ENSSVLG00005000649	Others	NA
+Sciurus_vulgaris	INO80	ENSSVLG00005000663	INO80 complex	NA
+Sciurus_vulgaris	BCL10	ENSSVLG00005000684	BCL	NA
+Sciurus_vulgaris		ENSSVLG00005000716	ANP	NA
+Sciurus_vulgaris	YWHAB	ENSSVLG00005000717	Others	NA
+Sciurus_vulgaris	PABPC1L	ENSSVLG00005000760	Other_CRF	NA
+Sciurus_vulgaris	CCNK	ENSSVLG00005000830	Cyclin	NA
+Sciurus_vulgaris	COPS5	ENSSVLG00005000836	Others	NA
+Sciurus_vulgaris	CHD8	ENSSVLG00005000838	CHD	NA
+Sciurus_vulgaris		ENSSVLG00005000855	Others	NA
+Sciurus_vulgaris	PARP10	ENSSVLG00005000874	PARP	NA
+Sciurus_vulgaris	RTF1	ENSSVLG00005000880	Others	NA
+Sciurus_vulgaris	SETD3	ENSSVLG00005000889	SET	NA
+Sciurus_vulgaris		ENSSVLG00005000891	Others	NA
+Sciurus_vulgaris	ANKAR	ENSSVLG00005000904	Ankyrin repeat	NA
+Sciurus_vulgaris	JUP	ENSSVLG00005000914	Others	NA
+Sciurus_vulgaris	SMURF2	ENSSVLG00005000925	Others	NA
+Sciurus_vulgaris	SUPT16H	ENSSVLG00005000963	SUPT	NA
+Sciurus_vulgaris	TRIB3	ENSSVLG00005001003	Others	NA
+Sciurus_vulgaris	PADI2	ENSSVLG00005001014	Other_CRF	NA
+Sciurus_vulgaris	POLR3F	ENSSVLG00005001072	POLR	NA
+Sciurus_vulgaris	ABRA	ENSSVLG00005001075	Actin	NA
+Sciurus_vulgaris	DDX5	ENSSVLG00005001086	RNA helicase	NA
+Sciurus_vulgaris	PADI4	ENSSVLG00005001148	Others	NA
+Sciurus_vulgaris	HAT1	ENSSVLG00005001175	Others	NA
+Sciurus_vulgaris		ENSSVLG00005001219	HNRNP	NA
+Sciurus_vulgaris	ENY2	ENSSVLG00005001233	Others	NA
+Sciurus_vulgaris	ERN1	ENSSVLG00005001278	Others	NA
+Sciurus_vulgaris	NCOA2	ENSSVLG00005001311	Nuclear receptor coactivator	NA
+Sciurus_vulgaris		ENSSVLG00005001327	Others	NA
+Sciurus_vulgaris	NAB1	ENSSVLG00005001337	Others	NA
+Sciurus_vulgaris	ATXN7L3	ENSSVLG00005001392	Others	NA
+Sciurus_vulgaris	MYCBP2	ENSSVLG00005001417	MYC	NA
+Sciurus_vulgaris	RWDD3	ENSSVLG00005001426	Others	NA
+Sciurus_vulgaris	PDCD4	ENSSVLG00005001456	Others	NA
+Sciurus_vulgaris	CCNT2	ENSSVLG00005001535	Cyclin	NA
+Sciurus_vulgaris	EYA1	ENSSVLG00005001545	EYA	NA
+Sciurus_vulgaris	HDAC5	ENSSVLG00005001604	Histone deacetylase	NA
+Sciurus_vulgaris	SMARCD2	ENSSVLG00005001615	SWI/SNF	NA
+Sciurus_vulgaris	BRMS1L	ENSSVLG00005001649	Other_CRF	NA
+Sciurus_vulgaris	HCK	ENSSVLG00005001700	Others	NA
+Sciurus_vulgaris	NCOA4	ENSSVLG00005001728	Nuclear receptor coactivator	NA
+Sciurus_vulgaris	AGO1	ENSSVLG00005001765	Others	NA
+Sciurus_vulgaris	APEX1	ENSSVLG00005001829	Others	NA
+Sciurus_vulgaris	ELP3	ENSSVLG00005001840	ELP	NA
+Sciurus_vulgaris	ZNF593	ENSSVLG00005001892	Zinc finger	NA
+Sciurus_vulgaris	RALGAPA1	ENSSVLG00005001913	Others	NA
+Sciurus_vulgaris	ASXL1	ENSSVLG00005001929	Others	NA
+Sciurus_vulgaris		ENSSVLG00005001936	EID	NA
+Sciurus_vulgaris	MED4	ENSSVLG00005001989	Mediator complex	NA
+Sciurus_vulgaris	GTF2B	ENSSVLG00005002028	GTF	NA
+Sciurus_vulgaris		ENSSVLG00005002034	Others	NA
+Sciurus_vulgaris	MNAT1	ENSSVLG00005002052	Others	NA
+Sciurus_vulgaris	RB1	ENSSVLG00005002082	Other_Co-activator/repressors	NA
+Sciurus_vulgaris	ESF1	ENSSVLG00005002086	Others	NA
+Sciurus_vulgaris	THRAP3	ENSSVLG00005002113	Thyroid hormone receptor	NA
+Sciurus_vulgaris		ENSSVLG00005002127	DNA_methylase	NA
+Sciurus_vulgaris		ENSSVLG00005002146	EID	NA
+Sciurus_vulgaris		ENSSVLG00005002231	Others	NA
+Sciurus_vulgaris	NELFCD	ENSSVLG00005002237	GTF	NA
+Sciurus_vulgaris		ENSSVLG00005002244	Others	NA
+Sciurus_vulgaris	FGFR2	ENSSVLG00005002254	FGF	NA
+Sciurus_vulgaris	CLU	ENSSVLG00005002257	Others	NA
+Sciurus_vulgaris	INO80D	ENSSVLG00005002283	INO80 complex	NA
+Sciurus_vulgaris	SAP30	ENSSVLG00005002302	SAP	NA
+Sciurus_vulgaris	SSBP3	ENSSVLG00005002306	Others	NA
+Sciurus_vulgaris	CCDC59	ENSSVLG00005002316	Coiled-coil	NA
+Sciurus_vulgaris	HDGF	ENSSVLG00005002354	Others	NA
+Sciurus_vulgaris	PCGF5	ENSSVLG00005002364	PCGF	NA
+Sciurus_vulgaris	STK3	ENSSVLG00005002365	Others	NA
+Sciurus_vulgaris	ANKRD1	ENSSVLG00005002411	Ankyrin repeat	NA
+Sciurus_vulgaris	RAD21	ENSSVLG00005002416	Others	NA
+Sciurus_vulgaris	NFKBIA	ENSSVLG00005002436	NFKB associated	NA
+Sciurus_vulgaris	MEAF6	ENSSVLG00005002483	Others	NA
+Sciurus_vulgaris	MED30	ENSSVLG00005002500	Mediator complex	NA
+Sciurus_vulgaris	SNIP1	ENSSVLG00005002539	Others	NA
+Sciurus_vulgaris	PEX2	ENSSVLG00005002571	Others	NA
+Sciurus_vulgaris		ENSSVLG00005002622	Others	NA
+Sciurus_vulgaris	CDK2	ENSSVLG00005002635	Cyclin	NA
+Sciurus_vulgaris	CIR1	ENSSVLG00005002678	Other_Co-activator/repressors	NA
+Sciurus_vulgaris	BRCA1	ENSSVLG00005002706	Others	NA
+Sciurus_vulgaris	TAF4	ENSSVLG00005002767	TATA-box	NA
+Sciurus_vulgaris	DACT1	ENSSVLG00005002770	Others	NA
+Sciurus_vulgaris	PINK1	ENSSVLG00005002792	Others	NA
+Sciurus_vulgaris	BAZ1A	ENSSVLG00005002845	Bromodomain	NA
+Sciurus_vulgaris		ENSSVLG00005002847	Others	NA
+Sciurus_vulgaris		ENSSVLG00005002935	Others	NA
+Sciurus_vulgaris	TAF2	ENSSVLG00005002941	TATA-box	NA
+Sciurus_vulgaris	SS18L1	ENSSVLG00005002951	SS18	NA
+Sciurus_vulgaris	AJUBA	ENSSVLG00005002965	Others	NA
+Sciurus_vulgaris	PRMT5	ENSSVLG00005003037	Arginine methyltransferase	NA
+Sciurus_vulgaris		ENSSVLG00005003042	Others	NA
+Sciurus_vulgaris		ENSSVLG00005003043	Others	NA
+Sciurus_vulgaris	WDTC1	ENSSVLG00005003051	WD	NA
+Sciurus_vulgaris		ENSSVLG00005003066	Others	NA
+Sciurus_vulgaris	CEP290	ENSSVLG00005003075	Others	NA
+Sciurus_vulgaris	PRMT6	ENSSVLG00005003149	Arginine methyltransferase	NA
+Sciurus_vulgaris	TDRD3	ENSSVLG00005003165	Others	NA
+Sciurus_vulgaris	FHL3	ENSSVLG00005003179	FHL	NA
+Sciurus_vulgaris	IFI35	ENSSVLG00005003213	Others	NA
+Sciurus_vulgaris	ITCH	ENSSVLG00005003277	Others	NA
+Sciurus_vulgaris	EYA2	ENSSVLG00005003292	EYA	NA
+Sciurus_vulgaris	NOTCH2	ENSSVLG00005003351	Notch	NA
+Sciurus_vulgaris	TAF5	ENSSVLG00005003365	TATA-box	NA
+Sciurus_vulgaris	EPC2	ENSSVLG00005003372	Others	NA
+Sciurus_vulgaris	PCGF6	ENSSVLG00005003419	PCGF	NA
+Sciurus_vulgaris	ARHGAP5	ENSSVLG00005003448	Others	NA
+Sciurus_vulgaris	MED24	ENSSVLG00005003573	Mediator complex	NA
+Sciurus_vulgaris	MRGBP	ENSSVLG00005003577	Others	NA
+Sciurus_vulgaris	WBP2NL	ENSSVLG00005003578	Others	NA
+Sciurus_vulgaris		ENSSVLG00005003586	CHD	NA
+Sciurus_vulgaris	TRIP11	ENSSVLG00005003670	Thyroid hormone receptor	NA
+Sciurus_vulgaris	ZMYND8	ENSSVLG00005003675	Zinc finger	NA
+Sciurus_vulgaris	SRFBP1	ENSSVLG00005003722	Others	NA
+Sciurus_vulgaris	STRN3	ENSSVLG00005003765	Others	NA
+Sciurus_vulgaris		ENSSVLG00005003774	CENP	NA
+Sciurus_vulgaris	BCL9	ENSSVLG00005003796	BCL	NA
+Sciurus_vulgaris	BRDT	ENSSVLG00005003821	Bromodomain	NA
+Sciurus_vulgaris	LOXL2	ENSSVLG00005003840	Others	NA
+Sciurus_vulgaris	TRIM8	ENSSVLG00005003874	Tripartite motif	NA
+Sciurus_vulgaris		ENSSVLG00005003897	Others	NA
+Sciurus_vulgaris	TRIM11	ENSSVLG00005003920	Tripartite motif	NA
+Sciurus_vulgaris	BTG1	ENSSVLG00005003939	Others	NA
+Sciurus_vulgaris	EZH1	ENSSVLG00005003960	Others	NA
+Sciurus_vulgaris	NCOA3	ENSSVLG00005003963	Nuclear receptor coactivator	NA
+Sciurus_vulgaris	POLR3C	ENSSVLG00005004005	POLR	NA
+Sciurus_vulgaris	PARK7	ENSSVLG00005004054	Others	NA
+Sciurus_vulgaris	CCAR2	ENSSVLG00005004079	Others	NA
+Sciurus_vulgaris	RPAP2	ENSSVLG00005004082	Others	NA
+Sciurus_vulgaris	NIF3L1	ENSSVLG00005004091	Others	NA
+Sciurus_vulgaris	LEO1	ENSSVLG00005004110	Others	NA
+Sciurus_vulgaris	ORC2	ENSSVLG00005004127	Others	NA
+Sciurus_vulgaris	TCF20	ENSSVLG00005004152	Others	NA
+Sciurus_vulgaris	CCAR1	ENSSVLG00005004161	Others	NA
+Sciurus_vulgaris	ARGLU1	ENSSVLG00005004186	Others	NA
+Sciurus_vulgaris		ENSSVLG00005004205	Others	NA
+Sciurus_vulgaris	PPRC1	ENSSVLG00005004252	Others	NA
+Sciurus_vulgaris	TP53BP1	ENSSVLG00005004287	Others	NA
+Sciurus_vulgaris	LDB1	ENSSVLG00005004323	LIM	NA
+Sciurus_vulgaris	WNT3A	ENSSVLG00005004327	Others	NA
+Sciurus_vulgaris	ATAD2	ENSSVLG00005004339	Others	NA
+Sciurus_vulgaris	TXNIP	ENSSVLG00005004403	Others	NA
+Sciurus_vulgaris	CAVIN1	ENSSVLG00005004409	Others	NA
+Sciurus_vulgaris	NLRP3	ENSSVLG00005004506	Others	NA
+Sciurus_vulgaris	MAML1	ENSSVLG00005004507	MAML	NA
+Sciurus_vulgaris	PHF1	ENSSVLG00005004509	PHF	NA
+Sciurus_vulgaris		ENSSVLG00005004540	GTF	NA
+Sciurus_vulgaris	DVL3	ENSSVLG00005004544	Others	NA
+Sciurus_vulgaris	DAXX	ENSSVLG00005004592	Other_CRF	NA
+Sciurus_vulgaris	RGCC	ENSSVLG00005004637	Others	NA
+Sciurus_vulgaris	SQSTM1	ENSSVLG00005004679	Others	NA
+Sciurus_vulgaris		ENSSVLG00005004684	Others	NA
+Sciurus_vulgaris	CTNNBIP1	ENSSVLG00005004689	Casein	NA
+Sciurus_vulgaris		ENSSVLG00005004703	SUPT	NA
+Sciurus_vulgaris	ELL3	ENSSVLG00005004750	GTF	NA
+Sciurus_vulgaris	EFCAB6	ENSSVLG00005004762	Others	NA
+Sciurus_vulgaris	RING1	ENSSVLG00005004804	Ring finger protein	NA
+Sciurus_vulgaris	LDB2	ENSSVLG00005004808	LIM	NA
+Sciurus_vulgaris	ZNF451	ENSSVLG00005004848	Zinc finger	NA
+Sciurus_vulgaris	AIP	ENSSVLG00005004870	Others	NA
+Sciurus_vulgaris	YEATS2	ENSSVLG00005004883	Others	NA
+Sciurus_vulgaris		ENSSVLG00005004894	Tripartite motif	NA
+Sciurus_vulgaris	BEND6	ENSSVLG00005004998	Others	NA
+Sciurus_vulgaris	HR	ENSSVLG00005005002	Lysine methyltransferase	NA
+Sciurus_vulgaris	TAF6L	ENSSVLG00005005050	TATA-box	NA
+Sciurus_vulgaris	LMO2	ENSSVLG00005005066	LIM	NA
+Sciurus_vulgaris	CTNND2	ENSSVLG00005005089	Casein	NA
+Sciurus_vulgaris	DAB2	ENSSVLG00005005129	Others	NA
+Sciurus_vulgaris	PEX14	ENSSVLG00005005171	Others	NA
+Sciurus_vulgaris	CNOT6	ENSSVLG00005005179	CCR4-NOT	NA
+Sciurus_vulgaris		ENSSVLG00005005182	Tripartite motif	NA
+Sciurus_vulgaris	BTRC	ENSSVLG00005005205	Others	NA
+Sciurus_vulgaris	TRIM6	ENSSVLG00005005234	Tripartite motif	NA
+Sciurus_vulgaris	VEGFA	ENSSVLG00005005248	Other_CRF	NA
+Sciurus_vulgaris	SIRT1	ENSSVLG00005005299	Sirtuin	NA
+Sciurus_vulgaris	HCLS1	ENSSVLG00005005312	Others	NA
+Sciurus_vulgaris	RIPK3	ENSSVLG00005005342	Others	NA
+Sciurus_vulgaris	NPM2	ENSSVLG00005005355	Nucleoplasmin	NA
+Sciurus_vulgaris	PHF21B	ENSSVLG00005005390	PHF	NA
+Sciurus_vulgaris	RNF8	ENSSVLG00005005392	Ring finger protein	NA
+Sciurus_vulgaris	HIPK3	ENSSVLG00005005422	HIPK	NA
+Sciurus_vulgaris	ELL2	ENSSVLG00005005525	GTF	NA
+Sciurus_vulgaris	SAP30BP	ENSSVLG00005005528	SAP	NA
+Sciurus_vulgaris	PIM1	ENSSVLG00005005547	Others	NA
+Sciurus_vulgaris	RECQL5	ENSSVLG00005005580	Others	NA
+Sciurus_vulgaris	KDM2A	ENSSVLG00005005582	Lysine demethylase	NA
+Sciurus_vulgaris	DCAF6	ENSSVLG00005005682	Others	NA
+Sciurus_vulgaris	MYOCD	ENSSVLG00005005703	Others	NA
+Sciurus_vulgaris	WNT4	ENSSVLG00005005714	Others	NA
+Sciurus_vulgaris		ENSSVLG00005005717	Others	NA
+Sciurus_vulgaris	C6orf89	ENSSVLG00005005762	Other_CRF	NA
+Sciurus_vulgaris	EAF2	ENSSVLG00005005767	Others	NA
+Sciurus_vulgaris	ANKRA2	ENSSVLG00005005781	Ankyrin repeat	NA
+Sciurus_vulgaris	HEXIM2	ENSSVLG00005005809	Others	NA
+Sciurus_vulgaris	HEXIM1	ENSSVLG00005005826	Others	NA
+Sciurus_vulgaris	JMJD1C	ENSSVLG00005005874	Other_CRF	NA
+Sciurus_vulgaris	FBP1	ENSSVLG00005005878	Others	NA
+Sciurus_vulgaris	HIF1AN	ENSSVLG00005005917	Others	NA
+Sciurus_vulgaris	LZTS1	ENSSVLG00005005986	Others	NA
+Sciurus_vulgaris	GTF2H4	ENSSVLG00005005995	GTF	NA
+Sciurus_vulgaris	NCK1	ENSSVLG00005006047	Others	NA
+Sciurus_vulgaris		ENSSVLG00005006117	Nuclear receptor coactivator	NA
+Sciurus_vulgaris	RBBP8	ENSSVLG00005006206	RBBP	NA
+Sciurus_vulgaris	RBBP5	ENSSVLG00005006207	RBBP	NA
+Sciurus_vulgaris	MED9	ENSSVLG00005006210	Mediator complex	NA
+Sciurus_vulgaris	RASD1	ENSSVLG00005006224	Others	NA
+Sciurus_vulgaris	ERBB4	ENSSVLG00005006250	Erbb2	NA
+Sciurus_vulgaris	JADE1	ENSSVLG00005006252	Others	NA
+Sciurus_vulgaris	MAD2L2	ENSSVLG00005006268	Others	NA
+Sciurus_vulgaris	HYAL2	ENSSVLG00005006312	Others	NA
+Sciurus_vulgaris	RAI1	ENSSVLG00005006326	Others	NA
+Sciurus_vulgaris	BRD2	ENSSVLG00005006374	Bromodomain	NA
+Sciurus_vulgaris		ENSSVLG00005006376	Others	NA
+Sciurus_vulgaris	PPIE	ENSSVLG00005006402	Others	NA
+Sciurus_vulgaris	MED10	ENSSVLG00005006416	Mediator complex	NA
+Sciurus_vulgaris	NSD1	ENSSVLG00005006441	Nuclear receptor coactivator	NA
+Sciurus_vulgaris	DPPA2	ENSSVLG00005006488	Others	NA
+Sciurus_vulgaris	ICE1	ENSSVLG00005006497	Others	NA
+Sciurus_vulgaris	KDM1A	ENSSVLG00005006528	Lysine demethylase	NA
+Sciurus_vulgaris		ENSSVLG00005006530	TATA-box	NA
+Sciurus_vulgaris	ILK	ENSSVLG00005006591	Others	NA
+Sciurus_vulgaris	SMARCB1	ENSSVLG00005006606	SWI/SNF	NA
+Sciurus_vulgaris	AIM2	ENSSVLG00005006635	Others	NA
+Sciurus_vulgaris	CREG1	ENSSVLG00005006640	Others	NA
+Sciurus_vulgaris		ENSSVLG00005006692	Cyclin	NA
+Sciurus_vulgaris	MED13	ENSSVLG00005006752	Mediator complex	NA
+Sciurus_vulgaris	AEBP1	ENSSVLG00005006770	Others	NA
+Sciurus_vulgaris	PHIP	ENSSVLG00005006782	Others	NA
+Sciurus_vulgaris	PARP9	ENSSVLG00005006786	PARP	NA
+Sciurus_vulgaris	NIPBL	ENSSVLG00005006788	Others	NA
+Sciurus_vulgaris	RBM14	ENSSVLG00005006883	RNA binding protein	NA
+Sciurus_vulgaris		ENSSVLG00005006894	Others	NA
+Sciurus_vulgaris		ENSSVLG00005006908	Others	NA
+Sciurus_vulgaris	SKOR1	ENSSVLG00005006917	SKI	NA
+Sciurus_vulgaris	PARP14	ENSSVLG00005006958	PARP	NA
+Sciurus_vulgaris	SND1	ENSSVLG00005006972	Others	NA
+Sciurus_vulgaris	ELP4	ENSSVLG00005007005	ELP	NA
+Sciurus_vulgaris	DHX36	ENSSVLG00005007041	RNA helicase	NA
+Sciurus_vulgaris	WDR61	ENSSVLG00005007085	WD	NA
+Sciurus_vulgaris	SMARCD3	ENSSVLG00005007107	SWI/SNF	NA
+Sciurus_vulgaris	BRIP1	ENSSVLG00005007112	Others	NA
+Sciurus_vulgaris	CENPB	ENSSVLG00005007124	CENP	NA
+Sciurus_vulgaris	SLC25A15	ENSSVLG00005007192	SLC	NA
+Sciurus_vulgaris	NAA15	ENSSVLG00005007200	Others	NA
+Sciurus_vulgaris	CDC73	ENSSVLG00005007217	Others	NA
+Sciurus_vulgaris	APBB1	ENSSVLG00005007218	Others	NA
+Sciurus_vulgaris	PAK6	ENSSVLG00005007237	Others	NA
+Sciurus_vulgaris	SETD7	ENSSVLG00005007262	SET	NA
+Sciurus_vulgaris	BEND3	ENSSVLG00005007266	Others	NA
+Sciurus_vulgaris	MAML3	ENSSVLG00005007329	MAML	NA
+Sciurus_vulgaris	BCAS3	ENSSVLG00005007342	Others	NA
+Sciurus_vulgaris	MYO6	ENSSVLG00005007369	Others	NA
+Sciurus_vulgaris		ENSSVLG00005007452	ANP	NA
+Sciurus_vulgaris	BLM	ENSSVLG00005007454	Others	NA
+Sciurus_vulgaris	TOB1	ENSSVLG00005007463	Others	NA
+Sciurus_vulgaris		ENSSVLG00005007496	Others	NA
+Sciurus_vulgaris	FLII	ENSSVLG00005007540	Others	NA
+Sciurus_vulgaris	HABP4	ENSSVLG00005007550	Others	NA
+Sciurus_vulgaris		ENSSVLG00005007595	Actin	NA
+Sciurus_vulgaris	MORF4L1	ENSSVLG00005007603	Other_CRF	NA
+Sciurus_vulgaris	RNF10	ENSSVLG00005007641	Ring finger protein	NA
+Sciurus_vulgaris	BRD1	ENSSVLG00005007645	Bromodomain	NA
+Sciurus_vulgaris	GPS2	ENSSVLG00005007679	Others	NA
+Sciurus_vulgaris	ASF1A	ENSSVLG00005007714	Others	NA
+Sciurus_vulgaris	PSEN1	ENSSVLG00005007728	Others	NA
+Sciurus_vulgaris	MED12L	ENSSVLG00005007792	Mediator complex	NA
+Sciurus_vulgaris	HDAC4	ENSSVLG00005007840	Histone deacetylase	NA
+Sciurus_vulgaris	BRMS1	ENSSVLG00005007853	Other_CRF	NA
+Sciurus_vulgaris	ITGB3BP	ENSSVLG00005007854	Others	NA
+Sciurus_vulgaris	TIMELESS	ENSSVLG00005007872	Others	NA
+Sciurus_vulgaris	MBTD1	ENSSVLG00005007896	Others	NA
+Sciurus_vulgaris	AATF	ENSSVLG00005008003	Others	NA
+Sciurus_vulgaris	SFSWAP	ENSSVLG00005008029	Others	NA
+Sciurus_vulgaris	TADA1	ENSSVLG00005008032	Transcriptional adaptor	NA
+Sciurus_vulgaris	PCBD2	ENSSVLG00005008034	Others	NA
+Sciurus_vulgaris	SAV1	ENSSVLG00005008036	Others	NA
+Sciurus_vulgaris	TRIP13	ENSSVLG00005008053	Thyroid hormone receptor	NA
+Sciurus_vulgaris	CCNH	ENSSVLG00005008091	Cyclin	NA
+Sciurus_vulgaris	SIAH2	ENSSVLG00005008095	Others	NA
+Sciurus_vulgaris	TPR	ENSSVLG00005008133	Others	NA
+Sciurus_vulgaris	CDYL	ENSSVLG00005008158	Chromodomain Y	NA
+Sciurus_vulgaris	TBL1XR1	ENSSVLG00005008184	Transducin	NA
+Sciurus_vulgaris		ENSSVLG00005008277	RNA binding protein	NA
+Sciurus_vulgaris	DPF3	ENSSVLG00005008293	DPF	NA
+Sciurus_vulgaris	EP400	ENSSVLG00005008295	Others	NA
+Sciurus_vulgaris	DCAF1	ENSSVLG00005008311	Others	NA
+Sciurus_vulgaris	SGK1	ENSSVLG00005008322	Others	NA
+Sciurus_vulgaris		ENSSVLG00005008353	Others	NA
+Sciurus_vulgaris	DVL2	ENSSVLG00005008374	Others	NA
+Sciurus_vulgaris	MCIDAS	ENSSVLG00005008380	Others	NA
+Sciurus_vulgaris	HDAC10	ENSSVLG00005008461	Histone deacetylase	NA
+Sciurus_vulgaris	CDK5	ENSSVLG00005008483	Cyclin	NA
+Sciurus_vulgaris	TLE3	ENSSVLG00005008518	Transducin	NA
+Sciurus_vulgaris	PPARGC1B	ENSSVLG00005008537	Others	NA
+Sciurus_vulgaris	TAF5L	ENSSVLG00005008596	TATA-box	NA
+Sciurus_vulgaris	TBPL1	ENSSVLG00005008655	TATA-box	NA
+Sciurus_vulgaris	SMARCA5	ENSSVLG00005008713	SWI/SNF	NA
+Sciurus_vulgaris	NOTCH4	ENSSVLG00005008720	Notch	NA
+Sciurus_vulgaris		ENSSVLG00005008740	GTF	NA
+Sciurus_vulgaris	SUPT20H	ENSSVLG00005008744	SUPT	NA
+Sciurus_vulgaris		ENSSVLG00005008769	Others	NA
+Sciurus_vulgaris	ACTR6	ENSSVLG00005008778	ACTR	NA
+Sciurus_vulgaris	SFMBT2	ENSSVLG00005008799	Others	NA
+Sciurus_vulgaris	DRAP1	ENSSVLG00005008816	Others	NA
+Sciurus_vulgaris	HDAC7	ENSSVLG00005008826	Histone deacetylase	NA
+Sciurus_vulgaris	TAF1D	ENSSVLG00005008868	TATA-box	NA
+Sciurus_vulgaris	ASCC3	ENSSVLG00005008896	ASCC	NA
+Sciurus_vulgaris	VGLL2	ENSSVLG00005008910	Vestigial like	NA
+Sciurus_vulgaris	BRF1	ENSSVLG00005008953	GTF	NA
+Sciurus_vulgaris	WWTR1	ENSSVLG00005008961	WW	NA
+Sciurus_vulgaris	CCDC85B	ENSSVLG00005009008	Coiled-coil	NA
+Sciurus_vulgaris	EYA4	ENSSVLG00005009017	EYA	NA
+Sciurus_vulgaris		ENSSVLG00005009035	Mediator complex	NA
+Sciurus_vulgaris	TRIM25	ENSSVLG00005009042	Tripartite motif	NA
+Sciurus_vulgaris		ENSSVLG00005009065	Others	NA
+Sciurus_vulgaris		ENSSVLG00005009097	Ring finger protein	NA
+Sciurus_vulgaris	RFXAP	ENSSVLG00005009115	Others	NA
+Sciurus_vulgaris	PPID	ENSSVLG00005009170	Others	NA
+Sciurus_vulgaris	MED15	ENSSVLG00005009183	Mediator complex	NA
+Sciurus_vulgaris	CCNA1	ENSSVLG00005009186	Cyclin	NA
+Sciurus_vulgaris	TNP1	ENSSVLG00005009189	Other_CRF	NA
+Sciurus_vulgaris	TAF11	ENSSVLG00005009195	TATA-box	NA
+Sciurus_vulgaris	CCNC	ENSSVLG00005009236	Cyclin	NA
+Sciurus_vulgaris	KDM5B	ENSSVLG00005009254	Lysine demethylase	NA
+Sciurus_vulgaris	ADRB2	ENSSVLG00005009293	Others	NA
+Sciurus_vulgaris	KCNIP3	ENSSVLG00005009319	Others	NA
+Sciurus_vulgaris		ENSSVLG00005009367	TATA-box	NA
+Sciurus_vulgaris	TAF8	ENSSVLG00005009379	TATA-box	NA
+Sciurus_vulgaris	SIRT3	ENSSVLG00005009436	Sirtuin	NA
+Sciurus_vulgaris	CITED4	ENSSVLG00005009499	CITED	NA
+Sciurus_vulgaris	TCEA1	ENSSVLG00005009501	TEF	NA
+Sciurus_vulgaris	KAT5	ENSSVLG00005009513	Lysine acetyltransferase	NA
+Sciurus_vulgaris	FAM83G	ENSSVLG00005009541	FAM	NA
+Sciurus_vulgaris	TAF3	ENSSVLG00005009591	TATA-box	NA
+Sciurus_vulgaris	CDK7	ENSSVLG00005009632	Cyclin	NA
+Sciurus_vulgaris	SCMH1	ENSSVLG00005009674	Others	NA
+Sciurus_vulgaris		ENSSVLG00005009716	Mediator complex	NA
+Sciurus_vulgaris	ARHGEF5	ENSSVLG00005009755	Others	NA
+Sciurus_vulgaris	SSBP2	ENSSVLG00005009766	Others	NA
+Sciurus_vulgaris	NAB2	ENSSVLG00005009807	Others	NA
+Sciurus_vulgaris		ENSSVLG00005009838	Lysine demethylase	NA
+Sciurus_vulgaris	KDM2B	ENSSVLG00005009851	Lysine demethylase	NA
+Sciurus_vulgaris	S100A9	ENSSVLG00005009863	Others	NA
+Sciurus_vulgaris	HIRA	ENSSVLG00005009905	Others	NA
+Sciurus_vulgaris	S100A8	ENSSVLG00005009921	Others	NA
+Sciurus_vulgaris	FRK	ENSSVLG00005009937	Others	NA
+Sciurus_vulgaris	PHF10	ENSSVLG00005009963	PHF	NA
+Sciurus_vulgaris	PRMT8	ENSSVLG00005009987	Arginine methyltransferase	NA
+Sciurus_vulgaris	PIK3R1	ENSSVLG00005010056	Others	NA
+Sciurus_vulgaris	SUDS3	ENSSVLG00005010109	Other_Co-activator/repressors	NA
+Sciurus_vulgaris	TAF15	ENSSVLG00005010110	TATA-box	NA
+Sciurus_vulgaris	KMT2B	ENSSVLG00005010126	Lysine methyltransferase	NA
+Sciurus_vulgaris	HDAC2	ENSSVLG00005010140	Histone deacetylase	NA
+Sciurus_vulgaris	TDG	ENSSVLG00005010197	Others	NA
+Sciurus_vulgaris	SS18	ENSSVLG00005010199	SS18	NA
+Sciurus_vulgaris	SENP1	ENSSVLG00005010219	Others	NA
+Sciurus_vulgaris	CHTOP	ENSSVLG00005010223	Others	NA
+Sciurus_vulgaris	PELP1	ENSSVLG00005010259	Others	NA
+Sciurus_vulgaris	HCFC2	ENSSVLG00005010312	Others	NA
+Sciurus_vulgaris	ARRB2	ENSSVLG00005010313	Others	NA
+Sciurus_vulgaris	ILF2	ENSSVLG00005010340	Others	NA
+Sciurus_vulgaris		ENSSVLG00005010350	Others	NA
+Sciurus_vulgaris	SIVA1	ENSSVLG00005010361	Others	NA
+Sciurus_vulgaris	MED11	ENSSVLG00005010388	Mediator complex	NA
+Sciurus_vulgaris	SPEN	ENSSVLG00005010400	Others	NA
+Sciurus_vulgaris		ENSSVLG00005010403	SSX	NA
+Sciurus_vulgaris	KDM5D	ENSSVLG00005010414	Lysine demethylase	NA
+Sciurus_vulgaris	HTATIP2	ENSSVLG00005010416	Others	NA
+Sciurus_vulgaris	TGS1	ENSSVLG00005010446	Others	NA
+Sciurus_vulgaris	TAF4B	ENSSVLG00005010504	TATA-box	NA
+Sciurus_vulgaris		ENSSVLG00005010558	Coiled-coil	NA
+Sciurus_vulgaris	BRWD3	ENSSVLG00005010574	Bromodomain	NA
+Sciurus_vulgaris	RYBP	ENSSVLG00005010589	Others	NA
+Sciurus_vulgaris	MAK	ENSSVLG00005010599	Others	NA
+Sciurus_vulgaris		ENSSVLG00005010644	Mediator complex	NA
+Sciurus_vulgaris	KCTD1	ENSSVLG00005010735	Others	NA
+Sciurus_vulgaris		ENSSVLG00005010750	Others	NA
+Sciurus_vulgaris	EGLN1	ENSSVLG00005010770	Others	NA
+Sciurus_vulgaris	RBMX	ENSSVLG00005010775	RNA binding protein	NA
+Sciurus_vulgaris	FHL5	ENSSVLG00005010871	FHL	NA
+Sciurus_vulgaris	CRTC2	ENSSVLG00005010882	CREB	NA
+Sciurus_vulgaris	SDR16C5	ENSSVLG00005010895	Others	NA
+Sciurus_vulgaris	UFL1	ENSSVLG00005010923	Others	NA
+Sciurus_vulgaris		ENSSVLG00005010939	TATA-box	NA
+Sciurus_vulgaris	TENM1	ENSSVLG00005010977	Others	NA
+Sciurus_vulgaris	NUDT5	ENSSVLG00005011015	Other_CRF	NA
+Sciurus_vulgaris	HELZ2	ENSSVLG00005011029	Others	NA
+Sciurus_vulgaris	PID1	ENSSVLG00005011030	Others	NA
+Sciurus_vulgaris		ENSSVLG00005011043	Others	NA
+Sciurus_vulgaris	CBX3	ENSSVLG00005011150	Chromobox	NA
+Sciurus_vulgaris	DHX33	ENSSVLG00005011159	RNA helicase	NA
+Sciurus_vulgaris	VGLL1	ENSSVLG00005011161	Vestigial like	NA
+Sciurus_vulgaris	HTATSF1	ENSSVLG00005011206	Others	NA
+Sciurus_vulgaris	PIDD1	ENSSVLG00005011265	Others	NA
+Sciurus_vulgaris		ENSSVLG00005011318	SUPT	NA
+Sciurus_vulgaris	TESC	ENSSVLG00005011403	Others	NA
+Sciurus_vulgaris	MDFI	ENSSVLG00005011488	Others	NA
+Sciurus_vulgaris	EYA3	ENSSVLG00005011513	EYA	NA
+Sciurus_vulgaris	CCNT1	ENSSVLG00005011525	Cyclin	NA
+Sciurus_vulgaris	ARHGAP35	ENSSVLG00005011555	Others	NA
+Sciurus_vulgaris	VGLL3	ENSSVLG00005011630	Vestigial like	NA
+Sciurus_vulgaris		ENSSVLG00005011655	Others	NA
+Sciurus_vulgaris	DPF2	ENSSVLG00005011657	DPF	NA
+Sciurus_vulgaris	CTDSP1	ENSSVLG00005011687	Others	NA
+Sciurus_vulgaris	AURKB	ENSSVLG00005011736	Others	NA
+Sciurus_vulgaris	CASP8AP2	ENSSVLG00005011773	Others	NA
+Sciurus_vulgaris	TAF9B	ENSSVLG00005011826	TATA-box	NA
+Sciurus_vulgaris	FGFR1	ENSSVLG00005011874	FGF	NA
+Sciurus_vulgaris	MED18	ENSSVLG00005011896	Mediator complex	NA
+Sciurus_vulgaris	CTBP1	ENSSVLG00005011900	Others	NA
+Sciurus_vulgaris	XIAP	ENSSVLG00005011965	Others	NA
+Sciurus_vulgaris	SLTM	ENSSVLG00005012027	Others	NA
+Sciurus_vulgaris	MED23	ENSSVLG00005012076	Mediator complex	NA
+Sciurus_vulgaris		ENSSVLG00005012096	Others	NA
+Sciurus_vulgaris		ENSSVLG00005012114	Others	NA
+Sciurus_vulgaris		ENSSVLG00005012127	Others	NA
+Sciurus_vulgaris	MED13L	ENSSVLG00005012133	Mediator complex	NA
+Sciurus_vulgaris	HDAC9	ENSSVLG00005012221	Histone deacetylase	NA
+Sciurus_vulgaris	PER1	ENSSVLG00005012222	Others	NA
+Sciurus_vulgaris	RNF111	ENSSVLG00005012286	Ring finger protein	NA
+Sciurus_vulgaris	CNOT9	ENSSVLG00005012291	CCR4-NOT	NA
+Sciurus_vulgaris	TRIM16	ENSSVLG00005012293	Tripartite motif	NA
+Sciurus_vulgaris	TARBP1	ENSSVLG00005012318	Others	NA
+Sciurus_vulgaris	ERBIN	ENSSVLG00005012390	Erbb2	NA
+Sciurus_vulgaris	CHD7	ENSSVLG00005012393	CHD	NA
+Sciurus_vulgaris	DHX9	ENSSVLG00005012424	RNA helicase	NA
+Sciurus_vulgaris	CTR9	ENSSVLG00005012431	Others	NA
+Sciurus_vulgaris	CTDP1	ENSSVLG00005012457	Others	NA
+Sciurus_vulgaris	KDM7A	ENSSVLG00005012470	Lysine demethylase	NA
+Sciurus_vulgaris	SKIL	ENSSVLG00005012473	SKI	NA
+Sciurus_vulgaris		ENSSVLG00005012489	Others	NA
+Sciurus_vulgaris		ENSSVLG00005012511	ANP	NA
+Sciurus_vulgaris	NUP98	ENSSVLG00005012518	Others	NA
+Sciurus_vulgaris		ENSSVLG00005012641	Tripartite motif	NA
+Sciurus_vulgaris		ENSSVLG00005012645	Others	NA
+Sciurus_vulgaris	NIBAN2	ENSSVLG00005012680	FAM	NA
+Sciurus_vulgaris		ENSSVLG00005012709	Others	NA
+Sciurus_vulgaris	HSBP1L1	ENSSVLG00005012711	Heat shock protein	NA
+Sciurus_vulgaris	ERBB2	ENSSVLG00005012752	Erbb2	NA
+Sciurus_vulgaris	GMNN	ENSSVLG00005012824	Others	NA
+Sciurus_vulgaris	GTF2A2	ENSSVLG00005012828	GTF	NA
+Sciurus_vulgaris	SMARCAD1	ENSSVLG00005012842	SWI/SNF	NA
+Sciurus_vulgaris	RNF25	ENSSVLG00005012906	Ring finger protein	NA
+Sciurus_vulgaris	ACTN1	ENSSVLG00005012941	Actin	NA
+Sciurus_vulgaris	PRPF6	ENSSVLG00005012966	Others	NA
+Sciurus_vulgaris	STK36	ENSSVLG00005012970	Others	NA
+Sciurus_vulgaris	PHF8	ENSSVLG00005013001	PHF	NA
+Sciurus_vulgaris	TRIB1	ENSSVLG00005013017	Others	NA
+Sciurus_vulgaris	TCEA2	ENSSVLG00005013097	TEF	NA
+Sciurus_vulgaris	NSD3	ENSSVLG00005013101	Nuclear receptor coactivator	NA
+Sciurus_vulgaris		ENSSVLG00005013108	Others	NA
+Sciurus_vulgaris	NFKBID	ENSSVLG00005013125	NFKB associated	NA
+Sciurus_vulgaris	JMY	ENSSVLG00005013142	Others	NA
+Sciurus_vulgaris		ENSSVLG00005013242	HIPK	NA
+Sciurus_vulgaris	PCGF3	ENSSVLG00005013252	PCGF	NA
+Sciurus_vulgaris	RNF141	ENSSVLG00005013259	Ring finger protein	NA
+Sciurus_vulgaris		ENSSVLG00005013296	Mediator complex	NA
+Sciurus_vulgaris	ICE2	ENSSVLG00005013300	GTF	NA
+Sciurus_vulgaris	CSRP3	ENSSVLG00005013306	Others	NA
+Sciurus_vulgaris	RUVBL1	ENSSVLG00005013318	Other_CRF	NA
+Sciurus_vulgaris	TCERG1	ENSSVLG00005013340	TEF	NA
+Sciurus_vulgaris	GRIP1	ENSSVLG00005013349	Others	NA
+Sciurus_vulgaris	ATRX	ENSSVLG00005013376	Others	NA
+Sciurus_vulgaris	GSK3B	ENSSVLG00005013429	Others	NA
+Sciurus_vulgaris	SIRT5	ENSSVLG00005013489	Sirtuin	NA
+Sciurus_vulgaris	TASOR	ENSSVLG00005013506	FAM	NA
+Sciurus_vulgaris	KDM3B	ENSSVLG00005013528	Lysine demethylase	NA
+Sciurus_vulgaris	ING3	ENSSVLG00005013543	ING	NA
+Sciurus_vulgaris		ENSSVLG00005013597	Others	NA
+Sciurus_vulgaris	PHF2	ENSSVLG00005013616	PHF	NA
+Sciurus_vulgaris	CHEK2	ENSSVLG00005013622	Others	NA
+Sciurus_vulgaris	MED8	ENSSVLG00005013641	Mediator complex	NA
+Sciurus_vulgaris	CIDEA	ENSSVLG00005013699	Others	NA
+Sciurus_vulgaris	YAP1	ENSSVLG00005013738	Others	NA
+Sciurus_vulgaris	MEN1	ENSSVLG00005013750	Others	NA
+Sciurus_vulgaris	MED31	ENSSVLG00005013779	Mediator complex	NA
+Sciurus_vulgaris	CDK12	ENSSVLG00005013822	Cyclin	NA
+Sciurus_vulgaris	LPXN	ENSSVLG00005013857	Others	NA
+Sciurus_vulgaris	RSF1	ENSSVLG00005013858	Others	NA
+Sciurus_vulgaris	HLTF	ENSSVLG00005013865	Others	NA
+Sciurus_vulgaris	RITA1	ENSSVLG00005013896	Others	NA
+Sciurus_vulgaris	CHD3	ENSSVLG00005013898	CHD	NA
+Sciurus_vulgaris		ENSSVLG00005013906	Ring finger protein	NA
+Sciurus_vulgaris	DDX54	ENSSVLG00005013954	RNA helicase	NA
+Sciurus_vulgaris	BIRC2	ENSSVLG00005013957	Others	NA
+Sciurus_vulgaris	ELP1	ENSSVLG00005013963	ELP	NA
+Sciurus_vulgaris	NELFE	ENSSVLG00005013975	GTF	NA
+Sciurus_vulgaris	CRY1	ENSSVLG00005013998	Others	NA
+Sciurus_vulgaris	ASH2L	ENSSVLG00005014040	Others	NA
+Sciurus_vulgaris	MED1	ENSSVLG00005014057	Mediator complex	NA
+Sciurus_vulgaris	SF1	ENSSVLG00005014124	Others	NA
+Sciurus_vulgaris	DDX17	ENSSVLG00005014127	RNA helicase	NA
+Sciurus_vulgaris	BCL9L	ENSSVLG00005014178	BCL	NA
+Sciurus_vulgaris	MED12	ENSSVLG00005014181	Mediator complex	NA
+Sciurus_vulgaris	FBXW11	ENSSVLG00005014207	Others	NA
+Sciurus_vulgaris	KDM6B	ENSSVLG00005014210	Lysine demethylase	NA
+Sciurus_vulgaris	TRIM37	ENSSVLG00005014311	Tripartite motif	NA
+Sciurus_vulgaris		ENSSVLG00005014312	CCR4-NOT	NA
+Sciurus_vulgaris	FHL2	ENSSVLG00005014354	FHL	NA
+Sciurus_vulgaris	FBXW7	ENSSVLG00005014357	Others	NA
+Sciurus_vulgaris	CDKN1B	ENSSVLG00005014387	Cyclin	NA
+Sciurus_vulgaris	KDM6A	ENSSVLG00005014404	Lysine demethylase	NA
+Sciurus_vulgaris		ENSSVLG00005014424	CCR4-NOT	NA
+Sciurus_vulgaris	CDK9	ENSSVLG00005014433	Cyclin	NA
+Sciurus_vulgaris	PRMT2	ENSSVLG00005014458	Arginine methyltransferase	NA
+Sciurus_vulgaris	CENPF	ENSSVLG00005014494	CENP	NA
+Sciurus_vulgaris	KDM4A	ENSSVLG00005014495	Lysine demethylase	NA
+Sciurus_vulgaris	THRSP	ENSSVLG00005014533	Others	NA
+Sciurus_vulgaris	PPARGC1A	ENSSVLG00005014549	Others	NA
+Sciurus_vulgaris	BRF2	ENSSVLG00005014567	GTF	NA
+Sciurus_vulgaris		ENSSVLG00005014590	Nucleoplasmin	NA
+Sciurus_vulgaris		ENSSVLG00005014591	Tripartite motif	NA
+Sciurus_vulgaris	ENG	ENSSVLG00005014680	Others	NA
+Sciurus_vulgaris	RBM39	ENSSVLG00005014687	RNA binding protein	NA
+Sciurus_vulgaris	NKAP	ENSSVLG00005014692	NFKB associated	NA
+Sciurus_vulgaris		ENSSVLG00005014700	MYC	NA
+Sciurus_vulgaris	FGF1	ENSSVLG00005014706	FGF	NA
+Sciurus_vulgaris	BRD8	ENSSVLG00005014749	Bromodomain	NA
+Sciurus_vulgaris		ENSSVLG00005014781	SMYD	NA
+Sciurus_vulgaris	POU2AF1	ENSSVLG00005014805	Others	NA
+Sciurus_vulgaris	PNRC1	ENSSVLG00005014826	Others	NA
+Sciurus_vulgaris	MED21	ENSSVLG00005014838	Mediator complex	NA
+Sciurus_vulgaris	MCRS1	ENSSVLG00005014844	Others	NA
+Sciurus_vulgaris	SAP30L	ENSSVLG00005014870	SAP	NA
+Sciurus_vulgaris	RNF14	ENSSVLG00005014906	Ring finger protein	NA
+Sciurus_vulgaris	CAMK2D	ENSSVLG00005014926	CAMK	NA
+Sciurus_vulgaris	DTX1	ENSSVLG00005014966	Others	NA
+Sciurus_vulgaris	RAP2C	ENSSVLG00005014981	Others	NA
+Sciurus_vulgaris	LIMD1	ENSSVLG00005015016	LIM	NA
+Sciurus_vulgaris	MYBBP1A	ENSSVLG00005015049	MYB	NA
+Sciurus_vulgaris	CELA1	ENSSVLG00005015060	Others	NA
+Sciurus_vulgaris	BRCA2	ENSSVLG00005015076	Others	NA
+Sciurus_vulgaris	RLIM	ENSSVLG00005015096	Ring finger protein	NA
+Sciurus_vulgaris	CBX6	ENSSVLG00005015114	Chromobox	NA
+Sciurus_vulgaris	MPHOSPH8	ENSSVLG00005015164	Others	NA
+Sciurus_vulgaris	PSPC1	ENSSVLG00005015195	Others	NA
+Sciurus_vulgaris	TSG101	ENSSVLG00005015216	Others	NA
+Sciurus_vulgaris	CTNND1	ENSSVLG00005015221	Casein	NA
+Sciurus_vulgaris	PHF20	ENSSVLG00005015235	PHF	NA
+Sciurus_vulgaris	HDAC11	ENSSVLG00005015239	Histone deacetylase	NA
+Sciurus_vulgaris	CDYL2	ENSSVLG00005015278	Chromodomain Y	NA
+Sciurus_vulgaris	ZNF703	ENSSVLG00005015279	Zinc finger	NA
+Sciurus_vulgaris	KDM5C	ENSSVLG00005015304	Lysine demethylase	NA
+Sciurus_vulgaris	PML	ENSSVLG00005015325	Others	NA
+Sciurus_vulgaris	PHF19	ENSSVLG00005015353	PHF	NA
+Sciurus_vulgaris	ZMYM2	ENSSVLG00005015358	Zinc finger	NA
+Sciurus_vulgaris		ENSSVLG00005015364	Others	NA
+Sciurus_vulgaris	CCNA2	ENSSVLG00005015372	Cyclin	NA
+Sciurus_vulgaris	SCAND1	ENSSVLG00005015414	Others	NA
+Sciurus_vulgaris	PBXIP1	ENSSVLG00005015475	Others	NA
+Sciurus_vulgaris	WWOX	ENSSVLG00005015526	WW	NA
+Sciurus_vulgaris	ACTR8	ENSSVLG00005015551	ACTR	NA
+Sciurus_vulgaris	PYGO2	ENSSVLG00005015559	Others	NA
+Sciurus_vulgaris		ENSSVLG00005015564	Others	NA
+Sciurus_vulgaris	SMYD1	ENSSVLG00005015584	SMYD	NA
+Sciurus_vulgaris	ATF7IP	ENSSVLG00005015588	Others	NA
+Sciurus_vulgaris	H1-6	ENSSVLG00005015594	Histone cluster 1 H1	NA
+Sciurus_vulgaris	H1-4	ENSSVLG00005015645	Histone cluster 1 H1	NA
+Sciurus_vulgaris	COPRS	ENSSVLG00005015650	Others	NA
+Sciurus_vulgaris	HEATR1	ENSSVLG00005015652	Others	NA
+Sciurus_vulgaris	CBX7	ENSSVLG00005015711	Chromobox	NA
+Sciurus_vulgaris	TSPYL2	ENSSVLG00005015733	Others	NA
+Sciurus_vulgaris	RBM15	ENSSVLG00005015755	RNA binding protein	NA
+Sciurus_vulgaris		ENSSVLG00005015761	Others	NA
+Sciurus_vulgaris	ACTN2	ENSSVLG00005015780	Actin	NA
+Sciurus_vulgaris	SUZ12	ENSSVLG00005015781	Others	NA
+Sciurus_vulgaris	EHMT2	ENSSVLG00005015794	Histone lysine methyltransferase	NA
+Sciurus_vulgaris	DEPDC1	ENSSVLG00005015797	Others	NA
+Sciurus_vulgaris	ANXA4	ENSSVLG00005015817	Others	NA
+Sciurus_vulgaris	PCGF2	ENSSVLG00005015826	PCGF	NA
+Sciurus_vulgaris	SYK	ENSSVLG00005015852	Others	NA
+Sciurus_vulgaris		ENSSVLG00005015944	CAMK	NA
+Sciurus_vulgaris	MLLT6	ENSSVLG00005015954	Others	NA
+Sciurus_vulgaris		ENSSVLG00005015971	Others	NA
+Sciurus_vulgaris	WAC	ENSSVLG00005015976	WW	NA
+Sciurus_vulgaris	MAGED1	ENSSVLG00005015981	MAGE	NA
+Sciurus_vulgaris		ENSSVLG00005016008	Histone deacetylase	NA
+Sciurus_vulgaris	PHF21A	ENSSVLG00005016012	PHF	NA
+Sciurus_vulgaris	PRAME	ENSSVLG00005016081	Others	NA
+Sciurus_vulgaris	GTF2H1	ENSSVLG00005016086	GTF	NA
+Sciurus_vulgaris	CRTC1	ENSSVLG00005016088	CREB	NA
+Sciurus_vulgaris		ENSSVLG00005016098	Zinc finger	NA
+Sciurus_vulgaris	TAB1	ENSSVLG00005016109	Others	NA
+Sciurus_vulgaris	TNNI2	ENSSVLG00005016119	Others	NA
+Sciurus_vulgaris	SAP18	ENSSVLG00005016126	SAP	NA
+Sciurus_vulgaris	MED19	ENSSVLG00005016139	Mediator complex	NA
+Sciurus_vulgaris	CBL	ENSSVLG00005016142	Others	NA
+Sciurus_vulgaris	KDM1B	ENSSVLG00005016203	Lysine demethylase	NA
+Sciurus_vulgaris		ENSSVLG00005016288	Other_CRF	NA
+Sciurus_vulgaris	LPIN1	ENSSVLG00005016318	LPIN	NA
+Sciurus_vulgaris	KDM3A	ENSSVLG00005016348	Lysine demethylase	NA
+Sciurus_vulgaris	CAMK4	ENSSVLG00005016357	CAMK	NA
+Sciurus_vulgaris	CITED1	ENSSVLG00005016381	CITED	NA
+Sciurus_vulgaris	TNKS	ENSSVLG00005016386	Others	NA
+Sciurus_vulgaris	HDAC3	ENSSVLG00005016412	Histone deacetylase	NA
+Sciurus_vulgaris		ENSSVLG00005016423	Others	NA
+Sciurus_vulgaris	ABT1	ENSSVLG00005016454	Others	NA
+Sciurus_vulgaris	NRIP1	ENSSVLG00005016484	Nuclear receptor coactivator	NA
+Sciurus_vulgaris	ECD	ENSSVLG00005016526	Others	NA
+Sciurus_vulgaris	DUSP26	ENSSVLG00005016592	Others	NA
+Sciurus_vulgaris		ENSSVLG00005016624	Lysine methyltransferase	NA
+Sciurus_vulgaris	RBFOX2	ENSSVLG00005016647	Others	NA
+Sciurus_vulgaris	TOPORS	ENSSVLG00005016651	Others	NA
+Sciurus_vulgaris	EZR	ENSSVLG00005016672	Others	NA
+Sciurus_vulgaris	PLRG1	ENSSVLG00005016673	Others	NA
+Sciurus_vulgaris	ANKRD2	ENSSVLG00005016694	Ankyrin repeat	NA
+Sciurus_vulgaris	TNIP2	ENSSVLG00005016767	Others	NA
+Sciurus_vulgaris	TRIM24	ENSSVLG00005016792	Tripartite motif	NA
+Sciurus_vulgaris	LRIF1	ENSSVLG00005016841	Others	NA
+Sciurus_vulgaris		ENSSVLG00005016858	Heat shock protein	NA
+Sciurus_vulgaris	UTP4	ENSSVLG00005016881	Others	NA
+Sciurus_vulgaris	UTF1	ENSSVLG00005016922	Others	NA
+Sciurus_vulgaris	TRIM29	ENSSVLG00005016988	Tripartite motif	NA
+Sciurus_vulgaris	SMARCD1	ENSSVLG00005017007	SWI/SNF	NA
+Sciurus_vulgaris	PRDX5	ENSSVLG00005017011	Others	NA
+Sciurus_vulgaris	CNOT11	ENSSVLG00005017020	CCR4-NOT	NA
+Sciurus_vulgaris	NRG1	ENSSVLG00005017132	Others	NA
+Sciurus_vulgaris	CTH	ENSSVLG00005017161	Others	NA
+Sciurus_vulgaris	DMAP1	ENSSVLG00005017178	DNA_methylase	NA
+Sciurus_vulgaris	ZMYND11	ENSSVLG00005017189	Zinc finger	NA
+Sciurus_vulgaris	RNF4	ENSSVLG00005017190	Ring finger protein	NA
+Sciurus_vulgaris	MMS19	ENSSVLG00005017214	Others	NA
+Sciurus_vulgaris	TRIP6	ENSSVLG00005017267	Thyroid hormone receptor	NA
+Sciurus_vulgaris	IKBKG	ENSSVLG00005017293	Others	NA
+Sciurus_vulgaris	THOC5	ENSSVLG00005017316	Others	NA
+Sciurus_vulgaris	WWC1	ENSSVLG00005017323	WW	NA
+Sciurus_vulgaris	GRHPR	ENSSVLG00005017339	Others	NA
+Sciurus_vulgaris	SIRT7	ENSSVLG00005017343	Sirtuin	NA
+Sciurus_vulgaris	DSCAM	ENSSVLG00005017352	Others	NA
+Sciurus_vulgaris	TXLNG	ENSSVLG00005017355	Others	NA
+Sciurus_vulgaris	POLR2A	ENSSVLG00005017374	POLR	NA
+Sciurus_vulgaris		ENSSVLG00005017397	GTF	NA
+Sciurus_vulgaris	CNOT2	ENSSVLG00005017415	CCR4-NOT	NA
+Sciurus_vulgaris	SNAPC2	ENSSVLG00005017416	Others	NA
+Sciurus_vulgaris	CNOT10	ENSSVLG00005017438	CCR4-NOT	NA
+Sciurus_vulgaris	MED27	ENSSVLG00005017453	Mediator complex	NA
+Sciurus_vulgaris	TENM2	ENSSVLG00005017474	Others	NA
+Sciurus_vulgaris	NRIP3	ENSSVLG00005017529	Nuclear coactivator	NA
+Sciurus_vulgaris	CDK5R1	ENSSVLG00005017534	Cyclin	NA
+Sciurus_vulgaris	KAT8	ENSSVLG00005017541	Lysine acetyltransferase	NA
+Sciurus_vulgaris	SUV39H2	ENSSVLG00005017592	Others	NA
+Sciurus_vulgaris	PIN1	ENSSVLG00005017665	Others	NA
+Sciurus_vulgaris	TERF2IP	ENSSVLG00005017752	Others	NA
+Sciurus_vulgaris	TNIP1	ENSSVLG00005017789	Others	NA
+Sciurus_vulgaris		ENSSVLG00005017849	Others	NA
+Sciurus_vulgaris	SFMBT1	ENSSVLG00005017860	Others	NA
+Sciurus_vulgaris	WDR77	ENSSVLG00005017918	WD	NA
+Sciurus_vulgaris	CALR	ENSSVLG00005017951	Others	NA
+Sciurus_vulgaris	INO80C	ENSSVLG00005017997	INO80 complex	NA
+Sciurus_vulgaris	CBX4	ENSSVLG00005018023	Chromobox	NA
+Sciurus_vulgaris	EGLN2	ENSSVLG00005018049	Others	NA
+Sciurus_vulgaris	CBX8	ENSSVLG00005018069	Chromobox	NA
+Sciurus_vulgaris		ENSSVLG00005018099	GTF	NA
+Sciurus_vulgaris	IKBKB	ENSSVLG00005018109	Others	NA
+Sciurus_vulgaris	CBX2	ENSSVLG00005018114	Chromobox	NA
+Sciurus_vulgaris	NDUFA13	ENSSVLG00005018132	Others	NA
+Sciurus_vulgaris	STRAP	ENSSVLG00005018134	Others	NA
+Sciurus_vulgaris	OGT	ENSSVLG00005018140	Others	NA
+Sciurus_vulgaris	ZNF638	ENSSVLG00005018146	Zinc finger	NA
+Sciurus_vulgaris	NELFA	ENSSVLG00005018189	GTF	NA
+Sciurus_vulgaris		ENSSVLG00005018204	Others	NA
+Sciurus_vulgaris	TAF1A	ENSSVLG00005018206	TATA-box	NA
+Sciurus_vulgaris	MED14	ENSSVLG00005018208	Mediator complex	NA
+Sciurus_vulgaris	RPRD1A	ENSSVLG00005018220	Others	NA
+Sciurus_vulgaris	BTK	ENSSVLG00005018223	Others	NA
+Sciurus_vulgaris	ASCC2	ENSSVLG00005018252	ASCC	NA
+Sciurus_vulgaris	CNOT1	ENSSVLG00005018264	CCR4-NOT	NA
+Sciurus_vulgaris	ALYREF	ENSSVLG00005018278	Others	NA
+Sciurus_vulgaris	TAF7	ENSSVLG00005018281	TATA-box	NA
+Sciurus_vulgaris	DPF1	ENSSVLG00005018311	DPF	NA
+Sciurus_vulgaris	FUS	ENSSVLG00005018330	Others	NA
+Sciurus_vulgaris	DDX20	ENSSVLG00005018335	RNA helicase	NA
+Sciurus_vulgaris		ENSSVLG00005018337	Mediator complex	NA
+Sciurus_vulgaris	ING4	ENSSVLG00005018357	ING	NA
+Sciurus_vulgaris	EGFR	ENSSVLG00005018390	Others	NA
+Sciurus_vulgaris	SETD6	ENSSVLG00005018395	SET	NA
+Sciurus_vulgaris	ELP2	ENSSVLG00005018404	ELP	NA
+Sciurus_vulgaris	PYCARD	ENSSVLG00005018421	Others	NA
+Sciurus_vulgaris	NFATC2IP	ENSSVLG00005018442	Nuclear coactivator	NA
+Sciurus_vulgaris	CDK5RAP3	ENSSVLG00005018459	Cyclin	NA
+Sciurus_vulgaris		ENSSVLG00005018484	Others	NA
+Sciurus_vulgaris		ENSSVLG00005018492	TATA-box	NA
+Sciurus_vulgaris	HCFC1	ENSSVLG00005018524	Others	NA
+Sciurus_vulgaris	RBL1	ENSSVLG00005018528	Other_Co-activator/repressors	NA
+Sciurus_vulgaris	FLNA	ENSSVLG00005018546	Others	NA
+Sciurus_vulgaris	PLK3	ENSSVLG00005018554	Others	NA
+Sciurus_vulgaris	CREBBP	ENSSVLG00005018624	CREB	NA
+Sciurus_vulgaris	PIR	ENSSVLG00005018626	Others	NA
+Sciurus_vulgaris		ENSSVLG00005018692	ASCC	NA
+Sciurus_vulgaris	LANCL2	ENSSVLG00005018702	Others	NA
+Sciurus_vulgaris	BCOR	ENSSVLG00005018727	Other_Co-activator/repressors	NA
+Sciurus_vulgaris	MTPN	ENSSVLG00005018736	Others	NA
+Sciurus_vulgaris	CITED2	ENSSVLG00005018816	CITED	NA
+Sciurus_vulgaris	FHIT	ENSSVLG00005018873	Others	NA
+Sciurus_vulgaris	PRMT7	ENSSVLG00005018893	Arginine methyltransferase	NA
+Sciurus_vulgaris	TAF7L	ENSSVLG00005018964	TATA-box	NA
+Sciurus_vulgaris	MRTFA	ENSSVLG00005018986	Others	NA
+Sciurus_vulgaris		ENSSVLG00005019102	SS18	NA
+Sciurus_vulgaris	KAT6A	ENSSVLG00005019144	Lysine acetyltransferase	NA
+Sciurus_vulgaris	TRIM28	ENSSVLG00005019173	Tripartite motif	NA
+Sciurus_vulgaris	SKOR2	ENSSVLG00005019180	SKI	NA
+Sciurus_vulgaris	RNF6	ENSSVLG00005019198	Ring finger protein	NA
+Sciurus_vulgaris	RHOA	ENSSVLG00005019199	Others	NA
+Sciurus_vulgaris	TRAF6	ENSSVLG00005019219	Others	NA
+Sciurus_vulgaris	TAB3	ENSSVLG00005019220	Others	NA
+Sciurus_vulgaris		ENSSVLG00005019222	Casein	NA
+Sciurus_vulgaris	SKAP1	ENSSVLG00005019232	Others	NA
+Sciurus_vulgaris	CDK8	ENSSVLG00005019288	Cyclin	NA
+Sciurus_vulgaris	LMO1	ENSSVLG00005019355	LIM	NA
+Sciurus_vulgaris	DNAJA3	ENSSVLG00005019430	Others	NA
+Sciurus_vulgaris	BCL3	ENSSVLG00005019448	BCL	NA
+Sciurus_vulgaris	NFKBIZ	ENSSVLG00005019514	NFKB associated	NA
+Sciurus_vulgaris	SRC	ENSSVLG00005019550	Others	NA
+Sciurus_vulgaris	GNL3	ENSSVLG00005019572	Others	NA
+Sciurus_vulgaris	NONO	ENSSVLG00005019645	Others	NA
+Sciurus_vulgaris	CHD1	ENSSVLG00005019683	CHD	NA
+Sciurus_vulgaris		ENSSVLG00005019695	TATA-box	NA
+Sciurus_vulgaris	BAHCC1	ENSSVLG00005019700	Others	NA
+Sciurus_vulgaris	CHRAC1	ENSSVLG00005019735	Other_CRF	NA
+Sciurus_vulgaris	PIH1D1	ENSSVLG00005019780	Other_CRF	NA
+Sciurus_vulgaris	AGO2	ENSSVLG00005019843	Others	NA
+Sciurus_vulgaris	SIN3A	ENSSVLG00005019887	Other_CRF	NA
+Sciurus_vulgaris	DNMT1	ENSSVLG00005019922	DNA_methylase	NA
+Sciurus_vulgaris	RAF1	ENSSVLG00005019978	Others	NA
+Sciurus_vulgaris		ENSSVLG00005020019	Others	NA
+Sciurus_vulgaris	RPRD1B	ENSSVLG00005020044	Others	NA
+Sciurus_vulgaris		ENSSVLG00005020047	Heat shock protein	NA
+Sciurus_vulgaris	RBPMS	ENSSVLG00005020116	RNA binding protein	NA
+Sciurus_vulgaris	SLC19A1	ENSSVLG00005020132	SLC	NA
+Sciurus_vulgaris	PICALM	ENSSVLG00005020135	Others	NA
+Sciurus_vulgaris	TRAK1	ENSSVLG00005020155	Others	NA
+Sciurus_vulgaris	RBX1	ENSSVLG00005020266	Others	NA
+Sciurus_vulgaris	TIRAP	ENSSVLG00005020272	Others	NA
+Sciurus_vulgaris	CCNE1	ENSSVLG00005020303	Cyclin	NA
+Sciurus_vulgaris	ATN1	ENSSVLG00005020350	Others	NA
+Sciurus_vulgaris	TCERG1L	ENSSVLG00005020392	TEF	NA
+Sciurus_vulgaris	EP300	ENSSVLG00005020397	Others	NA
+Sciurus_vulgaris	URI1	ENSSVLG00005020418	Others	NA
+Sciurus_vulgaris	EED	ENSSVLG00005020425	Others	NA
+Sciurus_vulgaris	SETD2	ENSSVLG00005020438	SET	NA
+Sciurus_vulgaris	KDM4B	ENSSVLG00005020468	Lysine demethylase	NA
+Sciurus_vulgaris	BIRC5	ENSSVLG00005020489	Others	NA
+Sciurus_vulgaris	CHAF1B	ENSSVLG00005020497	Others	NA
+Sciurus_vulgaris	RIPPLY1	ENSSVLG00005020501	Others	NA
+Sciurus_vulgaris	TGFB1I1	ENSSVLG00005020509	Others	NA
+Sciurus_vulgaris	NCOA7	ENSSVLG00005020521	Nuclear receptor coactivator	NA
+Sciurus_vulgaris	L3MBTL2	ENSSVLG00005020580	Others	NA
+Sciurus_vulgaris	PCBD1	ENSSVLG00005020600	Others	NA
+Sciurus_vulgaris	SAP130	ENSSVLG00005020615	SAP	NA
+Sciurus_vulgaris		ENSSVLG00005020660	Others	NA
+Sciurus_vulgaris	ACTR5	ENSSVLG00005020670	ACTR	NA
+Sciurus_vulgaris	DOT1L	ENSSVLG00005020753	Others	NA
+Sciurus_vulgaris	PQBP1	ENSSVLG00005020775	Others	NA
+Sciurus_vulgaris	SAFB2	ENSSVLG00005020804	Others	NA
+Sciurus_vulgaris	SAFB	ENSSVLG00005020852	Others	NA
+Sciurus_vulgaris	LIN54	ENSSVLG00005020883	Others	NA
+Sciurus_vulgaris	TOB2	ENSSVLG00005020946	Others	NA
+Sciurus_vulgaris	HDAC6	ENSSVLG00005020953	Histone deacetylase	NA
+Sciurus_vulgaris	CTNNB1	ENSSVLG00005020963	Casein	NA
+Sciurus_vulgaris	PHF5A	ENSSVLG00005020965	PHF	NA
+Sciurus_vulgaris		ENSSVLG00005020978	MBD	NA
+Sciurus_vulgaris	AXIN1	ENSSVLG00005021018	Others	NA
+Sciurus_vulgaris		ENSSVLG00005021084	Others	NA
+Sciurus_vulgaris		ENSSVLG00005021135	Other_CRF	NA
+Sciurus_vulgaris	PSIP1	ENSSVLG00005021148	Others	NA
+Sciurus_vulgaris	HDAC1	ENSSVLG00005021166	Histone deacetylase	NA
+Sciurus_vulgaris	MBD3L1	ENSSVLG00005021184	MBD	NA
+Sciurus_vulgaris	SUV39H1	ENSSVLG00005021209	Others	NA
+Sciurus_vulgaris	C1D	ENSSVLG00005021246	Other_Co-activator/repressors	NA
+Sciurus_vulgaris	XRCC6	ENSSVLG00005021287	Others	NA
+Sciurus_vulgaris	TRRAP	ENSSVLG00005021317	Others	NA
+Sciurus_vulgaris	LPIN3	ENSSVLG00005021362	LPIN	NA
+Sciurus_vulgaris	SERTAD2	ENSSVLG00005021387	Others	NA
+Sciurus_vulgaris	CECR2	ENSSVLG00005021410	Other_CRF	NA
+Sciurus_vulgaris	SMURF1	ENSSVLG00005021442	Others	NA
+Sciurus_vulgaris	PRMT1	ENSSVLG00005021460	Arginine methyltransferase	NA
+Sciurus_vulgaris	CHCHD3	ENSSVLG00005021522	Coiled-coil	NA
+Sciurus_vulgaris	LPIN2	ENSSVLG00005021537	LPIN	NA
+Sciurus_vulgaris	NPAT	ENSSVLG00005021558	Nuclear coactivator	NA
+Sciurus_vulgaris	PELI1	ENSSVLG00005021561	Others	NA
+Sciurus_vulgaris	VGLL4	ENSSVLG00005021566	Vestigial like	NA
+Sciurus_vulgaris	CHD6	ENSSVLG00005021606	CHD	NA
+Sciurus_vulgaris		ENSSVLG00005021635	Others	NA
+Sciurus_vulgaris	HIPK1	ENSSVLG00005021676	HIPK	NA
+Sciurus_vulgaris	ERCC2	ENSSVLG00005021679	Others	NA
+Sciurus_vulgaris	RUVBL2	ENSSVLG00005021726	Other_CRF	NA
+Sciurus_vulgaris	TRIP4	ENSSVLG00005021760	Thyroid hormone receptor	NA
+Sciurus_vulgaris	SUPT6H	ENSSVLG00005021785	SUPT	NA
+Sciurus_vulgaris	IRF2BPL	ENSSVLG00005021825	Others	NA
+Sciurus_vulgaris		ENSSVLG00005021867	Others	NA
+Sciurus_vulgaris		ENSSVLG00005021872	Zinc finger	NA
+Sciurus_vulgaris	MED25	ENSSVLG00005021880	Mediator complex	NA
+Sciurus_vulgaris	CBFA2T3	ENSSVLG00005021892	Others	NA
+Sciurus_vulgaris	RBBP4	ENSSVLG00005021948	RBBP	NA
+Sciurus_vulgaris	CXXC1	ENSSVLG00005021998	Others	NA
+Sciurus_vulgaris	TRIM33	ENSSVLG00005021999	Tripartite motif	NA
+Sciurus_vulgaris	GTF2A1L	ENSSVLG00005022039	GTF	NA
+Sciurus_vulgaris	BUD31	ENSSVLG00005022102	Others	NA
+Sciurus_vulgaris	CARM1	ENSSVLG00005022155	Others	NA
+Sciurus_vulgaris	SRA1	ENSSVLG00005022207	Others	NA
+Sciurus_vulgaris	EAF1	ENSSVLG00005022245	Others	NA
+Sciurus_vulgaris	MORF4L2	ENSSVLG00005022248	Other_CRF	NA
+Sciurus_vulgaris		ENSSVLG00005022253	Others	NA
+Sciurus_vulgaris	TCEAL1	ENSSVLG00005022259	TEF	NA
+Sciurus_vulgaris		ENSSVLG00005022264	TEF	NA
+Sciurus_vulgaris		ENSSVLG00005022274	TEF	NA
+Sciurus_vulgaris	EHMT1	ENSSVLG00005022321	Histone lysine methyltransferase	NA
+Sciurus_vulgaris	HNRNPD	ENSSVLG00005022330	HNRNP	NA
+Sciurus_vulgaris		ENSSVLG00005022378	Others	NA
+Sciurus_vulgaris	SRSF2	ENSSVLG00005022400	Others	NA
+Sciurus_vulgaris	SCAI	ENSSVLG00005022411	Others	NA
+Sciurus_vulgaris	SFRP4	ENSSVLG00005022432	Others	NA
+Sciurus_vulgaris	RNF20	ENSSVLG00005022444	Ring finger protein	NA
+Sciurus_vulgaris	SUMO3	ENSSVLG00005022452	Others	NA
+Sciurus_vulgaris	BAZ1B	ENSSVLG00005022468	Bromodomain	NA
+Sciurus_vulgaris	JMJD6	ENSSVLG00005022517	Others	NA
+Sciurus_vulgaris	MSL3	ENSSVLG00005022550	Others	NA
+Sciurus_vulgaris	ERCC3	ENSSVLG00005022582	Others	NA
+Sciurus_vulgaris		ENSSVLG00005022596	Mediator complex	NA
+Sciurus_vulgaris	TLE2	ENSSVLG00005022632	Transducin	NA
+Sciurus_vulgaris		ENSSVLG00005022684	Others	NA
+Sciurus_vulgaris		ENSSVLG00005022732	GTF	NA
+Sciurus_vulgaris	WDR5	ENSSVLG00005022752	WD	NA
+Sciurus_vulgaris	ARL2BP	ENSSVLG00005022772	Others	NA
+Sciurus_vulgaris	BRD3	ENSSVLG00005022783	Bromodomain	NA
+Sciurus_vulgaris		ENSSVLG00005022859	Others	NA
+Sciurus_vulgaris	FGF3	ENSSVLG00005022895	FGF	NA
+Sciurus_vulgaris	LRRK2	ENSSVLG00005023045	Other_CRF	NA
+Sciurus_vulgaris	KDM5A	ENSSVLG00005023072	Lysine demethylase	NA
+Sciurus_vulgaris	CCND1	ENSSVLG00005023090	Cyclin	NA
+Sciurus_vulgaris	EMSY	ENSSVLG00005023093	Others	NA
+Sciurus_vulgaris	SIN3B	ENSSVLG00005023096	Others	NA
+Sciurus_vulgaris	MLLT1	ENSSVLG00005023111	GTF	NA
+Sciurus_vulgaris	TGFB1	ENSSVLG00005023197	Others	NA
+Sciurus_vulgaris		ENSSVLG00005023222	MAGE	NA
+Sciurus_vulgaris	HNRNPU	ENSSVLG00005023262	HNRNP	NA
+Sciurus_vulgaris	INO80E	ENSSVLG00005023270	INO80 complex	NA
+Sciurus_vulgaris	WTIP	ENSSVLG00005023294	Others	NA
+Sciurus_vulgaris	GTF2F1	ENSSVLG00005023301	GTF	NA
+Sciurus_vulgaris		ENSSVLG00005023391	MAGE	NA
+Sciurus_vulgaris	CNOT3	ENSSVLG00005023460	CCR4-NOT	NA
+Sciurus_vulgaris	KMT2E	ENSSVLG00005023465	Lysine methyltransferase	NA
+Sciurus_vulgaris	KMT5C	ENSSVLG00005023510	Lysine methyltransferase	NA
+Sciurus_vulgaris		ENSSVLG00005023601	Transducin	NA
+Sciurus_vulgaris	REXO4	ENSSVLG00005023657	Others	NA
+Sciurus_vulgaris	PFDN5	ENSSVLG00005023667	Others	NA
+Sciurus_vulgaris	EPC1	ENSSVLG00005023747	Others	NA
+Sciurus_vulgaris	DCC	ENSSVLG00005023748	Others	NA
+Sciurus_vulgaris	TAF6	ENSSVLG00005023767	TATA-box	NA
+Sciurus_vulgaris	KANK1	ENSSVLG00005023807	Others	NA
+Sciurus_vulgaris	YAF2	ENSSVLG00005023809	Others	NA
+Sciurus_vulgaris	SMYD3	ENSSVLG00005023822	SMYD	NA
+Sciurus_vulgaris	TFB2M	ENSSVLG00005023868	Others	NA
+Sciurus_vulgaris		ENSSVLG00005023905	SET	NA
+Sciurus_vulgaris	MED22	ENSSVLG00005023932	Mediator complex	NA
+Sciurus_vulgaris	PPHLN1	ENSSVLG00005023941	Others	NA
+Sciurus_vulgaris	KAT2B	ENSSVLG00005023944	Lysine acetyltransferase	NA
+Sciurus_vulgaris	SMARCA2	ENSSVLG00005024009	SWI/SNF	NA
+Sciurus_vulgaris	WWP2	ENSSVLG00005024025	WW	NA
+Sciurus_vulgaris	PAGR1	ENSSVLG00005024039	Others	NA
+Sciurus_vulgaris		ENSSVLG00005024111	Others	NA
+Sciurus_vulgaris		ENSSVLG00005024208	CCR4-NOT	NA
+Sciurus_vulgaris	LRPPRC	ENSSVLG00005024277	Others	NA
+Sciurus_vulgaris	MAPK15	ENSSVLG00005024296	Others	NA
+Sciurus_vulgaris	PAWR	ENSSVLG00005024360	Others	NA
+Sciurus_vulgaris	SPAG8	ENSSVLG00005024363	Others	NA
+Sciurus_vulgaris	ATF7IP2	ENSSVLG00005024416	Others	NA
+Sciurus_vulgaris	WBP2	ENSSVLG00005024432	WW	NA
+Sciurus_vulgaris	SLC26A3	ENSSVLG00005024493	SLC	NA
+Sciurus_vulgaris	TRADD	ENSSVLG00005024499	Others	NA
+Sciurus_vulgaris	CD3D	ENSSVLG00005024525	Others	NA
+Sciurus_vulgaris	DAPK3	ENSSVLG00005024571	Others	NA
+Sciurus_vulgaris	AUTS2	ENSSVLG00005024586	Others	NA
+Sciurus_vulgaris	BANP	ENSSVLG00005024587	Others	NA
+Sciurus_vulgaris	PUF60	ENSSVLG00005024610	Others	NA
+Sciurus_vulgaris	DPY30	ENSSVLG00005024637	Others	NA
+Sciurus_vulgaris		ENSSVLG00005024656	INO80 complex	NA
+Sciurus_vulgaris	CIITA	ENSSVLG00005024661	Others	NA
+Sciurus_vulgaris	ACTB	ENSSVLG00005024720	Actin	NA
+Sciurus_vulgaris	SNAPC5	ENSSVLG00005024729	Others	NA
+Sciurus_vulgaris		ENSSVLG00005024766	Lysine methyltransferase	NA
+Sciurus_vulgaris	JAK2	ENSSVLG00005024808	Others	NA
+Sciurus_vulgaris	SIRT6	ENSSVLG00005024827	Sirtuin	NA
+Sciurus_vulgaris	CALCOCO1	ENSSVLG00005024843	Others	NA
+Sciurus_vulgaris	MED16	ENSSVLG00005024846	Mediator complex	NA
+Sciurus_vulgaris	PDLIM1	ENSSVLG00005024887	Others	NA
+Sciurus_vulgaris	PCGF1	ENSSVLG00005024907	PCGF	NA
+Sciurus_vulgaris	TADA3	ENSSVLG00005024948	Transcriptional adaptor	NA
+Sciurus_vulgaris	HNRNPK	ENSSVLG00005024963	HNRNP	NA
+Sciurus_vulgaris	SIRT2	ENSSVLG00005025082	Sirtuin	NA
+Sciurus_vulgaris	NFKBIB	ENSSVLG00005025113	NFKB associated	NA
+Sciurus_vulgaris	LOXL3	ENSSVLG00005025127	Others	NA
+Sciurus_vulgaris	LBH	ENSSVLG00005025129	Others	NA
+Sciurus_vulgaris		ENSSVLG00005025136	Others	NA
+Sciurus_vulgaris	MRTFB	ENSSVLG00005025237	Others	NA
+Sciurus_vulgaris	ACTL6B	ENSSVLG00005025256	Actin	NA
+Sciurus_vulgaris	DDX1	ENSSVLG00005025306	RNA helicase	NA
+Sciurus_vulgaris	ASF1B	ENSSVLG00005025369	Others	NA
+Sciurus_vulgaris	SLC30A9	ENSSVLG00005025379	SLC	NA
+Sciurus_vulgaris	KDM4C	ENSSVLG00005025382	Lysine demethylase	NA
+Sciurus_vulgaris	RRN3	ENSSVLG00005025398	Others	NA
+Sciurus_vulgaris		ENSSVLG00005025414	Others	NA
+Sciurus_vulgaris	SETD1A	ENSSVLG00005025429	SET	NA
+Sciurus_vulgaris		ENSSVLG00005025434	Others	NA
+Sciurus_vulgaris	TLE1	ENSSVLG00005025442	Transducin	NA
+Sciurus_vulgaris	CRYM	ENSSVLG00005025461	Others	NA
+Sciurus_vulgaris	ABL1	ENSSVLG00005025464	Others	NA
+Sciurus_vulgaris	SAMD4B	ENSSVLG00005025489	Others	NA
+Sciurus_vulgaris	DDX39A	ENSSVLG00005025506	RNA helicase	NA
+Sciurus_vulgaris	PAF1	ENSSVLG00005025514	Others	NA
+Sciurus_vulgaris	TAF1C	ENSSVLG00005025522	TATA-box	NA
+Sciurus_vulgaris	MALT1	ENSSVLG00005025526	Others	NA
+Sciurus_vulgaris	MED29	ENSSVLG00005025528	Mediator complex	NA
+Sciurus_vulgaris	INSR	ENSSVLG00005025555	Others	NA
+Sciurus_vulgaris	NOTCH1	ENSSVLG00005025572	Notch	NA
+Sciurus_vulgaris	DNAJB1	ENSSVLG00005025574	Others	NA
+Sciurus_vulgaris	TLE4	ENSSVLG00005025580	Transducin	NA
+Sciurus_vulgaris	HSBP1	ENSSVLG00005025608	Heat shock protein	NA
+Sciurus_vulgaris	ELL	ENSSVLG00005025617	GTF	NA
+Sciurus_vulgaris	LMCD1	ENSSVLG00005025633	LIM	NA
+Sciurus_vulgaris	SUPT7L	ENSSVLG00005025640	SUPT	NA
+Sciurus_vulgaris	SUPT5H	ENSSVLG00005025656	SUPT	NA
+Sciurus_vulgaris	RBL2	ENSSVLG00005025712	Other_Co-activator/repressors	NA
+Sciurus_vulgaris	EID2	ENSSVLG00005025749	EID	NA
+Sciurus_vulgaris	CHD9	ENSSVLG00005025759	CHD	NA
+Sciurus_vulgaris	DYRK1B	ENSSVLG00005025776	Others	NA
+Sciurus_vulgaris	NOD2	ENSSVLG00005025812	Others	NA
+Sciurus_vulgaris		ENSSVLG00005025838	Bromodomain	NA
+Sciurus_vulgaris	HELLS	ENSSVLG00005025855	Others	NA
+Sciurus_vulgaris	NOTCH3	ENSSVLG00005025909	Notch	NA
+Sciurus_vulgaris	SERTAD3	ENSSVLG00005025913	Others	NA
+Sciurus_vulgaris	RBBP7	ENSSVLG00005025916	RBBP	NA
+Sciurus_vulgaris	BRD4	ENSSVLG00005025918	Bromodomain	NA
+Sciurus_vulgaris	PLK1	ENSSVLG00005025952	Others	NA
+Sciurus_vulgaris	KDM8	ENSSVLG00005025970	Lysine demethylase	NA

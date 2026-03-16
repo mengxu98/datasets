@@ -1,0 +1,626 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Choloepus_hoffmanni	TGFB2	ENSCHOG00000000037	Others	NA
+Choloepus_hoffmanni	GRIP1	ENSCHOG00000000043	Others	NA
+Choloepus_hoffmanni	HNRNPD	ENSCHOG00000000045	HNRNP	NA
+Choloepus_hoffmanni	ANXA5	ENSCHOG00000000053	Others	NA
+Choloepus_hoffmanni	ZMYM2	ENSCHOG00000000071	Zinc finger	NA
+Choloepus_hoffmanni		ENSCHOG00000000085	Mediator complex	NA
+Choloepus_hoffmanni	KAT6B	ENSCHOG00000000119	Lysine acetyltransferase	NA
+Choloepus_hoffmanni	SYK	ENSCHOG00000000164	Others	NA
+Choloepus_hoffmanni	SUPT4H1	ENSCHOG00000000246	SUPT	NA
+Choloepus_hoffmanni	RALY	ENSCHOG00000000266	Others	NA
+Choloepus_hoffmanni	RUNX1T1	ENSCHOG00000000273	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000000277	CHD	NA
+Choloepus_hoffmanni		ENSCHOG00000000303	ASCC	NA
+Choloepus_hoffmanni	PPARGC1A	ENSCHOG00000000367	Others	NA
+Choloepus_hoffmanni	KDM8	ENSCHOG00000000500	Lysine demethylase	NA
+Choloepus_hoffmanni	NIPBL	ENSCHOG00000000506	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000000516	ANP	NA
+Choloepus_hoffmanni	MED30	ENSCHOG00000000530	Mediator complex	NA
+Choloepus_hoffmanni	NCK1	ENSCHOG00000000534	Others	NA
+Choloepus_hoffmanni	KDM4C	ENSCHOG00000000542	Lysine demethylase	NA
+Choloepus_hoffmanni		ENSCHOG00000000550	FGF	NA
+Choloepus_hoffmanni	LMO3	ENSCHOG00000000581	LIM	NA
+Choloepus_hoffmanni		ENSCHOG00000000612	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000000621	Others	NA
+Choloepus_hoffmanni	RECQL5	ENSCHOG00000000629	Others	NA
+Choloepus_hoffmanni	SAP30BP	ENSCHOG00000000633	SAP	NA
+Choloepus_hoffmanni	TRIM27	ENSCHOG00000000655	Tripartite motif	NA
+Choloepus_hoffmanni	CNOT7	ENSCHOG00000000677	CCR4-NOT	NA
+Choloepus_hoffmanni	CAMK4	ENSCHOG00000000680	CAMK	NA
+Choloepus_hoffmanni	DTX4	ENSCHOG00000000719	Others	NA
+Choloepus_hoffmanni	MED12L	ENSCHOG00000000725	Mediator complex	NA
+Choloepus_hoffmanni	TAF2	ENSCHOG00000000733	TATA-box	NA
+Choloepus_hoffmanni	EED	ENSCHOG00000000740	Others	NA
+Choloepus_hoffmanni	ACTA2	ENSCHOG00000000759	Actin	NA
+Choloepus_hoffmanni		ENSCHOG00000000782	Cyclin	NA
+Choloepus_hoffmanni	CHEK1	ENSCHOG00000000798	Others	NA
+Choloepus_hoffmanni	UTP4	ENSCHOG00000000840	Others	NA
+Choloepus_hoffmanni	TOP1	ENSCHOG00000000871	Other_CRF	NA
+Choloepus_hoffmanni	CTDSPL	ENSCHOG00000000879	Others	NA
+Choloepus_hoffmanni	H2AZ2	ENSCHOG00000000889	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000000948	Others	NA
+Choloepus_hoffmanni	NFKBIA	ENSCHOG00000000978	NFKB associated	NA
+Choloepus_hoffmanni	PLRG1	ENSCHOG00000001013	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000001050	Lysine demethylase	NA
+Choloepus_hoffmanni	RAF1	ENSCHOG00000001052	Others	NA
+Choloepus_hoffmanni	WAC	ENSCHOG00000001055	WW	NA
+Choloepus_hoffmanni	PHF21B	ENSCHOG00000001061	PHF	NA
+Choloepus_hoffmanni	RB1	ENSCHOG00000001067	Other_Co-activator/repressors	NA
+Choloepus_hoffmanni	MED13L	ENSCHOG00000001076	Mediator complex	NA
+Choloepus_hoffmanni	MYO6	ENSCHOG00000001078	Others	NA
+Choloepus_hoffmanni	ARGLU1	ENSCHOG00000001089	Others	NA
+Choloepus_hoffmanni	EAF2	ENSCHOG00000001092	Others	NA
+Choloepus_hoffmanni	YAP1	ENSCHOG00000001095	WW	NA
+Choloepus_hoffmanni	SLTM	ENSCHOG00000001125	Others	NA
+Choloepus_hoffmanni	SFMBT2	ENSCHOG00000001172	Others	NA
+Choloepus_hoffmanni	SUZ12	ENSCHOG00000001223	Others	NA
+Choloepus_hoffmanni	NEDD8	ENSCHOG00000001228	Others	NA
+Choloepus_hoffmanni	TCEA1	ENSCHOG00000001247	TEF	NA
+Choloepus_hoffmanni	CNOT2	ENSCHOG00000001283	CCR4-NOT	NA
+Choloepus_hoffmanni	NKAP	ENSCHOG00000001285	NFKB associated	NA
+Choloepus_hoffmanni	CTNND1	ENSCHOG00000001286	Casein	NA
+Choloepus_hoffmanni	TFB2M	ENSCHOG00000001296	Others	NA
+Choloepus_hoffmanni	TXLNA	ENSCHOG00000001331	Others	NA
+Choloepus_hoffmanni	STRN3	ENSCHOG00000001363	Others	NA
+Choloepus_hoffmanni	CDKN1B	ENSCHOG00000001382	Cyclin	NA
+Choloepus_hoffmanni	HNRNPU	ENSCHOG00000001387	HNRNP	NA
+Choloepus_hoffmanni	CDK8	ENSCHOG00000001443	Cyclin	NA
+Choloepus_hoffmanni	TGS1	ENSCHOG00000001462	Others	NA
+Choloepus_hoffmanni	ZMYND11	ENSCHOG00000001472	Zinc finger	NA
+Choloepus_hoffmanni		ENSCHOG00000001536	Others	NA
+Choloepus_hoffmanni	DSCAM	ENSCHOG00000001549	Others	NA
+Choloepus_hoffmanni	BRPF1	ENSCHOG00000001566	Bromodomain	NA
+Choloepus_hoffmanni	PHF10	ENSCHOG00000001574	PHF	NA
+Choloepus_hoffmanni	HTATIP2	ENSCHOG00000001636	Others	NA
+Choloepus_hoffmanni	PRMT3	ENSCHOG00000001639	Arginine methyltransferase	NA
+Choloepus_hoffmanni		ENSCHOG00000001667	Others	NA
+Choloepus_hoffmanni	PAXIP1	ENSCHOG00000001686	Others	NA
+Choloepus_hoffmanni	DAPK2	ENSCHOG00000001693	Others	NA
+Choloepus_hoffmanni	TRIM33	ENSCHOG00000001716	Tripartite motif	NA
+Choloepus_hoffmanni		ENSCHOG00000001740	Others	NA
+Choloepus_hoffmanni	GTF2H5	ENSCHOG00000001777	GTF	NA
+Choloepus_hoffmanni	TNIP1	ENSCHOG00000001837	Others	NA
+Choloepus_hoffmanni	GTF2H4	ENSCHOG00000001840	GTF	NA
+Choloepus_hoffmanni	CALCOCO1	ENSCHOG00000001849	Others	NA
+Choloepus_hoffmanni	BTF3	ENSCHOG00000001861	Others	NA
+Choloepus_hoffmanni	DDX17	ENSCHOG00000001931	RNA helicase	NA
+Choloepus_hoffmanni	ELP4	ENSCHOG00000001945	ELP	NA
+Choloepus_hoffmanni	COPS5	ENSCHOG00000002028	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000002047	Other_CRF	NA
+Choloepus_hoffmanni		ENSCHOG00000002052	Others	NA
+Choloepus_hoffmanni	ASCC3	ENSCHOG00000002063	ASCC	NA
+Choloepus_hoffmanni	ASH1L	ENSCHOG00000002089	Others	NA
+Choloepus_hoffmanni	HDAC11	ENSCHOG00000002102	Histone deacetylase	NA
+Choloepus_hoffmanni	LPIN2	ENSCHOG00000002105	LPIN	NA
+Choloepus_hoffmanni	TENM2	ENSCHOG00000002123	Others	NA
+Choloepus_hoffmanni	DDX1	ENSCHOG00000002171	RNA helicase	NA
+Choloepus_hoffmanni	ECD	ENSCHOG00000002175	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000002194	Others	NA
+Choloepus_hoffmanni	SETD5	ENSCHOG00000002200	Lysine methyltransferase	NA
+Choloepus_hoffmanni	SND1	ENSCHOG00000002218	Others	NA
+Choloepus_hoffmanni	CRYM	ENSCHOG00000002237	Others	NA
+Choloepus_hoffmanni	PIK3R1	ENSCHOG00000002238	Others	NA
+Choloepus_hoffmanni	YAF2	ENSCHOG00000002266	Others	NA
+Choloepus_hoffmanni	BEND6	ENSCHOG00000002301	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000002309	ACTR	NA
+Choloepus_hoffmanni	DHX36	ENSCHOG00000002340	RNA helicase	NA
+Choloepus_hoffmanni	DYRK1A	ENSCHOG00000002353	Others	NA
+Choloepus_hoffmanni	KDM3B	ENSCHOG00000002368	Lysine demethylase	NA
+Choloepus_hoffmanni	ARRDC3	ENSCHOG00000002411	Others	NA
+Choloepus_hoffmanni	S100A8	ENSCHOG00000002484	Others	NA
+Choloepus_hoffmanni	TNKS	ENSCHOG00000002500	Others	NA
+Choloepus_hoffmanni	ASB3	ENSCHOG00000002501	BCL	NA
+Choloepus_hoffmanni		ENSCHOG00000002504	SUPT	NA
+Choloepus_hoffmanni	GZMA	ENSCHOG00000002529	Others	NA
+Choloepus_hoffmanni	CTR9	ENSCHOG00000002568	Others	NA
+Choloepus_hoffmanni	CCNC	ENSCHOG00000002588	Cyclin	NA
+Choloepus_hoffmanni	BRWD1	ENSCHOG00000002594	Bromodomain	NA
+Choloepus_hoffmanni	S100A12	ENSCHOG00000002608	Others	NA
+Choloepus_hoffmanni	DDX20	ENSCHOG00000002610	RNA helicase	NA
+Choloepus_hoffmanni	GTF2A1	ENSCHOG00000002616	GTF	NA
+Choloepus_hoffmanni	CCNE1	ENSCHOG00000002631	Cyclin	NA
+Choloepus_hoffmanni	KANK1	ENSCHOG00000002640	Others	NA
+Choloepus_hoffmanni	DAB2	ENSCHOG00000002692	Others	NA
+Choloepus_hoffmanni	GNL3	ENSCHOG00000002726	Others	NA
+Choloepus_hoffmanni	TAF15	ENSCHOG00000002729	TATA-box	NA
+Choloepus_hoffmanni	MACROH2A2	ENSCHOG00000002758	Others	NA
+Choloepus_hoffmanni	TCERG1	ENSCHOG00000002818	TEF	NA
+Choloepus_hoffmanni	EGFR	ENSCHOG00000002830	Others	NA
+Choloepus_hoffmanni	CCAR1	ENSCHOG00000002868	Others	NA
+Choloepus_hoffmanni	NRIP1	ENSCHOG00000002954	Nuclear receptor coactivator	NA
+Choloepus_hoffmanni	EYA1	ENSCHOG00000002990	EYA	NA
+Choloepus_hoffmanni	TTF2	ENSCHOG00000002993	Others	NA
+Choloepus_hoffmanni	FRK	ENSCHOG00000003144	Others	NA
+Choloepus_hoffmanni	KAT2B	ENSCHOG00000003167	Lysine acetyltransferase	NA
+Choloepus_hoffmanni	SAFB	ENSCHOG00000003208	Others	NA
+Choloepus_hoffmanni	CREBBP	ENSCHOG00000003248	CREB	NA
+Choloepus_hoffmanni	MRTFB	ENSCHOG00000003309	Others	NA
+Choloepus_hoffmanni	ILF2	ENSCHOG00000003310	Others	NA
+Choloepus_hoffmanni	TCEAL1	ENSCHOG00000003317	TEF	NA
+Choloepus_hoffmanni	TAF13	ENSCHOG00000003347	TATA-box	NA
+Choloepus_hoffmanni	MYOCD	ENSCHOG00000003374	Others	NA
+Choloepus_hoffmanni	DCC	ENSCHOG00000003385	Others	NA
+Choloepus_hoffmanni	BRF2	ENSCHOG00000003397	GTF	NA
+Choloepus_hoffmanni	LEO1	ENSCHOG00000003401	Others	NA
+Choloepus_hoffmanni	FGFR2	ENSCHOG00000003406	FGF	NA
+Choloepus_hoffmanni		ENSCHOG00000003417	Others	NA
+Choloepus_hoffmanni	RAD21	ENSCHOG00000003421	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000003444	Others	NA
+Choloepus_hoffmanni	ENO1	ENSCHOG00000003483	Others	NA
+Choloepus_hoffmanni	TAF5	ENSCHOG00000003484	TATA-box	NA
+Choloepus_hoffmanni	RPAP2	ENSCHOG00000003494	Others	NA
+Choloepus_hoffmanni	MED4	ENSCHOG00000003504	Mediator complex	NA
+Choloepus_hoffmanni	RNF168	ENSCHOG00000003505	Ring finger protein	NA
+Choloepus_hoffmanni	SAV1	ENSCHOG00000003534	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000003536	Others	NA
+Choloepus_hoffmanni	PHF5A	ENSCHOG00000003545	PHF	NA
+Choloepus_hoffmanni	SKIL	ENSCHOG00000003576	SKI	NA
+Choloepus_hoffmanni	SFSWAP	ENSCHOG00000003578	Others	NA
+Choloepus_hoffmanni	NUP98	ENSCHOG00000003579	Others	NA
+Choloepus_hoffmanni	CALR	ENSCHOG00000003584	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000003588	Others	NA
+Choloepus_hoffmanni	EYA3	ENSCHOG00000003592	EYA	NA
+Choloepus_hoffmanni		ENSCHOG00000003631	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000003653	Others	NA
+Choloepus_hoffmanni	MED31	ENSCHOG00000003678	Mediator complex	NA
+Choloepus_hoffmanni	CASP8AP2	ENSCHOG00000003688	Others	NA
+Choloepus_hoffmanni	NSMCE4A	ENSCHOG00000003695	EID	NA
+Choloepus_hoffmanni	TAF7	ENSCHOG00000003740	TATA-box	NA
+Choloepus_hoffmanni	RLIM	ENSCHOG00000003771	Ring finger protein	NA
+Choloepus_hoffmanni	CHD8	ENSCHOG00000003782	CHD	NA
+Choloepus_hoffmanni	NLRP4	ENSCHOG00000003784	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000003843	Others	NA
+Choloepus_hoffmanni	MED7	ENSCHOG00000003909	Mediator complex	NA
+Choloepus_hoffmanni	SUDS3	ENSCHOG00000003924	Other_Co-activator/repressors	NA
+Choloepus_hoffmanni	TIGD4	ENSCHOG00000003926	CENP	NA
+Choloepus_hoffmanni	CHD9	ENSCHOG00000003935	CHD	NA
+Choloepus_hoffmanni	ABRA	ENSCHOG00000003951	Actin	NA
+Choloepus_hoffmanni	YEATS2	ENSCHOG00000003976	Others	NA
+Choloepus_hoffmanni	SS18L2	ENSCHOG00000004006	SS18	NA
+Choloepus_hoffmanni	ERBIN	ENSCHOG00000004027	Erbb2	NA
+Choloepus_hoffmanni	LGALS8	ENSCHOG00000004040	Others	NA
+Choloepus_hoffmanni	HEATR1	ENSCHOG00000004046	Others	NA
+Choloepus_hoffmanni	RBBP8	ENSCHOG00000004053	RBBP	NA
+Choloepus_hoffmanni	BUD31	ENSCHOG00000004055	Others	NA
+Choloepus_hoffmanni	RBBP4	ENSCHOG00000004066	RBBP	NA
+Choloepus_hoffmanni	HIPK3	ENSCHOG00000004082	HIPK	NA
+Choloepus_hoffmanni	CHD1	ENSCHOG00000004146	CHD	NA
+Choloepus_hoffmanni	FBXW7	ENSCHOG00000004151	Others	NA
+Choloepus_hoffmanni	FHIT	ENSCHOG00000004155	Others	NA
+Choloepus_hoffmanni	PCBD1	ENSCHOG00000004213	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000004215	Others	NA
+Choloepus_hoffmanni	BTG1	ENSCHOG00000004246	Others	NA
+Choloepus_hoffmanni	RIPPLY2	ENSCHOG00000004263	Others	NA
+Choloepus_hoffmanni	SMARCA2	ENSCHOG00000004316	SWI/SNF	NA
+Choloepus_hoffmanni		ENSCHOG00000004317	Others	NA
+Choloepus_hoffmanni	NCOA4	ENSCHOG00000004343	Nuclear receptor coactivator	NA
+Choloepus_hoffmanni	XRCC6	ENSCHOG00000004349	Others	NA
+Choloepus_hoffmanni	PARK7	ENSCHOG00000004364	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000004417	Others	NA
+Choloepus_hoffmanni	ATF7IP2	ENSCHOG00000004433	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000004484	Cyclin	NA
+Choloepus_hoffmanni	CIR1	ENSCHOG00000004493	Other_Co-activator/repressors	NA
+Choloepus_hoffmanni	FBXW11	ENSCHOG00000004514	Others	NA
+Choloepus_hoffmanni	WDR5B	ENSCHOG00000004523	WD	NA
+Choloepus_hoffmanni	HIPK1	ENSCHOG00000004538	HIPK	NA
+Choloepus_hoffmanni	NELFCD	ENSCHOG00000004606	GTF	NA
+Choloepus_hoffmanni	PICALM	ENSCHOG00000004633	Others	NA
+Choloepus_hoffmanni	WWC1	ENSCHOG00000004652	WW	NA
+Choloepus_hoffmanni	BTAF1	ENSCHOG00000004696	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000004706	Others	NA
+Choloepus_hoffmanni	MID1	ENSCHOG00000004708	Tripartite motif	NA
+Choloepus_hoffmanni	LDB2	ENSCHOG00000004716	LIM	NA
+Choloepus_hoffmanni		ENSCHOG00000004726	TATA-box	NA
+Choloepus_hoffmanni	EYA4	ENSCHOG00000004727	EYA	NA
+Choloepus_hoffmanni	SSBP2	ENSCHOG00000004738	Others	NA
+Choloepus_hoffmanni	SAP30	ENSCHOG00000004743	SAP	NA
+Choloepus_hoffmanni		ENSCHOG00000004760	Others	NA
+Choloepus_hoffmanni	RNF20	ENSCHOG00000004775	Ring finger protein	NA
+Choloepus_hoffmanni		ENSCHOG00000004808	SAP	NA
+Choloepus_hoffmanni	HR	ENSCHOG00000004837	Lysine methyltransferase	NA
+Choloepus_hoffmanni		ENSCHOG00000004848	FAM	NA
+Choloepus_hoffmanni	TRIP11	ENSCHOG00000004878	Thyroid hormone receptor	NA
+Choloepus_hoffmanni	SLC25A15	ENSCHOG00000004899	SLC	NA
+Choloepus_hoffmanni	ZNF593	ENSCHOG00000004944	Zinc finger	NA
+Choloepus_hoffmanni		ENSCHOG00000004946	Others	NA
+Choloepus_hoffmanni	IKBKB	ENSCHOG00000004950	Others	NA
+Choloepus_hoffmanni	SUFU	ENSCHOG00000005018	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000005026	Others	NA
+Choloepus_hoffmanni	CHEK2	ENSCHOG00000005093	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000005105	NFKB associated	NA
+Choloepus_hoffmanni	ZMYND8	ENSCHOG00000005117	Zinc finger	NA
+Choloepus_hoffmanni	MED1	ENSCHOG00000005148	Mediator complex	NA
+Choloepus_hoffmanni	ANP32B	ENSCHOG00000005149	ANP	NA
+Choloepus_hoffmanni	NAA15	ENSCHOG00000005155	Others	NA
+Choloepus_hoffmanni	CDK12	ENSCHOG00000005168	Cyclin	NA
+Choloepus_hoffmanni	URI1	ENSCHOG00000005177	Others	NA
+Choloepus_hoffmanni	ABT1	ENSCHOG00000005188	Others	NA
+Choloepus_hoffmanni	ELL2	ENSCHOG00000005215	GTF	NA
+Choloepus_hoffmanni		ENSCHOG00000005217	CAMK	NA
+Choloepus_hoffmanni		ENSCHOG00000005258	Others	NA
+Choloepus_hoffmanni	RBL1	ENSCHOG00000005262	Other_Co-activator/repressors	NA
+Choloepus_hoffmanni	DNAJB4	ENSCHOG00000005277	Others	NA
+Choloepus_hoffmanni	NELFE	ENSCHOG00000005315	GTF	NA
+Choloepus_hoffmanni	TAF3	ENSCHOG00000005336	TATA-box	NA
+Choloepus_hoffmanni	RNF6	ENSCHOG00000005353	Ring finger protein	NA
+Choloepus_hoffmanni	PHIP	ENSCHOG00000005359	Others	NA
+Choloepus_hoffmanni	DEK	ENSCHOG00000005371	Other_CRF	NA
+Choloepus_hoffmanni	BRCA1	ENSCHOG00000005406	Others	NA
+Choloepus_hoffmanni	EAPP	ENSCHOG00000005412	Others	NA
+Choloepus_hoffmanni	MYCBP2	ENSCHOG00000005425	MYC	NA
+Choloepus_hoffmanni	CDK7	ENSCHOG00000005458	Cyclin	NA
+Choloepus_hoffmanni		ENSCHOG00000005517	Others	NA
+Choloepus_hoffmanni	BAZ1B	ENSCHOG00000005526	Bromodomain	NA
+Choloepus_hoffmanni	RPRD1B	ENSCHOG00000005534	Others	NA
+Choloepus_hoffmanni	TOB1	ENSCHOG00000005621	Others	NA
+Choloepus_hoffmanni	PHF20	ENSCHOG00000005629	PHF	NA
+Choloepus_hoffmanni		ENSCHOG00000005677	ING	NA
+Choloepus_hoffmanni	FHL5	ENSCHOG00000005678	FHL	NA
+Choloepus_hoffmanni	ELP2	ENSCHOG00000005702	ELP	NA
+Choloepus_hoffmanni	NFKBIZ	ENSCHOG00000005748	NFKB associated	NA
+Choloepus_hoffmanni	YWHAB	ENSCHOG00000005782	Others	NA
+Choloepus_hoffmanni	FLNB	ENSCHOG00000005806	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000005813	MBD	NA
+Choloepus_hoffmanni		ENSCHOG00000005842	Others	NA
+Choloepus_hoffmanni	SIRT4	ENSCHOG00000005848	Sirtuin	NA
+Choloepus_hoffmanni	BIRC5	ENSCHOG00000005849	Others	NA
+Choloepus_hoffmanni	MED27	ENSCHOG00000005855	Mediator complex	NA
+Choloepus_hoffmanni	SMYD3	ENSCHOG00000005866	SMYD	NA
+Choloepus_hoffmanni	ASCC1	ENSCHOG00000005884	ASCC	NA
+Choloepus_hoffmanni	BIRC2	ENSCHOG00000005943	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000005964	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000005981	CENP	NA
+Choloepus_hoffmanni		ENSCHOG00000005984	Lysine demethylase	NA
+Choloepus_hoffmanni	FBP2	ENSCHOG00000005991	Others	NA
+Choloepus_hoffmanni	BRD2	ENSCHOG00000006027	Bromodomain	NA
+Choloepus_hoffmanni		ENSCHOG00000006033	GTF	NA
+Choloepus_hoffmanni		ENSCHOG00000006122	Mediator complex	NA
+Choloepus_hoffmanni	XIAP	ENSCHOG00000006141	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000006155	Others	NA
+Choloepus_hoffmanni	PSIP1	ENSCHOG00000006157	Others	NA
+Choloepus_hoffmanni	GTF2B	ENSCHOG00000006162	GTF	NA
+Choloepus_hoffmanni	SFR1	ENSCHOG00000006164	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000006170	Tripartite motif	NA
+Choloepus_hoffmanni	MED28	ENSCHOG00000006212	Mediator complex	NA
+Choloepus_hoffmanni	GTF2H3	ENSCHOG00000006219	GTF	NA
+Choloepus_hoffmanni		ENSCHOG00000006225	Casein	NA
+Choloepus_hoffmanni	SSU72	ENSCHOG00000006254	Others	NA
+Choloepus_hoffmanni	BLM	ENSCHOG00000006255	Others	NA
+Choloepus_hoffmanni	CNOT9	ENSCHOG00000006279	CCR4-NOT	NA
+Choloepus_hoffmanni	MAK	ENSCHOG00000006339	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000006348	Others	NA
+Choloepus_hoffmanni	CRNKL1	ENSCHOG00000006371	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000006383	Others	NA
+Choloepus_hoffmanni	KDM2A	ENSCHOG00000006440	Lysine demethylase	NA
+Choloepus_hoffmanni	TGFB1I1	ENSCHOG00000006456	Others	NA
+Choloepus_hoffmanni	CDYL2	ENSCHOG00000006476	Chromodomain Y	NA
+Choloepus_hoffmanni	CBFA2T2	ENSCHOG00000006523	Others	NA
+Choloepus_hoffmanni	DR1	ENSCHOG00000006607	Others	NA
+Choloepus_hoffmanni	SGK1	ENSCHOG00000006626	Others	NA
+Choloepus_hoffmanni	RUVBL1	ENSCHOG00000006641	Other_CRF	NA
+Choloepus_hoffmanni		ENSCHOG00000006648	Others	NA
+Choloepus_hoffmanni	C1D	ENSCHOG00000006719	Other_Co-activator/repressors	NA
+Choloepus_hoffmanni		ENSCHOG00000006733	Others	NA
+Choloepus_hoffmanni	LGALS12	ENSCHOG00000006826	Others	NA
+Choloepus_hoffmanni	LPXN	ENSCHOG00000006830	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000006839	DNA_methylase	NA
+Choloepus_hoffmanni		ENSCHOG00000006846	Others	NA
+Choloepus_hoffmanni	KDM7A	ENSCHOG00000006854	Lysine demethylase	NA
+Choloepus_hoffmanni	BRIP1	ENSCHOG00000006864	Others	NA
+Choloepus_hoffmanni	POLR3C	ENSCHOG00000006911	POLR	NA
+Choloepus_hoffmanni	SETD7	ENSCHOG00000007001	SET	NA
+Choloepus_hoffmanni		ENSCHOG00000007020	Others	NA
+Choloepus_hoffmanni	SPAG8	ENSCHOG00000007036	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000007061	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000007116	Lysine methyltransferase	NA
+Choloepus_hoffmanni	MED23	ENSCHOG00000007125	Mediator complex	NA
+Choloepus_hoffmanni	NCOA7	ENSCHOG00000007133	Nuclear receptor coactivator	NA
+Choloepus_hoffmanni	EMSY	ENSCHOG00000007141	Others	NA
+Choloepus_hoffmanni	MPHOSPH8	ENSCHOG00000007149	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000007181	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000007195	SLC	NA
+Choloepus_hoffmanni	GTF2A2	ENSCHOG00000007240	GTF	NA
+Choloepus_hoffmanni	CCNA1	ENSCHOG00000007241	Cyclin	NA
+Choloepus_hoffmanni	PRMT7	ENSCHOG00000007275	Arginine methyltransferase	NA
+Choloepus_hoffmanni		ENSCHOG00000007309	Others	NA
+Choloepus_hoffmanni	TBP	ENSCHOG00000007365	TATA-box	NA
+Choloepus_hoffmanni	AIM2	ENSCHOG00000007370	Others	NA
+Choloepus_hoffmanni	AXIN2	ENSCHOG00000007376	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000007396	Others	NA
+Choloepus_hoffmanni	ERCC3	ENSCHOG00000007414	Others	NA
+Choloepus_hoffmanni	STRAP	ENSCHOG00000007422	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000007439	Thyroid hormone receptor	NA
+Choloepus_hoffmanni	EAF1	ENSCHOG00000007449	Others	NA
+Choloepus_hoffmanni	MEAF6	ENSCHOG00000007457	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000007465	Others	NA
+Choloepus_hoffmanni	ABL2	ENSCHOG00000007480	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000007528	EID	NA
+Choloepus_hoffmanni	TRIM24	ENSCHOG00000007539	Tripartite motif	NA
+Choloepus_hoffmanni	TBPL1	ENSCHOG00000007544	TATA-box	NA
+Choloepus_hoffmanni	DDX6	ENSCHOG00000007565	RNA helicase	NA
+Choloepus_hoffmanni	AATF	ENSCHOG00000007578	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000007580	Others	NA
+Choloepus_hoffmanni	PDCD4	ENSCHOG00000007638	Others	NA
+Choloepus_hoffmanni	EYA2	ENSCHOG00000007705	EYA	NA
+Choloepus_hoffmanni	PRMT6	ENSCHOG00000007750	Arginine methyltransferase	NA
+Choloepus_hoffmanni	KDM5A	ENSCHOG00000007759	Lysine demethylase	NA
+Choloepus_hoffmanni	ATAD2	ENSCHOG00000007769	Others	NA
+Choloepus_hoffmanni	CCDC59	ENSCHOG00000007788	Coiled-coil	NA
+Choloepus_hoffmanni		ENSCHOG00000007830	TATA-box	NA
+Choloepus_hoffmanni		ENSCHOG00000007881	Cyclin	NA
+Choloepus_hoffmanni	TIRAP	ENSCHOG00000007885	Others	NA
+Choloepus_hoffmanni	NOTCH2	ENSCHOG00000007917	Notch	NA
+Choloepus_hoffmanni	FHL2	ENSCHOG00000007929	FHL	NA
+Choloepus_hoffmanni		ENSCHOG00000007963	PCGF	NA
+Choloepus_hoffmanni	TAF5L	ENSCHOG00000008060	TATA-box	NA
+Choloepus_hoffmanni	MTPN	ENSCHOG00000008096	Others	NA
+Choloepus_hoffmanni	MAML3	ENSCHOG00000008097	MAML	NA
+Choloepus_hoffmanni	MORF4L2	ENSCHOG00000008103	Other_CRF	NA
+Choloepus_hoffmanni	TOPORS	ENSCHOG00000008133	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000008147	Others	NA
+Choloepus_hoffmanni	SUPT3H	ENSCHOG00000008163	SUPT	NA
+Choloepus_hoffmanni	STK36	ENSCHOG00000008175	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000008178	Other_CRF	NA
+Choloepus_hoffmanni		ENSCHOG00000008185	Others	NA
+Choloepus_hoffmanni	JMJD1C	ENSCHOG00000008186	Other_CRF	NA
+Choloepus_hoffmanni	SLC26A3	ENSCHOG00000008198	SLC	NA
+Choloepus_hoffmanni	DDX5	ENSCHOG00000008207	RNA helicase	NA
+Choloepus_hoffmanni	GTF2H1	ENSCHOG00000008223	GTF	NA
+Choloepus_hoffmanni		ENSCHOG00000008259	Erbb2	NA
+Choloepus_hoffmanni	PYGO1	ENSCHOG00000008279	Others	NA
+Choloepus_hoffmanni	HDAC3	ENSCHOG00000008290	Histone deacetylase	NA
+Choloepus_hoffmanni	MTDH	ENSCHOG00000008321	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000008430	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000008445	CAMK	NA
+Choloepus_hoffmanni	AJUBA	ENSCHOG00000008446	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000008466	Cyclin	NA
+Choloepus_hoffmanni	RGCC	ENSCHOG00000008540	Others	NA
+Choloepus_hoffmanni	CDK5R1	ENSCHOG00000008577	Cyclin	NA
+Choloepus_hoffmanni	MED13	ENSCHOG00000008584	Mediator complex	NA
+Choloepus_hoffmanni	BEX5	ENSCHOG00000008605	Others	NA
+Choloepus_hoffmanni	CDC73	ENSCHOG00000008675	Others	NA
+Choloepus_hoffmanni	TARBP1	ENSCHOG00000008680	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000008699	Others	NA
+Choloepus_hoffmanni	DHX33	ENSCHOG00000008707	RNA helicase	NA
+Choloepus_hoffmanni	SENP1	ENSCHOG00000008735	Others	NA
+Choloepus_hoffmanni	RBPMS	ENSCHOG00000008745	RNA binding protein	NA
+Choloepus_hoffmanni	EP300	ENSCHOG00000008791	Others	NA
+Choloepus_hoffmanni	BRCA2	ENSCHOG00000008817	Others	NA
+Choloepus_hoffmanni	KAT6A	ENSCHOG00000008862	Lysine acetyltransferase	NA
+Choloepus_hoffmanni	BCAS3	ENSCHOG00000008863	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000008867	Others	NA
+Choloepus_hoffmanni	PSPC1	ENSCHOG00000008913	Others	NA
+Choloepus_hoffmanni	TAF1B	ENSCHOG00000008914	TATA-box	NA
+Choloepus_hoffmanni	RBM39	ENSCHOG00000008954	RNA binding protein	NA
+Choloepus_hoffmanni	THRAP3	ENSCHOG00000008973	Thyroid hormone receptor	NA
+Choloepus_hoffmanni	ACTR8	ENSCHOG00000008989	ACTR	NA
+Choloepus_hoffmanni	SUPT20H	ENSCHOG00000009014	SUPT	NA
+Choloepus_hoffmanni	ARL2BP	ENSCHOG00000009016	Others	NA
+Choloepus_hoffmanni	NLK	ENSCHOG00000009026	Others	NA
+Choloepus_hoffmanni	NSD3	ENSCHOG00000009117	Nuclear receptor coactivator	NA
+Choloepus_hoffmanni		ENSCHOG00000009125	Others	NA
+Choloepus_hoffmanni	DCAF1	ENSCHOG00000009177	Others	NA
+Choloepus_hoffmanni	APBB2	ENSCHOG00000009184	Others	NA
+Choloepus_hoffmanni	SLC30A9	ENSCHOG00000009203	SLC	NA
+Choloepus_hoffmanni	PHF21A	ENSCHOG00000009221	PHF	NA
+Choloepus_hoffmanni	CIDEA	ENSCHOG00000009255	Others	NA
+Choloepus_hoffmanni	PELI1	ENSCHOG00000009278	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000009305	Cyclin	NA
+Choloepus_hoffmanni	BRD7	ENSCHOG00000009355	Bromodomain	NA
+Choloepus_hoffmanni	SS18	ENSCHOG00000009389	SS18	NA
+Choloepus_hoffmanni	LDB1	ENSCHOG00000009395	LIM	NA
+Choloepus_hoffmanni		ENSCHOG00000009443	RBBP	NA
+Choloepus_hoffmanni		ENSCHOG00000009464	Others	NA
+Choloepus_hoffmanni	ENY2	ENSCHOG00000009467	Others	NA
+Choloepus_hoffmanni	ACTL6A	ENSCHOG00000009477	Actin	NA
+Choloepus_hoffmanni	HSPA2	ENSCHOG00000009480	Heat shock protein	NA
+Choloepus_hoffmanni		ENSCHOG00000009490	DNA_methylase	NA
+Choloepus_hoffmanni	DPF2	ENSCHOG00000009506	DPF	NA
+Choloepus_hoffmanni	ANKRD1	ENSCHOG00000009547	Ankyrin repeat	NA
+Choloepus_hoffmanni	SUPT7L	ENSCHOG00000009575	SUPT	NA
+Choloepus_hoffmanni	KDM1B	ENSCHOG00000009582	Lysine demethylase	NA
+Choloepus_hoffmanni	CHAF1B	ENSCHOG00000009602	Others	NA
+Choloepus_hoffmanni	EDRF1	ENSCHOG00000009625	Others	NA
+Choloepus_hoffmanni	SKAP1	ENSCHOG00000009674	Others	NA
+Choloepus_hoffmanni	CNOT6	ENSCHOG00000009680	CCR4-NOT	NA
+Choloepus_hoffmanni	SETD6	ENSCHOG00000009686	SET	NA
+Choloepus_hoffmanni	CNOT1	ENSCHOG00000009712	CCR4-NOT	NA
+Choloepus_hoffmanni	HCFC2	ENSCHOG00000009726	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000009732	Others	NA
+Choloepus_hoffmanni	SUMO1	ENSCHOG00000009739	Others	NA
+Choloepus_hoffmanni	BAZ1A	ENSCHOG00000009741	Bromodomain	NA
+Choloepus_hoffmanni	ANKAR	ENSCHOG00000009814	Ankyrin repeat	NA
+Choloepus_hoffmanni	TCERG1L	ENSCHOG00000009822	TEF	NA
+Choloepus_hoffmanni		ENSCHOG00000009930	Other_CRF	NA
+Choloepus_hoffmanni	RNF8	ENSCHOG00000009932	Ring finger protein	NA
+Choloepus_hoffmanni	HIPK2	ENSCHOG00000009955	HIPK	NA
+Choloepus_hoffmanni	ELP1	ENSCHOG00000009974	ELP	NA
+Choloepus_hoffmanni	SRFBP1	ENSCHOG00000009989	Others	NA
+Choloepus_hoffmanni	PLK1	ENSCHOG00000009990	Others	NA
+Choloepus_hoffmanni	SMARCD1	ENSCHOG00000010009	SWI/SNF	NA
+Choloepus_hoffmanni	ING1	ENSCHOG00000010013	ING	NA
+Choloepus_hoffmanni		ENSCHOG00000010033	HNRNP	NA
+Choloepus_hoffmanni	TRRAP	ENSCHOG00000010034	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000010037	Others	NA
+Choloepus_hoffmanni	BRD8	ENSCHOG00000010056	Bromodomain	NA
+Choloepus_hoffmanni	SNX5	ENSCHOG00000010128	Others	NA
+Choloepus_hoffmanni	SAMD4A	ENSCHOG00000010140	Others	NA
+Choloepus_hoffmanni	ADRB1	ENSCHOG00000010143	Others	NA
+Choloepus_hoffmanni	CSRP2	ENSCHOG00000010176	Others	NA
+Choloepus_hoffmanni	EFCAB6	ENSCHOG00000010206	Others	NA
+Choloepus_hoffmanni	DCAF6	ENSCHOG00000010212	Others	NA
+Choloepus_hoffmanni	COPRS	ENSCHOG00000010215	Others	NA
+Choloepus_hoffmanni	WNT2B	ENSCHOG00000010217	Others	NA
+Choloepus_hoffmanni	NAB1	ENSCHOG00000010241	Others	NA
+Choloepus_hoffmanni	CHCHD3	ENSCHOG00000010258	Coiled-coil	NA
+Choloepus_hoffmanni	PSEN1	ENSCHOG00000010266	Others	NA
+Choloepus_hoffmanni	NRG1	ENSCHOG00000010335	Others	NA
+Choloepus_hoffmanni	SCAI	ENSCHOG00000010407	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000010414	Mediator complex	NA
+Choloepus_hoffmanni	ELP3	ENSCHOG00000010461	ELP	NA
+Choloepus_hoffmanni	TAF8	ENSCHOG00000010516	TATA-box	NA
+Choloepus_hoffmanni	HLTF	ENSCHOG00000010519	Others	NA
+Choloepus_hoffmanni	LRRK2	ENSCHOG00000010557	Other_CRF	NA
+Choloepus_hoffmanni	PARP14	ENSCHOG00000010569	PARP	NA
+Choloepus_hoffmanni	EGLN2	ENSCHOG00000010598	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000010600	Others	NA
+Choloepus_hoffmanni	PCGF6	ENSCHOG00000010637	PCGF	NA
+Choloepus_hoffmanni	NMI	ENSCHOG00000010691	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000010699	Others	NA
+Choloepus_hoffmanni	ACTR6	ENSCHOG00000010722	ACTR	NA
+Choloepus_hoffmanni	PADI2	ENSCHOG00000010740	Other_CRF	NA
+Choloepus_hoffmanni		ENSCHOG00000010742	Others	NA
+Choloepus_hoffmanni	TRIP4	ENSCHOG00000010776	Thyroid hormone receptor	NA
+Choloepus_hoffmanni		ENSCHOG00000010785	Actin	NA
+Choloepus_hoffmanni	PIM1	ENSCHOG00000010799	Others	NA
+Choloepus_hoffmanni	LANCL2	ENSCHOG00000010820	Others	NA
+Choloepus_hoffmanni	KDM4A	ENSCHOG00000010825	Lysine demethylase	NA
+Choloepus_hoffmanni	HNRNPK	ENSCHOG00000010832	HNRNP	NA
+Choloepus_hoffmanni	SERTAD3	ENSCHOG00000010839	Others	NA
+Choloepus_hoffmanni	ELOC	ENSCHOG00000010843	Others	NA
+Choloepus_hoffmanni	HDAC9	ENSCHOG00000010869	Histone deacetylase	NA
+Choloepus_hoffmanni	PDLIM3	ENSCHOG00000010901	Others	NA
+Choloepus_hoffmanni	CAVIN4	ENSCHOG00000010986	Others	NA
+Choloepus_hoffmanni	CEP290	ENSCHOG00000011024	Others	NA
+Choloepus_hoffmanni	ITCH	ENSCHOG00000011115	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000011134	TATA-box	NA
+Choloepus_hoffmanni	CRY1	ENSCHOG00000011137	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000011149	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000011158	Histone lysine methyltransferase	NA
+Choloepus_hoffmanni	CENPF	ENSCHOG00000011163	CENP	NA
+Choloepus_hoffmanni	RNF2	ENSCHOG00000011199	Ring finger protein	NA
+Choloepus_hoffmanni	HSD17B13	ENSCHOG00000011240	Others	NA
+Choloepus_hoffmanni	MAML2	ENSCHOG00000011278	MAML	NA
+Choloepus_hoffmanni	TIMELESS	ENSCHOG00000011299	Others	NA
+Choloepus_hoffmanni	CTNNB1	ENSCHOG00000011300	Casein	NA
+Choloepus_hoffmanni	KMT5B	ENSCHOG00000011313	Lysine methyltransferase	NA
+Choloepus_hoffmanni	NOL11	ENSCHOG00000011318	Nuclear coactivator	NA
+Choloepus_hoffmanni	BPTF	ENSCHOG00000011361	Bromodomain	NA
+Choloepus_hoffmanni		ENSCHOG00000011385	Others	NA
+Choloepus_hoffmanni	PADI4	ENSCHOG00000011413	Others	NA
+Choloepus_hoffmanni	RNF141	ENSCHOG00000011416	Ring finger protein	NA
+Choloepus_hoffmanni	CNOT10	ENSCHOG00000011425	CCR4-NOT	NA
+Choloepus_hoffmanni	NUDT5	ENSCHOG00000011436	Other_CRF	NA
+Choloepus_hoffmanni	THOC5	ENSCHOG00000011440	Others	NA
+Choloepus_hoffmanni	SIN3A	ENSCHOG00000011444	Other_CRF	NA
+Choloepus_hoffmanni	KCNIP1	ENSCHOG00000011469	Others	NA
+Choloepus_hoffmanni	WWP1	ENSCHOG00000011487	WW	NA
+Choloepus_hoffmanni	TXN	ENSCHOG00000011506	Others	NA
+Choloepus_hoffmanni	FHOD3	ENSCHOG00000011510	Others	NA
+Choloepus_hoffmanni	INO80D	ENSCHOG00000011518	INO80 complex	NA
+Choloepus_hoffmanni	CCDC62	ENSCHOG00000011521	Coiled-coil	NA
+Choloepus_hoffmanni	NCOA6	ENSCHOG00000011554	Nuclear receptor coactivator	NA
+Choloepus_hoffmanni	LIN54	ENSCHOG00000011580	Others	NA
+Choloepus_hoffmanni	TAF1A	ENSCHOG00000011585	TATA-box	NA
+Choloepus_hoffmanni	SETD3	ENSCHOG00000011590	SET	NA
+Choloepus_hoffmanni	AGO1	ENSCHOG00000011591	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000011684	Others	NA
+Choloepus_hoffmanni	TBL1XR1	ENSCHOG00000011686	Transducin	NA
+Choloepus_hoffmanni	SMARCA5	ENSCHOG00000011724	SWI/SNF	NA
+Choloepus_hoffmanni		ENSCHOG00000011728	Others	NA
+Choloepus_hoffmanni	SMURF1	ENSCHOG00000011783	Others	NA
+Choloepus_hoffmanni	CDYL	ENSCHOG00000011787	Chromodomain Y	NA
+Choloepus_hoffmanni	PAK5	ENSCHOG00000011810	Others	NA
+Choloepus_hoffmanni	NFATC2IP	ENSCHOG00000011828	Nuclear coactivator	NA
+Choloepus_hoffmanni		ENSCHOG00000011832	Ankyrin repeat	NA
+Choloepus_hoffmanni	ACTN1	ENSCHOG00000011882	Actin	NA
+Choloepus_hoffmanni	CNOT8	ENSCHOG00000011910	CCR4-NOT	NA
+Choloepus_hoffmanni		ENSCHOG00000011916	Heat shock protein	NA
+Choloepus_hoffmanni	SIAH2	ENSCHOG00000011930	Others	NA
+Choloepus_hoffmanni	WWOX	ENSCHOG00000011932	WW	NA
+Choloepus_hoffmanni	INO80	ENSCHOG00000011938	INO80 complex	NA
+Choloepus_hoffmanni	RALGAPA1	ENSCHOG00000011970	Others	NA
+Choloepus_hoffmanni	TDP2	ENSCHOG00000012012	Others	NA
+Choloepus_hoffmanni	KDM1A	ENSCHOG00000012040	Lysine demethylase	NA
+Choloepus_hoffmanni	ERBB4	ENSCHOG00000012042	Erbb2	NA
+Choloepus_hoffmanni	CNOT11	ENSCHOG00000012050	CCR4-NOT	NA
+Choloepus_hoffmanni	PPID	ENSCHOG00000012069	Others	NA
+Choloepus_hoffmanni	ITGB3BP	ENSCHOG00000012178	Others	NA
+Choloepus_hoffmanni	EPC2	ENSCHOG00000012187	Others	NA
+Choloepus_hoffmanni	KDM5B	ENSCHOG00000012197	Lysine demethylase	NA
+Choloepus_hoffmanni	HAT1	ENSCHOG00000012198	Others	NA
+Choloepus_hoffmanni	TRIM39	ENSCHOG00000012209	Tripartite motif	NA
+Choloepus_hoffmanni	ILK	ENSCHOG00000012216	Others	NA
+Choloepus_hoffmanni	ZNF451	ENSCHOG00000012262	Zinc finger	NA
+Choloepus_hoffmanni	CBL	ENSCHOG00000012308	Others	NA
+Choloepus_hoffmanni	FGF1	ENSCHOG00000012385	FGF	NA
+Choloepus_hoffmanni	PARP9	ENSCHOG00000012399	PARP	NA
+Choloepus_hoffmanni	BCL9	ENSCHOG00000012427	BCL	NA
+Choloepus_hoffmanni		ENSCHOG00000012436	SET	NA
+Choloepus_hoffmanni	RFXAP	ENSCHOG00000012518	Others	NA
+Choloepus_hoffmanni	SUV39H2	ENSCHOG00000012519	Others	NA
+Choloepus_hoffmanni	PID1	ENSCHOG00000012524	Others	NA
+Choloepus_hoffmanni	TAF6L	ENSCHOG00000012540	TATA-box	NA
+Choloepus_hoffmanni	TLE4	ENSCHOG00000012613	Transducin	NA
+Choloepus_hoffmanni	SMYD2	ENSCHOG00000012618	SMYD	NA
+Choloepus_hoffmanni	ASH2L	ENSCHOG00000012619	Others	NA
+Choloepus_hoffmanni	CHD6	ENSCHOG00000012647	CHD	NA
+Choloepus_hoffmanni	TADA1	ENSCHOG00000012658	Transcriptional adaptor	NA
+Choloepus_hoffmanni	TRIM37	ENSCHOG00000012665	Tripartite motif	NA
+Choloepus_hoffmanni	TRAK2	ENSCHOG00000012666	Others	NA
+Choloepus_hoffmanni	NSMCE3	ENSCHOG00000012670	MAGE	NA
+Choloepus_hoffmanni	CECR2	ENSCHOG00000012674	Other_CRF	NA
+Choloepus_hoffmanni	RNF14	ENSCHOG00000012691	Ring finger protein	NA
+Choloepus_hoffmanni	PHF8	ENSCHOG00000012729	PHF	NA
+Choloepus_hoffmanni	DHX9	ENSCHOG00000012736	RNA helicase	NA
+Choloepus_hoffmanni		ENSCHOG00000012745	Others	NA
+Choloepus_hoffmanni	MTOR	ENSCHOG00000012750	Others	NA
+Choloepus_hoffmanni	EPC1	ENSCHOG00000012768	Others	NA
+Choloepus_hoffmanni	CHD1L	ENSCHOG00000012769	CHD	NA
+Choloepus_hoffmanni	LRIF1	ENSCHOG00000012776	Others	NA
+Choloepus_hoffmanni	FYN	ENSCHOG00000012780	Others	NA
+Choloepus_hoffmanni	ERN1	ENSCHOG00000012801	Others	NA
+Choloepus_hoffmanni	TDRD3	ENSCHOG00000012825	Others	NA
+Choloepus_hoffmanni	RBFOX1	ENSCHOG00000012843	Others	NA
+Choloepus_hoffmanni	GSK3B	ENSCHOG00000012869	Others	NA
+Choloepus_hoffmanni	BCL10	ENSCHOG00000012878	BCL	NA
+Choloepus_hoffmanni	PHF12	ENSCHOG00000012909	PHF	NA
+Choloepus_hoffmanni	BRDT	ENSCHOG00000012941	Bromodomain	NA
+Choloepus_hoffmanni	CTNND2	ENSCHOG00000012953	Casein	NA
+Choloepus_hoffmanni	TRIM32	ENSCHOG00000012959	Tripartite motif	NA
+Choloepus_hoffmanni	TES	ENSCHOG00000013002	LIM	NA
+Choloepus_hoffmanni	EZH2	ENSCHOG00000013009	Others	NA
+Choloepus_hoffmanni	STK3	ENSCHOG00000013031	Others	NA
+Choloepus_hoffmanni	H1-3	ENSCHOG00000013041	Histone cluster 1 H1	NA
+Choloepus_hoffmanni	MED10	ENSCHOG00000013070	Mediator complex	NA
+Choloepus_hoffmanni	RNF111	ENSCHOG00000013087	Ring finger protein	NA
+Choloepus_hoffmanni	HDAC2	ENSCHOG00000013160	Histone deacetylase	NA
+Choloepus_hoffmanni	CTTN	ENSCHOG00000013181	Others	NA
+Choloepus_hoffmanni	SSBP3	ENSCHOG00000013186	Others	NA
+Choloepus_hoffmanni	POLR3F	ENSCHOG00000013268	POLR	NA
+Choloepus_hoffmanni	CHUK	ENSCHOG00000013297	Others	NA
+Choloepus_hoffmanni	MTF2	ENSCHOG00000013356	Others	NA
+Choloepus_hoffmanni	COPS2	ENSCHOG00000013375	Others	NA
+Choloepus_hoffmanni	XRN2	ENSCHOG00000013404	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000013417	Cyclin	NA
+Choloepus_hoffmanni		ENSCHOG00000013420	Others	NA
+Choloepus_hoffmanni	TAF1D	ENSCHOG00000013436	TATA-box	NA
+Choloepus_hoffmanni		ENSCHOG00000013442	Others	NA
+Choloepus_hoffmanni	DNAJA3	ENSCHOG00000013474	Others	NA
+Choloepus_hoffmanni	TPR	ENSCHOG00000013487	Others	NA
+Choloepus_hoffmanni	MALT1	ENSCHOG00000013488	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000013553	Others	NA
+Choloepus_hoffmanni	TRAF5	ENSCHOG00000013598	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000013640	Others	NA
+Choloepus_hoffmanni	RAP2B	ENSCHOG00000013649	Others	NA
+Choloepus_hoffmanni	RBL2	ENSCHOG00000013655	Other_Co-activator/repressors	NA
+Choloepus_hoffmanni	ICE2	ENSCHOG00000013676	GTF	NA
+Choloepus_hoffmanni	BTN1A1	ENSCHOG00000013706	Others	NA
+Choloepus_hoffmanni	CRK	ENSCHOG00000013707	Others	NA
+Choloepus_hoffmanni	ARHGAP5	ENSCHOG00000013709	Others	NA
+Choloepus_hoffmanni	HELLS	ENSCHOG00000013742	Others	NA
+Choloepus_hoffmanni	CTH	ENSCHOG00000013743	Others	NA
+Choloepus_hoffmanni	MLLT3	ENSCHOG00000013782	GTF	NA
+Choloepus_hoffmanni	SFMBT1	ENSCHOG00000013789	Others	NA
+Choloepus_hoffmanni	DNTTIP2	ENSCHOG00000013790	Others	NA
+Choloepus_hoffmanni	TYW5	ENSCHOG00000013810	Others	NA
+Choloepus_hoffmanni		ENSCHOG00000013831	Others	NA
+Choloepus_hoffmanni	MED6	ENSCHOG00000013840	Mediator complex	NA
+Choloepus_hoffmanni	CBX3	ENSCHOG00000013843	Chromobox	NA
+Choloepus_hoffmanni	JADE1	ENSCHOG00000013893	Others	NA
+Choloepus_hoffmanni	ZNF638	ENSCHOG00000013922	Zinc finger	NA
+Choloepus_hoffmanni	MBD3L1	ENSCHOG00000013951	MBD	NA
+Choloepus_hoffmanni	RNF10	ENSCHOG00000013963	Ring finger protein	NA
+Choloepus_hoffmanni	SMARCAD1	ENSCHOG00000013964	SWI/SNF	NA
+Choloepus_hoffmanni	JMJD6	ENSCHOG00000014017	Others	NA

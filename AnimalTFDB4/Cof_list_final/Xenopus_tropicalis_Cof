@@ -1,0 +1,811 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Xenopus_tropicalis	eaf2	ENSXETG00000000002	Others	100216163
+Xenopus_tropicalis	mdm4	ENSXETG00000000035	Others	100216294
+Xenopus_tropicalis	actn4	ENSXETG00000000040	Actin	448522
+Xenopus_tropicalis	dcaf1	ENSXETG00000000071	Others	100495749
+Xenopus_tropicalis	eya4	ENSXETG00000000110	EYA	100487615
+Xenopus_tropicalis	tbpl1	ENSXETG00000000116	TATA-box	448323
+Xenopus_tropicalis	sgk1	ENSXETG00000000124	Others	594981
+Xenopus_tropicalis	rbfox2	ENSXETG00000000231	Others	493447
+Xenopus_tropicalis	hmox1	ENSXETG00000000251	Others	100488303
+Xenopus_tropicalis	pak6	ENSXETG00000000279	Others	100495355
+Xenopus_tropicalis	med25	ENSXETG00000000296	Mediator complex	100124831
+Xenopus_tropicalis	rbl2	ENSXETG00000000346	Other_Co-activator/repressors	100490373
+Xenopus_tropicalis	chd9	ENSXETG00000000349	CHD	733830
+Xenopus_tropicalis	lin54	ENSXETG00000000369	Others	780045
+Xenopus_tropicalis	cnot6l	ENSXETG00000000372	CCR4-NOT	100145505
+Xenopus_tropicalis	nelfb	ENSXETG00000000383	GTF	496936
+Xenopus_tropicalis	erbb4	ENSXETG00000000413	Erbb2	100493234
+Xenopus_tropicalis	erbin	ENSXETG00000000448	Erbb2	734027
+Xenopus_tropicalis	cdk7	ENSXETG00000000481	Cyclin	549973
+Xenopus_tropicalis	ccnt2	ENSXETG00000000488	Cyclin	100488125
+Xenopus_tropicalis	jmy	ENSXETG00000000520	Others	100127594
+Xenopus_tropicalis	tada1	ENSXETG00000000526	Transcriptional adaptor	448637
+Xenopus_tropicalis	kdm4c	ENSXETG00000000532	Lysine demethylase	100127653
+Xenopus_tropicalis	med4	ENSXETG00000000549	Mediator complex	496653
+Xenopus_tropicalis	jak2	ENSXETG00000000586	Others	100036599
+Xenopus_tropicalis	cnot7	ENSXETG00000000701	CCR4-NOT	100124970
+Xenopus_tropicalis	notch1	ENSXETG00000000757	Notch	100037842
+Xenopus_tropicalis	syk	ENSXETG00000000807	Others	100486846
+Xenopus_tropicalis	ctdp1	ENSXETG00000000856	Others	549776
+Xenopus_tropicalis	cecr2	ENSXETG00000000873	Other_CRF	100486642
+Xenopus_tropicalis	or2t29	ENSXETG00000000923	FAM	100145452
+Xenopus_tropicalis	rbbp5	ENSXETG00000000933	RBBP	595072
+Xenopus_tropicalis	dcaf6	ENSXETG00000000972	Others	733780
+Xenopus_tropicalis	rbbp4	ENSXETG00000000984	RBBP	496866
+Xenopus_tropicalis	psen1	ENSXETG00000001008	Others	394924
+Xenopus_tropicalis	ccna2	ENSXETG00000001016	Cyclin	448454
+Xenopus_tropicalis	phf21a	ENSXETG00000001031	PHF	100496525
+Xenopus_tropicalis	dmap1	ENSXETG00000001057	DNA_methylase	448027
+Xenopus_tropicalis	ufl1	ENSXETG00000001064	Others	100486377
+Xenopus_tropicalis	mak	ENSXETG00000001069	Others	780268
+Xenopus_tropicalis	txlng	ENSXETG00000001109	Others	100135219
+Xenopus_tropicalis	trim37	ENSXETG00000001118	Tripartite motif	100036717
+Xenopus_tropicalis	dnmt3a	ENSXETG00000001232	DNA_methylase	100496503
+Xenopus_tropicalis	h2az2	ENSXETG00000001258	Others	548932
+Xenopus_tropicalis	mbtd1	ENSXETG00000001291	Others	448411
+Xenopus_tropicalis	crtc3	ENSXETG00000001294	CREB	496857
+Xenopus_tropicalis	supt3h	ENSXETG00000001404	SUPT	394640
+Xenopus_tropicalis	mdm2	ENSXETG00000001434	Others	394853
+Xenopus_tropicalis	vhl	ENSXETG00000001448	Others	549121
+Xenopus_tropicalis	abl1	ENSXETG00000001464	Others	100490771
+Xenopus_tropicalis	med27	ENSXETG00000001486	Mediator complex	101731143
+Xenopus_tropicalis	med7	ENSXETG00000001505	Mediator complex	549633
+Xenopus_tropicalis	tbl1xr1	ENSXETG00000001521	Transducin	550028
+Xenopus_tropicalis	bptf	ENSXETG00000001592	Bromodomain	100494204
+Xenopus_tropicalis	lpin2	ENSXETG00000001617	LPIN	779972
+Xenopus_tropicalis	hipk1	ENSXETG00000001698	HIPK	734033
+Xenopus_tropicalis	ldb1	ENSXETG00000001714	LIM	407886
+Xenopus_tropicalis	supt20h	ENSXETG00000001818	SUPT	100485496
+Xenopus_tropicalis	rfxap	ENSXETG00000001824	Others	100379771
+Xenopus_tropicalis	sfmbt2	ENSXETG00000001863	Others	100492640
+Xenopus_tropicalis	taf3	ENSXETG00000001869	TATA-box	447984
+Xenopus_tropicalis	actr6	ENSXETG00000001885	ACTR	549226
+Xenopus_tropicalis	xnf7	ENSXETG00000001933	Tripartite motif	100327256
+Xenopus_tropicalis	smyd1	ENSXETG00000001940	SMYD	100145429
+Xenopus_tropicalis	kat8	ENSXETG00000001943	Lysine acetyltransferase	548988
+Xenopus_tropicalis	taf4	ENSXETG00000001996	TATA-box	779738
+Xenopus_tropicalis	rbm15	ENSXETG00000002029	RNA binding protein	100490588
+Xenopus_tropicalis	ruvbl1	ENSXETG00000002064	Other_CRF	733772
+Xenopus_tropicalis	med6	ENSXETG00000002222	Mediator complex	549046
+Xenopus_tropicalis	commd1	ENSXETG00000002235	Others	779529
+Xenopus_tropicalis	sirt5	ENSXETG00000002270	Sirtuin	100170199
+Xenopus_tropicalis	cnnm1	ENSXETG00000002278	Others	733504
+Xenopus_tropicalis	kat2a	ENSXETG00000002303	Lysine acetyltransferase	100492735
+Xenopus_tropicalis	tcerg1	ENSXETG00000002324	TEF	100498472
+Xenopus_tropicalis	nelfa	ENSXETG00000002392	GTF	100135733
+Xenopus_tropicalis	sirt2	ENSXETG00000002409	Sirtuin	100489469
+Xenopus_tropicalis	ddx39b	ENSXETG00000002498	RNA helicase	394669
+Xenopus_tropicalis	csnk2a1	ENSXETG00000002555	Casein	100498392
+Xenopus_tropicalis	notch3	ENSXETG00000002570	Notch	100494244
+Xenopus_tropicalis	fhl2	ENSXETG00000002577	FHL	100145283
+Xenopus_tropicalis	egln2	ENSXETG00000002600	Others	100487735
+Xenopus_tropicalis	zmym2	ENSXETG00000002643	Zinc finger	100144668
+Xenopus_tropicalis	kdm7a	ENSXETG00000002669	Lysine demethylase	780121
+Xenopus_tropicalis	hdac3	ENSXETG00000002708	Histone deacetylase	549637
+Xenopus_tropicalis	prmt1	ENSXETG00000002877	Arginine methyltransferase	448086
+Xenopus_tropicalis	supt5h	ENSXETG00000002888	SUPT	100170547
+Xenopus_tropicalis	paf1	ENSXETG00000002902	Others	394974
+Xenopus_tropicalis	samd4b	ENSXETG00000002903	Others	100494187
+Xenopus_tropicalis	brms1l	ENSXETG00000002912	Other_CRF	100124958
+Xenopus_tropicalis	eapp	ENSXETG00000002919	Others	493306
+Xenopus_tropicalis	sap130	ENSXETG00000002957	SAP	100127690
+Xenopus_tropicalis	cbx2	ENSXETG00000003005	Chromobox	100491304
+Xenopus_tropicalis	bcl10	ENSXETG00000003096	BCL	548494
+Xenopus_tropicalis	cdk1	ENSXETG00000003123	Cyclin	394503
+Xenopus_tropicalis	rnf168	ENSXETG00000003128	Ring finger protein	100144920
+Xenopus_tropicalis	taf2	ENSXETG00000003130	TATA-box	100145691
+Xenopus_tropicalis	cnot3	ENSXETG00000003166	CCR4-NOT	100158546
+Xenopus_tropicalis	cdk5r1	ENSXETG00000003191	Cyclin	100497533
+Xenopus_tropicalis	med21	ENSXETG00000003233	Mediator complex	100302398
+Xenopus_tropicalis	znf451	ENSXETG00000003247	Zinc finger	100485490
+Xenopus_tropicalis	phf21b	ENSXETG00000003257	PHF	100495715
+Xenopus_tropicalis	psip1	ENSXETG00000003303	Others	100145476
+Xenopus_tropicalis	prrg3	ENSXETG00000003365	Histone deacetylase	100487783
+Xenopus_tropicalis	pih1d1	ENSXETG00000003401	Other_CRF	100135181
+Xenopus_tropicalis	mms19	ENSXETG00000003439	Others	779833
+Xenopus_tropicalis	ankrd2	ENSXETG00000003442	Ankyrin repeat	100037897
+Xenopus_tropicalis	eya2	ENSXETG00000003474	EYA	100037919
+Xenopus_tropicalis	kdm4a	ENSXETG00000003483	Lysine demethylase	100135350
+Xenopus_tropicalis	auts2	ENSXETG00000003588	Others	100498056
+Xenopus_tropicalis	myo6	ENSXETG00000003610	Others	493193
+Xenopus_tropicalis	kdm5a	ENSXETG00000003642	Lysine demethylase	100492348
+Xenopus_tropicalis	kdm1a	ENSXETG00000003698	Lysine demethylase	100216250
+Xenopus_tropicalis	ccnd1	ENSXETG00000003800	Cyclin	448045
+Xenopus_tropicalis	thrap3	ENSXETG00000003925	Thyroid hormone receptor	394509
+Xenopus_tropicalis	edf1	ENSXETG00000003971	Others	549440
+Xenopus_tropicalis	pawr	ENSXETG00000004074	Others	100486624
+Xenopus_tropicalis	orc2	ENSXETG00000004151	Others	780267
+Xenopus_tropicalis	kcnip3	ENSXETG00000004341	Others	100494097
+Xenopus_tropicalis	adora2a	ENSXETG00000004363	Others	100491706
+Xenopus_tropicalis	ago1	ENSXETG00000004364	Others	100302589
+Xenopus_tropicalis	nab2	ENSXETG00000004428	Others	100145178
+Xenopus_tropicalis	csrp3	ENSXETG00000004435	Others	448578
+Xenopus_tropicalis	atrx	ENSXETG00000004499	Others	100380046
+Xenopus_tropicalis	cdc73	ENSXETG00000004533	Others	548785
+Xenopus_tropicalis	wac	ENSXETG00000004545	WW	496589
+Xenopus_tropicalis	xrcc6	ENSXETG00000004548	Others	448213
+Xenopus_tropicalis	tnni2	ENSXETG00000004621	Others	496523
+Xenopus_tropicalis	lrrc14	ENSXETG00000004669	Others	100489989
+Xenopus_tropicalis	pagr1	ENSXETG00000004672	Others	100124936
+Xenopus_tropicalis	srfbp1	ENSXETG00000004681	Others	496528
+Xenopus_tropicalis	wnt4	ENSXETG00000004742	Others	100491282
+Xenopus_tropicalis	nipbl	ENSXETG00000004791	Others	100038237
+Xenopus_tropicalis	kdm6a	ENSXETG00000004822	Lysine demethylase	100170558
+Xenopus_tropicalis	cask	ENSXETG00000004852	CAMK	548958
+Xenopus_tropicalis	efcab6	ENSXETG00000004863	Others	100158626
+Xenopus_tropicalis	hdac4	ENSXETG00000004880	Histone deacetylase	100489340
+Xenopus_tropicalis	nup98	ENSXETG00000004904	Others	100145055
+Xenopus_tropicalis	dgkq	ENSXETG00000004913	Others	733958
+Xenopus_tropicalis	pcgf3	ENSXETG00000004916	PCGF	549601
+Xenopus_tropicalis	med22	ENSXETG00000005010	Mediator complex	100145716
+Xenopus_tropicalis	kdm4b	ENSXETG00000005352	Lysine demethylase	394661
+Xenopus_tropicalis	cnot10	ENSXETG00000005363	CCR4-NOT	549027
+Xenopus_tropicalis	sirt7	ENSXETG00000005388	Sirtuin	548532
+Xenopus_tropicalis	alyref	ENSXETG00000005391	Others	549781
+Xenopus_tropicalis	suv39h2	ENSXETG00000005401	Others	549262
+Xenopus_tropicalis	rap2c	ENSXETG00000005415	Others	549652
+Xenopus_tropicalis	tcerg1l	ENSXETG00000005440	TEF	NA
+Xenopus_tropicalis	rrn3	ENSXETG00000005536	Others	100497648
+Xenopus_tropicalis	gtf2f1	ENSXETG00000005579	GTF	100124929
+Xenopus_tropicalis	tgs1	ENSXETG00000005648	Others	100488247
+Xenopus_tropicalis	lyn	ENSXETG00000005650	Others	549989
+Xenopus_tropicalis	sdr16c5	ENSXETG00000005655	Others	448386
+Xenopus_tropicalis	rasd1	ENSXETG00000005738	Others	779862
+Xenopus_tropicalis	flii	ENSXETG00000005767	Others	548565
+Xenopus_tropicalis	kmt5a	ENSXETG00000005820	Lysine methyltransferase	780276
+Xenopus_tropicalis	pin1	ENSXETG00000005855	Others	493472
+Xenopus_tropicalis	rhoa	ENSXETG00000005934	Others	448080
+Xenopus_tropicalis	prdx5	ENSXETG00000006009	Others	100127718
+Xenopus_tropicalis	park7	ENSXETG00000006018	Others	548568
+Xenopus_tropicalis	gtf2b	ENSXETG00000006091	GTF	549031
+Xenopus_tropicalis	ascc1	ENSXETG00000006149	ASCC	100124965
+Xenopus_tropicalis	FRK	ENSXETG00000006166	Others	100488362
+Xenopus_tropicalis	pex14	ENSXETG00000006309	Others	100489925
+Xenopus_tropicalis	arvcf	ENSXETG00000006316	Casein	100038219
+Xenopus_tropicalis	dapk3	ENSXETG00000006396	Others	549766
+Xenopus_tropicalis	abra	ENSXETG00000006498	Actin	100127806
+Xenopus_tropicalis	tbl2	ENSXETG00000006499	Nuclear receptor coactivator	100127645
+Xenopus_tropicalis	grhpr.2	ENSXETG00000006536	Others	493279
+Xenopus_tropicalis	med13l	ENSXETG00000006581	Mediator complex	100491622
+Xenopus_tropicalis	paxip1	ENSXETG00000006582	Others	100487292
+Xenopus_tropicalis	prmt7	ENSXETG00000006676	Arginine methyltransferase	550075
+Xenopus_tropicalis	kdm3b	ENSXETG00000006700	Lysine demethylase	100135177
+Xenopus_tropicalis	wdr77	ENSXETG00000006758	WD	100144971
+Xenopus_tropicalis	dab2	ENSXETG00000006761	Others	100485591
+Xenopus_tropicalis	yaf2	ENSXETG00000006795	Others	394492
+Xenopus_tropicalis	phf5a	ENSXETG00000006893	PHF	100170460
+Xenopus_tropicalis	ddx17	ENSXETG00000006900	RNA helicase	549535
+Xenopus_tropicalis	tab1	ENSXETG00000006916	Others	548949
+Xenopus_tropicalis	ss18	ENSXETG00000006922	SS18	780399
+Xenopus_tropicalis	camk4	ENSXETG00000006926	CAMK	100490912
+Xenopus_tropicalis	kctd1	ENSXETG00000006930	Others	100486970
+Xenopus_tropicalis	jup	ENSXETG00000006970	Others	395011
+Xenopus_tropicalis	taf1b	ENSXETG00000007011	TATA-box	100379921
+Xenopus_tropicalis	maml2	ENSXETG00000007075	MAML	NA
+Xenopus_tropicalis	kdm5c	ENSXETG00000007178	Lysine demethylase	780176
+Xenopus_tropicalis	nsd1	ENSXETG00000007233	Nuclear receptor coactivator	100145675
+Xenopus_tropicalis	actl6a	ENSXETG00000007260	Actin	394962
+Xenopus_tropicalis	gtf2h4	ENSXETG00000007263	GTF	101731871
+Xenopus_tropicalis	grip1	ENSXETG00000007324	Others	100485584
+Xenopus_tropicalis	hdac2	ENSXETG00000007339	Histone deacetylase	447995
+Xenopus_tropicalis	XB5895313	ENSXETG00000007381	Tripartite motif	100490328
+Xenopus_tropicalis	bmi1	ENSXETG00000007387	Others	548749
+Xenopus_tropicalis	rbl1	ENSXETG00000007414	Other_Co-activator/repressors	100216140
+Xenopus_tropicalis	rbm39	ENSXETG00000007434	RNA binding protein	549542
+Xenopus_tropicalis	smurf1	ENSXETG00000007498	Others	100491582
+Xenopus_tropicalis	hat1	ENSXETG00000007535	Others	100145138
+Xenopus_tropicalis	MSL3	ENSXETG00000007544	Others	NA
+Xenopus_tropicalis	traf6	ENSXETG00000007549	Others	493524
+Xenopus_tropicalis	cavin1	ENSXETG00000007639	Others	448589
+Xenopus_tropicalis	jmjd1c	ENSXETG00000007684	Other_CRF	100487525
+Xenopus_tropicalis	fhod1	ENSXETG00000007686	Others	100135174
+Xenopus_tropicalis	nrbf2	ENSXETG00000007693	Nuclear receptor coactivator	548937
+Xenopus_tropicalis	gnl3l	ENSXETG00000007700	Others	100489738
+Xenopus_tropicalis	dhx36	ENSXETG00000007768	RNA helicase	100495115
+Xenopus_tropicalis	loxl2	ENSXETG00000007773	Others	100216062
+Xenopus_tropicalis	skor1	ENSXETG00000007811	SKI	100491438
+Xenopus_tropicalis	anp32a	ENSXETG00000007821	ANP	549500
+Xenopus_tropicalis	morf4l1	ENSXETG00000007837	Other_CRF	496573
+Xenopus_tropicalis	blm	ENSXETG00000007847	Others	100124311
+Xenopus_tropicalis	calr	ENSXETG00000007937	Others	407962
+Xenopus_tropicalis	lbh	ENSXETG00000007948	Others	NA
+Xenopus_tropicalis	chrac1	ENSXETG00000007962	Other_CRF	548721
+Xenopus_tropicalis	kdm5b	ENSXETG00000007973	Lysine demethylase	100488170
+Xenopus_tropicalis	parp9	ENSXETG00000007985	PARP	100145202
+Xenopus_tropicalis	esf1	ENSXETG00000008079	Others	100125182
+Xenopus_tropicalis	tcea1	ENSXETG00000008099	TEF	394482
+Xenopus_tropicalis	tnks2	ENSXETG00000008155	Others	100497226
+Xenopus_tropicalis	elp4	ENSXETG00000008176	ELP	100485395
+Xenopus_tropicalis	pcbd1	ENSXETG00000008191	Others	496425
+Xenopus_tropicalis	anxa4	ENSXETG00000008206	Others	548801
+Xenopus_tropicalis	med23	ENSXETG00000008243	Mediator complex	100496574
+Xenopus_tropicalis	per2	ENSXETG00000008256	Others	100151702
+Xenopus_tropicalis	hint1	ENSXETG00000008278	Others	548919
+Xenopus_tropicalis	rnf141	ENSXETG00000008400	Ring finger protein	548418
+Xenopus_tropicalis	npm1	ENSXETG00000008403	Nucleoplasmin	394478
+Xenopus_tropicalis	cnot8	ENSXETG00000008409	CCR4-NOT	549332
+Xenopus_tropicalis	sf1	ENSXETG00000008434	Others	496804
+Xenopus_tropicalis	dpy30	ENSXETG00000008549	Others	496426
+Xenopus_tropicalis	phf10	ENSXETG00000008552	PHF	595031
+Xenopus_tropicalis	tbp	ENSXETG00000008556	TATA-box	549093
+Xenopus_tropicalis	safb	ENSXETG00000008755	Others	NA
+Xenopus_tropicalis	cops2	ENSXETG00000008784	Others	548537
+Xenopus_tropicalis	pdlim1	ENSXETG00000008826	Others	394527
+Xenopus_tropicalis	hells	ENSXETG00000008830	Others	100216265
+Xenopus_tropicalis	ccar1	ENSXETG00000008844	Others	100216237
+Xenopus_tropicalis	aatf	ENSXETG00000008959	Others	549062
+Xenopus_tropicalis	ash2l	ENSXETG00000009007	Others	100492052
+Xenopus_tropicalis	heatr1	ENSXETG00000009013	Others	NA
+Xenopus_tropicalis	aurkb	ENSXETG00000009097	Others	549613
+Xenopus_tropicalis	dhx33	ENSXETG00000009173	RNA helicase	447985
+Xenopus_tropicalis	znf593	ENSXETG00000009189	Zinc finger	549304
+Xenopus_tropicalis	skil	ENSXETG00000009208	SKI	100492636
+Xenopus_tropicalis	trim16	ENSXETG00000009231	Tripartite motif	100490556
+Xenopus_tropicalis	trim29	ENSXETG00000009248	Tripartite motif	733885
+Xenopus_tropicalis	lrpprc	ENSXETG00000009296	Others	734062
+Xenopus_tropicalis	sfswap	ENSXETG00000009350	Others	100127199
+Xenopus_tropicalis	smarca4	ENSXETG00000009355	SWI/SNF	496545
+Xenopus_tropicalis	carm1	ENSXETG00000009357	Others	100170180
+Xenopus_tropicalis	fbxw7	ENSXETG00000009388	Others	100145670
+Xenopus_tropicalis	cdk2	ENSXETG00000009444	Cyclin	493498
+Xenopus_tropicalis	pa2g4	ENSXETG00000009471	Others	493284
+Xenopus_tropicalis	wdr61	ENSXETG00000009511	WD	394466
+Xenopus_tropicalis	elp1	ENSXETG00000009534	ELP	100170442
+Xenopus_tropicalis	sap18	ENSXETG00000009598	SAP	548920
+Xenopus_tropicalis	arrb1	ENSXETG00000009605	Others	100486349
+Xenopus_tropicalis	nup62	ENSXETG00000009637	Others	394934
+Xenopus_tropicalis	ezr	ENSXETG00000009776	Others	595017
+Xenopus_tropicalis	ccnt1	ENSXETG00000009784	Cyclin	100170179
+Xenopus_tropicalis	cdk8	ENSXETG00000009787	Cyclin	394856
+Xenopus_tropicalis	alpk3	ENSXETG00000009822	Others	100496942
+Xenopus_tropicalis	gtf2e1	ENSXETG00000009918	GTF	448491
+Xenopus_tropicalis	prmt6	ENSXETG00000009939	Arginine methyltransferase	100145123
+Xenopus_tropicalis	birc5l	ENSXETG00000009983	Others	733575
+Xenopus_tropicalis	kmt5b	ENSXETG00000010025	Lysine methyltransferase	100038141
+Xenopus_tropicalis	gtf2a1	ENSXETG00000010036	GTF	549662
+Xenopus_tropicalis	chchd2	ENSXETG00000010062	Coiled-coil	493261
+Xenopus_tropicalis	kmt2a	ENSXETG00000010087	Lysine methyltransferase	100135006
+Xenopus_tropicalis	cd3g	ENSXETG00000010117	Others	100216101
+Xenopus_tropicalis	taf9b	ENSXETG00000010138	TATA-box	100271762
+Xenopus_tropicalis	anp32b	ENSXETG00000010183	ANP	594955
+Xenopus_tropicalis	tle4	ENSXETG00000010266	Transducin	100101787
+Xenopus_tropicalis	XB5909790	ENSXETG00000010267	Others	100170420
+Xenopus_tropicalis	taf6l	ENSXETG00000010304	TATA-box	100486266
+Xenopus_tropicalis	crebbp	ENSXETG00000010317	CREB	NA
+Xenopus_tropicalis	baz1b	ENSXETG00000010334	Bromodomain	100038181
+Xenopus_tropicalis	ern2	ENSXETG00000010337	Others	779732
+Xenopus_tropicalis	plk1	ENSXETG00000010344	Others	407937
+Xenopus_tropicalis	eed	ENSXETG00000010440	Others	550079
+Xenopus_tropicalis	npm2	ENSXETG00000010542	Nucleoplasmin	549692
+Xenopus_tropicalis	tab3	ENSXETG00000010567	Others	100495158
+Xenopus_tropicalis	rnf8	ENSXETG00000010581	Ring finger protein	100216121
+Xenopus_tropicalis	trip4	ENSXETG00000010649	Thyroid hormone receptor	100145534
+Xenopus_tropicalis	hdac7	ENSXETG00000010661	Histone deacetylase	100158627
+Xenopus_tropicalis	brip1	ENSXETG00000010720	Others	100489959
+Xenopus_tropicalis	med13	ENSXETG00000010728	Mediator complex	100490132
+Xenopus_tropicalis	sltm	ENSXETG00000010840	Others	100124884
+Xenopus_tropicalis	rnf111	ENSXETG00000010842	Ring finger protein	780266
+Xenopus_tropicalis	ehmt2	ENSXETG00000010928	Histone lysine methyltransferase	100484992
+Xenopus_tropicalis	ppie	ENSXETG00000010944	Others	100495035
+Xenopus_tropicalis	mrtfb	ENSXETG00000010993	Others	780107
+Xenopus_tropicalis	myocd	ENSXETG00000011035	Others	100498057
+Xenopus_tropicalis	txnip	ENSXETG00000011050	Others	100492126
+Xenopus_tropicalis	tob1	ENSXETG00000011060	Others	549365
+Xenopus_tropicalis	irf2bpl	ENSXETG00000011067	Others	100170574
+Xenopus_tropicalis	snw1	ENSXETG00000011087	Others	549899
+Xenopus_tropicalis	kmt2d	ENSXETG00000011176	Lysine methyltransferase	100494109
+Xenopus_tropicalis	cth	ENSXETG00000011183	Others	394634
+Xenopus_tropicalis	crtc1	ENSXETG00000011199	CREB	100036611
+Xenopus_tropicalis	maml1	ENSXETG00000011243	MAML	100489486
+Xenopus_tropicalis	cnot2	ENSXETG00000011385	CCR4-NOT	100127821
+Xenopus_tropicalis	hnrnpu	ENSXETG00000011386	HNRNP	100038222
+Xenopus_tropicalis	taf5	ENSXETG00000011394	TATA-box	100216139
+Xenopus_tropicalis	sfr1	ENSXETG00000011407	Others	100380037
+Xenopus_tropicalis	setd3	ENSXETG00000011436	SET	549331
+Xenopus_tropicalis	ccnk	ENSXETG00000011438	Cyclin	779776
+Xenopus_tropicalis	slc19a1	ENSXETG00000011482	SLC	100487033
+Xenopus_tropicalis	mdfic	ENSXETG00000011565	Others	100488879
+Xenopus_tropicalis	trim24	ENSXETG00000011567	Tripartite motif	100158542
+Xenopus_tropicalis	epc1	ENSXETG00000011660	Others	100036620
+Xenopus_tropicalis	ccnh	ENSXETG00000011718	Cyclin	549010
+Xenopus_tropicalis	hnrnpk	ENSXETG00000011722	HNRNP	394952
+Xenopus_tropicalis	cep290	ENSXETG00000011742	Others	NA
+Xenopus_tropicalis	phip	ENSXETG00000011747	Others	100158567
+Xenopus_tropicalis	eloc	ENSXETG00000011828	Others	549174
+Xenopus_tropicalis	taf8	ENSXETG00000011845	TATA-box	549471
+Xenopus_tropicalis	med20	ENSXETG00000011847	Mediator complex	100127863
+Xenopus_tropicalis	eno1	ENSXETG00000011897	Others	394749
+Xenopus_tropicalis	rnf20	ENSXETG00000011951	Ring finger protein	779468
+Xenopus_tropicalis	dact1	ENSXETG00000011962	Others	493325
+Xenopus_tropicalis	prpf6	ENSXETG00000012054	Others	595030
+Xenopus_tropicalis	tnip2	ENSXETG00000012114	Others	100379985
+Xenopus_tropicalis	actr5	ENSXETG00000012141	ACTR	100144650
+Xenopus_tropicalis	axin1	ENSXETG00000012143	Others	100498631
+Xenopus_tropicalis	cbx3	ENSXETG00000012175	Chromobox	100038121
+Xenopus_tropicalis	btaf1	ENSXETG00000012188	Others	100038214
+Xenopus_tropicalis	rnf10	ENSXETG00000012226	Ring finger protein	395022
+Xenopus_tropicalis	slc26a3.1	ENSXETG00000012233	SLC	101731072
+Xenopus_tropicalis	baz1a	ENSXETG00000012293	Bromodomain	100497377
+Xenopus_tropicalis	snx6	ENSXETG00000012302	Others	394595
+Xenopus_tropicalis	depdc1	ENSXETG00000012376	Others	549568
+Xenopus_tropicalis	polr2a	ENSXETG00000012465	POLR	NA
+Xenopus_tropicalis	puf60	ENSXETG00000012469	Others	100145091
+Xenopus_tropicalis	nlk	ENSXETG00000012503	Others	100144638
+Xenopus_tropicalis	dhx9	ENSXETG00000012515	RNA helicase	733723
+Xenopus_tropicalis	sap30bp	ENSXETG00000012553	SAP	100379701
+Xenopus_tropicalis	hnrnpd	ENSXETG00000012569	HNRNP	594903
+Xenopus_tropicalis	ddx5	ENSXETG00000012580	RNA helicase	394837
+Xenopus_tropicalis	pfdn5	ENSXETG00000012667	Others	548939
+Xenopus_tropicalis	XB1011895	ENSXETG00000012689	WW	100145151
+Xenopus_tropicalis	ppargc1b	ENSXETG00000012711	Others	100488947
+Xenopus_tropicalis	tdrd3	ENSXETG00000012815	Others	395019
+Xenopus_tropicalis	cbx8	ENSXETG00000012826	Chromobox	779897
+Xenopus_tropicalis	set	ENSXETG00000012863	SET	394638
+Xenopus_tropicalis	eya3	ENSXETG00000012888	EYA	100038206
+Xenopus_tropicalis	uri1	ENSXETG00000012924	Others	100127604
+Xenopus_tropicalis	ccne1	ENSXETG00000012929	Cyclin	549082
+Xenopus_tropicalis	pik3r2	ENSXETG00000012933	Others	100497001
+Xenopus_tropicalis	ssu72	ENSXETG00000012963	Others	549018
+Xenopus_tropicalis	scmh1	ENSXETG00000012966	Others	448264
+Xenopus_tropicalis	chd3	ENSXETG00000012991	CHD	100216299
+Xenopus_tropicalis	peli1	ENSXETG00000012997	Others	100125008
+Xenopus_tropicalis	chaf1b	ENSXETG00000013014	Others	100127620
+Xenopus_tropicalis	hspa8	ENSXETG00000013038	Heat shock protein	100496320
+Xenopus_tropicalis	brd4	ENSXETG00000013039	Bromodomain	100216259
+Xenopus_tropicalis	mad2l2	ENSXETG00000013095	Others	448122
+Xenopus_tropicalis	trip13	ENSXETG00000013105	Thyroid hormone receptor	394836
+Xenopus_tropicalis	cdk13	ENSXETG00000013107	Cyclin	100489599
+Xenopus_tropicalis	ccna1	ENSXETG00000013224	Cyclin	548993
+Xenopus_tropicalis	ell2	ENSXETG00000013296	GTF	100038075
+Xenopus_tropicalis	smarcd1	ENSXETG00000013357	SWI/SNF	448163
+Xenopus_tropicalis	rptor	ENSXETG00000013410	Others	100170605
+Xenopus_tropicalis	tcf20	ENSXETG00000013417	Others	100038081
+Xenopus_tropicalis	taf15	ENSXETG00000013477	TATA-box	448047
+Xenopus_tropicalis	sin3b	ENSXETG00000013501	Others	779742
+Xenopus_tropicalis	insr	ENSXETG00000013518	Others	100492718
+Xenopus_tropicalis	ddx20	ENSXETG00000013568	RNA helicase	100494897
+Xenopus_tropicalis	plk3	ENSXETG00000013590	Others	448451
+Xenopus_tropicalis	dot1l	ENSXETG00000013658	Others	100497594
+Xenopus_tropicalis	ctr9	ENSXETG00000013673	Others	448648
+Xenopus_tropicalis	csnk2a2	ENSXETG00000013728	Casein	493442
+Xenopus_tropicalis	setd6	ENSXETG00000013793	SET	100125156
+Xenopus_tropicalis	med24	ENSXETG00000013814	Mediator complex	100491557
+Xenopus_tropicalis	yeats2	ENSXETG00000013847	Others	100135359
+Xenopus_tropicalis	ctnnb1	ENSXETG00000013848	Casein	549712
+Xenopus_tropicalis	trak1	ENSXETG00000013857	Others	100135152
+Xenopus_tropicalis	tle1	ENSXETG00000013999	Transducin	100101799
+Xenopus_tropicalis	kat2b	ENSXETG00000014008	Lysine acetyltransferase	100488927
+Xenopus_tropicalis	sertad2	ENSXETG00000014022	Others	100491459
+Xenopus_tropicalis	vgll2	ENSXETG00000014041	Vestigial like	394785
+Xenopus_tropicalis	arhgap5	ENSXETG00000014123	Others	100499209
+Xenopus_tropicalis	strn3	ENSXETG00000014156	Others	NA
+Xenopus_tropicalis	dek	ENSXETG00000014181	Other_CRF	493252
+Xenopus_tropicalis	htatip2	ENSXETG00000014192	Others	448294
+Xenopus_tropicalis	hif1an	ENSXETG00000014204	Others	394511
+Xenopus_tropicalis	smarcd2	ENSXETG00000014231	SWI/SNF	734143
+Xenopus_tropicalis	hcfc1	ENSXETG00000014251	Others	100485535
+Xenopus_tropicalis	niban2	ENSXETG00000014260	FAM	100145245
+Xenopus_tropicalis	flna	ENSXETG00000014268	Others	779840
+Xenopus_tropicalis	phf12	ENSXETG00000014345	PHF	100036708
+Xenopus_tropicalis	tle5	ENSXETG00000014365	Others	733921
+Xenopus_tropicalis	npm3	ENSXETG00000014472	Nucleoplasmin	549210
+Xenopus_tropicalis	brd1	ENSXETG00000014519	Bromodomain	733743
+Xenopus_tropicalis	pim3	ENSXETG00000014529	Others	100497723
+Xenopus_tropicalis	ccdc59	ENSXETG00000014539	Coiled-coil	100135227
+Xenopus_tropicalis	runx1t1	ENSXETG00000014592	Others	100491944
+Xenopus_tropicalis	topors	ENSXETG00000014724	Others	734040
+Xenopus_tropicalis	mllt6	ENSXETG00000014744	Others	549549
+Xenopus_tropicalis	pcgf2	ENSXETG00000014746	PCGF	594961
+Xenopus_tropicalis	pid1	ENSXETG00000014759	Others	100485427
+Xenopus_tropicalis	gmnn	ENSXETG00000014814	Others	496859
+Xenopus_tropicalis	tdp2	ENSXETG00000014826	Others	549698
+Xenopus_tropicalis	habp4	ENSXETG00000014841	Others	448009
+Xenopus_tropicalis	chek1	ENSXETG00000014861	Others	100038224
+Xenopus_tropicalis	ifi35	ENSXETG00000014904	Others	100495457
+Xenopus_tropicalis	ctdsp1	ENSXETG00000014963	Others	100380164
+Xenopus_tropicalis	cnot9	ENSXETG00000014984	CCR4-NOT	394620
+Xenopus_tropicalis	bahcc1	ENSXETG00000015028	Others	100489534
+Xenopus_tropicalis	taf1a	ENSXETG00000015037	TATA-box	100497125
+Xenopus_tropicalis	gnb5	ENSXETG00000015145	Erbb2	100492078
+Xenopus_tropicalis	nsd3	ENSXETG00000015186	Nuclear receptor coactivator	100216035
+Xenopus_tropicalis	lzts2	ENSXETG00000015201	Others	448373
+Xenopus_tropicalis	sufu	ENSXETG00000015219	Others	100170148
+Xenopus_tropicalis	nab1	ENSXETG00000015250	Others	100145272
+Xenopus_tropicalis	sin3a	ENSXETG00000015283	Other_CRF	100495645
+Xenopus_tropicalis	smarca2	ENSXETG00000015299	SWI/SNF	734002
+Xenopus_tropicalis	hcls1	ENSXETG00000015412	Others	496771
+Xenopus_tropicalis	kdm1b	ENSXETG00000015429	Lysine demethylase	100489838
+Xenopus_tropicalis	mllt3	ENSXETG00000015500	GTF	549668
+Xenopus_tropicalis	med14	ENSXETG00000015502	Mediator complex	100379915
+Xenopus_tropicalis	bcor	ENSXETG00000015528	Other_Co-activator/repressors	100145189
+Xenopus_tropicalis	lrrk2	ENSXETG00000015544	Other_CRF	100145062
+Xenopus_tropicalis	camk2d	ENSXETG00000015547	CAMK	100135023
+Xenopus_tropicalis	nsmce4a	ENSXETG00000015589	EID	100495761
+Xenopus_tropicalis	fgfr2	ENSXETG00000015592	FGF	100124910
+Xenopus_tropicalis	tbpl2	ENSXETG00000015710	TATA-box	550063
+Xenopus_tropicalis	anp32e	ENSXETG00000015745	ANP	734114
+Xenopus_tropicalis	lmcd1	ENSXETG00000015748	LIM	100124907
+Xenopus_tropicalis	znf638	ENSXETG00000015780	Zinc finger	100488725
+Xenopus_tropicalis	tbl1x	ENSXETG00000015786	Transducin	100145441
+Xenopus_tropicalis	kdm2a	ENSXETG00000015793	Lysine demethylase	496596
+Xenopus_tropicalis	lancl2	ENSXETG00000015818	Others	734145
+Xenopus_tropicalis	egfr	ENSXETG00000015826	Others	100492965
+Xenopus_tropicalis	tnip1	ENSXETG00000015831	Others	780160
+Xenopus_tropicalis	trip11	ENSXETG00000015833	Thyroid hormone receptor	NA
+Xenopus_tropicalis	snapc5	ENSXETG00000015893	Others	100302394
+Xenopus_tropicalis	cnot1	ENSXETG00000015900	CCR4-NOT	100036630
+Xenopus_tropicalis	sqstm1	ENSXETG00000015913	Others	493277
+Xenopus_tropicalis	chtop	ENSXETG00000015918	Others	496726
+Xenopus_tropicalis	ncoa2	ENSXETG00000015926	Nuclear receptor coactivator	100216190
+Xenopus_tropicalis	eya1	ENSXETG00000015955	EYA	779594
+Xenopus_tropicalis	ski	ENSXETG00000015978	SKI	100486949
+Xenopus_tropicalis	wwtr1	ENSXETG00000016011	WW	100493170
+Xenopus_tropicalis	hnrnpc	ENSXETG00000016162	HNRNP	448664
+Xenopus_tropicalis	xiap	ENSXETG00000016194	Others	594971
+Xenopus_tropicalis	tarbp1	ENSXETG00000016224	Others	100493389
+Xenopus_tropicalis	bcl9	ENSXETG00000016298	BCL	100489374
+Xenopus_tropicalis	vegfa	ENSXETG00000016375	Other_CRF	100038089
+Xenopus_tropicalis	utp4	ENSXETG00000016376	Others	733991
+Xenopus_tropicalis	rita1	ENSXETG00000016409	Others	100491156
+Xenopus_tropicalis	ddx54	ENSXETG00000016410	RNA helicase	733994
+Xenopus_tropicalis	dtx1	ENSXETG00000016413	Others	100127181
+Xenopus_tropicalis	thoc5	ENSXETG00000016419	Others	549581
+Xenopus_tropicalis	ascc2	ENSXETG00000016423	ASCC	549625
+Xenopus_tropicalis	tenm2	ENSXETG00000016434	Others	100486468
+Xenopus_tropicalis	wwc1	ENSXETG00000016462	WW	100124763
+Xenopus_tropicalis	banp	ENSXETG00000016600	Others	394803
+Xenopus_tropicalis	prmt8	ENSXETG00000016651	Arginine methyltransferase	100491340
+Xenopus_tropicalis	crym	ENSXETG00000016698	Others	100125176
+Xenopus_tropicalis	fgfr1	ENSXETG00000016775	FGF	548648
+Xenopus_tropicalis	ikbkb	ENSXETG00000016790	Others	448125
+Xenopus_tropicalis	btf3	ENSXETG00000016819	Others	549451
+Xenopus_tropicalis	ankra2	ENSXETG00000016820	Ankyrin repeat	448315
+Xenopus_tropicalis	scai	ENSXETG00000016827	Others	100493243
+Xenopus_tropicalis	prnp	ENSXETG00000016850	Others	100158502
+Xenopus_tropicalis	zmynd11	ENSXETG00000016884	Zinc finger	100125090
+Xenopus_tropicalis	naa15	ENSXETG00000016900	Others	549755
+Xenopus_tropicalis	sap30	ENSXETG00000016915	SAP	549372
+Xenopus_tropicalis	ehmt1	ENSXETG00000016933	Histone lysine methyltransferase	100124713
+Xenopus_tropicalis	mnat1	ENSXETG00000016938	Others	549892
+Xenopus_tropicalis	setd7	ENSXETG00000016939	SET	613102
+Xenopus_tropicalis	cry1	ENSXETG00000016951	Others	550065
+Xenopus_tropicalis	maml3	ENSXETG00000016965	MAML	100158633
+Xenopus_tropicalis	brca2	ENSXETG00000017011	Others	100038818
+Xenopus_tropicalis	brd2	ENSXETG00000017067	Bromodomain	100038037
+Xenopus_tropicalis	s100z	ENSXETG00000017078	Others	100489987
+Xenopus_tropicalis	med17	ENSXETG00000017118	Mediator complex	549728
+Xenopus_tropicalis	macroh2a2	ENSXETG00000017150	Others	448772
+Xenopus_tropicalis	pex2	ENSXETG00000017165	Others	549595
+Xenopus_tropicalis	chd8	ENSXETG00000017194	CHD	100192376
+Xenopus_tropicalis	supt16h	ENSXETG00000017204	SUPT	549984
+Xenopus_tropicalis	notch2	ENSXETG00000017225	Notch	100486344
+Xenopus_tropicalis	dvl3	ENSXETG00000017275	Others	100144702
+Xenopus_tropicalis	src	ENSXETG00000017318	Others	496893
+Xenopus_tropicalis	rprd1b	ENSXETG00000017322	Others	448020
+Xenopus_tropicalis	tpr	ENSXETG00000017390	Others	100496307
+Xenopus_tropicalis	unnamed994582	ENSXETG00000017426	Others	100491970
+Xenopus_tropicalis	aip	ENSXETG00000017438	Others	100124770
+Xenopus_tropicalis	snip1	ENSXETG00000017464	Others	394485
+Xenopus_tropicalis	meaf6	ENSXETG00000017466	Others	493254
+Xenopus_tropicalis	trib1	ENSXETG00000017499	Others	100497021
+Xenopus_tropicalis	smarca5	ENSXETG00000017566	SWI/SNF	493355
+Xenopus_tropicalis	kmt2b	ENSXETG00000017567	Lysine methyltransferase	100144721
+Xenopus_tropicalis	med31	ENSXETG00000017618	Mediator complex	448081
+Xenopus_tropicalis	chuk	ENSXETG00000017643	Others	549654
+Xenopus_tropicalis	ddx1	ENSXETG00000017825	RNA helicase	496549
+Xenopus_tropicalis	stk3	ENSXETG00000017844	Others	100036637
+Xenopus_tropicalis	actn1	ENSXETG00000017933	Actin	780123
+Xenopus_tropicalis	hipk3	ENSXETG00000017947	HIPK	780181
+Xenopus_tropicalis	nfkbia	ENSXETG00000017950	NFKB associated	448138
+Xenopus_tropicalis	kdm3a	ENSXETG00000017975	Lysine demethylase	100379807
+Xenopus_tropicalis	gsk3b	ENSXETG00000018019	Others	100489648
+Xenopus_tropicalis	btk	ENSXETG00000018152	Others	100170477
+Xenopus_tropicalis	taf7	ENSXETG00000018171	TATA-box	448449
+Xenopus_tropicalis	nif3l1	ENSXETG00000018172	Others	549109
+Xenopus_tropicalis	ercc2	ENSXETG00000018229	Others	493493
+Xenopus_tropicalis	arhgap35	ENSXETG00000018284	Others	100498460
+Xenopus_tropicalis	ndufa13	ENSXETG00000018373	Others	394495
+Xenopus_tropicalis	arl2bp	ENSXETG00000018410	Others	549774
+Xenopus_tropicalis	myd88	ENSXETG00000018434	Others	549591
+Xenopus_tropicalis	brd7	ENSXETG00000018460	Bromodomain	493370
+Xenopus_tropicalis	drap1	ENSXETG00000018519	Others	394886
+Xenopus_tropicalis	hira	ENSXETG00000018598	Others	100495450
+Xenopus_tropicalis	nudt17	ENSXETG00000018681	POLR	100380066
+Xenopus_tropicalis	tgfb1	ENSXETG00000018738	Others	100498430
+Xenopus_tropicalis	tgfb1i1	ENSXETG00000018791	Others	100038241
+Xenopus_tropicalis	rnf25	ENSXETG00000018815	Ring finger protein	496760
+Xenopus_tropicalis	stk36	ENSXETG00000018823	Others	100216223
+Xenopus_tropicalis	rgcc	ENSXETG00000018908	Others	100124833
+Xenopus_tropicalis	elp2	ENSXETG00000018920	ELP	548516
+Xenopus_tropicalis	gtf2h1	ENSXETG00000018992	GTF	448768
+Xenopus_tropicalis	btn1a1	ENSXETG00000019020	Others	100144947
+Xenopus_tropicalis	smarcad1	ENSXETG00000019214	SWI/SNF	548414
+Xenopus_tropicalis	trim28	ENSXETG00000019245	Tripartite motif	100489687
+Xenopus_tropicalis	supt6h	ENSXETG00000019265	SUPT	780122
+Xenopus_tropicalis	bend3	ENSXETG00000019266	Others	100490658
+Xenopus_tropicalis	emsy	ENSXETG00000019422	Others	100136947
+Xenopus_tropicalis	ncoa6	ENSXETG00000019466	Nuclear receptor coactivator	100496995
+Xenopus_tropicalis	itch	ENSXETG00000019475	Others	780194
+Xenopus_tropicalis	ppid	ENSXETG00000019484	Others	394581
+Xenopus_tropicalis	jmjd6	ENSXETG00000019501	Others	548957
+Xenopus_tropicalis	raly	ENSXETG00000019514	Others	100497634
+Xenopus_tropicalis	fgf1	ENSXETG00000019566	FGF	100217324
+Xenopus_tropicalis	wdr5	ENSXETG00000019588	WD	496891
+Xenopus_tropicalis	brd3	ENSXETG00000019589	Bromodomain	733891
+Xenopus_tropicalis	phf19	ENSXETG00000019597	PHF	779900
+Xenopus_tropicalis	hcfc2	ENSXETG00000019643	Others	100127587
+Xenopus_tropicalis	cidea	ENSXETG00000019690	Others	493350
+Xenopus_tropicalis	vgll1	ENSXETG00000019748	Vestigial like	100302396
+Xenopus_tropicalis	ssbp3	ENSXETG00000019994	Others	394816
+Xenopus_tropicalis	suz12	ENSXETG00000020055	Others	779745
+Xenopus_tropicalis	trrap	ENSXETG00000020075	Others	100158625
+Xenopus_tropicalis	ezh2	ENSXETG00000020146	Others	550047
+Xenopus_tropicalis	ezh1	ENSXETG00000020191	Others	100493532
+Xenopus_tropicalis	ldb2	ENSXETG00000020339	LIM	100491396
+Xenopus_tropicalis	med28	ENSXETG00000020344	Mediator complex	100125095
+Xenopus_tropicalis	phf1	ENSXETG00000020362	PHF	100038119
+Xenopus_tropicalis	ring1	ENSXETG00000020370	Ring finger protein	100037886
+Xenopus_tropicalis	ppargc1a	ENSXETG00000020468	Others	100491667
+Xenopus_tropicalis	hdac8	ENSXETG00000020527	Histone deacetylase	100145561
+Xenopus_tropicalis	bcas3	ENSXETG00000020553	Others	100487875
+Xenopus_tropicalis	kat5	ENSXETG00000020586	Lysine acetyltransferase	779727
+Xenopus_tropicalis	dnajb1	ENSXETG00000020601	Others	493474
+Xenopus_tropicalis	taf12	ENSXETG00000020616	TATA-box	548922
+Xenopus_tropicalis	med18	ENSXETG00000020654	Mediator complex	549840
+Xenopus_tropicalis	wdtc1	ENSXETG00000020662	WD	100493645
+Xenopus_tropicalis	tpte2	ENSXETG00000020701	Others	548705
+Xenopus_tropicalis	leo1	ENSXETG00000020746	Others	100135118
+Xenopus_tropicalis	rad21	ENSXETG00000020783	Others	100492023
+Xenopus_tropicalis	med30	ENSXETG00000020788	Mediator complex	549995
+Xenopus_tropicalis	nono	ENSXETG00000020868	Others	403096
+Xenopus_tropicalis	kdm2b	ENSXETG00000020966	Lysine demethylase	448624
+Xenopus_tropicalis	lpin1	ENSXETG00000020970	LPIN	779950
+Xenopus_tropicalis	ctbp1	ENSXETG00000021047	Others	493289
+Xenopus_tropicalis	slc30a9	ENSXETG00000021074	SLC	100216137
+Xenopus_tropicalis	apbb2	ENSXETG00000021093	Others	100144693
+Xenopus_tropicalis	ice2	ENSXETG00000021120	GTF	100380136
+Xenopus_tropicalis	malt1	ENSXETG00000021146	Others	100493493
+Xenopus_tropicalis	elp3	ENSXETG00000021151	ELP	100486001
+Xenopus_tropicalis	btrc	ENSXETG00000021199	Others	549140
+Xenopus_tropicalis	cbx5	ENSXETG00000021279	Chromobox	394502
+Xenopus_tropicalis	c1qbp	ENSXETG00000021363	Others	100494551
+Xenopus_tropicalis	egln1	ENSXETG00000021414	Others	548714
+Xenopus_tropicalis	cbfa2t2	ENSXETG00000021431	Others	100124871
+Xenopus_tropicalis	chd6	ENSXETG00000021445	CHD	100498254
+Xenopus_tropicalis	med26	ENSXETG00000021451	Mediator complex	549750
+Xenopus_tropicalis	trim33	ENSXETG00000021457	Tripartite motif	733764
+Xenopus_tropicalis	pik3r1	ENSXETG00000021480	Others	100486835
+Xenopus_tropicalis	cbl	ENSXETG00000021588	Others	594900
+Xenopus_tropicalis	chek2	ENSXETG00000021608	Others	100144952
+Xenopus_tropicalis	med16	ENSXETG00000021641	Mediator complex	780097
+Xenopus_tropicalis	prtn3	ENSXETG00000021647	Others	448597
+Xenopus_tropicalis	trim32	ENSXETG00000021741	Tripartite motif	100124994
+Xenopus_tropicalis	kdm8	ENSXETG00000021748	Lysine demethylase	100158649
+Xenopus_tropicalis	ankrd1	ENSXETG00000021783	Ankyrin repeat	594995
+Xenopus_tropicalis	timeless	ENSXETG00000021816	Others	100126683
+Xenopus_tropicalis	mllt1	ENSXETG00000021875	GTF	100158574
+Xenopus_tropicalis	rprd1a	ENSXETG00000021931	Others	100380115
+Xenopus_tropicalis	cxxc1	ENSXETG00000021938	Others	613066
+Xenopus_tropicalis	nudt5	ENSXETG00000021953	Other_CRF	549367
+Xenopus_tropicalis	eaf1	ENSXETG00000022009	Others	780356
+Xenopus_tropicalis	nod1	ENSXETG00000022012	Others	100488164
+Xenopus_tropicalis	nsmce3	ENSXETG00000022031	MAGE	549684
+Xenopus_tropicalis	phf8	ENSXETG00000022032	PHF	733740
+Xenopus_tropicalis	dnmt1	ENSXETG00000022035	DNA_methylase	100151716
+Xenopus_tropicalis	sumo1	ENSXETG00000022072	Others	448691
+Xenopus_tropicalis	birc2	ENSXETG00000022183	Others	448041
+Xenopus_tropicalis	ctnnd2	ENSXETG00000022200	Casein	100127641
+Xenopus_tropicalis	smarcb1	ENSXETG00000022368	SWI/SNF	448543
+Xenopus_tropicalis	suds3	ENSXETG00000022377	Other_Co-activator/repressors	100170178
+Xenopus_tropicalis	plrg1	ENSXETG00000022434	Others	394977
+Xenopus_tropicalis	pir	ENSXETG00000022439	Others	496926
+Xenopus_tropicalis	supt7l	ENSXETG00000022502	SUPT	394617
+Xenopus_tropicalis	jade1	ENSXETG00000022510	Others	100036687
+Xenopus_tropicalis	brf1	ENSXETG00000022549	GTF	100170638
+Xenopus_tropicalis	phf2	ENSXETG00000022559	PHF	100492144
+Xenopus_tropicalis	edrf1	ENSXETG00000022608	Others	100497935
+Xenopus_tropicalis	lin9	ENSXETG00000022620	Others	100491065
+Xenopus_tropicalis	prmt5	ENSXETG00000022626	Arginine methyltransferase	100145788
+Xenopus_tropicalis	gtf2a1l	ENSXETG00000022658	GTF	734072
+Xenopus_tropicalis	fam83g	ENSXETG00000022667	FAM	101732482
+Xenopus_tropicalis	nck1	ENSXETG00000022688	Others	493463
+Xenopus_tropicalis	ing3	ENSXETG00000022722	ING	493319
+Xenopus_tropicalis	ywhab	ENSXETG00000022830	Others	496529
+Xenopus_tropicalis	pabpc1l	ENSXETG00000022831	Other_CRF	448615
+Xenopus_tropicalis	crk	ENSXETG00000022904	Others	448023
+Xenopus_tropicalis	fhl3	ENSXETG00000022912	FHL	493527
+Xenopus_tropicalis	fhit	ENSXETG00000022969	Others	448702
+Xenopus_tropicalis	l3mbtl2	ENSXETG00000022981	Others	100490882
+Xenopus_tropicalis	dr1	ENSXETG00000022989	Others	734117
+Xenopus_tropicalis	mtf2	ENSXETG00000023001	Others	550093
+Xenopus_tropicalis	rpap2	ENSXETG00000023007	Others	100491941
+Xenopus_tropicalis	snd1	ENSXETG00000023043	Others	394791
+Xenopus_tropicalis	rexo4	ENSXETG00000023096	Others	448635
+Xenopus_tropicalis	SPEN	ENSXETG00000023114	Others	549816
+Xenopus_tropicalis	cenpf	ENSXETG00000023124	CENP	100127686
+Xenopus_tropicalis	nrip1	ENSXETG00000023130	Nuclear receptor coactivator	100037834
+Xenopus_tropicalis	taf1	ENSXETG00000023137	TATA-box	100496377
+Xenopus_tropicalis	ogt	ENSXETG00000023153	Others	553157
+Xenopus_tropicalis	ell	ENSXETG00000023213	GTF	100380194
+Xenopus_tropicalis	atad2	ENSXETG00000023215	Others	100496913
+Xenopus_tropicalis	mcrs1	ENSXETG00000023241	Others	549534
+Xenopus_tropicalis	cops5	ENSXETG00000023263	Others	394714
+Xenopus_tropicalis	taf5l	ENSXETG00000023330	TATA-box	448469
+Xenopus_tropicalis	hdac6	ENSXETG00000023355	Histone deacetylase	NA
+Xenopus_tropicalis	xrn2	ENSXETG00000023501	Others	733834
+Xenopus_tropicalis	ecd	ENSXETG00000023586	Others	100493000
+Xenopus_tropicalis	sirt1	ENSXETG00000023588	Sirtuin	100145679
+Xenopus_tropicalis	ctbp2	ENSXETG00000023631	Others	493558
+Xenopus_tropicalis	tada3	ENSXETG00000023674	Transcriptional adaptor	493402
+Xenopus_tropicalis	cdk12	ENSXETG00000023695	Cyclin	100038049
+Xenopus_tropicalis	med1	ENSXETG00000023696	Mediator complex	100036710
+Xenopus_tropicalis	ago2	ENSXETG00000023755	Others	448205
+Xenopus_tropicalis	setd2	ENSXETG00000023876	SET	100492810
+Xenopus_tropicalis	chd2	ENSXETG00000024129	CHD	100497210
+Xenopus_tropicalis	chchd3	ENSXETG00000024209	Coiled-coil	448247
+Xenopus_tropicalis	znf703	ENSXETG00000024347	Zinc finger	595070
+Xenopus_tropicalis	cfap70	ENSXETG00000024527	Vestigial like	779704
+Xenopus_tropicalis	brca1	ENSXETG00000024564	Others	733513
+Xenopus_tropicalis	epc2	ENSXETG00000024611	Others	448185
+Xenopus_tropicalis	siva1	ENSXETG00000024697	Others	733962
+Xenopus_tropicalis	cdk9	ENSXETG00000024742	Cyclin	448039
+Xenopus_tropicalis	apex1	ENSXETG00000024773	Others	394929
+Xenopus_tropicalis	ewsr1	ENSXETG00000024796	Others	394931
+Xenopus_tropicalis	bud31	ENSXETG00000024872	Others	549113
+Xenopus_tropicalis	polr3f	ENSXETG00000024898	POLR	394944
+Xenopus_tropicalis	ruvbl2	ENSXETG00000025105	Other_CRF	448144
+Xenopus_tropicalis	ankar	ENSXETG00000025109	Ankyrin repeat	100496722
+Xenopus_tropicalis	actb	ENSXETG00000025116	Actin	407952
+Xenopus_tropicalis	pdcd4	ENSXETG00000025248	Others	407925
+Xenopus_tropicalis	dusp26	ENSXETG00000025288	Others	100493443
+Xenopus_tropicalis	actn2	ENSXETG00000025296	Actin	448602
+Xenopus_tropicalis	arglu1	ENSXETG00000025471	Others	394894
+Xenopus_tropicalis	phf20	ENSXETG00000025472	PHF	100126218
+Xenopus_tropicalis	kmt2e	ENSXETG00000025679	Lysine methyltransferase	779539
+Xenopus_tropicalis	rnf4	ENSXETG00000025752	Ring finger protein	549308
+Xenopus_tropicalis	rwdd3	ENSXETG00000025843	Others	550029
+Xenopus_tropicalis	ralgapa1	ENSXETG00000025861	Others	779926
+Xenopus_tropicalis	hsbp1	ENSXETG00000025864	Heat shock protein	496903
+Xenopus_tropicalis	tdg	ENSXETG00000025927	Others	448432
+Xenopus_tropicalis	c1d	ENSXETG00000025934	Other_Co-activator/repressors	549178
+Xenopus_tropicalis	sertad1	ENSXETG00000026003	Others	100486906
+Xenopus_tropicalis	chd8	ENSXETG00000026004	CHD	100379668
+Xenopus_tropicalis	rnf2	ENSXETG00000026022	Ring finger protein	407872
+Xenopus_tropicalis	ccnc	ENSXETG00000026026	Cyclin	394762
+Xenopus_tropicalis	gtf2h2	ENSXETG00000026187	GTF	496493
+Xenopus_tropicalis	med10	ENSXETG00000026404	Mediator complex	448288
+Xenopus_tropicalis	chd4	ENSXETG00000026410	CHD	100124711
+Xenopus_tropicalis	btg1	ENSXETG00000026594	Others	394522
+Xenopus_tropicalis	pphln1	ENSXETG00000026823	Others	394576
+Xenopus_tropicalis	gtf2a2	ENSXETG00000026944	GTF	448686
+Xenopus_tropicalis	rbbp7	ENSXETG00000026983	RBBP	394900
+Xenopus_tropicalis	trappc2	ENSXETG00000027080	Others	549396
+Xenopus_tropicalis	mycbp	ENSXETG00000027114	MYC	549789
+Xenopus_tropicalis		ENSXETG00000027144	Ring finger protein	100485226
+Xenopus_tropicalis	MGC108450	ENSXETG00000027202	SLC	548517
+Xenopus_tropicalis	nedd8	ENSXETG00000027217	Others	549727
+Xenopus_tropicalis	hexim1	ENSXETG00000027237	Others	100497839
+Xenopus_tropicalis	atxn7l3	ENSXETG00000027265	Others	NA
+Xenopus_tropicalis	skap1	ENSXETG00000027357	Others	448448
+Xenopus_tropicalis	cdk5rap3	ENSXETG00000027359	Cyclin	496928
+Xenopus_tropicalis	eny2	ENSXETG00000027483	Others	100170422
+Xenopus_tropicalis	sirt6	ENSXETG00000027525	Sirtuin	394980
+Xenopus_tropicalis	ss18l2	ENSXETG00000027549	SS18	549763
+Xenopus_tropicalis	sav1	ENSXETG00000027740	Others	448321
+Xenopus_tropicalis	ssbp2	ENSXETG00000027809	Others	100216109
+Xenopus_tropicalis	ran	ENSXETG00000027832	Others	448091
+Xenopus_tropicalis	asf1b	ENSXETG00000028029	Others	448404
+Xenopus_tropicalis	hltf	ENSXETG00000029917	Others	394525
+Xenopus_tropicalis	wwp1	ENSXETG00000029963	WW	100038255
+Xenopus_tropicalis	dpf1	ENSXETG00000029971	DPF	100036731
+Xenopus_tropicalis	cdyl	ENSXETG00000030044	Chromodomain Y	100491952
+Xenopus_tropicalis	lgals12	ENSXETG00000030120	Others	100487358
+Xenopus_tropicalis	pmf1	ENSXETG00000030207	Others	100037873
+Xenopus_tropicalis	cdc40	ENSXETG00000030212	TATA-box	100151705
+Xenopus_tropicalis	tesc	ENSXETG00000030230	Others	779877
+Xenopus_tropicalis	dcc	ENSXETG00000030451	Others	100486082
+Xenopus_tropicalis	ldb1	ENSXETG00000030764	Others	100124899
+Xenopus_tropicalis	creg2	ENSXETG00000030769	Others	100491889
+Xenopus_tropicalis	pcgf6	ENSXETG00000031054	Others	100491054
+Xenopus_tropicalis	rfng	ENSXETG00000031362	RBBP	100380142
+Xenopus_tropicalis	hdac10	ENSXETG00000031474	Histone deacetylase	100497245
+Xenopus_tropicalis	rb1	ENSXETG00000031493	Other_Co-activator/repressors	100493114
+Xenopus_tropicalis	slk	ENSXETG00000031494	Arginine methyltransferase	780163
+Xenopus_tropicalis	med12	ENSXETG00000031593	Mediator complex	100495585
+Xenopus_tropicalis	ero1b	ENSXETG00000031615	TATA-box	NA
+Xenopus_tropicalis	efhc2	ENSXETG00000031742	Others	100493024
+Xenopus_tropicalis	srrm2	ENSXETG00000031781	LIM	549360
+Xenopus_tropicalis	erap1	ENSXETG00000031794	Others	100494283
+Xenopus_tropicalis	dnaja3	ENSXETG00000031809	Others	100145451
+Xenopus_tropicalis	zic2	ENSXETG00000031817	Others	100145270
+Xenopus_tropicalis	dph3	ENSXETG00000031917	Others	100145162
+Xenopus_tropicalis	pcgf5	ENSXETG00000032043	PCGF	101734913
+Xenopus_tropicalis	kif5b	ENSXETG00000032066	Others	100145310
+Xenopus_tropicalis	mphosph8	ENSXETG00000032076	Others	100145122
+Xenopus_tropicalis	tmie	ENSXETG00000032150	Mediator complex	100124299
+Xenopus_tropicalis	lrif1	ENSXETG00000032187	Others	100492192
+Xenopus_tropicalis	gipc1	ENSXETG00000032212	ASCC	448036
+Xenopus_tropicalis	nlrc3	ENSXETG00000032463	Others	100158644
+Xenopus_tropicalis	lrrc75b	ENSXETG00000032514	NFKB associated	100485153
+Xenopus_tropicalis	fktn	ENSXETG00000032563	Others	100327242
+Xenopus_tropicalis	sirt3.1	ENSXETG00000032567	Sirtuin	100487410
+Xenopus_tropicalis	tp53bp1	ENSXETG00000032616	Others	100490124
+Xenopus_tropicalis	yap1	ENSXETG00000032689	Others	100488779
+Xenopus_tropicalis	recql5	ENSXETG00000032721	Others	100216093
+Xenopus_tropicalis	NCOA4	ENSXETG00000032751	Nuclear receptor coactivator	100497661
+Xenopus_tropicalis	tenm1	ENSXETG00000032843	Others	100493796
+Xenopus_tropicalis	fibin	ENSXETG00000032863	Tripartite motif	613104
+Xenopus_tropicalis	glyr1	ENSXETG00000032904	Others	100038198
+Xenopus_tropicalis	dyrk1a.2	ENSXETG00000032961	Others	100145447
+Xenopus_tropicalis	CDYL2	ENSXETG00000032985	Chromodomain Y	100486281
+Xenopus_tropicalis	pusl1	ENSXETG00000033185	Others	100144975
+Xenopus_tropicalis	cd200r1	ENSXETG00000033211	INO80 complex	100169675
+Xenopus_tropicalis	mcidas	ENSXETG00000033274	Others	100496713
+Xenopus_tropicalis	ror1	ENSXETG00000033343	Others	100036660
+Xenopus_tropicalis	zmynd8	ENSXETG00000033492	Zinc finger	448494
+Xenopus_tropicalis	ino80d	ENSXETG00000033629	INO80 complex	100493655
+Xenopus_tropicalis	ercc3	ENSXETG00000033646	Others	100170563
+Xenopus_tropicalis	ccdc14	ENSXETG00000033779	Others	100216449
+Xenopus_tropicalis	vwc2l.2	ENSXETG00000033799	CCR4-NOT	100380053
+Xenopus_tropicalis	pidd1	ENSXETG00000033984	Others	100488788
+Xenopus_tropicalis	fam160a2	ENSXETG00000034155	GTF	100125194
+Xenopus_tropicalis	ino80	ENSXETG00000034272	INO80 complex	100127778
+Xenopus_tropicalis	tigd3	ENSXETG00000034340	CENP	100135169
+Xenopus_tropicalis	rbpms	ENSXETG00000034458	RNA binding protein	100038229
+Xenopus_tropicalis	wbp2	ENSXETG00000034470	WW	496980
+Xenopus_tropicalis	sap30l	ENSXETG00000034608	SAP	549895
+Xenopus_tropicalis		ENSXETG00000034759	Zinc finger	NA
+Xenopus_tropicalis	map3k7cl	ENSXETG00000035020	Others	100124319
+Xenopus_tropicalis	hyal2	ENSXETG00000035220	Others	100144942
+Xenopus_tropicalis	MYBBP1A	ENSXETG00000035249	MYB	100135739
+Xenopus_tropicalis	rbx1	ENSXETG00000035313	Others	100379935
+Xenopus_tropicalis	gatad2a	ENSXETG00000035575	Others	100496613
+Xenopus_tropicalis	cbx4	ENSXETG00000035662	Chromobox	100124911
+Xenopus_tropicalis	ing4	ENSXETG00000035975	ING	100491241
+Xenopus_tropicalis	med11	ENSXETG00000036083	Mediator complex	395010
+Xenopus_tropicalis	ighx	ENSXETG00000036148	Others	100497042
+Xenopus_tropicalis	cir1	ENSXETG00000036152	Other_Co-activator/repressors	100495464
+Xenopus_tropicalis	faim2	ENSXETG00000036167	Others	NA
+Xenopus_tropicalis	pnrc2	ENSXETG00000036228	Others	493263
+Xenopus_tropicalis	SFRP4	ENSXETG00000036556	Others	NA
+Xenopus_tropicalis	neurod4	ENSXETG00000036597	Mediator complex	780334
+Xenopus_tropicalis		ENSXETG00000036716	PARP	101732564
+Xenopus_tropicalis	ccdc85b	ENSXETG00000036719	Coiled-coil	779472
+Xenopus_tropicalis		ENSXETG00000036909	NFKB associated	NA
+Xenopus_tropicalis	smyd2	ENSXETG00000036934	SMYD	100495522
+Xenopus_tropicalis	ADRB2	ENSXETG00000037096	Others	NA
+Xenopus_tropicalis	lmo4.2	ENSXETG00000037471	LIM	548539
+Xenopus_tropicalis	bcl9l	ENSXETG00000037476	BCL	100495254
+Xenopus_tropicalis	abcc10	ENSXETG00000037852	Others	100498517
+Xenopus_tropicalis	N4BP2L2	ENSXETG00000037890	Others	100493321
+Xenopus_tropicalis		ENSXETG00000038074	Others	NA
+Xenopus_tropicalis	fbp1	ENSXETG00000038459	Others	394750
+Xenopus_tropicalis	fgf3	ENSXETG00000038534	FGF	493516
+Xenopus_tropicalis	med8	ENSXETG00000038548	Mediator complex	549368
+Xenopus_tropicalis	aurkaip1	ENSXETG00000038755	Others	549720
+Xenopus_tropicalis		ENSXETG00000038775	PARP	101731378
+Xenopus_tropicalis	wnt3	ENSXETG00000039053	Others	100125198
+Xenopus_tropicalis	dld	ENSXETG00000039195	Others	100489519
+Xenopus_tropicalis	atp11a	ENSXETG00000039365	SS18	100380069
+Xenopus_tropicalis	gtf2h3	ENSXETG00000039489	GTF	100145792
+Xenopus_tropicalis	PSPC1	ENSXETG00000039639	Others	100489975
+Xenopus_tropicalis	actn4	ENSXETG00000039795	Others	100498440
+Xenopus_tropicalis	mtdh	ENSXETG00000039812	Others	394771
+Xenopus_tropicalis	ripk3	ENSXETG00000039906	Others	100497374
+Xenopus_tropicalis	eng	ENSXETG00000040084	Others	100491276
+Xenopus_tropicalis	supt4h1	ENSXETG00000040160	SUPT	549433
+Xenopus_tropicalis	top1.1	ENSXETG00000040254	Other_CRF	100496521
+Xenopus_tropicalis	dclk3	ENSXETG00000040375	SMYD	100494527
+Xenopus_tropicalis		ENSXETG00000040442	Zinc finger	NA
+Xenopus_tropicalis	mid1ip1	ENSXETG00000040534	Others	394600
+Xenopus_tropicalis	mtpn	ENSXETG00000040559	Others	395043
+Xenopus_tropicalis	cbx7	ENSXETG00000040730	Chromobox	448638
+Xenopus_tropicalis		ENSXETG00000040815	Others	100151713
+Xenopus_tropicalis	agpat5	ENSXETG00000041066	CITED	407853
+Xenopus_tropicalis	vim	ENSXETG00000041143	MYC	100379925
+Xenopus_tropicalis	hspa1b	ENSXETG00000041157	Heat shock protein	100485441
+Xenopus_tropicalis	or13c8	ENSXETG00000041193	Others	100487671
+Xenopus_tropicalis	tob2	ENSXETG00000041228	Others	548967
+Xenopus_tropicalis	dpf2	ENSXETG00000041314	DPF	100126056
+Xenopus_tropicalis	c2orf42	ENSXETG00000041374	Vestigial like	780071

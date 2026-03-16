@@ -1,0 +1,690 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Tetraodon_nigroviridis	eya3	ENSTNIG00000000209	EYA	NA
+Tetraodon_nigroviridis	hnrnpc	ENSTNIG00000000334	HNRNP	NA
+Tetraodon_nigroviridis	SNIP1	ENSTNIG00000000342	Others	NA
+Tetraodon_nigroviridis	bcl10	ENSTNIG00000000642	BCL	NA
+Tetraodon_nigroviridis		ENSTNIG00000000714	Tripartite motif	NA
+Tetraodon_nigroviridis	hexim1	ENSTNIG00000000815	Others	NA
+Tetraodon_nigroviridis	supt7l	ENSTNIG00000000868	SUPT	NA
+Tetraodon_nigroviridis	cdkn1bb	ENSTNIG00000000887	Cyclin	NA
+Tetraodon_nigroviridis		ENSTNIG00000001111	Nuclear coactivator	NA
+Tetraodon_nigroviridis	slc19a1	ENSTNIG00000001182	SLC	NA
+Tetraodon_nigroviridis		ENSTNIG00000001419	Others	NA
+Tetraodon_nigroviridis	skor1b	ENSTNIG00000001504	SKI	NA
+Tetraodon_nigroviridis	eed	ENSTNIG00000001661	Others	NA
+Tetraodon_nigroviridis	DUSP26	ENSTNIG00000001857	Others	NA
+Tetraodon_nigroviridis	sgf29	ENSTNIG00000001984	Others	NA
+Tetraodon_nigroviridis	rnf10	ENSTNIG00000002039	Ring finger protein	NA
+Tetraodon_nigroviridis	chchd2	ENSTNIG00000002061	Coiled-coil	NA
+Tetraodon_nigroviridis	TOB2	ENSTNIG00000002073	Others	NA
+Tetraodon_nigroviridis	hdac6	ENSTNIG00000002155	Histone deacetylase	NA
+Tetraodon_nigroviridis	phf19	ENSTNIG00000002477	PHF	NA
+Tetraodon_nigroviridis	taf1b	ENSTNIG00000002507	TATA-box	NA
+Tetraodon_nigroviridis	uxt	ENSTNIG00000002529	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000002559	Thyroid hormone receptor	NA
+Tetraodon_nigroviridis	gtf2a2	ENSTNIG00000002569	GTF	NA
+Tetraodon_nigroviridis	arhgap5	ENSTNIG00000002578	Others	NA
+Tetraodon_nigroviridis	snx6	ENSTNIG00000002592	Others	NA
+Tetraodon_nigroviridis	strn3	ENSTNIG00000002607	Others	NA
+Tetraodon_nigroviridis	chd7	ENSTNIG00000002647	CHD	NA
+Tetraodon_nigroviridis	actr6	ENSTNIG00000002687	ACTR	NA
+Tetraodon_nigroviridis	DGKQ	ENSTNIG00000002692	Others	NA
+Tetraodon_nigroviridis	tnni2a.1	ENSTNIG00000002814	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000002816	Others	NA
+Tetraodon_nigroviridis	eapp	ENSTNIG00000002845	Others	NA
+Tetraodon_nigroviridis	med27	ENSTNIG00000002884	Mediator complex	NA
+Tetraodon_nigroviridis	eif4a3	ENSTNIG00000002924	RNA helicase	NA
+Tetraodon_nigroviridis	ANP32E	ENSTNIG00000002944	ANP	NA
+Tetraodon_nigroviridis	med22	ENSTNIG00000003000	Mediator complex	NA
+Tetraodon_nigroviridis	maml3	ENSTNIG00000003033	MAML	NA
+Tetraodon_nigroviridis	sqstm1	ENSTNIG00000003036	Others	NA
+Tetraodon_nigroviridis	psen1	ENSTNIG00000003044	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000003119	Others	NA
+Tetraodon_nigroviridis	scai	ENSTNIG00000003138	Others	NA
+Tetraodon_nigroviridis	elp2	ENSTNIG00000003144	ELP	NA
+Tetraodon_nigroviridis	mbtd1	ENSTNIG00000003156	Others	NA
+Tetraodon_nigroviridis	gtf2h4	ENSTNIG00000003170	GTF	NA
+Tetraodon_nigroviridis	cdk1	ENSTNIG00000003176	Cyclin	NA
+Tetraodon_nigroviridis	H2AZ1	ENSTNIG00000003186	Others	NA
+Tetraodon_nigroviridis	suz12b	ENSTNIG00000003234	Others	NA
+Tetraodon_nigroviridis	ino80b	ENSTNIG00000003248	INO80 complex	NA
+Tetraodon_nigroviridis		ENSTNIG00000003289	Mediator complex	NA
+Tetraodon_nigroviridis	txlng	ENSTNIG00000003406	Others	NA
+Tetraodon_nigroviridis	fbxw11a	ENSTNIG00000003432	Others	NA
+Tetraodon_nigroviridis	kmt5b	ENSTNIG00000003440	Lysine methyltransferase	NA
+Tetraodon_nigroviridis	paxip1	ENSTNIG00000003446	Others	NA
+Tetraodon_nigroviridis	ing3	ENSTNIG00000003452	ING	NA
+Tetraodon_nigroviridis	med29	ENSTNIG00000003474	Mediator complex	NA
+Tetraodon_nigroviridis	phf12b	ENSTNIG00000003509	PHF	NA
+Tetraodon_nigroviridis		ENSTNIG00000003567	Others	NA
+Tetraodon_nigroviridis	heatr1	ENSTNIG00000003577	Others	NA
+Tetraodon_nigroviridis	supt16h	ENSTNIG00000003692	SUPT	NA
+Tetraodon_nigroviridis	hells	ENSTNIG00000003738	Others	NA
+Tetraodon_nigroviridis	med4	ENSTNIG00000003778	Mediator complex	NA
+Tetraodon_nigroviridis		ENSTNIG00000003852	Others	NA
+Tetraodon_nigroviridis	ncoa6	ENSTNIG00000003867	Nuclear receptor coactivator	NA
+Tetraodon_nigroviridis	zgc:162255	ENSTNIG00000003936	Other_CRF	NA
+Tetraodon_nigroviridis	tp53bp1	ENSTNIG00000003950	Others	NA
+Tetraodon_nigroviridis	ldb1a	ENSTNIG00000003998	LIM	NA
+Tetraodon_nigroviridis	ssbp4	ENSTNIG00000004007	Others	NA
+Tetraodon_nigroviridis	btaf1	ENSTNIG00000004022	Others	NA
+Tetraodon_nigroviridis	gtf2e1	ENSTNIG00000004094	GTF	NA
+Tetraodon_nigroviridis	kdm4c	ENSTNIG00000004099	Lysine demethylase	NA
+Tetraodon_nigroviridis	nlk2	ENSTNIG00000004124	Others	NA
+Tetraodon_nigroviridis	cdk5r1b	ENSTNIG00000004135	Cyclin	NA
+Tetraodon_nigroviridis	setd7	ENSTNIG00000004161	SET	NA
+Tetraodon_nigroviridis		ENSTNIG00000004270	Others	NA
+Tetraodon_nigroviridis	nelfb	ENSTNIG00000004287	GTF	NA
+Tetraodon_nigroviridis	med28	ENSTNIG00000004300	Mediator complex	NA
+Tetraodon_nigroviridis	med1	ENSTNIG00000004334	Mediator complex	NA
+Tetraodon_nigroviridis	trim8b	ENSTNIG00000004343	Tripartite motif	NA
+Tetraodon_nigroviridis	ell	ENSTNIG00000004352	GTF	NA
+Tetraodon_nigroviridis	dhx9	ENSTNIG00000004369	RNA helicase	NA
+Tetraodon_nigroviridis	chchd6b	ENSTNIG00000004389	Coiled-coil	NA
+Tetraodon_nigroviridis	chek2	ENSTNIG00000004423	Others	NA
+Tetraodon_nigroviridis	auts2a	ENSTNIG00000004427	Others	NA
+Tetraodon_nigroviridis	cnot6b	ENSTNIG00000004443	CCR4-NOT	NA
+Tetraodon_nigroviridis	ccnt1	ENSTNIG00000004447	Cyclin	NA
+Tetraodon_nigroviridis	commd1	ENSTNIG00000004505	Others	NA
+Tetraodon_nigroviridis	niban2a	ENSTNIG00000004523	FAM	NA
+Tetraodon_nigroviridis	SMARCA4	ENSTNIG00000004536	SWI/SNF	NA
+Tetraodon_nigroviridis	gtf2h2	ENSTNIG00000004548	GTF	NA
+Tetraodon_nigroviridis	taf6l	ENSTNIG00000004574	TATA-box	NA
+Tetraodon_nigroviridis	meaf6	ENSTNIG00000004584	Others	NA
+Tetraodon_nigroviridis	cbx8b	ENSTNIG00000004609	Chromobox	NA
+Tetraodon_nigroviridis		ENSTNIG00000004645	FAM	NA
+Tetraodon_nigroviridis	ENY2	ENSTNIG00000004685	Others	NA
+Tetraodon_nigroviridis	mms19	ENSTNIG00000004700	Others	NA
+Tetraodon_nigroviridis	brf1b	ENSTNIG00000004803	GTF	NA
+Tetraodon_nigroviridis	men1	ENSTNIG00000004823	Others	NA
+Tetraodon_nigroviridis	suv39h1a	ENSTNIG00000004839	Others	NA
+Tetraodon_nigroviridis	chd1l	ENSTNIG00000004902	CHD	NA
+Tetraodon_nigroviridis	jak2a	ENSTNIG00000004943	Others	NA
+Tetraodon_nigroviridis	lgals9l3	ENSTNIG00000004983	Others	NA
+Tetraodon_nigroviridis	ilf2	ENSTNIG00000005005	Others	NA
+Tetraodon_nigroviridis	chtopa	ENSTNIG00000005008	Others	NA
+Tetraodon_nigroviridis	txnipa	ENSTNIG00000005009	Others	NA
+Tetraodon_nigroviridis	ascc3	ENSTNIG00000005079	ASCC	NA
+Tetraodon_nigroviridis	rbx1	ENSTNIG00000005097	Others	NA
+Tetraodon_nigroviridis	frk	ENSTNIG00000005162	Others	NA
+Tetraodon_nigroviridis	HDAC2	ENSTNIG00000005164	Histone deacetylase	NA
+Tetraodon_nigroviridis	ehmt1b	ENSTNIG00000005211	Histone lysine methyltransferase	NA
+Tetraodon_nigroviridis		ENSTNIG00000005223	RNA binding protein	NA
+Tetraodon_nigroviridis	daxx	ENSTNIG00000005315	Other_CRF	NA
+Tetraodon_nigroviridis	ufl1	ENSTNIG00000005357	Others	NA
+Tetraodon_nigroviridis	eno1a	ENSTNIG00000005373	Others	NA
+Tetraodon_nigroviridis	ercc3	ENSTNIG00000005457	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000005497	Tripartite motif	NA
+Tetraodon_nigroviridis	ralyl	ENSTNIG00000005594	Others	NA
+Tetraodon_nigroviridis	pin4	ENSTNIG00000005615	Others	NA
+Tetraodon_nigroviridis	mycbp	ENSTNIG00000005727	MYC	NA
+Tetraodon_nigroviridis	mak	ENSTNIG00000005735	Others	NA
+Tetraodon_nigroviridis	apex1	ENSTNIG00000005778	Others	NA
+Tetraodon_nigroviridis	hdac8	ENSTNIG00000005782	Histone deacetylase	NA
+Tetraodon_nigroviridis	rexo4	ENSTNIG00000005873	Others	NA
+Tetraodon_nigroviridis	rbbp5	ENSTNIG00000005884	RBBP	NA
+Tetraodon_nigroviridis	grip2b	ENSTNIG00000005990	Others	NA
+Tetraodon_nigroviridis	hnrnpk	ENSTNIG00000006005	HNRNP	NA
+Tetraodon_nigroviridis	brd3a	ENSTNIG00000006043	Bromodomain	NA
+Tetraodon_nigroviridis	dtx4a	ENSTNIG00000006057	Others	NA
+Tetraodon_nigroviridis	pcgf5a	ENSTNIG00000006113	PCGF	NA
+Tetraodon_nigroviridis	HMOX1	ENSTNIG00000006135	Others	NA
+Tetraodon_nigroviridis	flncb	ENSTNIG00000006148	Others	NA
+Tetraodon_nigroviridis	ccne1	ENSTNIG00000006196	Cyclin	NA
+Tetraodon_nigroviridis	tgfb2	ENSTNIG00000006256	Others	NA
+Tetraodon_nigroviridis	bud31	ENSTNIG00000006267	Others	NA
+Tetraodon_nigroviridis	cbx7a	ENSTNIG00000006270	Chromobox	NA
+Tetraodon_nigroviridis	taf5l	ENSTNIG00000006301	TATA-box	NA
+Tetraodon_nigroviridis	ctnnd2a	ENSTNIG00000006368	Casein	NA
+Tetraodon_nigroviridis	SCML2	ENSTNIG00000006371	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000006399	Others	NA
+Tetraodon_nigroviridis	med17	ENSTNIG00000006440	Mediator complex	NA
+Tetraodon_nigroviridis		ENSTNIG00000006443	Others	NA
+Tetraodon_nigroviridis	polr3f	ENSTNIG00000006456	POLR	NA
+Tetraodon_nigroviridis	taf2	ENSTNIG00000006466	TATA-box	NA
+Tetraodon_nigroviridis	jmjd6	ENSTNIG00000006500	Others	NA
+Tetraodon_nigroviridis	pagr1	ENSTNIG00000006531	Others	NA
+Tetraodon_nigroviridis	gtf2h1	ENSTNIG00000006535	GTF	NA
+Tetraodon_nigroviridis	creg1	ENSTNIG00000006594	Others	NA
+Tetraodon_nigroviridis	bcor	ENSTNIG00000006600	Other_Co-activator/repressors	NA
+Tetraodon_nigroviridis		ENSTNIG00000006706	Others	NA
+Tetraodon_nigroviridis	phf2	ENSTNIG00000006721	PHF	NA
+Tetraodon_nigroviridis	rbl1	ENSTNIG00000006724	Other_Co-activator/repressors	NA
+Tetraodon_nigroviridis	dscama	ENSTNIG00000006761	Others	NA
+Tetraodon_nigroviridis	pim3	ENSTNIG00000006772	Others	NA
+Tetraodon_nigroviridis	brd1a	ENSTNIG00000006776	Bromodomain	NA
+Tetraodon_nigroviridis		ENSTNIG00000006789	Tripartite motif	NA
+Tetraodon_nigroviridis	kdm5a	ENSTNIG00000006790	Lysine demethylase	NA
+Tetraodon_nigroviridis	tbpl1	ENSTNIG00000006808	TATA-box	NA
+Tetraodon_nigroviridis	fhl3a	ENSTNIG00000006814	FHL	NA
+Tetraodon_nigroviridis	dnmt3bb.1	ENSTNIG00000006823	DNA_methylase	NA
+Tetraodon_nigroviridis	ndnl2	ENSTNIG00000006831	MAGE	NA
+Tetraodon_nigroviridis	nudt5	ENSTNIG00000006894	Other_CRF	NA
+Tetraodon_nigroviridis	optn	ENSTNIG00000006898	Others	NA
+Tetraodon_nigroviridis	hcfc2	ENSTNIG00000006903	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000006938	Others	NA
+Tetraodon_nigroviridis	gtf2b	ENSTNIG00000006960	GTF	NA
+Tetraodon_nigroviridis	rpap2	ENSTNIG00000006965	Others	NA
+Tetraodon_nigroviridis	mtf2	ENSTNIG00000006969	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000007002	Actin	NA
+Tetraodon_nigroviridis	crebbpb	ENSTNIG00000007029	CREB	NA
+Tetraodon_nigroviridis	kdm5ba	ENSTNIG00000007074	Lysine demethylase	NA
+Tetraodon_nigroviridis	nelfcd	ENSTNIG00000007075	GTF	NA
+Tetraodon_nigroviridis	nab2	ENSTNIG00000007084	Others	NA
+Tetraodon_nigroviridis	tada3l	ENSTNIG00000007094	Transcriptional adaptor	NA
+Tetraodon_nigroviridis	syk	ENSTNIG00000007102	Others	NA
+Tetraodon_nigroviridis	tnip2	ENSTNIG00000007113	Others	NA
+Tetraodon_nigroviridis	plrg1	ENSTNIG00000007116	Others	NA
+Tetraodon_nigroviridis	trip11	ENSTNIG00000007136	Thyroid hormone receptor	NA
+Tetraodon_nigroviridis	med8	ENSTNIG00000007153	Mediator complex	NA
+Tetraodon_nigroviridis	dr1	ENSTNIG00000007154	Others	NA
+Tetraodon_nigroviridis	notch1a	ENSTNIG00000007203	Notch	NA
+Tetraodon_nigroviridis	strap	ENSTNIG00000007236	Others	NA
+Tetraodon_nigroviridis	gnl3	ENSTNIG00000007263	Others	NA
+Tetraodon_nigroviridis	mdm4	ENSTNIG00000007277	Others	NA
+Tetraodon_nigroviridis	phf20a	ENSTNIG00000007306	PHF	NA
+Tetraodon_nigroviridis	top1l	ENSTNIG00000007313	Other_CRF	NA
+Tetraodon_nigroviridis	hcfc1a	ENSTNIG00000007320	Others	NA
+Tetraodon_nigroviridis	cxxc1b	ENSTNIG00000007325	Others	NA
+Tetraodon_nigroviridis	RYBP	ENSTNIG00000007355	Others	NA
+Tetraodon_nigroviridis	wnt4	ENSTNIG00000007371	Others	NA
+Tetraodon_nigroviridis	rasd1	ENSTNIG00000007406	Others	NA
+Tetraodon_nigroviridis	lrpprc	ENSTNIG00000007470	Others	NA
+Tetraodon_nigroviridis	HINT1	ENSTNIG00000007475	Others	NA
+Tetraodon_nigroviridis	ccnt2a	ENSTNIG00000007563	Cyclin	NA
+Tetraodon_nigroviridis	HNRNPAB	ENSTNIG00000007596	HNRNP	NA
+Tetraodon_nigroviridis		ENSTNIG00000007605	Others	NA
+Tetraodon_nigroviridis	wwc1	ENSTNIG00000007617	WW	NA
+Tetraodon_nigroviridis	cnot8	ENSTNIG00000007626	CCR4-NOT	NA
+Tetraodon_nigroviridis	sap30l	ENSTNIG00000007630	SAP	NA
+Tetraodon_nigroviridis	mybbp1a	ENSTNIG00000007650	MYB	NA
+Tetraodon_nigroviridis	taf9	ENSTNIG00000007669	TATA-box	NA
+Tetraodon_nigroviridis	arrb2a	ENSTNIG00000007670	Others	NA
+Tetraodon_nigroviridis	siah2l	ENSTNIG00000007673	Others	NA
+Tetraodon_nigroviridis	med31	ENSTNIG00000007678	Mediator complex	NA
+Tetraodon_nigroviridis	nup98	ENSTNIG00000007682	Others	NA
+Tetraodon_nigroviridis	dhx36	ENSTNIG00000007692	RNA helicase	NA
+Tetraodon_nigroviridis	CBL	ENSTNIG00000007788	Others	NA
+Tetraodon_nigroviridis	cdc73	ENSTNIG00000007803	Others	NA
+Tetraodon_nigroviridis	ripk2	ENSTNIG00000007826	Others	NA
+Tetraodon_nigroviridis	TADA1	ENSTNIG00000007862	Transcriptional adaptor	NA
+Tetraodon_nigroviridis	orc2	ENSTNIG00000007912	Others	NA
+Tetraodon_nigroviridis	chd8	ENSTNIG00000007932	CHD	NA
+Tetraodon_nigroviridis	NEDD8	ENSTNIG00000007945	Others	NA
+Tetraodon_nigroviridis	prmt5	ENSTNIG00000007948	Arginine methyltransferase	NA
+Tetraodon_nigroviridis	zmynd11	ENSTNIG00000007986	Zinc finger	NA
+Tetraodon_nigroviridis		ENSTNIG00000008031	CHD	NA
+Tetraodon_nigroviridis	ing4	ENSTNIG00000008045	ING	NA
+Tetraodon_nigroviridis	cnot3a	ENSTNIG00000008082	CCR4-NOT	NA
+Tetraodon_nigroviridis	pex2	ENSTNIG00000008123	Others	NA
+Tetraodon_nigroviridis	bmi1a	ENSTNIG00000008141	Others	NA
+Tetraodon_nigroviridis	eya1	ENSTNIG00000008189	EYA	NA
+Tetraodon_nigroviridis	plk1	ENSTNIG00000008260	Others	NA
+Tetraodon_nigroviridis	setd3	ENSTNIG00000008284	SET	NA
+Tetraodon_nigroviridis		ENSTNIG00000008323	Erbb2	NA
+Tetraodon_nigroviridis	CTDSP1	ENSTNIG00000008347	Others	NA
+Tetraodon_nigroviridis	cnot2	ENSTNIG00000008354	CCR4-NOT	NA
+Tetraodon_nigroviridis	uri1	ENSTNIG00000008371	Others	NA
+Tetraodon_nigroviridis	morf4l1	ENSTNIG00000008435	Other_CRF	NA
+Tetraodon_nigroviridis	tle3b	ENSTNIG00000008436	Transducin	NA
+Tetraodon_nigroviridis	wdr61	ENSTNIG00000008452	WD	NA
+Tetraodon_nigroviridis	sin3aa	ENSTNIG00000008454	Other_CRF	NA
+Tetraodon_nigroviridis	wnt3a	ENSTNIG00000008487	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000008494	Cyclin	NA
+Tetraodon_nigroviridis	dhx33	ENSTNIG00000008546	RNA helicase	NA
+Tetraodon_nigroviridis	c1qbp	ENSTNIG00000008547	Others	NA
+Tetraodon_nigroviridis	supt4h1	ENSTNIG00000008553	SUPT	NA
+Tetraodon_nigroviridis	ruvbl2	ENSTNIG00000008569	Other_CRF	NA
+Tetraodon_nigroviridis	hspa8	ENSTNIG00000008602	Heat shock protein	NA
+Tetraodon_nigroviridis	hif1an	ENSTNIG00000008642	Others	NA
+Tetraodon_nigroviridis	ccar1	ENSTNIG00000008667	Others	NA
+Tetraodon_nigroviridis	waca	ENSTNIG00000008712	WW	NA
+Tetraodon_nigroviridis	wwp1	ENSTNIG00000008747	WW	NA
+Tetraodon_nigroviridis		ENSTNIG00000008783	Arginine methyltransferase	NA
+Tetraodon_nigroviridis	hsbp1b	ENSTNIG00000008805	Heat shock protein	NA
+Tetraodon_nigroviridis	arl2bp	ENSTNIG00000008827	Others	NA
+Tetraodon_nigroviridis	wwp2	ENSTNIG00000008850	WW	NA
+Tetraodon_nigroviridis	prmt7	ENSTNIG00000008854	Arginine methyltransferase	NA
+Tetraodon_nigroviridis		ENSTNIG00000008883	PARP	NA
+Tetraodon_nigroviridis		ENSTNIG00000008884	PARP	NA
+Tetraodon_nigroviridis	hdac4	ENSTNIG00000008890	Histone deacetylase	NA
+Tetraodon_nigroviridis	atrx	ENSTNIG00000008951	Others	NA
+Tetraodon_nigroviridis	ogt.1	ENSTNIG00000008969	Others	NA
+Tetraodon_nigroviridis	tnip1	ENSTNIG00000009004	Others	NA
+Tetraodon_nigroviridis	ddx54	ENSTNIG00000009037	RNA helicase	NA
+Tetraodon_nigroviridis	abl1	ENSTNIG00000009040	Others	NA
+Tetraodon_nigroviridis	nipbla	ENSTNIG00000009045	Others	NA
+Tetraodon_nigroviridis	tescb	ENSTNIG00000009068	Others	NA
+Tetraodon_nigroviridis	brf2	ENSTNIG00000009095	GTF	NA
+Tetraodon_nigroviridis	anxa4	ENSTNIG00000009097	Others	NA
+Tetraodon_nigroviridis	kcnip3b	ENSTNIG00000009102	Others	NA
+Tetraodon_nigroviridis	stk3	ENSTNIG00000009144	Others	NA
+Tetraodon_nigroviridis	pabpc1b	ENSTNIG00000009153	Other_CRF	NA
+Tetraodon_nigroviridis	runx1t1	ENSTNIG00000009194	Others	NA
+Tetraodon_nigroviridis	kat2b	ENSTNIG00000009197	Lysine acetyltransferase	NA
+Tetraodon_nigroviridis	fhod3a	ENSTNIG00000009233	Others	NA
+Tetraodon_nigroviridis	TRAK1	ENSTNIG00000009247	Others	NA
+Tetraodon_nigroviridis	med10	ENSTNIG00000009261	Mediator complex	NA
+Tetraodon_nigroviridis	CDYL2	ENSTNIG00000009276	Chromodomain Y	NA
+Tetraodon_nigroviridis	tradd	ENSTNIG00000009310	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000009319	Others	NA
+Tetraodon_nigroviridis	rnf111	ENSTNIG00000009335	Ring finger protein	NA
+Tetraodon_nigroviridis	ctr9	ENSTNIG00000009364	Others	NA
+Tetraodon_nigroviridis	lmo1	ENSTNIG00000009377	LIM	NA
+Tetraodon_nigroviridis	cbfa2t3	ENSTNIG00000009415	Others	NA
+Tetraodon_nigroviridis	leo1	ENSTNIG00000009515	Others	NA
+Tetraodon_nigroviridis	cops2	ENSTNIG00000009532	Others	NA
+Tetraodon_nigroviridis	anp32a	ENSTNIG00000009558	ANP	NA
+Tetraodon_nigroviridis	trip4	ENSTNIG00000009582	Thyroid hormone receptor	NA
+Tetraodon_nigroviridis	traf6	ENSTNIG00000009597	Others	NA
+Tetraodon_nigroviridis	htatip2	ENSTNIG00000009612	Others	NA
+Tetraodon_nigroviridis	csrp3	ENSTNIG00000009616	Others	NA
+Tetraodon_nigroviridis	LIMD1	ENSTNIG00000009646	LIM	NA
+Tetraodon_nigroviridis	wdtc1	ENSTNIG00000009651	WD	NA
+Tetraodon_nigroviridis	phip	ENSTNIG00000009688	Others	NA
+Tetraodon_nigroviridis	CCNK	ENSTNIG00000009694	Cyclin	NA
+Tetraodon_nigroviridis	snw1	ENSTNIG00000009699	Others	NA
+Tetraodon_nigroviridis	gtf2a1	ENSTNIG00000009702	GTF	NA
+Tetraodon_nigroviridis	brms1lb	ENSTNIG00000009707	Other_CRF	NA
+Tetraodon_nigroviridis	nfkbiaa	ENSTNIG00000009708	NFKB associated	NA
+Tetraodon_nigroviridis	hnrnpub	ENSTNIG00000009725	HNRNP	NA
+Tetraodon_nigroviridis	vgll2a	ENSTNIG00000009729	Vestigial like	NA
+Tetraodon_nigroviridis	dnaja3a	ENSTNIG00000009745	Others	NA
+Tetraodon_nigroviridis	crtc3	ENSTNIG00000009815	CREB	NA
+Tetraodon_nigroviridis	c1d	ENSTNIG00000009827	Other_Co-activator/repressors	NA
+Tetraodon_nigroviridis	PELI1	ENSTNIG00000009834	Others	NA
+Tetraodon_nigroviridis	supt3h	ENSTNIG00000009854	SUPT	NA
+Tetraodon_nigroviridis	LZTS1	ENSTNIG00000009890	Others	NA
+Tetraodon_nigroviridis	supt20	ENSTNIG00000009928	SUPT	NA
+Tetraodon_nigroviridis	tpte	ENSTNIG00000009958	Others	NA
+Tetraodon_nigroviridis	chek1	ENSTNIG00000009981	Others	NA
+Tetraodon_nigroviridis	YAP1	ENSTNIG00000009988	Others	NA
+Tetraodon_nigroviridis	birc2	ENSTNIG00000009989	Others	NA
+Tetraodon_nigroviridis	nrg2a	ENSTNIG00000010004	Others	NA
+Tetraodon_nigroviridis	dpf2	ENSTNIG00000010057	DPF	NA
+Tetraodon_nigroviridis	skap1	ENSTNIG00000010095	Others	NA
+Tetraodon_nigroviridis	cbx1b	ENSTNIG00000010097	Chromobox	NA
+Tetraodon_nigroviridis	cdk5rap3	ENSTNIG00000010099	Cyclin	NA
+Tetraodon_nigroviridis	cops5	ENSTNIG00000010108	Others	NA
+Tetraodon_nigroviridis	HDAC3	ENSTNIG00000010123	Histone deacetylase	NA
+Tetraodon_nigroviridis	polr2a	ENSTNIG00000010136	POLR	NA
+Tetraodon_nigroviridis	gps2	ENSTNIG00000010141	Others	NA
+Tetraodon_nigroviridis	dvl2	ENSTNIG00000010156	Others	NA
+Tetraodon_nigroviridis	rrn3	ENSTNIG00000010211	Others	NA
+Tetraodon_nigroviridis	JUP	ENSTNIG00000010216	Others	NA
+Tetraodon_nigroviridis	emsy	ENSTNIG00000010275	Others	NA
+Tetraodon_nigroviridis	sap18	ENSTNIG00000010341	SAP	NA
+Tetraodon_nigroviridis	trak2	ENSTNIG00000010353	Others	NA
+Tetraodon_nigroviridis	pspc1	ENSTNIG00000010358	Others	NA
+Tetraodon_nigroviridis	ASF1B	ENSTNIG00000010442	Others	NA
+Tetraodon_nigroviridis	cthl	ENSTNIG00000010496	Others	NA
+Tetraodon_nigroviridis	ctbp1	ENSTNIG00000010514	Others	NA
+Tetraodon_nigroviridis	kdm3b	ENSTNIG00000010516	Lysine demethylase	NA
+Tetraodon_nigroviridis	wtip	ENSTNIG00000010518	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000010523	TATA-box	NA
+Tetraodon_nigroviridis	loxl3b	ENSTNIG00000010545	Others	NA
+Tetraodon_nigroviridis	pdcd4b	ENSTNIG00000010581	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000010639	Others	NA
+Tetraodon_nigroviridis	ell2	ENSTNIG00000010665	GTF	NA
+Tetraodon_nigroviridis	xrn2	ENSTNIG00000010712	Others	NA
+Tetraodon_nigroviridis	trib2	ENSTNIG00000010721	Others	NA
+Tetraodon_nigroviridis	pak7	ENSTNIG00000010731	Others	NA
+Tetraodon_nigroviridis	chd2	ENSTNIG00000010760	CHD	NA
+Tetraodon_nigroviridis	npm1a	ENSTNIG00000010773	Nucleoplasmin	NA
+Tetraodon_nigroviridis		ENSTNIG00000010800	Transducin	NA
+Tetraodon_nigroviridis	spen	ENSTNIG00000010907	Others	NA
+Tetraodon_nigroviridis	mad2l2	ENSTNIG00000010908	Others	NA
+Tetraodon_nigroviridis	med23	ENSTNIG00000010947	Mediator complex	NA
+Tetraodon_nigroviridis	btg1	ENSTNIG00000011013	Others	NA
+Tetraodon_nigroviridis	snd1	ENSTNIG00000011019	Others	NA
+Tetraodon_nigroviridis	ccdc59	ENSTNIG00000011028	Coiled-coil	NA
+Tetraodon_nigroviridis	anp32b	ENSTNIG00000011041	ANP	NA
+Tetraodon_nigroviridis		ENSTNIG00000011066	Mediator complex	NA
+Tetraodon_nigroviridis	crtc1a	ENSTNIG00000011067	CREB	NA
+Tetraodon_nigroviridis	pik3r2	ENSTNIG00000011070	Others	NA
+Tetraodon_nigroviridis	dvl3a	ENSTNIG00000011088	Others	NA
+Tetraodon_nigroviridis	SFMBT1	ENSTNIG00000011121	Others	NA
+Tetraodon_nigroviridis	pih1d1	ENSTNIG00000011141	Other_CRF	NA
+Tetraodon_nigroviridis	supt5h	ENSTNIG00000011178	SUPT	NA
+Tetraodon_nigroviridis	arrb1	ENSTNIG00000011222	Others	NA
+Tetraodon_nigroviridis	rbfox3b	ENSTNIG00000011278	Others	NA
+Tetraodon_nigroviridis	kat8	ENSTNIG00000011297	Lysine acetyltransferase	NA
+Tetraodon_nigroviridis	tsg101a	ENSTNIG00000011386	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000011398	Others	NA
+Tetraodon_nigroviridis	flii	ENSTNIG00000011505	Others	NA
+Tetraodon_nigroviridis	tob1b	ENSTNIG00000011508	Others	NA
+Tetraodon_nigroviridis	sap30bp	ENSTNIG00000011513	SAP	NA
+Tetraodon_nigroviridis	wbp2	ENSTNIG00000011518	WW	NA
+Tetraodon_nigroviridis	frzb	ENSTNIG00000011566	Others	NA
+Tetraodon_nigroviridis	recql5	ENSTNIG00000011592	Others	NA
+Tetraodon_nigroviridis	alyref	ENSTNIG00000011595	Others	NA
+Tetraodon_nigroviridis	cnot10	ENSTNIG00000011674	CCR4-NOT	NA
+Tetraodon_nigroviridis	EZH1	ENSTNIG00000011694	Others	NA
+Tetraodon_nigroviridis	cavin1a	ENSTNIG00000011705	Others	NA
+Tetraodon_nigroviridis	kat2a	ENSTNIG00000011712	Lysine acetyltransferase	NA
+Tetraodon_nigroviridis	cdk12	ENSTNIG00000011717	Cyclin	NA
+Tetraodon_nigroviridis	kat5b	ENSTNIG00000011743	Lysine acetyltransferase	NA
+Tetraodon_nigroviridis	taf6	ENSTNIG00000011760	TATA-box	NA
+Tetraodon_nigroviridis	slc25a15b	ENSTNIG00000011766	SLC	NA
+Tetraodon_nigroviridis	rb1	ENSTNIG00000011786	Other_Co-activator/repressors	NA
+Tetraodon_nigroviridis	taf1	ENSTNIG00000011788	TATA-box	NA
+Tetraodon_nigroviridis	ARHGAP35	ENSTNIG00000011798	Others	NA
+Tetraodon_nigroviridis	CHUK	ENSTNIG00000011847	Others	NA
+Tetraodon_nigroviridis	trim16	ENSTNIG00000011869	Tripartite motif	NA
+Tetraodon_nigroviridis	taf10	ENSTNIG00000011991	TATA-box	NA
+Tetraodon_nigroviridis	rprd1b	ENSTNIG00000011999	Others	NA
+Tetraodon_nigroviridis	actr5	ENSTNIG00000012006	ACTR	NA
+Tetraodon_nigroviridis	actr8	ENSTNIG00000012022	ACTR	NA
+Tetraodon_nigroviridis	slc26a6	ENSTNIG00000012027	SLC	NA
+Tetraodon_nigroviridis	taf5	ENSTNIG00000012086	TATA-box	NA
+Tetraodon_nigroviridis	ago1	ENSTNIG00000012102	Others	NA
+Tetraodon_nigroviridis	wwox	ENSTNIG00000012107	WW	NA
+Tetraodon_nigroviridis	si:dkey-103i16.6	ENSTNIG00000012135	Sirtuin	NA
+Tetraodon_nigroviridis	ncl	ENSTNIG00000012186	Others	NA
+Tetraodon_nigroviridis	clu	ENSTNIG00000012207	Others	NA
+Tetraodon_nigroviridis	gtf2h5	ENSTNIG00000012267	GTF	NA
+Tetraodon_nigroviridis	sirt5	ENSTNIG00000012314	Sirtuin	NA
+Tetraodon_nigroviridis	depdc1a	ENSTNIG00000012327	Others	NA
+Tetraodon_nigroviridis	NAA15	ENSTNIG00000012342	Others	NA
+Tetraodon_nigroviridis	ctnnd1	ENSTNIG00000012348	Casein	NA
+Tetraodon_nigroviridis	cdca4	ENSTNIG00000012396	Others	NA
+Tetraodon_nigroviridis	jade1	ENSTNIG00000012401	Others	NA
+Tetraodon_nigroviridis	fam43b	ENSTNIG00000012420	Others	NA
+Tetraodon_nigroviridis	pink1	ENSTNIG00000012423	Others	NA
+Tetraodon_nigroviridis	taf8	ENSTNIG00000012447	TATA-box	NA
+Tetraodon_nigroviridis	pqbp1	ENSTNIG00000012501	Others	NA
+Tetraodon_nigroviridis	kdm5c	ENSTNIG00000012505	Lysine demethylase	NA
+Tetraodon_nigroviridis	aurkaip1	ENSTNIG00000012541	Others	NA
+Tetraodon_nigroviridis	taf11	ENSTNIG00000012579	TATA-box	NA
+Tetraodon_nigroviridis	prkcbp1l	ENSTNIG00000012603	Zinc finger	NA
+Tetraodon_nigroviridis	TAF4	ENSTNIG00000012608	TATA-box	NA
+Tetraodon_nigroviridis	raf1a	ENSTNIG00000012621	Others	NA
+Tetraodon_nigroviridis	gtf2f1	ENSTNIG00000012626	GTF	NA
+Tetraodon_nigroviridis	sfmbt2	ENSTNIG00000012643	Others	NA
+Tetraodon_nigroviridis	cry1a	ENSTNIG00000012660	Others	NA
+Tetraodon_nigroviridis	hcls1	ENSTNIG00000012689	Others	NA
+Tetraodon_nigroviridis	cdk8	ENSTNIG00000012716	Cyclin	NA
+Tetraodon_nigroviridis	rnf6	ENSTNIG00000012717	Ring finger protein	NA
+Tetraodon_nigroviridis	nck1a	ENSTNIG00000012753	Others	NA
+Tetraodon_nigroviridis	med24	ENSTNIG00000012846	Mediator complex	NA
+Tetraodon_nigroviridis	birc5a	ENSTNIG00000012870	Others	NA
+Tetraodon_nigroviridis	crym	ENSTNIG00000012874	Others	NA
+Tetraodon_nigroviridis	phf5a	ENSTNIG00000012939	PHF	NA
+Tetraodon_nigroviridis	l3mbtl2	ENSTNIG00000012943	Others	NA
+Tetraodon_nigroviridis	xrcc6	ENSTNIG00000012947	Others	NA
+Tetraodon_nigroviridis	mrtfab	ENSTNIG00000012948	Others	NA
+Tetraodon_nigroviridis	elp1	ENSTNIG00000012962	ELP	NA
+Tetraodon_nigroviridis	maml1	ENSTNIG00000012963	MAML	NA
+Tetraodon_nigroviridis	eaf1	ENSTNIG00000012989	Others	NA
+Tetraodon_nigroviridis	chd3	ENSTNIG00000012998	CHD	NA
+Tetraodon_nigroviridis	ppid	ENSTNIG00000013040	Others	NA
+Tetraodon_nigroviridis	ldb2a	ENSTNIG00000013044	LIM	NA
+Tetraodon_nigroviridis	ccna2	ENSTNIG00000013048	Cyclin	NA
+Tetraodon_nigroviridis	pcgf1	ENSTNIG00000013055	PCGF	NA
+Tetraodon_nigroviridis	fgf2	ENSTNIG00000013062	FGF	NA
+Tetraodon_nigroviridis	pdlim1	ENSTNIG00000013083	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000013117	Tripartite motif	NA
+Tetraodon_nigroviridis	si:dkey-6i22.5	ENSTNIG00000013128	Others	NA
+Tetraodon_nigroviridis	med19a	ENSTNIG00000013129	Mediator complex	NA
+Tetraodon_nigroviridis	ran	ENSTNIG00000013137	Others	NA
+Tetraodon_nigroviridis	kdm2ab	ENSTNIG00000013139	Lysine demethylase	NA
+Tetraodon_nigroviridis	kat6b	ENSTNIG00000013168	Lysine acetyltransferase	NA
+Tetraodon_nigroviridis	edrf1	ENSTNIG00000013342	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000013343	Others	NA
+Tetraodon_nigroviridis	ncoa4	ENSTNIG00000013384	Nuclear receptor coactivator	NA
+Tetraodon_nigroviridis	fgfr2	ENSTNIG00000013415	FGF	NA
+Tetraodon_nigroviridis	btf3	ENSTNIG00000013434	Others	NA
+Tetraodon_nigroviridis	ankra2	ENSTNIG00000013435	Ankyrin repeat	NA
+Tetraodon_nigroviridis	dab2	ENSTNIG00000013445	Others	NA
+Tetraodon_nigroviridis	fbp1b	ENSTNIG00000013448	Others	NA
+Tetraodon_nigroviridis	erbin	ENSTNIG00000013462	Erbb2	NA
+Tetraodon_nigroviridis	lin54	ENSTNIG00000013496	Others	NA
+Tetraodon_nigroviridis	kmt5aa	ENSTNIG00000013507	Lysine methyltransferase	NA
+Tetraodon_nigroviridis	ash2l	ENSTNIG00000013590	Others	NA
+Tetraodon_nigroviridis	epc1a	ENSTNIG00000013617	Others	NA
+Tetraodon_nigroviridis	puf60b	ENSTNIG00000013675	Others	NA
+Tetraodon_nigroviridis	cep290	ENSTNIG00000013718	Others	NA
+Tetraodon_nigroviridis	lrrk2	ENSTNIG00000013726	Other_CRF	NA
+Tetraodon_nigroviridis	rnf141	ENSTNIG00000013733	Ring finger protein	NA
+Tetraodon_nigroviridis	phf21ab	ENSTNIG00000013755	PHF	NA
+Tetraodon_nigroviridis	sap130a	ENSTNIG00000013766	SAP	NA
+Tetraodon_nigroviridis	elp4	ENSTNIG00000013803	ELP	NA
+Tetraodon_nigroviridis	ajuba	ENSTNIG00000013840	Others	NA
+Tetraodon_nigroviridis	cideb	ENSTNIG00000013849	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000013854	Others	NA
+Tetraodon_nigroviridis	dcaf6	ENSTNIG00000013902	Others	NA
+Tetraodon_nigroviridis	asb11	ENSTNIG00000013910	Ankyrin repeat	NA
+Tetraodon_nigroviridis	gsk3bb	ENSTNIG00000013933	Others	NA
+Tetraodon_nigroviridis	bcl9	ENSTNIG00000013939	BCL	NA
+Tetraodon_nigroviridis	chaf1b	ENSTNIG00000013940	Others	NA
+Tetraodon_nigroviridis	tbl1x	ENSTNIG00000013952	Transducin	NA
+Tetraodon_nigroviridis	ino80da	ENSTNIG00000013984	INO80 complex	NA
+Tetraodon_nigroviridis	hdac5	ENSTNIG00000014002	Histone deacetylase	NA
+Tetraodon_nigroviridis	carm1	ENSTNIG00000014008	Others	NA
+Tetraodon_nigroviridis	si:ch1073-296d18.1	ENSTNIG00000014023	PARP	NA
+Tetraodon_nigroviridis	ctdp1	ENSTNIG00000014029	Others	NA
+Tetraodon_nigroviridis	sirt7	ENSTNIG00000014055	Sirtuin	NA
+Tetraodon_nigroviridis	dnajb1b	ENSTNIG00000014090	Others	NA
+Tetraodon_nigroviridis	smurf2	ENSTNIG00000014114	Others	NA
+Tetraodon_nigroviridis	bptf	ENSTNIG00000014125	Bromodomain	NA
+Tetraodon_nigroviridis	nol11	ENSTNIG00000014126	Nuclear coactivator	NA
+Tetraodon_nigroviridis		ENSTNIG00000014147	Others	NA
+Tetraodon_nigroviridis	baz1b	ENSTNIG00000014185	Bromodomain	NA
+Tetraodon_nigroviridis	dcc	ENSTNIG00000014194	Others	NA
+Tetraodon_nigroviridis	ccnd1	ENSTNIG00000014196	Cyclin	NA
+Tetraodon_nigroviridis	grhpra	ENSTNIG00000014215	Others	NA
+Tetraodon_nigroviridis	smurf1	ENSTNIG00000014247	Others	NA
+Tetraodon_nigroviridis	ACTN4	ENSTNIG00000014277	Actin	NA
+Tetraodon_nigroviridis	crk	ENSTNIG00000014289	Others	NA
+Tetraodon_nigroviridis	PER2	ENSTNIG00000014323	Others	NA
+Tetraodon_nigroviridis	dpf1	ENSTNIG00000014341	DPF	NA
+Tetraodon_nigroviridis		ENSTNIG00000014369	Others	NA
+Tetraodon_nigroviridis	cnot9	ENSTNIG00000014501	CCR4-NOT	NA
+Tetraodon_nigroviridis	kdm6al	ENSTNIG00000014541	Lysine demethylase	NA
+Tetraodon_nigroviridis	caskb	ENSTNIG00000014545	CAMK	NA
+Tetraodon_nigroviridis	MSL3	ENSTNIG00000014548	Others	NA
+Tetraodon_nigroviridis	pfdn5	ENSTNIG00000014572	Others	NA
+Tetraodon_nigroviridis	pa2g4a	ENSTNIG00000014597	Others	NA
+Tetraodon_nigroviridis	WDR77	ENSTNIG00000014633	WD	NA
+Tetraodon_nigroviridis	med20	ENSTNIG00000014647	Mediator complex	NA
+Tetraodon_nigroviridis	ssu72	ENSTNIG00000014655	Others	NA
+Tetraodon_nigroviridis	rhoab	ENSTNIG00000014672	Others	NA
+Tetraodon_nigroviridis	CAMK1	ENSTNIG00000014730	CAMK	NA
+Tetraodon_nigroviridis	HYAL2	ENSTNIG00000014764	Others	NA
+Tetraodon_nigroviridis	skib	ENSTNIG00000014776	SKI	NA
+Tetraodon_nigroviridis	park7	ENSTNIG00000014798	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000014804	Others	NA
+Tetraodon_nigroviridis	vgll4b	ENSTNIG00000014811	Vestigial like	NA
+Tetraodon_nigroviridis	cbfa2t2	ENSTNIG00000014834	Others	NA
+Tetraodon_nigroviridis	egfra	ENSTNIG00000014840	Others	NA
+Tetraodon_nigroviridis	dapk3	ENSTNIG00000014909	Others	NA
+Tetraodon_nigroviridis	skila	ENSTNIG00000014912	SKI	NA
+Tetraodon_nigroviridis	abt1	ENSTNIG00000014961	Others	NA
+Tetraodon_nigroviridis	med14	ENSTNIG00000014969	Mediator complex	NA
+Tetraodon_nigroviridis	mycbp2	ENSTNIG00000014997	MYC	NA
+Tetraodon_nigroviridis	cbx5	ENSTNIG00000015048	Chromobox	NA
+Tetraodon_nigroviridis	calcoco1a	ENSTNIG00000015050	Others	NA
+Tetraodon_nigroviridis	si:dkey-21c19.3	ENSTNIG00000015055	Others	NA
+Tetraodon_nigroviridis	phf8	ENSTNIG00000015086	PHF	NA
+Tetraodon_nigroviridis	rbm15	ENSTNIG00000015129	RNA binding protein	NA
+Tetraodon_nigroviridis	noc2l	ENSTNIG00000015158	Others	NA
+Tetraodon_nigroviridis	ctnnbip1	ENSTNIG00000015165	Casein	NA
+Tetraodon_nigroviridis	pex14	ENSTNIG00000015175	Others	NA
+Tetraodon_nigroviridis	nif3l1	ENSTNIG00000015213	Others	NA
+Tetraodon_nigroviridis	ss18	ENSTNIG00000015220	SS18	NA
+Tetraodon_nigroviridis	plk3	ENSTNIG00000015250	Others	NA
+Tetraodon_nigroviridis	yeats2	ENSTNIG00000015285	Others	NA
+Tetraodon_nigroviridis	NDUFA13	ENSTNIG00000015309	Others	NA
+Tetraodon_nigroviridis	sirt6	ENSTNIG00000015330	Sirtuin	NA
+Tetraodon_nigroviridis	ascc2	ENSTNIG00000015356	ASCC	NA
+Tetraodon_nigroviridis	cdk7	ENSTNIG00000015407	Cyclin	NA
+Tetraodon_nigroviridis	JMY	ENSTNIG00000015414	Others	NA
+Tetraodon_nigroviridis	ccnh	ENSTNIG00000015439	Cyclin	NA
+Tetraodon_nigroviridis	safb	ENSTNIG00000015470	Others	NA
+Tetraodon_nigroviridis	calr	ENSTNIG00000015492	Others	NA
+Tetraodon_nigroviridis	sin3b	ENSTNIG00000015504	Others	NA
+Tetraodon_nigroviridis	dmap1	ENSTNIG00000015531	DNA_methylase	NA
+Tetraodon_nigroviridis	tab3	ENSTNIG00000015537	Others	NA
+Tetraodon_nigroviridis	actl6a	ENSTNIG00000015546	Actin	NA
+Tetraodon_nigroviridis	malt1	ENSTNIG00000015577	Others	NA
+Tetraodon_nigroviridis	suds3	ENSTNIG00000015618	Other_Co-activator/repressors	NA
+Tetraodon_nigroviridis	camk2b1	ENSTNIG00000015627	CAMK	NA
+Tetraodon_nigroviridis	kank1a	ENSTNIG00000015638	Others	NA
+Tetraodon_nigroviridis	zmym2	ENSTNIG00000015677	Zinc finger	NA
+Tetraodon_nigroviridis	mphosph8	ENSTNIG00000015678	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000015679	Others	NA
+Tetraodon_nigroviridis	aurkb	ENSTNIG00000015730	Others	NA
+Tetraodon_nigroviridis	slc30a9	ENSTNIG00000015735	SLC	NA
+Tetraodon_nigroviridis	med12	ENSTNIG00000015746	Mediator complex	NA
+Tetraodon_nigroviridis	btk	ENSTNIG00000015750	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000015762	Others	NA
+Tetraodon_nigroviridis	tenm1	ENSTNIG00000015779	Others	NA
+Tetraodon_nigroviridis	TENM2	ENSTNIG00000015790	Others	NA
+Tetraodon_nigroviridis	gtf2h3	ENSTNIG00000015819	GTF	NA
+Tetraodon_nigroviridis	thoc5	ENSTNIG00000015915	Others	NA
+Tetraodon_nigroviridis	ikbkb	ENSTNIG00000015917	Others	NA
+Tetraodon_nigroviridis	nsd3	ENSTNIG00000015930	Nuclear receptor coactivator	NA
+Tetraodon_nigroviridis		ENSTNIG00000015956	Transducin	NA
+Tetraodon_nigroviridis	taf3	ENSTNIG00000016008	TATA-box	NA
+Tetraodon_nigroviridis	pidd1	ENSTNIG00000016078	Others	NA
+Tetraodon_nigroviridis	med21	ENSTNIG00000016101	Mediator complex	NA
+Tetraodon_nigroviridis	PCBD2	ENSTNIG00000016103	Others	NA
+Tetraodon_nigroviridis	macroh2a1	ENSTNIG00000016105	Others	NA
+Tetraodon_nigroviridis	supt6h	ENSTNIG00000016157	SUPT	NA
+Tetraodon_nigroviridis	picalmb	ENSTNIG00000016174	Others	NA
+Tetraodon_nigroviridis	SAMD4B	ENSTNIG00000016193	Others	NA
+Tetraodon_nigroviridis	paf1	ENSTNIG00000016194	Others	NA
+Tetraodon_nigroviridis	ILK	ENSTNIG00000016247	Others	NA
+Tetraodon_nigroviridis	bcl9l	ENSTNIG00000016293	BCL	NA
+Tetraodon_nigroviridis	ccnc	ENSTNIG00000016298	Cyclin	NA
+Tetraodon_nigroviridis	si:ch73-21k16.1	ENSTNIG00000016305	LPIN	NA
+Tetraodon_nigroviridis	ddx1	ENSTNIG00000016309	RNA helicase	NA
+Tetraodon_nigroviridis	SGK1	ENSTNIG00000016322	Others	NA
+Tetraodon_nigroviridis	eya4	ENSTNIG00000016327	EYA	NA
+Tetraodon_nigroviridis	NCOA7	ENSTNIG00000016368	Nuclear receptor coactivator	NA
+Tetraodon_nigroviridis	lin9	ENSTNIG00000016385	Others	NA
+Tetraodon_nigroviridis	rnf8	ENSTNIG00000016395	Ring finger protein	NA
+Tetraodon_nigroviridis	taf1a	ENSTNIG00000016398	TATA-box	NA
+Tetraodon_nigroviridis	ezrb	ENSTNIG00000016405	Others	NA
+Tetraodon_nigroviridis	prmt2	ENSTNIG00000016455	Arginine methyltransferase	NA
+Tetraodon_nigroviridis	npm3	ENSTNIG00000016518	Nucleoplasmin	NA
+Tetraodon_nigroviridis	sufu	ENSTNIG00000016519	Others	NA
+Tetraodon_nigroviridis	si:dkey-85a20.4	ENSTNIG00000016586	Others	NA
+Tetraodon_nigroviridis	nsmce4a	ENSTNIG00000016623	EID	NA
+Tetraodon_nigroviridis	egln1a	ENSTNIG00000016662	Others	NA
+Tetraodon_nigroviridis	smyd1b	ENSTNIG00000016679	SMYD	NA
+Tetraodon_nigroviridis	fgf5	ENSTNIG00000016711	FGF	NA
+Tetraodon_nigroviridis	cnot6l	ENSTNIG00000016717	CCR4-NOT	NA
+Tetraodon_nigroviridis	seta	ENSTNIG00000016723	SET	NA
+Tetraodon_nigroviridis	SMARCB1	ENSTNIG00000016724	SWI/SNF	NA
+Tetraodon_nigroviridis	hira	ENSTNIG00000016740	Others	NA
+Tetraodon_nigroviridis	rap2c	ENSTNIG00000016813	Others	NA
+Tetraodon_nigroviridis	rbmx	ENSTNIG00000016844	RNA binding protein	NA
+Tetraodon_nigroviridis	taf7	ENSTNIG00000016852	TATA-box	NA
+Tetraodon_nigroviridis	mid1ip1l	ENSTNIG00000016862	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000016872	Others	NA
+Tetraodon_nigroviridis	ppie	ENSTNIG00000016901	Others	NA
+Tetraodon_nigroviridis	hat1	ENSTNIG00000016937	Others	NA
+Tetraodon_nigroviridis	rprd1a	ENSTNIG00000016969	Others	NA
+Tetraodon_nigroviridis	snrnp40	ENSTNIG00000016981	WD	NA
+Tetraodon_nigroviridis	ecd	ENSTNIG00000017018	Others	NA
+Tetraodon_nigroviridis	actn2b	ENSTNIG00000017022	Actin	NA
+Tetraodon_nigroviridis	adrb2a	ENSTNIG00000017062	Others	NA
+Tetraodon_nigroviridis	smarcd3b	ENSTNIG00000017141	SWI/SNF	NA
+Tetraodon_nigroviridis	aatf	ENSTNIG00000017159	Others	NA
+Tetraodon_nigroviridis	nab1a	ENSTNIG00000017163	Others	NA
+Tetraodon_nigroviridis	fhl5	ENSTNIG00000017223	FHL	NA
+Tetraodon_nigroviridis	kdm1a	ENSTNIG00000017255	Lysine demethylase	NA
+Tetraodon_nigroviridis	znf593	ENSTNIG00000017288	Zinc finger	NA
+Tetraodon_nigroviridis	tonsl	ENSTNIG00000017293	Others	NA
+Tetraodon_nigroviridis	mnat1	ENSTNIG00000017343	Others	NA
+Tetraodon_nigroviridis	asb2b	ENSTNIG00000017367	BCL	NA
+Tetraodon_nigroviridis	siva1	ENSTNIG00000017458	Others	NA
+Tetraodon_nigroviridis	rbbp4	ENSTNIG00000017473	RBBP	NA
+Tetraodon_nigroviridis	lmcd1	ENSTNIG00000017495	LIM	NA
+Tetraodon_nigroviridis	rptor	ENSTNIG00000017505	Others	NA
+Tetraodon_nigroviridis	DDX5	ENSTNIG00000017510	RNA helicase	NA
+Tetraodon_nigroviridis		ENSTNIG00000017530	Others	NA
+Tetraodon_nigroviridis	s100s	ENSTNIG00000017561	Others	NA
+Tetraodon_nigroviridis	smarcad1a	ENSTNIG00000017585	SWI/SNF	NA
+Tetraodon_nigroviridis	lyn	ENSTNIG00000017609	Others	NA
+Tetraodon_nigroviridis	tbp	ENSTNIG00000017681	TATA-box	NA
+Tetraodon_nigroviridis	phf10	ENSTNIG00000017684	PHF	NA
+Tetraodon_nigroviridis	smyd2a	ENSTNIG00000017691	SMYD	NA
+Tetraodon_nigroviridis	tfb2m	ENSTNIG00000017700	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000017702	SMYD	NA
+Tetraodon_nigroviridis	smarca5	ENSTNIG00000017717	SWI/SNF	NA
+Tetraodon_nigroviridis	zgc:114119	ENSTNIG00000017741	Mediator complex	NA
+Tetraodon_nigroviridis	abrab	ENSTNIG00000017745	Actin	NA
+Tetraodon_nigroviridis	ago2	ENSTNIG00000017760	Others	NA
+Tetraodon_nigroviridis	gmnn	ENSTNIG00000017789	Others	NA
+Tetraodon_nigroviridis	tdp2b	ENSTNIG00000017792	Others	NA
+Tetraodon_nigroviridis	chrac1	ENSTNIG00000017796	Other_CRF	NA
+Tetraodon_nigroviridis	prpf6	ENSTNIG00000017873	Others	NA
+Tetraodon_nigroviridis	tasorb	ENSTNIG00000017883	FAM	NA
+Tetraodon_nigroviridis	DCAF1	ENSTNIG00000017889	Others	NA
+Tetraodon_nigroviridis	ywhabb	ENSTNIG00000017902	Others	NA
+Tetraodon_nigroviridis	ern1	ENSTNIG00000017990	Others	NA
+Tetraodon_nigroviridis	cbx4	ENSTNIG00000017994	Chromobox	NA
+Tetraodon_nigroviridis	psip1a	ENSTNIG00000018015	Others	NA
+Tetraodon_nigroviridis	tprb	ENSTNIG00000018122	Others	NA
+Tetraodon_nigroviridis	lyn	ENSTNIG00000018133	Others	NA
+Tetraodon_nigroviridis	sdr16c5a	ENSTNIG00000018139	Others	NA
+Tetraodon_nigroviridis	rnf2	ENSTNIG00000018148	Ring finger protein	NA
+Tetraodon_nigroviridis	rnf14	ENSTNIG00000018203	Ring finger protein	NA
+Tetraodon_nigroviridis	mcrs1	ENSTNIG00000018244	Others	NA
+Tetraodon_nigroviridis	timeless	ENSTNIG00000018247	Others	NA
+Tetraodon_nigroviridis	cdk2	ENSTNIG00000018250	Cyclin	NA
+Tetraodon_nigroviridis	itcha	ENSTNIG00000018256	Others	NA
+Tetraodon_nigroviridis	smarcd1	ENSTNIG00000018263	SWI/SNF	NA
+Tetraodon_nigroviridis	SRC	ENSTNIG00000018270	Others	NA
+Tetraodon_nigroviridis	padi2	ENSTNIG00000018300	Other_CRF	NA
+Tetraodon_nigroviridis		ENSTNIG00000018390	Others	NA
+Tetraodon_nigroviridis	brd9	ENSTNIG00000018411	Bromodomain	NA
+Tetraodon_nigroviridis	trip13	ENSTNIG00000018413	Thyroid hormone receptor	NA
+Tetraodon_nigroviridis	csnk2a1	ENSTNIG00000018457	Casein	NA
+Tetraodon_nigroviridis		ENSTNIG00000018505	Others	NA
+Tetraodon_nigroviridis	notch3	ENSTNIG00000018559	Notch	NA
+Tetraodon_nigroviridis	dnmt1	ENSTNIG00000018567	DNA_methylase	NA
+Tetraodon_nigroviridis	kdm8	ENSTNIG00000018595	Lysine demethylase	NA
+Tetraodon_nigroviridis	axin1	ENSTNIG00000018601	Others	NA
+Tetraodon_nigroviridis	tcea1	ENSTNIG00000018638	TEF	NA
+Tetraodon_nigroviridis	lpin2	ENSTNIG00000018647	LPIN	NA
+Tetraodon_nigroviridis	cdk9	ENSTNIG00000018657	Cyclin	NA
+Tetraodon_nigroviridis	fbxw7	ENSTNIG00000018665	Others	NA
+Tetraodon_nigroviridis	cnot1	ENSTNIG00000018706	CCR4-NOT	NA
+Tetraodon_nigroviridis	dyrk2	ENSTNIG00000018717	Others	NA
+Tetraodon_nigroviridis	edf1	ENSTNIG00000018732	Others	NA
+Tetraodon_nigroviridis	trim32	ENSTNIG00000018740	Tripartite motif	NA
+Tetraodon_nigroviridis	tab1	ENSTNIG00000018827	Others	NA
+Tetraodon_nigroviridis	cbx6a	ENSTNIG00000018842	Chromobox	NA
+Tetraodon_nigroviridis	fgfr1a	ENSTNIG00000018850	FGF	NA
+Tetraodon_nigroviridis	loxl2b	ENSTNIG00000018860	Others	NA
+Tetraodon_nigroviridis	tnksb	ENSTNIG00000018875	Others	NA
+Tetraodon_nigroviridis	PIK3R1	ENSTNIG00000018878	Others	NA
+Tetraodon_nigroviridis	smarcd2	ENSTNIG00000018921	SWI/SNF	NA
+Tetraodon_nigroviridis	erbb2	ENSTNIG00000018932	Erbb2	NA
+Tetraodon_nigroviridis	TGFB1I1	ENSTNIG00000018936	Others	NA
+Tetraodon_nigroviridis	lancl2	ENSTNIG00000018952	Others	NA
+Tetraodon_nigroviridis	prmt6	ENSTNIG00000018964	Arginine methyltransferase	NA
+Tetraodon_nigroviridis	ercc2	ENSTNIG00000018980	Others	NA
+Tetraodon_nigroviridis	nelfa	ENSTNIG00000019050	GTF	NA
+Tetraodon_nigroviridis	atad2	ENSTNIG00000019080	Others	NA
+Tetraodon_nigroviridis	ctnnb1	ENSTNIG00000019094	Casein	NA
+Tetraodon_nigroviridis	rad21a	ENSTNIG00000019110	Others	NA
+Tetraodon_nigroviridis	elp3	ENSTNIG00000019169	ELP	NA
+Tetraodon_nigroviridis	igf1ra	ENSTNIG00000019227	Others	NA
+Tetraodon_nigroviridis	hipk2	ENSTNIG00000019254	HIPK	NA
+Tetraodon_nigroviridis	kmt2a	ENSTNIG00000019281	Lysine methyltransferase	NA
+Tetraodon_nigroviridis	sav1	ENSTNIG00000019333	Others	NA
+Tetraodon_nigroviridis	med6	ENSTNIG00000019350	Mediator complex	NA
+Tetraodon_nigroviridis	rtf1	ENSTNIG00000019356	Others	NA
+Tetraodon_nigroviridis		ENSTNIG00000019378	Others	NA
+Tetraodon_nigroviridis	ascc1	ENSTNIG00000019392	ASCC	NA
+Tetraodon_nigroviridis	ddx20	ENSTNIG00000019425	RNA helicase	NA
+Tetraodon_nigroviridis	hltf	ENSTNIG00000019430	Others	NA
+Tetraodon_nigroviridis	aipl1	ENSTNIG00000019492	Others	NA
+Tetraodon_nigroviridis	polr3c	ENSTNIG00000019501	POLR	NA
+Tetraodon_nigroviridis	med7	ENSTNIG00000019596	Mediator complex	NA
+Tetraodon_nigroviridis	apbb1	ENSTNIG00000019730	Others	NA
+Tetraodon_nigroviridis	KDM1B	ENSTNIG00000019845	Lysine demethylase	NA

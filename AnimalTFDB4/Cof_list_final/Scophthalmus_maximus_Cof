@@ -1,0 +1,742 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Scophthalmus_maximus		ENSSMAG00000000029	Others	NA
+Scophthalmus_maximus	per2	ENSSMAG00000000137	Others	118311342
+Scophthalmus_maximus	TAF4	ENSSMAG00000000140	TATA-box	NA
+Scophthalmus_maximus	sirt2	ENSSMAG00000000201	Sirtuin	118299053
+Scophthalmus_maximus	actb1	ENSSMAG00000000233	Actin	NA
+Scophthalmus_maximus		ENSSMAG00000000252	Others	118311877
+Scophthalmus_maximus	ssu72	ENSSMAG00000000258	Others	118309286
+Scophthalmus_maximus	dpf1	ENSSMAG00000000322	DPF	118299213
+Scophthalmus_maximus	RNF111	ENSSMAG00000000341	Ring finger protein	NA
+Scophthalmus_maximus	sltm	ENSSMAG00000000355	Others	118301889
+Scophthalmus_maximus	med20	ENSSMAG00000000375	Mediator complex	118309283
+Scophthalmus_maximus		ENSSMAG00000000479	Others	NA
+Scophthalmus_maximus	plk3	ENSSMAG00000000488	Others	118310509
+Scophthalmus_maximus	c1qbp	ENSSMAG00000000492	Others	118301294
+Scophthalmus_maximus		ENSSMAG00000000497	RNA helicase	118301291
+Scophthalmus_maximus		ENSSMAG00000000528	Casein	118302761
+Scophthalmus_maximus	cep290	ENSSMAG00000000534	Others	NA
+Scophthalmus_maximus		ENSSMAG00000000543	NFKB associated	118314123
+Scophthalmus_maximus		ENSSMAG00000000544	Others	NA
+Scophthalmus_maximus		ENSSMAG00000000546	WD	NA
+Scophthalmus_maximus		ENSSMAG00000000589	Others	NA
+Scophthalmus_maximus	lrrk2	ENSSMAG00000000648	Other_CRF	NA
+Scophthalmus_maximus	arhgap5	ENSSMAG00000000757	Others	118285708
+Scophthalmus_maximus	supt6h	ENSSMAG00000000771	SUPT	NA
+Scophthalmus_maximus	ago4	ENSSMAG00000000808	Others	118291986
+Scophthalmus_maximus	hif1an	ENSSMAG00000000873	Others	118283559
+Scophthalmus_maximus	hck	ENSSMAG00000000875	Others	118316439
+Scophthalmus_maximus	frk	ENSSMAG00000000878	Others	118289813
+Scophthalmus_maximus	ran	ENSSMAG00000000887	Others	118319015
+Scophthalmus_maximus	auts2a	ENSSMAG00000000936	Others	NA
+Scophthalmus_maximus	kdm2ab	ENSSMAG00000000953	Lysine demethylase	118320063
+Scophthalmus_maximus		ENSSMAG00000000964	Transducin	118314225
+Scophthalmus_maximus	KAT6B	ENSSMAG00000000982	Lysine acetyltransferase	118287077
+Scophthalmus_maximus	anxa4	ENSSMAG00000000996	Others	NA
+Scophthalmus_maximus	chd7	ENSSMAG00000001030	CHD	NA
+Scophthalmus_maximus	setd4	ENSSMAG00000001111	SET	118283792
+Scophthalmus_maximus		ENSSMAG00000001118	SLC	118301445
+Scophthalmus_maximus	blm	ENSSMAG00000001120	Others	118315001
+Scophthalmus_maximus	kdm2bb	ENSSMAG00000001160	Lysine demethylase	118285085
+Scophthalmus_maximus	meaf6	ENSSMAG00000001163	Others	118292090
+Scophthalmus_maximus		ENSSMAG00000001196	Other_Co-activator/repressors	118308753
+Scophthalmus_maximus		ENSSMAG00000001223	Others	118316602
+Scophthalmus_maximus	CAVIN1	ENSSMAG00000001236	Others	118287403
+Scophthalmus_maximus	bcl9l	ENSSMAG00000001239	BCL	NA
+Scophthalmus_maximus	yeats2	ENSSMAG00000001254	Others	NA
+Scophthalmus_maximus	thrap3b	ENSSMAG00000001259	Thyroid hormone receptor	118292085
+Scophthalmus_maximus		ENSSMAG00000001331	Arginine methyltransferase	118282875
+Scophthalmus_maximus	pdcd4b	ENSSMAG00000001335	Others	118312011
+Scophthalmus_maximus	chd6	ENSSMAG00000001453	CHD	NA
+Scophthalmus_maximus	ruvbl1	ENSSMAG00000001493	Other_CRF	118309683
+Scophthalmus_maximus	sap130a	ENSSMAG00000001505	SAP	118318410
+Scophthalmus_maximus	strn3	ENSSMAG00000001557	Others	NA
+Scophthalmus_maximus		ENSSMAG00000001577	PHF	118317592
+Scophthalmus_maximus		ENSSMAG00000001602	Others	118287397
+Scophthalmus_maximus	fbxw11a	ENSSMAG00000001650	Others	118319176
+Scophthalmus_maximus		ENSSMAG00000001652	RNA helicase	NA
+Scophthalmus_maximus	brd1b	ENSSMAG00000001655	Bromodomain	NA
+Scophthalmus_maximus	eya3	ENSSMAG00000001662	EYA	NA
+Scophthalmus_maximus	vhl	ENSSMAG00000001782	Others	118309860
+Scophthalmus_maximus		ENSSMAG00000001801	Others	NA
+Scophthalmus_maximus	pa2g4a	ENSSMAG00000001806	Others	118309436
+Scophthalmus_maximus		ENSSMAG00000001807	Others	118309519
+Scophthalmus_maximus		ENSSMAG00000001815	MAML	118298889
+Scophthalmus_maximus		ENSSMAG00000001832	Others	118312944
+Scophthalmus_maximus	asf1ba	ENSSMAG00000001833	Others	118288239
+Scophthalmus_maximus		ENSSMAG00000001851	Chromodomain Y	NA
+Scophthalmus_maximus		ENSSMAG00000001893	SUPT	118283481
+Scophthalmus_maximus	dscama	ENSSMAG00000001896	Others	118301478
+Scophthalmus_maximus	snd1	ENSSMAG00000001932	Others	NA
+Scophthalmus_maximus		ENSSMAG00000001959	SKI	118316640
+Scophthalmus_maximus		ENSSMAG00000001985	Others	118309271
+Scophthalmus_maximus		ENSSMAG00000002004	Others	118312929
+Scophthalmus_maximus		ENSSMAG00000002071	Other_Co-activator/repressors	118320361
+Scophthalmus_maximus	ccar1	ENSSMAG00000002119	Others	NA
+Scophthalmus_maximus	wdtc1	ENSSMAG00000002132	WD	118308828
+Scophthalmus_maximus	gtf2e1	ENSSMAG00000002137	GTF	NA
+Scophthalmus_maximus		ENSSMAG00000002143	Others	NA
+Scophthalmus_maximus		ENSSMAG00000002190	TATA-box	NA
+Scophthalmus_maximus	ascc1	ENSSMAG00000002213	ASCC	118287105
+Scophthalmus_maximus	fgfr1a	ENSSMAG00000002217	FGF	118313772
+Scophthalmus_maximus	nrip1b	ENSSMAG00000002339	Nuclear receptor coactivator	118300646
+Scophthalmus_maximus		ENSSMAG00000002373	Others	118311748
+Scophthalmus_maximus	hdac8	ENSSMAG00000002387	Histone deacetylase	118284690
+Scophthalmus_maximus	mycbp2	ENSSMAG00000002420	MYC	NA
+Scophthalmus_maximus		ENSSMAG00000002501	Others	118286963
+Scophthalmus_maximus		ENSSMAG00000002568	SAP	118307751
+Scophthalmus_maximus	ep400	ENSSMAG00000002585	Others	118313790
+Scophthalmus_maximus	elp4	ENSSMAG00000002597	ELP	118302033
+Scophthalmus_maximus	ash1l	ENSSMAG00000002663	Others	118291884
+Scophthalmus_maximus	prmt7	ENSSMAG00000002669	Arginine methyltransferase	118314707
+Scophthalmus_maximus	cthl	ENSSMAG00000002699	Others	118318328
+Scophthalmus_maximus	eapp	ENSSMAG00000002811	Others	118286053
+Scophthalmus_maximus	fhod1	ENSSMAG00000002829	Others	NA
+Scophthalmus_maximus		ENSSMAG00000002831	RNA helicase	118288936
+Scophthalmus_maximus	ELP3	ENSSMAG00000002962	ELP	NA
+Scophthalmus_maximus	actl6a	ENSSMAG00000002988	Actin	NA
+Scophthalmus_maximus		ENSSMAG00000003084	CCR4-NOT	NA
+Scophthalmus_maximus	RFXAP	ENSSMAG00000003100	Others	118300872
+Scophthalmus_maximus	slc25a15a	ENSSMAG00000003127	SLC	118299829
+Scophthalmus_maximus	waca	ENSSMAG00000003132	WW	118291276
+Scophthalmus_maximus	abl1	ENSSMAG00000003144	Others	118284470
+Scophthalmus_maximus		ENSSMAG00000003151	Others	NA
+Scophthalmus_maximus		ENSSMAG00000003161	Others	118301487
+Scophthalmus_maximus	pnrc2	ENSSMAG00000003176	Others	NA
+Scophthalmus_maximus	smarca4a	ENSSMAG00000003200	SWI/SNF	NA
+Scophthalmus_maximus	ddx54	ENSSMAG00000003210	RNA helicase	118284471
+Scophthalmus_maximus		ENSSMAG00000003212	Others	118313912
+Scophthalmus_maximus	smyd1b	ENSSMAG00000003301	SMYD	NA
+Scophthalmus_maximus	MED13L	ENSSMAG00000003366	Mediator complex	118284826
+Scophthalmus_maximus	suv39h1a	ENSSMAG00000003370	Others	118317298
+Scophthalmus_maximus	tab3	ENSSMAG00000003398	Others	118318106
+Scophthalmus_maximus		ENSSMAG00000003421	Sirtuin	118311316
+Scophthalmus_maximus		ENSSMAG00000003426	Mediator complex	118317950
+Scophthalmus_maximus	tob1b	ENSSMAG00000003500	Others	118287745
+Scophthalmus_maximus	fbxw7	ENSSMAG00000003555	Others	118312421
+Scophthalmus_maximus	SNIP1	ENSSMAG00000003570	Others	118287626
+Scophthalmus_maximus	hnrnpub	ENSSMAG00000003607	HNRNP	118290145
+Scophthalmus_maximus	notch3	ENSSMAG00000003624	Notch	NA
+Scophthalmus_maximus		ENSSMAG00000003681	Others	118318556
+Scophthalmus_maximus	hcls1	ENSSMAG00000003807	Others	NA
+Scophthalmus_maximus	smurf2	ENSSMAG00000003854	Others	NA
+Scophthalmus_maximus		ENSSMAG00000003883	RBBP	118309214
+Scophthalmus_maximus	ccnk	ENSSMAG00000003887	Cyclin	118290435
+Scophthalmus_maximus		ENSSMAG00000003938	Others	118284238
+Scophthalmus_maximus	dmap1	ENSSMAG00000003952	DNA_methylase	118317786
+Scophthalmus_maximus	kmt2e	ENSSMAG00000003962	Lysine methyltransferase	NA
+Scophthalmus_maximus		ENSSMAG00000004000	Lysine demethylase	NA
+Scophthalmus_maximus		ENSSMAG00000004009	Others	NA
+Scophthalmus_maximus		ENSSMAG00000004036	GTF	NA
+Scophthalmus_maximus	kdm3b	ENSSMAG00000004038	Lysine demethylase	118319053
+Scophthalmus_maximus	pcgf5a	ENSSMAG00000004039	PCGF	118283850
+Scophthalmus_maximus		ENSSMAG00000004046	Others	118315714
+Scophthalmus_maximus		ENSSMAG00000004056	Others	NA
+Scophthalmus_maximus	wbp2	ENSSMAG00000004060	WW	118287431
+Scophthalmus_maximus	snw1	ENSSMAG00000004061	Others	118290644
+Scophthalmus_maximus		ENSSMAG00000004113	Others	118310002
+Scophthalmus_maximus	dnmt1	ENSSMAG00000004135	DNA_methylase	118288466
+Scophthalmus_maximus	med14	ENSSMAG00000004174	Mediator complex	118320397
+Scophthalmus_maximus		ENSSMAG00000004183	Others	118313771
+Scophthalmus_maximus		ENSSMAG00000004227	Cyclin	118309643
+Scophthalmus_maximus		ENSSMAG00000004238	Lysine methyltransferase	118301884
+Scophthalmus_maximus		ENSSMAG00000004273	Other_CRF	118309038
+Scophthalmus_maximus	brms1lb	ENSSMAG00000004279	Other_CRF	118290358
+Scophthalmus_maximus	si:dkey-21c19.3	ENSSMAG00000004286	Others	118316805
+Scophthalmus_maximus	hspa8	ENSSMAG00000004305	Heat shock protein	118301350
+Scophthalmus_maximus	nfkbiaa	ENSSMAG00000004355	NFKB associated	NA
+Scophthalmus_maximus	lancl2	ENSSMAG00000004367	Others	118291258
+Scophthalmus_maximus		ENSSMAG00000004372	Others	118292411
+Scophthalmus_maximus	pycard	ENSSMAG00000004414	Others	118313138
+Scophthalmus_maximus	calcoco1a	ENSSMAG00000004444	Others	NA
+Scophthalmus_maximus	supt5h	ENSSMAG00000004503	SUPT	NA
+Scophthalmus_maximus	ccnt2a	ENSSMAG00000004571	Cyclin	118320419
+Scophthalmus_maximus	cbx5	ENSSMAG00000004605	Chromobox	118317581
+Scophthalmus_maximus	nelfcd	ENSSMAG00000004607	GTF	NA
+Scophthalmus_maximus	RNF14	ENSSMAG00000004650	Ring finger protein	118300534
+Scophthalmus_maximus	vgll2a	ENSSMAG00000004666	Vestigial like	NA
+Scophthalmus_maximus		ENSSMAG00000004730	Others	118313608
+Scophthalmus_maximus	si:ch1073-459j12.1	ENSSMAG00000004772	Others	118313605
+Scophthalmus_maximus	phip	ENSSMAG00000004786	Others	118289898
+Scophthalmus_maximus		ENSSMAG00000004801	SWI/SNF	NA
+Scophthalmus_maximus	tbp	ENSSMAG00000004822	TATA-box	118302172
+Scophthalmus_maximus		ENSSMAG00000004861	PHF	NA
+Scophthalmus_maximus		ENSSMAG00000004871	Others	NA
+Scophthalmus_maximus		ENSSMAG00000004911	Others	NA
+Scophthalmus_maximus	PHF21B	ENSSMAG00000004921	PHF	NA
+Scophthalmus_maximus		ENSSMAG00000004952	Others	NA
+Scophthalmus_maximus		ENSSMAG00000004964	Others	118292916
+Scophthalmus_maximus	smyd2a	ENSSMAG00000005063	SMYD	NA
+Scophthalmus_maximus	atrx	ENSSMAG00000005192	Others	118319330
+Scophthalmus_maximus		ENSSMAG00000005197	Others	118287593
+Scophthalmus_maximus	nab2	ENSSMAG00000005219	Others	118309810
+Scophthalmus_maximus	pik3r2	ENSSMAG00000005255	Others	NA
+Scophthalmus_maximus		ENSSMAG00000005273	Others	118285299
+Scophthalmus_maximus	TAF11	ENSSMAG00000005281	TATA-box	NA
+Scophthalmus_maximus	kdm8	ENSSMAG00000005332	Lysine demethylase	118288359
+Scophthalmus_maximus	tnni1a	ENSSMAG00000005343	Others	NA
+Scophthalmus_maximus	crtc1a	ENSSMAG00000005344	CREB	118310788
+Scophthalmus_maximus		ENSSMAG00000005411	WW	NA
+Scophthalmus_maximus	axin1	ENSSMAG00000005456	Others	118289216
+Scophthalmus_maximus		ENSSMAG00000005476	Others	NA
+Scophthalmus_maximus	SIRT7	ENSSMAG00000005491	Sirtuin	118312601
+Scophthalmus_maximus		ENSSMAG00000005502	SMYD	118302659
+Scophthalmus_maximus		ENSSMAG00000005564	Others	118317655
+Scophthalmus_maximus	sin3aa	ENSSMAG00000005565	Other_CRF	118315328
+Scophthalmus_maximus	wdr61	ENSSMAG00000005623	WD	118315512
+Scophthalmus_maximus		ENSSMAG00000005675	Others	118311318
+Scophthalmus_maximus	nedd8	ENSSMAG00000005716	Others	118287923
+Scophthalmus_maximus		ENSSMAG00000005820	Others	118319728
+Scophthalmus_maximus	trim8b	ENSSMAG00000005821	Tripartite motif	118287003
+Scophthalmus_maximus	eaf2	ENSSMAG00000005873	Others	118282521
+Scophthalmus_maximus	rad21a	ENSSMAG00000005889	Others	118308418
+Scophthalmus_maximus	ldb1b	ENSSMAG00000005937	LIM	118313143
+Scophthalmus_maximus	arrb1	ENSSMAG00000005947	Others	118298058
+Scophthalmus_maximus		ENSSMAG00000005965	Nuclear receptor coactivator	118313498
+Scophthalmus_maximus	mms19	ENSSMAG00000005975	Others	NA
+Scophthalmus_maximus	rbx1	ENSSMAG00000005989	Others	NA
+Scophthalmus_maximus	kdm4ab	ENSSMAG00000006035	Lysine demethylase	118311572
+Scophthalmus_maximus	chchd6a	ENSSMAG00000006137	Coiled-coil	118317288
+Scophthalmus_maximus	znf451	ENSSMAG00000006276	Zinc finger	118284037
+Scophthalmus_maximus	PELI1	ENSSMAG00000006334	Others	118283930
+Scophthalmus_maximus	sfmbt2	ENSSMAG00000006339	Others	NA
+Scophthalmus_maximus	mdm4	ENSSMAG00000006348	Others	118309181
+Scophthalmus_maximus	itchb	ENSSMAG00000006375	Others	118317234
+Scophthalmus_maximus	ogt.1	ENSSMAG00000006384	Others	118319195
+Scophthalmus_maximus	calr	ENSSMAG00000006479	Others	NA
+Scophthalmus_maximus	xrcc6	ENSSMAG00000006496	Others	NA
+Scophthalmus_maximus	jade1	ENSSMAG00000006505	Others	118286014
+Scophthalmus_maximus	taf5	ENSSMAG00000006561	TATA-box	NA
+Scophthalmus_maximus	ctnnb1	ENSSMAG00000006590	Casein	118316252
+Scophthalmus_maximus	si:dkey-103i16.6	ENSSMAG00000006595	Sirtuin	118315567
+Scophthalmus_maximus	smurf1	ENSSMAG00000006623	Others	NA
+Scophthalmus_maximus	ikbkb	ENSSMAG00000006624	Others	118313444
+Scophthalmus_maximus	siva1	ENSSMAG00000006632	Others	NA
+Scophthalmus_maximus	bcl3	ENSSMAG00000006638	BCL	118312684
+Scophthalmus_maximus	trak1a	ENSSMAG00000006660	Others	118289523
+Scophthalmus_maximus	gnl3	ENSSMAG00000006662	Others	118309100
+Scophthalmus_maximus		ENSSMAG00000006704	Mediator complex	118313677
+Scophthalmus_maximus	mtf2	ENSSMAG00000006728	Others	118311732
+Scophthalmus_maximus		ENSSMAG00000006811	ELP	118319663
+Scophthalmus_maximus	rpap2	ENSSMAG00000006820	Others	118311730
+Scophthalmus_maximus		ENSSMAG00000006862	Cyclin	118300684
+Scophthalmus_maximus	PPARGC1B	ENSSMAG00000006930	Others	118319361
+Scophthalmus_maximus		ENSSMAG00000006935	Others	118290170
+Scophthalmus_maximus	pak6a	ENSSMAG00000006940	Others	118286590
+Scophthalmus_maximus		ENSSMAG00000006988	CHD	118300647
+Scophthalmus_maximus	gtf2b	ENSSMAG00000007044	GTF	NA
+Scophthalmus_maximus	phf5a	ENSSMAG00000007054	PHF	NA
+Scophthalmus_maximus	ncoa4	ENSSMAG00000007072	Nuclear receptor coactivator	118283527
+Scophthalmus_maximus	si:dkey-85a20.4	ENSSMAG00000007081	Others	118283460
+Scophthalmus_maximus	atad2	ENSSMAG00000007172	Others	118312865
+Scophthalmus_maximus	syk	ENSSMAG00000007199	Others	118300666
+Scophthalmus_maximus	stk3	ENSSMAG00000007202	Others	118292184
+Scophthalmus_maximus	ino80	ENSSMAG00000007221	INO80 complex	118290550
+Scophthalmus_maximus	ssbp3b	ENSSMAG00000007250	Others	118318789
+Scophthalmus_maximus	nelfa	ENSSMAG00000007273	GTF	118290139
+Scophthalmus_maximus	PCBD2	ENSSMAG00000007303	Others	NA
+Scophthalmus_maximus	kat2a	ENSSMAG00000007334	Lysine acetyltransferase	NA
+Scophthalmus_maximus		ENSSMAG00000007416	PCGF	118319581
+Scophthalmus_maximus	banp	ENSSMAG00000007428	Others	118315907
+Scophthalmus_maximus	padi2	ENSSMAG00000007447	Other_CRF	118308831
+Scophthalmus_maximus	hdac7b	ENSSMAG00000007505	Histone deacetylase	118308730
+Scophthalmus_maximus		ENSSMAG00000007532	Others	118320650
+Scophthalmus_maximus	trim33	ENSSMAG00000007543	Tripartite motif	118317226
+Scophthalmus_maximus		ENSSMAG00000007582	Others	118310284
+Scophthalmus_maximus	zmym2	ENSSMAG00000007592	Zinc finger	NA
+Scophthalmus_maximus		ENSSMAG00000007619	Others	NA
+Scophthalmus_maximus	men1	ENSSMAG00000007623	Others	NA
+Scophthalmus_maximus	epc1a	ENSSMAG00000007644	Others	118291101
+Scophthalmus_maximus		ENSSMAG00000007774	Others	NA
+Scophthalmus_maximus		ENSSMAG00000007794	RNA helicase	118312375
+Scophthalmus_maximus		ENSSMAG00000007826	PARP	NA
+Scophthalmus_maximus	xrn2	ENSSMAG00000007834	Others	NA
+Scophthalmus_maximus		ENSSMAG00000007863	Others	118314122
+Scophthalmus_maximus		ENSSMAG00000007893	FGF	118319853
+Scophthalmus_maximus	loxl3b	ENSSMAG00000007916	Others	118285804
+Scophthalmus_maximus		ENSSMAG00000007938	Tripartite motif	118300384
+Scophthalmus_maximus	hnrpkl	ENSSMAG00000007969	HNRNP	NA
+Scophthalmus_maximus	taf6l	ENSSMAG00000007984	TATA-box	118302083
+Scophthalmus_maximus		ENSSMAG00000008011	Others	NA
+Scophthalmus_maximus	VGLL3	ENSSMAG00000008049	Vestigial like	118282624
+Scophthalmus_maximus	YAF2	ENSSMAG00000008054	Others	118315200
+Scophthalmus_maximus	csrp3	ENSSMAG00000008056	Others	118302263
+Scophthalmus_maximus	PRPF6	ENSSMAG00000008112	Others	NA
+Scophthalmus_maximus	pcgf1	ENSSMAG00000008128	PCGF	118319886
+Scophthalmus_maximus	mrtfba	ENSSMAG00000008135	Others	NA
+Scophthalmus_maximus	GMNN	ENSSMAG00000008178	Others	118292432
+Scophthalmus_maximus		ENSSMAG00000008179	MYB	118300854
+Scophthalmus_maximus	tdp2b	ENSSMAG00000008213	Others	118292430
+Scophthalmus_maximus	dvl2	ENSSMAG00000008231	Others	118289375
+Scophthalmus_maximus	htatip2	ENSSMAG00000008235	Others	118302480
+Scophthalmus_maximus		ENSSMAG00000008273	Others	118300672
+Scophthalmus_maximus		ENSSMAG00000008298	Other_CRF	118292215
+Scophthalmus_maximus		ENSSMAG00000008327	Others	NA
+Scophthalmus_maximus	lrrc14b	ENSSMAG00000008342	Others	118292206
+Scophthalmus_maximus	tnip1	ENSSMAG00000008360	Others	NA
+Scophthalmus_maximus	ash2l	ENSSMAG00000008413	Others	118300668
+Scophthalmus_maximus	malt1	ENSSMAG00000008414	Others	118314612
+Scophthalmus_maximus	tbl1xr1b	ENSSMAG00000008463	Transducin	118311045
+Scophthalmus_maximus	CIITA	ENSSMAG00000008466	Others	NA
+Scophthalmus_maximus	trip6	ENSSMAG00000008475	Thyroid hormone receptor	NA
+Scophthalmus_maximus	lpxn	ENSSMAG00000008515	Others	118317701
+Scophthalmus_maximus	CCNA2	ENSSMAG00000008532	Cyclin	118319733
+Scophthalmus_maximus		ENSSMAG00000008597	Mediator complex	NA
+Scophthalmus_maximus	picalmb	ENSSMAG00000008621	Others	118299386
+Scophthalmus_maximus	elob	ENSSMAG00000008646	Others	NA
+Scophthalmus_maximus		ENSSMAG00000008678	Others	118313584
+Scophthalmus_maximus	tsg101a	ENSSMAG00000008768	Others	NA
+Scophthalmus_maximus	ldb2a	ENSSMAG00000008806	LIM	NA
+Scophthalmus_maximus	erbb4b	ENSSMAG00000008828	Erbb2	118282767
+Scophthalmus_maximus	setd1a	ENSSMAG00000008846	SET	118288668
+Scophthalmus_maximus		ENSSMAG00000008857	Notch	118285060
+Scophthalmus_maximus	chd9	ENSSMAG00000008953	CHD	118302567
+Scophthalmus_maximus	TRAF6	ENSSMAG00000008957	Others	118302102
+Scophthalmus_maximus		ENSSMAG00000008976	TATA-box	118315640
+Scophthalmus_maximus	ccnh	ENSSMAG00000008982	Cyclin	118313906
+Scophthalmus_maximus	ppie	ENSSMAG00000008993	Others	118286186
+Scophthalmus_maximus	spen	ENSSMAG00000008996	Others	118316495
+Scophthalmus_maximus	CDC73	ENSSMAG00000009002	Others	118310517
+Scophthalmus_maximus		ENSSMAG00000009045	Others	118316593
+Scophthalmus_maximus	cdk5r1b	ENSSMAG00000009091	Cyclin	118287318
+Scophthalmus_maximus	polr2a	ENSSMAG00000009137	POLR	118318013
+Scophthalmus_maximus	adrb2a	ENSSMAG00000009143	Others	NA
+Scophthalmus_maximus	runx1t1	ENSSMAG00000009153	Others	NA
+Scophthalmus_maximus	nsmce4a	ENSSMAG00000009185	EID	118283776
+Scophthalmus_maximus	ccnc	ENSSMAG00000009243	Cyclin	118289711
+Scophthalmus_maximus	alyref	ENSSMAG00000009283	Others	118288311
+Scophthalmus_maximus	tasorb	ENSSMAG00000009297	FAM	118316801
+Scophthalmus_maximus	nod2	ENSSMAG00000009305	Others	118301940
+Scophthalmus_maximus	safb	ENSSMAG00000009316	Others	118318189
+Scophthalmus_maximus	GPS2	ENSSMAG00000009336	Others	NA
+Scophthalmus_maximus	ppid	ENSSMAG00000009341	Others	118319814
+Scophthalmus_maximus	recql5	ENSSMAG00000009346	Others	118288318
+Scophthalmus_maximus		ENSSMAG00000009375	Others	NA
+Scophthalmus_maximus	cdk5rap3	ENSSMAG00000009389	Cyclin	118287307
+Scophthalmus_maximus		ENSSMAG00000009396	Others	118286307
+Scophthalmus_maximus	brd7	ENSSMAG00000009397	Bromodomain	118302967
+Scophthalmus_maximus	skap1	ENSSMAG00000009479	Others	118287316
+Scophthalmus_maximus		ENSSMAG00000009543	Others	NA
+Scophthalmus_maximus		ENSSMAG00000009582	Others	118317455
+Scophthalmus_maximus		ENSSMAG00000009602	Others	NA
+Scophthalmus_maximus	si:ch73-21k16.1	ENSSMAG00000009604	LPIN	NA
+Scophthalmus_maximus	KAT2B	ENSSMAG00000009616	Lysine acetyltransferase	118292115
+Scophthalmus_maximus		ENSSMAG00000009628	Others	118312681
+Scophthalmus_maximus		ENSSMAG00000009664	Mediator complex	118319295
+Scophthalmus_maximus	hnrnpd	ENSSMAG00000009686	HNRNP	118301372
+Scophthalmus_maximus	ino80e	ENSSMAG00000009739	INO80 complex	118315480
+Scophthalmus_maximus	ell2	ENSSMAG00000009784	GTF	118308884
+Scophthalmus_maximus	cnot2	ENSSMAG00000009857	CCR4-NOT	118314870
+Scophthalmus_maximus	lin54	ENSSMAG00000009869	Others	118300741
+Scophthalmus_maximus		ENSSMAG00000009903	Transducin	118314291
+Scophthalmus_maximus		ENSSMAG00000010000	Others	118319487
+Scophthalmus_maximus		ENSSMAG00000010001	Others	118292224
+Scophthalmus_maximus	trip11	ENSSMAG00000010011	Thyroid hormone receptor	118286082
+Scophthalmus_maximus	rtf1	ENSSMAG00000010037	Others	118286084
+Scophthalmus_maximus	chek1	ENSSMAG00000010065	Others	118301186
+Scophthalmus_maximus	MCIDAS	ENSSMAG00000010075	Others	NA
+Scophthalmus_maximus	ddx1	ENSSMAG00000010094	RNA helicase	118290027
+Scophthalmus_maximus		ENSSMAG00000010179	Others	NA
+Scophthalmus_maximus	JMY	ENSSMAG00000010198	Others	118313318
+Scophthalmus_maximus	SAP30L	ENSSMAG00000010295	SAP	118301024
+Scophthalmus_maximus	notch2	ENSSMAG00000010304	Notch	NA
+Scophthalmus_maximus	MED4	ENSSMAG00000010323	Mediator complex	NA
+Scophthalmus_maximus	CTBP1	ENSSMAG00000010328	Others	118319188
+Scophthalmus_maximus		ENSSMAG00000010395	Others	NA
+Scophthalmus_maximus	cdk7	ENSSMAG00000010408	Cyclin	118314313
+Scophthalmus_maximus	xiap	ENSSMAG00000010409	Others	118319500
+Scophthalmus_maximus	birc5a	ENSSMAG00000010512	Others	118288142
+Scophthalmus_maximus		ENSSMAG00000010516	Other_CRF	NA
+Scophthalmus_maximus	trip4	ENSSMAG00000010539	Thyroid hormone receptor	NA
+Scophthalmus_maximus	uri1	ENSSMAG00000010594	Others	NA
+Scophthalmus_maximus		ENSSMAG00000010671	SWI/SNF	118309032
+Scophthalmus_maximus	SGK1	ENSSMAG00000010714	Others	118290214
+Scophthalmus_maximus	dot1l	ENSSMAG00000010716	Others	118318874
+Scophthalmus_maximus	hipk2	ENSSMAG00000010740	HIPK	NA
+Scophthalmus_maximus	rbm39b	ENSSMAG00000010777	RNA binding protein	118317572
+Scophthalmus_maximus	tbpl1	ENSSMAG00000010781	TATA-box	118289723
+Scophthalmus_maximus		ENSSMAG00000010788	Others	118312644
+Scophthalmus_maximus		ENSSMAG00000010790	CCR4-NOT	118282822
+Scophthalmus_maximus	eya4	ENSSMAG00000010837	EYA	NA
+Scophthalmus_maximus		ENSSMAG00000010871	RNA binding protein	118319460
+Scophthalmus_maximus		ENSSMAG00000010876	Transcriptional adaptor	118310770
+Scophthalmus_maximus	kdm6a	ENSSMAG00000010957	Lysine demethylase	118282826
+Scophthalmus_maximus	flncb	ENSSMAG00000010959	Others	NA
+Scophthalmus_maximus		ENSSMAG00000010969	CHD	118314499
+Scophthalmus_maximus		ENSSMAG00000011023	Others	NA
+Scophthalmus_maximus	ing3	ENSSMAG00000011057	ING	118317776
+Scophthalmus_maximus	trim16	ENSSMAG00000011104	Tripartite motif	118287188
+Scophthalmus_maximus		ENSSMAG00000011118	Others	118313705
+Scophthalmus_maximus	ankra2	ENSSMAG00000011128	Ankyrin repeat	118300959
+Scophthalmus_maximus		ENSSMAG00000011147	HNRNP	NA
+Scophthalmus_maximus	btf3	ENSSMAG00000011148	Others	NA
+Scophthalmus_maximus		ENSSMAG00000011168	Others	118319840
+Scophthalmus_maximus		ENSSMAG00000011172	Others	NA
+Scophthalmus_maximus	rgcc	ENSSMAG00000011176	Others	NA
+Scophthalmus_maximus	cbfa2t2	ENSSMAG00000011275	Others	118309663
+Scophthalmus_maximus		ENSSMAG00000011298	Others	NA
+Scophthalmus_maximus	RPTOR	ENSSMAG00000011312	Others	NA
+Scophthalmus_maximus	nrg2a	ENSSMAG00000011327	Others	118300455
+Scophthalmus_maximus	SFMBT1	ENSSMAG00000011338	Others	NA
+Scophthalmus_maximus	slc30a9	ENSSMAG00000011372	SLC	118319708
+Scophthalmus_maximus		ENSSMAG00000011430	TATA-box	118317118
+Scophthalmus_maximus		ENSSMAG00000011436	Zinc finger	118285225
+Scophthalmus_maximus	cxxc5a	ENSSMAG00000011609	Others	NA
+Scophthalmus_maximus		ENSSMAG00000011625	Mediator complex	NA
+Scophthalmus_maximus		ENSSMAG00000011638	Chromobox	118312967
+Scophthalmus_maximus	PIK3R1	ENSSMAG00000011646	Others	118284803
+Scophthalmus_maximus	FGFR2	ENSSMAG00000011669	FGF	118284041
+Scophthalmus_maximus	TDRD3	ENSSMAG00000011677	Others	118302513
+Scophthalmus_maximus		ENSSMAG00000011718	ING	118315416
+Scophthalmus_maximus		ENSSMAG00000011721	Others	NA
+Scophthalmus_maximus		ENSSMAG00000011785	Others	NA
+Scophthalmus_maximus	rnf25	ENSSMAG00000011827	Ring finger protein	NA
+Scophthalmus_maximus	erbin	ENSSMAG00000011831	Erbb2	118284766
+Scophthalmus_maximus	kat8	ENSSMAG00000011844	Lysine acetyltransferase	NA
+Scophthalmus_maximus		ENSSMAG00000011848	ACTR	NA
+Scophthalmus_maximus		ENSSMAG00000011872	Others	NA
+Scophthalmus_maximus		ENSSMAG00000011889	Others	NA
+Scophthalmus_maximus	DHX36	ENSSMAG00000011914	RNA helicase	118299068
+Scophthalmus_maximus		ENSSMAG00000011915	Others	NA
+Scophthalmus_maximus	hsbp1b	ENSSMAG00000011917	Heat shock protein	NA
+Scophthalmus_maximus		ENSSMAG00000011961	Others	NA
+Scophthalmus_maximus		ENSSMAG00000011977	GTF	118288966
+Scophthalmus_maximus	cnot7	ENSSMAG00000012086	CCR4-NOT	118319238
+Scophthalmus_maximus	maml3	ENSSMAG00000012133	MAML	118312207
+Scophthalmus_maximus		ENSSMAG00000012140	Others	118312317
+Scophthalmus_maximus	wu:fj64h06	ENSSMAG00000012159	TATA-box	118285526
+Scophthalmus_maximus	dab2	ENSSMAG00000012179	Others	NA
+Scophthalmus_maximus	sav1	ENSSMAG00000012200	Others	118285750
+Scophthalmus_maximus	suds3	ENSSMAG00000012226	Other_Co-activator/repressors	NA
+Scophthalmus_maximus	fgf20b	ENSSMAG00000012229	FGF	118319685
+Scophthalmus_maximus	med12	ENSSMAG00000012230	Mediator complex	NA
+Scophthalmus_maximus		ENSSMAG00000012248	TATA-box	118302873
+Scophthalmus_maximus	irf2bpl	ENSSMAG00000012255	Others	118286788
+Scophthalmus_maximus		ENSSMAG00000012277	Casein	NA
+Scophthalmus_maximus	nudt5	ENSSMAG00000012320	Other_CRF	NA
+Scophthalmus_maximus		ENSSMAG00000012328	Others	118285388
+Scophthalmus_maximus	elp2	ENSSMAG00000012337	ELP	NA
+Scophthalmus_maximus	snx6	ENSSMAG00000012367	Others	NA
+Scophthalmus_maximus	btk	ENSSMAG00000012393	Others	118319376
+Scophthalmus_maximus		ENSSMAG00000012398	Others	118300210
+Scophthalmus_maximus	aurkaip1	ENSSMAG00000012542	Others	118317430
+Scophthalmus_maximus		ENSSMAG00000012570	Others	118315286
+Scophthalmus_maximus		ENSSMAG00000012590	Sirtuin	118283453
+Scophthalmus_maximus		ENSSMAG00000012600	CAMK	NA
+Scophthalmus_maximus		ENSSMAG00000012632	Transcriptional adaptor	NA
+Scophthalmus_maximus		ENSSMAG00000012775	Nuclear receptor coactivator	118290349
+Scophthalmus_maximus		ENSSMAG00000012866	Others	NA
+Scophthalmus_maximus	orc2	ENSSMAG00000012921	Others	118311774
+Scophthalmus_maximus	zmynd8	ENSSMAG00000012925	Zinc finger	118309400
+Scophthalmus_maximus	ascc3	ENSSMAG00000012927	ASCC	118315879
+Scophthalmus_maximus	nab1a	ENSSMAG00000012947	Others	118298932
+Scophthalmus_maximus	gtf2h1	ENSSMAG00000012992	GTF	118315257
+Scophthalmus_maximus	nck1b	ENSSMAG00000012993	Others	118291176
+Scophthalmus_maximus	ncoa3	ENSSMAG00000013056	Nuclear receptor coactivator	118309399
+Scophthalmus_maximus		ENSSMAG00000013099	Others	118314156
+Scophthalmus_maximus	kdm5c	ENSSMAG00000013114	Lysine demethylase	NA
+Scophthalmus_maximus	pdlim1	ENSSMAG00000013116	Others	118283429
+Scophthalmus_maximus		ENSSMAG00000013148	Others	118287173
+Scophthalmus_maximus	pir	ENSSMAG00000013208	Others	NA
+Scophthalmus_maximus	cnot3a	ENSSMAG00000013235	CCR4-NOT	118314297
+Scophthalmus_maximus	pidd1	ENSSMAG00000013360	Others	NA
+Scophthalmus_maximus	ccne1	ENSSMAG00000013478	Cyclin	NA
+Scophthalmus_maximus		ENSSMAG00000013489	Others	118300245
+Scophthalmus_maximus	kank1a	ENSSMAG00000013519	Others	118313437
+Scophthalmus_maximus		ENSSMAG00000013629	Bromodomain	NA
+Scophthalmus_maximus	PTEN	ENSSMAG00000013632	Others	NA
+Scophthalmus_maximus		ENSSMAG00000013662	Others	118312525
+Scophthalmus_maximus	SMARCA2	ENSSMAG00000013707	SWI/SNF	NA
+Scophthalmus_maximus	kmt5aa	ENSSMAG00000013718	Lysine methyltransferase	118310057
+Scophthalmus_maximus		ENSSMAG00000013727	Others	118299255
+Scophthalmus_maximus	top1l	ENSSMAG00000013729	Other_CRF	NA
+Scophthalmus_maximus	wwc1	ENSSMAG00000013752	WW	118300571
+Scophthalmus_maximus		ENSSMAG00000013819	SET	118314865
+Scophthalmus_maximus		ENSSMAG00000013844	CCR4-NOT	NA
+Scophthalmus_maximus		ENSSMAG00000013850	Histone deacetylase	118319725
+Scophthalmus_maximus	lin9	ENSSMAG00000013873	Others	118289863
+Scophthalmus_maximus	dpf2	ENSSMAG00000013886	DPF	118300607
+Scophthalmus_maximus	hcfc1a	ENSSMAG00000013953	Others	NA
+Scophthalmus_maximus		ENSSMAG00000013982	Lysine acetyltransferase	118301200
+Scophthalmus_maximus		ENSSMAG00000013987	Histone deacetylase	NA
+Scophthalmus_maximus		ENSSMAG00000013997	Transducin	118314906
+Scophthalmus_maximus	btaf1	ENSSMAG00000014035	Others	118283570
+Scophthalmus_maximus	ino80b	ENSSMAG00000014039	INO80 complex	NA
+Scophthalmus_maximus	chd8	ENSSMAG00000014060	CHD	118311188
+Scophthalmus_maximus	ago2	ENSSMAG00000014089	Others	NA
+Scophthalmus_maximus		ENSSMAG00000014149	Histone deacetylase	118320143
+Scophthalmus_maximus	supt16h	ENSSMAG00000014152	SUPT	118290521
+Scophthalmus_maximus	taf7	ENSSMAG00000014177	TATA-box	118319919
+Scophthalmus_maximus		ENSSMAG00000014190	ASCC	118313385
+Scophthalmus_maximus	vgll4b	ENSSMAG00000014225	Vestigial like	118309342
+Scophthalmus_maximus	leo1	ENSSMAG00000014228	Others	NA
+Scophthalmus_maximus	siah1	ENSSMAG00000014264	Others	118315128
+Scophthalmus_maximus	arhgap35a	ENSSMAG00000014276	Others	118298963
+Scophthalmus_maximus	ehmt1b	ENSSMAG00000014297	Histone lysine methyltransferase	NA
+Scophthalmus_maximus	cdk8	ENSSMAG00000014316	Cyclin	118291359
+Scophthalmus_maximus		ENSSMAG00000014356	Others	118299216
+Scophthalmus_maximus	uxt	ENSSMAG00000014363	Others	NA
+Scophthalmus_maximus	HAT1	ENSSMAG00000014371	Others	118282882
+Scophthalmus_maximus		ENSSMAG00000014405	Mediator complex	NA
+Scophthalmus_maximus	snapc5	ENSSMAG00000014452	Others	118314934
+Scophthalmus_maximus	taf6	ENSSMAG00000014520	TATA-box	118300034
+Scophthalmus_maximus	cxxc1b	ENSSMAG00000014604	Others	118309045
+Scophthalmus_maximus	rbmx	ENSSMAG00000014636	RNA binding protein	118319018
+Scophthalmus_maximus	prmt5	ENSSMAG00000014662	Arginine methyltransferase	118311662
+Scophthalmus_maximus	park7	ENSSMAG00000014693	Others	118309798
+Scophthalmus_maximus	niban2a	ENSSMAG00000014697	FAM	118284548
+Scophthalmus_maximus	rrn3	ENSSMAG00000014760	Others	118289026
+Scophthalmus_maximus	suz12b	ENSSMAG00000014804	Others	NA
+Scophthalmus_maximus	drap1	ENSSMAG00000014839	Others	118301618
+Scophthalmus_maximus	CBX3	ENSSMAG00000014860	Chromobox	NA
+Scophthalmus_maximus		ENSSMAG00000014867	Others	118286002
+Scophthalmus_maximus	prmt1	ENSSMAG00000014871	Arginine methyltransferase	118288909
+Scophthalmus_maximus	CIR1	ENSSMAG00000014954	Other_Co-activator/repressors	NA
+Scophthalmus_maximus	brip1	ENSSMAG00000014966	Others	118299103
+Scophthalmus_maximus	emsy	ENSSMAG00000015001	Others	118300998
+Scophthalmus_maximus	ern1	ENSSMAG00000015042	Others	NA
+Scophthalmus_maximus		ENSSMAG00000015068	ACTR	118317114
+Scophthalmus_maximus		ENSSMAG00000015095	Others	NA
+Scophthalmus_maximus	strap	ENSSMAG00000015099	Others	118286215
+Scophthalmus_maximus	bcas3	ENSSMAG00000015106	Others	NA
+Scophthalmus_maximus		ENSSMAG00000015189	Cyclin	118302431
+Scophthalmus_maximus		ENSSMAG00000015241	Mediator complex	118299657
+Scophthalmus_maximus	supt7l	ENSSMAG00000015254	SUPT	NA
+Scophthalmus_maximus		ENSSMAG00000015263	Others	118302074
+Scophthalmus_maximus		ENSSMAG00000015302	Others	NA
+Scophthalmus_maximus		ENSSMAG00000015357	Others	NA
+Scophthalmus_maximus	phf12b	ENSSMAG00000015392	PHF	118299144
+Scophthalmus_maximus		ENSSMAG00000015441	Others	118287414
+Scophthalmus_maximus	ewsr1b	ENSSMAG00000015449	Others	NA
+Scophthalmus_maximus	cops5	ENSSMAG00000015461	Others	NA
+Scophthalmus_maximus	insra	ENSSMAG00000015526	Others	118310315
+Scophthalmus_maximus	frzb	ENSSMAG00000015533	Others	NA
+Scophthalmus_maximus		ENSSMAG00000015538	Casein	NA
+Scophthalmus_maximus	cnot6l	ENSSMAG00000015568	CCR4-NOT	118313638
+Scophthalmus_maximus		ENSSMAG00000015596	Others	118289263
+Scophthalmus_maximus	dapk3	ENSSMAG00000015643	Others	118310321
+Scophthalmus_maximus		ENSSMAG00000015719	WD	NA
+Scophthalmus_maximus	CASK	ENSSMAG00000015722	CAMK	118282508
+Scophthalmus_maximus		ENSSMAG00000015723	Others	118317261
+Scophthalmus_maximus	seta	ENSSMAG00000015773	SET	118313645
+Scophthalmus_maximus	lgals9l3	ENSSMAG00000015775	Others	118299618
+Scophthalmus_maximus	CBL	ENSSMAG00000015823	Others	NA
+Scophthalmus_maximus		ENSSMAG00000015851	Casein	118315695
+Scophthalmus_maximus	ino80da	ENSSMAG00000015863	INO80 complex	118282798
+Scophthalmus_maximus	SMARCD3	ENSSMAG00000015904	SWI/SNF	NA
+Scophthalmus_maximus	setd7	ENSSMAG00000015912	SET	NA
+Scophthalmus_maximus		ENSSMAG00000015939	SWI/SNF	118314469
+Scophthalmus_maximus		ENSSMAG00000015954	Other_Co-activator/repressors	NA
+Scophthalmus_maximus	polr3c	ENSSMAG00000016000	POLR	118299123
+Scophthalmus_maximus	ncoa2	ENSSMAG00000016071	Nuclear receptor coactivator	NA
+Scophthalmus_maximus	HYAL2	ENSSMAG00000016079	Others	118309762
+Scophthalmus_maximus	CREBBP	ENSSMAG00000016085	CREB	118288286
+Scophthalmus_maximus	eya1	ENSSMAG00000016162	EYA	118291324
+Scophthalmus_maximus	ice2	ENSSMAG00000016171	GTF	118315702
+Scophthalmus_maximus		ENSSMAG00000016237	Others	118300942
+Scophthalmus_maximus	ankrd29	ENSSMAG00000016253	Ankyrin repeat	NA
+Scophthalmus_maximus		ENSSMAG00000016381	Others	118287050
+Scophthalmus_maximus	macroh2a2	ENSSMAG00000016405	Others	118284023
+Scophthalmus_maximus		ENSSMAG00000016447	Tripartite motif	NA
+Scophthalmus_maximus		ENSSMAG00000016483	Others	118302130
+Scophthalmus_maximus		ENSSMAG00000016501	MAGE	118316477
+Scophthalmus_maximus	lpin2	ENSSMAG00000016517	LPIN	118311580
+Scophthalmus_maximus		ENSSMAG00000016525	Others	118284834
+Scophthalmus_maximus	ccdc85b	ENSSMAG00000016555	Coiled-coil	NA
+Scophthalmus_maximus	sgf29	ENSSMAG00000016613	Others	118289163
+Scophthalmus_maximus	nif3l1	ENSSMAG00000016686	Others	118287824
+Scophthalmus_maximus	carm1	ENSSMAG00000016701	Others	NA
+Scophthalmus_maximus	arglu1a	ENSSMAG00000016795	Others	118320643
+Scophthalmus_maximus	LRPPRC	ENSSMAG00000016811	Others	118284171
+Scophthalmus_maximus	pagr1	ENSSMAG00000016828	Others	118287670
+Scophthalmus_maximus	dnmt3bb.1	ENSSMAG00000016844	DNA_methylase	NA
+Scophthalmus_maximus	tcea1	ENSSMAG00000016852	TEF	118311215
+Scophthalmus_maximus	rap2c	ENSSMAG00000016853	Others	118319620
+Scophthalmus_maximus		ENSSMAG00000016922	PARP	NA
+Scophthalmus_maximus		ENSSMAG00000016980	Others	118285861
+Scophthalmus_maximus	CNOT9	ENSSMAG00000017049	CCR4-NOT	118282755
+Scophthalmus_maximus		ENSSMAG00000017132	CAMK	NA
+Scophthalmus_maximus	sirt5	ENSSMAG00000017195	Sirtuin	NA
+Scophthalmus_maximus	hdac5	ENSSMAG00000017319	Histone deacetylase	NA
+Scophthalmus_maximus		ENSSMAG00000017333	Mediator complex	118314514
+Scophthalmus_maximus		ENSSMAG00000017356	Others	118287658
+Scophthalmus_maximus		ENSSMAG00000017423	Others	118284035
+Scophthalmus_maximus	pex14	ENSSMAG00000017492	Others	118316503
+Scophthalmus_maximus	erbb2	ENSSMAG00000017557	Erbb2	118287647
+Scophthalmus_maximus		ENSSMAG00000017573	Others	118314379
+Scophthalmus_maximus		ENSSMAG00000017585	CCR4-NOT	118284654
+Scophthalmus_maximus	loxl2b	ENSSMAG00000017593	Others	NA
+Scophthalmus_maximus		ENSSMAG00000017599	Bromodomain	NA
+Scophthalmus_maximus	crk	ENSSMAG00000017607	Others	118299667
+Scophthalmus_maximus	bahcc1a	ENSSMAG00000017691	Others	NA
+Scophthalmus_maximus		ENSSMAG00000017707	Others	118309530
+Scophthalmus_maximus	tbl1x	ENSSMAG00000017740	Transducin	NA
+Scophthalmus_maximus		ENSSMAG00000017841	GTF	118313670
+Scophthalmus_maximus	pih1d1	ENSSMAG00000017873	Other_CRF	NA
+Scophthalmus_maximus	egfra	ENSSMAG00000017876	Others	118310623
+Scophthalmus_maximus		ENSSMAG00000017903	RNA helicase	118312371
+Scophthalmus_maximus		ENSSMAG00000017924	GTF	NA
+Scophthalmus_maximus		ENSSMAG00000017926	CHD	NA
+Scophthalmus_maximus	UTP4	ENSSMAG00000018030	Others	NA
+Scophthalmus_maximus	ZMYND11	ENSSMAG00000018192	Zinc finger	NA
+Scophthalmus_maximus		ENSSMAG00000018193	Bromodomain	NA
+Scophthalmus_maximus	chaf1b	ENSSMAG00000018196	Others	NA
+Scophthalmus_maximus	ufl1	ENSSMAG00000018238	Others	NA
+Scophthalmus_maximus	NOL11	ENSSMAG00000018239	Nuclear coactivator	118312589
+Scophthalmus_maximus	BCL9	ENSSMAG00000018243	BCL	118320442
+Scophthalmus_maximus		ENSSMAG00000018300	Cyclin	NA
+Scophthalmus_maximus	smarcd2	ENSSMAG00000018391	SWI/SNF	118286976
+Scophthalmus_maximus	gsk3ba	ENSSMAG00000018406	Others	118320556
+Scophthalmus_maximus	noc2l	ENSSMAG00000018439	Others	118316340
+Scophthalmus_maximus	bmi1a	ENSSMAG00000018463	Others	NA
+Scophthalmus_maximus		ENSSMAG00000018491	Lysine demethylase	118288183
+Scophthalmus_maximus		ENSSMAG00000018560	Cyclin	NA
+Scophthalmus_maximus	nelfb	ENSSMAG00000018618	GTF	118314399
+Scophthalmus_maximus	eno1a	ENSSMAG00000018646	Others	NA
+Scophthalmus_maximus		ENSSMAG00000018727	Lysine demethylase	118291839
+Scophthalmus_maximus	wnt3a	ENSSMAG00000018775	Others	118311639
+Scophthalmus_maximus	SUPT20H	ENSSMAG00000018788	SUPT	NA
+Scophthalmus_maximus		ENSSMAG00000018810	ACTR	118315818
+Scophthalmus_maximus	ing1	ENSSMAG00000018849	ING	NA
+Scophthalmus_maximus		ENSSMAG00000018893	Ring finger protein	NA
+Scophthalmus_maximus	tdg.1	ENSSMAG00000018974	Others	118315672
+Scophthalmus_maximus		ENSSMAG00000018991	TATA-box	118316541
+Scophthalmus_maximus	depdc1a	ENSSMAG00000019006	Others	118318303
+Scophthalmus_maximus	cdk5	ENSSMAG00000019009	Cyclin	NA
+Scophthalmus_maximus		ENSSMAG00000019055	Mediator complex	NA
+Scophthalmus_maximus	ezrb	ENSSMAG00000019057	Others	118290198
+Scophthalmus_maximus	src	ENSSMAG00000019082	Others	118317056
+Scophthalmus_maximus	nipbla	ENSSMAG00000019097	Others	118313918
+Scophthalmus_maximus	rbm15	ENSSMAG00000019106	RNA binding protein	NA
+Scophthalmus_maximus	ENY2	ENSSMAG00000019149	Others	118292167
+Scophthalmus_maximus	taf1a	ENSSMAG00000019150	TATA-box	NA
+Scophthalmus_maximus	tnksb	ENSSMAG00000019175	Others	118313406
+Scophthalmus_maximus	ecd	ENSSMAG00000019179	Others	118283321
+Scophthalmus_maximus		ENSSMAG00000019205	Tripartite motif	118319246
+Scophthalmus_maximus	RNF8	ENSSMAG00000019209	Ring finger protein	118290303
+Scophthalmus_maximus	actn2b	ENSSMAG00000019211	Actin	118283319
+Scophthalmus_maximus		ENSSMAG00000019300	Others	118289954
+Scophthalmus_maximus	phf21ab	ENSSMAG00000019347	PHF	NA
+Scophthalmus_maximus	cdk13	ENSSMAG00000019355	Cyclin	118287130
+Scophthalmus_maximus		ENSSMAG00000019377	CHD	NA
+Scophthalmus_maximus	si:dkey-6i22.5	ENSSMAG00000019447	Others	118319609
+Scophthalmus_maximus	MED19	ENSSMAG00000019452	Mediator complex	118319608
+Scophthalmus_maximus	lyn	ENSSMAG00000019469	Others	118310902
+Scophthalmus_maximus	kdm1a	ENSSMAG00000019502	Lysine demethylase	NA
+Scophthalmus_maximus	mak	ENSSMAG00000019698	Others	118291279
+Scophthalmus_maximus	setd2	ENSSMAG00000019710	SET	118308029
+Scophthalmus_maximus	ercc2	ENSSMAG00000019720	Others	118299791
+Scophthalmus_maximus		ENSSMAG00000019758	Others	118283541
+Scophthalmus_maximus	EDRF1	ENSSMAG00000019847	Others	118283972
+Scophthalmus_maximus	trip13	ENSSMAG00000019971	Thyroid hormone receptor	NA
+Scophthalmus_maximus	baz1b	ENSSMAG00000020021	Bromodomain	NA
+Scophthalmus_maximus		ENSSMAG00000020081	Others	118310919
+Scophthalmus_maximus	znf593	ENSSMAG00000020125	Zinc finger	118286257
+Scophthalmus_maximus	MED1	ENSSMAG00000020128	Mediator complex	NA
+Scophthalmus_maximus		ENSSMAG00000020147	Others	118298975
+Scophthalmus_maximus		ENSSMAG00000020158	Others	NA
+Scophthalmus_maximus		ENSSMAG00000020192	Others	118286233
+Scophthalmus_maximus	SS18	ENSSMAG00000020375	SS18	118310704
+Scophthalmus_maximus		ENSSMAG00000020402	Others	118286234
+Scophthalmus_maximus	med30	ENSSMAG00000020409	Mediator complex	118291751
+Scophthalmus_maximus	pphln1	ENSSMAG00000020498	Others	118282670
+Scophthalmus_maximus	pink1	ENSSMAG00000020523	Others	NA
+Scophthalmus_maximus	hdac1	ENSSMAG00000020613	Histone deacetylase	NA
+Scophthalmus_maximus	MED10	ENSSMAG00000020644	Mediator complex	118311125
+Scophthalmus_maximus		ENSSMAG00000020741	RBBP	118311211
+Scophthalmus_maximus		ENSSMAG00000020790	GTF	118310904
+Scophthalmus_maximus	tprb	ENSSMAG00000020792	Others	NA
+Scophthalmus_maximus		ENSSMAG00000020810	Others	118310430
+Scophthalmus_maximus		ENSSMAG00000020833	Others	118311102
+Scophthalmus_maximus	taf5l	ENSSMAG00000020874	TATA-box	118312676
+Scophthalmus_maximus	raf1a	ENSSMAG00000020915	Others	118316902
+Scophthalmus_maximus	commd1	ENSSMAG00000021003	Others	118313060
+Scophthalmus_maximus	polr3f	ENSSMAG00000021029	POLR	NA
+Scophthalmus_maximus	esf1	ENSSMAG00000021067	Others	NA
+Scophthalmus_maximus		ENSSMAG00000021207	Chromobox	NA
+Scophthalmus_maximus	kdm4b	ENSSMAG00000021212	Lysine demethylase	118318009
+Scophthalmus_maximus		ENSSMAG00000021214	Others	NA
+Scophthalmus_maximus		ENSSMAG00000021261	FAM	118312062
+Scophthalmus_maximus	COPS2	ENSSMAG00000021286	Others	118301793
+Scophthalmus_maximus		ENSSMAG00000021307	Other_CRF	118302052
+Scophthalmus_maximus	lmo1	ENSSMAG00000021409	LIM	118302941
+Scophthalmus_maximus	ctr9	ENSSMAG00000021425	Others	118302962
+Scophthalmus_maximus	trib1	ENSSMAG00000021701	Others	118292108
+Scophthalmus_maximus		ENSSMAG00000021711	Chromodomain Y	118310546
+Scophthalmus_maximus		ENSSMAG00000021714	Others	118309864
+Scophthalmus_maximus		ENSSMAG00000021782	Ring finger protein	118291671
+Scophthalmus_maximus		ENSSMAG00000021806	Others	NA
+Scophthalmus_maximus	ruvbl2	ENSSMAG00000021893	Other_CRF	NA
+Scophthalmus_maximus	CBX2	ENSSMAG00000022066	Chromobox	118289486
+Scophthalmus_maximus		ENSSMAG00000022137	Nuclear coactivator	118286888
+Scophthalmus_maximus	nrbf2b	ENSSMAG00000022463	Nuclear receptor coactivator	118288123
+Scophthalmus_maximus	bcl10	ENSSMAG00000022734	BCL	118310260
+Scophthalmus_maximus	dr1	ENSSMAG00000022878	Others	118317894
+Scophthalmus_maximus	SQSTM1	ENSSMAG00000023286	Others	NA
+Scophthalmus_maximus	hdac11	ENSSMAG00000023297	Histone deacetylase	118309603
+Scophthalmus_maximus	brf2	ENSSMAG00000023469	GTF	118285381
+Scophthalmus_maximus	gtf2h5	ENSSMAG00000023490	GTF	118290286
+Scophthalmus_maximus	FHL2	ENSSMAG00000023656	FHL	118282713
+Scophthalmus_maximus	bend3	ENSSMAG00000024135	Others	NA
+Scophthalmus_maximus	taf1b	ENSSMAG00000024265	TATA-box	NA
+Scophthalmus_maximus		ENSSMAG00000024313	LIM	NA
+Scophthalmus_maximus		ENSSMAG00000024478	SLC	118303230
+Scophthalmus_maximus	tirap	ENSSMAG00000025411	Others	NA
+Scophthalmus_maximus	cdkn1bb	ENSSMAG00000025481	Cyclin	118314970
+Scophthalmus_maximus	anp32a	ENSSMAG00000025689	ANP	118301970
+Scophthalmus_maximus	TRIM32	ENSSMAG00000025791	Tripartite motif	NA
+Scophthalmus_maximus	mtpn	ENSSMAG00000026919	Others	118288623
+Scophthalmus_maximus	trim25	ENSSMAG00000027095	Tripartite motif	118312069
+Scophthalmus_maximus	fhl3a	ENSSMAG00000027104	FHL	NA
+Scophthalmus_maximus		ENSSMAG00000027159	GTF	NA
+Scophthalmus_maximus		ENSSMAG00000027336	Others	NA
+Scophthalmus_maximus	med6	ENSSMAG00000027348	Mediator complex	NA
+Scophthalmus_maximus		ENSSMAG00000027684	Mediator complex	118310787
+Scophthalmus_maximus		ENSSMAG00000027830	Others	NA
+Scophthalmus_maximus		ENSSMAG00000027930	Others	118313696
+Scophthalmus_maximus		ENSSMAG00000028249	Others	118299319
+Scophthalmus_maximus	apex1	ENSSMAG00000028423	Others	NA
+Scophthalmus_maximus		ENSSMAG00000029345	Others	118299508
+Scophthalmus_maximus		ENSSMAG00000030004	Ring finger protein	118311699
+Scophthalmus_maximus	ccdc59	ENSSMAG00000030337	Coiled-coil	118282918
+Scophthalmus_maximus		ENSSMAG00000030341	Others	118317138
+Scophthalmus_maximus	HO-1	ENSSMAG00000030685	Others	NA
+Scophthalmus_maximus		ENSSMAG00000030749	Others	118317574
+Scophthalmus_maximus		ENSSMAG00000031000	Others	118287166
+Scophthalmus_maximus	CHCHD2	ENSSMAG00000031132	Coiled-coil	118299152
+Scophthalmus_maximus	mnat1	ENSSMAG00000031632	Others	NA
+Scophthalmus_maximus	MED18	ENSSMAG00000031641	Mediator complex	118313660
+Scophthalmus_maximus		ENSSMAG00000031666	Others	118284181
+Scophthalmus_maximus		ENSSMAG00000032588	Others	NA
+Scophthalmus_maximus	skila	ENSSMAG00000032626	SKI	NA
+Scophthalmus_maximus	PID1	ENSSMAG00000032701	Others	118299425
+Scophthalmus_maximus	tescb	ENSSMAG00000032826	Others	118285383
+Scophthalmus_maximus	tradd	ENSSMAG00000032874	Others	118302396
+Scophthalmus_maximus	med31	ENSSMAG00000033192	Mediator complex	NA
+Scophthalmus_maximus		ENSSMAG00000033472	Others	NA
+Scophthalmus_maximus	crtc3	ENSSMAG00000033548	CREB	118302711
+Scophthalmus_maximus	MED21	ENSSMAG00000033563	Mediator complex	NA
+Scophthalmus_maximus		ENSSMAG00000033798	Others	118289917
+Scophthalmus_maximus	dact1	ENSSMAG00000033904	Others	NA
+Scophthalmus_maximus		ENSSMAG00000034030	Others	118292475
+Scophthalmus_maximus		ENSSMAG00000034190	Actin	118310042
+Scophthalmus_maximus	btg1	ENSSMAG00000034290	Others	118319143
+Scophthalmus_maximus	bud31	ENSSMAG00000034362	Others	118288514
+Scophthalmus_maximus	rnf6	ENSSMAG00000034678	Ring finger protein	NA
+Scophthalmus_maximus		ENSSMAG00000034938	Others	118286228
+Scophthalmus_maximus		ENSSMAG00000035003	Others	NA
+Scophthalmus_maximus	npm3	ENSSMAG00000035020	Nucleoplasmin	NA
+Scophthalmus_maximus		ENSSMAG00000035079	RNA binding protein	NA
+Scophthalmus_maximus		ENSSMAG00000035511	Others	118287907
+Scophthalmus_maximus		ENSSMAG00000036535	Others	118309963
+Scophthalmus_maximus	trappc2	ENSSMAG00000036595	Others	NA
+Scophthalmus_maximus	sfr1	ENSSMAG00000036788	Others	118283487
+Scophthalmus_maximus		ENSSMAG00000036836	Ring finger protein	118319145
+Scophthalmus_maximus		ENSSMAG00000036860	GTF	118302009
+Scophthalmus_maximus	C1D	ENSSMAG00000036865	Other_Co-activator/repressors	118283737
+Scophthalmus_maximus		ENSSMAG00000036913	Ring finger protein	118315717
+Scophthalmus_maximus		ENSSMAG00000037435	RNA helicase	NA
+Scophthalmus_maximus		ENSSMAG00000037564	Lysine demethylase	118316866
+Scophthalmus_maximus	supt4h1	ENSSMAG00000037724	SUPT	118300550
+Scophthalmus_maximus	dnajb1b	ENSSMAG00000037921	Others	118311926
+Scophthalmus_maximus		ENSSMAG00000038095	TATA-box	NA

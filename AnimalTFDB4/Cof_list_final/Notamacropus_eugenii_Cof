@@ -1,0 +1,785 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Notamacropus_eugenii	CNOT6	ENSMEUG00000000025	CCR4-NOT	NA
+Notamacropus_eugenii	SIAH2	ENSMEUG00000000046	Others	NA
+Notamacropus_eugenii		ENSMEUG00000000052	Others	NA
+Notamacropus_eugenii	RHOB	ENSMEUG00000000058	Others	NA
+Notamacropus_eugenii	TCERG1L	ENSMEUG00000000066	TEF	NA
+Notamacropus_eugenii	DMAP1	ENSMEUG00000000068	DNA_methylase	NA
+Notamacropus_eugenii	RUVBL2	ENSMEUG00000000069	Other_CRF	NA
+Notamacropus_eugenii	WBP2	ENSMEUG00000000070	WW	NA
+Notamacropus_eugenii		ENSMEUG00000000128	Cyclin	NA
+Notamacropus_eugenii		ENSMEUG00000000157	Lysine methyltransferase	NA
+Notamacropus_eugenii	PRMT2	ENSMEUG00000000174	Arginine methyltransferase	NA
+Notamacropus_eugenii	MED12	ENSMEUG00000000205	Mediator complex	NA
+Notamacropus_eugenii		ENSMEUG00000000212	Others	NA
+Notamacropus_eugenii	ATRX	ENSMEUG00000000217	Others	NA
+Notamacropus_eugenii	NIBAN2	ENSMEUG00000000227	FAM	NA
+Notamacropus_eugenii		ENSMEUG00000000263	Histone cluster 1 H1	NA
+Notamacropus_eugenii	RNF20	ENSMEUG00000000288	Ring finger protein	NA
+Notamacropus_eugenii		ENSMEUG00000000305	Others	NA
+Notamacropus_eugenii		ENSMEUG00000000315	MYC	NA
+Notamacropus_eugenii	BCL9L	ENSMEUG00000000365	BCL	NA
+Notamacropus_eugenii	XIAP	ENSMEUG00000000398	Others	NA
+Notamacropus_eugenii	PRMT6	ENSMEUG00000000402	Arginine methyltransferase	NA
+Notamacropus_eugenii		ENSMEUG00000000431	Mediator complex	NA
+Notamacropus_eugenii	PSPC1	ENSMEUG00000000476	Others	NA
+Notamacropus_eugenii	CIDEA	ENSMEUG00000000483	Others	NA
+Notamacropus_eugenii		ENSMEUG00000000510	Other_CRF	NA
+Notamacropus_eugenii	HNRNPU	ENSMEUG00000000541	HNRNP	NA
+Notamacropus_eugenii	CDK5	ENSMEUG00000000546	Cyclin	NA
+Notamacropus_eugenii	EPC1	ENSMEUG00000000599	Others	NA
+Notamacropus_eugenii		ENSMEUG00000000635	Coiled-coil	NA
+Notamacropus_eugenii	LYN	ENSMEUG00000000638	Others	NA
+Notamacropus_eugenii	PYGO2	ENSMEUG00000000648	Others	NA
+Notamacropus_eugenii	HDAC3	ENSMEUG00000000667	Histone deacetylase	NA
+Notamacropus_eugenii	NOC2L	ENSMEUG00000000693	Others	NA
+Notamacropus_eugenii		ENSMEUG00000000702	TATA-box	NA
+Notamacropus_eugenii	TRIP11	ENSMEUG00000000704	Thyroid hormone receptor	NA
+Notamacropus_eugenii	PAWR	ENSMEUG00000000708	Others	NA
+Notamacropus_eugenii		ENSMEUG00000000711	SKI	NA
+Notamacropus_eugenii		ENSMEUG00000000743	Others	NA
+Notamacropus_eugenii	SSBP2	ENSMEUG00000000785	Others	NA
+Notamacropus_eugenii	ABL1	ENSMEUG00000000802	Others	NA
+Notamacropus_eugenii		ENSMEUG00000000818	Others	NA
+Notamacropus_eugenii	TRIM8	ENSMEUG00000000821	Tripartite motif	NA
+Notamacropus_eugenii	FHIT	ENSMEUG00000000830	Others	NA
+Notamacropus_eugenii	PIDD1	ENSMEUG00000000843	Others	NA
+Notamacropus_eugenii	FGF20	ENSMEUG00000000892	FGF	NA
+Notamacropus_eugenii	RB1	ENSMEUG00000000905	Other_Co-activator/repressors	NA
+Notamacropus_eugenii	NLRP12	ENSMEUG00000000944	Others	NA
+Notamacropus_eugenii	ANXA4	ENSMEUG00000000959	Others	NA
+Notamacropus_eugenii	FUS	ENSMEUG00000000968	Others	NA
+Notamacropus_eugenii	C6orf89	ENSMEUG00000000999	Other_CRF	NA
+Notamacropus_eugenii	TDG	ENSMEUG00000001011	Others	NA
+Notamacropus_eugenii	TONSL	ENSMEUG00000001036	Others	NA
+Notamacropus_eugenii	MRTFA	ENSMEUG00000001042	Others	NA
+Notamacropus_eugenii		ENSMEUG00000001069	Other_CRF	NA
+Notamacropus_eugenii		ENSMEUG00000001107	Mediator complex	NA
+Notamacropus_eugenii		ENSMEUG00000001116	Others	NA
+Notamacropus_eugenii	BTG1	ENSMEUG00000001126	Others	NA
+Notamacropus_eugenii	RFXAP	ENSMEUG00000001128	Others	NA
+Notamacropus_eugenii	KAT6B	ENSMEUG00000001142	Lysine acetyltransferase	NA
+Notamacropus_eugenii	VGLL4	ENSMEUG00000001144	Vestigial like	NA
+Notamacropus_eugenii	HELLS	ENSMEUG00000001186	Others	NA
+Notamacropus_eugenii	TGFB1	ENSMEUG00000001194	Others	NA
+Notamacropus_eugenii	LIN54	ENSMEUG00000001195	Others	NA
+Notamacropus_eugenii	ELL3	ENSMEUG00000001231	GTF	NA
+Notamacropus_eugenii		ENSMEUG00000001251	Cyclin	NA
+Notamacropus_eugenii	SMARCA5	ENSMEUG00000001267	SWI/SNF	NA
+Notamacropus_eugenii	RAI1	ENSMEUG00000001277	Others	NA
+Notamacropus_eugenii		ENSMEUG00000001279	DNA_methylase	NA
+Notamacropus_eugenii		ENSMEUG00000001350	Lysine methyltransferase	NA
+Notamacropus_eugenii	AGO2	ENSMEUG00000001395	Others	NA
+Notamacropus_eugenii	KDM4B	ENSMEUG00000001403	Lysine demethylase	NA
+Notamacropus_eugenii	INSR	ENSMEUG00000001415	Others	NA
+Notamacropus_eugenii	KDM3A	ENSMEUG00000001436	Lysine demethylase	NA
+Notamacropus_eugenii	NAA15	ENSMEUG00000001441	Others	NA
+Notamacropus_eugenii		ENSMEUG00000001442	Others	NA
+Notamacropus_eugenii		ENSMEUG00000001444	Lysine demethylase	NA
+Notamacropus_eugenii	CXXC1	ENSMEUG00000001457	Others	NA
+Notamacropus_eugenii	SLC26A3	ENSMEUG00000001469	SLC	NA
+Notamacropus_eugenii		ENSMEUG00000001470	RNA helicase	NA
+Notamacropus_eugenii	DHX36	ENSMEUG00000001499	RNA helicase	NA
+Notamacropus_eugenii	CAMK1G	ENSMEUG00000001502	Others	NA
+Notamacropus_eugenii	FKBP8	ENSMEUG00000001503	Others	NA
+Notamacropus_eugenii		ENSMEUG00000001518	Others	NA
+Notamacropus_eugenii		ENSMEUG00000001531	Others	NA
+Notamacropus_eugenii	RBFOX2	ENSMEUG00000001547	Others	NA
+Notamacropus_eugenii	ARL2BP	ENSMEUG00000001555	Others	NA
+Notamacropus_eugenii	URI1	ENSMEUG00000001578	Others	NA
+Notamacropus_eugenii		ENSMEUG00000001653	Others	NA
+Notamacropus_eugenii	BIRC5	ENSMEUG00000001670	Others	NA
+Notamacropus_eugenii	RWDD2B	ENSMEUG00000001690	Others	NA
+Notamacropus_eugenii	TGS1	ENSMEUG00000001697	Others	NA
+Notamacropus_eugenii		ENSMEUG00000001707	Nuclear receptor coactivator	NA
+Notamacropus_eugenii		ENSMEUG00000001715	CHD	NA
+Notamacropus_eugenii	LEO1	ENSMEUG00000001723	Others	NA
+Notamacropus_eugenii	RAP2B	ENSMEUG00000001733	Others	NA
+Notamacropus_eugenii	LPIN2	ENSMEUG00000001737	LPIN	NA
+Notamacropus_eugenii	MEN1	ENSMEUG00000001770	Others	NA
+Notamacropus_eugenii	EZR	ENSMEUG00000001793	Others	NA
+Notamacropus_eugenii	KDM2B	ENSMEUG00000001808	Lysine demethylase	NA
+Notamacropus_eugenii	RBPMS2	ENSMEUG00000001810	RNA binding protein	NA
+Notamacropus_eugenii	KDM3B	ENSMEUG00000001813	Lysine demethylase	NA
+Notamacropus_eugenii	TRADD	ENSMEUG00000001836	Others	NA
+Notamacropus_eugenii	ACTR6	ENSMEUG00000001845	ACTR	NA
+Notamacropus_eugenii	BRD8	ENSMEUG00000001861	Bromodomain	NA
+Notamacropus_eugenii	LRRC14	ENSMEUG00000001862	Others	NA
+Notamacropus_eugenii		ENSMEUG00000001906	PARP	NA
+Notamacropus_eugenii		ENSMEUG00000001933	Others	NA
+Notamacropus_eugenii	PELP1	ENSMEUG00000001946	Others	NA
+Notamacropus_eugenii	ARRB2	ENSMEUG00000001974	Others	NA
+Notamacropus_eugenii		ENSMEUG00000002009	Others	NA
+Notamacropus_eugenii	TOB2	ENSMEUG00000002011	Others	NA
+Notamacropus_eugenii	EMSY	ENSMEUG00000002012	Others	NA
+Notamacropus_eugenii	PHF5A	ENSMEUG00000002019	PHF	NA
+Notamacropus_eugenii	SMARCD1	ENSMEUG00000002032	SWI/SNF	NA
+Notamacropus_eugenii	BCOR	ENSMEUG00000002045	Other_Co-activator/repressors	NA
+Notamacropus_eugenii	MYCBP2	ENSMEUG00000002057	MYC	NA
+Notamacropus_eugenii	CALCOCO1	ENSMEUG00000002106	Others	NA
+Notamacropus_eugenii	EZH2	ENSMEUG00000002137	Others	NA
+Notamacropus_eugenii	CCAR2	ENSMEUG00000002163	Others	NA
+Notamacropus_eugenii	ALYREF	ENSMEUG00000002210	Others	NA
+Notamacropus_eugenii		ENSMEUG00000002230	Others	NA
+Notamacropus_eugenii	MMS19	ENSMEUG00000002262	Others	NA
+Notamacropus_eugenii	HDAC10	ENSMEUG00000002286	Histone deacetylase	NA
+Notamacropus_eugenii	WNT3	ENSMEUG00000002292	Others	NA
+Notamacropus_eugenii	MCRS1	ENSMEUG00000002298	Others	NA
+Notamacropus_eugenii	CGGBP1	ENSMEUG00000002344	Others	NA
+Notamacropus_eugenii	TRIB3	ENSMEUG00000002372	Others	NA
+Notamacropus_eugenii	GRIP1	ENSMEUG00000002377	Others	NA
+Notamacropus_eugenii	HDAC1	ENSMEUG00000002397	Histone deacetylase	NA
+Notamacropus_eugenii	TLE4	ENSMEUG00000002398	Transducin	NA
+Notamacropus_eugenii	TXNIP	ENSMEUG00000002416	Others	NA
+Notamacropus_eugenii	SPEN	ENSMEUG00000002422	Others	NA
+Notamacropus_eugenii		ENSMEUG00000002433	Others	NA
+Notamacropus_eugenii	ACTN2	ENSMEUG00000002442	Actin	NA
+Notamacropus_eugenii	SAFB2	ENSMEUG00000002456	Others	NA
+Notamacropus_eugenii	WWC1	ENSMEUG00000002469	WW	NA
+Notamacropus_eugenii	LZTS1	ENSMEUG00000002495	Others	NA
+Notamacropus_eugenii	DVL3	ENSMEUG00000002544	Others	NA
+Notamacropus_eugenii		ENSMEUG00000002567	TATA-box	NA
+Notamacropus_eugenii	ASH2L	ENSMEUG00000002568	Others	NA
+Notamacropus_eugenii		ENSMEUG00000002628	Others	NA
+Notamacropus_eugenii	GTF2H5	ENSMEUG00000002651	GTF	NA
+Notamacropus_eugenii	TAF5L	ENSMEUG00000002661	TATA-box	NA
+Notamacropus_eugenii		ENSMEUG00000002668	Others	NA
+Notamacropus_eugenii	DAXX	ENSMEUG00000002699	Other_CRF	NA
+Notamacropus_eugenii	BRD1	ENSMEUG00000002708	Bromodomain	NA
+Notamacropus_eugenii	MED6	ENSMEUG00000002715	Mediator complex	NA
+Notamacropus_eugenii	RALGAPA2	ENSMEUG00000002730	Others	NA
+Notamacropus_eugenii		ENSMEUG00000002755	Bromodomain	NA
+Notamacropus_eugenii	NCOA2	ENSMEUG00000002794	Nuclear receptor coactivator	NA
+Notamacropus_eugenii	MRGBP	ENSMEUG00000002812	Others	NA
+Notamacropus_eugenii		ENSMEUG00000002815	Others	NA
+Notamacropus_eugenii	PELI2	ENSMEUG00000002822	Others	NA
+Notamacropus_eugenii	SAP130	ENSMEUG00000002834	SAP	NA
+Notamacropus_eugenii	MED10	ENSMEUG00000002843	Mediator complex	NA
+Notamacropus_eugenii	DNAJB1	ENSMEUG00000002889	Others	NA
+Notamacropus_eugenii	FBXW7	ENSMEUG00000002927	Others	NA
+Notamacropus_eugenii	CNOT3	ENSMEUG00000002952	CCR4-NOT	NA
+Notamacropus_eugenii	ASCC3	ENSMEUG00000003061	ASCC	NA
+Notamacropus_eugenii		ENSMEUG00000003074	Others	NA
+Notamacropus_eugenii		ENSMEUG00000003119	EYA	NA
+Notamacropus_eugenii	PAK6	ENSMEUG00000003124	Others	NA
+Notamacropus_eugenii	TRIM11	ENSMEUG00000003154	Tripartite motif	NA
+Notamacropus_eugenii	TRAK1	ENSMEUG00000003235	Others	NA
+Notamacropus_eugenii		ENSMEUG00000003239	PARP	NA
+Notamacropus_eugenii		ENSMEUG00000003244	Nuclear coactivator	NA
+Notamacropus_eugenii	KAT6A	ENSMEUG00000003254	Lysine acetyltransferase	NA
+Notamacropus_eugenii	TAF2	ENSMEUG00000003298	TATA-box	NA
+Notamacropus_eugenii	TRAF4	ENSMEUG00000003314	Others	NA
+Notamacropus_eugenii	MAD2L2	ENSMEUG00000003349	Others	NA
+Notamacropus_eugenii		ENSMEUG00000003369	Others	NA
+Notamacropus_eugenii	UTP4	ENSMEUG00000003372	Others	NA
+Notamacropus_eugenii		ENSMEUG00000003378	WW	NA
+Notamacropus_eugenii		ENSMEUG00000003396	SET	NA
+Notamacropus_eugenii	TAF3	ENSMEUG00000003401	TATA-box	NA
+Notamacropus_eugenii		ENSMEUG00000003402	SET	NA
+Notamacropus_eugenii		ENSMEUG00000003403	Others	NA
+Notamacropus_eugenii		ENSMEUG00000003414	Others	NA
+Notamacropus_eugenii		ENSMEUG00000003437	Zinc finger	NA
+Notamacropus_eugenii		ENSMEUG00000003465	Nucleoplasmin	NA
+Notamacropus_eugenii	SMYD3	ENSMEUG00000003476	SMYD	NA
+Notamacropus_eugenii	HIPK3	ENSMEUG00000003499	HIPK	NA
+Notamacropus_eugenii	DCC	ENSMEUG00000003512	Others	NA
+Notamacropus_eugenii	TXN	ENSMEUG00000003515	Others	NA
+Notamacropus_eugenii		ENSMEUG00000003521	Cyclin	NA
+Notamacropus_eugenii	CHUK	ENSMEUG00000003615	Others	NA
+Notamacropus_eugenii	ERBB4	ENSMEUG00000003642	Erbb2	NA
+Notamacropus_eugenii	ILF2	ENSMEUG00000003651	Others	NA
+Notamacropus_eugenii	EHMT2	ENSMEUG00000003673	Histone lysine methyltransferase	NA
+Notamacropus_eugenii	MED14	ENSMEUG00000003719	Mediator complex	NA
+Notamacropus_eugenii		ENSMEUG00000003737	Others	NA
+Notamacropus_eugenii		ENSMEUG00000003775	Others	NA
+Notamacropus_eugenii		ENSMEUG00000003780	Others	NA
+Notamacropus_eugenii	COMMD1	ENSMEUG00000003781	Others	NA
+Notamacropus_eugenii		ENSMEUG00000003784	Others	NA
+Notamacropus_eugenii	TAB1	ENSMEUG00000003808	Others	NA
+Notamacropus_eugenii	DDX5	ENSMEUG00000003843	RNA helicase	NA
+Notamacropus_eugenii		ENSMEUG00000003879	WD	NA
+Notamacropus_eugenii	THRSP	ENSMEUG00000003914	Others	NA
+Notamacropus_eugenii	SET	ENSMEUG00000003917	SET	NA
+Notamacropus_eugenii		ENSMEUG00000003930	Others	NA
+Notamacropus_eugenii	AIP	ENSMEUG00000003946	Others	NA
+Notamacropus_eugenii	DAPK3	ENSMEUG00000003969	Others	NA
+Notamacropus_eugenii	SNAPC5	ENSMEUG00000003990	Others	NA
+Notamacropus_eugenii		ENSMEUG00000004019	Erbb2	NA
+Notamacropus_eugenii		ENSMEUG00000004063	Zinc finger	NA
+Notamacropus_eugenii	PRMT8	ENSMEUG00000004075	Arginine methyltransferase	NA
+Notamacropus_eugenii		ENSMEUG00000004080	Tripartite motif	NA
+Notamacropus_eugenii	PCGF2	ENSMEUG00000004121	PCGF	NA
+Notamacropus_eugenii	BRMS1	ENSMEUG00000004127	Other_CRF	NA
+Notamacropus_eugenii		ENSMEUG00000004137	Others	NA
+Notamacropus_eugenii	CTR9	ENSMEUG00000004143	Others	NA
+Notamacropus_eugenii	CDK8	ENSMEUG00000004233	Cyclin	NA
+Notamacropus_eugenii	FLNA	ENSMEUG00000004236	Others	NA
+Notamacropus_eugenii	MED11	ENSMEUG00000004247	Mediator complex	NA
+Notamacropus_eugenii	CTBP2	ENSMEUG00000004260	Others	NA
+Notamacropus_eugenii	SFMBT1	ENSMEUG00000004273	Others	NA
+Notamacropus_eugenii	NONO	ENSMEUG00000004294	Others	NA
+Notamacropus_eugenii	KDM2A	ENSMEUG00000004320	Lysine demethylase	NA
+Notamacropus_eugenii		ENSMEUG00000004327	Others	NA
+Notamacropus_eugenii	PIM3	ENSMEUG00000004352	Others	NA
+Notamacropus_eugenii	RAF1	ENSMEUG00000004360	Others	NA
+Notamacropus_eugenii	HIPK2	ENSMEUG00000004407	HIPK	NA
+Notamacropus_eugenii	CNOT9	ENSMEUG00000004418	CCR4-NOT	NA
+Notamacropus_eugenii		ENSMEUG00000004430	Others	NA
+Notamacropus_eugenii	LBH	ENSMEUG00000004488	Others	NA
+Notamacropus_eugenii	L3MBTL2	ENSMEUG00000004496	Others	NA
+Notamacropus_eugenii		ENSMEUG00000004530	Bromodomain	NA
+Notamacropus_eugenii	NELFCD	ENSMEUG00000004565	GTF	NA
+Notamacropus_eugenii	DNAJA3	ENSMEUG00000004567	Others	NA
+Notamacropus_eugenii	BCL3	ENSMEUG00000004589	BCL	NA
+Notamacropus_eugenii	SFRP4	ENSMEUG00000004605	Others	NA
+Notamacropus_eugenii		ENSMEUG00000004624	CAMK	NA
+Notamacropus_eugenii	CNOT11	ENSMEUG00000004695	CCR4-NOT	NA
+Notamacropus_eugenii		ENSMEUG00000004725	Others	NA
+Notamacropus_eugenii	MACROH2A2	ENSMEUG00000004728	Others	NA
+Notamacropus_eugenii		ENSMEUG00000004815	ANP	NA
+Notamacropus_eugenii	SMYD2	ENSMEUG00000004840	SMYD	NA
+Notamacropus_eugenii	CASP8AP2	ENSMEUG00000004883	Others	NA
+Notamacropus_eugenii	RGCC	ENSMEUG00000004900	Others	NA
+Notamacropus_eugenii		ENSMEUG00000005014	Others	NA
+Notamacropus_eugenii	MED9	ENSMEUG00000005015	Mediator complex	NA
+Notamacropus_eugenii		ENSMEUG00000005019	Others	NA
+Notamacropus_eugenii	RASD1	ENSMEUG00000005023	Others	NA
+Notamacropus_eugenii		ENSMEUG00000005061	Others	NA
+Notamacropus_eugenii		ENSMEUG00000005142	Others	NA
+Notamacropus_eugenii	NOTCH3	ENSMEUG00000005154	Notch	NA
+Notamacropus_eugenii	HEATR1	ENSMEUG00000005171	Others	NA
+Notamacropus_eugenii	ORC2	ENSMEUG00000005184	Others	NA
+Notamacropus_eugenii		ENSMEUG00000005185	Others	NA
+Notamacropus_eugenii		ENSMEUG00000005226	ELP	NA
+Notamacropus_eugenii	PHF19	ENSMEUG00000005250	PHF	NA
+Notamacropus_eugenii	AJUBA	ENSMEUG00000005332	Others	NA
+Notamacropus_eugenii		ENSMEUG00000005368	Others	NA
+Notamacropus_eugenii		ENSMEUG00000005372	ANP	NA
+Notamacropus_eugenii		ENSMEUG00000005389	Others	NA
+Notamacropus_eugenii	ELL	ENSMEUG00000005402	GTF	NA
+Notamacropus_eugenii		ENSMEUG00000005416	Others	NA
+Notamacropus_eugenii	TENM1	ENSMEUG00000005444	Others	NA
+Notamacropus_eugenii	KDM1A	ENSMEUG00000005471	Lysine demethylase	NA
+Notamacropus_eugenii	EP400	ENSMEUG00000005484	Others	NA
+Notamacropus_eugenii	PIN1	ENSMEUG00000005498	Others	NA
+Notamacropus_eugenii	PCGF5	ENSMEUG00000005518	PCGF	NA
+Notamacropus_eugenii	S100Z	ENSMEUG00000005536	Others	NA
+Notamacropus_eugenii	CDK2	ENSMEUG00000005552	Cyclin	NA
+Notamacropus_eugenii	YEATS2	ENSMEUG00000005579	Others	NA
+Notamacropus_eugenii	KAT2A	ENSMEUG00000005586	Lysine acetyltransferase	NA
+Notamacropus_eugenii	CDKN1B	ENSMEUG00000005602	Cyclin	NA
+Notamacropus_eugenii	NLK	ENSMEUG00000005622	Others	NA
+Notamacropus_eugenii		ENSMEUG00000005645	Nuclear coactivator	NA
+Notamacropus_eugenii		ENSMEUG00000005701	Others	NA
+Notamacropus_eugenii		ENSMEUG00000005702	Others	NA
+Notamacropus_eugenii	KDM7A	ENSMEUG00000005731	Lysine demethylase	NA
+Notamacropus_eugenii	RBM14	ENSMEUG00000005742	RNA binding protein	NA
+Notamacropus_eugenii	FHOD1	ENSMEUG00000005779	Others	NA
+Notamacropus_eugenii	MED25	ENSMEUG00000005798	Mediator complex	NA
+Notamacropus_eugenii	CHD3	ENSMEUG00000005852	CHD	NA
+Notamacropus_eugenii	PHF1	ENSMEUG00000005857	PHF	NA
+Notamacropus_eugenii	DTX1	ENSMEUG00000005874	Others	NA
+Notamacropus_eugenii	TRIP4	ENSMEUG00000005886	Thyroid hormone receptor	NA
+Notamacropus_eugenii	CTNNB1	ENSMEUG00000005892	Casein	NA
+Notamacropus_eugenii		ENSMEUG00000005904	Others	NA
+Notamacropus_eugenii	MAML1	ENSMEUG00000005948	MAML	NA
+Notamacropus_eugenii		ENSMEUG00000005993	Others	NA
+Notamacropus_eugenii	RPTOR	ENSMEUG00000005996	Others	NA
+Notamacropus_eugenii	PPARGC1A	ENSMEUG00000006008	Others	NA
+Notamacropus_eugenii		ENSMEUG00000006038	Coiled-coil	NA
+Notamacropus_eugenii	TBPL1	ENSMEUG00000006043	TATA-box	NA
+Notamacropus_eugenii	NELFE	ENSMEUG00000006053	GTF	NA
+Notamacropus_eugenii		ENSMEUG00000006098	ACTR	NA
+Notamacropus_eugenii	HDAC11	ENSMEUG00000006105	Histone deacetylase	NA
+Notamacropus_eugenii	SETD6	ENSMEUG00000006127	SET	NA
+Notamacropus_eugenii	BTF3L4	ENSMEUG00000006135	Others	NA
+Notamacropus_eugenii	CNOT1	ENSMEUG00000006145	CCR4-NOT	NA
+Notamacropus_eugenii	HELZ2	ENSMEUG00000006147	Others	NA
+Notamacropus_eugenii	KAT5	ENSMEUG00000006191	Lysine acetyltransferase	NA
+Notamacropus_eugenii	DPY30	ENSMEUG00000006193	Others	NA
+Notamacropus_eugenii	TAB2	ENSMEUG00000006208	Others	NA
+Notamacropus_eugenii	DCAF1	ENSMEUG00000006212	Others	NA
+Notamacropus_eugenii	SGF29	ENSMEUG00000006221	Others	NA
+Notamacropus_eugenii	WWOX	ENSMEUG00000006257	WW	NA
+Notamacropus_eugenii	BAZ1B	ENSMEUG00000006261	Bromodomain	NA
+Notamacropus_eugenii		ENSMEUG00000006343	CENP	NA
+Notamacropus_eugenii	SAV1	ENSMEUG00000006388	Others	NA
+Notamacropus_eugenii		ENSMEUG00000006434	Lysine methyltransferase	NA
+Notamacropus_eugenii	KDM8	ENSMEUG00000006452	Lysine demethylase	NA
+Notamacropus_eugenii		ENSMEUG00000006481	Others	NA
+Notamacropus_eugenii	GTF2F1	ENSMEUG00000006492	GTF	NA
+Notamacropus_eugenii		ENSMEUG00000006513	Others	NA
+Notamacropus_eugenii	FGFR2	ENSMEUG00000006530	FGF	NA
+Notamacropus_eugenii	ATXN7L3	ENSMEUG00000006557	Others	NA
+Notamacropus_eugenii		ENSMEUG00000006568	Others	NA
+Notamacropus_eugenii	GTF2E1	ENSMEUG00000006621	GTF	NA
+Notamacropus_eugenii	PBXIP1	ENSMEUG00000006668	Others	NA
+Notamacropus_eugenii	TIGD4	ENSMEUG00000006670	CENP	NA
+Notamacropus_eugenii	NRG1	ENSMEUG00000006672	Others	NA
+Notamacropus_eugenii		ENSMEUG00000006673	PCGF	NA
+Notamacropus_eugenii		ENSMEUG00000006691	SS18	NA
+Notamacropus_eugenii		ENSMEUG00000006723	TEF	NA
+Notamacropus_eugenii	CRTC2	ENSMEUG00000006733	CREB	NA
+Notamacropus_eugenii	TRIB2	ENSMEUG00000006764	Others	NA
+Notamacropus_eugenii	CCNE1	ENSMEUG00000006798	Cyclin	NA
+Notamacropus_eugenii	DACT1	ENSMEUG00000006818	Others	NA
+Notamacropus_eugenii	CHAF1B	ENSMEUG00000006881	Others	NA
+Notamacropus_eugenii	TESC	ENSMEUG00000006885	Others	NA
+Notamacropus_eugenii	KMT5B	ENSMEUG00000006886	Lysine methyltransferase	NA
+Notamacropus_eugenii	BUD31	ENSMEUG00000006920	Others	NA
+Notamacropus_eugenii	TNRC18	ENSMEUG00000006950	Others	NA
+Notamacropus_eugenii	TAF8	ENSMEUG00000006952	TATA-box	NA
+Notamacropus_eugenii	HNRNPK	ENSMEUG00000006975	HNRNP	NA
+Notamacropus_eugenii		ENSMEUG00000006982	WW	NA
+Notamacropus_eugenii		ENSMEUG00000006991	CREB	NA
+Notamacropus_eugenii	ECD	ENSMEUG00000006994	Others	NA
+Notamacropus_eugenii		ENSMEUG00000007035	Others	NA
+Notamacropus_eugenii	NKAPL	ENSMEUG00000007044	NFKB associated	NA
+Notamacropus_eugenii		ENSMEUG00000007047	Others	NA
+Notamacropus_eugenii	FHL3	ENSMEUG00000007130	FHL	NA
+Notamacropus_eugenii	RBL2	ENSMEUG00000007133	Other_Co-activator/repressors	NA
+Notamacropus_eugenii	PHF2	ENSMEUG00000007135	PHF	NA
+Notamacropus_eugenii	LMO1	ENSMEUG00000007174	LIM	NA
+Notamacropus_eugenii	RBM39	ENSMEUG00000007237	RNA binding protein	NA
+Notamacropus_eugenii	BLM	ENSMEUG00000007253	Others	NA
+Notamacropus_eugenii	AATF	ENSMEUG00000007299	Others	NA
+Notamacropus_eugenii	ERBB2	ENSMEUG00000007307	Erbb2	NA
+Notamacropus_eugenii	CBX6	ENSMEUG00000007386	Chromobox	NA
+Notamacropus_eugenii	DR1	ENSMEUG00000007405	Others	NA
+Notamacropus_eugenii	CNOT8	ENSMEUG00000007427	CCR4-NOT	NA
+Notamacropus_eugenii		ENSMEUG00000007486	Others	NA
+Notamacropus_eugenii		ENSMEUG00000007490	GTF	NA
+Notamacropus_eugenii	RBL1	ENSMEUG00000007528	Other_Co-activator/repressors	NA
+Notamacropus_eugenii	CNOT10	ENSMEUG00000007596	CCR4-NOT	NA
+Notamacropus_eugenii	PHF12	ENSMEUG00000007609	PHF	NA
+Notamacropus_eugenii	ADRB2	ENSMEUG00000007636	Others	NA
+Notamacropus_eugenii	ARGLU1	ENSMEUG00000007780	Others	NA
+Notamacropus_eugenii		ENSMEUG00000007842	Coiled-coil	NA
+Notamacropus_eugenii	MED24	ENSMEUG00000007871	Mediator complex	NA
+Notamacropus_eugenii	CTDSP1	ENSMEUG00000007882	Others	NA
+Notamacropus_eugenii		ENSMEUG00000007905	Other_CRF	NA
+Notamacropus_eugenii	HNRNPAB	ENSMEUG00000007909	HNRNP	NA
+Notamacropus_eugenii	ENO3	ENSMEUG00000007915	Others	NA
+Notamacropus_eugenii		ENSMEUG00000007960	Cyclin	NA
+Notamacropus_eugenii	RNF111	ENSMEUG00000007982	Ring finger protein	NA
+Notamacropus_eugenii		ENSMEUG00000008027	DNA_methylase	NA
+Notamacropus_eugenii	ZNF703	ENSMEUG00000008055	Zinc finger	NA
+Notamacropus_eugenii		ENSMEUG00000008066	SUPT	NA
+Notamacropus_eugenii	LRRK2	ENSMEUG00000008094	Other_CRF	NA
+Notamacropus_eugenii	YWHAG	ENSMEUG00000008100	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008101	Others	NA
+Notamacropus_eugenii	ERN1	ENSMEUG00000008103	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008109	Others	NA
+Notamacropus_eugenii	CSRP3	ENSMEUG00000008114	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008116	Others	NA
+Notamacropus_eugenii	NDUFA13	ENSMEUG00000008118	Others	NA
+Notamacropus_eugenii	HCFC1	ENSMEUG00000008176	Others	NA
+Notamacropus_eugenii	ILK	ENSMEUG00000008199	Others	NA
+Notamacropus_eugenii	ACTR8	ENSMEUG00000008205	ACTR	NA
+Notamacropus_eugenii	THOC5	ENSMEUG00000008215	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008222	CHD	NA
+Notamacropus_eugenii	NRIP2	ENSMEUG00000008225	Nuclear coactivator	NA
+Notamacropus_eugenii	CBX5	ENSMEUG00000008229	Chromobox	NA
+Notamacropus_eugenii	DDX1	ENSMEUG00000008254	RNA helicase	NA
+Notamacropus_eugenii	DDX39B	ENSMEUG00000008264	RNA helicase	NA
+Notamacropus_eugenii	SMARCAD1	ENSMEUG00000008276	SWI/SNF	NA
+Notamacropus_eugenii	SMARCD3	ENSMEUG00000008293	SWI/SNF	NA
+Notamacropus_eugenii		ENSMEUG00000008298	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008327	Lysine demethylase	NA
+Notamacropus_eugenii		ENSMEUG00000008331	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008391	Others	NA
+Notamacropus_eugenii	JADE2	ENSMEUG00000008399	Others	NA
+Notamacropus_eugenii	WWTR1	ENSMEUG00000008402	WW	NA
+Notamacropus_eugenii		ENSMEUG00000008412	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008420	GTF	NA
+Notamacropus_eugenii		ENSMEUG00000008426	TATA-box	NA
+Notamacropus_eugenii		ENSMEUG00000008435	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008450	Lysine demethylase	NA
+Notamacropus_eugenii	MRTFB	ENSMEUG00000008459	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008504	Others	NA
+Notamacropus_eugenii	NCK1	ENSMEUG00000008537	Others	NA
+Notamacropus_eugenii	POLR2A	ENSMEUG00000008611	POLR	NA
+Notamacropus_eugenii	ARRB1	ENSMEUG00000008613	Others	NA
+Notamacropus_eugenii	ZNF638	ENSMEUG00000008620	Zinc finger	NA
+Notamacropus_eugenii		ENSMEUG00000008622	Others	NA
+Notamacropus_eugenii	INO80	ENSMEUG00000008624	INO80 complex	NA
+Notamacropus_eugenii	RPAP2	ENSMEUG00000008670	Others	NA
+Notamacropus_eugenii	RING1	ENSMEUG00000008676	Ring finger protein	NA
+Notamacropus_eugenii		ENSMEUG00000008686	Other_CRF	NA
+Notamacropus_eugenii	SKI	ENSMEUG00000008695	SKI	NA
+Notamacropus_eugenii	TERF2IP	ENSMEUG00000008697	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008703	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008713	Others	NA
+Notamacropus_eugenii	CHD6	ENSMEUG00000008774	CHD	NA
+Notamacropus_eugenii	PCGF6	ENSMEUG00000008783	PCGF	NA
+Notamacropus_eugenii	PEX2	ENSMEUG00000008788	Others	NA
+Notamacropus_eugenii	AXIN1	ENSMEUG00000008794	Others	NA
+Notamacropus_eugenii	CDK12	ENSMEUG00000008820	Cyclin	NA
+Notamacropus_eugenii	SNW1	ENSMEUG00000008854	Others	NA
+Notamacropus_eugenii	CHRAC1	ENSMEUG00000008863	Other_CRF	NA
+Notamacropus_eugenii	MED31	ENSMEUG00000008956	Mediator complex	NA
+Notamacropus_eugenii		ENSMEUG00000008958	Others	NA
+Notamacropus_eugenii		ENSMEUG00000008990	ELP	NA
+Notamacropus_eugenii		ENSMEUG00000008999	Chromodomain Y	NA
+Notamacropus_eugenii	LIMD1	ENSMEUG00000009011	LIM	NA
+Notamacropus_eugenii		ENSMEUG00000009065	Others	NA
+Notamacropus_eugenii	ANKRA2	ENSMEUG00000009074	Ankyrin repeat	NA
+Notamacropus_eugenii	NELFA	ENSMEUG00000009100	GTF	NA
+Notamacropus_eugenii		ENSMEUG00000009101	Others	NA
+Notamacropus_eugenii		ENSMEUG00000009110	Others	NA
+Notamacropus_eugenii	JAK2	ENSMEUG00000009160	Others	NA
+Notamacropus_eugenii	TRAK2	ENSMEUG00000009182	Others	NA
+Notamacropus_eugenii	KMT2E	ENSMEUG00000009195	Lysine methyltransferase	NA
+Notamacropus_eugenii	DHX33	ENSMEUG00000009202	RNA helicase	NA
+Notamacropus_eugenii		ENSMEUG00000009208	GTF	NA
+Notamacropus_eugenii		ENSMEUG00000009218	Other_CRF	NA
+Notamacropus_eugenii	CBX2	ENSMEUG00000009250	Chromobox	NA
+Notamacropus_eugenii	SSBP3	ENSMEUG00000009291	Others	NA
+Notamacropus_eugenii		ENSMEUG00000009297	FGF	NA
+Notamacropus_eugenii	DRAP1	ENSMEUG00000009304	Others	NA
+Notamacropus_eugenii	TAF4B	ENSMEUG00000009323	TATA-box	NA
+Notamacropus_eugenii		ENSMEUG00000009344	WD	NA
+Notamacropus_eugenii	HDAC7	ENSMEUG00000009363	Histone deacetylase	NA
+Notamacropus_eugenii	SUFU	ENSMEUG00000009384	Others	NA
+Notamacropus_eugenii	SUPT6H	ENSMEUG00000009404	SUPT	NA
+Notamacropus_eugenii		ENSMEUG00000009478	Others	NA
+Notamacropus_eugenii	MYOCD	ENSMEUG00000009501	Others	NA
+Notamacropus_eugenii	SAP30	ENSMEUG00000009540	SAP	NA
+Notamacropus_eugenii	NIPBL	ENSMEUG00000009553	Others	NA
+Notamacropus_eugenii		ENSMEUG00000009556	Others	NA
+Notamacropus_eugenii	PSEN1	ENSMEUG00000009560	Others	NA
+Notamacropus_eugenii	DPF1	ENSMEUG00000009568	DPF	NA
+Notamacropus_eugenii	DDX17	ENSMEUG00000009627	RNA helicase	NA
+Notamacropus_eugenii		ENSMEUG00000009630	Others	NA
+Notamacropus_eugenii		ENSMEUG00000009656	CCR4-NOT	NA
+Notamacropus_eugenii	ZMYND8	ENSMEUG00000009662	Zinc finger	NA
+Notamacropus_eugenii	NAB1	ENSMEUG00000009677	Others	NA
+Notamacropus_eugenii	NOTCH2	ENSMEUG00000009678	Notch	NA
+Notamacropus_eugenii		ENSMEUG00000009697	TATA-box	NA
+Notamacropus_eugenii		ENSMEUG00000009720	Histone deacetylase	NA
+Notamacropus_eugenii		ENSMEUG00000009767	CCR4-NOT	NA
+Notamacropus_eugenii	CRYM	ENSMEUG00000009774	Others	NA
+Notamacropus_eugenii	ALPK3	ENSMEUG00000009777	Others	NA
+Notamacropus_eugenii	CDK5RAP3	ENSMEUG00000009786	Cyclin	NA
+Notamacropus_eugenii	SMARCA2	ENSMEUG00000009812	SWI/SNF	NA
+Notamacropus_eugenii		ENSMEUG00000009824	Others	NA
+Notamacropus_eugenii		ENSMEUG00000009828	SLC	NA
+Notamacropus_eugenii	LDB1	ENSMEUG00000009854	LIM	NA
+Notamacropus_eugenii	ABRA	ENSMEUG00000009873	Actin	NA
+Notamacropus_eugenii	PHF20	ENSMEUG00000009890	PHF	NA
+Notamacropus_eugenii	RUVBL1	ENSMEUG00000009902	Other_CRF	NA
+Notamacropus_eugenii	NCOA3	ENSMEUG00000009933	Nuclear receptor coactivator	NA
+Notamacropus_eugenii	SIN3A	ENSMEUG00000009994	Other_CRF	NA
+Notamacropus_eugenii	TNNI3	ENSMEUG00000009995	Others	NA
+Notamacropus_eugenii	MED23	ENSMEUG00000010004	Mediator complex	NA
+Notamacropus_eugenii	SRC	ENSMEUG00000010031	Others	NA
+Notamacropus_eugenii	CHD7	ENSMEUG00000010045	CHD	NA
+Notamacropus_eugenii		ENSMEUG00000010065	PARP	NA
+Notamacropus_eugenii		ENSMEUG00000010068	Other_CRF	NA
+Notamacropus_eugenii	CTNND1	ENSMEUG00000010073	Casein	NA
+Notamacropus_eugenii	SMARCB1	ENSMEUG00000010113	SWI/SNF	NA
+Notamacropus_eugenii	TDRD3	ENSMEUG00000010114	Others	NA
+Notamacropus_eugenii	SUPT4H1	ENSMEUG00000010164	SUPT	NA
+Notamacropus_eugenii	HIRA	ENSMEUG00000010174	Others	NA
+Notamacropus_eugenii	HDAC9	ENSMEUG00000010195	Histone deacetylase	NA
+Notamacropus_eugenii		ENSMEUG00000010202	Others	NA
+Notamacropus_eugenii	TRIM24	ENSMEUG00000010217	Tripartite motif	NA
+Notamacropus_eugenii	SDR16C5	ENSMEUG00000010230	Others	NA
+Notamacropus_eugenii	SUV39H1	ENSMEUG00000010233	Others	NA
+Notamacropus_eugenii	FAM43B	ENSMEUG00000010238	Others	NA
+Notamacropus_eugenii	SAMD4B	ENSMEUG00000010261	Others	NA
+Notamacropus_eugenii	PAF1	ENSMEUG00000010274	Others	NA
+Notamacropus_eugenii	NUP98	ENSMEUG00000010275	Others	NA
+Notamacropus_eugenii		ENSMEUG00000010285	Bromodomain	NA
+Notamacropus_eugenii	MED29	ENSMEUG00000010296	Mediator complex	NA
+Notamacropus_eugenii	NIF3L1	ENSMEUG00000010310	Others	NA
+Notamacropus_eugenii	POLR3F	ENSMEUG00000010320	POLR	NA
+Notamacropus_eugenii	FAM83G	ENSMEUG00000010323	FAM	NA
+Notamacropus_eugenii	PLK3	ENSMEUG00000010327	Others	NA
+Notamacropus_eugenii	MTOR	ENSMEUG00000010339	Others	NA
+Notamacropus_eugenii		ENSMEUG00000010382	Notch	NA
+Notamacropus_eugenii	TENM2	ENSMEUG00000010406	Others	NA
+Notamacropus_eugenii	CAVIN1	ENSMEUG00000010460	Others	NA
+Notamacropus_eugenii	LMCD1	ENSMEUG00000010488	LIM	NA
+Notamacropus_eugenii	CEP290	ENSMEUG00000010534	Others	NA
+Notamacropus_eugenii	TRRAP	ENSMEUG00000010572	Others	NA
+Notamacropus_eugenii	SKAP1	ENSMEUG00000010588	Others	NA
+Notamacropus_eugenii		ENSMEUG00000010610	Others	NA
+Notamacropus_eugenii	GPS2	ENSMEUG00000010645	Others	NA
+Notamacropus_eugenii		ENSMEUG00000010654	Others	NA
+Notamacropus_eugenii		ENSMEUG00000010691	Others	NA
+Notamacropus_eugenii	HSPA2	ENSMEUG00000010699	Heat shock protein	NA
+Notamacropus_eugenii	EDRF1	ENSMEUG00000010743	Others	NA
+Notamacropus_eugenii		ENSMEUG00000010753	Other_CRF	NA
+Notamacropus_eugenii	TOP1	ENSMEUG00000010757	Other_CRF	NA
+Notamacropus_eugenii	ING4	ENSMEUG00000010772	ING	NA
+Notamacropus_eugenii	RBBP5	ENSMEUG00000010791	RBBP	NA
+Notamacropus_eugenii		ENSMEUG00000010806	Others	NA
+Notamacropus_eugenii	NRBF2	ENSMEUG00000010849	Nuclear receptor coactivator	NA
+Notamacropus_eugenii	DPF2	ENSMEUG00000010850	DPF	NA
+Notamacropus_eugenii	JMJD1C	ENSMEUG00000010859	Other_CRF	NA
+Notamacropus_eugenii	CBFA2T2	ENSMEUG00000010889	Others	NA
+Notamacropus_eugenii		ENSMEUG00000010897	Others	NA
+Notamacropus_eugenii		ENSMEUG00000010904	Vestigial like	NA
+Notamacropus_eugenii	NEDD8	ENSMEUG00000010917	Others	NA
+Notamacropus_eugenii	RTF1	ENSMEUG00000010919	Others	NA
+Notamacropus_eugenii		ENSMEUG00000010928	HNRNP	NA
+Notamacropus_eugenii	RLIM	ENSMEUG00000010941	Ring finger protein	NA
+Notamacropus_eugenii	MED13	ENSMEUG00000011009	Mediator complex	NA
+Notamacropus_eugenii		ENSMEUG00000011016	MYB	NA
+Notamacropus_eugenii	TAF6	ENSMEUG00000011033	TATA-box	NA
+Notamacropus_eugenii	RUNX1T1	ENSMEUG00000011036	Others	NA
+Notamacropus_eugenii	KMT5C	ENSMEUG00000011084	Lysine methyltransferase	NA
+Notamacropus_eugenii	OGT	ENSMEUG00000011091	Others	NA
+Notamacropus_eugenii	BRMS1L	ENSMEUG00000011105	Other_CRF	NA
+Notamacropus_eugenii	ANP32E	ENSMEUG00000011110	ANP	NA
+Notamacropus_eugenii	VGLL3	ENSMEUG00000011132	Vestigial like	NA
+Notamacropus_eugenii	BAZ1A	ENSMEUG00000011146	Bromodomain	NA
+Notamacropus_eugenii	CREG2	ENSMEUG00000011158	Others	NA
+Notamacropus_eugenii		ENSMEUG00000011193	Histone lysine methyltransferase	NA
+Notamacropus_eugenii		ENSMEUG00000011196	Others	NA
+Notamacropus_eugenii	MLLT6	ENSMEUG00000011214	Others	NA
+Notamacropus_eugenii		ENSMEUG00000011259	Others	NA
+Notamacropus_eugenii	RNF8	ENSMEUG00000011360	Ring finger protein	NA
+Notamacropus_eugenii		ENSMEUG00000011364	Others	NA
+Notamacropus_eugenii	PHF21B	ENSMEUG00000011369	PHF	NA
+Notamacropus_eugenii		ENSMEUG00000011370	Others	NA
+Notamacropus_eugenii	VGLL2	ENSMEUG00000011409	Vestigial like	NA
+Notamacropus_eugenii		ENSMEUG00000011483	Heat shock protein	NA
+Notamacropus_eugenii	BRWD1	ENSMEUG00000011520	Bromodomain	NA
+Notamacropus_eugenii		ENSMEUG00000011533	Others	NA
+Notamacropus_eugenii	NCOA7	ENSMEUG00000011557	Nuclear receptor coactivator	NA
+Notamacropus_eugenii	HTATIP2	ENSMEUG00000011616	Others	NA
+Notamacropus_eugenii	SUPT16H	ENSMEUG00000011684	SUPT	NA
+Notamacropus_eugenii		ENSMEUG00000011706	Others	NA
+Notamacropus_eugenii	TSG101	ENSMEUG00000011719	Others	NA
+Notamacropus_eugenii	CHD8	ENSMEUG00000011732	CHD	NA
+Notamacropus_eugenii	TDP2	ENSMEUG00000011761	Others	NA
+Notamacropus_eugenii	ANKRD2	ENSMEUG00000011811	Ankyrin repeat	NA
+Notamacropus_eugenii	NSD3	ENSMEUG00000011832	Nuclear receptor coactivator	NA
+Notamacropus_eugenii	LGALS12	ENSMEUG00000011842	Others	NA
+Notamacropus_eugenii	HCLS1	ENSMEUG00000011876	Others	NA
+Notamacropus_eugenii		ENSMEUG00000011949	Others	NA
+Notamacropus_eugenii	MED15	ENSMEUG00000011990	Mediator complex	NA
+Notamacropus_eugenii		ENSMEUG00000012007	Others	NA
+Notamacropus_eugenii	DEPDC1	ENSMEUG00000012027	Others	NA
+Notamacropus_eugenii		ENSMEUG00000012039	Sirtuin	NA
+Notamacropus_eugenii	NFKBIB	ENSMEUG00000012064	NFKB associated	NA
+Notamacropus_eugenii	SERTAD2	ENSMEUG00000012069	Others	NA
+Notamacropus_eugenii		ENSMEUG00000012076	Others	NA
+Notamacropus_eugenii	PFDN5	ENSMEUG00000012110	Others	NA
+Notamacropus_eugenii	ELL2	ENSMEUG00000012143	GTF	NA
+Notamacropus_eugenii	RPRD1B	ENSMEUG00000012171	Others	NA
+Notamacropus_eugenii	SIRT7	ENSMEUG00000012180	Sirtuin	NA
+Notamacropus_eugenii	PEX14	ENSMEUG00000012241	Others	NA
+Notamacropus_eugenii	PDLIM1	ENSMEUG00000012296	Others	NA
+Notamacropus_eugenii	SIN3B	ENSMEUG00000012305	Others	NA
+Notamacropus_eugenii	SGK1	ENSMEUG00000012322	Others	NA
+Notamacropus_eugenii		ENSMEUG00000012335	Others	NA
+Notamacropus_eugenii	YAF2	ENSMEUG00000012378	Others	NA
+Notamacropus_eugenii	ZNF593	ENSMEUG00000012390	Zinc finger	NA
+Notamacropus_eugenii		ENSMEUG00000012445	Ring finger protein	NA
+Notamacropus_eugenii		ENSMEUG00000012461	Transcriptional adaptor	NA
+Notamacropus_eugenii	LPIN1	ENSMEUG00000012462	LPIN	NA
+Notamacropus_eugenii	LPIN3	ENSMEUG00000012474	LPIN	NA
+Notamacropus_eugenii		ENSMEUG00000012517	Others	NA
+Notamacropus_eugenii	MDFI	ENSMEUG00000012524	Others	NA
+Notamacropus_eugenii	CHCHD2	ENSMEUG00000012555	Coiled-coil	NA
+Notamacropus_eugenii		ENSMEUG00000012624	Others	NA
+Notamacropus_eugenii	ACTL6A	ENSMEUG00000012631	Actin	NA
+Notamacropus_eugenii	POLR3C	ENSMEUG00000012664	POLR	NA
+Notamacropus_eugenii	AEBP1	ENSMEUG00000012688	Others	NA
+Notamacropus_eugenii		ENSMEUG00000012690	Others	NA
+Notamacropus_eugenii	INO80D	ENSMEUG00000012742	INO80 complex	NA
+Notamacropus_eugenii	DVL2	ENSMEUG00000012746	Others	NA
+Notamacropus_eugenii		ENSMEUG00000012776	GTF	NA
+Notamacropus_eugenii		ENSMEUG00000012794	Transducin	NA
+Notamacropus_eugenii	ANKAR	ENSMEUG00000012801	Ankyrin repeat	NA
+Notamacropus_eugenii		ENSMEUG00000012804	Others	NA
+Notamacropus_eugenii	CIR1	ENSMEUG00000012823	Other_Co-activator/repressors	NA
+Notamacropus_eugenii	CDK1	ENSMEUG00000012853	Cyclin	NA
+Notamacropus_eugenii	RBBP8	ENSMEUG00000012854	RBBP	NA
+Notamacropus_eugenii		ENSMEUG00000012873	Others	NA
+Notamacropus_eugenii	RAB30	ENSMEUG00000012886	Others	NA
+Notamacropus_eugenii	SENP1	ENSMEUG00000012895	Others	NA
+Notamacropus_eugenii	APBB1	ENSMEUG00000012901	Others	NA
+Notamacropus_eugenii	EYA2	ENSMEUG00000012935	EYA	NA
+Notamacropus_eugenii	BCAS3	ENSMEUG00000012937	Others	NA
+Notamacropus_eugenii		ENSMEUG00000012944	Others	NA
+Notamacropus_eugenii	SUMO1	ENSMEUG00000012971	Others	NA
+Notamacropus_eugenii	INO80E	ENSMEUG00000013005	INO80 complex	NA
+Notamacropus_eugenii		ENSMEUG00000013024	SMYD	NA
+Notamacropus_eugenii		ENSMEUG00000013041	Cyclin	NA
+Notamacropus_eugenii		ENSMEUG00000013060	Others	NA
+Notamacropus_eugenii	HMOX1	ENSMEUG00000013061	Others	NA
+Notamacropus_eugenii	SAP30BP	ENSMEUG00000013106	SAP	NA
+Notamacropus_eugenii	TAF1C	ENSMEUG00000013136	TATA-box	NA
+Notamacropus_eugenii		ENSMEUG00000013147	Others	NA
+Notamacropus_eugenii	PSMD11	ENSMEUG00000013170	Others	NA
+Notamacropus_eugenii		ENSMEUG00000013208	Chromobox	NA
+Notamacropus_eugenii		ENSMEUG00000013234	TATA-box	NA
+Notamacropus_eugenii	FLII	ENSMEUG00000013246	Others	NA
+Notamacropus_eugenii		ENSMEUG00000013281	Others	NA
+Notamacropus_eugenii	STK4	ENSMEUG00000013289	Others	NA
+Notamacropus_eugenii	SMARCD2	ENSMEUG00000013296	SWI/SNF	NA
+Notamacropus_eugenii	PADI3	ENSMEUG00000013336	Others	NA
+Notamacropus_eugenii		ENSMEUG00000013362	Heat shock protein	NA
+Notamacropus_eugenii	ASF1A	ENSMEUG00000013403	Others	NA
+Notamacropus_eugenii	CSNK2A2	ENSMEUG00000013416	Casein	NA
+Notamacropus_eugenii	AGO1	ENSMEUG00000013429	Others	NA
+Notamacropus_eugenii	BRF2	ENSMEUG00000013436	GTF	NA
+Notamacropus_eugenii		ENSMEUG00000013459	RNA helicase	NA
+Notamacropus_eugenii	ZAP70	ENSMEUG00000013466	Others	NA
+Notamacropus_eugenii	POU2AF1	ENSMEUG00000013471	Others	NA
+Notamacropus_eugenii		ENSMEUG00000013481	EYA	NA
+Notamacropus_eugenii		ENSMEUG00000013527	EYA	NA
+Notamacropus_eugenii	TRIM28	ENSMEUG00000013537	Tripartite motif	NA
+Notamacropus_eugenii	BEND3	ENSMEUG00000013540	Others	NA
+Notamacropus_eugenii		ENSMEUG00000013562	Lysine methyltransferase	NA
+Notamacropus_eugenii		ENSMEUG00000013565	Lysine demethylase	NA
+Notamacropus_eugenii	MED8	ENSMEUG00000013567	Mediator complex	NA
+Notamacropus_eugenii	BTRC	ENSMEUG00000013579	Others	NA
+Notamacropus_eugenii	SIRT6	ENSMEUG00000013587	Sirtuin	NA
+Notamacropus_eugenii	ARHGAP35	ENSMEUG00000013621	Others	NA
+Notamacropus_eugenii		ENSMEUG00000013626	Actin	NA
+Notamacropus_eugenii	WDR77	ENSMEUG00000013635	WD	NA
+Notamacropus_eugenii	SRA1	ENSMEUG00000013640	Others	NA
+Notamacropus_eugenii	TAF4	ENSMEUG00000013666	TATA-box	NA
+Notamacropus_eugenii	TAF5	ENSMEUG00000013690	TATA-box	NA
+Notamacropus_eugenii		ENSMEUG00000013699	Others	NA
+Notamacropus_eugenii	BTK	ENSMEUG00000013700	Others	NA
+Notamacropus_eugenii		ENSMEUG00000013712	NFKB associated	NA
+Notamacropus_eugenii		ENSMEUG00000013723	Others	NA
+Notamacropus_eugenii	GTF2H3	ENSMEUG00000013734	GTF	NA
+Notamacropus_eugenii	NCOA6	ENSMEUG00000013762	Nuclear receptor coactivator	NA
+Notamacropus_eugenii	ING3	ENSMEUG00000013773	ING	NA
+Notamacropus_eugenii	CCNH	ENSMEUG00000013794	Cyclin	NA
+Notamacropus_eugenii		ENSMEUG00000013795	Others	NA
+Notamacropus_eugenii	RAD21	ENSMEUG00000013801	Others	NA
+Notamacropus_eugenii		ENSMEUG00000013812	Others	NA
+Notamacropus_eugenii		ENSMEUG00000013834	RNA binding protein	NA
+Notamacropus_eugenii	SCAI	ENSMEUG00000013847	Others	NA
+Notamacropus_eugenii		ENSMEUG00000013857	Others	NA
+Notamacropus_eugenii	CDYL2	ENSMEUG00000013920	Chromodomain Y	NA
+Notamacropus_eugenii	CRTC1	ENSMEUG00000013997	CREB	NA
+Notamacropus_eugenii	NCOA4	ENSMEUG00000014002	Nuclear receptor coactivator	NA
+Notamacropus_eugenii	ING1	ENSMEUG00000014011	ING	NA
+Notamacropus_eugenii	LOXL3	ENSMEUG00000014036	Others	NA
+Notamacropus_eugenii		ENSMEUG00000014055	Others	NA
+Notamacropus_eugenii	SMARCA4	ENSMEUG00000014098	SWI/SNF	NA
+Notamacropus_eugenii	TLE3	ENSMEUG00000014100	Transducin	NA
+Notamacropus_eugenii	PAXIP1	ENSMEUG00000014103	Others	NA
+Notamacropus_eugenii	CALR	ENSMEUG00000014267	Others	NA
+Notamacropus_eugenii	KAT8	ENSMEUG00000014332	Lysine acetyltransferase	NA
+Notamacropus_eugenii		ENSMEUG00000014353	Others	NA
+Notamacropus_eugenii	SNAPC2	ENSMEUG00000014367	Others	NA
+Notamacropus_eugenii	RBBP4	ENSMEUG00000014379	RBBP	NA
+Notamacropus_eugenii	TRIM32	ENSMEUG00000014382	Tripartite motif	NA
+Notamacropus_eugenii	TRIM37	ENSMEUG00000014421	Tripartite motif	NA
+Notamacropus_eugenii	AURKB	ENSMEUG00000014431	Others	NA
+Notamacropus_eugenii	BCL9	ENSMEUG00000014445	BCL	NA
+Notamacropus_eugenii	TBPL2	ENSMEUG00000014455	TATA-box	NA
+Notamacropus_eugenii	GTF2H4	ENSMEUG00000014465	GTF	NA
+Notamacropus_eugenii	KANK1	ENSMEUG00000014466	Others	NA
+Notamacropus_eugenii	EAF1	ENSMEUG00000014500	Others	NA
+Notamacropus_eugenii	SLC25A29	ENSMEUG00000014507	SLC	NA
+Notamacropus_eugenii	APEX1	ENSMEUG00000014519	Others	NA
+Notamacropus_eugenii	MED22	ENSMEUG00000014542	Mediator complex	NA
+Notamacropus_eugenii		ENSMEUG00000014558	Ring finger protein	NA
+Notamacropus_eugenii	PRMT5	ENSMEUG00000014567	Arginine methyltransferase	NA
+Notamacropus_eugenii	TADA3	ENSMEUG00000014579	Transcriptional adaptor	NA
+Notamacropus_eugenii	KMT2B	ENSMEUG00000014580	Lysine methyltransferase	NA
+Notamacropus_eugenii	FRK	ENSMEUG00000014590	Others	NA
+Notamacropus_eugenii		ENSMEUG00000014601	Notch	NA
+Notamacropus_eugenii	CTBP1	ENSMEUG00000014614	Others	NA
+Notamacropus_eugenii		ENSMEUG00000014651	Others	NA
+Notamacropus_eugenii		ENSMEUG00000014657	Others	NA
+Notamacropus_eugenii		ENSMEUG00000014659	Others	NA
+Notamacropus_eugenii	PLRG1	ENSMEUG00000014678	Others	NA
+Notamacropus_eugenii	CRY1	ENSMEUG00000014685	Others	NA
+Notamacropus_eugenii	PHF21A	ENSMEUG00000014686	PHF	NA
+Notamacropus_eugenii		ENSMEUG00000014691	Others	NA
+Notamacropus_eugenii	PARK7	ENSMEUG00000014762	Others	NA
+Notamacropus_eugenii		ENSMEUG00000014778	CAMK	NA
+Notamacropus_eugenii	HDGF	ENSMEUG00000014792	Others	NA
+Notamacropus_eugenii		ENSMEUG00000014812	GTF	NA
+Notamacropus_eugenii	ASCC2	ENSMEUG00000014834	ASCC	NA
+Notamacropus_eugenii		ENSMEUG00000014841	Transducin	NA
+Notamacropus_eugenii		ENSMEUG00000014931	CHD	NA
+Notamacropus_eugenii		ENSMEUG00000014969	Mediator complex	NA
+Notamacropus_eugenii		ENSMEUG00000014985	Tripartite motif	NA
+Notamacropus_eugenii	KDM5B	ENSMEUG00000014994	Lysine demethylase	NA
+Notamacropus_eugenii		ENSMEUG00000015003	Others	NA
+Notamacropus_eugenii		ENSMEUG00000015037	Others	NA
+Notamacropus_eugenii	KDM1B	ENSMEUG00000015046	Lysine demethylase	NA
+Notamacropus_eugenii	MED18	ENSMEUG00000015059	Mediator complex	NA
+Notamacropus_eugenii	TXLNG	ENSMEUG00000015108	Others	NA
+Notamacropus_eugenii	SUPT7L	ENSMEUG00000015124	SUPT	NA
+Notamacropus_eugenii	SLC30A9	ENSMEUG00000015139	SLC	NA
+Notamacropus_eugenii	CTNND2	ENSMEUG00000015161	Casein	NA
+Notamacropus_eugenii	EP300	ENSMEUG00000015167	Others	NA
+Notamacropus_eugenii	SSU72	ENSMEUG00000015170	Others	NA
+Notamacropus_eugenii		ENSMEUG00000015206	Mediator complex	NA
+Notamacropus_eugenii	PRMT7	ENSMEUG00000015211	Arginine methyltransferase	NA
+Notamacropus_eugenii	SLTM	ENSMEUG00000015230	Others	NA
+Notamacropus_eugenii		ENSMEUG00000015278	Ring finger protein	NA
+Notamacropus_eugenii		ENSMEUG00000015283	Mediator complex	NA
+Notamacropus_eugenii		ENSMEUG00000015294	CHD	NA
+Notamacropus_eugenii		ENSMEUG00000015297	Others	NA
+Notamacropus_eugenii	CCNT2	ENSMEUG00000015310	Cyclin	NA
+Notamacropus_eugenii	ATN1	ENSMEUG00000015324	Others	NA
+Notamacropus_eugenii	CXXC5	ENSMEUG00000015364	Others	NA
+Notamacropus_eugenii	RBX1	ENSMEUG00000015366	Others	NA
+Notamacropus_eugenii	MED13L	ENSMEUG00000015386	Mediator complex	NA
+Notamacropus_eugenii	DDX54	ENSMEUG00000015392	RNA helicase	NA
+Notamacropus_eugenii		ENSMEUG00000015431	Others	NA
+Notamacropus_eugenii	RNF14	ENSMEUG00000015435	Ring finger protein	NA
+Notamacropus_eugenii		ENSMEUG00000015475	Others	NA
+Notamacropus_eugenii		ENSMEUG00000015508	Thyroid hormone receptor	NA
+Notamacropus_eugenii	KDM6B	ENSMEUG00000015510	Lysine demethylase	NA
+Notamacropus_eugenii		ENSMEUG00000015534	GTF	NA
+Notamacropus_eugenii		ENSMEUG00000015591	Others	NA
+Notamacropus_eugenii	MED12L	ENSMEUG00000015630	Mediator complex	NA
+Notamacropus_eugenii		ENSMEUG00000015661	Others	NA
+Notamacropus_eugenii		ENSMEUG00000015669	Lysine demethylase	NA
+Notamacropus_eugenii	RNF168	ENSMEUG00000015685	Ring finger protein	NA
+Notamacropus_eugenii	RNF25	ENSMEUG00000015698	Ring finger protein	NA
+Notamacropus_eugenii	STK36	ENSMEUG00000015713	Others	NA
+Notamacropus_eugenii		ENSMEUG00000015761	TEF	NA
+Notamacropus_eugenii		ENSMEUG00000015818	FHL	NA
+Notamacropus_eugenii		ENSMEUG00000015821	Others	NA
+Notamacropus_eugenii	WWP2	ENSMEUG00000015824	WW	NA
+Notamacropus_eugenii	SETD7	ENSMEUG00000015880	SET	NA
+Notamacropus_eugenii		ENSMEUG00000015886	Others	NA
+Notamacropus_eugenii		ENSMEUG00000015894	Others	NA
+Notamacropus_eugenii		ENSMEUG00000015919	Others	NA
+Notamacropus_eugenii	RBM15	ENSMEUG00000015940	RNA binding protein	NA
+Notamacropus_eugenii	AUTS2	ENSMEUG00000015969	Others	NA
+Notamacropus_eugenii		ENSMEUG00000015988	Others	NA
+Notamacropus_eugenii	WDR61	ENSMEUG00000015991	WD	NA
+Notamacropus_eugenii		ENSMEUG00000016114	ELP	NA
+Notamacropus_eugenii	SMURF2	ENSMEUG00000016150	Others	NA
+Notamacropus_eugenii	PCGF1	ENSMEUG00000016190	PCGF	NA
+Notamacropus_eugenii	SUZ12	ENSMEUG00000016195	Others	NA
+Notamacropus_eugenii	MLLT1	ENSMEUG00000016210	GTF	NA
+Notamacropus_eugenii		ENSMEUG00000016229	Others	NA
+Notamacropus_eugenii	JMY	ENSMEUG00000016236	Others	NA
+Notamacropus_eugenii	ACTG1	ENSMEUG00000016247	Actin	NA
+Notamacropus_eugenii		ENSMEUG00000016259	GTF	NA
+Notamacropus_eugenii	TNP1	ENSMEUG00000016291	Other_CRF	NA
+Notamacropus_eugenii	ACTL6B	ENSMEUG00000016393	Actin	NA
+Notamacropus_eugenii	TOB1	ENSMEUG00000016415	Others	NA
+Notamacropus_eugenii	HDAC5	ENSMEUG00000016416	Histone deacetylase	NA
+Notamacropus_eugenii	SUPT5H	ENSMEUG00000016423	SUPT	NA
+Notamacropus_eugenii		ENSMEUG00000016449	Mediator complex	NA
+Notamacropus_eugenii	DYRK1B	ENSMEUG00000016453	Others	NA
+Notamacropus_eugenii	TCF20	ENSMEUG00000016471	Others	NA
+Notamacropus_eugenii	CDC73	ENSMEUG00000016474	Others	NA
+Notamacropus_eugenii	FGF1	ENSMEUG00000016500	FGF	NA
+Notamacropus_eugenii	TRIP6	ENSMEUG00000016541	Thyroid hormone receptor	NA
+Notamacropus_eugenii	TRIM29	ENSMEUG00000016665	Tripartite motif	NA
+Notamacropus_eugenii	HIPK1	ENSMEUG00000016708	HIPK	NA
+Notamacropus_eugenii	JMJD6	ENSMEUG00000016728	Others	NA
+Notamacropus_eugenii		ENSMEUG00000016745	Others	NA
+Notamacropus_eugenii	CAMK4	ENSMEUG00000016748	CAMK	NA
+Notamacropus_eugenii	CDK5R1	ENSMEUG00000016765	Cyclin	NA

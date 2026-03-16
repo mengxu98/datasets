@@ -1,0 +1,726 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Tupaia_belangeri	CDYL2	ENSTBEG00000000034	Chromodomain Y	NA
+Tupaia_belangeri	NCOA6	ENSTBEG00000000036	Nuclear receptor coactivator	NA
+Tupaia_belangeri		ENSTBEG00000000051	Others	NA
+Tupaia_belangeri	EPC1	ENSTBEG00000000154	Others	NA
+Tupaia_belangeri		ENSTBEG00000000173	Transcriptional adaptor	NA
+Tupaia_belangeri		ENSTBEG00000000208	Others	NA
+Tupaia_belangeri	PA2G4	ENSTBEG00000000214	Others	NA
+Tupaia_belangeri	HIF1AN	ENSTBEG00000000217	Others	NA
+Tupaia_belangeri	ILK	ENSTBEG00000000248	Others	NA
+Tupaia_belangeri		ENSTBEG00000000255	Histone lysine methyltransferase	NA
+Tupaia_belangeri	ENY2	ENSTBEG00000000273	Others	NA
+Tupaia_belangeri	NELFCD	ENSTBEG00000000316	GTF	NA
+Tupaia_belangeri	KDM3B	ENSTBEG00000000337	Lysine demethylase	NA
+Tupaia_belangeri	MRTFB	ENSTBEG00000000341	Others	NA
+Tupaia_belangeri	PDCD4	ENSTBEG00000000362	Others	NA
+Tupaia_belangeri	TLE1	ENSTBEG00000000398	Transducin	NA
+Tupaia_belangeri	DCAF1	ENSTBEG00000000400	Others	NA
+Tupaia_belangeri	SCAI	ENSTBEG00000000436	Others	NA
+Tupaia_belangeri		ENSTBEG00000000478	Others	NA
+Tupaia_belangeri	BAZ1A	ENSTBEG00000000491	Bromodomain	NA
+Tupaia_belangeri	TAF5	ENSTBEG00000000500	TATA-box	NA
+Tupaia_belangeri	LMCD1	ENSTBEG00000000505	LIM	NA
+Tupaia_belangeri	ASF1A	ENSTBEG00000000592	Others	NA
+Tupaia_belangeri	PICALM	ENSTBEG00000000600	Others	NA
+Tupaia_belangeri	SIN3B	ENSTBEG00000000603	Others	NA
+Tupaia_belangeri	MED31	ENSTBEG00000000648	Mediator complex	NA
+Tupaia_belangeri	KCNIP4	ENSTBEG00000000698	Others	NA
+Tupaia_belangeri	NIF3L1	ENSTBEG00000000704	Others	NA
+Tupaia_belangeri		ENSTBEG00000000707	SWI/SNF	NA
+Tupaia_belangeri	PSIP1	ENSTBEG00000000715	Others	NA
+Tupaia_belangeri	CNOT1	ENSTBEG00000000720	CCR4-NOT	NA
+Tupaia_belangeri	TRIM29	ENSTBEG00000000751	Tripartite motif	NA
+Tupaia_belangeri	ORC2	ENSTBEG00000000763	Others	NA
+Tupaia_belangeri	NFKBIB	ENSTBEG00000000819	NFKB associated	NA
+Tupaia_belangeri		ENSTBEG00000000831	Tripartite motif	NA
+Tupaia_belangeri	PID1	ENSTBEG00000000877	Others	NA
+Tupaia_belangeri		ENSTBEG00000000923	RBBP	NA
+Tupaia_belangeri		ENSTBEG00000000933	Others	NA
+Tupaia_belangeri	PRMT8	ENSTBEG00000000940	Arginine methyltransferase	NA
+Tupaia_belangeri	MTPN	ENSTBEG00000000941	Others	NA
+Tupaia_belangeri	SLTM	ENSTBEG00000000945	Others	NA
+Tupaia_belangeri	MPHOSPH8	ENSTBEG00000000967	Others	NA
+Tupaia_belangeri	CTBP2	ENSTBEG00000001029	Others	NA
+Tupaia_belangeri	SCMH1	ENSTBEG00000001047	Others	NA
+Tupaia_belangeri	GTF2A2	ENSTBEG00000001053	GTF	NA
+Tupaia_belangeri		ENSTBEG00000001054	Others	NA
+Tupaia_belangeri	RBMX	ENSTBEG00000001154	RNA binding protein	NA
+Tupaia_belangeri	PYCARD	ENSTBEG00000001185	Others	NA
+Tupaia_belangeri	HMOX1	ENSTBEG00000001215	Others	NA
+Tupaia_belangeri	YAP1	ENSTBEG00000001222	Others	NA
+Tupaia_belangeri	GSK3B	ENSTBEG00000001237	Others	NA
+Tupaia_belangeri	AIPL1	ENSTBEG00000001248	Others	NA
+Tupaia_belangeri	HYAL2	ENSTBEG00000001259	Others	NA
+Tupaia_belangeri	HNRNPK	ENSTBEG00000001289	HNRNP	NA
+Tupaia_belangeri	BTRC	ENSTBEG00000001368	Others	NA
+Tupaia_belangeri	GTF2B	ENSTBEG00000001398	GTF	NA
+Tupaia_belangeri		ENSTBEG00000001431	Others	NA
+Tupaia_belangeri	HLTF	ENSTBEG00000001461	Others	NA
+Tupaia_belangeri		ENSTBEG00000001466	Others	NA
+Tupaia_belangeri		ENSTBEG00000001509	Others	NA
+Tupaia_belangeri	CHD7	ENSTBEG00000001540	CHD	NA
+Tupaia_belangeri	JAK2	ENSTBEG00000001552	Others	NA
+Tupaia_belangeri	DCAF8	ENSTBEG00000001566	WD	NA
+Tupaia_belangeri	CAVIN2	ENSTBEG00000001573	Others	NA
+Tupaia_belangeri	RNF168	ENSTBEG00000001577	Ring finger protein	NA
+Tupaia_belangeri	RNF111	ENSTBEG00000001600	Ring finger protein	NA
+Tupaia_belangeri	TLE4	ENSTBEG00000001613	Transducin	NA
+Tupaia_belangeri	HIPK1	ENSTBEG00000001658	HIPK	NA
+Tupaia_belangeri		ENSTBEG00000001680	Others	NA
+Tupaia_belangeri		ENSTBEG00000001708	SSX	NA
+Tupaia_belangeri	HTATIP2	ENSTBEG00000001736	Others	NA
+Tupaia_belangeri	RDX	ENSTBEG00000001749	Others	NA
+Tupaia_belangeri	KAT6A	ENSTBEG00000001755	Lysine acetyltransferase	NA
+Tupaia_belangeri	KANK1	ENSTBEG00000001767	Others	NA
+Tupaia_belangeri	TRIM27	ENSTBEG00000001779	Tripartite motif	NA
+Tupaia_belangeri	ICE2	ENSTBEG00000001845	GTF	NA
+Tupaia_belangeri	SUPT6H	ENSTBEG00000001874	SUPT	NA
+Tupaia_belangeri	MORF4L1	ENSTBEG00000001897	Other_CRF	NA
+Tupaia_belangeri	TRIM33	ENSTBEG00000001926	Tripartite motif	NA
+Tupaia_belangeri	CTNND2	ENSTBEG00000001931	Casein	NA
+Tupaia_belangeri		ENSTBEG00000001932	Others	NA
+Tupaia_belangeri	PAWR	ENSTBEG00000001983	Others	NA
+Tupaia_belangeri	ANP32E	ENSTBEG00000001989	ANP	NA
+Tupaia_belangeri	DNAJA3	ENSTBEG00000002027	Others	NA
+Tupaia_belangeri	GRIP1	ENSTBEG00000002040	Others	NA
+Tupaia_belangeri	CRK	ENSTBEG00000002044	Others	NA
+Tupaia_belangeri	TGFB1	ENSTBEG00000002050	Others	NA
+Tupaia_belangeri		ENSTBEG00000002051	Lysine demethylase	NA
+Tupaia_belangeri	STRN3	ENSTBEG00000002075	Others	NA
+Tupaia_belangeri	ANP32B	ENSTBEG00000002189	ANP	NA
+Tupaia_belangeri	SUV39H1	ENSTBEG00000002199	Others	NA
+Tupaia_belangeri	TRRAP	ENSTBEG00000002243	Others	NA
+Tupaia_belangeri	WHAMM	ENSTBEG00000002282	Others	NA
+Tupaia_belangeri	MED6	ENSTBEG00000002302	Mediator complex	NA
+Tupaia_belangeri		ENSTBEG00000002325	CCR4-NOT	NA
+Tupaia_belangeri	HNRNPD	ENSTBEG00000002327	HNRNP	NA
+Tupaia_belangeri	ENO3	ENSTBEG00000002346	Others	NA
+Tupaia_belangeri	PSPC1	ENSTBEG00000002361	Others	NA
+Tupaia_belangeri	BCL9	ENSTBEG00000002380	BCL	NA
+Tupaia_belangeri	RHOA	ENSTBEG00000002417	Others	NA
+Tupaia_belangeri		ENSTBEG00000002420	Others	NA
+Tupaia_belangeri		ENSTBEG00000002469	Others	NA
+Tupaia_belangeri		ENSTBEG00000002472	Others	NA
+Tupaia_belangeri	SGK1	ENSTBEG00000002473	Others	NA
+Tupaia_belangeri	TOP1	ENSTBEG00000002481	Other_CRF	NA
+Tupaia_belangeri		ENSTBEG00000002583	Others	NA
+Tupaia_belangeri		ENSTBEG00000002592	Others	NA
+Tupaia_belangeri	WWP2	ENSTBEG00000002605	WW	NA
+Tupaia_belangeri	BIRC2	ENSTBEG00000002659	Others	NA
+Tupaia_belangeri	MED19	ENSTBEG00000002677	Mediator complex	NA
+Tupaia_belangeri		ENSTBEG00000002683	Others	NA
+Tupaia_belangeri	SMURF2	ENSTBEG00000002720	Others	NA
+Tupaia_belangeri	SMARCAD1	ENSTBEG00000002789	SWI/SNF	NA
+Tupaia_belangeri	YWHAB	ENSTBEG00000002806	Others	NA
+Tupaia_belangeri	RNF14	ENSTBEG00000002811	Ring finger protein	NA
+Tupaia_belangeri	BRMS1L	ENSTBEG00000002841	Other_CRF	NA
+Tupaia_belangeri	PABPC1L	ENSTBEG00000002851	Other_CRF	NA
+Tupaia_belangeri	LRRK2	ENSTBEG00000002907	Other_CRF	NA
+Tupaia_belangeri	TAF4B	ENSTBEG00000002967	TATA-box	NA
+Tupaia_belangeri	EP300	ENSTBEG00000003015	Others	NA
+Tupaia_belangeri	PAK5	ENSTBEG00000003045	Others	NA
+Tupaia_belangeri		ENSTBEG00000003127	Others	NA
+Tupaia_belangeri	BRPF1	ENSTBEG00000003129	Bromodomain	NA
+Tupaia_belangeri	LGALS12	ENSTBEG00000003148	Others	NA
+Tupaia_belangeri	CREG1	ENSTBEG00000003173	Others	NA
+Tupaia_belangeri	NLK	ENSTBEG00000003221	Others	NA
+Tupaia_belangeri	DPF1	ENSTBEG00000003243	DPF	NA
+Tupaia_belangeri		ENSTBEG00000003297	Others	NA
+Tupaia_belangeri	CENPF	ENSTBEG00000003316	CENP	NA
+Tupaia_belangeri	SRC	ENSTBEG00000003334	Others	NA
+Tupaia_belangeri		ENSTBEG00000003341	TEF	NA
+Tupaia_belangeri	WWTR1	ENSTBEG00000003380	WW	NA
+Tupaia_belangeri	KDM2A	ENSTBEG00000003398	Lysine demethylase	NA
+Tupaia_belangeri	SAP130	ENSTBEG00000003417	SAP	NA
+Tupaia_belangeri	TTF2	ENSTBEG00000003483	Others	NA
+Tupaia_belangeri		ENSTBEG00000003525	Others	NA
+Tupaia_belangeri	CTNND1	ENSTBEG00000003550	Casein	NA
+Tupaia_belangeri		ENSTBEG00000003571	Coiled-coil	NA
+Tupaia_belangeri	OGT	ENSTBEG00000003622	Others	NA
+Tupaia_belangeri	SPEN	ENSTBEG00000003628	Others	NA
+Tupaia_belangeri	RBM14	ENSTBEG00000003641	RNA binding protein	NA
+Tupaia_belangeri	WDR5B	ENSTBEG00000003659	WD	NA
+Tupaia_belangeri	SUFU	ENSTBEG00000003665	Others	NA
+Tupaia_belangeri	ELOC	ENSTBEG00000003681	Others	NA
+Tupaia_belangeri	BEND3	ENSTBEG00000003684	Others	NA
+Tupaia_belangeri	SERBP1	ENSTBEG00000003689	Others	NA
+Tupaia_belangeri	MAML3	ENSTBEG00000003690	MAML	NA
+Tupaia_belangeri	DDX39B	ENSTBEG00000003721	RNA helicase	NA
+Tupaia_belangeri	HCK	ENSTBEG00000003758	Others	NA
+Tupaia_belangeri	DDX54	ENSTBEG00000003783	RNA helicase	NA
+Tupaia_belangeri	RYBP	ENSTBEG00000003789	Others	NA
+Tupaia_belangeri	PIN1	ENSTBEG00000003793	Others	NA
+Tupaia_belangeri	TXK	ENSTBEG00000003817	Others	NA
+Tupaia_belangeri	LZTS1	ENSTBEG00000003862	Others	NA
+Tupaia_belangeri	PARP9	ENSTBEG00000003867	PARP	NA
+Tupaia_belangeri	PSEN1	ENSTBEG00000003881	Others	NA
+Tupaia_belangeri	SAMD4B	ENSTBEG00000003890	Others	NA
+Tupaia_belangeri	TBPL2	ENSTBEG00000003892	TATA-box	NA
+Tupaia_belangeri	MID1	ENSTBEG00000003906	Tripartite motif	NA
+Tupaia_belangeri		ENSTBEG00000003952	Others	NA
+Tupaia_belangeri	ITCH	ENSTBEG00000003998	Others	NA
+Tupaia_belangeri	SND1	ENSTBEG00000003999	Others	NA
+Tupaia_belangeri	TRAK1	ENSTBEG00000004019	Others	NA
+Tupaia_belangeri	CCNE1	ENSTBEG00000004028	Cyclin	NA
+Tupaia_belangeri	ADRB2	ENSTBEG00000004064	Others	NA
+Tupaia_belangeri	ZNF638	ENSTBEG00000004110	Zinc finger	NA
+Tupaia_belangeri	XRN2	ENSTBEG00000004119	Others	NA
+Tupaia_belangeri	ELP1	ENSTBEG00000004131	ELP	NA
+Tupaia_belangeri	MED27	ENSTBEG00000004156	Mediator complex	NA
+Tupaia_belangeri	SENP1	ENSTBEG00000004213	Others	NA
+Tupaia_belangeri	TCEAL1	ENSTBEG00000004218	TEF	NA
+Tupaia_belangeri	CSNK2A2	ENSTBEG00000004219	Casein	NA
+Tupaia_belangeri	MORF4L2	ENSTBEG00000004300	Other_CRF	NA
+Tupaia_belangeri	GTF2A1	ENSTBEG00000004305	GTF	NA
+Tupaia_belangeri	NIPBL	ENSTBEG00000004308	Others	NA
+Tupaia_belangeri	ING3	ENSTBEG00000004313	ING	NA
+Tupaia_belangeri		ENSTBEG00000004324	Other_Co-activator/repressors	NA
+Tupaia_belangeri	TRIM11	ENSTBEG00000004453	Tripartite motif	NA
+Tupaia_belangeri	ELP4	ENSTBEG00000004481	ELP	NA
+Tupaia_belangeri	THOC5	ENSTBEG00000004510	Others	NA
+Tupaia_belangeri	SLC26A3	ENSTBEG00000004521	SLC	NA
+Tupaia_belangeri	NUP98	ENSTBEG00000004528	Others	NA
+Tupaia_belangeri	CDK5RAP3	ENSTBEG00000004569	Cyclin	NA
+Tupaia_belangeri	ERN1	ENSTBEG00000004625	Others	NA
+Tupaia_belangeri		ENSTBEG00000004626	Others	NA
+Tupaia_belangeri	INO80	ENSTBEG00000004636	INO80 complex	NA
+Tupaia_belangeri		ENSTBEG00000004639	PARP	NA
+Tupaia_belangeri		ENSTBEG00000004650	Nuclear receptor coactivator	NA
+Tupaia_belangeri	TBP	ENSTBEG00000004700	TATA-box	NA
+Tupaia_belangeri	IKBKB	ENSTBEG00000004801	Others	NA
+Tupaia_belangeri	KDM4C	ENSTBEG00000004815	Lysine demethylase	NA
+Tupaia_belangeri	ABL1	ENSTBEG00000004835	Others	NA
+Tupaia_belangeri		ENSTBEG00000004836	Transducin	NA
+Tupaia_belangeri	RITA1	ENSTBEG00000004839	Others	NA
+Tupaia_belangeri	TCERG1L	ENSTBEG00000004845	TEF	NA
+Tupaia_belangeri	CDKN1B	ENSTBEG00000004860	Cyclin	NA
+Tupaia_belangeri	ASCC2	ENSTBEG00000004884	ASCC	NA
+Tupaia_belangeri	TAF1C	ENSTBEG00000004886	TATA-box	NA
+Tupaia_belangeri	URI1	ENSTBEG00000004897	Others	NA
+Tupaia_belangeri	ABRA	ENSTBEG00000004936	Actin	NA
+Tupaia_belangeri	RASD2	ENSTBEG00000004948	Others	NA
+Tupaia_belangeri	TRIP6	ENSTBEG00000004974	Thyroid hormone receptor	NA
+Tupaia_belangeri		ENSTBEG00000004983	Others	NA
+Tupaia_belangeri	KDM6A	ENSTBEG00000005034	Lysine demethylase	NA
+Tupaia_belangeri	TERF2IP	ENSTBEG00000005080	Others	NA
+Tupaia_belangeri	BRMS1	ENSTBEG00000005127	Other_CRF	NA
+Tupaia_belangeri	PPARGC1A	ENSTBEG00000005147	Others	NA
+Tupaia_belangeri	HCFC2	ENSTBEG00000005151	Others	NA
+Tupaia_belangeri	GTF2E1	ENSTBEG00000005177	GTF	NA
+Tupaia_belangeri	RTF1	ENSTBEG00000005313	Others	NA
+Tupaia_belangeri		ENSTBEG00000005340	TATA-box	NA
+Tupaia_belangeri	PRPF6	ENSTBEG00000005348	Others	NA
+Tupaia_belangeri	PADI2	ENSTBEG00000005374	Other_CRF	NA
+Tupaia_belangeri	TRIP13	ENSTBEG00000005475	Thyroid hormone receptor	NA
+Tupaia_belangeri	MNAT1	ENSTBEG00000005536	Others	NA
+Tupaia_belangeri		ENSTBEG00000005540	Others	NA
+Tupaia_belangeri	ASCC1	ENSTBEG00000005601	ASCC	NA
+Tupaia_belangeri	RAD21	ENSTBEG00000005632	Others	NA
+Tupaia_belangeri	MLLT6	ENSTBEG00000005682	Others	NA
+Tupaia_belangeri	KDM1A	ENSTBEG00000005729	Lysine demethylase	NA
+Tupaia_belangeri	AEBP1	ENSTBEG00000005763	Others	NA
+Tupaia_belangeri		ENSTBEG00000005772	WW	NA
+Tupaia_belangeri	CBX8	ENSTBEG00000005799	Chromobox	NA
+Tupaia_belangeri		ENSTBEG00000005800	Others	NA
+Tupaia_belangeri	CTH	ENSTBEG00000005836	Others	NA
+Tupaia_belangeri	NRBF2	ENSTBEG00000005848	Nuclear receptor coactivator	NA
+Tupaia_belangeri		ENSTBEG00000005885	Tripartite motif	NA
+Tupaia_belangeri	ING4	ENSTBEG00000005899	ING	NA
+Tupaia_belangeri		ENSTBEG00000005986	Tripartite motif	NA
+Tupaia_belangeri	ZMYND11	ENSTBEG00000006015	Zinc finger	NA
+Tupaia_belangeri	MAK	ENSTBEG00000006061	Others	NA
+Tupaia_belangeri	ATAD2	ENSTBEG00000006074	Others	NA
+Tupaia_belangeri	SLC30A9	ENSTBEG00000006075	SLC	NA
+Tupaia_belangeri	CEP290	ENSTBEG00000006093	Others	NA
+Tupaia_belangeri	TAF7	ENSTBEG00000006101	TATA-box	NA
+Tupaia_belangeri	PDLIM1	ENSTBEG00000006102	Others	NA
+Tupaia_belangeri	CNOT7	ENSTBEG00000006104	CCR4-NOT	NA
+Tupaia_belangeri	ACTL6A	ENSTBEG00000006118	Actin	NA
+Tupaia_belangeri	RNF141	ENSTBEG00000006147	Ring finger protein	NA
+Tupaia_belangeri	SIRT4	ENSTBEG00000006165	Sirtuin	NA
+Tupaia_belangeri		ENSTBEG00000006174	Others	NA
+Tupaia_belangeri	ARGLU1	ENSTBEG00000006196	Others	NA
+Tupaia_belangeri	DPPA2	ENSTBEG00000006212	Others	NA
+Tupaia_belangeri	HELLS	ENSTBEG00000006258	Others	NA
+Tupaia_belangeri	H1-3	ENSTBEG00000006260	Histone cluster 1 H1	NA
+Tupaia_belangeri	NFKBID	ENSTBEG00000006263	NFKB associated	NA
+Tupaia_belangeri	AURKB	ENSTBEG00000006285	Others	NA
+Tupaia_belangeri	PRMT6	ENSTBEG00000006318	Arginine methyltransferase	NA
+Tupaia_belangeri	APEX1	ENSTBEG00000006405	Others	NA
+Tupaia_belangeri	TRIM22	ENSTBEG00000006429	Tripartite motif	NA
+Tupaia_belangeri	TAF1B	ENSTBEG00000006430	TATA-box	NA
+Tupaia_belangeri	MACROH2A2	ENSTBEG00000006437	Others	NA
+Tupaia_belangeri	PRDX5	ENSTBEG00000006446	Others	NA
+Tupaia_belangeri	RAP2C	ENSTBEG00000006473	Others	NA
+Tupaia_belangeri	SUV39H2	ENSTBEG00000006477	Others	NA
+Tupaia_belangeri	HSBP1	ENSTBEG00000006478	Heat shock protein	NA
+Tupaia_belangeri	TIMELESS	ENSTBEG00000006519	Others	NA
+Tupaia_belangeri	KDM5B	ENSTBEG00000006521	Lysine demethylase	NA
+Tupaia_belangeri		ENSTBEG00000006540	Others	NA
+Tupaia_belangeri	PHF1	ENSTBEG00000006589	PHF	NA
+Tupaia_belangeri	DTX4	ENSTBEG00000006649	Others	NA
+Tupaia_belangeri	CHD1L	ENSTBEG00000006652	CHD	NA
+Tupaia_belangeri	FBXW7	ENSTBEG00000006662	Others	NA
+Tupaia_belangeri	RGCC	ENSTBEG00000006686	Others	NA
+Tupaia_belangeri	ATF7IP2	ENSTBEG00000006689	Others	NA
+Tupaia_belangeri		ENSTBEG00000006690	Others	NA
+Tupaia_belangeri	BLM	ENSTBEG00000006706	Others	NA
+Tupaia_belangeri		ENSTBEG00000006708	Others	NA
+Tupaia_belangeri	NUDT5	ENSTBEG00000006812	Other_CRF	NA
+Tupaia_belangeri		ENSTBEG00000006818	Others	NA
+Tupaia_belangeri		ENSTBEG00000006821	Others	NA
+Tupaia_belangeri	PAGR1	ENSTBEG00000006823	Others	NA
+Tupaia_belangeri	WNT3A	ENSTBEG00000006918	Others	NA
+Tupaia_belangeri	LDB1	ENSTBEG00000006924	LIM	NA
+Tupaia_belangeri	CXXC5	ENSTBEG00000006970	Others	NA
+Tupaia_belangeri	TAF2	ENSTBEG00000007040	TATA-box	NA
+Tupaia_belangeri	MTDH	ENSTBEG00000007048	Others	NA
+Tupaia_belangeri	RIPPLY1	ENSTBEG00000007064	Others	NA
+Tupaia_belangeri	JUP	ENSTBEG00000007076	Others	NA
+Tupaia_belangeri		ENSTBEG00000007114	Nuclear coactivator	NA
+Tupaia_belangeri		ENSTBEG00000007123	ACTR	NA
+Tupaia_belangeri		ENSTBEG00000007217	Zinc finger	NA
+Tupaia_belangeri	KMT2B	ENSTBEG00000007263	Lysine methyltransferase	NA
+Tupaia_belangeri	ARHGAP35	ENSTBEG00000007281	Others	NA
+Tupaia_belangeri	TADA1	ENSTBEG00000007283	Transcriptional adaptor	NA
+Tupaia_belangeri	DNMT1	ENSTBEG00000007303	DNA_methylase	NA
+Tupaia_belangeri	MED7	ENSTBEG00000007329	Mediator complex	NA
+Tupaia_belangeri	RBBP8	ENSTBEG00000007358	RBBP	NA
+Tupaia_belangeri	ATF7IP	ENSTBEG00000007366	Others	NA
+Tupaia_belangeri	RUVBL2	ENSTBEG00000007397	Other_CRF	NA
+Tupaia_belangeri	HDAC3	ENSTBEG00000007520	Histone deacetylase	NA
+Tupaia_belangeri	CDC73	ENSTBEG00000007524	Others	NA
+Tupaia_belangeri	RPAP2	ENSTBEG00000007529	Others	NA
+Tupaia_belangeri	NCOA2	ENSTBEG00000007600	Nuclear receptor coactivator	NA
+Tupaia_belangeri	CASK	ENSTBEG00000007640	CAMK	NA
+Tupaia_belangeri		ENSTBEG00000007659	Others	NA
+Tupaia_belangeri	NFKBIZ	ENSTBEG00000007663	NFKB associated	NA
+Tupaia_belangeri		ENSTBEG00000007668	SS18	NA
+Tupaia_belangeri	MED1	ENSTBEG00000007686	Mediator complex	NA
+Tupaia_belangeri	DYRK1A	ENSTBEG00000007735	Others	NA
+Tupaia_belangeri	MED13L	ENSTBEG00000007740	Mediator complex	NA
+Tupaia_belangeri	NMI	ENSTBEG00000007762	Others	NA
+Tupaia_belangeri	EYA2	ENSTBEG00000007789	EYA	NA
+Tupaia_belangeri		ENSTBEG00000007847	EYA	NA
+Tupaia_belangeri	CRTC1	ENSTBEG00000007865	CREB	NA
+Tupaia_belangeri		ENSTBEG00000007881	Others	NA
+Tupaia_belangeri	PCBD1	ENSTBEG00000007893	Others	NA
+Tupaia_belangeri	POLR3F	ENSTBEG00000007921	POLR	NA
+Tupaia_belangeri	NIBAN1	ENSTBEG00000007954	FAM	NA
+Tupaia_belangeri	SMYD3	ENSTBEG00000007967	SMYD	NA
+Tupaia_belangeri	AATF	ENSTBEG00000008058	Others	NA
+Tupaia_belangeri	C6orf89	ENSTBEG00000008069	Other_CRF	NA
+Tupaia_belangeri	CBX5	ENSTBEG00000008094	Chromobox	NA
+Tupaia_belangeri	BRF2	ENSTBEG00000008111	GTF	NA
+Tupaia_belangeri	HCFC1	ENSTBEG00000008117	Others	NA
+Tupaia_belangeri	EMSY	ENSTBEG00000008147	Others	NA
+Tupaia_belangeri	PPRC1	ENSTBEG00000008148	Others	NA
+Tupaia_belangeri	KDM1B	ENSTBEG00000008156	Lysine demethylase	NA
+Tupaia_belangeri	CD3D	ENSTBEG00000008164	Others	NA
+Tupaia_belangeri	BCOR	ENSTBEG00000008171	Other_Co-activator/repressors	NA
+Tupaia_belangeri	NPAT	ENSTBEG00000008227	Nuclear coactivator	NA
+Tupaia_belangeri	SMURF1	ENSTBEG00000008251	Others	NA
+Tupaia_belangeri	PIR	ENSTBEG00000008256	Others	NA
+Tupaia_belangeri	PRMT2	ENSTBEG00000008289	Arginine methyltransferase	NA
+Tupaia_belangeri	TRAF6	ENSTBEG00000008291	Others	NA
+Tupaia_belangeri	RWDD3	ENSTBEG00000008303	Others	NA
+Tupaia_belangeri	COPS2	ENSTBEG00000008306	Others	NA
+Tupaia_belangeri	RBM15	ENSTBEG00000008339	RNA binding protein	NA
+Tupaia_belangeri	MYD88	ENSTBEG00000008355	Others	NA
+Tupaia_belangeri	CDK16	ENSTBEG00000008356	Cyclin	NA
+Tupaia_belangeri	CTR9	ENSTBEG00000008359	Others	NA
+Tupaia_belangeri	SETD6	ENSTBEG00000008384	SET	NA
+Tupaia_belangeri	ZMYND8	ENSTBEG00000008399	Zinc finger	NA
+Tupaia_belangeri	NCOA4	ENSTBEG00000008400	Nuclear receptor coactivator	NA
+Tupaia_belangeri	RALGAPA1	ENSTBEG00000008420	Others	NA
+Tupaia_belangeri	FBP1	ENSTBEG00000008426	Others	NA
+Tupaia_belangeri	EED	ENSTBEG00000008428	Others	NA
+Tupaia_belangeri	COPS5	ENSTBEG00000008440	Others	NA
+Tupaia_belangeri		ENSTBEG00000008450	Erbb2	NA
+Tupaia_belangeri	DDX1	ENSTBEG00000008454	RNA helicase	NA
+Tupaia_belangeri	TAF1A	ENSTBEG00000008518	TATA-box	NA
+Tupaia_belangeri		ENSTBEG00000008520	Others	NA
+Tupaia_belangeri	DHX33	ENSTBEG00000008531	RNA helicase	NA
+Tupaia_belangeri	ESF1	ENSTBEG00000008552	Others	NA
+Tupaia_belangeri	MED23	ENSTBEG00000008570	Mediator complex	NA
+Tupaia_belangeri	ZMYM2	ENSTBEG00000008629	Zinc finger	NA
+Tupaia_belangeri		ENSTBEG00000008641	Others	NA
+Tupaia_belangeri	PQBP1	ENSTBEG00000008669	Others	NA
+Tupaia_belangeri		ENSTBEG00000008672	Lysine methyltransferase	NA
+Tupaia_belangeri	TFB2M	ENSTBEG00000008705	Others	NA
+Tupaia_belangeri	RBM15B	ENSTBEG00000008724	RNA binding protein	NA
+Tupaia_belangeri	SKIL	ENSTBEG00000008728	SKI	NA
+Tupaia_belangeri	CCND1	ENSTBEG00000008760	Cyclin	NA
+Tupaia_belangeri	SMARCA2	ENSTBEG00000008767	SWI/SNF	NA
+Tupaia_belangeri	EDRF1	ENSTBEG00000008777	Others	NA
+Tupaia_belangeri	RAB19	ENSTBEG00000008783	Others	NA
+Tupaia_belangeri		ENSTBEG00000008808	GTF	NA
+Tupaia_belangeri	GRHPR	ENSTBEG00000008811	Others	NA
+Tupaia_belangeri	LDB2	ENSTBEG00000008823	LIM	NA
+Tupaia_belangeri	ANKRA2	ENSTBEG00000008828	Ankyrin repeat	NA
+Tupaia_belangeri	HAT1	ENSTBEG00000008857	Others	NA
+Tupaia_belangeri	TIGD3	ENSTBEG00000008871	CENP	NA
+Tupaia_belangeri	CCDC59	ENSTBEG00000008887	Coiled-coil	NA
+Tupaia_belangeri	AXIN1	ENSTBEG00000008910	Others	NA
+Tupaia_belangeri	EYA4	ENSTBEG00000008922	EYA	NA
+Tupaia_belangeri	BAZ1B	ENSTBEG00000008952	Bromodomain	NA
+Tupaia_belangeri	DEK	ENSTBEG00000008953	Other_CRF	NA
+Tupaia_belangeri	PEX2	ENSTBEG00000008969	Others	NA
+Tupaia_belangeri	PBXIP1	ENSTBEG00000009038	Others	NA
+Tupaia_belangeri	RBX1	ENSTBEG00000009043	Others	NA
+Tupaia_belangeri	TAF15	ENSTBEG00000009064	TATA-box	NA
+Tupaia_belangeri		ENSTBEG00000009065	ELP	NA
+Tupaia_belangeri	CHP1	ENSTBEG00000009079	Others	NA
+Tupaia_belangeri	NCOA7	ENSTBEG00000009099	Nuclear receptor coactivator	NA
+Tupaia_belangeri		ENSTBEG00000009147	Mediator complex	NA
+Tupaia_belangeri	LPIN2	ENSTBEG00000009160	LPIN	NA
+Tupaia_belangeri		ENSTBEG00000009221	Thyroid hormone receptor	NA
+Tupaia_belangeri	KAT2B	ENSTBEG00000009241	Lysine acetyltransferase	NA
+Tupaia_belangeri		ENSTBEG00000009303	TEF	NA
+Tupaia_belangeri	FBXW11	ENSTBEG00000009311	Others	NA
+Tupaia_belangeri		ENSTBEG00000009364	Mediator complex	NA
+Tupaia_belangeri	ERCC3	ENSTBEG00000009381	Others	NA
+Tupaia_belangeri		ENSTBEG00000009390	WD	NA
+Tupaia_belangeri	CIDEA	ENSTBEG00000009418	Others	NA
+Tupaia_belangeri		ENSTBEG00000009424	Others	NA
+Tupaia_belangeri		ENSTBEG00000009465	Others	NA
+Tupaia_belangeri	RNF10	ENSTBEG00000009469	Ring finger protein	NA
+Tupaia_belangeri	PARK7	ENSTBEG00000009474	Others	NA
+Tupaia_belangeri	DDX5	ENSTBEG00000009490	RNA helicase	NA
+Tupaia_belangeri	EPC2	ENSTBEG00000009501	Others	NA
+Tupaia_belangeri	LIN9	ENSTBEG00000009509	Others	NA
+Tupaia_belangeri	TNNI2	ENSTBEG00000009594	Others	NA
+Tupaia_belangeri		ENSTBEG00000009620	CCR4-NOT	NA
+Tupaia_belangeri	NAA15	ENSTBEG00000009649	Others	NA
+Tupaia_belangeri	TXLNG	ENSTBEG00000009708	Others	NA
+Tupaia_belangeri		ENSTBEG00000009712	Histone lysine methyltransferase	NA
+Tupaia_belangeri		ENSTBEG00000009714	SET	NA
+Tupaia_belangeri		ENSTBEG00000009727	Erbb2	NA
+Tupaia_belangeri	C1D	ENSTBEG00000009797	Other_Co-activator/repressors	NA
+Tupaia_belangeri	RALY	ENSTBEG00000009812	Others	NA
+Tupaia_belangeri	MED13	ENSTBEG00000009830	Mediator complex	NA
+Tupaia_belangeri	POLE4	ENSTBEG00000009851	Other_CRF	NA
+Tupaia_belangeri	LPXN	ENSTBEG00000009870	Others	NA
+Tupaia_belangeri		ENSTBEG00000009886	Others	NA
+Tupaia_belangeri	DAXX	ENSTBEG00000009915	Other_CRF	NA
+Tupaia_belangeri		ENSTBEG00000009927	Others	NA
+Tupaia_belangeri	ELL3	ENSTBEG00000010009	GTF	NA
+Tupaia_belangeri	ACTN2	ENSTBEG00000010021	Actin	NA
+Tupaia_belangeri		ENSTBEG00000010063	Others	NA
+Tupaia_belangeri		ENSTBEG00000010073	TATA-box	NA
+Tupaia_belangeri	DPF2	ENSTBEG00000010120	DPF	NA
+Tupaia_belangeri	CCAR2	ENSTBEG00000010135	Others	NA
+Tupaia_belangeri	SSU72	ENSTBEG00000010136	Others	NA
+Tupaia_belangeri	RBBP7	ENSTBEG00000010151	RBBP	NA
+Tupaia_belangeri	MYO6	ENSTBEG00000010182	Others	NA
+Tupaia_belangeri		ENSTBEG00000010238	Lysine methyltransferase	NA
+Tupaia_belangeri	PELP1	ENSTBEG00000010264	Others	NA
+Tupaia_belangeri	RUNX1T1	ENSTBEG00000010312	Others	NA
+Tupaia_belangeri	UFL1	ENSTBEG00000010316	Others	NA
+Tupaia_belangeri	WDR77	ENSTBEG00000010325	WD	NA
+Tupaia_belangeri	CCNT2	ENSTBEG00000010341	Cyclin	NA
+Tupaia_belangeri	TENM1	ENSTBEG00000010393	Others	NA
+Tupaia_belangeri		ENSTBEG00000010402	Others	NA
+Tupaia_belangeri	TCERG1	ENSTBEG00000010424	TEF	NA
+Tupaia_belangeri	LPIN3	ENSTBEG00000010436	LPIN	NA
+Tupaia_belangeri		ENSTBEG00000010448	Others	NA
+Tupaia_belangeri	SETD7	ENSTBEG00000010481	SET	NA
+Tupaia_belangeri		ENSTBEG00000010502	Others	NA
+Tupaia_belangeri	PRAME	ENSTBEG00000010539	Others	NA
+Tupaia_belangeri	DUSP5	ENSTBEG00000010542	Others	NA
+Tupaia_belangeri	TPR	ENSTBEG00000010572	Others	NA
+Tupaia_belangeri	BUD31	ENSTBEG00000010640	Others	NA
+Tupaia_belangeri	FHL5	ENSTBEG00000010660	FHL	NA
+Tupaia_belangeri	BRDT	ENSTBEG00000010690	Bromodomain	NA
+Tupaia_belangeri	ARRB2	ENSTBEG00000010692	Others	NA
+Tupaia_belangeri	SFMBT1	ENSTBEG00000010730	Others	NA
+Tupaia_belangeri	KDM6B	ENSTBEG00000010754	Lysine demethylase	NA
+Tupaia_belangeri	UTP4	ENSTBEG00000010758	Others	NA
+Tupaia_belangeri	LOXL3	ENSTBEG00000010765	Others	NA
+Tupaia_belangeri	SMARCD2	ENSTBEG00000010798	SWI/SNF	NA
+Tupaia_belangeri	PYGO1	ENSTBEG00000010814	Others	NA
+Tupaia_belangeri	TOB2	ENSTBEG00000010846	Others	NA
+Tupaia_belangeri	BTAF1	ENSTBEG00000010860	Others	NA
+Tupaia_belangeri	ANKRD1	ENSTBEG00000010862	Ankyrin repeat	NA
+Tupaia_belangeri	TP53BP1	ENSTBEG00000010870	Others	NA
+Tupaia_belangeri	EFCAB6	ENSTBEG00000010905	Others	NA
+Tupaia_belangeri		ENSTBEG00000010928	Lysine methyltransferase	NA
+Tupaia_belangeri	PHF5A	ENSTBEG00000010945	PHF	NA
+Tupaia_belangeri	TGS1	ENSTBEG00000010953	Others	NA
+Tupaia_belangeri	DNMT3B	ENSTBEG00000010961	DNA_methylase	NA
+Tupaia_belangeri	ACTR5	ENSTBEG00000010977	ACTR	NA
+Tupaia_belangeri		ENSTBEG00000011048	GTF	NA
+Tupaia_belangeri		ENSTBEG00000011055	Others	NA
+Tupaia_belangeri		ENSTBEG00000011061	Histone deacetylase	NA
+Tupaia_belangeri	PNRC1	ENSTBEG00000011070	Others	NA
+Tupaia_belangeri		ENSTBEG00000011123	Mediator complex	NA
+Tupaia_belangeri	CNOT9	ENSTBEG00000011140	CCR4-NOT	NA
+Tupaia_belangeri		ENSTBEG00000011193	Others	NA
+Tupaia_belangeri		ENSTBEG00000011200	FGF	NA
+Tupaia_belangeri	KDM8	ENSTBEG00000011239	Lysine demethylase	NA
+Tupaia_belangeri	FLNA	ENSTBEG00000011283	Others	NA
+Tupaia_belangeri	DACT1	ENSTBEG00000011285	Others	NA
+Tupaia_belangeri	SKI	ENSTBEG00000011328	SKI	NA
+Tupaia_belangeri	SUDS3	ENSTBEG00000011331	Other_Co-activator/repressors	NA
+Tupaia_belangeri	CHD6	ENSTBEG00000011343	CHD	NA
+Tupaia_belangeri	MYOCD	ENSTBEG00000011358	Others	NA
+Tupaia_belangeri		ENSTBEG00000011379	CHD	NA
+Tupaia_belangeri	TCF20	ENSTBEG00000011395	Others	NA
+Tupaia_belangeri	CHD3	ENSTBEG00000011454	CHD	NA
+Tupaia_belangeri	GTF2H1	ENSTBEG00000011488	GTF	NA
+Tupaia_belangeri	FHL3	ENSTBEG00000011490	FHL	NA
+Tupaia_belangeri	SMYD2	ENSTBEG00000011591	SMYD	NA
+Tupaia_belangeri		ENSTBEG00000011602	Heat shock protein	NA
+Tupaia_belangeri	KAT6B	ENSTBEG00000011618	Lysine acetyltransferase	NA
+Tupaia_belangeri	TAF3	ENSTBEG00000011642	TATA-box	NA
+Tupaia_belangeri	CSRP3	ENSTBEG00000011656	Others	NA
+Tupaia_belangeri	MDM4	ENSTBEG00000011684	Others	NA
+Tupaia_belangeri	JMJD1C	ENSTBEG00000011697	Other_CRF	NA
+Tupaia_belangeri	SRFBP1	ENSTBEG00000011711	Others	NA
+Tupaia_belangeri	XRCC6	ENSTBEG00000011736	Others	NA
+Tupaia_belangeri	MCRS1	ENSTBEG00000011805	Others	NA
+Tupaia_belangeri		ENSTBEG00000011817	Cyclin	NA
+Tupaia_belangeri	LRIF1	ENSTBEG00000011819	Others	NA
+Tupaia_belangeri		ENSTBEG00000011836	Others	NA
+Tupaia_belangeri	PLRG1	ENSTBEG00000011839	Others	NA
+Tupaia_belangeri		ENSTBEG00000011852	Others	NA
+Tupaia_belangeri	PPARGC1B	ENSTBEG00000011857	Others	NA
+Tupaia_belangeri	FGF1	ENSTBEG00000011876	FGF	NA
+Tupaia_belangeri	LANCL2	ENSTBEG00000011886	Others	NA
+Tupaia_belangeri		ENSTBEG00000011900	Others	NA
+Tupaia_belangeri		ENSTBEG00000011901	NFKB associated	NA
+Tupaia_belangeri	DRAP1	ENSTBEG00000011908	Others	NA
+Tupaia_belangeri	NAB1	ENSTBEG00000011954	Others	NA
+Tupaia_belangeri	ANXA4	ENSTBEG00000011983	Others	NA
+Tupaia_belangeri	MED21	ENSTBEG00000012031	Mediator complex	NA
+Tupaia_belangeri	GTF2H5	ENSTBEG00000012034	GTF	NA
+Tupaia_belangeri	PRMT5	ENSTBEG00000012071	Arginine methyltransferase	NA
+Tupaia_belangeri	CDK12	ENSTBEG00000012081	Cyclin	NA
+Tupaia_belangeri	BRD8	ENSTBEG00000012097	Bromodomain	NA
+Tupaia_belangeri	MLLT3	ENSTBEG00000012102	GTF	NA
+Tupaia_belangeri	SIN3A	ENSTBEG00000012131	Other_CRF	NA
+Tupaia_belangeri		ENSTBEG00000012176	CAMK	NA
+Tupaia_belangeri	NSD3	ENSTBEG00000012180	Nuclear receptor coactivator	NA
+Tupaia_belangeri	CDK7	ENSTBEG00000012193	Cyclin	NA
+Tupaia_belangeri	CRTC2	ENSTBEG00000012222	CREB	NA
+Tupaia_belangeri	SUPT16H	ENSTBEG00000012237	SUPT	NA
+Tupaia_belangeri	RAF1	ENSTBEG00000012253	Others	NA
+Tupaia_belangeri	CTNNB1	ENSTBEG00000012269	Casein	NA
+Tupaia_belangeri	VEGFA	ENSTBEG00000012280	Other_CRF	NA
+Tupaia_belangeri	BTN1A1	ENSTBEG00000012296	Others	NA
+Tupaia_belangeri	RNF25	ENSTBEG00000012303	Ring finger protein	NA
+Tupaia_belangeri	SUPT20H	ENSTBEG00000012311	SUPT	NA
+Tupaia_belangeri		ENSTBEG00000012343	Others	NA
+Tupaia_belangeri	ASH1L	ENSTBEG00000012347	Others	NA
+Tupaia_belangeri	DAPK3	ENSTBEG00000012360	Others	NA
+Tupaia_belangeri	PHF8	ENSTBEG00000012365	PHF	NA
+Tupaia_belangeri	SLC19A1	ENSTBEG00000012408	SLC	NA
+Tupaia_belangeri	CTDSP2	ENSTBEG00000012421	Others	NA
+Tupaia_belangeri	S100A9	ENSTBEG00000012434	Others	NA
+Tupaia_belangeri	CHTOP	ENSTBEG00000012442	Others	NA
+Tupaia_belangeri	EYA1	ENSTBEG00000012444	EYA	NA
+Tupaia_belangeri	ANKAR	ENSTBEG00000012445	Ankyrin repeat	NA
+Tupaia_belangeri	DAB2	ENSTBEG00000012465	Others	NA
+Tupaia_belangeri	STK36	ENSTBEG00000012469	Others	NA
+Tupaia_belangeri	TRIM37	ENSTBEG00000012474	Tripartite motif	NA
+Tupaia_belangeri		ENSTBEG00000012479	RNA helicase	NA
+Tupaia_belangeri	TOPORS	ENSTBEG00000012520	Others	NA
+Tupaia_belangeri	CRYM	ENSTBEG00000012542	Others	NA
+Tupaia_belangeri		ENSTBEG00000012558	CAMK	NA
+Tupaia_belangeri	CHD8	ENSTBEG00000012606	CHD	NA
+Tupaia_belangeri		ENSTBEG00000012612	Others	NA
+Tupaia_belangeri	SUPT3H	ENSTBEG00000012619	SUPT	NA
+Tupaia_belangeri	SAFB2	ENSTBEG00000012709	Others	NA
+Tupaia_belangeri	SPAG8	ENSTBEG00000012714	Others	NA
+Tupaia_belangeri	KDM4A	ENSTBEG00000012740	Lysine demethylase	NA
+Tupaia_belangeri	TAF6L	ENSTBEG00000012754	TATA-box	NA
+Tupaia_belangeri	PML	ENSTBEG00000012807	Others	NA
+Tupaia_belangeri	SETD3	ENSTBEG00000012886	SET	NA
+Tupaia_belangeri	CHCHD2	ENSTBEG00000012905	Coiled-coil	NA
+Tupaia_belangeri	CCNA2	ENSTBEG00000012951	Cyclin	NA
+Tupaia_belangeri	CBL	ENSTBEG00000012953	Others	NA
+Tupaia_belangeri	HDAC10	ENSTBEG00000012983	Histone deacetylase	NA
+Tupaia_belangeri		ENSTBEG00000012984	Others	NA
+Tupaia_belangeri	PELI1	ENSTBEG00000013015	Others	NA
+Tupaia_belangeri	DSCAM	ENSTBEG00000013016	Others	NA
+Tupaia_belangeri	HINT2	ENSTBEG00000013020	Others	NA
+Tupaia_belangeri	WBP2	ENSTBEG00000013031	WW	NA
+Tupaia_belangeri		ENSTBEG00000013035	Others	NA
+Tupaia_belangeri	PEX14	ENSTBEG00000013082	Others	NA
+Tupaia_belangeri		ENSTBEG00000013089	Lysine methyltransferase	NA
+Tupaia_belangeri		ENSTBEG00000013095	Others	NA
+Tupaia_belangeri		ENSTBEG00000013124	Others	NA
+Tupaia_belangeri	SF1	ENSTBEG00000013133	Others	NA
+Tupaia_belangeri	TBPL1	ENSTBEG00000013148	TATA-box	NA
+Tupaia_belangeri	NRG1	ENSTBEG00000013164	Others	NA
+Tupaia_belangeri		ENSTBEG00000013294	POLR	NA
+Tupaia_belangeri	MEN1	ENSTBEG00000013297	Others	NA
+Tupaia_belangeri		ENSTBEG00000013374	Other_CRF	NA
+Tupaia_belangeri	RNF40	ENSTBEG00000013423	Ring finger protein	NA
+Tupaia_belangeri	JADE1	ENSTBEG00000013429	Others	NA
+Tupaia_belangeri		ENSTBEG00000013461	Others	NA
+Tupaia_belangeri	DHX36	ENSTBEG00000013495	RNA helicase	NA
+Tupaia_belangeri		ENSTBEG00000013497	ACTR	NA
+Tupaia_belangeri	NLRP3	ENSTBEG00000013498	Others	NA
+Tupaia_belangeri	XIAP	ENSTBEG00000013535	Others	NA
+Tupaia_belangeri	BRD7	ENSTBEG00000013657	Bromodomain	NA
+Tupaia_belangeri	MYBBP1A	ENSTBEG00000013673	MYB	NA
+Tupaia_belangeri	MSL3	ENSTBEG00000013679	Others	NA
+Tupaia_belangeri		ENSTBEG00000013686	Others	NA
+Tupaia_belangeri	MDM2	ENSTBEG00000013758	Others	NA
+Tupaia_belangeri	DGKQ	ENSTBEG00000013768	Others	NA
+Tupaia_belangeri	BRWD1	ENSTBEG00000013802	Bromodomain	NA
+Tupaia_belangeri	PIK3R1	ENSTBEG00000013860	Others	NA
+Tupaia_belangeri		ENSTBEG00000013862	CENP	NA
+Tupaia_belangeri	JMJD6	ENSTBEG00000013938	Others	NA
+Tupaia_belangeri	INO80D	ENSTBEG00000013976	INO80 complex	NA
+Tupaia_belangeri		ENSTBEG00000014006	Casein	NA
+Tupaia_belangeri	LMO3	ENSTBEG00000014019	LIM	NA
+Tupaia_belangeri		ENSTBEG00000014020	Others	NA
+Tupaia_belangeri	NCOA3	ENSTBEG00000014029	Nuclear receptor coactivator	NA
+Tupaia_belangeri		ENSTBEG00000014031	Histone deacetylase	NA
+Tupaia_belangeri	AUTS2	ENSTBEG00000014048	Others	NA
+Tupaia_belangeri		ENSTBEG00000014049	CITED	NA
+Tupaia_belangeri	DHX9	ENSTBEG00000014052	RNA helicase	NA
+Tupaia_belangeri	EDF1	ENSTBEG00000014060	Others	NA
+Tupaia_belangeri	SNW1	ENSTBEG00000014074	Others	NA
+Tupaia_belangeri		ENSTBEG00000014088	MAGE	NA
+Tupaia_belangeri		ENSTBEG00000014116	Others	NA
+Tupaia_belangeri	SFMBT2	ENSTBEG00000014130	Others	NA
+Tupaia_belangeri		ENSTBEG00000014267	Others	NA
+Tupaia_belangeri	SRSF2	ENSTBEG00000014339	Others	NA
+Tupaia_belangeri	PHIP	ENSTBEG00000014351	Others	NA
+Tupaia_belangeri	FGFR2	ENSTBEG00000014396	FGF	NA
+Tupaia_belangeri	TNIP2	ENSTBEG00000014399	Others	NA
+Tupaia_belangeri	CHCHD3	ENSTBEG00000014404	Coiled-coil	NA
+Tupaia_belangeri	RB1	ENSTBEG00000014454	Other_Co-activator/repressors	NA
+Tupaia_belangeri	MED14	ENSTBEG00000014489	Mediator complex	NA
+Tupaia_belangeri		ENSTBEG00000014530	Lysine demethylase	NA
+Tupaia_belangeri	SFRP4	ENSTBEG00000014572	Others	NA
+Tupaia_belangeri	TXNIP	ENSTBEG00000014689	Others	NA
+Tupaia_belangeri	NELFA	ENSTBEG00000014722	GTF	NA
+Tupaia_belangeri	MAD2L2	ENSTBEG00000014724	Others	NA
+Tupaia_belangeri	TAF6	ENSTBEG00000014735	TATA-box	NA
+Tupaia_belangeri		ENSTBEG00000014747	Others	NA
+Tupaia_belangeri	TSPYL1	ENSTBEG00000014768	SET	NA
+Tupaia_belangeri	CHD1	ENSTBEG00000014830	CHD	NA
+Tupaia_belangeri	ILF2	ENSTBEG00000014891	Others	NA
+Tupaia_belangeri		ENSTBEG00000014893	Histone deacetylase	NA
+Tupaia_belangeri	MED30	ENSTBEG00000014919	Mediator complex	NA
+Tupaia_belangeri	CBX1	ENSTBEG00000014931	Chromobox	NA
+Tupaia_belangeri		ENSTBEG00000015017	Others	NA
+Tupaia_belangeri	SKAP1	ENSTBEG00000015048	Others	NA
+Tupaia_belangeri	TNIP1	ENSTBEG00000015097	Others	NA
+Tupaia_belangeri	DR1	ENSTBEG00000015101	Others	NA
+Tupaia_belangeri	STK3	ENSTBEG00000015105	Others	NA
+Tupaia_belangeri	HDAC2	ENSTBEG00000015133	Histone deacetylase	NA
+Tupaia_belangeri	RLIM	ENSTBEG00000015164	Ring finger protein	NA
+Tupaia_belangeri	ASCC3	ENSTBEG00000015236	ASCC	NA
+Tupaia_belangeri		ENSTBEG00000015248	GTF	NA
+Tupaia_belangeri	RECQL5	ENSTBEG00000015250	Others	NA
+Tupaia_belangeri	S100A8	ENSTBEG00000015289	Others	NA
+Tupaia_belangeri		ENSTBEG00000015294	Others	NA
+Tupaia_belangeri	TNKS2	ENSTBEG00000015297	Others	NA
+Tupaia_belangeri	SERTAD2	ENSTBEG00000015308	Others	NA
+Tupaia_belangeri	PRMT7	ENSTBEG00000015358	Arginine methyltransferase	NA
+Tupaia_belangeri	HDGF	ENSTBEG00000015403	Others	NA
+Tupaia_belangeri		ENSTBEG00000015431	Others	NA
+Tupaia_belangeri	PHF21A	ENSTBEG00000015434	PHF	NA
+Tupaia_belangeri	STRAP	ENSTBEG00000015441	Others	NA
+Tupaia_belangeri		ENSTBEG00000015503	TEF	NA
+Tupaia_belangeri	PCGF3	ENSTBEG00000015541	PCGF	NA
+Tupaia_belangeri		ENSTBEG00000015575	MAGE	NA
+Tupaia_belangeri	BCAS3	ENSTBEG00000015617	Others	NA
+Tupaia_belangeri	SAP30BP	ENSTBEG00000015623	SAP	NA
+Tupaia_belangeri		ENSTBEG00000015628	TATA-box	NA
+Tupaia_belangeri		ENSTBEG00000015631	Others	NA
+Tupaia_belangeri	EZH2	ENSTBEG00000015636	Others	NA
+Tupaia_belangeri		ENSTBEG00000015649	Sirtuin	NA
+Tupaia_belangeri	TENM2	ENSTBEG00000015663	Others	NA
+Tupaia_belangeri	KDM3A	ENSTBEG00000015669	Lysine demethylase	NA
+Tupaia_belangeri	SETD2	ENSTBEG00000015707	SET	NA
+Tupaia_belangeri		ENSTBEG00000015716	Others	NA
+Tupaia_belangeri		ENSTBEG00000015726	BCL	NA
+Tupaia_belangeri	TNP1	ENSTBEG00000015762	Other_CRF	NA
+Tupaia_belangeri	PCBD2	ENSTBEG00000015856	Others	NA
+Tupaia_belangeri	VGLL3	ENSTBEG00000015861	Vestigial like	NA
+Tupaia_belangeri	CDK8	ENSTBEG00000015874	Cyclin	NA
+Tupaia_belangeri	CBX7	ENSTBEG00000015876	Chromobox	NA
+Tupaia_belangeri	TRIP4	ENSTBEG00000015881	Thyroid hormone receptor	NA
+Tupaia_belangeri	BRCA2	ENSTBEG00000015907	Others	NA
+Tupaia_belangeri	WWC1	ENSTBEG00000015909	WW	NA
+Tupaia_belangeri	PCGF5	ENSTBEG00000015916	PCGF	NA
+Tupaia_belangeri	L3MBTL2	ENSTBEG00000015918	Others	NA
+Tupaia_belangeri	HCLS1	ENSTBEG00000015923	Others	NA
+Tupaia_belangeri	BPTF	ENSTBEG00000015933	Bromodomain	NA
+Tupaia_belangeri		ENSTBEG00000015966	Others	NA
+Tupaia_belangeri		ENSTBEG00000016027	Zinc finger	NA
+Tupaia_belangeri		ENSTBEG00000016052	CHD	NA
+Tupaia_belangeri	SSBP3	ENSTBEG00000016067	Others	NA
+Tupaia_belangeri	WAC	ENSTBEG00000016071	WW	NA
+Tupaia_belangeri	NCK2	ENSTBEG00000016132	Others	NA
+Tupaia_belangeri	ERBB4	ENSTBEG00000016137	Erbb2	NA
+Tupaia_belangeri	ELL2	ENSTBEG00000016218	GTF	NA
+Tupaia_belangeri	MED9	ENSTBEG00000016223	Mediator complex	NA
+Tupaia_belangeri	AEN	ENSTBEG00000016234	Others	NA
+Tupaia_belangeri	APBB2	ENSTBEG00000016238	Others	NA
+Tupaia_belangeri	THRAP3	ENSTBEG00000016264	Thyroid hormone receptor	NA
+Tupaia_belangeri	NSMCE4A	ENSTBEG00000016289	EID	NA
+Tupaia_belangeri	KDM2B	ENSTBEG00000016315	Lysine demethylase	NA
+Tupaia_belangeri	FRK	ENSTBEG00000016328	Others	NA
+Tupaia_belangeri	CNOT11	ENSTBEG00000016383	CCR4-NOT	NA
+Tupaia_belangeri		ENSTBEG00000016392	Notch	NA
+Tupaia_belangeri	RNF6	ENSTBEG00000016416	Ring finger protein	NA
+Tupaia_belangeri	PLK2	ENSTBEG00000016433	Others	NA
+Tupaia_belangeri	PFDN5	ENSTBEG00000016436	Others	NA
+Tupaia_belangeri	SMARCA5	ENSTBEG00000016448	SWI/SNF	NA
+Tupaia_belangeri	HDAC9	ENSTBEG00000016493	Histone deacetylase	NA
+Tupaia_belangeri	CHUK	ENSTBEG00000016494	Others	NA
+Tupaia_belangeri	AGO1	ENSTBEG00000016514	Others	NA
+Tupaia_belangeri	CNOT6L	ENSTBEG00000016519	CCR4-NOT	NA
+Tupaia_belangeri	MED25	ENSTBEG00000016529	Mediator complex	NA
+Tupaia_belangeri		ENSTBEG00000016561	Chromobox	NA
+Tupaia_belangeri		ENSTBEG00000016616	MBD	NA
+Tupaia_belangeri	MED12	ENSTBEG00000016642	Mediator complex	NA
+Tupaia_belangeri	YEATS2	ENSTBEG00000016646	Others	NA
+Tupaia_belangeri	BRD2	ENSTBEG00000016659	Bromodomain	NA
+Tupaia_belangeri	PIH1D1	ENSTBEG00000016665	Other_CRF	NA
+Tupaia_belangeri		ENSTBEG00000016709	Other_Co-activator/repressors	NA
+Tupaia_belangeri	EZH1	ENSTBEG00000016721	Others	NA
+Tupaia_belangeri	FLII	ENSTBEG00000016736	Others	NA
+Tupaia_belangeri	CCNT1	ENSTBEG00000016766	Cyclin	NA
+Tupaia_belangeri	LPIN1	ENSTBEG00000016805	LPIN	NA
+Tupaia_belangeri	DCC	ENSTBEG00000016912	Others	NA
+Tupaia_belangeri	ASF1B	ENSTBEG00000016934	Others	NA
+Tupaia_belangeri	TAF11	ENSTBEG00000016935	TATA-box	NA
+Tupaia_belangeri	DCAF6	ENSTBEG00000016956	Others	NA
+Tupaia_belangeri	HDAC7	ENSTBEG00000017000	Histone deacetylase	NA
+Tupaia_belangeri	CCNK	ENSTBEG00000017029	Cyclin	NA
+Tupaia_belangeri	PHF10	ENSTBEG00000017142	PHF	NA
+Tupaia_belangeri	BRIP1	ENSTBEG00000017157	Others	NA
+Tupaia_belangeri	SLC25A15	ENSTBEG00000017239	SLC	NA
+Tupaia_belangeri		ENSTBEG00000017244	SWI/SNF	NA
+Tupaia_belangeri	RBL1	ENSTBEG00000017249	Other_Co-activator/repressors	NA
+Tupaia_belangeri	KDM5C	ENSTBEG00000017300	Lysine demethylase	NA
+Tupaia_belangeri	RBM39	ENSTBEG00000017320	RNA binding protein	NA
+Tupaia_belangeri	MED24	ENSTBEG00000017322	Mediator complex	NA
+Tupaia_belangeri	PAXIP1	ENSTBEG00000017345	Others	NA
+Tupaia_belangeri	KAT8	ENSTBEG00000017391	Lysine acetyltransferase	NA
+Tupaia_belangeri	LIN54	ENSTBEG00000017485	Others	NA
+Tupaia_belangeri		ENSTBEG00000017486	Others	NA
+Tupaia_belangeri	HEATR1	ENSTBEG00000017495	Others	NA
+Tupaia_belangeri	HSD17B13	ENSTBEG00000017515	Others	NA
+Tupaia_belangeri	GNL3	ENSTBEG00000017518	Others	NA
+Tupaia_belangeri	CCNC	ENSTBEG00000017525	Cyclin	NA
+Tupaia_belangeri	EAF2	ENSTBEG00000017542	Others	NA
+Tupaia_belangeri	CDK1	ENSTBEG00000017549	Cyclin	NA
+Tupaia_belangeri	TRAK2	ENSTBEG00000017609	Others	NA
+Tupaia_belangeri	ACTA2	ENSTBEG00000017616	Actin	NA
+Tupaia_belangeri		ENSTBEG00000017618	INO80 complex	NA
+Tupaia_belangeri		ENSTBEG00000017623	Others	NA
+Tupaia_belangeri	ELP3	ENSTBEG00000017641	ELP	NA
+Tupaia_belangeri	MTOR	ENSTBEG00000017662	Others	NA
+Tupaia_belangeri		ENSTBEG00000017694	Vestigial like	NA
+Tupaia_belangeri	PHF20	ENSTBEG00000017699	PHF	NA
+Tupaia_belangeri	NOTCH2	ENSTBEG00000017705	Notch	NA

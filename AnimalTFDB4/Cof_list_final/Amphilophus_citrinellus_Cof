@@ -1,0 +1,717 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Amphilophus_citrinellus	prkcbp1l	ENSACIG00000000007	Zinc finger	NA
+Amphilophus_citrinellus	naca	ENSACIG00000000017	Others	NA
+Amphilophus_citrinellus	taf11	ENSACIG00000000045	TATA-box	NA
+Amphilophus_citrinellus	banp	ENSACIG00000000097	Others	NA
+Amphilophus_citrinellus	ercc3	ENSACIG00000000126	Others	NA
+Amphilophus_citrinellus	rgcc	ENSACIG00000000198	Others	NA
+Amphilophus_citrinellus	egln2	ENSACIG00000000269	Others	NA
+Amphilophus_citrinellus	hdac1	ENSACIG00000000326	Histone deacetylase	NA
+Amphilophus_citrinellus	ripk2	ENSACIG00000000328	Others	NA
+Amphilophus_citrinellus	mrgbp	ENSACIG00000000371	Others	NA
+Amphilophus_citrinellus		ENSACIG00000000373	Others	NA
+Amphilophus_citrinellus	pfdn5	ENSACIG00000000390	Others	NA
+Amphilophus_citrinellus	gnl3	ENSACIG00000000545	Others	NA
+Amphilophus_citrinellus	bmi1a	ENSACIG00000000646	Others	NA
+Amphilophus_citrinellus	tsg101a	ENSACIG00000000649	Others	NA
+Amphilophus_citrinellus	gsk3bb	ENSACIG00000000702	Others	NA
+Amphilophus_citrinellus	med24	ENSACIG00000000740	Mediator complex	NA
+Amphilophus_citrinellus	leo1	ENSACIG00000000809	Others	NA
+Amphilophus_citrinellus	csnk2a4	ENSACIG00000000870	Casein	NA
+Amphilophus_citrinellus	eloca	ENSACIG00000000911	Others	NA
+Amphilophus_citrinellus	tbl1xr1b	ENSACIG00000001053	Transducin	NA
+Amphilophus_citrinellus		ENSACIG00000001068	RNA helicase	NA
+Amphilophus_citrinellus		ENSACIG00000001102	Others	NA
+Amphilophus_citrinellus	hat1	ENSACIG00000001133	Others	NA
+Amphilophus_citrinellus	chd1l	ENSACIG00000001164	CHD	NA
+Amphilophus_citrinellus	ago2	ENSACIG00000001179	Others	NA
+Amphilophus_citrinellus	cdk13	ENSACIG00000001208	Cyclin	NA
+Amphilophus_citrinellus	mycbp	ENSACIG00000001337	MYC	NA
+Amphilophus_citrinellus	trim8b	ENSACIG00000001380	Tripartite motif	NA
+Amphilophus_citrinellus	wdr5	ENSACIG00000001424	WD	NA
+Amphilophus_citrinellus	lmo1	ENSACIG00000001478	LIM	NA
+Amphilophus_citrinellus	med29	ENSACIG00000001533	Mediator complex	NA
+Amphilophus_citrinellus	kmt5ab	ENSACIG00000001674	Lysine methyltransferase	NA
+Amphilophus_citrinellus	notch1b	ENSACIG00000001768	Notch	NA
+Amphilophus_citrinellus	dpf3	ENSACIG00000001771	DPF	NA
+Amphilophus_citrinellus	btaf1	ENSACIG00000001841	Others	NA
+Amphilophus_citrinellus	ino80	ENSACIG00000001918	INO80 complex	NA
+Amphilophus_citrinellus	rnf111	ENSACIG00000001923	Ring finger protein	NA
+Amphilophus_citrinellus	ppid	ENSACIG00000001964	Others	NA
+Amphilophus_citrinellus	bahcc1b	ENSACIG00000001976	Others	NA
+Amphilophus_citrinellus	phf2	ENSACIG00000002023	PHF	NA
+Amphilophus_citrinellus	birc5a	ENSACIG00000002060	Others	NA
+Amphilophus_citrinellus	CTDSP1	ENSACIG00000002070	Others	NA
+Amphilophus_citrinellus	cbx3a	ENSACIG00000002111	Chromobox	NA
+Amphilophus_citrinellus	crym	ENSACIG00000002130	Others	NA
+Amphilophus_citrinellus	suds3	ENSACIG00000002138	Other_Co-activator/repressors	NA
+Amphilophus_citrinellus	mcrs1	ENSACIG00000002144	Others	NA
+Amphilophus_citrinellus	fgf5	ENSACIG00000002164	FGF	NA
+Amphilophus_citrinellus	CBL	ENSACIG00000002186	Others	NA
+Amphilophus_citrinellus	hcls1	ENSACIG00000002215	Others	NA
+Amphilophus_citrinellus	timeless	ENSACIG00000002244	Others	NA
+Amphilophus_citrinellus	chek2	ENSACIG00000002245	Others	NA
+Amphilophus_citrinellus	med4	ENSACIG00000002334	Mediator complex	NA
+Amphilophus_citrinellus	vgll2a	ENSACIG00000002339	Vestigial like	NA
+Amphilophus_citrinellus	KMT2A	ENSACIG00000002369	Lysine methyltransferase	NA
+Amphilophus_citrinellus	ccnd1	ENSACIG00000002470	Cyclin	NA
+Amphilophus_citrinellus	actr8	ENSACIG00000002504	ACTR	NA
+Amphilophus_citrinellus	cnot6l	ENSACIG00000002515	CCR4-NOT	NA
+Amphilophus_citrinellus	chchd2	ENSACIG00000002552	Coiled-coil	NA
+Amphilophus_citrinellus	slc25a15a	ENSACIG00000002630	SLC	NA
+Amphilophus_citrinellus	sirt2	ENSACIG00000002631	Sirtuin	NA
+Amphilophus_citrinellus	yaf2	ENSACIG00000002635	Others	NA
+Amphilophus_citrinellus	gtf2h3	ENSACIG00000002652	GTF	NA
+Amphilophus_citrinellus	cdk2	ENSACIG00000002696	Cyclin	NA
+Amphilophus_citrinellus	ezh2	ENSACIG00000002702	Others	NA
+Amphilophus_citrinellus	kmt5b	ENSACIG00000002725	Lysine methyltransferase	NA
+Amphilophus_citrinellus	nrbf2b	ENSACIG00000002755	Nuclear receptor coactivator	NA
+Amphilophus_citrinellus	pex2	ENSACIG00000002786	Others	NA
+Amphilophus_citrinellus	cnot11	ENSACIG00000002791	CCR4-NOT	NA
+Amphilophus_citrinellus	pir	ENSACIG00000002823	Others	NA
+Amphilophus_citrinellus		ENSACIG00000002903	Casein	NA
+Amphilophus_citrinellus	tradd	ENSACIG00000002920	Others	NA
+Amphilophus_citrinellus	nelfcd	ENSACIG00000002940	GTF	NA
+Amphilophus_citrinellus	mtpn	ENSACIG00000002946	Others	NA
+Amphilophus_citrinellus	birc2	ENSACIG00000002986	Others	NA
+Amphilophus_citrinellus	seta	ENSACIG00000003067	SET	NA
+Amphilophus_citrinellus	TAF4	ENSACIG00000003098	TATA-box	NA
+Amphilophus_citrinellus	scai	ENSACIG00000003105	Others	NA
+Amphilophus_citrinellus	pdlim1	ENSACIG00000003219	Others	NA
+Amphilophus_citrinellus	pex14	ENSACIG00000003245	Others	NA
+Amphilophus_citrinellus	oxr1b	ENSACIG00000003285	Nuclear receptor coactivator	NA
+Amphilophus_citrinellus	dscama	ENSACIG00000003287	Others	NA
+Amphilophus_citrinellus	mad2l2	ENSACIG00000003295	Others	NA
+Amphilophus_citrinellus	chek1	ENSACIG00000003339	Others	NA
+Amphilophus_citrinellus	cxxc5a	ENSACIG00000003365	Others	NA
+Amphilophus_citrinellus	cavin1b	ENSACIG00000003366	Others	NA
+Amphilophus_citrinellus	trrap	ENSACIG00000003402	Others	NA
+Amphilophus_citrinellus	nrg2a	ENSACIG00000003410	Others	NA
+Amphilophus_citrinellus	btg1	ENSACIG00000003434	Others	NA
+Amphilophus_citrinellus	commd1	ENSACIG00000003451	Others	NA
+Amphilophus_citrinellus	raf1a	ENSACIG00000003513	Others	NA
+Amphilophus_citrinellus	aurkb	ENSACIG00000003527	Others	NA
+Amphilophus_citrinellus	HMOX1	ENSACIG00000003536	Others	NA
+Amphilophus_citrinellus	snd1	ENSACIG00000003551	Others	NA
+Amphilophus_citrinellus	ankra2	ENSACIG00000003574	Ankyrin repeat	NA
+Amphilophus_citrinellus	cdyl	ENSACIG00000003596	Chromodomain Y	NA
+Amphilophus_citrinellus		ENSACIG00000003598	Others	NA
+Amphilophus_citrinellus	mak	ENSACIG00000003614	Others	NA
+Amphilophus_citrinellus	sfmbt2	ENSACIG00000003656	Others	NA
+Amphilophus_citrinellus	med31	ENSACIG00000003710	Mediator complex	NA
+Amphilophus_citrinellus	RBFOX3	ENSACIG00000003768	Others	NA
+Amphilophus_citrinellus	uxt	ENSACIG00000003803	Others	NA
+Amphilophus_citrinellus	ctnnbip1	ENSACIG00000003859	Casein	NA
+Amphilophus_citrinellus	ell2	ENSACIG00000003892	GTF	NA
+Amphilophus_citrinellus		ENSACIG00000003898	Sirtuin	NA
+Amphilophus_citrinellus		ENSACIG00000003901	PARP	NA
+Amphilophus_citrinellus	jmjd6	ENSACIG00000003910	Others	NA
+Amphilophus_citrinellus	cbx6a	ENSACIG00000003935	Chromobox	NA
+Amphilophus_citrinellus	s100s	ENSACIG00000003938	Others	NA
+Amphilophus_citrinellus	si:ch211-219a4.3	ENSACIG00000003944	PARP	NA
+Amphilophus_citrinellus	ncoa4	ENSACIG00000003970	Nuclear receptor coactivator	NA
+Amphilophus_citrinellus		ENSACIG00000003974	CENP	NA
+Amphilophus_citrinellus	snapc5	ENSACIG00000004004	Others	NA
+Amphilophus_citrinellus	ccdc59	ENSACIG00000004060	Coiled-coil	NA
+Amphilophus_citrinellus	ing3	ENSACIG00000004072	ING	NA
+Amphilophus_citrinellus	noc2l	ENSACIG00000004084	Others	NA
+Amphilophus_citrinellus	chd9	ENSACIG00000004097	CHD	NA
+Amphilophus_citrinellus	dab2	ENSACIG00000004099	Others	NA
+Amphilophus_citrinellus	sfr1	ENSACIG00000004117	Others	NA
+Amphilophus_citrinellus	ANP32E	ENSACIG00000004143	ANP	NA
+Amphilophus_citrinellus	wwox	ENSACIG00000004150	WW	NA
+Amphilophus_citrinellus	tcea1	ENSACIG00000004191	TEF	NA
+Amphilophus_citrinellus	hdac12	ENSACIG00000004276	Histone deacetylase	NA
+Amphilophus_citrinellus	hdac6	ENSACIG00000004282	Histone deacetylase	NA
+Amphilophus_citrinellus	nod2	ENSACIG00000004283	Others	NA
+Amphilophus_citrinellus	auts2a	ENSACIG00000004308	Others	NA
+Amphilophus_citrinellus	brd7	ENSACIG00000004326	Bromodomain	NA
+Amphilophus_citrinellus	eno1a	ENSACIG00000004328	Others	NA
+Amphilophus_citrinellus	suz12b	ENSACIG00000004342	Others	NA
+Amphilophus_citrinellus	rbm15	ENSACIG00000004343	RNA binding protein	NA
+Amphilophus_citrinellus	erbin	ENSACIG00000004392	Erbb2	NA
+Amphilophus_citrinellus	med13a	ENSACIG00000004400	Mediator complex	NA
+Amphilophus_citrinellus	smyd1b	ENSACIG00000004413	SMYD	NA
+Amphilophus_citrinellus	morf4l1	ENSACIG00000004474	Other_CRF	NA
+Amphilophus_citrinellus	tle3b	ENSACIG00000004505	Transducin	NA
+Amphilophus_citrinellus	hsbp1b	ENSACIG00000004506	Heat shock protein	NA
+Amphilophus_citrinellus	tonsl	ENSACIG00000004511	Others	NA
+Amphilophus_citrinellus	ddx39b	ENSACIG00000004534	RNA helicase	NA
+Amphilophus_citrinellus	tab1	ENSACIG00000004538	Others	NA
+Amphilophus_citrinellus	ascc3	ENSACIG00000004551	ASCC	NA
+Amphilophus_citrinellus	trim16	ENSACIG00000004582	Tripartite motif	NA
+Amphilophus_citrinellus	wwp1	ENSACIG00000004598	WW	NA
+Amphilophus_citrinellus	nipbla	ENSACIG00000004615	Others	NA
+Amphilophus_citrinellus	YWHAB	ENSACIG00000004625	Others	NA
+Amphilophus_citrinellus	rnf2	ENSACIG00000004691	Ring finger protein	NA
+Amphilophus_citrinellus	fgfr2	ENSACIG00000004708	FGF	NA
+Amphilophus_citrinellus	ruvbl2	ENSACIG00000004736	Other_CRF	NA
+Amphilophus_citrinellus	znf593	ENSACIG00000004744	Zinc finger	NA
+Amphilophus_citrinellus	hdac4	ENSACIG00000004789	Histone deacetylase	NA
+Amphilophus_citrinellus	ss18l2	ENSACIG00000004799	SS18	NA
+Amphilophus_citrinellus	supt6h	ENSACIG00000004887	SUPT	NA
+Amphilophus_citrinellus	arhgap5	ENSACIG00000004897	Others	NA
+Amphilophus_citrinellus	loxl3b	ENSACIG00000004912	Others	NA
+Amphilophus_citrinellus	abt1	ENSACIG00000004935	Others	NA
+Amphilophus_citrinellus	yeats2	ENSACIG00000004990	Others	NA
+Amphilophus_citrinellus	hltf	ENSACIG00000005072	Others	NA
+Amphilophus_citrinellus	med28	ENSACIG00000005097	Mediator complex	NA
+Amphilophus_citrinellus	ccnt1	ENSACIG00000005132	Cyclin	NA
+Amphilophus_citrinellus	crtc1b	ENSACIG00000005163	CREB	NA
+Amphilophus_citrinellus	eapp	ENSACIG00000005205	Others	NA
+Amphilophus_citrinellus	pidd1	ENSACIG00000005211	Others	NA
+Amphilophus_citrinellus	arl2bp	ENSACIG00000005241	Others	NA
+Amphilophus_citrinellus	CDYL2	ENSACIG00000005321	Chromodomain Y	NA
+Amphilophus_citrinellus	pih1d1	ENSACIG00000005331	Other_CRF	NA
+Amphilophus_citrinellus	ago3a	ENSACIG00000005333	Others	NA
+Amphilophus_citrinellus	nrip1b	ENSACIG00000005346	Nuclear receptor coactivator	NA
+Amphilophus_citrinellus	edrf1	ENSACIG00000005350	Others	NA
+Amphilophus_citrinellus	axin1	ENSACIG00000005354	Others	NA
+Amphilophus_citrinellus	skia	ENSACIG00000005375	SKI	NA
+Amphilophus_citrinellus	med17	ENSACIG00000005393	Mediator complex	NA
+Amphilophus_citrinellus	hipk3b	ENSACIG00000005485	HIPK	NA
+Amphilophus_citrinellus	phip	ENSACIG00000005569	Others	NA
+Amphilophus_citrinellus	prmt5	ENSACIG00000005601	Arginine methyltransferase	NA
+Amphilophus_citrinellus	kdm8	ENSACIG00000005665	Lysine demethylase	NA
+Amphilophus_citrinellus	lin9	ENSACIG00000005720	Others	NA
+Amphilophus_citrinellus	si:dkey-103i16.6	ENSACIG00000005723	Sirtuin	NA
+Amphilophus_citrinellus		ENSACIG00000005724	Others	NA
+Amphilophus_citrinellus		ENSACIG00000005757	SMYD	NA
+Amphilophus_citrinellus	ttf2	ENSACIG00000005837	Others	NA
+Amphilophus_citrinellus	zmym2	ENSACIG00000005928	Zinc finger	NA
+Amphilophus_citrinellus	pim1	ENSACIG00000005947	Others	NA
+Amphilophus_citrinellus	dnajb1a	ENSACIG00000005952	Others	NA
+Amphilophus_citrinellus	egln1a	ENSACIG00000005978	Others	NA
+Amphilophus_citrinellus	nudt5	ENSACIG00000005996	Other_CRF	NA
+Amphilophus_citrinellus	lin54	ENSACIG00000006005	Others	NA
+Amphilophus_citrinellus	ccnk	ENSACIG00000006007	Cyclin	NA
+Amphilophus_citrinellus	NEDD8	ENSACIG00000006026	Others	NA
+Amphilophus_citrinellus	smurf2	ENSACIG00000006043	Others	NA
+Amphilophus_citrinellus	med25	ENSACIG00000006129	Mediator complex	NA
+Amphilophus_citrinellus	slc19a1	ENSACIG00000006141	SLC	NA
+Amphilophus_citrinellus	nol11	ENSACIG00000006183	Nuclear coactivator	NA
+Amphilophus_citrinellus	brd3a	ENSACIG00000006207	Bromodomain	NA
+Amphilophus_citrinellus	eaf1	ENSACIG00000006209	Others	NA
+Amphilophus_citrinellus	ctdp1	ENSACIG00000006219	Others	NA
+Amphilophus_citrinellus	safb	ENSACIG00000006247	Others	NA
+Amphilophus_citrinellus	RING1	ENSACIG00000006271	Ring finger protein	NA
+Amphilophus_citrinellus	fbp2	ENSACIG00000006283	Others	NA
+Amphilophus_citrinellus		ENSACIG00000006308	Heat shock protein	NA
+Amphilophus_citrinellus	mrtfba	ENSACIG00000006315	Others	NA
+Amphilophus_citrinellus	gtf2f1	ENSACIG00000006324	GTF	NA
+Amphilophus_citrinellus	nsd3	ENSACIG00000006333	Nuclear receptor coactivator	NA
+Amphilophus_citrinellus	alyref	ENSACIG00000006351	Others	NA
+Amphilophus_citrinellus	si:dkey-6i22.5	ENSACIG00000006383	Others	NA
+Amphilophus_citrinellus	ikbkg	ENSACIG00000006391	Others	NA
+Amphilophus_citrinellus	med19a	ENSACIG00000006398	Mediator complex	NA
+Amphilophus_citrinellus	recql5	ENSACIG00000006402	Others	NA
+Amphilophus_citrinellus	sdr16c5a	ENSACIG00000006412	Others	NA
+Amphilophus_citrinellus	chd8	ENSACIG00000006440	CHD	NA
+Amphilophus_citrinellus	phf19	ENSACIG00000006453	PHF	NA
+Amphilophus_citrinellus	DDX5	ENSACIG00000006502	RNA helicase	NA
+Amphilophus_citrinellus	taf5	ENSACIG00000006505	TATA-box	NA
+Amphilophus_citrinellus	daxx	ENSACIG00000006527	Other_CRF	NA
+Amphilophus_citrinellus	cnot3a	ENSACIG00000006635	CCR4-NOT	NA
+Amphilophus_citrinellus		ENSACIG00000006679	Others	NA
+Amphilophus_citrinellus	ran	ENSACIG00000006702	Others	NA
+Amphilophus_citrinellus	polr3f	ENSACIG00000006705	POLR	NA
+Amphilophus_citrinellus	snw1	ENSACIG00000006773	Others	NA
+Amphilophus_citrinellus	gtf2h2	ENSACIG00000006820	GTF	NA
+Amphilophus_citrinellus	gtf2h1	ENSACIG00000006839	GTF	NA
+Amphilophus_citrinellus	tyw5	ENSACIG00000006862	Others	NA
+Amphilophus_citrinellus	kdm2ab	ENSACIG00000006916	Lysine demethylase	NA
+Amphilophus_citrinellus	SAMD4B	ENSACIG00000006939	Others	NA
+Amphilophus_citrinellus		ENSACIG00000006998	Others	NA
+Amphilophus_citrinellus	rrn3	ENSACIG00000007073	Others	NA
+Amphilophus_citrinellus	actn2b	ENSACIG00000007155	Actin	NA
+Amphilophus_citrinellus	med27	ENSACIG00000007175	Mediator complex	NA
+Amphilophus_citrinellus	sap130a	ENSACIG00000007254	SAP	NA
+Amphilophus_citrinellus	STRN	ENSACIG00000007295	Others	NA
+Amphilophus_citrinellus	skila	ENSACIG00000007352	SKI	NA
+Amphilophus_citrinellus	dapk3	ENSACIG00000007416	Others	NA
+Amphilophus_citrinellus	ogt.1	ENSACIG00000007421	Others	NA
+Amphilophus_citrinellus	hira	ENSACIG00000007433	Others	NA
+Amphilophus_citrinellus	picalmb	ENSACIG00000007509	Others	NA
+Amphilophus_citrinellus	tbp	ENSACIG00000007577	TATA-box	NA
+Amphilophus_citrinellus	cep290	ENSACIG00000007599	Others	NA
+Amphilophus_citrinellus	lzts1	ENSACIG00000007633	Others	NA
+Amphilophus_citrinellus	sin3b	ENSACIG00000007664	Others	NA
+Amphilophus_citrinellus	insra	ENSACIG00000007680	Others	NA
+Amphilophus_citrinellus	dnmt1	ENSACIG00000007700	DNA_methylase	NA
+Amphilophus_citrinellus	ecd	ENSACIG00000007740	Others	NA
+Amphilophus_citrinellus	ascc2	ENSACIG00000007885	ASCC	NA
+Amphilophus_citrinellus	ela3l	ENSACIG00000007902	Others	NA
+Amphilophus_citrinellus	lrrk2	ENSACIG00000007928	Other_CRF	NA
+Amphilophus_citrinellus	phf10	ENSACIG00000007933	PHF	NA
+Amphilophus_citrinellus	si:dkeyp-118b1.2	ENSACIG00000007998	Others	NA
+Amphilophus_citrinellus	ercc2	ENSACIG00000008002	Others	NA
+Amphilophus_citrinellus	park7	ENSACIG00000008041	Others	NA
+Amphilophus_citrinellus	polr3c	ENSACIG00000008064	POLR	NA
+Amphilophus_citrinellus	jupa	ENSACIG00000008093	Others	NA
+Amphilophus_citrinellus	smyd2a	ENSACIG00000008136	SMYD	NA
+Amphilophus_citrinellus	gtf2h5	ENSACIG00000008156	GTF	NA
+Amphilophus_citrinellus	ldb1b	ENSACIG00000008206	LIM	NA
+Amphilophus_citrinellus	baz1b	ENSACIG00000008287	Bromodomain	NA
+Amphilophus_citrinellus	ccnc	ENSACIG00000008302	Cyclin	NA
+Amphilophus_citrinellus	hnrnpd	ENSACIG00000008353	HNRNP	NA
+Amphilophus_citrinellus	calr	ENSACIG00000008509	Others	NA
+Amphilophus_citrinellus	brd1a	ENSACIG00000008530	Bromodomain	NA
+Amphilophus_citrinellus	TNKS	ENSACIG00000008534	NFKB associated	NA
+Amphilophus_citrinellus	hexim1	ENSACIG00000008752	Others	NA
+Amphilophus_citrinellus	tfb2m	ENSACIG00000008758	Others	NA
+Amphilophus_citrinellus	sirt7	ENSACIG00000008760	Sirtuin	NA
+Amphilophus_citrinellus	ccne1	ENSACIG00000008891	Cyclin	NA
+Amphilophus_citrinellus	smurf1	ENSACIG00000008901	Others	NA
+Amphilophus_citrinellus	nsmce4a	ENSACIG00000008948	EID	NA
+Amphilophus_citrinellus	MID1IP1	ENSACIG00000008974	Others	NA
+Amphilophus_citrinellus		ENSACIG00000008980	Actin	NA
+Amphilophus_citrinellus	dnmt3bb.1	ENSACIG00000009003	DNA_methylase	NA
+Amphilophus_citrinellus	ndnl2	ENSACIG00000009247	MAGE	NA
+Amphilophus_citrinellus	PHF21B	ENSACIG00000009285	PHF	NA
+Amphilophus_citrinellus	creg1	ENSACIG00000009311	Others	NA
+Amphilophus_citrinellus	tnip1	ENSACIG00000009316	Others	NA
+Amphilophus_citrinellus	kdm5a	ENSACIG00000009344	Lysine demethylase	NA
+Amphilophus_citrinellus	HINT1	ENSACIG00000009379	Others	NA
+Amphilophus_citrinellus	prmt2	ENSACIG00000009460	Arginine methyltransferase	NA
+Amphilophus_citrinellus	clu	ENSACIG00000009468	Others	NA
+Amphilophus_citrinellus	smarcb1b	ENSACIG00000009494	SWI/SNF	NA
+Amphilophus_citrinellus	lrpprc	ENSACIG00000009604	Others	NA
+Amphilophus_citrinellus	supt16h	ENSACIG00000009621	SUPT	NA
+Amphilophus_citrinellus		ENSACIG00000009644	Others	NA
+Amphilophus_citrinellus	SFMBT1	ENSACIG00000009660	Others	NA
+Amphilophus_citrinellus	hipk2	ENSACIG00000009726	HIPK	NA
+Amphilophus_citrinellus	rbx1	ENSACIG00000009731	Others	NA
+Amphilophus_citrinellus	taf1b	ENSACIG00000009748	TATA-box	NA
+Amphilophus_citrinellus		ENSACIG00000009797	Ring finger protein	NA
+Amphilophus_citrinellus	sqstm1	ENSACIG00000009826	Others	NA
+Amphilophus_citrinellus	aip	ENSACIG00000009829	Others	NA
+Amphilophus_citrinellus	aurkaip1	ENSACIG00000009870	Others	NA
+Amphilophus_citrinellus	cnot10	ENSACIG00000009933	CCR4-NOT	NA
+Amphilophus_citrinellus	ripply2	ENSACIG00000009954	Others	NA
+Amphilophus_citrinellus	sav1	ENSACIG00000009978	Others	NA
+Amphilophus_citrinellus	HYAL2	ENSACIG00000009984	Others	NA
+Amphilophus_citrinellus	taf2	ENSACIG00000010027	TATA-box	NA
+Amphilophus_citrinellus	prmt8b	ENSACIG00000010079	Arginine methyltransferase	NA
+Amphilophus_citrinellus	kdm4b	ENSACIG00000010089	Lysine demethylase	NA
+Amphilophus_citrinellus	bcas3	ENSACIG00000010278	Others	NA
+Amphilophus_citrinellus	ccdc85b	ENSACIG00000010323	Coiled-coil	NA
+Amphilophus_citrinellus	mbtd1	ENSACIG00000010352	Others	NA
+Amphilophus_citrinellus	gmnn	ENSACIG00000010398	Others	NA
+Amphilophus_citrinellus	orc2	ENSACIG00000010403	Others	NA
+Amphilophus_citrinellus	kat5b	ENSACIG00000010425	Lysine acetyltransferase	NA
+Amphilophus_citrinellus	brip1	ENSACIG00000010448	Others	NA
+Amphilophus_citrinellus	tdp2b	ENSACIG00000010449	Others	NA
+Amphilophus_citrinellus	syk	ENSACIG00000010462	Others	NA
+Amphilophus_citrinellus	adrb1	ENSACIG00000010487	Others	NA
+Amphilophus_citrinellus	rbbp5	ENSACIG00000010528	RBBP	NA
+Amphilophus_citrinellus	dpf2	ENSACIG00000010529	DPF	NA
+Amphilophus_citrinellus	kdm5c	ENSACIG00000010559	Lysine demethylase	NA
+Amphilophus_citrinellus	trip4	ENSACIG00000010577	Thyroid hormone receptor	NA
+Amphilophus_citrinellus	chrac1	ENSACIG00000010600	Other_CRF	NA
+Amphilophus_citrinellus	chd1	ENSACIG00000010607	CHD	NA
+Amphilophus_citrinellus		ENSACIG00000010616	Others	NA
+Amphilophus_citrinellus	cxxc1b	ENSACIG00000010624	Others	NA
+Amphilophus_citrinellus	rbl1	ENSACIG00000010638	Other_Co-activator/repressors	NA
+Amphilophus_citrinellus	rnf14	ENSACIG00000010648	Ring finger protein	NA
+Amphilophus_citrinellus	apex1	ENSACIG00000010653	Others	NA
+Amphilophus_citrinellus	wdtc1	ENSACIG00000010658	WD	NA
+Amphilophus_citrinellus	lrrc14b	ENSACIG00000010694	Others	NA
+Amphilophus_citrinellus		ENSACIG00000010801	Other_CRF	NA
+Amphilophus_citrinellus	nelfb	ENSACIG00000010808	GTF	NA
+Amphilophus_citrinellus	ewsr1b	ENSACIG00000010829	Others	NA
+Amphilophus_citrinellus	kat2a	ENSACIG00000010830	Lysine acetyltransferase	NA
+Amphilophus_citrinellus	dyrk1b	ENSACIG00000010858	Others	NA
+Amphilophus_citrinellus	supt7l	ENSACIG00000010921	SUPT	NA
+Amphilophus_citrinellus	zgc:162255	ENSACIG00000011001	Other_CRF	NA
+Amphilophus_citrinellus	ELOF1	ENSACIG00000011082	GTF	NA
+Amphilophus_citrinellus	ash1l	ENSACIG00000011095	Others	NA
+Amphilophus_citrinellus	top1l	ENSACIG00000011152	Other_CRF	NA
+Amphilophus_citrinellus	padi2	ENSACIG00000011164	Other_CRF	NA
+Amphilophus_citrinellus	lgals9l6	ENSACIG00000011476	Others	NA
+Amphilophus_citrinellus	apbb2b	ENSACIG00000011492	Others	NA
+Amphilophus_citrinellus	TADA1	ENSACIG00000011522	Transcriptional adaptor	NA
+Amphilophus_citrinellus	rbmx	ENSACIG00000011576	RNA binding protein	NA
+Amphilophus_citrinellus		ENSACIG00000011583	Others	NA
+Amphilophus_citrinellus	trib1	ENSACIG00000011624	Others	NA
+Amphilophus_citrinellus	EZH1	ENSACIG00000011678	Others	NA
+Amphilophus_citrinellus	phf20a	ENSACIG00000011707	PHF	NA
+Amphilophus_citrinellus	tdg.1	ENSACIG00000011718	Others	NA
+Amphilophus_citrinellus	ankrd1a	ENSACIG00000011747	Ankyrin repeat	NA
+Amphilophus_citrinellus	pcgf5a	ENSACIG00000011765	PCGF	NA
+Amphilophus_citrinellus	sirt5	ENSACIG00000011788	Sirtuin	NA
+Amphilophus_citrinellus	pid1	ENSACIG00000011846	Others	NA
+Amphilophus_citrinellus	taf7	ENSACIG00000011869	TATA-box	NA
+Amphilophus_citrinellus	ing4	ENSACIG00000011881	ING	NA
+Amphilophus_citrinellus	ncoa3	ENSACIG00000011947	Nuclear receptor coactivator	NA
+Amphilophus_citrinellus	dmap1	ENSACIG00000011992	DNA_methylase	NA
+Amphilophus_citrinellus	actn1	ENSACIG00000012070	Actin	NA
+Amphilophus_citrinellus	psen1	ENSACIG00000012134	Others	NA
+Amphilophus_citrinellus	hnrnpub	ENSACIG00000012138	HNRNP	NA
+Amphilophus_citrinellus	supt4h1	ENSACIG00000012162	SUPT	NA
+Amphilophus_citrinellus	cdk9	ENSACIG00000012171	Cyclin	NA
+Amphilophus_citrinellus	med6	ENSACIG00000012179	Mediator complex	NA
+Amphilophus_citrinellus	cthl	ENSACIG00000012279	Others	NA
+Amphilophus_citrinellus	taf5l	ENSACIG00000012293	TATA-box	NA
+Amphilophus_citrinellus	tab3	ENSACIG00000012305	Others	NA
+Amphilophus_citrinellus	KDM5B	ENSACIG00000012388	Lysine demethylase	NA
+Amphilophus_citrinellus	skap1	ENSACIG00000012394	Others	NA
+Amphilophus_citrinellus	sin3aa	ENSACIG00000012467	Other_CRF	NA
+Amphilophus_citrinellus	prmt7	ENSACIG00000012487	Arginine methyltransferase	NA
+Amphilophus_citrinellus	c1qbp	ENSACIG00000012577	Others	NA
+Amphilophus_citrinellus	chd5	ENSACIG00000012582	CHD	NA
+Amphilophus_citrinellus	si:ch73-60h1.1	ENSACIG00000012583	CAMK	NA
+Amphilophus_citrinellus	dhx33	ENSACIG00000012591	RNA helicase	NA
+Amphilophus_citrinellus	tada3l	ENSACIG00000012641	Transcriptional adaptor	NA
+Amphilophus_citrinellus		ENSACIG00000012669	Lysine demethylase	NA
+Amphilophus_citrinellus	c1d	ENSACIG00000012684	Other_Co-activator/repressors	NA
+Amphilophus_citrinellus	actl6a	ENSACIG00000012720	Actin	NA
+Amphilophus_citrinellus	cdk5rap3	ENSACIG00000012797	Cyclin	NA
+Amphilophus_citrinellus	hdac8	ENSACIG00000012815	Histone deacetylase	NA
+Amphilophus_citrinellus	CRK	ENSACIG00000012862	Others	NA
+Amphilophus_citrinellus	PELI1	ENSACIG00000012890	Others	NA
+Amphilophus_citrinellus	nfkbiaa	ENSACIG00000012962	NFKB associated	NA
+Amphilophus_citrinellus	cbx5	ENSACIG00000012966	Chromobox	NA
+Amphilophus_citrinellus	brms1lb	ENSACIG00000012983	Other_CRF	NA
+Amphilophus_citrinellus	med10	ENSACIG00000013013	Mediator complex	NA
+Amphilophus_citrinellus	cdk5r1b	ENSACIG00000013056	Cyclin	NA
+Amphilophus_citrinellus	macroh2a1	ENSACIG00000013071	Others	NA
+Amphilophus_citrinellus	sap30l	ENSACIG00000013089	SAP	NA
+Amphilophus_citrinellus	ddx20	ENSACIG00000013095	RNA helicase	NA
+Amphilophus_citrinellus	PCBD2	ENSACIG00000013103	Others	NA
+Amphilophus_citrinellus	tprb	ENSACIG00000013110	Others	NA
+Amphilophus_citrinellus	wnt3	ENSACIG00000013133	Others	NA
+Amphilophus_citrinellus	ncl	ENSACIG00000013234	Others	NA
+Amphilophus_citrinellus	tp53bp1	ENSACIG00000013282	Others	NA
+Amphilophus_citrinellus	CHUK	ENSACIG00000013304	Others	NA
+Amphilophus_citrinellus	cidec	ENSACIG00000013378	Others	NA
+Amphilophus_citrinellus	txnipa	ENSACIG00000013388	Others	NA
+Amphilophus_citrinellus	calcoco1a	ENSACIG00000013398	Others	NA
+Amphilophus_citrinellus	smarcd2	ENSACIG00000013435	SWI/SNF	NA
+Amphilophus_citrinellus	nrip2	ENSACIG00000013461	Nuclear coactivator	NA
+Amphilophus_citrinellus	ilf2	ENSACIG00000013471	Others	NA
+Amphilophus_citrinellus	emsy	ENSACIG00000013498	Others	NA
+Amphilophus_citrinellus	plk3	ENSACIG00000013540	Others	NA
+Amphilophus_citrinellus	nup98	ENSACIG00000013552	Others	NA
+Amphilophus_citrinellus	hck	ENSACIG00000013564	Others	NA
+Amphilophus_citrinellus	ino80c	ENSACIG00000013594	INO80 complex	NA
+Amphilophus_citrinellus	suv39h1a	ENSACIG00000013660	Others	NA
+Amphilophus_citrinellus		ENSACIG00000013664	Others	NA
+Amphilophus_citrinellus	rad21b	ENSACIG00000013672	Others	NA
+Amphilophus_citrinellus	rbpms2b	ENSACIG00000013696	RNA binding protein	NA
+Amphilophus_citrinellus	carm1	ENSACIG00000013700	Others	NA
+Amphilophus_citrinellus		ENSACIG00000013705	Others	NA
+Amphilophus_citrinellus	DUSP26	ENSACIG00000013729	Others	NA
+Amphilophus_citrinellus	med30	ENSACIG00000013739	Mediator complex	NA
+Amphilophus_citrinellus	gtf2a1	ENSACIG00000013760	GTF	NA
+Amphilophus_citrinellus	abrab	ENSACIG00000013786	Actin	NA
+Amphilophus_citrinellus	cry1a	ENSACIG00000013832	Others	NA
+Amphilophus_citrinellus	ash2l	ENSACIG00000013858	Others	NA
+Amphilophus_citrinellus	taf1a	ENSACIG00000013941	TATA-box	NA
+Amphilophus_citrinellus	btk	ENSACIG00000013985	Others	NA
+Amphilophus_citrinellus	rnf8	ENSACIG00000014044	Ring finger protein	NA
+Amphilophus_citrinellus	trak1a	ENSACIG00000014069	Others	NA
+Amphilophus_citrinellus	ssbp4	ENSACIG00000014107	Others	NA
+Amphilophus_citrinellus	erbb2	ENSACIG00000014118	Erbb2	NA
+Amphilophus_citrinellus	kdm1a	ENSACIG00000014179	Lysine demethylase	NA
+Amphilophus_citrinellus	ell	ENSACIG00000014191	GTF	NA
+Amphilophus_citrinellus	smarcd1	ENSACIG00000014199	SWI/SNF	NA
+Amphilophus_citrinellus	npm1a	ENSACIG00000014201	Nucleoplasmin	NA
+Amphilophus_citrinellus	med12	ENSACIG00000014210	Mediator complex	NA
+Amphilophus_citrinellus	dot1l	ENSACIG00000014278	Others	NA
+Amphilophus_citrinellus	gtf2e1	ENSACIG00000014316	GTF	NA
+Amphilophus_citrinellus		ENSACIG00000014326	Others	NA
+Amphilophus_citrinellus	TGFB1I1	ENSACIG00000014337	Others	NA
+Amphilophus_citrinellus		ENSACIG00000014489	Others	NA
+Amphilophus_citrinellus	plrg1	ENSACIG00000014495	Others	NA
+Amphilophus_citrinellus	dcc	ENSACIG00000014551	Others	NA
+Amphilophus_citrinellus	trim33	ENSACIG00000014617	Tripartite motif	NA
+Amphilophus_citrinellus	tnip2	ENSACIG00000014620	Others	NA
+Amphilophus_citrinellus	siva1	ENSACIG00000014622	Others	NA
+Amphilophus_citrinellus	grip1	ENSACIG00000014642	Others	NA
+Amphilophus_citrinellus	tenm1	ENSACIG00000014683	Others	NA
+Amphilophus_citrinellus	prdx5	ENSACIG00000014774	Others	NA
+Amphilophus_citrinellus	gps2	ENSACIG00000014776	Others	NA
+Amphilophus_citrinellus	fbxw11a	ENSACIG00000014780	Others	NA
+Amphilophus_citrinellus	bend3	ENSACIG00000014792	Others	NA
+Amphilophus_citrinellus	arhgap35b	ENSACIG00000014808	Others	NA
+Amphilophus_citrinellus	hnrpkl	ENSACIG00000014814	HNRNP	NA
+Amphilophus_citrinellus	mtor	ENSACIG00000014848	Others	NA
+Amphilophus_citrinellus	med11	ENSACIG00000014873	Mediator complex	NA
+Amphilophus_citrinellus	pagr1	ENSACIG00000014904	Others	NA
+Amphilophus_citrinellus	pink1	ENSACIG00000014971	Others	NA
+Amphilophus_citrinellus	pik3r1	ENSACIG00000014989	Others	NA
+Amphilophus_citrinellus	s100b	ENSACIG00000014996	Others	NA
+Amphilophus_citrinellus	nif3l1	ENSACIG00000015020	Others	NA
+Amphilophus_citrinellus	tnni2a.1	ENSACIG00000015042	Others	NA
+Amphilophus_citrinellus	xrn2	ENSACIG00000015047	Others	NA
+Amphilophus_citrinellus	TENM2	ENSACIG00000015090	Others	NA
+Amphilophus_citrinellus	per2	ENSACIG00000015164	Others	NA
+Amphilophus_citrinellus	meaf6	ENSACIG00000015202	Others	NA
+Amphilophus_citrinellus	aatf	ENSACIG00000015239	Others	NA
+Amphilophus_citrinellus	ccnt2a	ENSACIG00000015242	Cyclin	NA
+Amphilophus_citrinellus	FAM83G	ENSACIG00000015290	FAM	NA
+Amphilophus_citrinellus	thrap3b	ENSACIG00000015331	Thyroid hormone receptor	NA
+Amphilophus_citrinellus	heatr1	ENSACIG00000015343	Others	NA
+Amphilophus_citrinellus	taf1	ENSACIG00000015393	TATA-box	NA
+Amphilophus_citrinellus	rbbp4	ENSACIG00000015402	RBBP	NA
+Amphilophus_citrinellus	kank1a	ENSACIG00000015403	Others	NA
+Amphilophus_citrinellus	trip13	ENSACIG00000015405	Thyroid hormone receptor	NA
+Amphilophus_citrinellus	naa15a	ENSACIG00000015432	Others	NA
+Amphilophus_citrinellus	dnaja3a	ENSACIG00000015474	Others	NA
+Amphilophus_citrinellus	med7	ENSACIG00000015483	Mediator complex	NA
+Amphilophus_citrinellus	cbfa2t2	ENSACIG00000015486	Others	NA
+Amphilophus_citrinellus	med8	ENSACIG00000015504	Mediator complex	NA
+Amphilophus_citrinellus	rb1	ENSACIG00000015514	Other_Co-activator/repressors	NA
+Amphilophus_citrinellus	med23	ENSACIG00000015527	Mediator complex	NA
+Amphilophus_citrinellus	crebbpa	ENSACIG00000015535	CREB	NA
+Amphilophus_citrinellus		ENSACIG00000015583	Transducin	NA
+Amphilophus_citrinellus	grhpra	ENSACIG00000015587	Others	NA
+Amphilophus_citrinellus	SMARCA2	ENSACIG00000015607	SWI/SNF	NA
+Amphilophus_citrinellus	nab1a	ENSACIG00000015646	Others	NA
+Amphilophus_citrinellus	fbxw7	ENSACIG00000015737	Others	NA
+Amphilophus_citrinellus	dr1	ENSACIG00000015836	Others	NA
+Amphilophus_citrinellus	tescb	ENSACIG00000015880	Others	NA
+Amphilophus_citrinellus	setd6	ENSACIG00000015929	SET	NA
+Amphilophus_citrinellus	si:dkey-219c3.2	ENSACIG00000015960	TATA-box	NA
+Amphilophus_citrinellus	polr2a	ENSACIG00000015982	POLR	NA
+Amphilophus_citrinellus	taf6l	ENSACIG00000015997	TATA-box	NA
+Amphilophus_citrinellus	cnot1	ENSACIG00000016003	CCR4-NOT	NA
+Amphilophus_citrinellus	drap1	ENSACIG00000016012	Others	NA
+Amphilophus_citrinellus	ss18	ENSACIG00000016031	SS18	NA
+Amphilophus_citrinellus		ENSACIG00000016085	Others	NA
+Amphilophus_citrinellus	si:dkey-21c19.3	ENSACIG00000016151	Others	NA
+Amphilophus_citrinellus	NDUFA13	ENSACIG00000016189	Others	NA
+Amphilophus_citrinellus	itchb	ENSACIG00000016245	Others	NA
+Amphilophus_citrinellus	sumo1	ENSACIG00000016247	Others	NA
+Amphilophus_citrinellus	men1	ENSACIG00000016274	Others	NA
+Amphilophus_citrinellus	dhx36	ENSACIG00000016290	RNA helicase	NA
+Amphilophus_citrinellus	elp2	ENSACIG00000016294	ELP	NA
+Amphilophus_citrinellus	flii	ENSACIG00000016334	Others	NA
+Amphilophus_citrinellus	rnf141	ENSACIG00000016337	Ring finger protein	NA
+Amphilophus_citrinellus	siah1	ENSACIG00000016422	Others	NA
+Amphilophus_citrinellus	dhx9	ENSACIG00000016431	RNA helicase	NA
+Amphilophus_citrinellus	pdcd4b	ENSACIG00000016432	Others	NA
+Amphilophus_citrinellus	setd1ba	ENSACIG00000016453	SET	NA
+Amphilophus_citrinellus		ENSACIG00000016477	BCL	NA
+Amphilophus_citrinellus	stk3	ENSACIG00000016478	Others	NA
+Amphilophus_citrinellus	H2AZ1	ENSACIG00000016496	Others	NA
+Amphilophus_citrinellus	sf1	ENSACIG00000016514	Others	NA
+Amphilophus_citrinellus	cnot6b	ENSACIG00000016566	CCR4-NOT	NA
+Amphilophus_citrinellus	hnrnpc	ENSACIG00000016568	HNRNP	NA
+Amphilophus_citrinellus		ENSACIG00000016578	Thyroid hormone receptor	NA
+Amphilophus_citrinellus	phf12b	ENSACIG00000016600	PHF	NA
+Amphilophus_citrinellus	kdm2bb	ENSACIG00000016601	Lysine demethylase	NA
+Amphilophus_citrinellus	brdt	ENSACIG00000016652	Bromodomain	NA
+Amphilophus_citrinellus	hdac7a	ENSACIG00000016655	Histone deacetylase	NA
+Amphilophus_citrinellus	tgfbr3	ENSACIG00000016693	Others	NA
+Amphilophus_citrinellus		ENSACIG00000016748	Other_CRF	NA
+Amphilophus_citrinellus	nelfe	ENSACIG00000016797	GTF	NA
+Amphilophus_citrinellus	med16	ENSACIG00000016915	Mediator complex	NA
+Amphilophus_citrinellus	dvl2	ENSACIG00000016934	Others	NA
+Amphilophus_citrinellus	eya4	ENSACIG00000016949	EYA	NA
+Amphilophus_citrinellus	smarca5	ENSACIG00000016982	SWI/SNF	NA
+Amphilophus_citrinellus	camk2d2	ENSACIG00000016990	CAMK	NA
+Amphilophus_citrinellus	SCMH1	ENSACIG00000017022	Others	NA
+Amphilophus_citrinellus	tbpl1	ENSACIG00000017023	TATA-box	NA
+Amphilophus_citrinellus	nlk2	ENSACIG00000017029	Others	NA
+Amphilophus_citrinellus	SGK1	ENSACIG00000017047	Others	NA
+Amphilophus_citrinellus	med18	ENSACIG00000017058	Mediator complex	NA
+Amphilophus_citrinellus	bcl9	ENSACIG00000017075	BCL	NA
+Amphilophus_citrinellus	loxl2a	ENSACIG00000017112	Others	NA
+Amphilophus_citrinellus	anp32a	ENSACIG00000017282	ANP	NA
+Amphilophus_citrinellus	LPIN2	ENSACIG00000017290	LPIN	NA
+Amphilophus_citrinellus	chaf1b	ENSACIG00000017355	Others	NA
+Amphilophus_citrinellus	src	ENSACIG00000017397	Others	NA
+Amphilophus_citrinellus	ddx1	ENSACIG00000017422	RNA helicase	NA
+Amphilophus_citrinellus		ENSACIG00000017574	Others	NA
+Amphilophus_citrinellus	sirt6	ENSACIG00000017596	Sirtuin	NA
+Amphilophus_citrinellus	si:ch73-21k16.1	ENSACIG00000017600	LPIN	NA
+Amphilophus_citrinellus	taf8	ENSACIG00000017717	TATA-box	NA
+Amphilophus_citrinellus		ENSACIG00000017776	MBD	NA
+Amphilophus_citrinellus	brf2	ENSACIG00000017804	GTF	NA
+Amphilophus_citrinellus	anxa4	ENSACIG00000017840	Others	NA
+Amphilophus_citrinellus	prmt1	ENSACIG00000017860	Arginine methyltransferase	NA
+Amphilophus_citrinellus		ENSACIG00000017894	Tripartite motif	NA
+Amphilophus_citrinellus	edf1	ENSACIG00000017965	Others	NA
+Amphilophus_citrinellus	trappc2	ENSACIG00000018030	Others	NA
+Amphilophus_citrinellus	trak2	ENSACIG00000018051	Others	NA
+Amphilophus_citrinellus	kcnip3b	ENSACIG00000018076	Others	NA
+Amphilophus_citrinellus	rtf1	ENSACIG00000018096	Others	NA
+Amphilophus_citrinellus	esf1	ENSACIG00000018305	Others	NA
+Amphilophus_citrinellus	trip11	ENSACIG00000018320	Thyroid hormone receptor	NA
+Amphilophus_citrinellus	rnf10	ENSACIG00000018417	Ring finger protein	NA
+Amphilophus_citrinellus	txlng	ENSACIG00000018420	Others	NA
+Amphilophus_citrinellus	ikbkb	ENSACIG00000018468	Others	NA
+Amphilophus_citrinellus	zmynd11	ENSACIG00000018491	Zinc finger	NA
+Amphilophus_citrinellus	ACTN4	ENSACIG00000018494	Actin	NA
+Amphilophus_citrinellus	srsf2a	ENSACIG00000018502	Others	NA
+Amphilophus_citrinellus	fhl3a	ENSACIG00000018508	FHL	NA
+Amphilophus_citrinellus	rbl2	ENSACIG00000018550	Other_Co-activator/repressors	NA
+Amphilophus_citrinellus	vgll4b	ENSACIG00000018575	Vestigial like	NA
+Amphilophus_citrinellus	anp32b	ENSACIG00000018600	ANP	NA
+Amphilophus_citrinellus	dpy30	ENSACIG00000018634	Others	NA
+Amphilophus_citrinellus	arglu1a	ENSACIG00000018653	Others	NA
+Amphilophus_citrinellus	cdkn1bb	ENSACIG00000018656	Cyclin	NA
+Amphilophus_citrinellus	sap18	ENSACIG00000018672	SAP	NA
+Amphilophus_citrinellus	pnrc2	ENSACIG00000018693	Others	NA
+Amphilophus_citrinellus	pspc1	ENSACIG00000018695	Others	NA
+Amphilophus_citrinellus	rhoab	ENSACIG00000018724	Others	NA
+Amphilophus_citrinellus	nelfa	ENSACIG00000018746	GTF	NA
+Amphilophus_citrinellus	tnksb	ENSACIG00000018757	Others	NA
+Amphilophus_citrinellus	ccnh	ENSACIG00000018761	Cyclin	NA
+Amphilophus_citrinellus	ccna2	ENSACIG00000018789	Cyclin	NA
+Amphilophus_citrinellus	phf21ab	ENSACIG00000018865	PHF	NA
+Amphilophus_citrinellus	cdk5	ENSACIG00000018892	Cyclin	NA
+Amphilophus_citrinellus	btf3	ENSACIG00000018902	Others	NA
+Amphilophus_citrinellus	hells	ENSACIG00000018996	Others	NA
+Amphilophus_citrinellus	actr6	ENSACIG00000019001	ACTR	NA
+Amphilophus_citrinellus	nck1a	ENSACIG00000019007	Others	NA
+Amphilophus_citrinellus		ENSACIG00000019021	Others	NA
+Amphilophus_citrinellus	pcgf1	ENSACIG00000019051	PCGF	NA
+Amphilophus_citrinellus	abl1	ENSACIG00000019070	Others	NA
+Amphilophus_citrinellus	flnca	ENSACIG00000019099	Others	NA
+Amphilophus_citrinellus	npm1b	ENSACIG00000019100	Nucleoplasmin	NA
+Amphilophus_citrinellus	ddx54	ENSACIG00000019104	RNA helicase	NA
+Amphilophus_citrinellus		ENSACIG00000019127	Others	NA
+Amphilophus_citrinellus	RAP2A	ENSACIG00000019158	Others	NA
+Amphilophus_citrinellus	runx1t1	ENSACIG00000019175	Others	NA
+Amphilophus_citrinellus	bcl10	ENSACIG00000019190	BCL	NA
+Amphilophus_citrinellus	hspa8	ENSACIG00000019204	Heat shock protein	NA
+Amphilophus_citrinellus	tob1b	ENSACIG00000019208	Others	NA
+Amphilophus_citrinellus	wwc1	ENSACIG00000019217	WW	NA
+Amphilophus_citrinellus	ssu72	ENSACIG00000019224	Others	NA
+Amphilophus_citrinellus	taf9	ENSACIG00000019252	TATA-box	NA
+Amphilophus_citrinellus	chd4a	ENSACIG00000019310	CHD	NA
+Amphilophus_citrinellus	fgf2	ENSACIG00000019324	FGF	NA
+Amphilophus_citrinellus	sap30bp	ENSACIG00000019326	SAP	NA
+Amphilophus_citrinellus	dvl3a	ENSACIG00000019339	Others	NA
+Amphilophus_citrinellus	arrb2a	ENSACIG00000019363	Others	NA
+Amphilophus_citrinellus	taf3	ENSACIG00000019422	TATA-box	NA
+Amphilophus_citrinellus	pak6b	ENSACIG00000019457	Others	NA
+Amphilophus_citrinellus	med20	ENSACIG00000019554	Mediator complex	NA
+Amphilophus_citrinellus	frzb	ENSACIG00000019583	Others	NA
+Amphilophus_citrinellus	wnt4	ENSACIG00000019601	Others	NA
+Amphilophus_citrinellus	chchd3a	ENSACIG00000019693	Coiled-coil	NA
+Amphilophus_citrinellus	MSL3	ENSACIG00000019703	Others	NA
+Amphilophus_citrinellus	kat2b	ENSACIG00000019715	Lysine acetyltransferase	NA
+Amphilophus_citrinellus	cdk1	ENSACIG00000019771	Cyclin	NA
+Amphilophus_citrinellus	prpf6	ENSACIG00000019862	Others	NA
+Amphilophus_citrinellus	ENY2	ENSACIG00000019878	Others	NA
+Amphilophus_citrinellus	egfra	ENSACIG00000019884	Others	NA
+Amphilophus_citrinellus	slc30a9	ENSACIG00000019889	SLC	NA
+Amphilophus_citrinellus	wbp2	ENSACIG00000019898	WW	NA
+Amphilophus_citrinellus	caskb	ENSACIG00000019914	CAMK	NA
+Amphilophus_citrinellus	ILK	ENSACIG00000019920	Others	NA
+Amphilophus_citrinellus	WDR77	ENSACIG00000019934	WD	NA
+Amphilophus_citrinellus	nono	ENSACIG00000019987	Others	NA
+Amphilophus_citrinellus	cops2	ENSACIG00000020020	Others	NA
+Amphilophus_citrinellus	trim25	ENSACIG00000020044	Tripartite motif	NA
+Amphilophus_citrinellus	thoc5	ENSACIG00000020045	Others	NA
+Amphilophus_citrinellus	trim32	ENSACIG00000020078	Tripartite motif	NA
+Amphilophus_citrinellus	ctnnb1	ENSACIG00000020115	Casein	NA
+Amphilophus_citrinellus	rptor	ENSACIG00000020222	Others	NA
+Amphilophus_citrinellus	fgfr1a	ENSACIG00000020256	FGF	NA
+Amphilophus_citrinellus	med14	ENSACIG00000020339	Mediator complex	NA
+Amphilophus_citrinellus	tasorb	ENSACIG00000020350	FAM	NA
+Amphilophus_citrinellus	epc1a	ENSACIG00000020388	Others	NA
+Amphilophus_citrinellus	pik3r2	ENSACIG00000020433	Others	NA
+Amphilophus_citrinellus		ENSACIG00000020502	Mediator complex	NA
+Amphilophus_citrinellus	DCAF1	ENSACIG00000020508	Others	NA
+Amphilophus_citrinellus	rasd1	ENSACIG00000020580	Others	NA
+Amphilophus_citrinellus	cnot2	ENSACIG00000020740	CCR4-NOT	NA
+Amphilophus_citrinellus	hdac5	ENSACIG00000020783	Histone deacetylase	NA
+Amphilophus_citrinellus	DTX1	ENSACIG00000020792	Others	NA
+Amphilophus_citrinellus	niban2a	ENSACIG00000020842	FAM	NA
+Amphilophus_citrinellus	strap	ENSACIG00000020986	Others	NA
+Amphilophus_citrinellus	pabpc1l	ENSACIG00000021004	Other_CRF	NA
+Amphilophus_citrinellus	cdk7	ENSACIG00000021019	Cyclin	NA
+Amphilophus_citrinellus	utp4	ENSACIG00000021065	Others	NA
+Amphilophus_citrinellus	prmt6	ENSACIG00000021067	Arginine methyltransferase	NA
+Amphilophus_citrinellus	smarcd3b	ENSACIG00000021100	SWI/SNF	NA
+Amphilophus_citrinellus	mms19	ENSACIG00000021123	Others	NA
+Amphilophus_citrinellus	traf6	ENSACIG00000021157	Others	NA
+Amphilophus_citrinellus	JMY	ENSACIG00000021243	Others	NA
+Amphilophus_citrinellus	supt5h	ENSACIG00000021245	SUPT	NA
+Amphilophus_citrinellus	mtf2	ENSACIG00000021275	Others	NA
+Amphilophus_citrinellus	xrcc6	ENSACIG00000021277	Others	NA
+Amphilophus_citrinellus	rybpa	ENSACIG00000021280	Others	NA
+Amphilophus_citrinellus	mycbp2	ENSACIG00000021282	MYC	NA
+Amphilophus_citrinellus	mrtfab	ENSACIG00000021331	Others	NA
+Amphilophus_citrinellus	smarca4a	ENSACIG00000021550	SWI/SNF	NA
+Amphilophus_citrinellus	cnot7	ENSACIG00000021599	CCR4-NOT	NA
+Amphilophus_citrinellus	bcor	ENSACIG00000021625	Other_Co-activator/repressors	NA
+Amphilophus_citrinellus	phf5a	ENSACIG00000021628	PHF	NA
+Amphilophus_citrinellus	ino80b	ENSACIG00000021644	INO80 complex	NA
+Amphilophus_citrinellus	tirap	ENSACIG00000021647	Others	NA
+Amphilophus_citrinellus	puf60b	ENSACIG00000021705	Others	NA
+Amphilophus_citrinellus	ern1	ENSACIG00000021716	Others	NA
+Amphilophus_citrinellus	rnf6	ENSACIG00000021751	Ring finger protein	NA
+Amphilophus_citrinellus	cdk8	ENSACIG00000021765	Cyclin	NA
+Amphilophus_citrinellus	setd7	ENSACIG00000021824	SET	NA
+Amphilophus_citrinellus	tgfb1a	ENSACIG00000021830	Others	NA
+Amphilophus_citrinellus	CTBP1	ENSACIG00000021871	Others	NA
+Amphilophus_citrinellus	snx6	ENSACIG00000021884	Others	NA
+Amphilophus_citrinellus	eya3	ENSACIG00000021942	EYA	NA
+Amphilophus_citrinellus	pycard	ENSACIG00000022007	Others	NA
+Amphilophus_citrinellus	setd3	ENSACIG00000022102	SET	NA
+Amphilophus_citrinellus	tes	ENSACIG00000022199	LIM	NA
+Amphilophus_citrinellus	elp3	ENSACIG00000022227	ELP	NA
+Amphilophus_citrinellus	brf1b	ENSACIG00000022338	GTF	NA
+Amphilophus_citrinellus		ENSACIG00000022353	Bromodomain	NA
+Amphilophus_citrinellus	ruvbl1	ENSACIG00000022419	Other_CRF	NA
+Amphilophus_citrinellus	HDAC3	ENSACIG00000022451	Histone deacetylase	NA
+Amphilophus_citrinellus	cops5	ENSACIG00000022527	Others	NA
+Amphilophus_citrinellus	taf10	ENSACIG00000022564	TATA-box	NA
+Amphilophus_citrinellus	npm3	ENSACIG00000022586	Nucleoplasmin	NA
+Amphilophus_citrinellus	ppie	ENSACIG00000022599	Others	NA
+Amphilophus_citrinellus	sufu	ENSACIG00000022620	Others	NA
+Amphilophus_citrinellus	nab2	ENSACIG00000022674	Others	NA
+Amphilophus_citrinellus	vhl	ENSACIG00000022721	Others	NA
+Amphilophus_citrinellus	rprd1b	ENSACIG00000022766	Others	NA
+Amphilophus_citrinellus	eya1	ENSACIG00000022782	EYA	NA
+Amphilophus_citrinellus	pa2g4a	ENSACIG00000022784	Others	NA
+Amphilophus_citrinellus	FHL2	ENSACIG00000022788	FHL	NA
+Amphilophus_citrinellus	elp1	ENSACIG00000022887	ELP	NA
+Amphilophus_citrinellus		ENSACIG00000022910	RNA binding protein	NA
+Amphilophus_citrinellus	tbpl2	ENSACIG00000022967	TATA-box	NA
+Amphilophus_citrinellus	lancl2	ENSACIG00000022978	Others	NA
+Amphilophus_citrinellus	rnf40	ENSACIG00000023016	Ring finger protein	NA
+Amphilophus_citrinellus	waca	ENSACIG00000023021	WW	NA
+Amphilophus_citrinellus	dact1	ENSACIG00000023046	Others	NA
+Amphilophus_citrinellus	MDFI	ENSACIG00000023131	Others	NA
+Amphilophus_citrinellus	PCGF3	ENSACIG00000023134	PCGF	NA
+Amphilophus_citrinellus	arrb1	ENSACIG00000023198	Others	NA
+Amphilophus_citrinellus	phf8	ENSACIG00000023286	PHF	NA
+Amphilophus_citrinellus	rnf25	ENSACIG00000023363	Ring finger protein	NA
+Amphilophus_citrinellus	kat8	ENSACIG00000023369	Lysine acetyltransferase	NA
+Amphilophus_citrinellus	ufl1	ENSACIG00000023423	Others	NA
+Amphilophus_citrinellus		ENSACIG00000023456	Others	NA
+Amphilophus_citrinellus	depdc1a	ENSACIG00000023461	Others	NA
+Amphilophus_citrinellus	frk	ENSACIG00000023465	Others	NA
+Amphilophus_citrinellus	actr5	ENSACIG00000023509	ACTR	NA
+Amphilophus_citrinellus	rfxap	ENSACIG00000023524	Others	NA
+Amphilophus_citrinellus		ENSACIG00000023589	Others	NA
+Amphilophus_citrinellus	pin1	ENSACIG00000023594	Others	NA
+Amphilophus_citrinellus	PLK1	ENSACIG00000023696	Others	NA
+Amphilophus_citrinellus	htatip2	ENSACIG00000023759	Others	NA
+Amphilophus_citrinellus	blm	ENSACIG00000023762	Others	NA
+Amphilophus_citrinellus	csrp3	ENSACIG00000023782	Others	NA
+Amphilophus_citrinellus		ENSACIG00000023856	Others	NA
+Amphilophus_citrinellus	tdrd3	ENSACIG00000023900	Others	NA
+Amphilophus_citrinellus	jade1	ENSACIG00000023910	Others	NA
+Amphilophus_citrinellus	yap1	ENSACIG00000023927	Others	NA
+Amphilophus_citrinellus	bcl9l	ENSACIG00000023992	BCL	NA
+Amphilophus_citrinellus	brms1	ENSACIG00000024013	Other_CRF	NA
+Amphilophus_citrinellus	kdm6a	ENSACIG00000024040	Other_CRF	NA
+Amphilophus_citrinellus		ENSACIG00000024060	Erbb2	NA
+Amphilophus_citrinellus	ctnnd1	ENSACIG00000024161	Casein	NA
+Amphilophus_citrinellus	malt1	ENSACIG00000024180	Others	NA
+Amphilophus_citrinellus	JAK2	ENSACIG00000024209	Others	NA
+Amphilophus_citrinellus	mnat1	ENSACIG00000024219	Others	NA
+Amphilophus_citrinellus	raly	ENSACIG00000024288	Others	NA
+Amphilophus_citrinellus	cnot9	ENSACIG00000024293	CCR4-NOT	NA
+Amphilophus_citrinellus	sgf29	ENSACIG00000024432	Others	NA
+Amphilophus_citrinellus	slc26a3.2	ENSACIG00000024457	SLC	NA
+Amphilophus_citrinellus	med1	ENSACIG00000024467	Mediator complex	NA
+Amphilophus_citrinellus	kat6b	ENSACIG00000024484	Lysine acetyltransferase	NA
+Amphilophus_citrinellus	ascc1	ENSACIG00000024515	ASCC	NA

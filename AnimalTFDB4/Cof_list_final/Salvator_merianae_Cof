@@ -1,0 +1,847 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Salvator_merianae		ENSSMRG00000000036	Ring finger protein	NA
+Salvator_merianae	HDAC7	ENSSMRG00000000047	Histone deacetylase	NA
+Salvator_merianae	TAF1A	ENSSMRG00000000093	TATA-box	NA
+Salvator_merianae	PELP1	ENSSMRG00000000097	Others	NA
+Salvator_merianae	HDAC11	ENSSMRG00000000187	Histone deacetylase	NA
+Salvator_merianae	ARGLU1	ENSSMRG00000000204	Others	NA
+Salvator_merianae	DUSP26	ENSSMRG00000000207	Others	NA
+Salvator_merianae	RUVBL1	ENSSMRG00000000262	Other_CRF	NA
+Salvator_merianae	LRRK2	ENSSMRG00000000266	Other_CRF	NA
+Salvator_merianae	ERBIN	ENSSMRG00000000269	Erbb2	NA
+Salvator_merianae		ENSSMRG00000000275	Others	NA
+Salvator_merianae	NRIP1	ENSSMRG00000000277	Nuclear receptor coactivator	NA
+Salvator_merianae		ENSSMRG00000000299	Others	NA
+Salvator_merianae	CHUK	ENSSMRG00000000367	Others	NA
+Salvator_merianae	PRMT7	ENSSMRG00000000485	Arginine methyltransferase	NA
+Salvator_merianae	TRIM7	ENSSMRG00000000508	Tripartite motif	NA
+Salvator_merianae	TDRD3	ENSSMRG00000000527	Others	NA
+Salvator_merianae	ADRB2	ENSSMRG00000000556	Others	NA
+Salvator_merianae	ILF2	ENSSMRG00000000609	Others	NA
+Salvator_merianae	CHTOP	ENSSMRG00000000646	Others	NA
+Salvator_merianae	LDB2	ENSSMRG00000000662	LIM	NA
+Salvator_merianae	MED28	ENSSMRG00000000730	Mediator complex	NA
+Salvator_merianae	PHF12	ENSSMRG00000000731	PHF	NA
+Salvator_merianae	AGO1	ENSSMRG00000000771	Others	NA
+Salvator_merianae	TRADD	ENSSMRG00000000772	Others	NA
+Salvator_merianae	PDLIM1	ENSSMRG00000000824	Others	NA
+Salvator_merianae	HELLS	ENSSMRG00000000835	Others	NA
+Salvator_merianae	ARRB2	ENSSMRG00000000839	Others	NA
+Salvator_merianae	MED11	ENSSMRG00000000878	Mediator complex	NA
+Salvator_merianae	TRIB1	ENSSMRG00000000914	Others	NA
+Salvator_merianae	CITED2	ENSSMRG00000000917	CITED	NA
+Salvator_merianae	PIK3R1	ENSSMRG00000000925	Others	NA
+Salvator_merianae	INO80E	ENSSMRG00000000977	INO80 complex	NA
+Salvator_merianae	NCOA6	ENSSMRG00000001004	Nuclear receptor coactivator	NA
+Salvator_merianae	MED19	ENSSMRG00000001012	Mediator complex	NA
+Salvator_merianae	PNRC2	ENSSMRG00000001028	Others	NA
+Salvator_merianae	PPARGC1B	ENSSMRG00000001032	Others	NA
+Salvator_merianae	ZNF593	ENSSMRG00000001058	Zinc finger	NA
+Salvator_merianae	CDK7	ENSSMRG00000001064	Cyclin	NA
+Salvator_merianae	PAGR1	ENSSMRG00000001090	Others	NA
+Salvator_merianae	CTNND1	ENSSMRG00000001102	Casein	NA
+Salvator_merianae	HIPK3	ENSSMRG00000001108	HIPK	NA
+Salvator_merianae	FBXW7	ENSSMRG00000001127	Others	NA
+Salvator_merianae	LPXN	ENSSMRG00000001140	Others	NA
+Salvator_merianae	ITCH	ENSSMRG00000001158	Others	NA
+Salvator_merianae	LIN9	ENSSMRG00000001191	Others	NA
+Salvator_merianae	VGLL3	ENSSMRG00000001271	Vestigial like	NA
+Salvator_merianae	RALY	ENSSMRG00000001280	Others	NA
+Salvator_merianae	TRIP4	ENSSMRG00000001282	Thyroid hormone receptor	NA
+Salvator_merianae	CDK5	ENSSMRG00000001302	Cyclin	NA
+Salvator_merianae	NAB2	ENSSMRG00000001342	Others	NA
+Salvator_merianae	PLRG1	ENSSMRG00000001361	Others	NA
+Salvator_merianae	HIF1AN	ENSSMRG00000001376	Others	NA
+Salvator_merianae	SLC19A1	ENSSMRG00000001454	SLC	NA
+Salvator_merianae	KDM5A	ENSSMRG00000001494	Lysine demethylase	NA
+Salvator_merianae	CBFA2T2	ENSSMRG00000001500	Others	NA
+Salvator_merianae	LBH	ENSSMRG00000001527	Others	NA
+Salvator_merianae	ELP4	ENSSMRG00000001541	ELP	NA
+Salvator_merianae	SMARCD3	ENSSMRG00000001597	SWI/SNF	NA
+Salvator_merianae	PER2	ENSSMRG00000001601	Others	NA
+Salvator_merianae	PPARGC1A	ENSSMRG00000001615	Others	NA
+Salvator_merianae	SIVA1	ENSSMRG00000001626	Others	NA
+Salvator_merianae	NUP98	ENSSMRG00000001664	Others	NA
+Salvator_merianae	LZTS1	ENSSMRG00000001780	Others	NA
+Salvator_merianae	SS18L2	ENSSMRG00000001782	SS18	NA
+Salvator_merianae	HCFC1	ENSSMRG00000001871	Others	NA
+Salvator_merianae	SENP1	ENSSMRG00000001872	Others	NA
+Salvator_merianae	SGK1	ENSSMRG00000001940	Others	NA
+Salvator_merianae	BCL9	ENSSMRG00000001951	BCL	NA
+Salvator_merianae	PFDN5	ENSSMRG00000001953	Others	NA
+Salvator_merianae	TBPL1	ENSSMRG00000001966	TATA-box	NA
+Salvator_merianae		ENSSMRG00000002072	Histone deacetylase	NA
+Salvator_merianae	CSNK2A2	ENSSMRG00000002129	Casein	NA
+Salvator_merianae	CECR2	ENSSMRG00000002151	Other_CRF	NA
+Salvator_merianae	RBL1	ENSSMRG00000002155	Other_Co-activator/repressors	NA
+Salvator_merianae	EYA4	ENSSMRG00000002159	EYA	NA
+Salvator_merianae	MDFI	ENSSMRG00000002177	Others	NA
+Salvator_merianae	CHD6	ENSSMRG00000002188	CHD	NA
+Salvator_merianae	SETD6	ENSSMRG00000002215	SET	NA
+Salvator_merianae	CNOT1	ENSSMRG00000002227	CCR4-NOT	NA
+Salvator_merianae	KAT6B	ENSSMRG00000002236	Lysine acetyltransferase	NA
+Salvator_merianae	PPID	ENSSMRG00000002268	Others	NA
+Salvator_merianae	RBM39	ENSSMRG00000002323	RNA binding protein	NA
+Salvator_merianae	MLLT6	ENSSMRG00000002340	Others	NA
+Salvator_merianae	CREG1	ENSSMRG00000002341	Others	NA
+Salvator_merianae		ENSSMRG00000002366	Mediator complex	NA
+Salvator_merianae	KAT2A	ENSSMRG00000002374	Lysine acetyltransferase	NA
+Salvator_merianae	TAF8	ENSSMRG00000002418	TATA-box	NA
+Salvator_merianae	WDTC1	ENSSMRG00000002425	WD	NA
+Salvator_merianae	CBX5	ENSSMRG00000002444	Chromobox	NA
+Salvator_merianae	DCAF6	ENSSMRG00000002468	Others	NA
+Salvator_merianae	FLNA	ENSSMRG00000002470	Others	NA
+Salvator_merianae	JMY	ENSSMRG00000002543	Others	NA
+Salvator_merianae	CAVIN1	ENSSMRG00000002544	Others	NA
+Salvator_merianae	MED18	ENSSMRG00000002592	Mediator complex	NA
+Salvator_merianae	CAMK4	ENSSMRG00000002619	CAMK	NA
+Salvator_merianae	SMARCD2	ENSSMRG00000002625	SWI/SNF	NA
+Salvator_merianae	DPF1	ENSSMRG00000002633	DPF	NA
+Salvator_merianae	CALCOCO1	ENSSMRG00000002659	Others	NA
+Salvator_merianae	DOT1L	ENSSMRG00000002660	Others	NA
+Salvator_merianae		ENSSMRG00000002685	Others	NA
+Salvator_merianae	SMARCA4	ENSSMRG00000002694	SWI/SNF	NA
+Salvator_merianae	OGT	ENSSMRG00000002756	Others	NA
+Salvator_merianae		ENSSMRG00000002757	TATA-box	NA
+Salvator_merianae	CALR	ENSSMRG00000002807	Others	NA
+Salvator_merianae	JUP	ENSSMRG00000002811	Others	NA
+Salvator_merianae	PHF20L1	ENSSMRG00000002815	PHF	NA
+Salvator_merianae	TAF12	ENSSMRG00000002837	TATA-box	NA
+Salvator_merianae		ENSSMRG00000002878	Lysine demethylase	NA
+Salvator_merianae	ELOF1	ENSSMRG00000002942	GTF	NA
+Salvator_merianae	RYBP	ENSSMRG00000002983	Others	NA
+Salvator_merianae	APBB1	ENSSMRG00000003032	Others	NA
+Salvator_merianae	CNOT3	ENSSMRG00000003070	CCR4-NOT	NA
+Salvator_merianae	CGGBP1	ENSSMRG00000003090	Others	NA
+Salvator_merianae	ILK	ENSSMRG00000003110	Others	NA
+Salvator_merianae	DVL2	ENSSMRG00000003154	Others	NA
+Salvator_merianae		ENSSMRG00000003190	Others	NA
+Salvator_merianae	GPS2	ENSSMRG00000003191	Others	NA
+Salvator_merianae	CBX3	ENSSMRG00000003213	Chromobox	NA
+Salvator_merianae		ENSSMRG00000003223	Thyroid hormone receptor	NA
+Salvator_merianae	POLR2A	ENSSMRG00000003243	POLR	NA
+Salvator_merianae	TAF15	ENSSMRG00000003254	TATA-box	NA
+Salvator_merianae	MDM4	ENSSMRG00000003279	Others	NA
+Salvator_merianae	KDM5B	ENSSMRG00000003284	Lysine demethylase	NA
+Salvator_merianae	LMCD1	ENSSMRG00000003391	LIM	NA
+Salvator_merianae	CHD3	ENSSMRG00000003399	CHD	NA
+Salvator_merianae	CIDEA	ENSSMRG00000003413	Others	NA
+Salvator_merianae	SCMH1	ENSSMRG00000003421	Others	NA
+Salvator_merianae	SLC30A9	ENSSMRG00000003472	SLC	NA
+Salvator_merianae	CITED4	ENSSMRG00000003480	CITED	NA
+Salvator_merianae	WWC1	ENSSMRG00000003484	WW	NA
+Salvator_merianae	DHX36	ENSSMRG00000003496	RNA helicase	NA
+Salvator_merianae	TENM2	ENSSMRG00000003513	Others	NA
+Salvator_merianae	EYA3	ENSSMRG00000003535	EYA	NA
+Salvator_merianae	KDM1A	ENSSMRG00000003582	Lysine demethylase	NA
+Salvator_merianae	MED12L	ENSSMRG00000003588	Mediator complex	NA
+Salvator_merianae	LRIF1	ENSSMRG00000003606	Others	NA
+Salvator_merianae	CBX2	ENSSMRG00000003627	Chromobox	NA
+Salvator_merianae	CBX8	ENSSMRG00000003629	Chromobox	NA
+Salvator_merianae	CBX4	ENSSMRG00000003631	Chromobox	NA
+Salvator_merianae	BRD2	ENSSMRG00000003659	Bromodomain	NA
+Salvator_merianae	RING1	ENSSMRG00000003666	Ring finger protein	NA
+Salvator_merianae	MED23	ENSSMRG00000003667	Mediator complex	NA
+Salvator_merianae	DYRK1B	ENSSMRG00000003703	Others	NA
+Salvator_merianae	AURKB	ENSSMRG00000003714	Others	NA
+Salvator_merianae	NCK2	ENSSMRG00000003761	Others	NA
+Salvator_merianae	FHL2	ENSSMRG00000003766	FHL	NA
+Salvator_merianae	TAF9	ENSSMRG00000003792	TATA-box	NA
+Salvator_merianae	NONO	ENSSMRG00000003807	Others	NA
+Salvator_merianae	RPTOR	ENSSMRG00000003815	Others	NA
+Salvator_merianae	MED12	ENSSMRG00000003858	Mediator complex	NA
+Salvator_merianae	NEDD8	ENSSMRG00000003894	Others	NA
+Salvator_merianae	AEBP1	ENSSMRG00000003924	Others	NA
+Salvator_merianae	CSRP3	ENSSMRG00000003940	Others	NA
+Salvator_merianae	DNAJA3	ENSSMRG00000003966	Others	NA
+Salvator_merianae	KMT5C	ENSSMRG00000003969	Lysine methyltransferase	NA
+Salvator_merianae	CCND1	ENSSMRG00000004053	Cyclin	NA
+Salvator_merianae	FGF3	ENSSMRG00000004069	FGF	NA
+Salvator_merianae	TRIM33	ENSSMRG00000004126	Tripartite motif	NA
+Salvator_merianae	HIPK1	ENSSMRG00000004142	HIPK	NA
+Salvator_merianae		ENSSMRG00000004151	Other_CRF	NA
+Salvator_merianae	PRMT1	ENSSMRG00000004215	Arginine methyltransferase	NA
+Salvator_merianae		ENSSMRG00000004264	Others	NA
+Salvator_merianae	DDX20	ENSSMRG00000004314	RNA helicase	NA
+Salvator_merianae	SGF29	ENSSMRG00000004369	Others	NA
+Salvator_merianae	FHOD1	ENSSMRG00000004393	Others	NA
+Salvator_merianae	WDR77	ENSSMRG00000004435	WD	NA
+Salvator_merianae	PRMT5	ENSSMRG00000004534	Arginine methyltransferase	NA
+Salvator_merianae	NFKBIZ	ENSSMRG00000004546	NFKB associated	NA
+Salvator_merianae	BAHCC1	ENSSMRG00000004594	Others	NA
+Salvator_merianae	CTDP1	ENSSMRG00000004596	Others	NA
+Salvator_merianae	CARM1	ENSSMRG00000004619	Others	NA
+Salvator_merianae	ASF1B	ENSSMRG00000004645	Others	NA
+Salvator_merianae	NOL11	ENSSMRG00000004651	Nuclear coactivator	NA
+Salvator_merianae	HSBP1L1	ENSSMRG00000004652	Heat shock protein	NA
+Salvator_merianae	BPTF	ENSSMRG00000004657	Bromodomain	NA
+Salvator_merianae	SMURF2	ENSSMRG00000004688	Others	NA
+Salvator_merianae	RRN3	ENSSMRG00000004690	Others	NA
+Salvator_merianae	MRTFB	ENSSMRG00000004703	Others	NA
+Salvator_merianae	DDX5	ENSSMRG00000004722	RNA helicase	NA
+Salvator_merianae	TRAF6	ENSSMRG00000004731	Others	NA
+Salvator_merianae	SIAH2	ENSSMRG00000004791	Others	NA
+Salvator_merianae	ERN1	ENSSMRG00000004877	Others	NA
+Salvator_merianae	GSK3B	ENSSMRG00000004891	Others	NA
+Salvator_merianae		ENSSMRG00000004898	Others	NA
+Salvator_merianae	SUPT7L	ENSSMRG00000004917	SUPT	NA
+Salvator_merianae	GTF2E1	ENSSMRG00000004962	GTF	NA
+Salvator_merianae	WWTR1	ENSSMRG00000004972	WW	NA
+Salvator_merianae	CDK2	ENSSMRG00000004980	Cyclin	NA
+Salvator_merianae	GMNN	ENSSMRG00000004988	Others	NA
+Salvator_merianae	EDRF1	ENSSMRG00000004996	Others	NA
+Salvator_merianae	DNAJB1	ENSSMRG00000004999	Others	NA
+Salvator_merianae	TDP2	ENSSMRG00000005019	Others	NA
+Salvator_merianae		ENSSMRG00000005092	Lysine methyltransferase	NA
+Salvator_merianae		ENSSMRG00000005096	Tripartite motif	NA
+Salvator_merianae		ENSSMRG00000005162	Others	NA
+Salvator_merianae	NOTCH3	ENSSMRG00000005174	Notch	NA
+Salvator_merianae	CHD8	ENSSMRG00000005202	CHD	NA
+Salvator_merianae	BRD4	ENSSMRG00000005217	Bromodomain	NA
+Salvator_merianae	CXXC1	ENSSMRG00000005232	Others	NA
+Salvator_merianae	C1D	ENSSMRG00000005249	Other_Co-activator/repressors	NA
+Salvator_merianae	BRD7	ENSSMRG00000005252	Bromodomain	NA
+Salvator_merianae	SUPT16H	ENSSMRG00000005280	SUPT	NA
+Salvator_merianae		ENSSMRG00000005311	HNRNP	NA
+Salvator_merianae	ABL1	ENSSMRG00000005362	Others	NA
+Salvator_merianae	SERTAD2	ENSSMRG00000005372	Others	NA
+Salvator_merianae	PELI1	ENSSMRG00000005414	Others	NA
+Salvator_merianae	FGFR2	ENSSMRG00000005415	FGF	NA
+Salvator_merianae		ENSSMRG00000005469	EID	NA
+Salvator_merianae	PHF21A	ENSSMRG00000005500	PHF	NA
+Salvator_merianae	UXT	ENSSMRG00000005567	Others	NA
+Salvator_merianae	ZMYND8	ENSSMRG00000005589	Zinc finger	NA
+Salvator_merianae	STRAP	ENSSMRG00000005604	Others	NA
+Salvator_merianae	MED24	ENSSMRG00000005609	Mediator complex	NA
+Salvator_merianae	COMMD1	ENSSMRG00000005611	Others	NA
+Salvator_merianae	INSR	ENSSMRG00000005612	Others	NA
+Salvator_merianae	MCRS1	ENSSMRG00000005622	Others	NA
+Salvator_merianae	RNF10	ENSSMRG00000005636	Ring finger protein	NA
+Salvator_merianae	DEK	ENSSMRG00000005662	Other_CRF	NA
+Salvator_merianae	KDM1B	ENSSMRG00000005666	Lysine demethylase	NA
+Salvator_merianae	EYA2	ENSSMRG00000005693	EYA	NA
+Salvator_merianae	RNF8	ENSSMRG00000005713	Ring finger protein	NA
+Salvator_merianae	SIRT5	ENSSMRG00000005719	Sirtuin	NA
+Salvator_merianae	SLC25A15	ENSSMRG00000005755	SLC	NA
+Salvator_merianae	ERBB2	ENSSMRG00000005768	Erbb2	NA
+Salvator_merianae	SPEN	ENSSMRG00000005769	Others	NA
+Salvator_merianae	SUZ12	ENSSMRG00000005840	Others	NA
+Salvator_merianae	CDK12	ENSSMRG00000005940	Cyclin	NA
+Salvator_merianae	TNKS	ENSSMRG00000005942	Others	NA
+Salvator_merianae	CHD9	ENSSMRG00000005943	CHD	NA
+Salvator_merianae	RBL2	ENSSMRG00000005954	Other_Co-activator/repressors	NA
+Salvator_merianae	YWHAB	ENSSMRG00000005982	Others	NA
+Salvator_merianae	PABPC1L	ENSSMRG00000006023	Other_CRF	NA
+Salvator_merianae		ENSSMRG00000006071	Others	NA
+Salvator_merianae	ANKRA2	ENSSMRG00000006106	Ankyrin repeat	NA
+Salvator_merianae	SIN3B	ENSSMRG00000006110	Others	NA
+Salvator_merianae		ENSSMRG00000006127	Mediator complex	NA
+Salvator_merianae	SRC	ENSSMRG00000006140	Others	NA
+Salvator_merianae	SUPT3H	ENSSMRG00000006146	SUPT	NA
+Salvator_merianae	TAF1B	ENSSMRG00000006214	TATA-box	NA
+Salvator_merianae		ENSSMRG00000006224	Others	NA
+Salvator_merianae	LPIN3	ENSSMRG00000006250	LPIN	NA
+Salvator_merianae	RIPK3	ENSSMRG00000006276	Others	NA
+Salvator_merianae	RFXAP	ENSSMRG00000006372	Others	NA
+Salvator_merianae	CCNA1	ENSSMRG00000006375	Cyclin	NA
+Salvator_merianae		ENSSMRG00000006413	GTF	NA
+Salvator_merianae	HSBP1	ENSSMRG00000006441	Heat shock protein	NA
+Salvator_merianae	MLLT3	ENSSMRG00000006460	GTF	NA
+Salvator_merianae	ATRX	ENSSMRG00000006512	Others	NA
+Salvator_merianae	MAK	ENSSMRG00000006551	Others	NA
+Salvator_merianae	SSBP2	ENSSMRG00000006585	Others	NA
+Salvator_merianae	KDM4C	ENSSMRG00000006595	Lysine demethylase	NA
+Salvator_merianae	AXIN1	ENSSMRG00000006609	Others	NA
+Salvator_merianae	APEX1	ENSSMRG00000006703	Others	NA
+Salvator_merianae	PBXIP1	ENSSMRG00000006721	Others	NA
+Salvator_merianae	PYGO2	ENSSMRG00000006731	Others	NA
+Salvator_merianae	BANP	ENSSMRG00000006763	Others	NA
+Salvator_merianae	CBFA2T3	ENSSMRG00000006920	Others	NA
+Salvator_merianae	BTRC	ENSSMRG00000007001	Others	NA
+Salvator_merianae	PSIP1	ENSSMRG00000007008	Others	NA
+Salvator_merianae	SFSWAP	ENSSMRG00000007028	Others	NA
+Salvator_merianae	KAT8	ENSSMRG00000007042	Lysine acetyltransferase	NA
+Salvator_merianae	PYCARD	ENSSMRG00000007057	Others	NA
+Salvator_merianae	NSD1	ENSSMRG00000007083	Nuclear receptor coactivator	NA
+Salvator_merianae	EP400	ENSSMRG00000007091	Others	NA
+Salvator_merianae	EMSY	ENSSMRG00000007092	Others	NA
+Salvator_merianae	TGFB1	ENSSMRG00000007113	Others	NA
+Salvator_merianae	SUFU	ENSSMRG00000007169	Others	NA
+Salvator_merianae	TAF3	ENSSMRG00000007170	TATA-box	NA
+Salvator_merianae	TRIM8	ENSSMRG00000007177	Tripartite motif	NA
+Salvator_merianae	ATXN7L3	ENSSMRG00000007200	Others	NA
+Salvator_merianae	SFMBT2	ENSSMRG00000007220	Others	NA
+Salvator_merianae	UTP4	ENSSMRG00000007221	Others	NA
+Salvator_merianae	TGFB1I1	ENSSMRG00000007238	Others	NA
+Salvator_merianae	BRD8	ENSSMRG00000007245	Bromodomain	NA
+Salvator_merianae	KDM3B	ENSSMRG00000007262	Lysine demethylase	NA
+Salvator_merianae	WWP2	ENSSMRG00000007295	WW	NA
+Salvator_merianae		ENSSMRG00000007301	Others	NA
+Salvator_merianae	RSF1	ENSSMRG00000007345	Others	NA
+Salvator_merianae	PCGF6	ENSSMRG00000007357	PCGF	NA
+Salvator_merianae	TAF5	ENSSMRG00000007365	TATA-box	NA
+Salvator_merianae	STK3	ENSSMRG00000007371	Others	NA
+Salvator_merianae	CCNH	ENSSMRG00000007424	Cyclin	NA
+Salvator_merianae	SIN3A	ENSSMRG00000007437	Other_CRF	NA
+Salvator_merianae	WDR61	ENSSMRG00000007456	WD	NA
+Salvator_merianae	MTDH	ENSSMRG00000007459	Others	NA
+Salvator_merianae	CDK5R1	ENSSMRG00000007462	Cyclin	NA
+Salvator_merianae	HEXIM1	ENSSMRG00000007463	Others	NA
+Salvator_merianae	NCOA4	ENSSMRG00000007552	Nuclear receptor coactivator	NA
+Salvator_merianae	GTF2H4	ENSSMRG00000007599	GTF	NA
+Salvator_merianae	MED27	ENSSMRG00000007604	Mediator complex	NA
+Salvator_merianae	CRK	ENSSMRG00000007637	Others	NA
+Salvator_merianae	HDGF	ENSSMRG00000007666	Others	NA
+Salvator_merianae	CREBBP	ENSSMRG00000007723	CREB	NA
+Salvator_merianae	SFR1	ENSSMRG00000007728	Others	NA
+Salvator_merianae	ATF7IP2	ENSSMRG00000007754	Others	NA
+Salvator_merianae	CHRAC1	ENSSMRG00000007762	Other_CRF	NA
+Salvator_merianae	AGO2	ENSSMRG00000007763	Others	NA
+Salvator_merianae	MED31	ENSSMRG00000007783	Mediator complex	NA
+Salvator_merianae	MED22	ENSSMRG00000007797	Mediator complex	NA
+Salvator_merianae	REXO4	ENSSMRG00000007816	Others	NA
+Salvator_merianae	PCGF2	ENSSMRG00000007819	PCGF	NA
+Salvator_merianae		ENSSMRG00000007896	Others	NA
+Salvator_merianae	SCAI	ENSSMRG00000007916	Others	NA
+Salvator_merianae	PINK1	ENSSMRG00000007989	Others	NA
+Salvator_merianae	ELL2	ENSSMRG00000008000	GTF	NA
+Salvator_merianae	CRTC1	ENSSMRG00000008029	CREB	NA
+Salvator_merianae	PRSS57	ENSSMRG00000008042	Others	NA
+Salvator_merianae	CDKN1B	ENSSMRG00000008115	Cyclin	NA
+Salvator_merianae	RBBP5	ENSSMRG00000008126	RBBP	NA
+Salvator_merianae	CHD1	ENSSMRG00000008157	CHD	NA
+Salvator_merianae	TOP1MT	ENSSMRG00000008169	Other_CRF	NA
+Salvator_merianae		ENSSMRG00000008170	Chromodomain Y	NA
+Salvator_merianae		ENSSMRG00000008274	Others	NA
+Salvator_merianae	ANP32B	ENSSMRG00000008284	ANP	NA
+Salvator_merianae		ENSSMRG00000008291	Others	NA
+Salvator_merianae	ELP1	ENSSMRG00000008309	ELP	NA
+Salvator_merianae	HYAL2	ENSSMRG00000008327	Others	NA
+Salvator_merianae		ENSSMRG00000008445	Sirtuin	NA
+Salvator_merianae	CCAR1	ENSSMRG00000008591	Others	NA
+Salvator_merianae	BAZ1B	ENSSMRG00000008647	Bromodomain	NA
+Salvator_merianae	ALPK3	ENSSMRG00000008654	Others	NA
+Salvator_merianae	PHF19	ENSSMRG00000008690	PHF	NA
+Salvator_merianae	WNT4	ENSSMRG00000008712	Others	NA
+Salvator_merianae	NELFB	ENSSMRG00000008720	GTF	NA
+Salvator_merianae	EHMT1	ENSSMRG00000008735	Histone lysine methyltransferase	NA
+Salvator_merianae	SUPT4H1	ENSSMRG00000008810	SUPT	NA
+Salvator_merianae	MED9	ENSSMRG00000008837	Mediator complex	NA
+Salvator_merianae	RASD1	ENSSMRG00000008838	Others	NA
+Salvator_merianae	RAI1	ENSSMRG00000008844	Others	NA
+Salvator_merianae	FLII	ENSSMRG00000008862	Others	NA
+Salvator_merianae	RAP2C	ENSSMRG00000008892	Others	NA
+Salvator_merianae		ENSSMRG00000008910	RNA binding protein	NA
+Salvator_merianae	VGLL1	ENSSMRG00000008950	Vestigial like	NA
+Salvator_merianae	DCAF1	ENSSMRG00000009004	Others	NA
+Salvator_merianae	CHEK1	ENSSMRG00000009035	Others	NA
+Salvator_merianae	MACROH2A2	ENSSMRG00000009037	Others	NA
+Salvator_merianae	SKI	ENSSMRG00000009047	SKI	NA
+Salvator_merianae	PID1	ENSSMRG00000009072	Others	NA
+Salvator_merianae	TONSL	ENSSMRG00000009079	Others	NA
+Salvator_merianae	AURKAIP1	ENSSMRG00000009119	Others	NA
+Salvator_merianae	NOC2L	ENSSMRG00000009217	Others	NA
+Salvator_merianae	PHF21B	ENSSMRG00000009241	PHF	NA
+Salvator_merianae	TENM1	ENSSMRG00000009253	Others	NA
+Salvator_merianae	TIRAP	ENSSMRG00000009356	Others	NA
+Salvator_merianae	SAP30	ENSSMRG00000009362	SAP	NA
+Salvator_merianae		ENSSMRG00000009367	Histone deacetylase	NA
+Salvator_merianae	SAV1	ENSSMRG00000009404	Others	NA
+Salvator_merianae	PICALM	ENSSMRG00000009456	Others	NA
+Salvator_merianae	EED	ENSSMRG00000009469	Others	NA
+Salvator_merianae	CNOT7	ENSSMRG00000009531	CCR4-NOT	NA
+Salvator_merianae	TBPL2	ENSSMRG00000009564	TATA-box	NA
+Salvator_merianae	ACTN1	ENSSMRG00000009582	Actin	NA
+Salvator_merianae	ENO1	ENSSMRG00000009621	Others	NA
+Salvator_merianae	HIRA	ENSSMRG00000009632	Others	NA
+Salvator_merianae	CENPU	ENSSMRG00000009695	CENP	NA
+Salvator_merianae	MED6	ENSSMRG00000009777	Mediator complex	NA
+Salvator_merianae	CCNK	ENSSMRG00000009816	Cyclin	NA
+Salvator_merianae	SETD3	ENSSMRG00000009827	SET	NA
+Salvator_merianae		ENSSMRG00000009836	Mediator complex	NA
+Salvator_merianae	KDM2A	ENSSMRG00000009949	Lysine demethylase	NA
+Salvator_merianae	PSEN1	ENSSMRG00000009951	Others	NA
+Salvator_merianae	TRIP13	ENSSMRG00000009986	Thyroid hormone receptor	NA
+Salvator_merianae	PARP10	ENSSMRG00000010032	PARP	NA
+Salvator_merianae	DPY30	ENSSMRG00000010051	Others	NA
+Salvator_merianae	TRAK1	ENSSMRG00000010067	Others	NA
+Salvator_merianae	TFB2M	ENSSMRG00000010075	Others	NA
+Salvator_merianae	CTNNB1	ENSSMRG00000010102	Casein	NA
+Salvator_merianae	LIMD1	ENSSMRG00000010135	LIM	NA
+Salvator_merianae	HNRNPU	ENSSMRG00000010145	HNRNP	NA
+Salvator_merianae	DACT1	ENSSMRG00000010195	Others	NA
+Salvator_merianae	NIBAN2	ENSSMRG00000010204	FAM	NA
+Salvator_merianae	PAWR	ENSSMRG00000010238	Others	NA
+Salvator_merianae	EAF1	ENSSMRG00000010283	Others	NA
+Salvator_merianae	NOD1	ENSSMRG00000010288	Others	NA
+Salvator_merianae		ENSSMRG00000010304	Coiled-coil	NA
+Salvator_merianae		ENSSMRG00000010306	Others	NA
+Salvator_merianae	RPRD1B	ENSSMRG00000010337	Others	NA
+Salvator_merianae	TRIM32	ENSSMRG00000010356	Tripartite motif	NA
+Salvator_merianae	TGS1	ENSSMRG00000010359	Others	NA
+Salvator_merianae	PRDX5	ENSSMRG00000010365	Others	NA
+Salvator_merianae	CNOT10	ENSSMRG00000010399	CCR4-NOT	NA
+Salvator_merianae	ENG	ENSSMRG00000010449	Others	NA
+Salvator_merianae	RUNX1T1	ENSSMRG00000010492	Others	NA
+Salvator_merianae	CEP290	ENSSMRG00000010531	Others	NA
+Salvator_merianae	AIP	ENSSMRG00000010658	Others	NA
+Salvator_merianae	CHCHD2	ENSSMRG00000010699	Coiled-coil	NA
+Salvator_merianae	BRD1	ENSSMRG00000010721	Bromodomain	NA
+Salvator_merianae	YAP1	ENSSMRG00000010770	Others	NA
+Salvator_merianae	WWP1	ENSSMRG00000010771	WW	NA
+Salvator_merianae		ENSSMRG00000010773	Others	NA
+Salvator_merianae	TADA1	ENSSMRG00000010838	Transcriptional adaptor	NA
+Salvator_merianae	TAF6L	ENSSMRG00000010847	TATA-box	NA
+Salvator_merianae	POLR3C	ENSSMRG00000010880	POLR	NA
+Salvator_merianae	NPAT	ENSSMRG00000010937	Nuclear coactivator	NA
+Salvator_merianae	PEX2	ENSSMRG00000011003	Others	NA
+Salvator_merianae	BTG1	ENSSMRG00000011013	Others	NA
+Salvator_merianae	ELOC	ENSSMRG00000011113	Others	NA
+Salvator_merianae	CDK9	ENSSMRG00000011144	Cyclin	NA
+Salvator_merianae	PDCD4	ENSSMRG00000011237	Others	NA
+Salvator_merianae	STK36	ENSSMRG00000011282	Others	NA
+Salvator_merianae	RNF25	ENSSMRG00000011285	Ring finger protein	NA
+Salvator_merianae	CNOT9	ENSSMRG00000011292	CCR4-NOT	NA
+Salvator_merianae	CTDSP1	ENSSMRG00000011333	Others	NA
+Salvator_merianae	EYA1	ENSSMRG00000011343	EYA	NA
+Salvator_merianae	MTOR	ENSSMRG00000011374	Others	NA
+Salvator_merianae	DHX9	ENSSMRG00000011393	RNA helicase	NA
+Salvator_merianae	NCOA2	ENSSMRG00000011457	Nuclear receptor coactivator	NA
+Salvator_merianae	ASH1L	ENSSMRG00000011461	Others	NA
+Salvator_merianae	WWOX	ENSSMRG00000011502	WW	NA
+Salvator_merianae	CDYL2	ENSSMRG00000011552	Chromodomain Y	NA
+Salvator_merianae	COPS5	ENSSMRG00000011607	Others	NA
+Salvator_merianae	EDF1	ENSSMRG00000011630	Others	NA
+Salvator_merianae	KAT2B	ENSSMRG00000011638	Lysine acetyltransferase	NA
+Salvator_merianae	PUF60	ENSSMRG00000011697	Others	NA
+Salvator_merianae	ERCC3	ENSSMRG00000011718	Others	NA
+Salvator_merianae	ZNF451	ENSSMRG00000011761	Zinc finger	NA
+Salvator_merianae	PCBD1	ENSSMRG00000011779	Others	NA
+Salvator_merianae	NCOA7	ENSSMRG00000011821	Nuclear receptor coactivator	NA
+Salvator_merianae	KCTD1	ENSSMRG00000011841	Others	NA
+Salvator_merianae	TAF4B	ENSSMRG00000011842	TATA-box	NA
+Salvator_merianae	SS18	ENSSMRG00000011862	SS18	NA
+Salvator_merianae	CHD7	ENSSMRG00000011869	CHD	NA
+Salvator_merianae		ENSSMRG00000011880	CHD	NA
+Salvator_merianae	CCNT1	ENSSMRG00000011948	Cyclin	NA
+Salvator_merianae	EAF2	ENSSMRG00000011962	Others	NA
+Salvator_merianae	NUDT5	ENSSMRG00000011972	Other_CRF	NA
+Salvator_merianae	HDAC1	ENSSMRG00000011979	Histone deacetylase	NA
+Salvator_merianae	NLK	ENSSMRG00000012006	Others	NA
+Salvator_merianae	TAF6	ENSSMRG00000012023	TATA-box	NA
+Salvator_merianae	THRAP3	ENSSMRG00000012062	Thyroid hormone receptor	NA
+Salvator_merianae	PPIE	ENSSMRG00000012079	Others	NA
+Salvator_merianae	RLIM	ENSSMRG00000012082	Ring finger protein	NA
+Salvator_merianae	MED21	ENSSMRG00000012165	Mediator complex	NA
+Salvator_merianae	GTF2A1	ENSSMRG00000012194	GTF	NA
+Salvator_merianae	ING3	ENSSMRG00000012275	ING	NA
+Salvator_merianae	RBBP8	ENSSMRG00000012281	RBBP	NA
+Salvator_merianae	JAK2	ENSSMRG00000012306	Others	NA
+Salvator_merianae	ELP3	ENSSMRG00000012333	ELP	NA
+Salvator_merianae		ENSSMRG00000012353	Others	NA
+Salvator_merianae	SMARCA2	ENSSMRG00000012396	SWI/SNF	NA
+Salvator_merianae	SMARCD1	ENSSMRG00000012410	SWI/SNF	NA
+Salvator_merianae	SNW1	ENSSMRG00000012439	Others	NA
+Salvator_merianae	MNAT1	ENSSMRG00000012445	Others	NA
+Salvator_merianae	KANK1	ENSSMRG00000012463	Others	NA
+Salvator_merianae	VGLL2	ENSSMRG00000012484	Vestigial like	NA
+Salvator_merianae	RNF2	ENSSMRG00000012488	Ring finger protein	NA
+Salvator_merianae	NELFCD	ENSSMRG00000012544	GTF	NA
+Salvator_merianae	TPR	ENSSMRG00000012605	Others	NA
+Salvator_merianae	TAF4	ENSSMRG00000012607	TATA-box	NA
+Salvator_merianae	SS18L1	ENSSMRG00000012622	SS18	NA
+Salvator_merianae	HDAC2	ENSSMRG00000012652	Histone deacetylase	NA
+Salvator_merianae	MRGBP	ENSSMRG00000012660	Others	NA
+Salvator_merianae	BRMS1L	ENSSMRG00000012764	Other_CRF	NA
+Salvator_merianae	RALGAPA1	ENSSMRG00000012770	Others	NA
+Salvator_merianae		ENSSMRG00000012781	NFKB associated	NA
+Salvator_merianae	BAZ1A	ENSSMRG00000012801	Bromodomain	NA
+Salvator_merianae	ASCC1	ENSSMRG00000012810	ASCC	NA
+Salvator_merianae	ECD	ENSSMRG00000012826	Others	NA
+Salvator_merianae	CNOT6L	ENSSMRG00000012881	CCR4-NOT	NA
+Salvator_merianae	HNRNPD	ENSSMRG00000012902	HNRNP	NA
+Salvator_merianae	LIN54	ENSSMRG00000012908	Others	NA
+Salvator_merianae	EAPP	ENSSMRG00000012943	Others	NA
+Salvator_merianae	SNX6	ENSSMRG00000012944	Others	NA
+Salvator_merianae	ARHGAP5	ENSSMRG00000012963	Others	NA
+Salvator_merianae	SMARCAD1	ENSSMRG00000012994	SWI/SNF	NA
+Salvator_merianae		ENSSMRG00000013024	Others	NA
+Salvator_merianae	CLU	ENSSMRG00000013070	Others	NA
+Salvator_merianae	BRCA2	ENSSMRG00000013090	Others	NA
+Salvator_merianae	CDK8	ENSSMRG00000013133	Cyclin	NA
+Salvator_merianae	CTNNBIP1	ENSSMRG00000013136	Casein	NA
+Salvator_merianae	BTK	ENSSMRG00000013192	Others	NA
+Salvator_merianae	TAF7	ENSSMRG00000013195	TATA-box	NA
+Salvator_merianae	SUPT6H	ENSSMRG00000013227	SUPT	NA
+Salvator_merianae		ENSSMRG00000013230	Others	NA
+Salvator_merianae	XIAP	ENSSMRG00000013278	Others	NA
+Salvator_merianae	BEND3	ENSSMRG00000013319	Others	NA
+Salvator_merianae	ASCC3	ENSSMRG00000013348	ASCC	NA
+Salvator_merianae	CCNC	ENSSMRG00000013351	Cyclin	NA
+Salvator_merianae	FHL5	ENSSMRG00000013364	FHL	NA
+Salvator_merianae	UFL1	ENSSMRG00000013365	Others	NA
+Salvator_merianae	GRHPR	ENSSMRG00000013395	Others	NA
+Salvator_merianae	ANKRD1	ENSSMRG00000013418	Ankyrin repeat	NA
+Salvator_merianae	PCGF5	ENSSMRG00000013420	PCGF	NA
+Salvator_merianae	SIRT3	ENSSMRG00000013450	Sirtuin	NA
+Salvator_merianae	BTAF1	ENSSMRG00000013484	Others	NA
+Salvator_merianae	KMT5B	ENSSMRG00000013508	Lysine methyltransferase	NA
+Salvator_merianae	BRF1	ENSSMRG00000013565	GTF	NA
+Salvator_merianae	HCLS1	ENSSMRG00000013636	Others	NA
+Salvator_merianae	DAXX	ENSSMRG00000013649	Other_CRF	NA
+Salvator_merianae	PHF1	ENSSMRG00000013651	PHF	NA
+Salvator_merianae	ACTR6	ENSSMRG00000013660	ACTR	NA
+Salvator_merianae	HAT1	ENSSMRG00000013764	Others	NA
+Salvator_merianae	TXNIP	ENSSMRG00000013775	Others	NA
+Salvator_merianae	SAFB	ENSSMRG00000013795	Others	NA
+Salvator_merianae	SIRT6	ENSSMRG00000013806	Sirtuin	NA
+Salvator_merianae		ENSSMRG00000013811	Others	NA
+Salvator_merianae	MYBBP1A	ENSSMRG00000013938	MYB	NA
+Salvator_merianae	TCERG1L	ENSSMRG00000014033	TEF	NA
+Salvator_merianae		ENSSMRG00000014069	Others	NA
+Salvator_merianae	ATF7IP	ENSSMRG00000014112	Others	NA
+Salvator_merianae	TCF20	ENSSMRG00000014127	Others	NA
+Salvator_merianae	PIDD1	ENSSMRG00000014133	Others	NA
+Salvator_merianae	TNNI2	ENSSMRG00000014164	Others	NA
+Salvator_merianae	CDKN1C	ENSSMRG00000014181	Cyclin	NA
+Salvator_merianae	TSG101	ENSSMRG00000014204	Others	NA
+Salvator_merianae	GTF2H1	ENSSMRG00000014206	GTF	NA
+Salvator_merianae	WAC	ENSSMRG00000014238	WW	NA
+Salvator_merianae	AATF	ENSSMRG00000014261	Others	NA
+Salvator_merianae	EPC1	ENSSMRG00000014272	Others	NA
+Salvator_merianae	ZMYND11	ENSSMRG00000014324	Zinc finger	NA
+Salvator_merianae		ENSSMRG00000014346	PARP	NA
+Salvator_merianae	CCNT2	ENSSMRG00000014415	Cyclin	NA
+Salvator_merianae	TOP1	ENSSMRG00000014469	Other_CRF	NA
+Salvator_merianae	TESC	ENSSMRG00000014510	Others	NA
+Salvator_merianae	MED13L	ENSSMRG00000014517	Mediator complex	NA
+Salvator_merianae	RITA1	ENSSMRG00000014537	Others	NA
+Salvator_merianae	DDX54	ENSSMRG00000014538	RNA helicase	NA
+Salvator_merianae	DTX1	ENSSMRG00000014540	Others	NA
+Salvator_merianae	CDC73	ENSSMRG00000014562	Others	NA
+Salvator_merianae	MTF2	ENSSMRG00000014617	Others	NA
+Salvator_merianae	DR1	ENSSMRG00000014649	Others	NA
+Salvator_merianae	STRN3	ENSSMRG00000014675	Others	NA
+Salvator_merianae	XRCC6	ENSSMRG00000014777	Others	NA
+Salvator_merianae	SAP18	ENSSMRG00000014802	SAP	NA
+Salvator_merianae	GNL3	ENSSMRG00000014813	Others	NA
+Salvator_merianae	SFMBT1	ENSSMRG00000014836	Others	NA
+Salvator_merianae	TRIP11	ENSSMRG00000014863	Thyroid hormone receptor	NA
+Salvator_merianae	BCAS3	ENSSMRG00000014966	Others	NA
+Salvator_merianae	BRIP1	ENSSMRG00000014977	Others	NA
+Salvator_merianae	MED13	ENSSMRG00000014995	Mediator complex	NA
+Salvator_merianae	LMO1	ENSSMRG00000014997	LIM	NA
+Salvator_merianae	TRIM37	ENSSMRG00000015023	Tripartite motif	NA
+Salvator_merianae	NRIP3	ENSSMRG00000015028	Nuclear coactivator	NA
+Salvator_merianae	RNF141	ENSSMRG00000015049	Ring finger protein	NA
+Salvator_merianae	CTR9	ENSSMRG00000015054	Others	NA
+Salvator_merianae	ACTN4	ENSSMRG00000015081	Actin	NA
+Salvator_merianae	ACTR5	ENSSMRG00000015088	ACTR	NA
+Salvator_merianae	ZMYM2	ENSSMRG00000015111	Zinc finger	NA
+Salvator_merianae	PSPC1	ENSSMRG00000015112	Others	NA
+Salvator_merianae	CNOT8	ENSSMRG00000015120	CCR4-NOT	NA
+Salvator_merianae	SAP30L	ENSSMRG00000015125	SAP	NA
+Salvator_merianae	CTNND2	ENSSMRG00000015141	Casein	NA
+Salvator_merianae	ELP2	ENSSMRG00000015164	ELP	NA
+Salvator_merianae	PCGF1	ENSSMRG00000015195	PCGF	NA
+Salvator_merianae		ENSSMRG00000015204	INO80 complex	NA
+Salvator_merianae	SIRT2	ENSSMRG00000015247	Sirtuin	NA
+Salvator_merianae	NFKBIB	ENSSMRG00000015249	NFKB associated	NA
+Salvator_merianae	KCNIP3	ENSSMRG00000015309	Others	NA
+Salvator_merianae	ARHGAP35	ENSSMRG00000015337	Others	NA
+Salvator_merianae	PHF5A	ENSSMRG00000015351	PHF	NA
+Salvator_merianae	TOB2	ENSSMRG00000015352	Others	NA
+Salvator_merianae	SUPT5H	ENSSMRG00000015386	SUPT	NA
+Salvator_merianae		ENSSMRG00000015388	CAMK	NA
+Salvator_merianae	CCNA2	ENSSMRG00000015421	Cyclin	NA
+Salvator_merianae	MYO6	ENSSMRG00000015441	Others	NA
+Salvator_merianae	PAK6	ENSSMRG00000015449	Others	NA
+Salvator_merianae	INO80	ENSSMRG00000015477	INO80 complex	NA
+Salvator_merianae	RTF1	ENSSMRG00000015484	Others	NA
+Salvator_merianae	ANXA4	ENSSMRG00000015486	Others	NA
+Salvator_merianae	MED10	ENSSMRG00000015532	Mediator complex	NA
+Salvator_merianae	L3MBTL2	ENSSMRG00000015569	Others	NA
+Salvator_merianae	EP300	ENSSMRG00000015570	Others	NA
+Salvator_merianae	RBX1	ENSSMRG00000015572	Others	NA
+Salvator_merianae	MRTFA	ENSSMRG00000015576	Others	NA
+Salvator_merianae	JADE1	ENSSMRG00000015592	Others	NA
+Salvator_merianae	NAA15	ENSSMRG00000015616	Others	NA
+Salvator_merianae	SETD7	ENSSMRG00000015624	SET	NA
+Salvator_merianae	SLC26A3	ENSSMRG00000015627	SLC	NA
+Salvator_merianae	TAB1	ENSSMRG00000015653	Others	NA
+Salvator_merianae	CBX7	ENSSMRG00000015659	Chromobox	NA
+Salvator_merianae	CBX6	ENSSMRG00000015661	Chromobox	NA
+Salvator_merianae		ENSSMRG00000015674	RNA helicase	NA
+Salvator_merianae	RBFOX2	ENSSMRG00000015751	Others	NA
+Salvator_merianae	HMOX1	ENSSMRG00000015763	Others	NA
+Salvator_merianae	PEX14	ENSSMRG00000015769	Others	NA
+Salvator_merianae	YAF2	ENSSMRG00000015802	Others	NA
+Salvator_merianae	PPHLN1	ENSSMRG00000015807	Others	NA
+Salvator_merianae	LGALS12	ENSSMRG00000015858	Others	NA
+Salvator_merianae	CRY1	ENSSMRG00000015888	Others	NA
+Salvator_merianae	RBBP4	ENSSMRG00000015923	RBBP	NA
+Salvator_merianae	HCFC2	ENSSMRG00000015959	Others	NA
+Salvator_merianae	TDG	ENSSMRG00000015962	Others	NA
+Salvator_merianae	HIPK2	ENSSMRG00000015988	HIPK	NA
+Salvator_merianae	TRIM24	ENSSMRG00000015993	Tripartite motif	NA
+Salvator_merianae	KDM7A	ENSSMRG00000015999	Lysine demethylase	NA
+Salvator_merianae	KMT2E	ENSSMRG00000016039	Lysine methyltransferase	NA
+Salvator_merianae	GRIP1	ENSSMRG00000016115	Others	NA
+Salvator_merianae	MTPN	ENSSMRG00000016160	Others	NA
+Salvator_merianae	DDX39B	ENSSMRG00000016183	RNA helicase	NA
+Salvator_merianae	XRN2	ENSSMRG00000016220	Others	NA
+Salvator_merianae		ENSSMRG00000016364	Others	NA
+Salvator_merianae	GTF2A2	ENSSMRG00000016366	GTF	NA
+Salvator_merianae	ICE2	ENSSMRG00000016371	GTF	NA
+Salvator_merianae	MALT1	ENSSMRG00000016446	Others	NA
+Salvator_merianae	CDK1	ENSSMRG00000016447	Cyclin	NA
+Salvator_merianae	NRBF2	ENSSMRG00000016464	Nuclear receptor coactivator	NA
+Salvator_merianae	JMJD1C	ENSSMRG00000016465	Other_CRF	NA
+Salvator_merianae	TADA3	ENSSMRG00000016512	Transcriptional adaptor	NA
+Salvator_merianae	DCC	ENSSMRG00000016526	Others	NA
+Salvator_merianae		ENSSMRG00000016554	Mediator complex	NA
+Salvator_merianae	PAF1	ENSSMRG00000016556	Others	NA
+Salvator_merianae	SAMD4B	ENSSMRG00000016559	Others	NA
+Salvator_merianae	EZH1	ENSSMRG00000016612	Others	NA
+Salvator_merianae	LPIN2	ENSSMRG00000016622	LPIN	NA
+Salvator_merianae	EHMT2	ENSSMRG00000016642	Histone lysine methyltransferase	NA
+Salvator_merianae	EZH2	ENSSMRG00000016707	Others	NA
+Salvator_merianae	IKBKG	ENSSMRG00000016743	Others	NA
+Salvator_merianae	DNMT1	ENSSMRG00000016764	DNA_methylase	NA
+Salvator_merianae	PLK1	ENSSMRG00000016815	Others	NA
+Salvator_merianae	BRD3	ENSSMRG00000016897	Bromodomain	NA
+Salvator_merianae	SMYD1	ENSSMRG00000016910	SMYD	NA
+Salvator_merianae	WNT3A	ENSSMRG00000016949	Others	NA
+Salvator_merianae	TNIP1	ENSSMRG00000017005	Others	NA
+Salvator_merianae	SETD2	ENSSMRG00000017006	SET	NA
+Salvator_merianae	GTF2F1	ENSSMRG00000017079	GTF	NA
+Salvator_merianae	WDR5B	ENSSMRG00000017103	WD	NA
+Salvator_merianae	MDM2	ENSSMRG00000017124	Others	NA
+Salvator_merianae	CNOT2	ENSSMRG00000017170	CCR4-NOT	NA
+Salvator_merianae	URI1	ENSSMRG00000017182	Others	NA
+Salvator_merianae	CCNE1	ENSSMRG00000017186	Cyclin	NA
+Salvator_merianae	SQSTM1	ENSSMRG00000017222	Others	NA
+Salvator_merianae	MAML1	ENSSMRG00000017240	MAML	NA
+Salvator_merianae		ENSSMRG00000017246	CENP	NA
+Salvator_merianae	CCAR2	ENSSMRG00000017265	Others	NA
+Salvator_merianae	CNOT6	ENSSMRG00000017317	CCR4-NOT	NA
+Salvator_merianae		ENSSMRG00000017339	BCL	NA
+Salvator_merianae	SMARCB1	ENSSMRG00000017383	SWI/SNF	NA
+Salvator_merianae	PHIP	ENSSMRG00000017388	Others	NA
+Salvator_merianae	GTF2B	ENSSMRG00000017427	GTF	NA
+Salvator_merianae	MYCBP2	ENSSMRG00000017514	MYC	NA
+Salvator_merianae	PNRC1	ENSSMRG00000017518	Others	NA
+Salvator_merianae		ENSSMRG00000017539	Others	NA
+Salvator_merianae	CASP8AP2	ENSSMRG00000017558	Others	NA
+Salvator_merianae	C1QBP	ENSSMRG00000017567	Others	NA
+Salvator_merianae	DHX33	ENSSMRG00000017569	RNA helicase	NA
+Salvator_merianae	PCBD2	ENSSMRG00000017579	Others	NA
+Salvator_merianae	ERCC2	ENSSMRG00000017604	Others	NA
+Salvator_merianae	PARK7	ENSSMRG00000017611	Others	NA
+Salvator_merianae	NIPBL	ENSSMRG00000017641	Others	NA
+Salvator_merianae		ENSSMRG00000017678	Transducin	NA
+Salvator_merianae	MED7	ENSSMRG00000017725	Mediator complex	NA
+Salvator_merianae	RPRD1A	ENSSMRG00000017768	Others	NA
+Salvator_merianae	RWDD3	ENSSMRG00000017833	Others	NA
+Salvator_merianae	AUTS2	ENSSMRG00000017913	Others	NA
+Salvator_merianae	SSBP3	ENSSMRG00000017944	Others	NA
+Salvator_merianae	HLTF	ENSSMRG00000017978	Others	NA
+Salvator_merianae	RNF14	ENSSMRG00000017983	Ring finger protein	NA
+Salvator_merianae	FGF1	ENSSMRG00000017987	FGF	NA
+Salvator_merianae	TCERG1	ENSSMRG00000018044	TEF	NA
+Salvator_merianae	ASCC2	ENSSMRG00000018088	ASCC	NA
+Salvator_merianae	THOC5	ENSSMRG00000018097	Others	NA
+Salvator_merianae	EWSR1	ENSSMRG00000018103	Others	NA
+Salvator_merianae	CIR1	ENSSMRG00000018195	Other_Co-activator/repressors	NA
+Salvator_merianae	ITGB3BP	ENSSMRG00000018275	Others	NA
+Salvator_merianae	CXXC5	ENSSMRG00000018322	Others	NA
+Salvator_merianae	PLK3	ENSSMRG00000018364	Others	NA
+Salvator_merianae	DMAP1	ENSSMRG00000018395	DNA_methylase	NA
+Salvator_merianae		ENSSMRG00000018410	Lysine demethylase	NA
+Salvator_merianae		ENSSMRG00000018430	Others	NA
+Salvator_merianae	RBM15	ENSSMRG00000018440	RNA binding protein	NA
+Salvator_merianae	LRPPRC	ENSSMRG00000018517	Others	NA
+Salvator_merianae		ENSSMRG00000018530	Lysine methyltransferase	NA
+Salvator_merianae	GTF2H3	ENSSMRG00000018552	GTF	NA
+Salvator_merianae	SMYD2	ENSSMRG00000018613	SMYD	NA
+Salvator_merianae	RBPMS	ENSSMRG00000018678	RNA binding protein	NA
+Salvator_merianae	PADI2	ENSSMRG00000018690	Other_CRF	NA
+Salvator_merianae	CENPF	ENSSMRG00000018705	CENP	NA
+Salvator_merianae		ENSSMRG00000018755	Others	NA
+Salvator_merianae	DAB2	ENSSMRG00000018870	Others	NA
+Salvator_merianae	MCIDAS	ENSSMRG00000018933	Others	NA
+Salvator_merianae	TLE4	ENSSMRG00000018996	Transducin	NA
+Salvator_merianae		ENSSMRG00000019001	Transducin	NA
+Salvator_merianae	SRA1	ENSSMRG00000019024	Others	NA
+Salvator_merianae	SFRP4	ENSSMRG00000019061	Others	NA
+Salvator_merianae	CDK13	ENSSMRG00000019074	Cyclin	NA
+Salvator_merianae	LANCL2	ENSSMRG00000019089	Others	NA
+Salvator_merianae	EGFR	ENSSMRG00000019090	Others	NA
+Salvator_merianae	TCEA2	ENSSMRG00000019096	TEF	NA
+Salvator_merianae	PRPF6	ENSSMRG00000019099	Others	NA
+Salvator_merianae	NSD3	ENSSMRG00000019100	Nuclear receptor coactivator	NA
+Salvator_merianae	ING4	ENSSMRG00000019106	ING	NA
+Salvator_merianae	FGFR1	ENSSMRG00000019121	FGF	NA
+Salvator_merianae	ATN1	ENSSMRG00000019127	Others	NA
+Salvator_merianae	PHF8	ENSSMRG00000019134	PHF	NA
+Salvator_merianae	PIN1	ENSSMRG00000019161	Others	NA
+Salvator_merianae	HNRNPK	ENSSMRG00000019177	HNRNP	NA
+Salvator_merianae	FBP1	ENSSMRG00000019195	Others	NA
+Salvator_merianae		ENSSMRG00000019204	MAGE	NA
+Salvator_merianae	HABP4	ENSSMRG00000019215	Others	NA
+Salvator_merianae	HDAC6	ENSSMRG00000019223	Histone deacetylase	NA
+Salvator_merianae	PQBP1	ENSSMRG00000019230	Others	NA
+Salvator_merianae	SUV39H1	ENSSMRG00000019258	Others	NA
+Salvator_merianae	SYK	ENSSMRG00000019276	Others	NA
+Salvator_merianae	HINT1	ENSSMRG00000019287	Others	NA
+Salvator_merianae	SRFBP1	ENSSMRG00000019353	Others	NA
+Salvator_merianae	SMARCA5	ENSSMRG00000019372	SWI/SNF	NA
+Salvator_merianae	ABT1	ENSSMRG00000019377	Others	NA
+Salvator_merianae	DGKQ	ENSSMRG00000019422	Others	NA
+Salvator_merianae	PCGF3	ENSSMRG00000019424	PCGF	NA
+Salvator_merianae	HELZ2	ENSSMRG00000019478	Others	NA
+Salvator_merianae		ENSSMRG00000019488	Casein	NA
+Salvator_merianae	TRIB3	ENSSMRG00000019509	Others	NA
+Salvator_merianae	HCK	ENSSMRG00000019542	Others	NA
+Salvator_merianae	ASXL1	ENSSMRG00000019547	Others	NA
+Salvator_merianae	DNMT3B	ENSSMRG00000019551	DNA_methylase	NA
+Salvator_merianae	VGLL4	ENSSMRG00000019572	Vestigial like	NA
+Salvator_merianae	RAF1	ENSSMRG00000019582	Others	NA
+Salvator_merianae	PHF2	ENSSMRG00000019606	PHF	NA
+Salvator_merianae	MLLT1	ENSSMRG00000019624	GTF	NA
+Salvator_merianae	DVL3	ENSSMRG00000019722	Others	NA
+Salvator_merianae	IKBKB	ENSSMRG00000019820	Others	NA
+Salvator_merianae	KAT6A	ENSSMRG00000019823	Lysine acetyltransferase	NA
+Salvator_merianae	NAB1	ENSSMRG00000019867	Others	NA
+Salvator_merianae	ORC2	ENSSMRG00000020017	Others	NA
+Salvator_merianae	NIF3L1	ENSSMRG00000020018	Others	NA
+Salvator_merianae	CRYM	ENSSMRG00000020039	Others	NA
+Salvator_merianae	DEPDC1	ENSSMRG00000020085	Others	NA
+Salvator_merianae	CTH	ENSSMRG00000020092	Others	NA
+Salvator_merianae	BUD31	ENSSMRG00000020120	Others	NA
+Salvator_merianae	TAF1C	ENSSMRG00000020131	TATA-box	NA
+Salvator_merianae		ENSSMRG00000020183	Others	NA
+Salvator_merianae	SMURF1	ENSSMRG00000020244	Others	NA
+Salvator_merianae	TYW5	ENSSMRG00000020247	Lysine demethylase	NA
+Salvator_merianae	ACTB	ENSSMRG00000020253	Actin	NA
+Salvator_merianae	TRAK2	ENSSMRG00000020286	Others	NA
+Salvator_merianae	RBM14	ENSSMRG00000020351	RNA binding protein	NA
+Salvator_merianae	DPF2	ENSSMRG00000020354	DPF	NA
+Salvator_merianae		ENSSMRG00000020365	Lysine acetyltransferase	NA
+Salvator_merianae	DRAP1	ENSSMRG00000020367	Others	NA
+Salvator_merianae	CCDC85B	ENSSMRG00000020376	Coiled-coil	NA
+Salvator_merianae	SND1	ENSSMRG00000020480	Others	NA
+Salvator_merianae	TRIM28	ENSSMRG00000020515	Tripartite motif	NA
+Salvator_merianae	HDAC3	ENSSMRG00000020627	Histone deacetylase	NA
+Salvator_merianae	INO80D	ENSSMRG00000020639	INO80 complex	NA
+Salvator_merianae	NRG1	ENSSMRG00000020666	Others	NA
+Salvator_merianae	RNF20	ENSSMRG00000020704	Ring finger protein	NA
+Salvator_merianae	MEAF6	ENSSMRG00000020769	Others	NA
+Salvator_merianae	SNIP1	ENSSMRG00000020770	Others	NA
+Salvator_merianae	ERBB4	ENSSMRG00000020822	Erbb2	NA
+Salvator_merianae	HDAC4	ENSSMRG00000020842	Histone deacetylase	NA
+Salvator_merianae	TOPORS	ENSSMRG00000020899	Others	NA
+Salvator_merianae	ACTR8	ENSSMRG00000020912	ACTR	NA
+Salvator_merianae	CHEK2	ENSSMRG00000020960	Others	NA
+Salvator_merianae	PIM1	ENSSMRG00000021008	Others	NA
+Salvator_merianae	C6orf89	ENSSMRG00000021014	Other_CRF	NA
+Salvator_merianae	TASOR	ENSSMRG00000021027	FAM	NA
+Salvator_merianae	LOXL2	ENSSMRG00000021043	Others	NA
+Salvator_merianae	RB1	ENSSMRG00000021067	Other_Co-activator/repressors	NA
+Salvator_merianae	MED4	ENSSMRG00000021073	Mediator complex	NA
+Salvator_merianae	ABRA	ENSSMRG00000021172	Actin	NA
+Salvator_merianae	MEN1	ENSSMRG00000021177	Others	NA
+Salvator_merianae	CCDC62	ENSSMRG00000021233	Coiled-coil	NA
+Salvator_merianae	KDM2B	ENSSMRG00000021257	Lysine demethylase	NA
+Salvator_merianae	SET	ENSSMRG00000021323	SET	NA
+Salvator_merianae	NOTCH1	ENSSMRG00000021342	Notch	NA
+Salvator_merianae	RPAP2	ENSSMRG00000021365	Others	NA
+Salvator_merianae	BRF2	ENSSMRG00000021376	GTF	NA
+Salvator_merianae	ZNF703	ENSSMRG00000021385	Zinc finger	NA
+Salvator_merianae	ENY2	ENSSMRG00000021406	Others	NA
+Salvator_merianae	RAD21	ENSSMRG00000021424	Others	NA
+Salvator_merianae	MED30	ENSSMRG00000021444	Mediator complex	NA
+Salvator_merianae	TAF2	ENSSMRG00000021455	TATA-box	NA
+Salvator_merianae	ATAD2	ENSSMRG00000021472	Others	NA
+Salvator_merianae	RUVBL2	ENSSMRG00000021481	Other_CRF	NA
+Salvator_merianae	MED25	ENSSMRG00000021499	Mediator complex	NA
+Salvator_merianae	CNOT11	ENSSMRG00000021506	CCR4-NOT	NA
+Salvator_merianae		ENSSMRG00000021538	Others	NA
+Salvator_merianae	MORF4L1	ENSSMRG00000021547	Other_CRF	NA
+Salvator_merianae	TLE3	ENSSMRG00000021549	Transducin	NA
+Salvator_merianae		ENSSMRG00000021559	ANP	NA
+Salvator_merianae	SKOR1	ENSSMRG00000021566	SKI	NA
+Salvator_merianae	SNAPC5	ENSSMRG00000021580	Others	NA
+Salvator_merianae	TRIM25	ENSSMRG00000021654	Tripartite motif	NA
+Salvator_merianae	NPM3	ENSSMRG00000021667	Nucleoplasmin	NA
+Salvator_merianae	LDB1	ENSSMRG00000021673	LIM	NA
+Salvator_merianae	PPRC1	ENSSMRG00000021674	Others	NA
+Salvator_merianae	MMS19	ENSSMRG00000021683	Others	NA
+Salvator_merianae	ANKRD2	ENSSMRG00000021685	Ankyrin repeat	NA
+Salvator_merianae	BCL9L	ENSSMRG00000021725	BCL	NA
+Salvator_merianae	ASH2L	ENSSMRG00000021759	Others	NA
+Salvator_merianae	HDAC5	ENSSMRG00000021764	Histone deacetylase	NA
+Salvator_merianae	SKAP1	ENSSMRG00000021847	Others	NA
+Salvator_merianae	CDK5RAP3	ENSSMRG00000021852	Cyclin	NA
+Salvator_merianae	ACTN2	ENSSMRG00000021869	Actin	NA
+Salvator_merianae	HEATR1	ENSSMRG00000021870	Others	NA
+Salvator_merianae		ENSSMRG00000021889	Others	NA
+Salvator_merianae		ENSSMRG00000021892	Lysine methyltransferase	NA
+Salvator_merianae	POU2AF1	ENSSMRG00000021899	Others	NA
+Salvator_merianae	CBL	ENSSMRG00000021908	Others	NA
+Salvator_merianae	TRIM29	ENSSMRG00000021922	Tripartite motif	NA
+Salvator_merianae	HSPA8	ENSSMRG00000021944	Heat shock protein	NA
+Salvator_merianae	YEATS2	ENSSMRG00000021963	Others	NA
+Salvator_merianae	SAP130	ENSSMRG00000021975	SAP	NA
+Salvator_merianae	TARBP1	ENSSMRG00000021996	Others	NA
+Salvator_merianae		ENSSMRG00000022015	Others	NA
+Salvator_merianae	TAF5L	ENSSMRG00000022028	TATA-box	NA
+Salvator_merianae	TBP	ENSSMRG00000022065	TATA-box	NA
+Salvator_merianae	PHF10	ENSSMRG00000022073	PHF	NA
+Salvator_merianae	SUMO3	ENSSMRG00000022100	Others	NA
+Salvator_merianae	EZR	ENSSMRG00000022232	Others	NA
+Salvator_merianae	GTF2H5	ENSSMRG00000022240	GTF	NA
+Salvator_merianae	LEO1	ENSSMRG00000022334	Others	NA
+Salvator_merianae	COPS2	ENSSMRG00000022356	Others	NA
+Salvator_merianae	TRIM16	ENSSMRG00000022483	Tripartite motif	NA
+Salvator_merianae		ENSSMRG00000022506	Transducin	NA
+Salvator_merianae	MSL3	ENSSMRG00000022571	Others	NA
+Salvator_merianae		ENSSMRG00000022581	Others	NA
+Salvator_merianae	PIR	ENSSMRG00000022592	Others	NA
+Salvator_merianae	TXLNG	ENSSMRG00000022603	Others	NA
+Salvator_merianae	RNF111	ENSSMRG00000022657	Ring finger protein	NA
+Salvator_merianae	SLTM	ENSSMRG00000022658	Others	NA
+Salvator_merianae		ENSSMRG00000022666	Others	NA
+Salvator_merianae		ENSSMRG00000022716	Nucleoplasmin	NA
+Salvator_merianae	FBXW11	ENSSMRG00000022723	Others	NA
+Salvator_merianae	LPIN1	ENSSMRG00000022737	LPIN	NA
+Salvator_merianae	DDX1	ENSSMRG00000022744	RNA helicase	NA
+Salvator_merianae	NELFA	ENSSMRG00000022773	GTF	NA
+Salvator_merianae	CTBP1	ENSSMRG00000022787	Others	NA
+Salvator_merianae	TAB3	ENSSMRG00000022850	Others	NA
+Salvator_merianae	MID1IP1	ENSSMRG00000022870	Others	NA
+Salvator_merianae	BCOR	ENSSMRG00000022873	Other_Co-activator/repressors	NA
+Salvator_merianae	MED14	ENSSMRG00000022878	Mediator complex	NA
+Salvator_merianae	CASK	ENSSMRG00000022883	CAMK	NA
+Salvator_merianae		ENSSMRG00000022891	Lysine demethylase	NA
+Salvator_merianae	DSCAM	ENSSMRG00000022942	Others	NA
+Salvator_merianae	ELL	ENSSMRG00000022959	GTF	NA
+Salvator_merianae	RGCC	ENSSMRG00000022984	Others	NA
+Salvator_merianae	BRWD1	ENSSMRG00000022992	Bromodomain	NA
+Salvator_merianae	CHAF1B	ENSSMRG00000023007	Others	NA
+Salvator_merianae		ENSSMRG00000023147	Others	NA
+Salvator_merianae	JMJD6	ENSSMRG00000023149	Others	NA
+Salvator_merianae	WBP2	ENSSMRG00000023179	WW	NA
+Salvator_merianae	SAP30BP	ENSSMRG00000023186	SAP	NA
+Salvator_merianae	RECQL5	ENSSMRG00000023187	Others	NA
+Salvator_merianae	TOB1	ENSSMRG00000023324	Others	NA
+Salvator_merianae	MBTD1	ENSSMRG00000023329	Others	NA
+Salvator_merianae	SIRT7	ENSSMRG00000023349	Sirtuin	NA
+Salvator_merianae	ALYREF	ENSSMRG00000023353	Others	NA
+Salvator_merianae		ENSSMRG00000023370	Others	NA
+Salvator_merianae	PRMT8	ENSSMRG00000023386	Arginine methyltransferase	NA
+Salvator_merianae	EPC2	ENSSMRG00000023465	Others	NA
+Salvator_merianae	POLR3F	ENSSMRG00000023496	POLR	NA
+Salvator_merianae	ACTL6A	ENSSMRG00000023614	Actin	NA
+Salvator_merianae	TBL1XR1	ENSSMRG00000023626	Transducin	NA
+Salvator_merianae	SKIL	ENSSMRG00000023652	SKI	NA

@@ -1,0 +1,720 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Erinaceus_europaeus	NCK1	ENSEEUG00000000033	Others	NA
+Erinaceus_europaeus	SLC19A3	ENSEEUG00000000038	SLC	NA
+Erinaceus_europaeus	RB1	ENSEEUG00000000076	Other_Co-activator/repressors	NA
+Erinaceus_europaeus	TRAF6	ENSEEUG00000000085	Others	NA
+Erinaceus_europaeus	LRRK2	ENSEEUG00000000102	Other_CRF	NA
+Erinaceus_europaeus	TADA3	ENSEEUG00000000103	Transcriptional adaptor	NA
+Erinaceus_europaeus	ZMYND11	ENSEEUG00000000152	Zinc finger	NA
+Erinaceus_europaeus	FAM83G	ENSEEUG00000000167	FAM	NA
+Erinaceus_europaeus	BAZ1A	ENSEEUG00000000179	Bromodomain	NA
+Erinaceus_europaeus	PRPF6	ENSEEUG00000000180	Others	NA
+Erinaceus_europaeus	POLR3F	ENSEEUG00000000184	POLR	NA
+Erinaceus_europaeus		ENSEEUG00000000191	Others	103107896
+Erinaceus_europaeus	KDM7A	ENSEEUG00000000229	Lysine demethylase	NA
+Erinaceus_europaeus	SIAH2	ENSEEUG00000000257	Others	NA
+Erinaceus_europaeus	MALT1	ENSEEUG00000000266	Others	NA
+Erinaceus_europaeus	CREBBP	ENSEEUG00000000286	CREB	NA
+Erinaceus_europaeus	HDAC7	ENSEEUG00000000357	Histone deacetylase	NA
+Erinaceus_europaeus	SFRP4	ENSEEUG00000000389	Others	103124515
+Erinaceus_europaeus	SUPT20H	ENSEEUG00000000443	SUPT	NA
+Erinaceus_europaeus	CCNE1	ENSEEUG00000000473	Cyclin	103128570
+Erinaceus_europaeus	KAT6A	ENSEEUG00000000481	Lysine acetyltransferase	NA
+Erinaceus_europaeus	PHF2	ENSEEUG00000000508	PHF	NA
+Erinaceus_europaeus		ENSEEUG00000000522	Nuclear coactivator	NA
+Erinaceus_europaeus	EAF2	ENSEEUG00000000540	Others	NA
+Erinaceus_europaeus	SLTM	ENSEEUG00000000580	Others	NA
+Erinaceus_europaeus	PHIP	ENSEEUG00000000653	Others	NA
+Erinaceus_europaeus		ENSEEUG00000000656	Others	NA
+Erinaceus_europaeus	SMARCD2	ENSEEUG00000000687	SWI/SNF	NA
+Erinaceus_europaeus		ENSEEUG00000000693	TATA-box	NA
+Erinaceus_europaeus	SETD2	ENSEEUG00000000735	SET	NA
+Erinaceus_europaeus	ASH2L	ENSEEUG00000000751	Others	NA
+Erinaceus_europaeus	KDM5B	ENSEEUG00000000753	Lysine demethylase	NA
+Erinaceus_europaeus		ENSEEUG00000000762	Others	NA
+Erinaceus_europaeus	WNT5A	ENSEEUG00000000787	Others	NA
+Erinaceus_europaeus	ECD	ENSEEUG00000000796	Others	103128531
+Erinaceus_europaeus		ENSEEUG00000000846	Others	NA
+Erinaceus_europaeus	FRK	ENSEEUG00000000884	Others	NA
+Erinaceus_europaeus	CSNK2A2	ENSEEUG00000000930	Casein	NA
+Erinaceus_europaeus		ENSEEUG00000000982	Others	NA
+Erinaceus_europaeus	MRTFB	ENSEEUG00000001036	Others	NA
+Erinaceus_europaeus	KDM4C	ENSEEUG00000001050	Lysine demethylase	NA
+Erinaceus_europaeus	ERCC3	ENSEEUG00000001057	Others	NA
+Erinaceus_europaeus	RPAP2	ENSEEUG00000001061	Others	NA
+Erinaceus_europaeus	UTP4	ENSEEUG00000001081	Others	NA
+Erinaceus_europaeus	MNAT1	ENSEEUG00000001091	Others	NA
+Erinaceus_europaeus	ARRB1	ENSEEUG00000001107	Others	NA
+Erinaceus_europaeus	RAP2C	ENSEEUG00000001115	Others	103108145
+Erinaceus_europaeus	CBLB	ENSEEUG00000001141	Others	NA
+Erinaceus_europaeus	POLR2A	ENSEEUG00000001154	POLR	NA
+Erinaceus_europaeus	TCF20	ENSEEUG00000001156	Others	NA
+Erinaceus_europaeus	HCLS1	ENSEEUG00000001183	Others	NA
+Erinaceus_europaeus	ANP32B	ENSEEUG00000001193	ANP	NA
+Erinaceus_europaeus	LPP	ENSEEUG00000001262	Thyroid hormone receptor	NA
+Erinaceus_europaeus	BAZ1B	ENSEEUG00000001283	Bromodomain	NA
+Erinaceus_europaeus		ENSEEUG00000001299	Others	NA
+Erinaceus_europaeus	PCGF1	ENSEEUG00000001303	PCGF	NA
+Erinaceus_europaeus	CHP2	ENSEEUG00000001345	Others	NA
+Erinaceus_europaeus	TRADD	ENSEEUG00000001379	Others	NA
+Erinaceus_europaeus	ACTR5	ENSEEUG00000001397	ACTR	NA
+Erinaceus_europaeus	PRMT8	ENSEEUG00000001432	Arginine methyltransferase	103116377
+Erinaceus_europaeus	BLM	ENSEEUG00000001434	Others	NA
+Erinaceus_europaeus	RAD21	ENSEEUG00000001441	Others	NA
+Erinaceus_europaeus	ELP2	ENSEEUG00000001446	ELP	NA
+Erinaceus_europaeus	LOXL3	ENSEEUG00000001448	Others	NA
+Erinaceus_europaeus	BRD1	ENSEEUG00000001462	Bromodomain	NA
+Erinaceus_europaeus		ENSEEUG00000001512	Others	NA
+Erinaceus_europaeus	NIPBL	ENSEEUG00000001518	Others	NA
+Erinaceus_europaeus	TIGD4	ENSEEUG00000001554	CENP	103119194
+Erinaceus_europaeus	CCNA1	ENSEEUG00000001588	Cyclin	NA
+Erinaceus_europaeus	KDM1B	ENSEEUG00000001595	Lysine demethylase	NA
+Erinaceus_europaeus	DDX1	ENSEEUG00000001606	RNA helicase	NA
+Erinaceus_europaeus	DEK	ENSEEUG00000001624	Other_CRF	NA
+Erinaceus_europaeus	TAF5L	ENSEEUG00000001637	TATA-box	103128034
+Erinaceus_europaeus		ENSEEUG00000001647	Others	NA
+Erinaceus_europaeus		ENSEEUG00000001657	Others	NA
+Erinaceus_europaeus	NCOA3	ENSEEUG00000001706	Nuclear receptor coactivator	NA
+Erinaceus_europaeus	BTN1A1	ENSEEUG00000001712	Others	103123935
+Erinaceus_europaeus	SFSWAP	ENSEEUG00000001713	Others	NA
+Erinaceus_europaeus	TGS1	ENSEEUG00000001735	Others	NA
+Erinaceus_europaeus		ENSEEUG00000001736	Others	NA
+Erinaceus_europaeus	NCOA6	ENSEEUG00000001739	Nuclear receptor coactivator	NA
+Erinaceus_europaeus		ENSEEUG00000001743	PHF	NA
+Erinaceus_europaeus	CEP290	ENSEEUG00000001754	Others	NA
+Erinaceus_europaeus		ENSEEUG00000001789	GTF	NA
+Erinaceus_europaeus	WWOX	ENSEEUG00000001860	WW	NA
+Erinaceus_europaeus	CIDEC	ENSEEUG00000001863	Others	NA
+Erinaceus_europaeus	CTBP2	ENSEEUG00000001906	Others	NA
+Erinaceus_europaeus	TOB2	ENSEEUG00000001912	Others	NA
+Erinaceus_europaeus	RBBP8	ENSEEUG00000001914	RBBP	NA
+Erinaceus_europaeus	LIN54	ENSEEUG00000001921	Others	NA
+Erinaceus_europaeus	HDAC6	ENSEEUG00000002062	Histone deacetylase	NA
+Erinaceus_europaeus	BUD31	ENSEEUG00000002070	Others	103125493
+Erinaceus_europaeus		ENSEEUG00000002071	Tripartite motif	NA
+Erinaceus_europaeus	EAF1	ENSEEUG00000002084	Others	103119503
+Erinaceus_europaeus	TSPYL2	ENSEEUG00000002088	Others	NA
+Erinaceus_europaeus	PARP14	ENSEEUG00000002136	PARP	NA
+Erinaceus_europaeus	TDRD3	ENSEEUG00000002192	Others	NA
+Erinaceus_europaeus	TIMELESS	ENSEEUG00000002258	Others	NA
+Erinaceus_europaeus	RBPMS	ENSEEUG00000002260	RNA binding protein	NA
+Erinaceus_europaeus	DAPK2	ENSEEUG00000002281	Others	NA
+Erinaceus_europaeus	MED8	ENSEEUG00000002286	Mediator complex	NA
+Erinaceus_europaeus		ENSEEUG00000002323	GTF	NA
+Erinaceus_europaeus	KANK1	ENSEEUG00000002334	Others	NA
+Erinaceus_europaeus		ENSEEUG00000002427	Others	NA
+Erinaceus_europaeus	ASXL1	ENSEEUG00000002435	Others	NA
+Erinaceus_europaeus	LMO1	ENSEEUG00000002475	LIM	NA
+Erinaceus_europaeus	NSD3	ENSEEUG00000002476	Nuclear receptor coactivator	NA
+Erinaceus_europaeus		ENSEEUG00000002487	RNA helicase	NA
+Erinaceus_europaeus		ENSEEUG00000002497	Others	NA
+Erinaceus_europaeus	OGT	ENSEEUG00000002534	Others	NA
+Erinaceus_europaeus	NOD2	ENSEEUG00000002548	Others	NA
+Erinaceus_europaeus	PRMT2	ENSEEUG00000002627	Arginine methyltransferase	NA
+Erinaceus_europaeus	BRCA1	ENSEEUG00000002709	Others	NA
+Erinaceus_europaeus	MYCBP2	ENSEEUG00000002710	MYC	NA
+Erinaceus_europaeus	BCL3	ENSEEUG00000002722	BCL	NA
+Erinaceus_europaeus	KAT8	ENSEEUG00000002750	Lysine acetyltransferase	NA
+Erinaceus_europaeus		ENSEEUG00000002775	RBBP	NA
+Erinaceus_europaeus	TAB3	ENSEEUG00000002779	Others	NA
+Erinaceus_europaeus	RALGAPA1	ENSEEUG00000002794	Others	NA
+Erinaceus_europaeus	H1-5	ENSEEUG00000002838	Histone cluster 1 H1	103123910
+Erinaceus_europaeus	AATF	ENSEEUG00000002847	Others	NA
+Erinaceus_europaeus	MPHOSPH8	ENSEEUG00000002922	Others	NA
+Erinaceus_europaeus		ENSEEUG00000002926	Others	NA
+Erinaceus_europaeus	GTF2E1	ENSEEUG00000002929	GTF	NA
+Erinaceus_europaeus	PID1	ENSEEUG00000002952	Others	NA
+Erinaceus_europaeus	MTPN	ENSEEUG00000002967	Others	NA
+Erinaceus_europaeus	RPTOR	ENSEEUG00000002970	Others	NA
+Erinaceus_europaeus	RLIM	ENSEEUG00000002973	Ring finger protein	NA
+Erinaceus_europaeus		ENSEEUG00000002978	TATA-box	NA
+Erinaceus_europaeus	TAF3	ENSEEUG00000002987	TATA-box	NA
+Erinaceus_europaeus	KMT5A	ENSEEUG00000002988	Lysine methyltransferase	NA
+Erinaceus_europaeus	WDR5B	ENSEEUG00000002990	WD	103122507
+Erinaceus_europaeus	CITED1	ENSEEUG00000002992	CITED	NA
+Erinaceus_europaeus	CNOT2	ENSEEUG00000003003	CCR4-NOT	NA
+Erinaceus_europaeus	CHD1L	ENSEEUG00000003056	CHD	NA
+Erinaceus_europaeus	TBL1XR1	ENSEEUG00000003084	Transducin	NA
+Erinaceus_europaeus	FHOD1	ENSEEUG00000003091	Others	NA
+Erinaceus_europaeus	TAF9	ENSEEUG00000003092	TATA-box	NA
+Erinaceus_europaeus	SAP30L	ENSEEUG00000003164	SAP	NA
+Erinaceus_europaeus	SCMH1	ENSEEUG00000003182	Others	NA
+Erinaceus_europaeus	KDM8	ENSEEUG00000003183	Lysine demethylase	NA
+Erinaceus_europaeus	LRIF1	ENSEEUG00000003244	Others	NA
+Erinaceus_europaeus	SAP130	ENSEEUG00000003254	SAP	NA
+Erinaceus_europaeus	TENM3	ENSEEUG00000003264	Others	NA
+Erinaceus_europaeus		ENSEEUG00000003406	GTF	NA
+Erinaceus_europaeus	VGLL4	ENSEEUG00000003426	Vestigial like	NA
+Erinaceus_europaeus	SUPT16H	ENSEEUG00000003434	SUPT	NA
+Erinaceus_europaeus	CHD8	ENSEEUG00000003523	CHD	NA
+Erinaceus_europaeus		ENSEEUG00000003540	Zinc finger	NA
+Erinaceus_europaeus		ENSEEUG00000003576	Others	NA
+Erinaceus_europaeus		ENSEEUG00000003578	Others	NA
+Erinaceus_europaeus	NFKBID	ENSEEUG00000003597	NFKB associated	NA
+Erinaceus_europaeus	EZH1	ENSEEUG00000003620	Others	NA
+Erinaceus_europaeus		ENSEEUG00000003633	Others	NA
+Erinaceus_europaeus	CCNC	ENSEEUG00000003653	Cyclin	NA
+Erinaceus_europaeus	SETD3	ENSEEUG00000003681	SET	NA
+Erinaceus_europaeus	WWP2	ENSEEUG00000003718	WW	NA
+Erinaceus_europaeus	DCAF1	ENSEEUG00000003770	Others	NA
+Erinaceus_europaeus	MACROH2A2	ENSEEUG00000003822	Others	NA
+Erinaceus_europaeus	SUV39H2	ENSEEUG00000003835	Others	NA
+Erinaceus_europaeus	CCND3	ENSEEUG00000003907	Cyclin	NA
+Erinaceus_europaeus	HDAC9	ENSEEUG00000004008	Histone deacetylase	NA
+Erinaceus_europaeus	RUNX1T1	ENSEEUG00000004013	Others	NA
+Erinaceus_europaeus	FGFR2	ENSEEUG00000004024	FGF	NA
+Erinaceus_europaeus	NCOA2	ENSEEUG00000004088	Nuclear receptor coactivator	NA
+Erinaceus_europaeus	ZNF451	ENSEEUG00000004110	Zinc finger	NA
+Erinaceus_europaeus	ANXA4	ENSEEUG00000004124	Others	NA
+Erinaceus_europaeus	RIPPLY1	ENSEEUG00000004168	Others	NA
+Erinaceus_europaeus		ENSEEUG00000004233	Chromobox	NA
+Erinaceus_europaeus	SMURF2	ENSEEUG00000004272	Others	NA
+Erinaceus_europaeus		ENSEEUG00000004364	Mediator complex	NA
+Erinaceus_europaeus	RBM39	ENSEEUG00000004390	RNA binding protein	NA
+Erinaceus_europaeus	ASCC2	ENSEEUG00000004419	ASCC	NA
+Erinaceus_europaeus	GNL3	ENSEEUG00000004427	Others	NA
+Erinaceus_europaeus		ENSEEUG00000004457	NFKB associated	NA
+Erinaceus_europaeus	CHCHD3	ENSEEUG00000004476	Coiled-coil	103118969
+Erinaceus_europaeus	L3MBTL2	ENSEEUG00000004477	Others	NA
+Erinaceus_europaeus	TAF2	ENSEEUG00000004497	TATA-box	NA
+Erinaceus_europaeus	BTF3L4	ENSEEUG00000004502	Others	NA
+Erinaceus_europaeus	RBFOX2	ENSEEUG00000004549	Others	NA
+Erinaceus_europaeus		ENSEEUG00000004556	Mediator complex	NA
+Erinaceus_europaeus	HCK	ENSEEUG00000004567	Others	NA
+Erinaceus_europaeus	LANCL2	ENSEEUG00000004572	Others	NA
+Erinaceus_europaeus	KAT6B	ENSEEUG00000004613	Lysine acetyltransferase	NA
+Erinaceus_europaeus	HELZ2	ENSEEUG00000004620	Others	NA
+Erinaceus_europaeus	SLC26A3	ENSEEUG00000004661	SLC	NA
+Erinaceus_europaeus	TNKS	ENSEEUG00000004699	Others	NA
+Erinaceus_europaeus	YAF2	ENSEEUG00000004713	Others	NA
+Erinaceus_europaeus	TXLNG	ENSEEUG00000004730	Others	NA
+Erinaceus_europaeus	CBX2	ENSEEUG00000004732	Chromobox	NA
+Erinaceus_europaeus	MED13L	ENSEEUG00000004739	Mediator complex	NA
+Erinaceus_europaeus	CBX8	ENSEEUG00000004773	Chromobox	NA
+Erinaceus_europaeus	DHX9	ENSEEUG00000004824	RNA helicase	NA
+Erinaceus_europaeus		ENSEEUG00000004830	RBBP	NA
+Erinaceus_europaeus	SSBP2	ENSEEUG00000004863	Others	NA
+Erinaceus_europaeus		ENSEEUG00000004885	Coiled-coil	NA
+Erinaceus_europaeus	NAA15	ENSEEUG00000004913	Others	NA
+Erinaceus_europaeus	TSG101	ENSEEUG00000004924	Others	NA
+Erinaceus_europaeus	NFKBIB	ENSEEUG00000004925	NFKB associated	NA
+Erinaceus_europaeus	FUS	ENSEEUG00000004934	Others	NA
+Erinaceus_europaeus	THRAP3	ENSEEUG00000004939	Thyroid hormone receptor	NA
+Erinaceus_europaeus	TNIP1	ENSEEUG00000004948	Others	NA
+Erinaceus_europaeus		ENSEEUG00000004951	BCL	NA
+Erinaceus_europaeus		ENSEEUG00000004960	Thyroid hormone receptor	NA
+Erinaceus_europaeus	NELFE	ENSEEUG00000005004	GTF	NA
+Erinaceus_europaeus	S100A9	ENSEEUG00000005029	Others	NA
+Erinaceus_europaeus		ENSEEUG00000005030	Others	NA
+Erinaceus_europaeus	NOTCH2	ENSEEUG00000005033	Notch	NA
+Erinaceus_europaeus	APBB2	ENSEEUG00000005037	Others	NA
+Erinaceus_europaeus	SMYD3	ENSEEUG00000005051	SMYD	NA
+Erinaceus_europaeus		ENSEEUG00000005120	Others	NA
+Erinaceus_europaeus	ELOC	ENSEEUG00000005157	Others	NA
+Erinaceus_europaeus	CDK8	ENSEEUG00000005196	Cyclin	NA
+Erinaceus_europaeus	TAX1BP1	ENSEEUG00000005204	Others	NA
+Erinaceus_europaeus	HDAC5	ENSEEUG00000005211	Histone deacetylase	NA
+Erinaceus_europaeus	KDM4A	ENSEEUG00000005213	Lysine demethylase	NA
+Erinaceus_europaeus	TRIM33	ENSEEUG00000005249	Tripartite motif	NA
+Erinaceus_europaeus	HEXIM2	ENSEEUG00000005259	Others	NA
+Erinaceus_europaeus		ENSEEUG00000005310	Others	NA
+Erinaceus_europaeus		ENSEEUG00000005322	LPIN	NA
+Erinaceus_europaeus	WDTC1	ENSEEUG00000005340	WD	NA
+Erinaceus_europaeus	AGO1	ENSEEUG00000005349	Others	NA
+Erinaceus_europaeus	RALY	ENSEEUG00000005356	Others	NA
+Erinaceus_europaeus	TGFB1	ENSEEUG00000005405	Others	NA
+Erinaceus_europaeus		ENSEEUG00000005476	Others	NA
+Erinaceus_europaeus		ENSEEUG00000005502	TEF	NA
+Erinaceus_europaeus	PARP10	ENSEEUG00000005507	PARP	NA
+Erinaceus_europaeus		ENSEEUG00000005525	Others	NA
+Erinaceus_europaeus	TRIM68	ENSEEUG00000005588	Tripartite motif	NA
+Erinaceus_europaeus	MED11	ENSEEUG00000005649	Mediator complex	NA
+Erinaceus_europaeus	SIRT5	ENSEEUG00000005650	Sirtuin	103128427
+Erinaceus_europaeus	PARP9	ENSEEUG00000005662	PARP	NA
+Erinaceus_europaeus	EED	ENSEEUG00000005681	Others	NA
+Erinaceus_europaeus		ENSEEUG00000005715	Histone deacetylase	NA
+Erinaceus_europaeus	MED23	ENSEEUG00000005722	Mediator complex	NA
+Erinaceus_europaeus	MMS19	ENSEEUG00000005725	Others	NA
+Erinaceus_europaeus	CCAR2	ENSEEUG00000005728	Others	NA
+Erinaceus_europaeus	SRC	ENSEEUG00000005742	Others	NA
+Erinaceus_europaeus	HSD17B13	ENSEEUG00000005785	Others	NA
+Erinaceus_europaeus	SETD6	ENSEEUG00000005794	SET	NA
+Erinaceus_europaeus	FLNA	ENSEEUG00000005817	Others	NA
+Erinaceus_europaeus		ENSEEUG00000005838	Zinc finger	NA
+Erinaceus_europaeus	FGF1	ENSEEUG00000005863	FGF	103109869
+Erinaceus_europaeus		ENSEEUG00000005866	Others	NA
+Erinaceus_europaeus	PIR	ENSEEUG00000005883	Others	NA
+Erinaceus_europaeus	MORF4L2	ENSEEUG00000005904	Other_CRF	103125583
+Erinaceus_europaeus	NCL	ENSEEUG00000005913	Others	NA
+Erinaceus_europaeus	MAD2L2	ENSEEUG00000005918	Others	NA
+Erinaceus_europaeus	BRDT	ENSEEUG00000005970	Bromodomain	NA
+Erinaceus_europaeus	XIAP	ENSEEUG00000005972	Others	NA
+Erinaceus_europaeus	PABPC1L	ENSEEUG00000005978	Other_CRF	103120444
+Erinaceus_europaeus	HDAC2	ENSEEUG00000005998	Histone deacetylase	NA
+Erinaceus_europaeus	PSIP1	ENSEEUG00000005999	Others	NA
+Erinaceus_europaeus	BRD8	ENSEEUG00000006000	Bromodomain	NA
+Erinaceus_europaeus	CNOT1	ENSEEUG00000006015	CCR4-NOT	NA
+Erinaceus_europaeus	KDM2B	ENSEEUG00000006069	Lysine demethylase	NA
+Erinaceus_europaeus	ERN1	ENSEEUG00000006091	Others	NA
+Erinaceus_europaeus		ENSEEUG00000006098	Ring finger protein	NA
+Erinaceus_europaeus	MYOCD	ENSEEUG00000006108	Others	NA
+Erinaceus_europaeus	AEBP1	ENSEEUG00000006131	Others	NA
+Erinaceus_europaeus	MYO6	ENSEEUG00000006176	Others	NA
+Erinaceus_europaeus	CCNT1	ENSEEUG00000006204	Cyclin	NA
+Erinaceus_europaeus	CDYL2	ENSEEUG00000006207	Chromodomain Y	NA
+Erinaceus_europaeus	CSRP3	ENSEEUG00000006242	Others	NA
+Erinaceus_europaeus	SAP18	ENSEEUG00000006309	SAP	NA
+Erinaceus_europaeus	PLK2	ENSEEUG00000006310	Others	NA
+Erinaceus_europaeus	MED31	ENSEEUG00000006320	Mediator complex	103111843
+Erinaceus_europaeus	HMOX1	ENSEEUG00000006345	Others	NA
+Erinaceus_europaeus		ENSEEUG00000006346	Others	NA
+Erinaceus_europaeus	S100A8	ENSEEUG00000006355	Others	NA
+Erinaceus_europaeus	DMAP1	ENSEEUG00000006423	DNA_methylase	NA
+Erinaceus_europaeus	MED27	ENSEEUG00000006445	Mediator complex	103119972
+Erinaceus_europaeus	TCEAL1	ENSEEUG00000006503	TEF	103125584
+Erinaceus_europaeus		ENSEEUG00000006525	Others	NA
+Erinaceus_europaeus	CHD1	ENSEEUG00000006546	CHD	NA
+Erinaceus_europaeus	C6orf89	ENSEEUG00000006589	Other_CRF	NA
+Erinaceus_europaeus		ENSEEUG00000006636	Others	NA
+Erinaceus_europaeus	RPRD1B	ENSEEUG00000006639	Others	NA
+Erinaceus_europaeus	KDM1A	ENSEEUG00000006648	Lysine demethylase	NA
+Erinaceus_europaeus	ERBB2	ENSEEUG00000006658	Erbb2	NA
+Erinaceus_europaeus		ENSEEUG00000006663	Others	NA
+Erinaceus_europaeus		ENSEEUG00000006706	Heat shock protein	NA
+Erinaceus_europaeus	GTF2B	ENSEEUG00000006779	GTF	103125865
+Erinaceus_europaeus	ICE2	ENSEEUG00000006850	GTF	NA
+Erinaceus_europaeus	DTX4	ENSEEUG00000006880	Others	NA
+Erinaceus_europaeus	EHMT1	ENSEEUG00000006885	Histone lysine methyltransferase	NA
+Erinaceus_europaeus	ELL2	ENSEEUG00000006912	GTF	103120928
+Erinaceus_europaeus	ELP1	ENSEEUG00000007001	ELP	103107365
+Erinaceus_europaeus	RGCC	ENSEEUG00000007020	Others	NA
+Erinaceus_europaeus		ENSEEUG00000007023	Casein	NA
+Erinaceus_europaeus	RPRD1A	ENSEEUG00000007025	Others	103124801
+Erinaceus_europaeus		ENSEEUG00000007036	Mediator complex	NA
+Erinaceus_europaeus	PCBD2	ENSEEUG00000007051	Others	NA
+Erinaceus_europaeus	MLLT3	ENSEEUG00000007054	GTF	NA
+Erinaceus_europaeus	WDR61	ENSEEUG00000007076	WD	NA
+Erinaceus_europaeus	CRY1	ENSEEUG00000007080	Others	NA
+Erinaceus_europaeus		ENSEEUG00000007116	Others	NA
+Erinaceus_europaeus	IKBKG	ENSEEUG00000007121	Others	NA
+Erinaceus_europaeus		ENSEEUG00000007142	Nuclear receptor coactivator	NA
+Erinaceus_europaeus	RFXAP	ENSEEUG00000007197	Others	NA
+Erinaceus_europaeus		ENSEEUG00000007208	Others	NA
+Erinaceus_europaeus		ENSEEUG00000007247	Others	NA
+Erinaceus_europaeus	CBX3	ENSEEUG00000007262	Chromobox	NA
+Erinaceus_europaeus		ENSEEUG00000007266	Others	NA
+Erinaceus_europaeus	MIER3	ENSEEUG00000007302	MIER	NA
+Erinaceus_europaeus	HDAC10	ENSEEUG00000007304	Histone deacetylase	NA
+Erinaceus_europaeus	SNW1	ENSEEUG00000007307	Others	NA
+Erinaceus_europaeus		ENSEEUG00000007312	Others	NA
+Erinaceus_europaeus	LIN9	ENSEEUG00000007327	Others	NA
+Erinaceus_europaeus	TRIM27	ENSEEUG00000007384	Tripartite motif	NA
+Erinaceus_europaeus	FBXW7	ENSEEUG00000007434	Others	103117902
+Erinaceus_europaeus		ENSEEUG00000007472	HNRNP	103126091
+Erinaceus_europaeus		ENSEEUG00000007515	Others	NA
+Erinaceus_europaeus	NUDT5	ENSEEUG00000007529	Other_CRF	103114893
+Erinaceus_europaeus	DPF2	ENSEEUG00000007539	DPF	NA
+Erinaceus_europaeus	HNRNPD	ENSEEUG00000007552	HNRNP	NA
+Erinaceus_europaeus	FLII	ENSEEUG00000007596	Others	NA
+Erinaceus_europaeus	CLU	ENSEEUG00000007638	Others	NA
+Erinaceus_europaeus		ENSEEUG00000007647	Others	NA
+Erinaceus_europaeus	RNF8	ENSEEUG00000007668	Ring finger protein	NA
+Erinaceus_europaeus	HELLS	ENSEEUG00000007680	Others	NA
+Erinaceus_europaeus		ENSEEUG00000007697	Others	NA
+Erinaceus_europaeus		ENSEEUG00000007711	Heat shock protein	NA
+Erinaceus_europaeus	CREG2	ENSEEUG00000007730	Others	NA
+Erinaceus_europaeus	TRIP4	ENSEEUG00000007741	Thyroid hormone receptor	NA
+Erinaceus_europaeus	EPC1	ENSEEUG00000007764	Others	NA
+Erinaceus_europaeus	ANKAR	ENSEEUG00000007820	Ankyrin repeat	NA
+Erinaceus_europaeus	MSN	ENSEEUG00000007828	Others	NA
+Erinaceus_europaeus	CDK1	ENSEEUG00000007834	Cyclin	NA
+Erinaceus_europaeus	TOP1	ENSEEUG00000007857	Other_CRF	NA
+Erinaceus_europaeus	CBFA2T2	ENSEEUG00000007911	Others	NA
+Erinaceus_europaeus	ELP3	ENSEEUG00000007969	ELP	NA
+Erinaceus_europaeus	NRIP2	ENSEEUG00000007992	Nuclear coactivator	NA
+Erinaceus_europaeus	PRNP	ENSEEUG00000008005	Others	103128660
+Erinaceus_europaeus	TRAK2	ENSEEUG00000008012	Others	NA
+Erinaceus_europaeus	BCAS3	ENSEEUG00000008023	Others	NA
+Erinaceus_europaeus	TIRAP	ENSEEUG00000008033	Others	103128530
+Erinaceus_europaeus	CRTC2	ENSEEUG00000008041	CREB	NA
+Erinaceus_europaeus	HCFC1	ENSEEUG00000008074	Others	NA
+Erinaceus_europaeus	STRAP	ENSEEUG00000008084	Others	NA
+Erinaceus_europaeus	CXXC5	ENSEEUG00000008125	Others	103108574
+Erinaceus_europaeus	HINT1	ENSEEUG00000008175	Others	103121966
+Erinaceus_europaeus	MYBBP1A	ENSEEUG00000008195	MYB	103113524
+Erinaceus_europaeus	EDRF1	ENSEEUG00000008209	Others	NA
+Erinaceus_europaeus		ENSEEUG00000008265	SUPT	NA
+Erinaceus_europaeus	BIRC2	ENSEEUG00000008287	Others	103111441
+Erinaceus_europaeus		ENSEEUG00000008296	RNA helicase	NA
+Erinaceus_europaeus	CHTOP	ENSEEUG00000008311	Others	NA
+Erinaceus_europaeus	ILK	ENSEEUG00000008366	Others	NA
+Erinaceus_europaeus		ENSEEUG00000008392	Others	NA
+Erinaceus_europaeus	RBL2	ENSEEUG00000008401	Other_Co-activator/repressors	NA
+Erinaceus_europaeus	TAF10	ENSEEUG00000008412	TATA-box	103117647
+Erinaceus_europaeus	ACTN2	ENSEEUG00000008434	Actin	NA
+Erinaceus_europaeus		ENSEEUG00000008443	Ring finger protein	NA
+Erinaceus_europaeus	MAGED1	ENSEEUG00000008476	MAGE	NA
+Erinaceus_europaeus		ENSEEUG00000008478	Others	NA
+Erinaceus_europaeus	MTDH	ENSEEUG00000008485	Others	NA
+Erinaceus_europaeus		ENSEEUG00000008487	Other_CRF	NA
+Erinaceus_europaeus		ENSEEUG00000008491	Others	NA
+Erinaceus_europaeus	SGF29	ENSEEUG00000008521	Others	NA
+Erinaceus_europaeus	RITA1	ENSEEUG00000008531	Others	103118623
+Erinaceus_europaeus	GSK3B	ENSEEUG00000008536	Others	NA
+Erinaceus_europaeus	TLE1	ENSEEUG00000008559	Transducin	NA
+Erinaceus_europaeus	SUDS3	ENSEEUG00000008568	Other_Co-activator/repressors	NA
+Erinaceus_europaeus		ENSEEUG00000008589	RNA helicase	NA
+Erinaceus_europaeus		ENSEEUG00000008602	Others	NA
+Erinaceus_europaeus	TBPL2	ENSEEUG00000008616	TATA-box	NA
+Erinaceus_europaeus	ACTN1	ENSEEUG00000008627	Actin	NA
+Erinaceus_europaeus		ENSEEUG00000008643	Others	NA
+Erinaceus_europaeus	CTNND2	ENSEEUG00000008645	Casein	NA
+Erinaceus_europaeus	PDLIM1	ENSEEUG00000008682	Others	NA
+Erinaceus_europaeus	PHF20	ENSEEUG00000008753	PHF	NA
+Erinaceus_europaeus	SGK1	ENSEEUG00000008758	Others	NA
+Erinaceus_europaeus	NCOA4	ENSEEUG00000008825	Nuclear receptor coactivator	NA
+Erinaceus_europaeus	WWP1	ENSEEUG00000008842	WW	NA
+Erinaceus_europaeus	CHD6	ENSEEUG00000008844	CHD	NA
+Erinaceus_europaeus	DPPA2	ENSEEUG00000008944	Others	NA
+Erinaceus_europaeus	HEATR1	ENSEEUG00000008946	Others	NA
+Erinaceus_europaeus	PHF19	ENSEEUG00000008976	PHF	NA
+Erinaceus_europaeus	WNT3	ENSEEUG00000009001	Others	103119385
+Erinaceus_europaeus	BRD3	ENSEEUG00000009040	Bromodomain	NA
+Erinaceus_europaeus	TAF5	ENSEEUG00000009047	TATA-box	NA
+Erinaceus_europaeus	MAK	ENSEEUG00000009073	Others	NA
+Erinaceus_europaeus		ENSEEUG00000009076	CCR4-NOT	NA
+Erinaceus_europaeus	BCOR	ENSEEUG00000009100	Other_Co-activator/repressors	NA
+Erinaceus_europaeus		ENSEEUG00000009115	Others	NA
+Erinaceus_europaeus		ENSEEUG00000009119	SUPT	NA
+Erinaceus_europaeus	MED13	ENSEEUG00000009142	Mediator complex	NA
+Erinaceus_europaeus	PRMT7	ENSEEUG00000009154	Arginine methyltransferase	NA
+Erinaceus_europaeus	DACT1	ENSEEUG00000009193	Others	NA
+Erinaceus_europaeus	TARBP1	ENSEEUG00000009210	Others	NA
+Erinaceus_europaeus	PPARGC1A	ENSEEUG00000009219	Others	NA
+Erinaceus_europaeus	XRN2	ENSEEUG00000009265	Others	NA
+Erinaceus_europaeus	HIPK1	ENSEEUG00000009271	HIPK	NA
+Erinaceus_europaeus	PER1	ENSEEUG00000009292	Others	NA
+Erinaceus_europaeus		ENSEEUG00000009301	GTF	NA
+Erinaceus_europaeus		ENSEEUG00000009347	TATA-box	NA
+Erinaceus_europaeus	EP300	ENSEEUG00000009364	Others	NA
+Erinaceus_europaeus	CAMK4	ENSEEUG00000009373	CAMK	NA
+Erinaceus_europaeus	JMJD6	ENSEEUG00000009400	Others	NA
+Erinaceus_europaeus		ENSEEUG00000009414	Others	NA
+Erinaceus_europaeus		ENSEEUG00000009426	FHL	NA
+Erinaceus_europaeus		ENSEEUG00000009436	Cyclin	NA
+Erinaceus_europaeus	CAVIN2	ENSEEUG00000009453	Others	NA
+Erinaceus_europaeus		ENSEEUG00000009454	Nuclear coactivator	NA
+Erinaceus_europaeus		ENSEEUG00000009559	Others	NA
+Erinaceus_europaeus		ENSEEUG00000009562	Others	NA
+Erinaceus_europaeus	EDF1	ENSEEUG00000009565	Others	NA
+Erinaceus_europaeus	CCNT2	ENSEEUG00000009570	Cyclin	NA
+Erinaceus_europaeus	SCAI	ENSEEUG00000009581	Others	NA
+Erinaceus_europaeus	LGALS12	ENSEEUG00000009588	Others	NA
+Erinaceus_europaeus	ORC2	ENSEEUG00000009597	Others	NA
+Erinaceus_europaeus	RBL1	ENSEEUG00000009609	Other_Co-activator/repressors	NA
+Erinaceus_europaeus	NLK	ENSEEUG00000009617	Others	NA
+Erinaceus_europaeus	INO80	ENSEEUG00000009672	INO80 complex	NA
+Erinaceus_europaeus	YWHAG	ENSEEUG00000009673	Others	103108947
+Erinaceus_europaeus	BRCA2	ENSEEUG00000009739	Others	NA
+Erinaceus_europaeus	ASCC3	ENSEEUG00000009748	ASCC	NA
+Erinaceus_europaeus		ENSEEUG00000009759	TATA-box	NA
+Erinaceus_europaeus		ENSEEUG00000009774	Others	NA
+Erinaceus_europaeus	SYK	ENSEEUG00000009804	Others	NA
+Erinaceus_europaeus	TAB1	ENSEEUG00000009829	Others	NA
+Erinaceus_europaeus	ARHGAP5	ENSEEUG00000009852	Others	NA
+Erinaceus_europaeus	MBD3L1	ENSEEUG00000009865	MBD	103118951
+Erinaceus_europaeus		ENSEEUG00000009885	Others	NA
+Erinaceus_europaeus		ENSEEUG00000009926	PHF	NA
+Erinaceus_europaeus	GRIP1	ENSEEUG00000009951	Others	NA
+Erinaceus_europaeus	ERBB4	ENSEEUG00000009967	Erbb2	NA
+Erinaceus_europaeus	TADA1	ENSEEUG00000010058	Transcriptional adaptor	NA
+Erinaceus_europaeus	CTDSP2	ENSEEUG00000010060	Others	NA
+Erinaceus_europaeus	KDM2A	ENSEEUG00000010174	Lysine demethylase	NA
+Erinaceus_europaeus	TENM1	ENSEEUG00000010180	Others	NA
+Erinaceus_europaeus	KAT2B	ENSEEUG00000010182	Lysine acetyltransferase	NA
+Erinaceus_europaeus		ENSEEUG00000010213	Others	NA
+Erinaceus_europaeus		ENSEEUG00000010217	Others	NA
+Erinaceus_europaeus		ENSEEUG00000010220	Others	NA
+Erinaceus_europaeus		ENSEEUG00000010232	Others	NA
+Erinaceus_europaeus	SPEN	ENSEEUG00000010255	Others	NA
+Erinaceus_europaeus	PRMT6	ENSEEUG00000010272	Arginine methyltransferase	103118109
+Erinaceus_europaeus	MCRS1	ENSEEUG00000010283	Others	NA
+Erinaceus_europaeus	SAP30BP	ENSEEUG00000010305	SAP	NA
+Erinaceus_europaeus	BANP	ENSEEUG00000010348	Others	NA
+Erinaceus_europaeus	RNF111	ENSEEUG00000010384	Ring finger protein	NA
+Erinaceus_europaeus	TAF1A	ENSEEUG00000010387	TATA-box	NA
+Erinaceus_europaeus		ENSEEUG00000010389	Tripartite motif	NA
+Erinaceus_europaeus	DHX36	ENSEEUG00000010430	RNA helicase	NA
+Erinaceus_europaeus	WWC2	ENSEEUG00000010433	WW	NA
+Erinaceus_europaeus		ENSEEUG00000010458	Others	103122713
+Erinaceus_europaeus	SMARCB1	ENSEEUG00000010499	SWI/SNF	NA
+Erinaceus_europaeus	ZNF593	ENSEEUG00000010536	Zinc finger	NA
+Erinaceus_europaeus	DGKB	ENSEEUG00000010541	Others	NA
+Erinaceus_europaeus		ENSEEUG00000010551	CAMK	NA
+Erinaceus_europaeus	ERCC2	ENSEEUG00000010569	Others	NA
+Erinaceus_europaeus	CDK13	ENSEEUG00000010585	Cyclin	NA
+Erinaceus_europaeus	NIF3L1	ENSEEUG00000010592	Others	NA
+Erinaceus_europaeus	MED1	ENSEEUG00000010655	Mediator complex	NA
+Erinaceus_europaeus	HTATSF1	ENSEEUG00000010668	Others	NA
+Erinaceus_europaeus	RAB38	ENSEEUG00000010669	Others	103124418
+Erinaceus_europaeus	FHL2	ENSEEUG00000010681	FHL	NA
+Erinaceus_europaeus	KDM3B	ENSEEUG00000010695	Lysine demethylase	NA
+Erinaceus_europaeus	BRD2	ENSEEUG00000010734	Bromodomain	NA
+Erinaceus_europaeus	RSF1	ENSEEUG00000010747	Others	NA
+Erinaceus_europaeus	CASK	ENSEEUG00000010762	CAMK	NA
+Erinaceus_europaeus		ENSEEUG00000010773	Lysine demethylase	NA
+Erinaceus_europaeus	TDP2	ENSEEUG00000010776	Others	NA
+Erinaceus_europaeus		ENSEEUG00000010799	Others	NA
+Erinaceus_europaeus		ENSEEUG00000010828	Others	NA
+Erinaceus_europaeus		ENSEEUG00000010869	SET	NA
+Erinaceus_europaeus	KDM5A	ENSEEUG00000010880	Lysine demethylase	NA
+Erinaceus_europaeus		ENSEEUG00000010982	Others	NA
+Erinaceus_europaeus	CNOT7	ENSEEUG00000010986	CCR4-NOT	NA
+Erinaceus_europaeus	YAP1	ENSEEUG00000011028	Others	NA
+Erinaceus_europaeus	STK4	ENSEEUG00000011042	Others	NA
+Erinaceus_europaeus		ENSEEUG00000011061	Others	NA
+Erinaceus_europaeus	MED18	ENSEEUG00000011101	Mediator complex	103112952
+Erinaceus_europaeus	POLR3C	ENSEEUG00000011124	POLR	NA
+Erinaceus_europaeus	BTG3	ENSEEUG00000011174	Others	NA
+Erinaceus_europaeus	PEX14	ENSEEUG00000011181	Others	NA
+Erinaceus_europaeus	SERTAD2	ENSEEUG00000011182	Others	103128711
+Erinaceus_europaeus	SAMD4B	ENSEEUG00000011191	Others	NA
+Erinaceus_europaeus		ENSEEUG00000011211	Others	NA
+Erinaceus_europaeus		ENSEEUG00000011288	Others	NA
+Erinaceus_europaeus	NRG1	ENSEEUG00000011329	Others	NA
+Erinaceus_europaeus	RAF1	ENSEEUG00000011360	Others	NA
+Erinaceus_europaeus	TOPORS	ENSEEUG00000011385	Others	NA
+Erinaceus_europaeus		ENSEEUG00000011457	Others	NA
+Erinaceus_europaeus		ENSEEUG00000011458	Bromodomain	NA
+Erinaceus_europaeus		ENSEEUG00000011466	DNA_methylase	NA
+Erinaceus_europaeus	PAF1	ENSEEUG00000011480	Others	NA
+Erinaceus_europaeus	INO80D	ENSEEUG00000011483	INO80 complex	NA
+Erinaceus_europaeus	CNOT10	ENSEEUG00000011504	CCR4-NOT	NA
+Erinaceus_europaeus	SRFBP1	ENSEEUG00000011514	Others	NA
+Erinaceus_europaeus	KDM6A	ENSEEUG00000011515	Lysine demethylase	NA
+Erinaceus_europaeus		ENSEEUG00000011529	Others	NA
+Erinaceus_europaeus	BRIP1	ENSEEUG00000011563	Others	NA
+Erinaceus_europaeus	HNRNPUL1	ENSEEUG00000011565	HNRNP	NA
+Erinaceus_europaeus		ENSEEUG00000011578	Others	NA
+Erinaceus_europaeus	WDR77	ENSEEUG00000011592	WD	103116967
+Erinaceus_europaeus		ENSEEUG00000011620	Others	NA
+Erinaceus_europaeus	NEDD8	ENSEEUG00000011640	Others	103125489
+Erinaceus_europaeus	ZMYM2	ENSEEUG00000011651	Zinc finger	NA
+Erinaceus_europaeus		ENSEEUG00000011674	Others	NA
+Erinaceus_europaeus		ENSEEUG00000011676	BCL	NA
+Erinaceus_europaeus	NIBAN2	ENSEEUG00000011741	FAM	NA
+Erinaceus_europaeus	ACTL6B	ENSEEUG00000011765	Actin	NA
+Erinaceus_europaeus	EAPP	ENSEEUG00000011775	Others	NA
+Erinaceus_europaeus	PYCARD	ENSEEUG00000011780	Others	NA
+Erinaceus_europaeus	JAK2	ENSEEUG00000011781	Others	NA
+Erinaceus_europaeus	PCGF2	ENSEEUG00000011789	PCGF	NA
+Erinaceus_europaeus	ANKRD2	ENSEEUG00000011803	Ankyrin repeat	103122071
+Erinaceus_europaeus	CTR9	ENSEEUG00000011805	Others	NA
+Erinaceus_europaeus	TRIM24	ENSEEUG00000011813	Tripartite motif	NA
+Erinaceus_europaeus		ENSEEUG00000011816	WW	NA
+Erinaceus_europaeus	GRHPR	ENSEEUG00000011870	Others	NA
+Erinaceus_europaeus	MAML1	ENSEEUG00000011873	MAML	NA
+Erinaceus_europaeus	CTNND1	ENSEEUG00000011894	Casein	103110401
+Erinaceus_europaeus	CTNNB1	ENSEEUG00000011910	Casein	NA
+Erinaceus_europaeus	MED12L	ENSEEUG00000011955	Mediator complex	NA
+Erinaceus_europaeus	PHF8	ENSEEUG00000011963	PHF	NA
+Erinaceus_europaeus	PAK5	ENSEEUG00000011997	Others	NA
+Erinaceus_europaeus	MED28	ENSEEUG00000012006	Mediator complex	103127880
+Erinaceus_europaeus	TBPL1	ENSEEUG00000012047	TATA-box	NA
+Erinaceus_europaeus	TTF2	ENSEEUG00000012083	Others	NA
+Erinaceus_europaeus	ACTL6A	ENSEEUG00000012092	Actin	NA
+Erinaceus_europaeus	LOXL2	ENSEEUG00000012102	Others	NA
+Erinaceus_europaeus	LGALS4	ENSEEUG00000012119	Others	NA
+Erinaceus_europaeus		ENSEEUG00000012135	Others	NA
+Erinaceus_europaeus	NOTCH1	ENSEEUG00000012153	Notch	NA
+Erinaceus_europaeus	ASH1L	ENSEEUG00000012203	Others	NA
+Erinaceus_europaeus	PCBD1	ENSEEUG00000012230	Others	103114481
+Erinaceus_europaeus	PAGR1	ENSEEUG00000012271	Others	NA
+Erinaceus_europaeus	DVL3	ENSEEUG00000012281	Others	NA
+Erinaceus_europaeus		ENSEEUG00000012313	TEF	NA
+Erinaceus_europaeus		ENSEEUG00000012340	Others	NA
+Erinaceus_europaeus		ENSEEUG00000012358	MAGE	NA
+Erinaceus_europaeus	RIPK3	ENSEEUG00000012432	Others	103126592
+Erinaceus_europaeus	BPTF	ENSEEUG00000012433	Bromodomain	NA
+Erinaceus_europaeus		ENSEEUG00000012471	Others	103114250
+Erinaceus_europaeus	ARHGEF5	ENSEEUG00000012481	Others	NA
+Erinaceus_europaeus	APEX1	ENSEEUG00000012569	Others	NA
+Erinaceus_europaeus	KMT2E	ENSEEUG00000012622	Lysine methyltransferase	NA
+Erinaceus_europaeus	GTF2H1	ENSEEUG00000012627	GTF	NA
+Erinaceus_europaeus	LDB1	ENSEEUG00000012653	LIM	103123198
+Erinaceus_europaeus	POLE3	ENSEEUG00000012658	Others	NA
+Erinaceus_europaeus	NELFB	ENSEEUG00000012722	GTF	NA
+Erinaceus_europaeus	PCGF6	ENSEEUG00000012723	PCGF	NA
+Erinaceus_europaeus		ENSEEUG00000012808	Lysine acetyltransferase	NA
+Erinaceus_europaeus	MTF2	ENSEEUG00000012813	Others	NA
+Erinaceus_europaeus	CBX7	ENSEEUG00000012816	Chromobox	NA
+Erinaceus_europaeus	ING3	ENSEEUG00000012822	ING	NA
+Erinaceus_europaeus	ING4	ENSEEUG00000012825	ING	NA
+Erinaceus_europaeus	PELI2	ENSEEUG00000012832	Others	NA
+Erinaceus_europaeus		ENSEEUG00000012857	Coiled-coil	103128551
+Erinaceus_europaeus	SUPT5H	ENSEEUG00000012879	SUPT	NA
+Erinaceus_europaeus		ENSEEUG00000012884	Others	NA
+Erinaceus_europaeus	DCC	ENSEEUG00000012927	Others	NA
+Erinaceus_europaeus		ENSEEUG00000012928	Tripartite motif	NA
+Erinaceus_europaeus		ENSEEUG00000012958	Others	NA
+Erinaceus_europaeus	EGFR	ENSEEUG00000012984	Others	NA
+Erinaceus_europaeus	EHMT2	ENSEEUG00000012995	Histone lysine methyltransferase	NA
+Erinaceus_europaeus		ENSEEUG00000013075	INO80 complex	NA
+Erinaceus_europaeus		ENSEEUG00000013080	SS18	NA
+Erinaceus_europaeus	ILF2	ENSEEUG00000013100	Others	NA
+Erinaceus_europaeus		ENSEEUG00000013118	Others	NA
+Erinaceus_europaeus	CDK9	ENSEEUG00000013130	Cyclin	NA
+Erinaceus_europaeus	ACTA1	ENSEEUG00000013156	Actin	NA
+Erinaceus_europaeus	DNMT3B	ENSEEUG00000013168	DNA_methylase	NA
+Erinaceus_europaeus		ENSEEUG00000013171	SET	NA
+Erinaceus_europaeus	SMARCA5	ENSEEUG00000013176	SWI/SNF	NA
+Erinaceus_europaeus	KDM5C	ENSEEUG00000013188	Lysine demethylase	NA
+Erinaceus_europaeus	EFCAB6	ENSEEUG00000013246	Others	NA
+Erinaceus_europaeus	KMT2B	ENSEEUG00000013250	Lysine methyltransferase	NA
+Erinaceus_europaeus	LPIN2	ENSEEUG00000013253	LPIN	NA
+Erinaceus_europaeus	RNF25	ENSEEUG00000013290	Ring finger protein	NA
+Erinaceus_europaeus	NOC2L	ENSEEUG00000013339	Others	NA
+Erinaceus_europaeus	MED12	ENSEEUG00000013343	Mediator complex	NA
+Erinaceus_europaeus	SIRT1	ENSEEUG00000013370	Sirtuin	NA
+Erinaceus_europaeus		ENSEEUG00000013376	Others	NA
+Erinaceus_europaeus	WWTR1	ENSEEUG00000013393	WW	NA
+Erinaceus_europaeus	FBP1	ENSEEUG00000013408	Others	103128943
+Erinaceus_europaeus	IGF1R	ENSEEUG00000013409	Others	NA
+Erinaceus_europaeus	ZNF638	ENSEEUG00000013424	Zinc finger	NA
+Erinaceus_europaeus		ENSEEUG00000013431	EYA	NA
+Erinaceus_europaeus	STK36	ENSEEUG00000013437	Others	NA
+Erinaceus_europaeus	SUPT7L	ENSEEUG00000013467	SUPT	NA
+Erinaceus_europaeus	SFR1	ENSEEUG00000013476	Others	NA
+Erinaceus_europaeus	ACTR8	ENSEEUG00000013533	ACTR	NA
+Erinaceus_europaeus	CHD7	ENSEEUG00000013559	CHD	NA
+Erinaceus_europaeus	TNP1	ENSEEUG00000013576	Other_CRF	103110812
+Erinaceus_europaeus	BTAF1	ENSEEUG00000013578	Others	NA
+Erinaceus_europaeus	SENP1	ENSEEUG00000013640	Others	NA
+Erinaceus_europaeus		ENSEEUG00000013670	CENP	NA
+Erinaceus_europaeus	KMT5B	ENSEEUG00000013701	Lysine methyltransferase	NA
+Erinaceus_europaeus	BRMS1L	ENSEEUG00000013706	Other_CRF	NA
+Erinaceus_europaeus		ENSEEUG00000013761	Others	NA
+Erinaceus_europaeus	RNF10	ENSEEUG00000013782	Ring finger protein	NA
+Erinaceus_europaeus	HR	ENSEEUG00000013789	Lysine methyltransferase	NA
+Erinaceus_europaeus	HTATIP2	ENSEEUG00000013795	Others	NA
+Erinaceus_europaeus	CDKN1B	ENSEEUG00000013819	Cyclin	103107034
+Erinaceus_europaeus	CCAR1	ENSEEUG00000013822	Others	NA
+Erinaceus_europaeus		ENSEEUG00000013825	Others	NA
+Erinaceus_europaeus		ENSEEUG00000013827	Erbb2	NA
+Erinaceus_europaeus	BCL10	ENSEEUG00000013835	BCL	103115002
+Erinaceus_europaeus	PHF10	ENSEEUG00000013837	PHF	NA
+Erinaceus_europaeus	MDM2	ENSEEUG00000013849	Others	NA
+Erinaceus_europaeus		ENSEEUG00000013855	Nuclear receptor coactivator	NA
+Erinaceus_europaeus	EPC2	ENSEEUG00000013857	Others	NA
+Erinaceus_europaeus		ENSEEUG00000013872	ELP	NA
+Erinaceus_europaeus		ENSEEUG00000013879	Others	NA
+Erinaceus_europaeus	EYA2	ENSEEUG00000013880	EYA	NA
+Erinaceus_europaeus	TES	ENSEEUG00000013882	LIM	NA
+Erinaceus_europaeus	SLC30A9	ENSEEUG00000013895	SLC	NA
+Erinaceus_europaeus	SNX6	ENSEEUG00000013911	Others	NA
+Erinaceus_europaeus	MDM4	ENSEEUG00000013912	Others	NA
+Erinaceus_europaeus		ENSEEUG00000013930	Others	NA
+Erinaceus_europaeus	PICALM	ENSEEUG00000013932	Others	NA
+Erinaceus_europaeus	MEAF6	ENSEEUG00000013971	Others	NA
+Erinaceus_europaeus	PPID	ENSEEUG00000013973	Others	NA
+Erinaceus_europaeus		ENSEEUG00000013981	Others	NA
+Erinaceus_europaeus	TPR	ENSEEUG00000013986	Others	NA
+Erinaceus_europaeus	PCGF5	ENSEEUG00000014016	PCGF	NA
+Erinaceus_europaeus		ENSEEUG00000014043	WW	NA
+Erinaceus_europaeus	SS18L2	ENSEEUG00000014065	SS18	NA
+Erinaceus_europaeus	MSL3	ENSEEUG00000014074	Others	NA
+Erinaceus_europaeus	CDK2	ENSEEUG00000014081	Cyclin	NA
+Erinaceus_europaeus	RNF2	ENSEEUG00000014091	Ring finger protein	103114171
+Erinaceus_europaeus	MED14	ENSEEUG00000014099	Mediator complex	NA
+Erinaceus_europaeus		ENSEEUG00000014125	Others	NA
+Erinaceus_europaeus	TRIM25	ENSEEUG00000014194	Tripartite motif	NA
+Erinaceus_europaeus	PPRC1	ENSEEUG00000014216	Others	NA
+Erinaceus_europaeus	PADI2	ENSEEUG00000014217	Other_CRF	NA
+Erinaceus_europaeus	SMARCD1	ENSEEUG00000014225	SWI/SNF	NA
+Erinaceus_europaeus	TRIM3	ENSEEUG00000014236	Tripartite motif	NA
+Erinaceus_europaeus		ENSEEUG00000014272	Others	NA
+Erinaceus_europaeus	PNRC2	ENSEEUG00000014312	Others	NA
+Erinaceus_europaeus	LZTS1	ENSEEUG00000014340	Others	NA
+Erinaceus_europaeus	CDK12	ENSEEUG00000014341	Cyclin	NA
+Erinaceus_europaeus	TLE4	ENSEEUG00000014362	Transducin	NA
+Erinaceus_europaeus	ATF7IP	ENSEEUG00000014364	Others	NA
+Erinaceus_europaeus		ENSEEUG00000014399	Nuclear receptor coactivator	NA
+Erinaceus_europaeus		ENSEEUG00000014400	Notch	NA
+Erinaceus_europaeus	NONO	ENSEEUG00000014404	Others	103125172
+Erinaceus_europaeus		ENSEEUG00000014432	Ring finger protein	NA
+Erinaceus_europaeus	SFMBT2	ENSEEUG00000014445	Others	NA
+Erinaceus_europaeus	JMJD1C	ENSEEUG00000014473	Other_CRF	NA
+Erinaceus_europaeus		ENSEEUG00000014496	GTF	NA
+Erinaceus_europaeus	ACTR6	ENSEEUG00000014498	ACTR	NA
+Erinaceus_europaeus	CHD9	ENSEEUG00000014515	CHD	NA
+Erinaceus_europaeus		ENSEEUG00000014525	Others	103126290
+Erinaceus_europaeus	ABRA	ENSEEUG00000014538	Actin	103118193
+Erinaceus_europaeus	NAB1	ENSEEUG00000014541	Others	NA
+Erinaceus_europaeus	NELFCD	ENSEEUG00000014550	GTF	103118998
+Erinaceus_europaeus	MRGBP	ENSEEUG00000014583	Others	NA
+Erinaceus_europaeus	HNRNPK	ENSEEUG00000014624	HNRNP	NA
+Erinaceus_europaeus	HYAL2	ENSEEUG00000014631	Others	NA
+Erinaceus_europaeus	SIN3A	ENSEEUG00000014665	Other_CRF	NA
+Erinaceus_europaeus	ABT1	ENSEEUG00000014690	Others	NA
+Erinaceus_europaeus	EMSY	ENSEEUG00000014718	Others	NA
+Erinaceus_europaeus	PHF12	ENSEEUG00000014729	PHF	NA
+Erinaceus_europaeus	SND1	ENSEEUG00000014737	Others	NA
+Erinaceus_europaeus	JADE2	ENSEEUG00000014786	Others	NA
+Erinaceus_europaeus		ENSEEUG00000014834	Mediator complex	NA
+Erinaceus_europaeus	SLC25A15	ENSEEUG00000014870	SLC	NA
+Erinaceus_europaeus		ENSEEUG00000014874	ASCC	NA
+Erinaceus_europaeus	KCNIP3	ENSEEUG00000014885	Others	NA
+Erinaceus_europaeus	PPARGC1B	ENSEEUG00000014903	Others	NA
+Erinaceus_europaeus	NSMCE4A	ENSEEUG00000014906	EID	NA
+Erinaceus_europaeus	STK17B	ENSEEUG00000014918	Others	103124624
+Erinaceus_europaeus	AIP	ENSEEUG00000014933	Others	NA
+Erinaceus_europaeus	STRN3	ENSEEUG00000014955	Others	NA
+Erinaceus_europaeus		ENSEEUG00000014963	Histone deacetylase	NA
+Erinaceus_europaeus	TCERG1	ENSEEUG00000015003	TEF	NA
+Erinaceus_europaeus	NFKBIZ	ENSEEUG00000015031	NFKB associated	NA
+Erinaceus_europaeus	DDX39A	ENSEEUG00000015035	RNA helicase	NA
+Erinaceus_europaeus	DUSP26	ENSEEUG00000015049	Others	103107498
+Erinaceus_europaeus		ENSEEUG00000015065	Ring finger protein	NA
+Erinaceus_europaeus		ENSEEUG00000015080	Lysine demethylase	NA
+Erinaceus_europaeus		ENSEEUG00000015116	GTF	NA
+Erinaceus_europaeus	MED4	ENSEEUG00000015132	Mediator complex	103111866
+Erinaceus_europaeus	HIRA	ENSEEUG00000015134	Others	NA
+Erinaceus_europaeus	CDK5RAP3	ENSEEUG00000015138	Cyclin	NA
+Erinaceus_europaeus	BTRC	ENSEEUG00000015173	Others	NA
+Erinaceus_europaeus	AXIN1	ENSEEUG00000015194	Others	NA
+Erinaceus_europaeus	CHD3	ENSEEUG00000015205	CHD	NA
+Erinaceus_europaeus	SMARCAD1	ENSEEUG00000015229	SWI/SNF	NA
+Erinaceus_europaeus	PLRG1	ENSEEUG00000015251	Others	NA
+Erinaceus_europaeus	DVL2	ENSEEUG00000015271	Others	NA
+Erinaceus_europaeus		ENSEEUG00000015308	GTF	NA
+Erinaceus_europaeus	CNOT6	ENSEEUG00000015382	CCR4-NOT	NA
+Erinaceus_europaeus	DSCAML1	ENSEEUG00000015424	Others	NA
+Erinaceus_europaeus		ENSEEUG00000015428	Lysine methyltransferase	NA
+Erinaceus_europaeus		ENSEEUG00000015431	Others	NA
+Erinaceus_europaeus		ENSEEUG00000015464	SS18	NA
+Erinaceus_europaeus	MBTD1	ENSEEUG00000015481	Others	NA
+Erinaceus_europaeus	HLTF	ENSEEUG00000015484	Others	NA
+Erinaceus_europaeus	HIPK3	ENSEEUG00000015500	HIPK	NA
+Erinaceus_europaeus	CIR1	ENSEEUG00000015517	Other_Co-activator/repressors	NA
+Erinaceus_europaeus		ENSEEUG00000015540	SWI/SNF	NA
+Erinaceus_europaeus	MLLT6	ENSEEUG00000015543	Others	NA
+Erinaceus_europaeus	TAF8	ENSEEUG00000015570	TATA-box	103119458
+Erinaceus_europaeus	PRMT5	ENSEEUG00000015578	Arginine methyltransferase	NA
+Erinaceus_europaeus	AURKB	ENSEEUG00000015607	Others	NA
+Erinaceus_europaeus	BTK	ENSEEUG00000015649	Others	NA
+Erinaceus_europaeus	TRRAP	ENSEEUG00000015681	Others	NA
+Erinaceus_europaeus	NLRP3	ENSEEUG00000015695	Others	NA
+Erinaceus_europaeus		ENSEEUG00000015700	Chromodomain Y	NA
+Erinaceus_europaeus	RBBP5	ENSEEUG00000015714	RBBP	NA
+Erinaceus_europaeus	HABP4	ENSEEUG00000015755	Others	NA
+Erinaceus_europaeus	RNF141	ENSEEUG00000015759	Ring finger protein	103111812
+Erinaceus_europaeus	TCEA3	ENSEEUG00000015776	TEF	NA
+Erinaceus_europaeus	FGFR1	ENSEEUG00000015789	FGF	NA
+Erinaceus_europaeus	H2AZ2	ENSEEUG00000015817	Others	NA
+Erinaceus_europaeus	PNRC1	ENSEEUG00000015821	Others	NA
+Erinaceus_europaeus	SMURF1	ENSEEUG00000015822	Others	NA
+Erinaceus_europaeus	H1-4	ENSEEUG00000015845	Histone cluster 1 H1	103123896
+Erinaceus_europaeus	SUFU	ENSEEUG00000015885	Others	NA
+Erinaceus_europaeus	TRIM8	ENSEEUG00000015898	Tripartite motif	NA
+Erinaceus_europaeus	SQSTM1	ENSEEUG00000015909	Others	NA
+Erinaceus_europaeus	EYA4	ENSEEUG00000015950	EYA	NA

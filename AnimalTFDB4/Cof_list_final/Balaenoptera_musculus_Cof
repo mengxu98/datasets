@@ -1,0 +1,933 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Balaenoptera_musculus	SPEN	ENSBMSG00010000004	Others	NA
+Balaenoptera_musculus	SNAPC2	ENSBMSG00010000068	Others	NA
+Balaenoptera_musculus	HDGF	ENSBMSG00010000074	Others	NA
+Balaenoptera_musculus	KANK1	ENSBMSG00010000089	Others	NA
+Balaenoptera_musculus	DHX9	ENSBMSG00010000096	RNA helicase	NA
+Balaenoptera_musculus	CCNH	ENSBMSG00010000119	Cyclin	NA
+Balaenoptera_musculus	NOC2L	ENSBMSG00010000127	Others	NA
+Balaenoptera_musculus	TRIM11	ENSBMSG00010000144	Tripartite motif	NA
+Balaenoptera_musculus	DAPK2	ENSBMSG00010000179	Others	NA
+Balaenoptera_musculus	BTG2	ENSBMSG00010000203	Others	NA
+Balaenoptera_musculus	HNRNPK	ENSBMSG00010000208	HNRNP	NA
+Balaenoptera_musculus	PHF19	ENSBMSG00010000234	PHF	NA
+Balaenoptera_musculus	CRTC2	ENSBMSG00010000243	CREB	NA
+Balaenoptera_musculus	GSK3B	ENSBMSG00010000277	Others	NA
+Balaenoptera_musculus	SMARCAD1	ENSBMSG00010000281	SWI/SNF	NA
+Balaenoptera_musculus	EYA3	ENSBMSG00010000306	EYA	NA
+Balaenoptera_musculus	CDC73	ENSBMSG00010000363	Others	NA
+Balaenoptera_musculus	MLLT3	ENSBMSG00010000404	GTF	NA
+Balaenoptera_musculus	MED16	ENSBMSG00010000457	Mediator complex	NA
+Balaenoptera_musculus	HNRNPU	ENSBMSG00010000467	HNRNP	NA
+Balaenoptera_musculus	ELP3	ENSBMSG00010000472	ELP	NA
+Balaenoptera_musculus	ELANE	ENSBMSG00010000511	Others	NA
+Balaenoptera_musculus	NFKBIA	ENSBMSG00010000520	NFKB associated	NA
+Balaenoptera_musculus	COPS2	ENSBMSG00010000546	Others	NA
+Balaenoptera_musculus	HLTF	ENSBMSG00010000559	Others	NA
+Balaenoptera_musculus	NAB1	ENSBMSG00010000563	Others	NA
+Balaenoptera_musculus	MED18	ENSBMSG00010000572	Mediator complex	NA
+Balaenoptera_musculus	NLRP3	ENSBMSG00010000594	Others	NA
+Balaenoptera_musculus		ENSBMSG00010000612	Others	NA
+Balaenoptera_musculus	TRIP11	ENSBMSG00010000613	Thyroid hormone receptor	NA
+Balaenoptera_musculus	ADRB2	ENSBMSG00010000651	Others	NA
+Balaenoptera_musculus		ENSBMSG00010000707	Others	NA
+Balaenoptera_musculus	WWTR1	ENSBMSG00010000762	WW	NA
+Balaenoptera_musculus		ENSBMSG00010000767	EID	NA
+Balaenoptera_musculus	SMYD3	ENSBMSG00010000801	SMYD	NA
+Balaenoptera_musculus	TFB2M	ENSBMSG00010000824	Others	NA
+Balaenoptera_musculus	CCNT2	ENSBMSG00010000833	Cyclin	NA
+Balaenoptera_musculus	FBXW7	ENSBMSG00010000836	Others	NA
+Balaenoptera_musculus	CLU	ENSBMSG00010000855	Others	NA
+Balaenoptera_musculus	MTF2	ENSBMSG00010000876	Others	NA
+Balaenoptera_musculus	DR1	ENSBMSG00010000938	Others	NA
+Balaenoptera_musculus	SRA1	ENSBMSG00010000944	Others	NA
+Balaenoptera_musculus	MDM4	ENSBMSG00010000964	Others	NA
+Balaenoptera_musculus	TTF2	ENSBMSG00010000984	Others	NA
+Balaenoptera_musculus	PADI2	ENSBMSG00010001016	Other_CRF	NA
+Balaenoptera_musculus	PCBD2	ENSBMSG00010001020	Others	NA
+Balaenoptera_musculus	INO80D	ENSBMSG00010001021	INO80 complex	NA
+Balaenoptera_musculus	RNF2	ENSBMSG00010001041	Ring finger protein	NA
+Balaenoptera_musculus	NOTCH3	ENSBMSG00010001081	Notch	NA
+Balaenoptera_musculus	DNTTIP2	ENSBMSG00010001101	Others	NA
+Balaenoptera_musculus	PADI4	ENSBMSG00010001111	Others	NA
+Balaenoptera_musculus	PPARGC1B	ENSBMSG00010001147	Others	NA
+Balaenoptera_musculus	SIAH2	ENSBMSG00010001149	Others	NA
+Balaenoptera_musculus	AGO1	ENSBMSG00010001153	Others	NA
+Balaenoptera_musculus	BRD4	ENSBMSG00010001216	Bromodomain	NA
+Balaenoptera_musculus		ENSBMSG00010001274	Others	NA
+Balaenoptera_musculus	PLRG1	ENSBMSG00010001300	Others	NA
+Balaenoptera_musculus	MED12L	ENSBMSG00010001333	Mediator complex	NA
+Balaenoptera_musculus	ICE2	ENSBMSG00010001345	GTF	NA
+Balaenoptera_musculus	NIPBL	ENSBMSG00010001354	Others	NA
+Balaenoptera_musculus	H2AZ1	ENSBMSG00010001368	Others	NA
+Balaenoptera_musculus	THRAP3	ENSBMSG00010001398	Thyroid hormone receptor	NA
+Balaenoptera_musculus		ENSBMSG00010001413	GTF	NA
+Balaenoptera_musculus	NOTCH2	ENSBMSG00010001428	Notch	NA
+Balaenoptera_musculus	INSR	ENSBMSG00010001431	Others	NA
+Balaenoptera_musculus	BRMS1L	ENSBMSG00010001513	Other_CRF	NA
+Balaenoptera_musculus		ENSBMSG00010001518	Others	NA
+Balaenoptera_musculus		ENSBMSG00010001540	SKI	NA
+Balaenoptera_musculus	NCK1	ENSBMSG00010001559	Others	NA
+Balaenoptera_musculus	TPR	ENSBMSG00010001604	Others	NA
+Balaenoptera_musculus	RBBP5	ENSBMSG00010001623	RBBP	NA
+Balaenoptera_musculus	KAT2B	ENSBMSG00010001643	Lysine acetyltransferase	NA
+Balaenoptera_musculus	PBXIP1	ENSBMSG00010001670	Others	NA
+Balaenoptera_musculus	PYGO2	ENSBMSG00010001688	Others	NA
+Balaenoptera_musculus	SSU72	ENSBMSG00010001693	Others	NA
+Balaenoptera_musculus		ENSBMSG00010001718	Others	NA
+Balaenoptera_musculus	EED	ENSBMSG00010001736	Others	NA
+Balaenoptera_musculus	SNIP1	ENSBMSG00010001754	Others	NA
+Balaenoptera_musculus	PICALM	ENSBMSG00010001786	Others	NA
+Balaenoptera_musculus	SETD7	ENSBMSG00010001824	SET	NA
+Balaenoptera_musculus	TLE3	ENSBMSG00010001836	Transducin	NA
+Balaenoptera_musculus	MAML3	ENSBMSG00010001847	MAML	NA
+Balaenoptera_musculus	PPARGC1A	ENSBMSG00010001849	Others	NA
+Balaenoptera_musculus	RNF111	ENSBMSG00010001868	Ring finger protein	NA
+Balaenoptera_musculus	DAB2	ENSBMSG00010001905	Others	NA
+Balaenoptera_musculus	LOXL2	ENSBMSG00010001934	Others	NA
+Balaenoptera_musculus	TOPORS	ENSBMSG00010001968	Others	NA
+Balaenoptera_musculus	CENPF	ENSBMSG00010001984	CENP	NA
+Balaenoptera_musculus	SLTM	ENSBMSG00010001996	Others	NA
+Balaenoptera_musculus	ACTN1	ENSBMSG00010002009	Actin	NA
+Balaenoptera_musculus	ELL2	ENSBMSG00010002014	GTF	NA
+Balaenoptera_musculus	SMYD2	ENSBMSG00010002033	SMYD	NA
+Balaenoptera_musculus	RWDD3	ENSBMSG00010002058	Others	NA
+Balaenoptera_musculus	DPPA2	ENSBMSG00010002170	Others	NA
+Balaenoptera_musculus	DHX36	ENSBMSG00010002188	RNA helicase	NA
+Balaenoptera_musculus	SKI	ENSBMSG00010002231	SKI	NA
+Balaenoptera_musculus	CCAR2	ENSBMSG00010002236	Others	NA
+Balaenoptera_musculus	EPC2	ENSBMSG00010002250	Others	NA
+Balaenoptera_musculus	FHL3	ENSBMSG00010002260	FHL	NA
+Balaenoptera_musculus	BRD8	ENSBMSG00010002308	Bromodomain	NA
+Balaenoptera_musculus	BLM	ENSBMSG00010002346	Others	NA
+Balaenoptera_musculus	NMI	ENSBMSG00010002366	Others	NA
+Balaenoptera_musculus	PINK1	ENSBMSG00010002384	Others	NA
+Balaenoptera_musculus	LIN9	ENSBMSG00010002409	Others	NA
+Balaenoptera_musculus	TNIP1	ENSBMSG00010002447	Others	NA
+Balaenoptera_musculus	SMARCA5	ENSBMSG00010002485	SWI/SNF	NA
+Balaenoptera_musculus	ITGB3BP	ENSBMSG00010002488	Others	NA
+Balaenoptera_musculus	TAF7	ENSBMSG00010002622	TATA-box	NA
+Balaenoptera_musculus	HR	ENSBMSG00010002713	Lysine methyltransferase	NA
+Balaenoptera_musculus	EAF1	ENSBMSG00010002751	Others	NA
+Balaenoptera_musculus	LIN54	ENSBMSG00010002779	Others	NA
+Balaenoptera_musculus	SCAI	ENSBMSG00010002823	Others	NA
+Balaenoptera_musculus	KDM3B	ENSBMSG00010002833	Lysine demethylase	NA
+Balaenoptera_musculus	SETD3	ENSBMSG00010002844	SET	NA
+Balaenoptera_musculus	CCNK	ENSBMSG00010002876	Cyclin	NA
+Balaenoptera_musculus	GTF2F1	ENSBMSG00010002943	GTF	NA
+Balaenoptera_musculus	PER2	ENSBMSG00010002946	Others	NA
+Balaenoptera_musculus	HNRNPD	ENSBMSG00010002956	HNRNP	NA
+Balaenoptera_musculus		ENSBMSG00010002967	Others	NA
+Balaenoptera_musculus	SUV39H2	ENSBMSG00010002970	Others	NA
+Balaenoptera_musculus	LZTS1	ENSBMSG00010003000	Others	NA
+Balaenoptera_musculus	MLLT1	ENSBMSG00010003015	GTF	NA
+Balaenoptera_musculus	ERBB4	ENSBMSG00010003029	Erbb2	NA
+Balaenoptera_musculus	HDAC4	ENSBMSG00010003049	Histone deacetylase	NA
+Balaenoptera_musculus	SAP30L	ENSBMSG00010003112	SAP	NA
+Balaenoptera_musculus	HDAC3	ENSBMSG00010003120	Histone deacetylase	NA
+Balaenoptera_musculus	MED6	ENSBMSG00010003186	Mediator complex	NA
+Balaenoptera_musculus	CNOT8	ENSBMSG00010003244	CCR4-NOT	NA
+Balaenoptera_musculus	ELL3	ENSBMSG00010003292	GTF	NA
+Balaenoptera_musculus	CHD1L	ENSBMSG00010003302	CHD	NA
+Balaenoptera_musculus	ASH1L	ENSBMSG00010003357	Others	NA
+Balaenoptera_musculus		ENSBMSG00010003371	ANP	NA
+Balaenoptera_musculus	MED7	ENSBMSG00010003374	Mediator complex	NA
+Balaenoptera_musculus	CXXC5	ENSBMSG00010003384	Others	NA
+Balaenoptera_musculus	WNT4	ENSBMSG00010003390	Others	NA
+Balaenoptera_musculus	SAFB	ENSBMSG00010003461	Others	NA
+Balaenoptera_musculus	CNOT6L	ENSBMSG00010003490	CCR4-NOT	NA
+Balaenoptera_musculus	RNF14	ENSBMSG00010003493	Ring finger protein	NA
+Balaenoptera_musculus	TP53BP1	ENSBMSG00010003494	Others	NA
+Balaenoptera_musculus	SAFB2	ENSBMSG00010003501	Others	NA
+Balaenoptera_musculus	KDM1A	ENSBMSG00010003502	Lysine demethylase	NA
+Balaenoptera_musculus	BCL9	ENSBMSG00010003513	BCL	NA
+Balaenoptera_musculus	SKOR1	ENSBMSG00010003555	SKI	NA
+Balaenoptera_musculus	FGF1	ENSBMSG00010003558	FGF	NA
+Balaenoptera_musculus	TBL1XR1	ENSBMSG00010003569	Transducin	NA
+Balaenoptera_musculus	KDM4B	ENSBMSG00010003581	Lysine demethylase	NA
+Balaenoptera_musculus	POLR3C	ENSBMSG00010003595	POLR	NA
+Balaenoptera_musculus	TAF1A	ENSBMSG00010003619	TATA-box	NA
+Balaenoptera_musculus		ENSBMSG00010003627	Mediator complex	NA
+Balaenoptera_musculus	KDM4C	ENSBMSG00010003640	Lysine demethylase	NA
+Balaenoptera_musculus	LDB2	ENSBMSG00010003750	LIM	NA
+Balaenoptera_musculus	PID1	ENSBMSG00010003756	Others	NA
+Balaenoptera_musculus		ENSBMSG00010003758	Actin	NA
+Balaenoptera_musculus	TXNIP	ENSBMSG00010003790	Others	NA
+Balaenoptera_musculus	CHD1	ENSBMSG00010003822	CHD	NA
+Balaenoptera_musculus	NIF3L1	ENSBMSG00010003954	Others	NA
+Balaenoptera_musculus	SLC19A1	ENSBMSG00010003963	SLC	NA
+Balaenoptera_musculus	JAK2	ENSBMSG00010003969	Others	NA
+Balaenoptera_musculus	NIBAN2	ENSBMSG00010003981	FAM	NA
+Balaenoptera_musculus	ORC2	ENSBMSG00010003997	Others	NA
+Balaenoptera_musculus	TCERG1	ENSBMSG00010004023	TEF	NA
+Balaenoptera_musculus	NELFB	ENSBMSG00010004024	GTF	NA
+Balaenoptera_musculus		ENSBMSG00010004062	Others	NA
+Balaenoptera_musculus	TNP1	ENSBMSG00010004074	Other_CRF	NA
+Balaenoptera_musculus	SIRT6	ENSBMSG00010004161	Sirtuin	NA
+Balaenoptera_musculus	PRMT6	ENSBMSG00010004173	Arginine methyltransferase	NA
+Balaenoptera_musculus	TLE4	ENSBMSG00010004237	Transducin	NA
+Balaenoptera_musculus	TRAK2	ENSBMSG00010004246	Others	NA
+Balaenoptera_musculus	CRTC1	ENSBMSG00010004257	CREB	NA
+Balaenoptera_musculus	SMARCA2	ENSBMSG00010004262	SWI/SNF	NA
+Balaenoptera_musculus	WDR5	ENSBMSG00010004269	WD	NA
+Balaenoptera_musculus	BRD3	ENSBMSG00010004279	Bromodomain	NA
+Balaenoptera_musculus	CDK9	ENSBMSG00010004332	Cyclin	NA
+Balaenoptera_musculus	SAV1	ENSBMSG00010004334	Others	NA
+Balaenoptera_musculus	CAMK4	ENSBMSG00010004365	CAMK	NA
+Balaenoptera_musculus	SLC30A9	ENSBMSG00010004377	SLC	NA
+Balaenoptera_musculus	PRMT2	ENSBMSG00010004381	Arginine methyltransferase	NA
+Balaenoptera_musculus	KDM2A	ENSBMSG00010004384	Lysine demethylase	NA
+Balaenoptera_musculus	ELL	ENSBMSG00010004392	GTF	NA
+Balaenoptera_musculus	CHAF1B	ENSBMSG00010004422	Others	NA
+Balaenoptera_musculus	ENG	ENSBMSG00010004425	Others	NA
+Balaenoptera_musculus	TLE1	ENSBMSG00010004448	Transducin	NA
+Balaenoptera_musculus	BTF3	ENSBMSG00010004469	Others	NA
+Balaenoptera_musculus	ANKRA2	ENSBMSG00010004475	Ankyrin repeat	NA
+Balaenoptera_musculus	EHMT1	ENSBMSG00010004512	Histone lysine methyltransferase	NA
+Balaenoptera_musculus	RNF168	ENSBMSG00010004550	Ring finger protein	NA
+Balaenoptera_musculus	CTDSP1	ENSBMSG00010004557	Others	NA
+Balaenoptera_musculus	ELP1	ENSBMSG00010004684	ELP	NA
+Balaenoptera_musculus	CNOT9	ENSBMSG00010004706	CCR4-NOT	NA
+Balaenoptera_musculus	REXO4	ENSBMSG00010004713	Others	NA
+Balaenoptera_musculus	DEPDC1	ENSBMSG00010004720	Others	NA
+Balaenoptera_musculus		ENSBMSG00010004738	Others	NA
+Balaenoptera_musculus	AIP	ENSBMSG00010004756	Others	NA
+Balaenoptera_musculus		ENSBMSG00010004761	Others	NA
+Balaenoptera_musculus	RNF25	ENSBMSG00010004780	Ring finger protein	NA
+Balaenoptera_musculus	STK36	ENSBMSG00010004792	Others	NA
+Balaenoptera_musculus	MED22	ENSBMSG00010004800	Mediator complex	NA
+Balaenoptera_musculus	KDM5B	ENSBMSG00010004818	Lysine demethylase	NA
+Balaenoptera_musculus		ENSBMSG00010004917	Others	NA
+Balaenoptera_musculus	CTH	ENSBMSG00010004973	Others	NA
+Balaenoptera_musculus	KMT5B	ENSBMSG00010004978	Lysine methyltransferase	NA
+Balaenoptera_musculus		ENSBMSG00010005005	Others	NA
+Balaenoptera_musculus		ENSBMSG00010005048	Others	NA
+Balaenoptera_musculus	BRWD1	ENSBMSG00010005088	Bromodomain	NA
+Balaenoptera_musculus	RTF1	ENSBMSG00010005129	Others	NA
+Balaenoptera_musculus	SYK	ENSBMSG00010005143	Others	NA
+Balaenoptera_musculus	HDAC1	ENSBMSG00010005198	Histone deacetylase	NA
+Balaenoptera_musculus	NUDT5	ENSBMSG00010005208	Other_CRF	NA
+Balaenoptera_musculus	WAC	ENSBMSG00010005229	WW	NA
+Balaenoptera_musculus	DSCAM	ENSBMSG00010005253	Others	NA
+Balaenoptera_musculus	INO80	ENSBMSG00010005260	INO80 complex	NA
+Balaenoptera_musculus	CCND1	ENSBMSG00010005276	Cyclin	NA
+Balaenoptera_musculus	MCIDAS	ENSBMSG00010005310	Others	NA
+Balaenoptera_musculus	FGF3	ENSBMSG00010005331	FGF	NA
+Balaenoptera_musculus	RBBP4	ENSBMSG00010005363	RBBP	NA
+Balaenoptera_musculus	CCNA2	ENSBMSG00010005376	Cyclin	NA
+Balaenoptera_musculus	RSF1	ENSBMSG00010005407	Others	NA
+Balaenoptera_musculus	CIR1	ENSBMSG00010005507	Other_Co-activator/repressors	NA
+Balaenoptera_musculus	TAF3	ENSBMSG00010005518	TATA-box	NA
+Balaenoptera_musculus	SND1	ENSBMSG00010005644	Others	NA
+Balaenoptera_musculus	SFMBT2	ENSBMSG00010005646	Others	NA
+Balaenoptera_musculus	NPAT	ENSBMSG00010005693	Nuclear coactivator	NA
+Balaenoptera_musculus	PARP14	ENSBMSG00010005743	PARP	NA
+Balaenoptera_musculus	DPF3	ENSBMSG00010005752	DPF	NA
+Balaenoptera_musculus	PAK6	ENSBMSG00010005754	Others	NA
+Balaenoptera_musculus	PARK7	ENSBMSG00010005797	Others	NA
+Balaenoptera_musculus	PARP9	ENSBMSG00010005809	PARP	NA
+Balaenoptera_musculus	TRIP4	ENSBMSG00010005819	Thyroid hormone receptor	NA
+Balaenoptera_musculus	TBPL2	ENSBMSG00010005889	TATA-box	NA
+Balaenoptera_musculus	EMSY	ENSBMSG00010005898	Others	NA
+Balaenoptera_musculus	GRHPR	ENSBMSG00010005932	Others	NA
+Balaenoptera_musculus	PSEN1	ENSBMSG00010005948	Others	NA
+Balaenoptera_musculus	ENO1	ENSBMSG00010005951	Others	NA
+Balaenoptera_musculus	SIN3B	ENSBMSG00010005984	Others	NA
+Balaenoptera_musculus	ACTR6	ENSBMSG00010006031	ACTR	NA
+Balaenoptera_musculus	KMT2E	ENSBMSG00010006073	Lysine methyltransferase	NA
+Balaenoptera_musculus		ENSBMSG00010006136	Mediator complex	NA
+Balaenoptera_musculus	CALR	ENSBMSG00010006144	Others	NA
+Balaenoptera_musculus	ZNF593	ENSBMSG00010006155	Zinc finger	NA
+Balaenoptera_musculus	PHF2	ENSBMSG00010006176	PHF	NA
+Balaenoptera_musculus	CTNNBIP1	ENSBMSG00010006181	Casein	NA
+Balaenoptera_musculus	MED19	ENSBMSG00010006189	Mediator complex	NA
+Balaenoptera_musculus	POU2AF1	ENSBMSG00010006194	Others	NA
+Balaenoptera_musculus	EAF2	ENSBMSG00010006200	Others	NA
+Balaenoptera_musculus	NOTCH1	ENSBMSG00010006271	Notch	NA
+Balaenoptera_musculus	HDAC9	ENSBMSG00010006273	Histone deacetylase	NA
+Balaenoptera_musculus	HCLS1	ENSBMSG00010006290	Others	NA
+Balaenoptera_musculus		ENSBMSG00010006306	ANP	NA
+Balaenoptera_musculus	CTNND1	ENSBMSG00010006326	Casein	NA
+Balaenoptera_musculus	EPC1	ENSBMSG00010006327	Others	NA
+Balaenoptera_musculus	CDKN1C	ENSBMSG00010006481	Cyclin	NA
+Balaenoptera_musculus	SAP130	ENSBMSG00010006491	SAP	NA
+Balaenoptera_musculus	JADE1	ENSBMSG00010006510	Others	NA
+Balaenoptera_musculus	PEX14	ENSBMSG00010006526	Others	NA
+Balaenoptera_musculus	YEATS2	ENSBMSG00010006529	Others	NA
+Balaenoptera_musculus	JMY	ENSBMSG00010006531	Others	NA
+Balaenoptera_musculus	LPXN	ENSBMSG00010006581	Others	NA
+Balaenoptera_musculus		ENSBMSG00010006692	Coiled-coil	NA
+Balaenoptera_musculus	ARRB1	ENSBMSG00010006812	Others	NA
+Balaenoptera_musculus	GTF2E1	ENSBMSG00010006848	GTF	NA
+Balaenoptera_musculus	ZMYND11	ENSBMSG00010006872	Zinc finger	NA
+Balaenoptera_musculus	EDF1	ENSBMSG00010006887	Others	NA
+Balaenoptera_musculus	ING3	ENSBMSG00010006892	ING	NA
+Balaenoptera_musculus	NSD1	ENSBMSG00010006893	Nuclear receptor coactivator	NA
+Balaenoptera_musculus	DVL3	ENSBMSG00010006957	Others	NA
+Balaenoptera_musculus	NAA15	ENSBMSG00010006960	Others	NA
+Balaenoptera_musculus	SSBP2	ENSBMSG00010006966	Others	NA
+Balaenoptera_musculus	MAD2L2	ENSBMSG00010006979	Others	NA
+Balaenoptera_musculus		ENSBMSG00010007005	Others	NA
+Balaenoptera_musculus	ERCC3	ENSBMSG00010007021	Others	NA
+Balaenoptera_musculus	CDKN1B	ENSBMSG00010007024	Cyclin	NA
+Balaenoptera_musculus	BIRC2	ENSBMSG00010007026	Others	NA
+Balaenoptera_musculus	SLC26A3	ENSBMSG00010007045	SLC	NA
+Balaenoptera_musculus	CDK2	ENSBMSG00010007049	Cyclin	NA
+Balaenoptera_musculus	YAP1	ENSBMSG00010007087	Others	NA
+Balaenoptera_musculus	WDTC1	ENSBMSG00010007126	WD	NA
+Balaenoptera_musculus	DACT1	ENSBMSG00010007147	Others	NA
+Balaenoptera_musculus	ATF7IP	ENSBMSG00010007198	Others	NA
+Balaenoptera_musculus	TLE2	ENSBMSG00010007244	Transducin	NA
+Balaenoptera_musculus	SSBP3	ENSBMSG00010007337	Others	NA
+Balaenoptera_musculus	TAF13	ENSBMSG00010007340	TATA-box	NA
+Balaenoptera_musculus	TNNI2	ENSBMSG00010007346	Others	NA
+Balaenoptera_musculus	SUMO3	ENSBMSG00010007354	Others	NA
+Balaenoptera_musculus	TDG	ENSBMSG00010007381	Others	NA
+Balaenoptera_musculus		ENSBMSG00010007402	Others	NA
+Balaenoptera_musculus	FBP1	ENSBMSG00010007409	Others	NA
+Balaenoptera_musculus	HCFC2	ENSBMSG00010007426	Others	NA
+Balaenoptera_musculus	ERBIN	ENSBMSG00010007440	Erbb2	NA
+Balaenoptera_musculus	RNF20	ENSBMSG00010007441	Ring finger protein	NA
+Balaenoptera_musculus	CDYL	ENSBMSG00010007473	Chromodomain Y	NA
+Balaenoptera_musculus	STRAP	ENSBMSG00010007476	Others	NA
+Balaenoptera_musculus	SFRP4	ENSBMSG00010007619	Others	NA
+Balaenoptera_musculus	MORF4L1	ENSBMSG00010007681	Other_CRF	NA
+Balaenoptera_musculus	TRIM32	ENSBMSG00010007689	Tripartite motif	NA
+Balaenoptera_musculus	PIK3R1	ENSBMSG00010007724	Others	NA
+Balaenoptera_musculus	MNAT1	ENSBMSG00010007760	Others	NA
+Balaenoptera_musculus	MAML2	ENSBMSG00010007807	MAML	NA
+Balaenoptera_musculus	TADA1	ENSBMSG00010007849	Transcriptional adaptor	NA
+Balaenoptera_musculus	CDK7	ENSBMSG00010007947	Cyclin	NA
+Balaenoptera_musculus	CRY1	ENSBMSG00010007959	Others	NA
+Balaenoptera_musculus	MAK	ENSBMSG00010007962	Others	NA
+Balaenoptera_musculus		ENSBMSG00010007988	Lysine demethylase	NA
+Balaenoptera_musculus	LRRK1	ENSBMSG00010007999	Other_CRF	NA
+Balaenoptera_musculus	LMO1	ENSBMSG00010008003	LIM	NA
+Balaenoptera_musculus	TIMELESS	ENSBMSG00010008010	Others	NA
+Balaenoptera_musculus	TAF9	ENSBMSG00010008016	TATA-box	NA
+Balaenoptera_musculus	CDK13	ENSBMSG00010008022	Cyclin	NA
+Balaenoptera_musculus	CNOT6	ENSBMSG00010008051	CCR4-NOT	NA
+Balaenoptera_musculus	RBM15	ENSBMSG00010008103	RNA binding protein	NA
+Balaenoptera_musculus	ANKAR	ENSBMSG00010008185	Ankyrin repeat	NA
+Balaenoptera_musculus		ENSBMSG00010008204	GTF	NA
+Balaenoptera_musculus		ENSBMSG00010008219	Mediator complex	NA
+Balaenoptera_musculus	SIRT5	ENSBMSG00010008270	Sirtuin	NA
+Balaenoptera_musculus	TAF1D	ENSBMSG00010008284	TATA-box	NA
+Balaenoptera_musculus	SNW1	ENSBMSG00010008304	Others	NA
+Balaenoptera_musculus		ENSBMSG00010008318	Others	NA
+Balaenoptera_musculus	SQSTM1	ENSBMSG00010008322	Others	NA
+Balaenoptera_musculus	PFDN5	ENSBMSG00010008361	Others	NA
+Balaenoptera_musculus	CREG1	ENSBMSG00010008365	Others	NA
+Balaenoptera_musculus	MAML1	ENSBMSG00010008423	MAML	NA
+Balaenoptera_musculus	LRIF1	ENSBMSG00010008429	Others	NA
+Balaenoptera_musculus	GNL3	ENSBMSG00010008442	Others	NA
+Balaenoptera_musculus	TRIM27	ENSBMSG00010008454	Tripartite motif	NA
+Balaenoptera_musculus	TAF6L	ENSBMSG00010008522	TATA-box	NA
+Balaenoptera_musculus	AEBP1	ENSBMSG00010008578	Others	NA
+Balaenoptera_musculus	DCAF6	ENSBMSG00010008609	Others	NA
+Balaenoptera_musculus	CCDC59	ENSBMSG00010008631	Coiled-coil	NA
+Balaenoptera_musculus	SF1	ENSBMSG00010008646	Others	NA
+Balaenoptera_musculus	HMOX1	ENSBMSG00010008652	Others	NA
+Balaenoptera_musculus	NAB2	ENSBMSG00010008669	Others	NA
+Balaenoptera_musculus	PIDD1	ENSBMSG00010008690	Others	NA
+Balaenoptera_musculus	NRIP3	ENSBMSG00010008697	Nuclear coactivator	NA
+Balaenoptera_musculus	WNT3A	ENSBMSG00010008734	Others	NA
+Balaenoptera_musculus	MEN1	ENSBMSG00010008735	Others	NA
+Balaenoptera_musculus	SFMBT1	ENSBMSG00010008745	Others	NA
+Balaenoptera_musculus	WDR77	ENSBMSG00010008752	WD	NA
+Balaenoptera_musculus	APEX1	ENSBMSG00010008810	Others	NA
+Balaenoptera_musculus	DDX20	ENSBMSG00010008840	RNA helicase	NA
+Balaenoptera_musculus	DPY30	ENSBMSG00010008842	Others	NA
+Balaenoptera_musculus	CALCOCO1	ENSBMSG00010008941	Others	NA
+Balaenoptera_musculus	GTF2A1	ENSBMSG00010009013	GTF	NA
+Balaenoptera_musculus	LGALS12	ENSBMSG00010009076	Others	NA
+Balaenoptera_musculus	CBX5	ENSBMSG00010009084	Chromobox	NA
+Balaenoptera_musculus	DOT1L	ENSBMSG00010009150	Others	NA
+Balaenoptera_musculus	KDM1B	ENSBMSG00010009201	Lysine demethylase	NA
+Balaenoptera_musculus	RNF141	ENSBMSG00010009211	Ring finger protein	NA
+Balaenoptera_musculus		ENSBMSG00010009267	DPF	NA
+Balaenoptera_musculus	DEK	ENSBMSG00010009290	Other_CRF	NA
+Balaenoptera_musculus	CCNC	ENSBMSG00010009323	Cyclin	NA
+Balaenoptera_musculus		ENSBMSG00010009357	HNRNP	NA
+Balaenoptera_musculus	RNF10	ENSBMSG00010009393	Ring finger protein	NA
+Balaenoptera_musculus	WWC1	ENSBMSG00010009399	WW	NA
+Balaenoptera_musculus	ACTR8	ENSBMSG00010009410	ACTR	NA
+Balaenoptera_musculus	TENM2	ENSBMSG00010009463	Others	NA
+Balaenoptera_musculus		ENSBMSG00010009476	TATA-box	NA
+Balaenoptera_musculus	TAF11	ENSBMSG00010009497	TATA-box	NA
+Balaenoptera_musculus	TNIP2	ENSBMSG00010009509	Others	NA
+Balaenoptera_musculus	GTF2H1	ENSBMSG00010009536	GTF	NA
+Balaenoptera_musculus	CTDP1	ENSBMSG00010009542	Others	NA
+Balaenoptera_musculus	CTR9	ENSBMSG00010009543	Others	NA
+Balaenoptera_musculus	PHF10	ENSBMSG00010009569	PHF	NA
+Balaenoptera_musculus	RNF4	ENSBMSG00010009582	Ring finger protein	NA
+Balaenoptera_musculus	KAT5	ENSBMSG00010009591	Lysine acetyltransferase	NA
+Balaenoptera_musculus	SUPT16H	ENSBMSG00010009596	SUPT	NA
+Balaenoptera_musculus	TASOR	ENSBMSG00010009597	FAM	NA
+Balaenoptera_musculus	CHD8	ENSBMSG00010009626	CHD	NA
+Balaenoptera_musculus	FHL5	ENSBMSG00010009724	FHL	NA
+Balaenoptera_musculus	SUPT7L	ENSBMSG00010009729	SUPT	NA
+Balaenoptera_musculus	CXXC1	ENSBMSG00010009732	Others	NA
+Balaenoptera_musculus	UFL1	ENSBMSG00010009738	Others	NA
+Balaenoptera_musculus	CITED4	ENSBMSG00010009759	CITED	NA
+Balaenoptera_musculus	PRPF6	ENSBMSG00010009779	Others	NA
+Balaenoptera_musculus	DDX17	ENSBMSG00010009785	RNA helicase	NA
+Balaenoptera_musculus	TDP2	ENSBMSG00010009788	Others	NA
+Balaenoptera_musculus	NELFA	ENSBMSG00010009791	GTF	NA
+Balaenoptera_musculus	CCDC85B	ENSBMSG00010009800	Coiled-coil	NA
+Balaenoptera_musculus	TRIM33	ENSBMSG00010009825	Tripartite motif	NA
+Balaenoptera_musculus	GMNN	ENSBMSG00010009832	Others	NA
+Balaenoptera_musculus	DRAP1	ENSBMSG00010009835	Others	NA
+Balaenoptera_musculus		ENSBMSG00010009877	Others	NA
+Balaenoptera_musculus	DCC	ENSBMSG00010009938	Others	NA
+Balaenoptera_musculus	SCMH1	ENSBMSG00010009943	Others	NA
+Balaenoptera_musculus	CASP8AP2	ENSBMSG00010009976	Others	NA
+Balaenoptera_musculus	CBX6	ENSBMSG00010010075	Chromobox	NA
+Balaenoptera_musculus	TAF8	ENSBMSG00010010093	TATA-box	NA
+Balaenoptera_musculus	CENPB	ENSBMSG00010010098	CENP	NA
+Balaenoptera_musculus		ENSBMSG00010010196	Heat shock protein	NA
+Balaenoptera_musculus	TAB1	ENSBMSG00010010202	Others	NA
+Balaenoptera_musculus		ENSBMSG00010010251	Others	NA
+Balaenoptera_musculus	CSRP3	ENSBMSG00010010253	Others	NA
+Balaenoptera_musculus	BRMS1	ENSBMSG00010010277	Other_CRF	NA
+Balaenoptera_musculus	CTBP1	ENSBMSG00010010280	Others	NA
+Balaenoptera_musculus	MDFI	ENSBMSG00010010338	Others	NA
+Balaenoptera_musculus	DGKQ	ENSBMSG00010010384	Others	NA
+Balaenoptera_musculus	RAF1	ENSBMSG00010010408	Others	NA
+Balaenoptera_musculus	PRMT5	ENSBMSG00010010436	Arginine methyltransferase	NA
+Balaenoptera_musculus	PRNP	ENSBMSG00010010500	Others	NA
+Balaenoptera_musculus	H1-2	ENSBMSG00010010506	Histone cluster 1 H1	NA
+Balaenoptera_musculus		ENSBMSG00010010570	Histone cluster 1 H1	NA
+Balaenoptera_musculus	PHF1	ENSBMSG00010010595	PHF	NA
+Balaenoptera_musculus	PCGF3	ENSBMSG00010010613	PCGF	NA
+Balaenoptera_musculus	DAXX	ENSBMSG00010010625	Other_CRF	NA
+Balaenoptera_musculus	BTN3A1	ENSBMSG00010010648	Others	NA
+Balaenoptera_musculus	AJUBA	ENSBMSG00010010676	Others	NA
+Balaenoptera_musculus	SMARCA4	ENSBMSG00010010730	SWI/SNF	NA
+Balaenoptera_musculus	RHOA	ENSBMSG00010010749	Others	NA
+Balaenoptera_musculus		ENSBMSG00010010769	Ring finger protein	NA
+Balaenoptera_musculus	ABT1	ENSBMSG00010010784	Others	NA
+Balaenoptera_musculus	RBM14	ENSBMSG00010010789	RNA binding protein	NA
+Balaenoptera_musculus	MRTFA	ENSBMSG00010010792	Others	NA
+Balaenoptera_musculus	MED8	ENSBMSG00010010813	Mediator complex	NA
+Balaenoptera_musculus	HTATIP2	ENSBMSG00010010875	Others	NA
+Balaenoptera_musculus	FBXW11	ENSBMSG00010010896	Others	NA
+Balaenoptera_musculus		ENSBMSG00010010940	Others	NA
+Balaenoptera_musculus	CARM1	ENSBMSG00010010948	Others	NA
+Balaenoptera_musculus	TRIP6	ENSBMSG00010010964	Thyroid hormone receptor	NA
+Balaenoptera_musculus	EP300	ENSBMSG00010010998	Others	NA
+Balaenoptera_musculus	L3MBTL2	ENSBMSG00010011148	Others	NA
+Balaenoptera_musculus	PRDX5	ENSBMSG00010011153	Others	NA
+Balaenoptera_musculus	RNF8	ENSBMSG00010011155	Ring finger protein	NA
+Balaenoptera_musculus		ENSBMSG00010011187	BCL	NA
+Balaenoptera_musculus	CITED2	ENSBMSG00010011191	CITED	NA
+Balaenoptera_musculus	CNOT10	ENSBMSG00010011215	CCR4-NOT	NA
+Balaenoptera_musculus		ENSBMSG00010011226	Others	NA
+Balaenoptera_musculus	ACTL6B	ENSBMSG00010011243	Actin	NA
+Balaenoptera_musculus	MRGBP	ENSBMSG00010011280	Others	NA
+Balaenoptera_musculus	C6orf89	ENSBMSG00010011343	Other_CRF	NA
+Balaenoptera_musculus	BRD2	ENSBMSG00010011399	Bromodomain	NA
+Balaenoptera_musculus	KDM4A	ENSBMSG00010011413	Lysine demethylase	NA
+Balaenoptera_musculus	EZR	ENSBMSG00010011421	Others	NA
+Balaenoptera_musculus	TRIM29	ENSBMSG00010011423	Tripartite motif	NA
+Balaenoptera_musculus	ASF1B	ENSBMSG00010011510	Others	NA
+Balaenoptera_musculus	TIRAP	ENSBMSG00010011550	Others	NA
+Balaenoptera_musculus	SIVA1	ENSBMSG00010011587	Others	NA
+Balaenoptera_musculus	GTF2H5	ENSBMSG00010011624	GTF	NA
+Balaenoptera_musculus	KDM8	ENSBMSG00010011648	Lysine demethylase	NA
+Balaenoptera_musculus	CBL	ENSBMSG00010011688	Others	NA
+Balaenoptera_musculus	SAP30	ENSBMSG00010011690	SAP	NA
+Balaenoptera_musculus	DNAJB1	ENSBMSG00010011696	Others	NA
+Balaenoptera_musculus	NFKBIZ	ENSBMSG00010011718	NFKB associated	NA
+Balaenoptera_musculus	GTF2B	ENSBMSG00010011733	GTF	NA
+Balaenoptera_musculus	SS18L1	ENSBMSG00010011768	SS18	NA
+Balaenoptera_musculus	BRF1	ENSBMSG00010011779	GTF	NA
+Balaenoptera_musculus	ESF1	ENSBMSG00010011782	Others	NA
+Balaenoptera_musculus	CHEK1	ENSBMSG00010011794	Others	NA
+Balaenoptera_musculus	TAF6	ENSBMSG00010011838	TATA-box	NA
+Balaenoptera_musculus	DNMT1	ENSBMSG00010011892	DNA_methylase	NA
+Balaenoptera_musculus	HDAC11	ENSBMSG00010011895	Histone deacetylase	NA
+Balaenoptera_musculus	TAF4	ENSBMSG00010011906	TATA-box	NA
+Balaenoptera_musculus	MED21	ENSBMSG00010011918	Mediator complex	NA
+Balaenoptera_musculus	HYAL2	ENSBMSG00010011938	Others	NA
+Balaenoptera_musculus	NEDD8	ENSBMSG00010011967	Others	NA
+Balaenoptera_musculus	MALT1	ENSBMSG00010012011	Others	NA
+Balaenoptera_musculus	ELP4	ENSBMSG00010012038	ELP	NA
+Balaenoptera_musculus	DMAP1	ENSBMSG00010012040	DNA_methylase	NA
+Balaenoptera_musculus	NFATC2IP	ENSBMSG00010012143	Nuclear coactivator	NA
+Balaenoptera_musculus	ASXL1	ENSBMSG00010012180	Others	NA
+Balaenoptera_musculus	SMARCD3	ENSBMSG00010012184	SWI/SNF	NA
+Balaenoptera_musculus	RIPK3	ENSBMSG00010012210	Others	NA
+Balaenoptera_musculus	SRC	ENSBMSG00010012213	Others	NA
+Balaenoptera_musculus		ENSBMSG00010012230	GTF	NA
+Balaenoptera_musculus	BCL9L	ENSBMSG00010012283	BCL	NA
+Balaenoptera_musculus	BEND6	ENSBMSG00010012288	Others	NA
+Balaenoptera_musculus	HCK	ENSBMSG00010012289	Others	NA
+Balaenoptera_musculus	PLK3	ENSBMSG00010012292	Others	NA
+Balaenoptera_musculus	ZNF451	ENSBMSG00010012315	Zinc finger	NA
+Balaenoptera_musculus	LRPPRC	ENSBMSG00010012323	Others	NA
+Balaenoptera_musculus		ENSBMSG00010012345	Others	NA
+Balaenoptera_musculus	ASF1A	ENSBMSG00010012377	Others	NA
+Balaenoptera_musculus	TAF2	ENSBMSG00010012391	TATA-box	NA
+Balaenoptera_musculus	RBL1	ENSBMSG00010012399	Other_Co-activator/repressors	NA
+Balaenoptera_musculus	LPIN2	ENSBMSG00010012467	LPIN	NA
+Balaenoptera_musculus		ENSBMSG00010012529	Others	NA
+Balaenoptera_musculus		ENSBMSG00010012553	Lysine methyltransferase	NA
+Balaenoptera_musculus	RBM15B	ENSBMSG00010012619	RNA binding protein	NA
+Balaenoptera_musculus	FGFR2	ENSBMSG00010012623	FGF	NA
+Balaenoptera_musculus	PIN1	ENSBMSG00010012624	Others	NA
+Balaenoptera_musculus	DCAF1	ENSBMSG00010012639	Others	NA
+Balaenoptera_musculus	TRIB3	ENSBMSG00010012655	Others	NA
+Balaenoptera_musculus		ENSBMSG00010012665	Other_CRF	NA
+Balaenoptera_musculus	CD3D	ENSBMSG00010012674	Others	NA
+Balaenoptera_musculus	KDM2B	ENSBMSG00010012704	Lysine demethylase	NA
+Balaenoptera_musculus	MED30	ENSBMSG00010012718	Mediator complex	NA
+Balaenoptera_musculus	TRIP13	ENSBMSG00010012739	Thyroid hormone receptor	NA
+Balaenoptera_musculus		ENSBMSG00010012748	Casein	NA
+Balaenoptera_musculus		ENSBMSG00010012770	ASCC	NA
+Balaenoptera_musculus	VGLL2	ENSBMSG00010012771	Vestigial like	NA
+Balaenoptera_musculus	RAD21	ENSBMSG00010012772	Others	NA
+Balaenoptera_musculus	STRN3	ENSBMSG00010012838	Others	NA
+Balaenoptera_musculus		ENSBMSG00010012855	HIPK	NA
+Balaenoptera_musculus		ENSBMSG00010012878	INO80 complex	NA
+Balaenoptera_musculus	CDK5	ENSBMSG00010012888	Cyclin	NA
+Balaenoptera_musculus	ARHGAP5	ENSBMSG00010012978	Others	NA
+Balaenoptera_musculus	SCAND1	ENSBMSG00010012981	Others	NA
+Balaenoptera_musculus	PHF20	ENSBMSG00010012989	PHF	NA
+Balaenoptera_musculus	THOC5	ENSBMSG00010012994	Others	NA
+Balaenoptera_musculus	FRK	ENSBMSG00010013005	Others	NA
+Balaenoptera_musculus		ENSBMSG00010013029	Histone deacetylase	NA
+Balaenoptera_musculus	PCGF1	ENSBMSG00010013038	PCGF	NA
+Balaenoptera_musculus	LMO2	ENSBMSG00010013039	LIM	NA
+Balaenoptera_musculus	RRN3	ENSBMSG00010013042	Others	NA
+Balaenoptera_musculus	RBM39	ENSBMSG00010013049	RNA binding protein	NA
+Balaenoptera_musculus	JMJD1C	ENSBMSG00010013100	Other_CRF	NA
+Balaenoptera_musculus	TRAF6	ENSBMSG00010013148	Others	NA
+Balaenoptera_musculus	LOXL3	ENSBMSG00010013154	Others	NA
+Balaenoptera_musculus	NRBF2	ENSBMSG00010013170	Nuclear receptor coactivator	NA
+Balaenoptera_musculus	TCERG1L	ENSBMSG00010013192	TEF	NA
+Balaenoptera_musculus		ENSBMSG00010013201	CHD	NA
+Balaenoptera_musculus	EWSR1	ENSBMSG00010013203	Others	NA
+Balaenoptera_musculus		ENSBMSG00010013231	Others	NA
+Balaenoptera_musculus		ENSBMSG00010013256	RBBP	NA
+Balaenoptera_musculus	TOP1MT	ENSBMSG00010013264	Other_CRF	NA
+Balaenoptera_musculus	SRFBP1	ENSBMSG00010013357	Others	NA
+Balaenoptera_musculus	SNX6	ENSBMSG00010013359	Others	NA
+Balaenoptera_musculus	CDK1	ENSBMSG00010013392	Cyclin	NA
+Balaenoptera_musculus	BAZ1A	ENSBMSG00010013408	Bromodomain	NA
+Balaenoptera_musculus	SGF29	ENSBMSG00010013452	Others	NA
+Balaenoptera_musculus	CNOT11	ENSBMSG00010013479	CCR4-NOT	NA
+Balaenoptera_musculus	CHEK2	ENSBMSG00010013536	Others	NA
+Balaenoptera_musculus		ENSBMSG00010013565	Chromobox	NA
+Balaenoptera_musculus		ENSBMSG00010013590	Others	NA
+Balaenoptera_musculus		ENSBMSG00010013592	Others	NA
+Balaenoptera_musculus	HDAC7	ENSBMSG00010013664	Histone deacetylase	NA
+Balaenoptera_musculus	WDR61	ENSBMSG00010013689	WD	NA
+Balaenoptera_musculus	ECD	ENSBMSG00010013739	Others	NA
+Balaenoptera_musculus	CGGBP1	ENSBMSG00010013748	Others	NA
+Balaenoptera_musculus	EDRF1	ENSBMSG00010013766	Others	NA
+Balaenoptera_musculus	ABRA	ENSBMSG00010013771	Actin	NA
+Balaenoptera_musculus	TAF15	ENSBMSG00010013832	TATA-box	NA
+Balaenoptera_musculus	VGLL3	ENSBMSG00010013835	Vestigial like	NA
+Balaenoptera_musculus	SS18	ENSBMSG00010013837	SS18	NA
+Balaenoptera_musculus	TOB2	ENSBMSG00010013844	Others	NA
+Balaenoptera_musculus		ENSBMSG00010013857	PHF	NA
+Balaenoptera_musculus	POLR2A	ENSBMSG00010013868	POLR	NA
+Balaenoptera_musculus	RBPMS	ENSBMSG00010013922	RNA binding protein	NA
+Balaenoptera_musculus	BRCA1	ENSBMSG00010013927	Others	NA
+Balaenoptera_musculus	CTBP2	ENSBMSG00010013957	Others	NA
+Balaenoptera_musculus	TAF4B	ENSBMSG00010013965	TATA-box	NA
+Balaenoptera_musculus		ENSBMSG00010013970	Others	NA
+Balaenoptera_musculus	WWOX	ENSBMSG00010013976	WW	NA
+Balaenoptera_musculus	SMARCB1	ENSBMSG00010013994	SWI/SNF	NA
+Balaenoptera_musculus	FHIT	ENSBMSG00010014004	Others	NA
+Balaenoptera_musculus	CDK8	ENSBMSG00010014007	Cyclin	NA
+Balaenoptera_musculus	KCTD1	ENSBMSG00010014015	Others	NA
+Balaenoptera_musculus	STK3	ENSBMSG00010014023	Others	NA
+Balaenoptera_musculus	MMS19	ENSBMSG00010014036	Others	NA
+Balaenoptera_musculus	ANP32E	ENSBMSG00010014047	ANP	NA
+Balaenoptera_musculus	XRN2	ENSBMSG00010014058	Others	NA
+Balaenoptera_musculus	TAF5	ENSBMSG00010014107	TATA-box	NA
+Balaenoptera_musculus	ITCH	ENSBMSG00010014131	Others	NA
+Balaenoptera_musculus	PCGF6	ENSBMSG00010014174	PCGF	NA
+Balaenoptera_musculus	INO80E	ENSBMSG00010014208	INO80 complex	NA
+Balaenoptera_musculus	ING4	ENSBMSG00010014218	ING	NA
+Balaenoptera_musculus	SS18L2	ENSBMSG00010014219	SS18	NA
+Balaenoptera_musculus		ENSBMSG00010014221	Nucleoplasmin	NA
+Balaenoptera_musculus	SUV39H1	ENSBMSG00010014243	Others	NA
+Balaenoptera_musculus	TRIM16	ENSBMSG00010014250	Tripartite motif	NA
+Balaenoptera_musculus		ENSBMSG00010014265	Others	NA
+Balaenoptera_musculus	ASCC1	ENSBMSG00010014274	ASCC	NA
+Balaenoptera_musculus	YAF2	ENSBMSG00010014276	Others	NA
+Balaenoptera_musculus	CDYL2	ENSBMSG00010014282	Chromodomain Y	NA
+Balaenoptera_musculus	KAT8	ENSBMSG00010014301	Lysine acetyltransferase	NA
+Balaenoptera_musculus	HDAC6	ENSBMSG00010014376	Histone deacetylase	NA
+Balaenoptera_musculus	PIH1D1	ENSBMSG00010014378	Other_CRF	NA
+Balaenoptera_musculus	SMURF1	ENSBMSG00010014386	Others	NA
+Balaenoptera_musculus	PPHLN1	ENSBMSG00010014465	Others	NA
+Balaenoptera_musculus	KMT5C	ENSBMSG00010014483	Lysine methyltransferase	NA
+Balaenoptera_musculus	GTF2H4	ENSBMSG00010014490	GTF	NA
+Balaenoptera_musculus	PQBP1	ENSBMSG00010014494	Others	NA
+Balaenoptera_musculus	SENP1	ENSBMSG00010014499	Others	NA
+Balaenoptera_musculus	RALY	ENSBMSG00010014524	Others	NA
+Balaenoptera_musculus		ENSBMSG00010014546	SWI/SNF	NA
+Balaenoptera_musculus	PHF21A	ENSBMSG00010014561	PHF	NA
+Balaenoptera_musculus	RPTOR	ENSBMSG00010014591	Others	NA
+Balaenoptera_musculus	TRRAP	ENSBMSG00010014624	Others	NA
+Balaenoptera_musculus		ENSBMSG00010014627	TATA-box	NA
+Balaenoptera_musculus		ENSBMSG00010014660	Others	NA
+Balaenoptera_musculus	BEND3	ENSBMSG00010014671	Others	NA
+Balaenoptera_musculus	NRG1	ENSBMSG00010014675	Others	NA
+Balaenoptera_musculus	TRAK1	ENSBMSG00010014718	Others	NA
+Balaenoptera_musculus		ENSBMSG00010014744	Others	NA
+Balaenoptera_musculus	MTDH	ENSBMSG00010014792	Others	NA
+Balaenoptera_musculus	WWP2	ENSBMSG00010014806	WW	NA
+Balaenoptera_musculus	C1D	ENSBMSG00010014843	Other_Co-activator/repressors	NA
+Balaenoptera_musculus	PHIP	ENSBMSG00010014858	Others	NA
+Balaenoptera_musculus	ACTN4	ENSBMSG00010014870	Actin	NA
+Balaenoptera_musculus	SUPT4H1	ENSBMSG00010014884	SUPT	NA
+Balaenoptera_musculus	CBFA2T2	ENSBMSG00010014897	Others	NA
+Balaenoptera_musculus	CREBBP	ENSBMSG00010014906	CREB	NA
+Balaenoptera_musculus	AGO2	ENSBMSG00010014922	Others	NA
+Balaenoptera_musculus	BRD7	ENSBMSG00010014944	Bromodomain	NA
+Balaenoptera_musculus	SDR16C5	ENSBMSG00010014961	Others	NA
+Balaenoptera_musculus	CTNNB1	ENSBMSG00010014996	Casein	NA
+Balaenoptera_musculus	ICE1	ENSBMSG00010014997	Others	NA
+Balaenoptera_musculus		ENSBMSG00010014998	Others	NA
+Balaenoptera_musculus	CHRAC1	ENSBMSG00010015044	Other_CRF	NA
+Balaenoptera_musculus		ENSBMSG00010015050	Others	NA
+Balaenoptera_musculus	ZNF638	ENSBMSG00010015052	Zinc finger	NA
+Balaenoptera_musculus	MED10	ENSBMSG00010015064	Mediator complex	NA
+Balaenoptera_musculus	EGFR	ENSBMSG00010015093	Others	NA
+Balaenoptera_musculus	NOD2	ENSBMSG00010015156	Others	NA
+Balaenoptera_musculus	POLR3F	ENSBMSG00010015197	POLR	NA
+Balaenoptera_musculus	MYO6	ENSBMSG00010015279	Others	NA
+Balaenoptera_musculus	RB1	ENSBMSG00010015354	Other_Co-activator/repressors	NA
+Balaenoptera_musculus	TGS1	ENSBMSG00010015383	Others	NA
+Balaenoptera_musculus	DDX39B	ENSBMSG00010015404	RNA helicase	NA
+Balaenoptera_musculus	HDAC5	ENSBMSG00010015411	Histone deacetylase	NA
+Balaenoptera_musculus	DDX1	ENSBMSG00010015414	RNA helicase	NA
+Balaenoptera_musculus	KDM7A	ENSBMSG00010015443	Lysine demethylase	NA
+Balaenoptera_musculus	MED4	ENSBMSG00010015472	Mediator complex	NA
+Balaenoptera_musculus	DUSP26	ENSBMSG00010015488	Others	NA
+Balaenoptera_musculus	SIN3A	ENSBMSG00010015538	Other_CRF	NA
+Balaenoptera_musculus	WBP2NL	ENSBMSG00010015557	Others	NA
+Balaenoptera_musculus	TRIM8	ENSBMSG00010015579	Tripartite motif	NA
+Balaenoptera_musculus	SUFU	ENSBMSG00010015610	Others	NA
+Balaenoptera_musculus	KDM6B	ENSBMSG00010015645	Lysine demethylase	NA
+Balaenoptera_musculus	TGFB1I1	ENSBMSG00010015666	Others	NA
+Balaenoptera_musculus	PRAME	ENSBMSG00010015667	Others	NA
+Balaenoptera_musculus	SUDS3	ENSBMSG00010015678	Other_Co-activator/repressors	NA
+Balaenoptera_musculus	CCNT1	ENSBMSG00010015691	Cyclin	NA
+Balaenoptera_musculus	EZH2	ENSBMSG00010015697	Others	NA
+Balaenoptera_musculus	CDK5R1	ENSBMSG00010015699	Cyclin	NA
+Balaenoptera_musculus	EYA1	ENSBMSG00010015724	EYA	NA
+Balaenoptera_musculus	ATN1	ENSBMSG00010015747	Others	NA
+Balaenoptera_musculus	SERTAD2	ENSBMSG00010015761	Others	NA
+Balaenoptera_musculus	PAGR1	ENSBMSG00010015793	Others	NA
+Balaenoptera_musculus	TCF20	ENSBMSG00010015833	Others	NA
+Balaenoptera_musculus	RUVBL2	ENSBMSG00010015856	Other_CRF	NA
+Balaenoptera_musculus	GRIP1	ENSBMSG00010015860	Others	NA
+Balaenoptera_musculus	ATXN7L3	ENSBMSG00010015865	Others	NA
+Balaenoptera_musculus	TONSL	ENSBMSG00010015870	Others	NA
+Balaenoptera_musculus	CHD9	ENSBMSG00010015871	CHD	NA
+Balaenoptera_musculus	DNMT3B	ENSBMSG00010015879	DNA_methylase	NA
+Balaenoptera_musculus	PELI1	ENSBMSG00010015886	Others	NA
+Balaenoptera_musculus	HIPK2	ENSBMSG00010015894	HIPK	NA
+Balaenoptera_musculus	SMYD1	ENSBMSG00010015937	SMYD	NA
+Balaenoptera_musculus	TDRD3	ENSBMSG00010015943	Others	NA
+Balaenoptera_musculus	TCEA1	ENSBMSG00010015953	TEF	NA
+Balaenoptera_musculus	CHD3	ENSBMSG00010015969	CHD	NA
+Balaenoptera_musculus	LPIN1	ENSBMSG00010015983	LPIN	NA
+Balaenoptera_musculus	RECQL5	ENSBMSG00010016008	Others	NA
+Balaenoptera_musculus	DNAJA3	ENSBMSG00010016048	Others	NA
+Balaenoptera_musculus	RBL2	ENSBMSG00010016073	Other_Co-activator/repressors	NA
+Balaenoptera_musculus	MID1IP1	ENSBMSG00010016089	Others	NA
+Balaenoptera_musculus		ENSBMSG00010016105	Transducin	NA
+Balaenoptera_musculus	BAHCC1	ENSBMSG00010016109	Others	NA
+Balaenoptera_musculus		ENSBMSG00010016120	Other_Co-activator/repressors	NA
+Balaenoptera_musculus	ERCC2	ENSBMSG00010016132	Others	NA
+Balaenoptera_musculus	SAP30BP	ENSBMSG00010016133	SAP	NA
+Balaenoptera_musculus	CTNND2	ENSBMSG00010016138	Casein	NA
+Balaenoptera_musculus	ZNF703	ENSBMSG00010016237	Zinc finger	NA
+Balaenoptera_musculus		ENSBMSG00010016242	Others	NA
+Balaenoptera_musculus	PPRC1	ENSBMSG00010016252	Others	NA
+Balaenoptera_musculus	ARHGEF5	ENSBMSG00010016275	Others	NA
+Balaenoptera_musculus		ENSBMSG00010016302	Heat shock protein	NA
+Balaenoptera_musculus	LDB1	ENSBMSG00010016310	LIM	NA
+Balaenoptera_musculus	MYBBP1A	ENSBMSG00010016375	MYB	NA
+Balaenoptera_musculus	TBPL1	ENSBMSG00010016385	TATA-box	NA
+Balaenoptera_musculus	BRF2	ENSBMSG00010016388	GTF	NA
+Balaenoptera_musculus	KDM3A	ENSBMSG00010016412	Lysine demethylase	NA
+Balaenoptera_musculus	ANXA4	ENSBMSG00010016419	Others	NA
+Balaenoptera_musculus	TESC	ENSBMSG00010016432	Others	NA
+Balaenoptera_musculus	RUNX1T1	ENSBMSG00010016503	Others	NA
+Balaenoptera_musculus	MED14	ENSBMSG00010016504	Mediator complex	NA
+Balaenoptera_musculus	SUZ12	ENSBMSG00010016507	Others	NA
+Balaenoptera_musculus	PABPC1L	ENSBMSG00010016524	Other_CRF	NA
+Balaenoptera_musculus	MED15	ENSBMSG00010016530	Mediator complex	NA
+Balaenoptera_musculus	EFCAB6	ENSBMSG00010016536	Others	NA
+Balaenoptera_musculus	WBP2	ENSBMSG00010016579	WW	NA
+Balaenoptera_musculus	EYA4	ENSBMSG00010016581	EYA	NA
+Balaenoptera_musculus	COPRS	ENSBMSG00010016604	Others	NA
+Balaenoptera_musculus		ENSBMSG00010016643	Others	NA
+Balaenoptera_musculus	TAF1C	ENSBMSG00010016644	TATA-box	NA
+Balaenoptera_musculus	MDM2	ENSBMSG00010016662	Others	NA
+Balaenoptera_musculus		ENSBMSG00010016698	Others	NA
+Balaenoptera_musculus	WTIP	ENSBMSG00010016752	Others	NA
+Balaenoptera_musculus	SNRNP200	ENSBMSG00010016762	ASCC	NA
+Balaenoptera_musculus	MED13L	ENSBMSG00010016783	Mediator complex	NA
+Balaenoptera_musculus	TRADD	ENSBMSG00010016899	Others	NA
+Balaenoptera_musculus	RIPPLY1	ENSBMSG00010016942	Others	NA
+Balaenoptera_musculus	MAGED1	ENSBMSG00010016999	MAGE	NA
+Balaenoptera_musculus		ENSBMSG00010017015	Others	NA
+Balaenoptera_musculus	TSPYL2	ENSBMSG00010017053	Others	NA
+Balaenoptera_musculus	MED31	ENSBMSG00010017056	Mediator complex	NA
+Balaenoptera_musculus		ENSBMSG00010017098	SET	NA
+Balaenoptera_musculus	MACROH2A2	ENSBMSG00010017113	Others	NA
+Balaenoptera_musculus	KDM5C	ENSBMSG00010017114	Lysine demethylase	NA
+Balaenoptera_musculus	AXIN1	ENSBMSG00010017124	Others	NA
+Balaenoptera_musculus	KCNIP3	ENSBMSG00010017192	Others	NA
+Balaenoptera_musculus	TRIM24	ENSBMSG00010017193	Tripartite motif	NA
+Balaenoptera_musculus	NSMCE4A	ENSBMSG00010017199	EID	NA
+Balaenoptera_musculus	PHF21B	ENSBMSG00010017202	PHF	NA
+Balaenoptera_musculus		ENSBMSG00010017210	MYC	NA
+Balaenoptera_musculus	CASK	ENSBMSG00010017223	CAMK	NA
+Balaenoptera_musculus	ALYREF	ENSBMSG00010017240	Others	NA
+Balaenoptera_musculus	FBRS	ENSBMSG00010017337	Others	NA
+Balaenoptera_musculus	HTATSF1	ENSBMSG00010017339	Others	NA
+Balaenoptera_musculus	BRCA2	ENSBMSG00010017357	Others	NA
+Balaenoptera_musculus	COMMD1	ENSBMSG00010017362	Others	NA
+Balaenoptera_musculus	VGLL1	ENSBMSG00010017395	Vestigial like	NA
+Balaenoptera_musculus	DTX1	ENSBMSG00010017430	Others	NA
+Balaenoptera_musculus	XIAP	ENSBMSG00010017439	Others	NA
+Balaenoptera_musculus	FAM83G	ENSBMSG00010017451	FAM	NA
+Balaenoptera_musculus		ENSBMSG00010017521	Heat shock protein	NA
+Balaenoptera_musculus	PARP10	ENSBMSG00010017529	PARP	NA
+Balaenoptera_musculus	SIRT7	ENSBMSG00010017558	Sirtuin	NA
+Balaenoptera_musculus	TGFB1	ENSBMSG00010017563	Others	NA
+Balaenoptera_musculus	RBMX	ENSBMSG00010017628	RNA binding protein	NA
+Balaenoptera_musculus		ENSBMSG00010017629	Others	NA
+Balaenoptera_musculus	ACTB	ENSBMSG00010017637	Actin	NA
+Balaenoptera_musculus	BCL3	ENSBMSG00010017643	BCL	NA
+Balaenoptera_musculus	TENM1	ENSBMSG00010017660	Others	NA
+Balaenoptera_musculus	RGCC	ENSBMSG00010017667	Others	NA
+Balaenoptera_musculus		ENSBMSG00010017671	Others	NA
+Balaenoptera_musculus	BASP1	ENSBMSG00010017687	Others	NA
+Balaenoptera_musculus	PHF8	ENSBMSG00010017843	PHF	NA
+Balaenoptera_musculus	DDX54	ENSBMSG00010017844	RNA helicase	NA
+Balaenoptera_musculus	DHX33	ENSBMSG00010017845	RNA helicase	NA
+Balaenoptera_musculus	RITA1	ENSBMSG00010017883	Others	NA
+Balaenoptera_musculus	HEXIM1	ENSBMSG00010017902	Others	NA
+Balaenoptera_musculus	HEXIM2	ENSBMSG00010017910	Others	NA
+Balaenoptera_musculus	C1QBP	ENSBMSG00010017913	Others	NA
+Balaenoptera_musculus	SKAP1	ENSBMSG00010017921	Others	NA
+Balaenoptera_musculus	FLII	ENSBMSG00010017950	Others	NA
+Balaenoptera_musculus		ENSBMSG00010017956	Others	NA
+Balaenoptera_musculus	MCRS1	ENSBMSG00010017976	Others	NA
+Balaenoptera_musculus	EHMT2	ENSBMSG00010018022	Histone lysine methyltransferase	NA
+Balaenoptera_musculus	PML	ENSBMSG00010018038	Others	NA
+Balaenoptera_musculus	ACTN2	ENSBMSG00010018056	Actin	NA
+Balaenoptera_musculus	HEATR1	ENSBMSG00010018259	Others	NA
+Balaenoptera_musculus	NPM3	ENSBMSG00010018271	Nucleoplasmin	NA
+Balaenoptera_musculus	CNOT2	ENSBMSG00010018285	CCR4-NOT	NA
+Balaenoptera_musculus	KDM6A	ENSBMSG00010018295	Lysine demethylase	NA
+Balaenoptera_musculus	NCOA2	ENSBMSG00010018328	Nuclear receptor coactivator	NA
+Balaenoptera_musculus	EGLN2	ENSBMSG00010018330	Others	NA
+Balaenoptera_musculus	CRK	ENSBMSG00010018408	Others	NA
+Balaenoptera_musculus	CDK5RAP3	ENSBMSG00010018481	Cyclin	NA
+Balaenoptera_musculus	URI1	ENSBMSG00010018529	Others	NA
+Balaenoptera_musculus	INO80C	ENSBMSG00010018540	INO80 complex	NA
+Balaenoptera_musculus		ENSBMSG00010018551	SUPT	NA
+Balaenoptera_musculus	JUP	ENSBMSG00010018564	Others	NA
+Balaenoptera_musculus	CCNE1	ENSBMSG00010018593	Cyclin	NA
+Balaenoptera_musculus	FGFR1	ENSBMSG00010018614	FGF	NA
+Balaenoptera_musculus	RPRD1A	ENSBMSG00010018617	Others	NA
+Balaenoptera_musculus	MBTD1	ENSBMSG00010018624	Others	NA
+Balaenoptera_musculus	CNOT3	ENSBMSG00010018642	CCR4-NOT	NA
+Balaenoptera_musculus	BANP	ENSBMSG00010018677	Others	NA
+Balaenoptera_musculus	WWP1	ENSBMSG00010018701	WW	NA
+Balaenoptera_musculus	ELP2	ENSBMSG00010018709	ELP	NA
+Balaenoptera_musculus	NLK	ENSBMSG00010018802	Others	NA
+Balaenoptera_musculus	BRD1	ENSBMSG00010018808	Bromodomain	NA
+Balaenoptera_musculus	TRIB1	ENSBMSG00010018829	Others	NA
+Balaenoptera_musculus	MTPN	ENSBMSG00010018866	Others	NA
+Balaenoptera_musculus	SETD1A	ENSBMSG00010018870	SET	NA
+Balaenoptera_musculus	NSD3	ENSBMSG00010018918	Nuclear receptor coactivator	NA
+Balaenoptera_musculus		ENSBMSG00010018920	SWI/SNF	NA
+Balaenoptera_musculus	BTRC	ENSBMSG00010018955	Others	NA
+Balaenoptera_musculus	RAI1	ENSBMSG00010018998	Others	NA
+Balaenoptera_musculus	TRIM37	ENSBMSG00010019041	Tripartite motif	NA
+Balaenoptera_musculus	S100A9	ENSBMSG00010019042	Others	NA
+Balaenoptera_musculus	S100A8	ENSBMSG00010019080	Others	NA
+Balaenoptera_musculus	RASD1	ENSBMSG00010019084	Others	NA
+Balaenoptera_musculus	TARBP1	ENSBMSG00010019100	Others	NA
+Balaenoptera_musculus		ENSBMSG00010019110	Mediator complex	NA
+Balaenoptera_musculus		ENSBMSG00010019112	Others	NA
+Balaenoptera_musculus	TOB1	ENSBMSG00010019146	Others	NA
+Balaenoptera_musculus		ENSBMSG00010019178	Others	NA
+Balaenoptera_musculus	JMJD6	ENSBMSG00010019241	Others	NA
+Balaenoptera_musculus	KAT2A	ENSBMSG00010019282	Lysine acetyltransferase	NA
+Balaenoptera_musculus	ASH2L	ENSBMSG00010019289	Others	NA
+Balaenoptera_musculus	LIMD1	ENSBMSG00010019308	LIM	NA
+Balaenoptera_musculus	CHTOP	ENSBMSG00010019311	Others	NA
+Balaenoptera_musculus	SRSF2	ENSBMSG00010019332	Others	NA
+Balaenoptera_musculus	MED12	ENSBMSG00010019347	Mediator complex	NA
+Balaenoptera_musculus	CRYM	ENSBMSG00010019362	Others	NA
+Balaenoptera_musculus	PUF60	ENSBMSG00010019365	Others	NA
+Balaenoptera_musculus	ILF2	ENSBMSG00010019393	Others	NA
+Balaenoptera_musculus	CCNA1	ENSBMSG00010019518	Cyclin	NA
+Balaenoptera_musculus	HCFC1	ENSBMSG00010019528	Others	NA
+Balaenoptera_musculus	COPS5	ENSBMSG00010019531	Others	NA
+Balaenoptera_musculus	VEGFA	ENSBMSG00010019559	Other_CRF	NA
+Balaenoptera_musculus		ENSBMSG00010019579	Others	NA
+Balaenoptera_musculus	UXT	ENSBMSG00010019601	Others	NA
+Balaenoptera_musculus	CAVIN1	ENSBMSG00010019685	Others	NA
+Balaenoptera_musculus		ENSBMSG00010019705	SSX	NA
+Balaenoptera_musculus	TERF2IP	ENSBMSG00010019727	Others	NA
+Balaenoptera_musculus	SUPT20H	ENSBMSG00010019736	SUPT	NA
+Balaenoptera_musculus	MED23	ENSBMSG00010019737	Mediator complex	NA
+Balaenoptera_musculus	SUPT6H	ENSBMSG00010019756	SUPT	NA
+Balaenoptera_musculus	TAF7L	ENSBMSG00010019762	TATA-box	NA
+Balaenoptera_musculus	NONO	ENSBMSG00010019773	Others	NA
+Balaenoptera_musculus	CIDEA	ENSBMSG00010019820	Others	NA
+Balaenoptera_musculus	NCOA3	ENSBMSG00010019853	Nuclear receptor coactivator	NA
+Balaenoptera_musculus		ENSBMSG00010019866	TATA-box	NA
+Balaenoptera_musculus	HDAC10	ENSBMSG00010019871	Histone deacetylase	NA
+Balaenoptera_musculus	ATAD2	ENSBMSG00010019878	Others	NA
+Balaenoptera_musculus	SERTAD3	ENSBMSG00010019883	Others	NA
+Balaenoptera_musculus	RBFOX1	ENSBMSG00010019897	Others	NA
+Balaenoptera_musculus	BTK	ENSBMSG00010019923	Others	NA
+Balaenoptera_musculus		ENSBMSG00010019935	Others	NA
+Balaenoptera_musculus	CHCHD3	ENSBMSG00010019973	Coiled-coil	NA
+Balaenoptera_musculus	ZMYND8	ENSBMSG00010020027	Zinc finger	NA
+Balaenoptera_musculus		ENSBMSG00010020036	Others	NA
+Balaenoptera_musculus	TRIM25	ENSBMSG00010020038	Tripartite motif	NA
+Balaenoptera_musculus	MED13	ENSBMSG00010020052	Mediator complex	NA
+Balaenoptera_musculus	EZH1	ENSBMSG00010020069	Others	NA
+Balaenoptera_musculus	CITED1	ENSBMSG00010020081	CITED	NA
+Balaenoptera_musculus	SETD2	ENSBMSG00010020087	SET	NA
+Balaenoptera_musculus	LEO1	ENSBMSG00010020100	Others	NA
+Balaenoptera_musculus	HIF1AN	ENSBMSG00010020107	Others	NA
+Balaenoptera_musculus	RAP2C	ENSBMSG00010020115	Others	NA
+Balaenoptera_musculus	EP400	ENSBMSG00010020126	Others	NA
+Balaenoptera_musculus	BRIP1	ENSBMSG00010020127	Others	NA
+Balaenoptera_musculus	PRMT7	ENSBMSG00010020129	Arginine methyltransferase	NA
+Balaenoptera_musculus		ENSBMSG00010020145	Histone deacetylase	NA
+Balaenoptera_musculus	SLC25A15	ENSBMSG00010020146	SLC	NA
+Balaenoptera_musculus	HAT1	ENSBMSG00010020171	Others	NA
+Balaenoptera_musculus	MED11	ENSBMSG00010020221	Mediator complex	NA
+Balaenoptera_musculus	BAZ1B	ENSBMSG00010020225	Bromodomain	NA
+Balaenoptera_musculus	ABL1	ENSBMSG00010020250	Others	NA
+Balaenoptera_musculus	CECR2	ENSBMSG00010020274	Other_CRF	NA
+Balaenoptera_musculus	PELP1	ENSBMSG00010020283	Others	NA
+Balaenoptera_musculus	CBFA2T3	ENSBMSG00010020288	Others	NA
+Balaenoptera_musculus	PHF12	ENSBMSG00010020310	PHF	NA
+Balaenoptera_musculus	NUP98	ENSBMSG00010020322	Others	NA
+Balaenoptera_musculus	PDCD4	ENSBMSG00010020340	Others	NA
+Balaenoptera_musculus	CSNK2A2	ENSBMSG00010020354	Casein	NA
+Balaenoptera_musculus	ARRB2	ENSBMSG00010020362	Others	NA
+Balaenoptera_musculus	PIR	ENSBMSG00010020380	Others	NA
+Balaenoptera_musculus	CHUK	ENSBMSG00010020396	Others	NA
+Balaenoptera_musculus	IKBKB	ENSBMSG00010020465	Others	NA
+Balaenoptera_musculus		ENSBMSG00010020515	TEF	NA
+Balaenoptera_musculus	ARHGAP35	ENSBMSG00010020533	Others	NA
+Balaenoptera_musculus	EYA2	ENSBMSG00010020543	EYA	NA
+Balaenoptera_musculus	MYOCD	ENSBMSG00010020560	Others	NA
+Balaenoptera_musculus		ENSBMSG00010020585	Zinc finger	NA
+Balaenoptera_musculus	SETD6	ENSBMSG00010020609	SET	NA
+Balaenoptera_musculus	DYRK1B	ENSBMSG00010020613	Others	NA
+Balaenoptera_musculus	BIRC5	ENSBMSG00010020627	Others	NA
+Balaenoptera_musculus	ING2	ENSBMSG00010020653	ING	NA
+Balaenoptera_musculus	PLK1	ENSBMSG00010020659	Others	NA
+Balaenoptera_musculus	CNOT1	ENSBMSG00010020670	CCR4-NOT	NA
+Balaenoptera_musculus	EID2	ENSBMSG00010020687	EID	NA
+Balaenoptera_musculus		ENSBMSG00010020693	MAGE	NA
+Balaenoptera_musculus		ENSBMSG00010020705	TEF	NA
+Balaenoptera_musculus	TCEAL1	ENSBMSG00010020720	TEF	NA
+Balaenoptera_musculus	MORF4L2	ENSBMSG00010020731	Other_CRF	NA
+Balaenoptera_musculus	RLIM	ENSBMSG00010020736	Ring finger protein	NA
+Balaenoptera_musculus	UTP4	ENSBMSG00010020740	Others	NA
+Balaenoptera_musculus	SUPT5H	ENSBMSG00010020786	SUPT	NA
+Balaenoptera_musculus	NUP62	ENSBMSG00010020840	Others	NA
+Balaenoptera_musculus	CENPU	ENSBMSG00010020844	CENP	NA
+Balaenoptera_musculus	FLNA	ENSBMSG00010020850	Others	NA
+Balaenoptera_musculus	LPIN3	ENSBMSG00010020902	LPIN	NA
+Balaenoptera_musculus	ATRX	ENSBMSG00010020930	Others	NA
+Balaenoptera_musculus	TXLNG	ENSBMSG00010020949	Others	NA
+Balaenoptera_musculus	TRIM28	ENSBMSG00010020962	Tripartite motif	NA
+Balaenoptera_musculus	RBBP7	ENSBMSG00010020995	RBBP	NA
+Balaenoptera_musculus	TOP1	ENSBMSG00010021001	Other_CRF	NA
+Balaenoptera_musculus	TAF9B	ENSBMSG00010021035	TATA-box	NA
+Balaenoptera_musculus	MED25	ENSBMSG00010021075	Mediator complex	NA
+Balaenoptera_musculus	ACTR5	ENSBMSG00010021120	ACTR	NA
+Balaenoptera_musculus	NCOA7	ENSBMSG00010021131	Nuclear receptor coactivator	NA
+Balaenoptera_musculus	PAF1	ENSBMSG00010021132	Others	NA
+Balaenoptera_musculus	AATF	ENSBMSG00010021134	Others	NA
+Balaenoptera_musculus	MED29	ENSBMSG00010021171	Mediator complex	NA
+Balaenoptera_musculus	PAWR	ENSBMSG00010021183	Others	NA
+Balaenoptera_musculus	SAMD4B	ENSBMSG00010021194	Others	NA
+Balaenoptera_musculus	CBX2	ENSBMSG00010021218	Chromobox	NA
+Balaenoptera_musculus		ENSBMSG00010021236	Zinc finger	NA
+Balaenoptera_musculus	CBX8	ENSBMSG00010021238	Chromobox	NA
+Balaenoptera_musculus	CBX4	ENSBMSG00010021246	Chromobox	NA
+Balaenoptera_musculus	PRMT1	ENSBMSG00010021258	Arginine methyltransferase	NA
+Balaenoptera_musculus	DPF1	ENSBMSG00010021281	DPF	NA
+Balaenoptera_musculus		ENSBMSG00010021329	MBD	NA
+Balaenoptera_musculus	IKBKG	ENSBMSG00010021344	Others	NA
+Balaenoptera_musculus	RPRD1B	ENSBMSG00010021383	Others	NA
+Balaenoptera_musculus	SKOR2	ENSBMSG00010021387	SKI	NA
+Balaenoptera_musculus	NOL11	ENSBMSG00010021388	Nuclear coactivator	NA
+Balaenoptera_musculus	BPTF	ENSBMSG00010021472	Bromodomain	NA
+Balaenoptera_musculus	ANKRD2	ENSBMSG00010021528	Ankyrin repeat	NA
+Balaenoptera_musculus	NKAP	ENSBMSG00010021536	NFKB associated	NA
+Balaenoptera_musculus	SMURF2	ENSBMSG00010021607	Others	NA
+Balaenoptera_musculus	TAB3	ENSBMSG00010021656	Others	NA
+Balaenoptera_musculus	DDX5	ENSBMSG00010021683	RNA helicase	NA
+Balaenoptera_musculus	SFR1	ENSBMSG00010021686	Others	NA
+Balaenoptera_musculus	NFKBIB	ENSBMSG00010021696	NFKB associated	NA
+Balaenoptera_musculus	SIRT2	ENSBMSG00010021716	Sirtuin	NA
+Balaenoptera_musculus	TRIM6	ENSBMSG00010021719	Tripartite motif	NA
+Balaenoptera_musculus	MED27	ENSBMSG00010021722	Mediator complex	NA
+Balaenoptera_musculus	ERN1	ENSBMSG00010021757	Others	NA
+Balaenoptera_musculus	MLLT6	ENSBMSG00010021759	Others	NA
+Balaenoptera_musculus	PCGF2	ENSBMSG00010021770	PCGF	NA
+Balaenoptera_musculus	APBB1	ENSBMSG00010021805	Others	NA
+Balaenoptera_musculus	NFKBID	ENSBMSG00010021827	NFKB associated	NA
+Balaenoptera_musculus	PDLIM1	ENSBMSG00010021832	Others	NA
+Balaenoptera_musculus		ENSBMSG00010021833	GTF	NA
+Balaenoptera_musculus	GPS2	ENSBMSG00010021850	Others	NA
+Balaenoptera_musculus	HELLS	ENSBMSG00010021861	Others	NA
+Balaenoptera_musculus	GTF2A1L	ENSBMSG00010021873	GTF	NA
+Balaenoptera_musculus	ILK	ENSBMSG00010021882	Others	NA
+Balaenoptera_musculus	KMT5A	ENSBMSG00010021887	Lysine methyltransferase	NA
+Balaenoptera_musculus	TAF10	ENSBMSG00010021888	TATA-box	NA
+Balaenoptera_musculus	ATF7IP2	ENSBMSG00010021904	Others	NA
+Balaenoptera_musculus	CIITA	ENSBMSG00010021943	Others	NA
+Balaenoptera_musculus	RYBP	ENSBMSG00010021945	Others	NA
+Balaenoptera_musculus	MED1	ENSBMSG00010022049	Mediator complex	NA
+Balaenoptera_musculus	MRTFB	ENSBMSG00010022066	Others	NA
+Balaenoptera_musculus	CDK12	ENSBMSG00010022073	Cyclin	NA
+Balaenoptera_musculus	KMT2B	ENSBMSG00010022090	Lysine methyltransferase	NA
+Balaenoptera_musculus	CCDC62	ENSBMSG00010022103	Coiled-coil	NA
+Balaenoptera_musculus	BTAF1	ENSBMSG00010022106	Others	NA
+Balaenoptera_musculus	NOTCH4	ENSBMSG00010022108	Notch	NA
+Balaenoptera_musculus	PCGF5	ENSBMSG00010022123	PCGF	NA
+Balaenoptera_musculus	ANKRD1	ENSBMSG00010022126	Ankyrin repeat	NA
+Balaenoptera_musculus	ERBB2	ENSBMSG00010022134	Erbb2	NA
+Balaenoptera_musculus	LMCD1	ENSBMSG00010022145	LIM	NA
+Balaenoptera_musculus	CNOT7	ENSBMSG00010022150	CCR4-NOT	NA
+Balaenoptera_musculus	TNKS	ENSBMSG00010022237	Others	NA
+Balaenoptera_musculus	TADA3	ENSBMSG00010022248	Transcriptional adaptor	NA
+Balaenoptera_musculus	MPHOSPH8	ENSBMSG00010022303	Others	NA
+Balaenoptera_musculus	PSPC1	ENSBMSG00010022315	Others	NA
+Balaenoptera_musculus	ZMYM5	ENSBMSG00010022326	Zinc finger	NA
+Balaenoptera_musculus	ZMYM2	ENSBMSG00010022335	Zinc finger	NA
+Balaenoptera_musculus	CCAR1	ENSBMSG00010022355	Others	NA
+Balaenoptera_musculus	MED24	ENSBMSG00010022358	Mediator complex	NA
+Balaenoptera_musculus	NCOA4	ENSBMSG00010022370	Nuclear receptor coactivator	NA
+Balaenoptera_musculus	SAP18	ENSBMSG00010022382	SAP	NA
+Balaenoptera_musculus	KDM5A	ENSBMSG00010022403	Lysine demethylase	NA
+Balaenoptera_musculus	RNF6	ENSBMSG00010022445	Ring finger protein	NA
+Balaenoptera_musculus	PRMT8	ENSBMSG00010022462	Arginine methyltransferase	NA
+Balaenoptera_musculus	CAMK2D	ENSBMSG00010022569	CAMK	NA

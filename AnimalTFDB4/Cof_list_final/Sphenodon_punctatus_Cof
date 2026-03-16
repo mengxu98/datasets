@@ -1,0 +1,735 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Sphenodon_punctatus	BLM	ENSSPUG00000000013	Others	NA
+Sphenodon_punctatus	BTF3	ENSSPUG00000000033	Others	NA
+Sphenodon_punctatus	ANKRA2	ENSSPUG00000000057	Ankyrin repeat	NA
+Sphenodon_punctatus	NOTCH2	ENSSPUG00000000062	Notch	NA
+Sphenodon_punctatus	LPIN1	ENSSPUG00000000067	LPIN	NA
+Sphenodon_punctatus	NELFCD	ENSSPUG00000000145	GTF	NA
+Sphenodon_punctatus	TIRAP	ENSSPUG00000000163	Others	NA
+Sphenodon_punctatus		ENSSPUG00000000202	Others	NA
+Sphenodon_punctatus	HDAC2	ENSSPUG00000000209	Histone deacetylase	NA
+Sphenodon_punctatus	FBXW11	ENSSPUG00000000231	Others	NA
+Sphenodon_punctatus	AATF	ENSSPUG00000000290	Others	NA
+Sphenodon_punctatus	RAP2C	ENSSPUG00000000304	Others	NA
+Sphenodon_punctatus	RBL1	ENSSPUG00000000342	Other_Co-activator/repressors	NA
+Sphenodon_punctatus		ENSSPUG00000000360	Others	NA
+Sphenodon_punctatus	COPS5	ENSSPUG00000000363	Others	NA
+Sphenodon_punctatus		ENSSPUG00000000391	GTF	NA
+Sphenodon_punctatus	TRRAP	ENSSPUG00000000411	Others	NA
+Sphenodon_punctatus	PRMT5	ENSSPUG00000000421	Arginine methyltransferase	NA
+Sphenodon_punctatus	DCAF1	ENSSPUG00000000429	Others	NA
+Sphenodon_punctatus	MORF4L1	ENSSPUG00000000464	Other_CRF	NA
+Sphenodon_punctatus	RBM23	ENSSPUG00000000489	RNA binding protein	NA
+Sphenodon_punctatus	PAGR1	ENSSPUG00000000528	Others	NA
+Sphenodon_punctatus	APEX1	ENSSPUG00000000531	Others	NA
+Sphenodon_punctatus	TLE3	ENSSPUG00000000655	Transducin	NA
+Sphenodon_punctatus		ENSSPUG00000000657	Others	NA
+Sphenodon_punctatus	GTF2H5	ENSSPUG00000000661	GTF	NA
+Sphenodon_punctatus		ENSSPUG00000000671	Bromodomain	NA
+Sphenodon_punctatus	WNT3A	ENSSPUG00000000676	Others	NA
+Sphenodon_punctatus	ANKRD1	ENSSPUG00000000739	Ankyrin repeat	NA
+Sphenodon_punctatus	MED12L	ENSSPUG00000000749	Mediator complex	NA
+Sphenodon_punctatus	DPF2	ENSSPUG00000000759	DPF	NA
+Sphenodon_punctatus	PCGF5	ENSSPUG00000000770	PCGF	NA
+Sphenodon_punctatus		ENSSPUG00000000785	RNA helicase	NA
+Sphenodon_punctatus	SCAI	ENSSPUG00000000807	Others	NA
+Sphenodon_punctatus	AGO1	ENSSPUG00000000836	Others	NA
+Sphenodon_punctatus	KAT5	ENSSPUG00000000847	Lysine acetyltransferase	NA
+Sphenodon_punctatus	HDAC10	ENSSPUG00000000864	Histone deacetylase	NA
+Sphenodon_punctatus	ANP32E	ENSSPUG00000000918	ANP	NA
+Sphenodon_punctatus	MDM2	ENSSPUG00000000964	Others	NA
+Sphenodon_punctatus	CHUK	ENSSPUG00000001003	Others	NA
+Sphenodon_punctatus	PSEN1	ENSSPUG00000001013	Others	NA
+Sphenodon_punctatus	RNF111	ENSSPUG00000001030	Ring finger protein	NA
+Sphenodon_punctatus	HDGF	ENSSPUG00000001042	Others	NA
+Sphenodon_punctatus	TDG	ENSSPUG00000001061	Others	NA
+Sphenodon_punctatus	EZR	ENSSPUG00000001071	Others	NA
+Sphenodon_punctatus	TRIP13	ENSSPUG00000001119	Thyroid hormone receptor	NA
+Sphenodon_punctatus	THRAP3	ENSSPUG00000001120	Thyroid hormone receptor	NA
+Sphenodon_punctatus	SFMBT2	ENSSPUG00000001165	Others	NA
+Sphenodon_punctatus	PNRC1	ENSSPUG00000001187	Others	NA
+Sphenodon_punctatus	TDRD3	ENSSPUG00000001191	Others	NA
+Sphenodon_punctatus	HYAL2	ENSSPUG00000001216	Others	NA
+Sphenodon_punctatus	DNAJB1	ENSSPUG00000001282	Others	NA
+Sphenodon_punctatus		ENSSPUG00000001288	Others	NA
+Sphenodon_punctatus	TXNIP	ENSSPUG00000001302	Others	NA
+Sphenodon_punctatus	MACROH2A2	ENSSPUG00000001352	Others	NA
+Sphenodon_punctatus	TAF9	ENSSPUG00000001357	TATA-box	NA
+Sphenodon_punctatus	LANCL2	ENSSPUG00000001359	Others	NA
+Sphenodon_punctatus	NLK	ENSSPUG00000001360	Others	NA
+Sphenodon_punctatus	TBP	ENSSPUG00000001392	TATA-box	NA
+Sphenodon_punctatus	SUPT4H1	ENSSPUG00000001513	SUPT	NA
+Sphenodon_punctatus		ENSSPUG00000001612	TATA-box	NA
+Sphenodon_punctatus	CGGBP1	ENSSPUG00000001614	Others	NA
+Sphenodon_punctatus	INO80D	ENSSPUG00000001624	INO80 complex	NA
+Sphenodon_punctatus	SMARCA2	ENSSPUG00000001629	SWI/SNF	NA
+Sphenodon_punctatus	BRD1	ENSSPUG00000001666	Bromodomain	NA
+Sphenodon_punctatus	TLE4	ENSSPUG00000001745	Transducin	NA
+Sphenodon_punctatus	RTF1	ENSSPUG00000001781	Others	NA
+Sphenodon_punctatus	ZMYND11	ENSSPUG00000001782	Zinc finger	NA
+Sphenodon_punctatus		ENSSPUG00000001803	Others	NA
+Sphenodon_punctatus	AIP	ENSSPUG00000001810	Others	NA
+Sphenodon_punctatus	GTF2B	ENSSPUG00000001811	GTF	NA
+Sphenodon_punctatus	CTDSPL	ENSSPUG00000001824	Others	NA
+Sphenodon_punctatus	POLR3C	ENSSPUG00000001834	POLR	NA
+Sphenodon_punctatus	ASCC3	ENSSPUG00000001842	ASCC	NA
+Sphenodon_punctatus		ENSSPUG00000001866	Others	NA
+Sphenodon_punctatus	POLR3F	ENSSPUG00000001873	POLR	NA
+Sphenodon_punctatus	MED31	ENSSPUG00000001917	Mediator complex	NA
+Sphenodon_punctatus	TRIM39	ENSSPUG00000001927	Tripartite motif	NA
+Sphenodon_punctatus	S100P	ENSSPUG00000001942	Others	NA
+Sphenodon_punctatus	EPC2	ENSSPUG00000001980	Others	NA
+Sphenodon_punctatus		ENSSPUG00000001982	Sirtuin	NA
+Sphenodon_punctatus	CNOT10	ENSSPUG00000001987	CCR4-NOT	NA
+Sphenodon_punctatus	CNOT6L	ENSSPUG00000002016	CCR4-NOT	NA
+Sphenodon_punctatus	VGLL4	ENSSPUG00000002043	Vestigial like	NA
+Sphenodon_punctatus	CHCHD3	ENSSPUG00000002046	Coiled-coil	NA
+Sphenodon_punctatus	ACTN1	ENSSPUG00000002060	Actin	NA
+Sphenodon_punctatus	RHOA	ENSSPUG00000002063	Others	NA
+Sphenodon_punctatus		ENSSPUG00000002224	Sirtuin	NA
+Sphenodon_punctatus	TXN	ENSSPUG00000002227	Others	NA
+Sphenodon_punctatus	NFKBIB	ENSSPUG00000002266	NFKB associated	NA
+Sphenodon_punctatus	MED13L	ENSSPUG00000002347	Mediator complex	NA
+Sphenodon_punctatus		ENSSPUG00000002356	Others	NA
+Sphenodon_punctatus	PHF21A	ENSSPUG00000002397	PHF	NA
+Sphenodon_punctatus	CHCHD2	ENSSPUG00000002403	Coiled-coil	NA
+Sphenodon_punctatus	PIDD1	ENSSPUG00000002414	Others	NA
+Sphenodon_punctatus		ENSSPUG00000002434	TATA-box	NA
+Sphenodon_punctatus	CIR1	ENSSPUG00000002452	Other_Co-activator/repressors	NA
+Sphenodon_punctatus	DNTTIP2	ENSSPUG00000002461	Others	NA
+Sphenodon_punctatus	ECD	ENSSPUG00000002516	Others	NA
+Sphenodon_punctatus	DEPDC1	ENSSPUG00000002519	Others	NA
+Sphenodon_punctatus	TNNI2	ENSSPUG00000002534	Others	NA
+Sphenodon_punctatus	LMCD1	ENSSPUG00000002552	LIM	NA
+Sphenodon_punctatus	TOPORS	ENSSPUG00000002582	Others	NA
+Sphenodon_punctatus	DR1	ENSSPUG00000002629	Others	NA
+Sphenodon_punctatus	MED24	ENSSPUG00000002644	Mediator complex	NA
+Sphenodon_punctatus	SUDS3	ENSSPUG00000002713	Other_Co-activator/repressors	NA
+Sphenodon_punctatus	ARHGAP5	ENSSPUG00000002714	Others	NA
+Sphenodon_punctatus	MTF2	ENSSPUG00000002716	Others	NA
+Sphenodon_punctatus	CDK1	ENSSPUG00000002742	Cyclin	NA
+Sphenodon_punctatus	TNRC18	ENSSPUG00000002773	Others	NA
+Sphenodon_punctatus	LIMD1	ENSSPUG00000002861	LIM	NA
+Sphenodon_punctatus	AUTS2	ENSSPUG00000002866	Others	NA
+Sphenodon_punctatus	PYCARD	ENSSPUG00000002918	Others	NA
+Sphenodon_punctatus	NMI	ENSSPUG00000002923	Others	NA
+Sphenodon_punctatus	KAT8	ENSSPUG00000002938	Lysine acetyltransferase	NA
+Sphenodon_punctatus		ENSSPUG00000002954	Others	NA
+Sphenodon_punctatus	SMURF1	ENSSPUG00000002982	Others	NA
+Sphenodon_punctatus	FRK	ENSSPUG00000002986	Others	NA
+Sphenodon_punctatus		ENSSPUG00000003019	CENP	NA
+Sphenodon_punctatus		ENSSPUG00000003040	Lysine demethylase	NA
+Sphenodon_punctatus	SFMBT1	ENSSPUG00000003049	Others	NA
+Sphenodon_punctatus	OGT	ENSSPUG00000003083	Others	NA
+Sphenodon_punctatus	CDKN1C	ENSSPUG00000003090	Cyclin	NA
+Sphenodon_punctatus		ENSSPUG00000003119	TATA-box	NA
+Sphenodon_punctatus	NIF3L1	ENSSPUG00000003130	Others	NA
+Sphenodon_punctatus	TBPL2	ENSSPUG00000003135	TATA-box	NA
+Sphenodon_punctatus	BRDT	ENSSPUG00000003137	Bromodomain	NA
+Sphenodon_punctatus	PPIE	ENSSPUG00000003147	Others	NA
+Sphenodon_punctatus	ORC2	ENSSPUG00000003152	Others	NA
+Sphenodon_punctatus	MED12	ENSSPUG00000003166	Mediator complex	NA
+Sphenodon_punctatus	DMAP1	ENSSPUG00000003223	DNA_methylase	NA
+Sphenodon_punctatus		ENSSPUG00000003224	Others	NA
+Sphenodon_punctatus	ELL2	ENSSPUG00000003227	GTF	NA
+Sphenodon_punctatus	TGFBR3	ENSSPUG00000003261	Others	NA
+Sphenodon_punctatus	SMARCB1	ENSSPUG00000003266	SWI/SNF	NA
+Sphenodon_punctatus	ARHGAP35	ENSSPUG00000003327	Others	NA
+Sphenodon_punctatus	SLC30A9	ENSSPUG00000003328	SLC	NA
+Sphenodon_punctatus		ENSSPUG00000003339	HNRNP	NA
+Sphenodon_punctatus	TAF6L	ENSSPUG00000003342	TATA-box	NA
+Sphenodon_punctatus	ZMYM3	ENSSPUG00000003377	Zinc finger	NA
+Sphenodon_punctatus	SAV1	ENSSPUG00000003429	Others	NA
+Sphenodon_punctatus	LBH	ENSSPUG00000003446	Others	NA
+Sphenodon_punctatus	TRAK2	ENSSPUG00000003462	Others	NA
+Sphenodon_punctatus		ENSSPUG00000003467	Others	NA
+Sphenodon_punctatus	TRIM24	ENSSPUG00000003474	Tripartite motif	NA
+Sphenodon_punctatus	ELP3	ENSSPUG00000003508	ELP	NA
+Sphenodon_punctatus	PHF10	ENSSPUG00000003514	PHF	NA
+Sphenodon_punctatus	BUD31	ENSSPUG00000003523	Others	NA
+Sphenodon_punctatus	NCOA7	ENSSPUG00000003527	Nuclear receptor coactivator	NA
+Sphenodon_punctatus	ATF7IP2	ENSSPUG00000003560	Others	NA
+Sphenodon_punctatus	GNL3	ENSSPUG00000003582	Others	NA
+Sphenodon_punctatus	ADRB2	ENSSPUG00000003608	Others	NA
+Sphenodon_punctatus	NCOA2	ENSSPUG00000003625	Nuclear receptor coactivator	NA
+Sphenodon_punctatus	EYA2	ENSSPUG00000003634	EYA	NA
+Sphenodon_punctatus	TPR	ENSSPUG00000003635	Others	NA
+Sphenodon_punctatus	BTAF1	ENSSPUG00000003637	Others	NA
+Sphenodon_punctatus	MEAF6	ENSSPUG00000003691	Others	NA
+Sphenodon_punctatus	RASD1	ENSSPUG00000003719	Others	NA
+Sphenodon_punctatus	PLK3	ENSSPUG00000003738	Others	NA
+Sphenodon_punctatus		ENSSPUG00000003742	Others	NA
+Sphenodon_punctatus	SNIP1	ENSSPUG00000003752	Others	NA
+Sphenodon_punctatus	ACTN4	ENSSPUG00000003851	Actin	NA
+Sphenodon_punctatus	CHTOP	ENSSPUG00000003875	Others	NA
+Sphenodon_punctatus	SRC	ENSSPUG00000003903	Others	NA
+Sphenodon_punctatus	S100A1	ENSSPUG00000003919	Others	NA
+Sphenodon_punctatus	DHX9	ENSSPUG00000003934	RNA helicase	NA
+Sphenodon_punctatus	ACTR6	ENSSPUG00000003969	ACTR	NA
+Sphenodon_punctatus		ENSSPUG00000003989	Others	NA
+Sphenodon_punctatus	RNF2	ENSSPUG00000004004	Ring finger protein	NA
+Sphenodon_punctatus	FHL3	ENSSPUG00000004027	FHL	NA
+Sphenodon_punctatus	TNIP1	ENSSPUG00000004058	Others	NA
+Sphenodon_punctatus	SENP1	ENSSPUG00000004078	Others	NA
+Sphenodon_punctatus	NIBAN2	ENSSPUG00000004105	FAM	NA
+Sphenodon_punctatus	FBP1	ENSSPUG00000004145	Others	NA
+Sphenodon_punctatus	RUVBL1	ENSSPUG00000004163	Other_CRF	NA
+Sphenodon_punctatus	TASOR	ENSSPUG00000004182	FAM	NA
+Sphenodon_punctatus	ARL2BP	ENSSPUG00000004199	Others	NA
+Sphenodon_punctatus	YWHAB	ENSSPUG00000004201	Others	NA
+Sphenodon_punctatus	POLR1A	ENSSPUG00000004215	POLR	NA
+Sphenodon_punctatus	HDAC7	ENSSPUG00000004218	Histone deacetylase	NA
+Sphenodon_punctatus	PABPC1L	ENSSPUG00000004233	Other_CRF	NA
+Sphenodon_punctatus	STK4	ENSSPUG00000004292	Others	NA
+Sphenodon_punctatus	SMURF2	ENSSPUG00000004332	Others	NA
+Sphenodon_punctatus	LOXL3	ENSSPUG00000004364	Others	NA
+Sphenodon_punctatus	PRMT7	ENSSPUG00000004375	Arginine methyltransferase	NA
+Sphenodon_punctatus	BCL9L	ENSSPUG00000004385	BCL	NA
+Sphenodon_punctatus	PDCD4	ENSSPUG00000004443	Others	NA
+Sphenodon_punctatus	TNKS	ENSSPUG00000004444	Others	NA
+Sphenodon_punctatus	TRIP4	ENSSPUG00000004511	Thyroid hormone receptor	NA
+Sphenodon_punctatus	FLII	ENSSPUG00000004514	Others	NA
+Sphenodon_punctatus	EYA3	ENSSPUG00000004515	EYA	NA
+Sphenodon_punctatus	CARM1	ENSSPUG00000004517	Others	NA
+Sphenodon_punctatus	CCPG1	ENSSPUG00000004549	Others	NA
+Sphenodon_punctatus		ENSSPUG00000004555	RNA helicase	NA
+Sphenodon_punctatus	CRYM	ENSSPUG00000004556	Others	NA
+Sphenodon_punctatus	SMARCA4	ENSSPUG00000004558	SWI/SNF	NA
+Sphenodon_punctatus	HABP4	ENSSPUG00000004571	Others	NA
+Sphenodon_punctatus	SIRT3	ENSSPUG00000004593	Sirtuin	NA
+Sphenodon_punctatus	ALYREF	ENSSPUG00000004600	Others	NA
+Sphenodon_punctatus	SSBP2	ENSSPUG00000004621	Others	NA
+Sphenodon_punctatus	KDM1A	ENSSPUG00000004648	Lysine demethylase	NA
+Sphenodon_punctatus	SIRT7	ENSSPUG00000004678	Sirtuin	NA
+Sphenodon_punctatus		ENSSPUG00000004735	Others	NA
+Sphenodon_punctatus	DYRK1B	ENSSPUG00000004779	Others	NA
+Sphenodon_punctatus	ERN1	ENSSPUG00000004797	Others	NA
+Sphenodon_punctatus	WNT4	ENSSPUG00000004804	Others	NA
+Sphenodon_punctatus	KDM3A	ENSSPUG00000004848	Lysine demethylase	NA
+Sphenodon_punctatus	EHMT1	ENSSPUG00000004906	Histone lysine methyltransferase	NA
+Sphenodon_punctatus	SMYD1	ENSSPUG00000004966	SMYD	NA
+Sphenodon_punctatus	PHIP	ENSSPUG00000004972	Others	NA
+Sphenodon_punctatus	TERF2IP	ENSSPUG00000004990	Others	NA
+Sphenodon_punctatus	ATF7IP	ENSSPUG00000005102	Others	NA
+Sphenodon_punctatus	KMT5B	ENSSPUG00000005140	Lysine methyltransferase	NA
+Sphenodon_punctatus	CRY1	ENSSPUG00000005172	Others	NA
+Sphenodon_punctatus	LRPPRC	ENSSPUG00000005188	Others	NA
+Sphenodon_punctatus	CASK	ENSSPUG00000005209	CAMK	NA
+Sphenodon_punctatus	SUZ12	ENSSPUG00000005244	Others	NA
+Sphenodon_punctatus	H2AZ1	ENSSPUG00000005327	Others	NA
+Sphenodon_punctatus	CALCOCO1	ENSSPUG00000005381	Others	NA
+Sphenodon_punctatus	GTF2A2	ENSSPUG00000005383	GTF	NA
+Sphenodon_punctatus	LEO1	ENSSPUG00000005384	Others	NA
+Sphenodon_punctatus	TRIM25	ENSSPUG00000005388	Tripartite motif	NA
+Sphenodon_punctatus	RIPPLY2	ENSSPUG00000005407	Others	NA
+Sphenodon_punctatus	FGFR1	ENSSPUG00000005439	FGF	NA
+Sphenodon_punctatus	MED14	ENSSPUG00000005459	Mediator complex	NA
+Sphenodon_punctatus	XRN2	ENSSPUG00000005485	Others	NA
+Sphenodon_punctatus		ENSSPUG00000005536	Tripartite motif	NA
+Sphenodon_punctatus	EZH1	ENSSPUG00000005551	Others	NA
+Sphenodon_punctatus	YEATS2	ENSSPUG00000005568	Others	NA
+Sphenodon_punctatus	PHF12	ENSSPUG00000005577	PHF	NA
+Sphenodon_punctatus	MID1IP1	ENSSPUG00000005583	Others	NA
+Sphenodon_punctatus	WWP2	ENSSPUG00000005585	WW	NA
+Sphenodon_punctatus	WDR77	ENSSPUG00000005589	WD	NA
+Sphenodon_punctatus	EPC1	ENSSPUG00000005725	Others	NA
+Sphenodon_punctatus	RBM14	ENSSPUG00000005905	RNA binding protein	NA
+Sphenodon_punctatus	SCMH1	ENSSPUG00000005912	Others	NA
+Sphenodon_punctatus	UTP4	ENSSPUG00000005935	Others	NA
+Sphenodon_punctatus	TRIM16	ENSSPUG00000005988	Tripartite motif	NA
+Sphenodon_punctatus	FHL2	ENSSPUG00000005999	FHL	NA
+Sphenodon_punctatus	NCK2	ENSSPUG00000006016	Others	NA
+Sphenodon_punctatus	TAF15	ENSSPUG00000006042	TATA-box	NA
+Sphenodon_punctatus	TOP1MT	ENSSPUG00000006078	Other_CRF	NA
+Sphenodon_punctatus	MYOCD	ENSSPUG00000006103	Others	NA
+Sphenodon_punctatus	SUPT6H	ENSSPUG00000006119	SUPT	NA
+Sphenodon_punctatus	SUPT7L	ENSSPUG00000006156	SUPT	NA
+Sphenodon_punctatus	NCOA4	ENSSPUG00000006239	Nuclear receptor coactivator	NA
+Sphenodon_punctatus		ENSSPUG00000006248	Lysine demethylase	NA
+Sphenodon_punctatus	RALY	ENSSPUG00000006251	Others	NA
+Sphenodon_punctatus	MTPN	ENSSPUG00000006292	Others	NA
+Sphenodon_punctatus	ZNF451	ENSSPUG00000006311	Zinc finger	NA
+Sphenodon_punctatus	BEND6	ENSSPUG00000006339	Others	NA
+Sphenodon_punctatus	MED28	ENSSPUG00000006379	Mediator complex	NA
+Sphenodon_punctatus	MYBBP1A	ENSSPUG00000006417	MYB	NA
+Sphenodon_punctatus	LDB2	ENSSPUG00000006437	LIM	NA
+Sphenodon_punctatus	BRD2	ENSSPUG00000006441	Bromodomain	NA
+Sphenodon_punctatus	C1D	ENSSPUG00000006525	Other_Co-activator/repressors	NA
+Sphenodon_punctatus	ING3	ENSSPUG00000006536	ING	NA
+Sphenodon_punctatus	PEX14	ENSSPUG00000006603	Others	NA
+Sphenodon_punctatus	AGO2	ENSSPUG00000006608	Others	NA
+Sphenodon_punctatus	CHRAC1	ENSSPUG00000006637	Other_CRF	NA
+Sphenodon_punctatus	SUPT3H	ENSSPUG00000006662	SUPT	NA
+Sphenodon_punctatus	CSNK2A2	ENSSPUG00000006683	Casein	NA
+Sphenodon_punctatus		ENSSPUG00000006697	Others	NA
+Sphenodon_punctatus	TAF1A	ENSSPUG00000006733	TATA-box	NA
+Sphenodon_punctatus	CELA1	ENSSPUG00000006736	Others	NA
+Sphenodon_punctatus	MED8	ENSSPUG00000006822	Mediator complex	NA
+Sphenodon_punctatus		ENSSPUG00000006872	Others	NA
+Sphenodon_punctatus	PAWR	ENSSPUG00000006881	Others	NA
+Sphenodon_punctatus	CTDP1	ENSSPUG00000006909	Others	NA
+Sphenodon_punctatus	CILK1	ENSSPUG00000006994	Others	NA
+Sphenodon_punctatus	CBFA2T3	ENSSPUG00000007014	Others	NA
+Sphenodon_punctatus	MTOR	ENSSPUG00000007045	Others	NA
+Sphenodon_punctatus	FLNC	ENSSPUG00000007046	Others	NA
+Sphenodon_punctatus	ERBB2	ENSSPUG00000007113	Erbb2	NA
+Sphenodon_punctatus	WWTR1	ENSSPUG00000007133	WW	NA
+Sphenodon_punctatus	PIN1	ENSSPUG00000007148	Others	NA
+Sphenodon_punctatus	URI1	ENSSPUG00000007198	Others	NA
+Sphenodon_punctatus	CCNE1	ENSSPUG00000007218	Cyclin	NA
+Sphenodon_punctatus	RUVBL2	ENSSPUG00000007263	Other_CRF	NA
+Sphenodon_punctatus	CDK12	ENSSPUG00000007298	Cyclin	NA
+Sphenodon_punctatus	MED1	ENSSPUG00000007325	Mediator complex	NA
+Sphenodon_punctatus	RGCC	ENSSPUG00000007376	Others	NA
+Sphenodon_punctatus	WWC1	ENSSPUG00000007403	WW	NA
+Sphenodon_punctatus	NDUFA13	ENSSPUG00000007419	Others	NA
+Sphenodon_punctatus	TRIM33	ENSSPUG00000007444	Tripartite motif	NA
+Sphenodon_punctatus	MDFI	ENSSPUG00000007446	Others	NA
+Sphenodon_punctatus	TENM2	ENSSPUG00000007478	Others	NA
+Sphenodon_punctatus	CHEK2	ENSSPUG00000007480	Others	NA
+Sphenodon_punctatus	RRN3	ENSSPUG00000007510	Others	NA
+Sphenodon_punctatus	BANP	ENSSPUG00000007524	Others	NA
+Sphenodon_punctatus	PIR	ENSSPUG00000007557	Others	NA
+Sphenodon_punctatus	KDM5B	ENSSPUG00000007566	Lysine demethylase	NA
+Sphenodon_punctatus	SMARCA5	ENSSPUG00000007604	SWI/SNF	NA
+Sphenodon_punctatus	JMJD6	ENSSPUG00000007627	Others	NA
+Sphenodon_punctatus	TCF20	ENSSPUG00000007638	Others	NA
+Sphenodon_punctatus	HIPK2	ENSSPUG00000007641	HIPK	NA
+Sphenodon_punctatus		ENSSPUG00000007694	Mediator complex	NA
+Sphenodon_punctatus	CRK	ENSSPUG00000007698	Others	NA
+Sphenodon_punctatus	TAF8	ENSSPUG00000007721	TATA-box	NA
+Sphenodon_punctatus	TONSL	ENSSPUG00000007765	Others	NA
+Sphenodon_punctatus	LIN9	ENSSPUG00000007769	Others	NA
+Sphenodon_punctatus	HLTF	ENSSPUG00000007822	Others	NA
+Sphenodon_punctatus	CNOT6	ENSSPUG00000007893	CCR4-NOT	NA
+Sphenodon_punctatus	NRBF2	ENSSPUG00000007912	Nuclear receptor coactivator	NA
+Sphenodon_punctatus		ENSSPUG00000008004	Tripartite motif	NA
+Sphenodon_punctatus	CCNH	ENSSPUG00000008064	Cyclin	NA
+Sphenodon_punctatus	SETD7	ENSSPUG00000008084	SET	NA
+Sphenodon_punctatus	HSBP1	ENSSPUG00000008085	Heat shock protein	NA
+Sphenodon_punctatus	RWDD3	ENSSPUG00000008095	Others	NA
+Sphenodon_punctatus		ENSSPUG00000008126	Others	NA
+Sphenodon_punctatus	NAA15	ENSSPUG00000008128	Others	NA
+Sphenodon_punctatus	CCNK	ENSSPUG00000008142	Cyclin	NA
+Sphenodon_punctatus	SETD3	ENSSPUG00000008168	SET	NA
+Sphenodon_punctatus	ACTBL2	ENSSPUG00000008188	Actin	NA
+Sphenodon_punctatus	MED23	ENSSPUG00000008239	Mediator complex	NA
+Sphenodon_punctatus	DTX1	ENSSPUG00000008254	Others	NA
+Sphenodon_punctatus	RNF20	ENSSPUG00000008282	Ring finger protein	NA
+Sphenodon_punctatus	TDP2	ENSSPUG00000008288	Others	NA
+Sphenodon_punctatus	RNF168	ENSSPUG00000008321	Ring finger protein	NA
+Sphenodon_punctatus	GMNN	ENSSPUG00000008324	Others	NA
+Sphenodon_punctatus	HIF1AN	ENSSPUG00000008336	Others	NA
+Sphenodon_punctatus	ITCH	ENSSPUG00000008370	Others	NA
+Sphenodon_punctatus	STRN3	ENSSPUG00000008477	Others	NA
+Sphenodon_punctatus	WBP2	ENSSPUG00000008488	WW	NA
+Sphenodon_punctatus	TTF2	ENSSPUG00000008489	Others	NA
+Sphenodon_punctatus	CNOT3	ENSSPUG00000008510	CCR4-NOT	NA
+Sphenodon_punctatus	PSPC1	ENSSPUG00000008550	Others	NA
+Sphenodon_punctatus	TAF2	ENSSPUG00000008556	TATA-box	NA
+Sphenodon_punctatus	CDYL2	ENSSPUG00000008611	Chromodomain Y	NA
+Sphenodon_punctatus	DRAP1	ENSSPUG00000008663	Others	NA
+Sphenodon_punctatus	SS18L2	ENSSPUG00000008743	SS18	NA
+Sphenodon_punctatus	CECR2	ENSSPUG00000008749	Other_CRF	NA
+Sphenodon_punctatus	RIPK3	ENSSPUG00000008821	Others	NA
+Sphenodon_punctatus	ANP32B	ENSSPUG00000008838	ANP	NA
+Sphenodon_punctatus	SAP30BP	ENSSPUG00000008849	SAP	NA
+Sphenodon_punctatus	RECQL5	ENSSPUG00000008872	Others	NA
+Sphenodon_punctatus	MED16	ENSSPUG00000008928	Mediator complex	NA
+Sphenodon_punctatus	ACTR5	ENSSPUG00000009069	ACTR	NA
+Sphenodon_punctatus	SIN3B	ENSSPUG00000009147	Others	NA
+Sphenodon_punctatus	SRFBP1	ENSSPUG00000009204	Others	NA
+Sphenodon_punctatus	CHD7	ENSSPUG00000009235	CHD	NA
+Sphenodon_punctatus		ENSSPUG00000009265	Others	NA
+Sphenodon_punctatus	SNW1	ENSSPUG00000009320	Others	NA
+Sphenodon_punctatus	DUSP26	ENSSPUG00000009324	Others	NA
+Sphenodon_punctatus		ENSSPUG00000009372	Others	NA
+Sphenodon_punctatus	PRDX5	ENSSPUG00000009462	Others	NA
+Sphenodon_punctatus	VGLL2	ENSSPUG00000009465	Vestigial like	NA
+Sphenodon_punctatus	MED18	ENSSPUG00000009470	Mediator complex	NA
+Sphenodon_punctatus	SETD5	ENSSPUG00000009507	Lysine methyltransferase	NA
+Sphenodon_punctatus	GRHPR	ENSSPUG00000009518	Others	NA
+Sphenodon_punctatus	SDR16C5	ENSSPUG00000009546	Others	NA
+Sphenodon_punctatus	TAB3	ENSSPUG00000009630	Others	NA
+Sphenodon_punctatus	INSR	ENSSPUG00000009734	Others	NA
+Sphenodon_punctatus	LPIN2	ENSSPUG00000009736	LPIN	NA
+Sphenodon_punctatus		ENSSPUG00000009747	Others	NA
+Sphenodon_punctatus	IRF2BPL	ENSSPUG00000009748	Others	NA
+Sphenodon_punctatus	DEK	ENSSPUG00000009807	Other_CRF	NA
+Sphenodon_punctatus	EP400	ENSSPUG00000009823	Others	NA
+Sphenodon_punctatus	KDM1B	ENSSPUG00000009829	Lysine demethylase	NA
+Sphenodon_punctatus	ASF1A	ENSSPUG00000009891	Others	NA
+Sphenodon_punctatus	KDM8	ENSSPUG00000009940	Lysine demethylase	NA
+Sphenodon_punctatus	KDM4B	ENSSPUG00000009943	Lysine demethylase	NA
+Sphenodon_punctatus	SIRT5	ENSSPUG00000009952	Sirtuin	NA
+Sphenodon_punctatus	YAF2	ENSSPUG00000009968	Others	NA
+Sphenodon_punctatus	ICE2	ENSSPUG00000010015	GTF	NA
+Sphenodon_punctatus	KDM5A	ENSSPUG00000010061	Lysine demethylase	NA
+Sphenodon_punctatus	TSG101	ENSSPUG00000010069	Others	NA
+Sphenodon_punctatus	MNAT1	ENSSPUG00000010084	Others	NA
+Sphenodon_punctatus	GTF2H1	ENSSPUG00000010106	GTF	NA
+Sphenodon_punctatus	SGF29	ENSSPUG00000010121	Others	NA
+Sphenodon_punctatus	PSIP1	ENSSPUG00000010151	Others	NA
+Sphenodon_punctatus	VGLL3	ENSSPUG00000010155	Vestigial like	NA
+Sphenodon_punctatus	CCNA2	ENSSPUG00000010191	Cyclin	NA
+Sphenodon_punctatus	KAT6B	ENSSPUG00000010222	Lysine acetyltransferase	NA
+Sphenodon_punctatus	U2AF2	ENSSPUG00000010229	Others	NA
+Sphenodon_punctatus	MTDH	ENSSPUG00000010264	Others	NA
+Sphenodon_punctatus	ELL	ENSSPUG00000010266	GTF	NA
+Sphenodon_punctatus	SFSWAP	ENSSPUG00000010272	Others	NA
+Sphenodon_punctatus	DNMT1	ENSSPUG00000010294	DNA_methylase	NA
+Sphenodon_punctatus	TAF12	ENSSPUG00000010313	TATA-box	NA
+Sphenodon_punctatus	CLU	ENSSPUG00000010348	Others	NA
+Sphenodon_punctatus	SUPT16H	ENSSPUG00000010408	SUPT	NA
+Sphenodon_punctatus	TAF4B	ENSSPUG00000010416	TATA-box	NA
+Sphenodon_punctatus	ASCC1	ENSSPUG00000010417	ASCC	NA
+Sphenodon_punctatus	PLK1	ENSSPUG00000010418	Others	NA
+Sphenodon_punctatus	IKBKG	ENSSPUG00000010428	Others	NA
+Sphenodon_punctatus	BRD7	ENSSPUG00000010433	Bromodomain	NA
+Sphenodon_punctatus	SIAH2	ENSSPUG00000010435	Others	NA
+Sphenodon_punctatus	TAB1	ENSSPUG00000010450	Others	NA
+Sphenodon_punctatus	CHAF1B	ENSSPUG00000010476	Others	NA
+Sphenodon_punctatus	SS18	ENSSPUG00000010505	SS18	NA
+Sphenodon_punctatus	HIPK3	ENSSPUG00000010507	HIPK	NA
+Sphenodon_punctatus	C6orf89	ENSSPUG00000010515	Other_CRF	NA
+Sphenodon_punctatus	SIVA1	ENSSPUG00000010529	Others	NA
+Sphenodon_punctatus		ENSSPUG00000010560	Others	NA
+Sphenodon_punctatus	GTF2A1	ENSSPUG00000010575	GTF	NA
+Sphenodon_punctatus	SMYD2	ENSSPUG00000010580	SMYD	NA
+Sphenodon_punctatus	CBX7	ENSSPUG00000010589	Chromobox	NA
+Sphenodon_punctatus	CBX6	ENSSPUG00000010600	Chromobox	NA
+Sphenodon_punctatus	ZNF593	ENSSPUG00000010623	Zinc finger	NA
+Sphenodon_punctatus	PIM1	ENSSPUG00000010649	Others	NA
+Sphenodon_punctatus	DGKQ	ENSSPUG00000010653	Others	NA
+Sphenodon_punctatus	CBX5	ENSSPUG00000010696	Chromobox	NA
+Sphenodon_punctatus	TOB1	ENSSPUG00000010699	Others	NA
+Sphenodon_punctatus	POU2AF1	ENSSPUG00000010760	Others	NA
+Sphenodon_punctatus	CDK5R1	ENSSPUG00000010761	Cyclin	NA
+Sphenodon_punctatus	PCGF3	ENSSPUG00000010838	PCGF	NA
+Sphenodon_punctatus	INO80E	ENSSPUG00000010843	INO80 complex	NA
+Sphenodon_punctatus	SYK	ENSSPUG00000010876	Others	NA
+Sphenodon_punctatus	ERCC2	ENSSPUG00000010890	Others	NA
+Sphenodon_punctatus	BPTF	ENSSPUG00000010906	Bromodomain	NA
+Sphenodon_punctatus	SIRT6	ENSSPUG00000010923	Sirtuin	NA
+Sphenodon_punctatus	CCNA1	ENSSPUG00000010957	Cyclin	NA
+Sphenodon_punctatus	RFXAP	ENSSPUG00000010994	Others	NA
+Sphenodon_punctatus	DAPK3	ENSSPUG00000011029	Others	NA
+Sphenodon_punctatus	LPP	ENSSPUG00000011048	Thyroid hormone receptor	NA
+Sphenodon_punctatus		ENSSPUG00000011141	RNA helicase	NA
+Sphenodon_punctatus	CBL	ENSSPUG00000011147	Others	NA
+Sphenodon_punctatus	NOL11	ENSSPUG00000011152	Nuclear coactivator	NA
+Sphenodon_punctatus	TRIM8	ENSSPUG00000011167	Tripartite motif	NA
+Sphenodon_punctatus	SUFU	ENSSPUG00000011181	Others	NA
+Sphenodon_punctatus	CDCA4	ENSSPUG00000011199	Others	NA
+Sphenodon_punctatus	RNF6	ENSSPUG00000011224	Ring finger protein	NA
+Sphenodon_punctatus		ENSSPUG00000011237	Others	NA
+Sphenodon_punctatus	TRIM29	ENSSPUG00000011288	Tripartite motif	NA
+Sphenodon_punctatus	BIRC5	ENSSPUG00000011300	Others	NA
+Sphenodon_punctatus	HAT1	ENSSPUG00000011316	Others	NA
+Sphenodon_punctatus	LZTS2	ENSSPUG00000011340	Others	NA
+Sphenodon_punctatus	SAMD4B	ENSSPUG00000011365	Others	NA
+Sphenodon_punctatus	BCL9	ENSSPUG00000011367	BCL	NA
+Sphenodon_punctatus	RBX1	ENSSPUG00000011379	Others	NA
+Sphenodon_punctatus	EP300	ENSSPUG00000011389	Others	NA
+Sphenodon_punctatus		ENSSPUG00000011392	Mediator complex	NA
+Sphenodon_punctatus	HNRNPU	ENSSPUG00000011393	HNRNP	NA
+Sphenodon_punctatus	L3MBTL2	ENSSPUG00000011413	Others	NA
+Sphenodon_punctatus	STRAP	ENSSPUG00000011414	Others	NA
+Sphenodon_punctatus	SUPT5H	ENSSPUG00000011434	SUPT	NA
+Sphenodon_punctatus	COPS2	ENSSPUG00000011462	Others	NA
+Sphenodon_punctatus	DSCAM	ENSSPUG00000011507	Others	NA
+Sphenodon_punctatus	RYBP	ENSSPUG00000011547	Others	NA
+Sphenodon_punctatus	CTNNB1	ENSSPUG00000011556	Casein	NA
+Sphenodon_punctatus	BTRC	ENSSPUG00000011559	Others	NA
+Sphenodon_punctatus	AXIN2	ENSSPUG00000011566	Others	NA
+Sphenodon_punctatus	RAD21	ENSSPUG00000011584	Others	NA
+Sphenodon_punctatus	TFB2M	ENSSPUG00000011591	Others	NA
+Sphenodon_punctatus	PHF5A	ENSSPUG00000011593	PHF	NA
+Sphenodon_punctatus	TRAK1	ENSSPUG00000011610	Others	NA
+Sphenodon_punctatus	MED30	ENSSPUG00000011634	Mediator complex	NA
+Sphenodon_punctatus	HSPA8	ENSSPUG00000011726	Heat shock protein	NA
+Sphenodon_punctatus	NRIP1	ENSSPUG00000011729	Nuclear receptor coactivator	NA
+Sphenodon_punctatus	GRIP1	ENSSPUG00000011790	Others	NA
+Sphenodon_punctatus	EAF1	ENSSPUG00000011796	Others	NA
+Sphenodon_punctatus	RBFOX2	ENSSPUG00000011797	Others	NA
+Sphenodon_punctatus	CBX8	ENSSPUG00000011823	Chromobox	NA
+Sphenodon_punctatus	NOD1	ENSSPUG00000011830	Others	NA
+Sphenodon_punctatus	MLLT1	ENSSPUG00000011834	GTF	NA
+Sphenodon_punctatus	MED4	ENSSPUG00000011843	Mediator complex	NA
+Sphenodon_punctatus	PPID	ENSSPUG00000011867	Others	NA
+Sphenodon_punctatus	RB1	ENSSPUG00000011872	Other_Co-activator/repressors	NA
+Sphenodon_punctatus	NPM3	ENSSPUG00000011875	Nucleoplasmin	NA
+Sphenodon_punctatus	JADE1	ENSSPUG00000011905	Others	NA
+Sphenodon_punctatus	HMOX1	ENSSPUG00000011955	Others	NA
+Sphenodon_punctatus	CNOT8	ENSSPUG00000012035	CCR4-NOT	NA
+Sphenodon_punctatus	LDB1	ENSSPUG00000012060	LIM	NA
+Sphenodon_punctatus	PARK7	ENSSPUG00000012080	Others	NA
+Sphenodon_punctatus	XRCC6	ENSSPUG00000012086	Others	NA
+Sphenodon_punctatus	HTATIP2	ENSSPUG00000012161	Others	NA
+Sphenodon_punctatus	SUV39H2	ENSSPUG00000012168	Others	NA
+Sphenodon_punctatus	CNOT11	ENSSPUG00000012189	CCR4-NOT	NA
+Sphenodon_punctatus	SLC19A1	ENSSPUG00000012228	SLC	NA
+Sphenodon_punctatus	SAP30L	ENSSPUG00000012286	SAP	NA
+Sphenodon_punctatus	CSRP3	ENSSPUG00000012299	Others	NA
+Sphenodon_punctatus	BRMS1L	ENSSPUG00000012305	Other_CRF	NA
+Sphenodon_punctatus	RNF14	ENSSPUG00000012319	Ring finger protein	NA
+Sphenodon_punctatus	HINT1	ENSSPUG00000012327	Others	NA
+Sphenodon_punctatus	CCAR2	ENSSPUG00000012349	Others	NA
+Sphenodon_punctatus	FGF1	ENSSPUG00000012364	FGF	NA
+Sphenodon_punctatus	MMS19	ENSSPUG00000012382	Others	NA
+Sphenodon_punctatus	MAD2L2	ENSSPUG00000012386	Others	NA
+Sphenodon_punctatus	CCND1	ENSSPUG00000012410	Cyclin	NA
+Sphenodon_punctatus	PHF20	ENSSPUG00000012454	PHF	NA
+Sphenodon_punctatus	ATXN7L3	ENSSPUG00000012457	Others	NA
+Sphenodon_punctatus	FGF3	ENSSPUG00000012460	FGF	NA
+Sphenodon_punctatus	SQSTM1	ENSSPUG00000012466	Others	NA
+Sphenodon_punctatus	ENY2	ENSSPUG00000012488	Others	NA
+Sphenodon_punctatus	RALGAPA1	ENSSPUG00000012506	Others	NA
+Sphenodon_punctatus	MAML1	ENSSPUG00000012521	MAML	NA
+Sphenodon_punctatus		ENSSPUG00000012530	Others	NA
+Sphenodon_punctatus	EED	ENSSPUG00000012553	Others	NA
+Sphenodon_punctatus	CALR	ENSSPUG00000012580	Others	NA
+Sphenodon_punctatus	CTTN	ENSSPUG00000012593	Others	NA
+Sphenodon_punctatus	PICALM	ENSSPUG00000012595	Others	NA
+Sphenodon_punctatus	ESF1	ENSSPUG00000012635	Others	NA
+Sphenodon_punctatus	LOXL2	ENSSPUG00000012657	Others	NA
+Sphenodon_punctatus	PLRG1	ENSSPUG00000012661	Others	NA
+Sphenodon_punctatus	RLIM	ENSSPUG00000012671	Ring finger protein	NA
+Sphenodon_punctatus	HIPK1	ENSSPUG00000012692	HIPK	NA
+Sphenodon_punctatus	CBFA2T2	ENSSPUG00000012717	Others	NA
+Sphenodon_punctatus	ANKRD2	ENSSPUG00000012723	Ankyrin repeat	NA
+Sphenodon_punctatus		ENSSPUG00000012745	Lysine methyltransferase	NA
+Sphenodon_punctatus	RNF25	ENSSPUG00000012770	Ring finger protein	NA
+Sphenodon_punctatus		ENSSPUG00000012784	Others	NA
+Sphenodon_punctatus	TENM1	ENSSPUG00000012790	Others	NA
+Sphenodon_punctatus	PAK5	ENSSPUG00000012799	Others	NA
+Sphenodon_punctatus	DDX39B	ENSSPUG00000012805	RNA helicase	NA
+Sphenodon_punctatus	GTF2H3	ENSSPUG00000012852	GTF	NA
+Sphenodon_punctatus	XIAP	ENSSPUG00000012874	Others	NA
+Sphenodon_punctatus	SMARCD2	ENSSPUG00000012896	SWI/SNF	NA
+Sphenodon_punctatus	PELI1	ENSSPUG00000012897	Others	NA
+Sphenodon_punctatus	SF1	ENSSPUG00000012907	Others	NA
+Sphenodon_punctatus	TESC	ENSSPUG00000012943	Others	NA
+Sphenodon_punctatus	CIDEA	ENSSPUG00000012957	Others	NA
+Sphenodon_punctatus	KAT2A	ENSSPUG00000012964	Lysine acetyltransferase	NA
+Sphenodon_punctatus	SAP30	ENSSPUG00000012997	SAP	NA
+Sphenodon_punctatus		ENSSPUG00000013027	NFKB associated	NA
+Sphenodon_punctatus	EHMT2	ENSSPUG00000013030	Histone lysine methyltransferase	NA
+Sphenodon_punctatus	CNOT9	ENSSPUG00000013048	CCR4-NOT	NA
+Sphenodon_punctatus	COMMD1	ENSSPUG00000013049	Others	NA
+Sphenodon_punctatus	PEX2	ENSSPUG00000013070	Others	NA
+Sphenodon_punctatus		ENSSPUG00000013106	ANP	NA
+Sphenodon_punctatus	BAZ1A	ENSSPUG00000013228	Bromodomain	NA
+Sphenodon_punctatus		ENSSPUG00000013249	SWI/SNF	NA
+Sphenodon_punctatus	ABL1	ENSSPUG00000013377	Others	NA
+Sphenodon_punctatus	EYA4	ENSSPUG00000013390	EYA	NA
+Sphenodon_punctatus	DVL3	ENSSPUG00000013447	Others	NA
+Sphenodon_punctatus	JUP	ENSSPUG00000013455	Others	NA
+Sphenodon_punctatus	TRIP11	ENSSPUG00000013457	Thyroid hormone receptor	NA
+Sphenodon_punctatus	PADI2	ENSSPUG00000013494	Other_CRF	NA
+Sphenodon_punctatus	TBPL1	ENSSPUG00000013501	TATA-box	NA
+Sphenodon_punctatus	SGK1	ENSSPUG00000013529	Others	NA
+Sphenodon_punctatus	ATRX	ENSSPUG00000013536	Others	NA
+Sphenodon_punctatus	SNX6	ENSSPUG00000013552	Others	NA
+Sphenodon_punctatus	HDAC4	ENSSPUG00000013554	Histone deacetylase	NA
+Sphenodon_punctatus	PPARGC1A	ENSSPUG00000013556	Others	NA
+Sphenodon_punctatus		ENSSPUG00000013578	Others	NA
+Sphenodon_punctatus	RPTOR	ENSSPUG00000013588	Others	NA
+Sphenodon_punctatus	SNAPC5	ENSSPUG00000013599	Others	NA
+Sphenodon_punctatus		ENSSPUG00000013600	Others	NA
+Sphenodon_punctatus	UFL1	ENSSPUG00000013778	Others	NA
+Sphenodon_punctatus	FHL5	ENSSPUG00000013793	FHL	NA
+Sphenodon_punctatus		ENSSPUG00000013833	WW	NA
+Sphenodon_punctatus	LIN54	ENSSPUG00000013838	Others	NA
+Sphenodon_punctatus	ELP2	ENSSPUG00000013862	ELP	NA
+Sphenodon_punctatus	NAB2	ENSSPUG00000013892	Others	NA
+Sphenodon_punctatus	INO80C	ENSSPUG00000013944	INO80 complex	NA
+Sphenodon_punctatus	CTR9	ENSSPUG00000013964	Others	NA
+Sphenodon_punctatus	RPRD1A	ENSSPUG00000013981	Others	NA
+Sphenodon_punctatus	CHD1	ENSSPUG00000014019	CHD	NA
+Sphenodon_punctatus	RNF141	ENSSPUG00000014034	Ring finger protein	NA
+Sphenodon_punctatus		ENSSPUG00000014035	Others	NA
+Sphenodon_punctatus		ENSSPUG00000014080	Others	NA
+Sphenodon_punctatus	KAT6A	ENSSPUG00000014086	Lysine acetyltransferase	NA
+Sphenodon_punctatus	SSBP3	ENSSPUG00000014102	Others	NA
+Sphenodon_punctatus	TNIP2	ENSSPUG00000014113	Others	NA
+Sphenodon_punctatus	JMY	ENSSPUG00000014135	Others	NA
+Sphenodon_punctatus	DDX54	ENSSPUG00000014141	RNA helicase	NA
+Sphenodon_punctatus	SKIL	ENSSPUG00000014195	SKI	NA
+Sphenodon_punctatus	TGFB3	ENSSPUG00000014236	Others	NA
+Sphenodon_punctatus	KCNIP3	ENSSPUG00000014246	Others	NA
+Sphenodon_punctatus	CDK7	ENSSPUG00000014303	Cyclin	NA
+Sphenodon_punctatus	SET	ENSSPUG00000014327	SET	NA
+Sphenodon_punctatus	HDAC3	ENSSPUG00000014402	Histone deacetylase	NA
+Sphenodon_punctatus	SS18L1	ENSSPUG00000014410	SS18	NA
+Sphenodon_punctatus	RBBP5	ENSSPUG00000014435	RBBP	NA
+Sphenodon_punctatus	SIN3A	ENSSPUG00000014472	Other_CRF	NA
+Sphenodon_punctatus	CDC73	ENSSPUG00000014499	Others	NA
+Sphenodon_punctatus	SAP18	ENSSPUG00000014503	SAP	NA
+Sphenodon_punctatus	GTF2H4	ENSSPUG00000014607	GTF	NA
+Sphenodon_punctatus		ENSSPUG00000014628	Tripartite motif	NA
+Sphenodon_punctatus	ACTL6A	ENSSPUG00000014641	Actin	NA
+Sphenodon_punctatus	NEO1	ENSSPUG00000014647	Others	NA
+Sphenodon_punctatus		ENSSPUG00000014648	RNA binding protein	NA
+Sphenodon_punctatus	ZNF503	ENSSPUG00000014718	Zinc finger	NA
+Sphenodon_punctatus	NELFB	ENSSPUG00000014728	GTF	NA
+Sphenodon_punctatus		ENSSPUG00000014736	Others	NA
+Sphenodon_punctatus	ASH2L	ENSSPUG00000014780	Others	NA
+Sphenodon_punctatus	WDR61	ENSSPUG00000014807	WD	NA
+Sphenodon_punctatus	TBL1XR1	ENSSPUG00000014823	Transducin	NA
+Sphenodon_punctatus	MRGBP	ENSSPUG00000014844	Others	NA
+Sphenodon_punctatus	NAB1	ENSSPUG00000014849	Others	NA
+Sphenodon_punctatus	EZH2	ENSSPUG00000014869	Others	NA
+Sphenodon_punctatus	CDK2	ENSSPUG00000014900	Cyclin	NA
+Sphenodon_punctatus	SAP130	ENSSPUG00000014961	SAP	NA
+Sphenodon_punctatus	NUDT5	ENSSPUG00000014962	Other_CRF	NA
+Sphenodon_punctatus	ING4	ENSSPUG00000014965	ING	NA
+Sphenodon_punctatus	ARVCF	ENSSPUG00000015048	Casein	NA
+Sphenodon_punctatus		ENSSPUG00000015131	CHD	NA
+Sphenodon_punctatus	RBBP8	ENSSPUG00000015174	RBBP	NA
+Sphenodon_punctatus	CAVIN2	ENSSPUG00000015177	Others	NA
+Sphenodon_punctatus	ERCC3	ENSSPUG00000015183	Others	NA
+Sphenodon_punctatus	BTG1	ENSSPUG00000015226	Others	NA
+Sphenodon_punctatus	TARBP1	ENSSPUG00000015364	Others	NA
+Sphenodon_punctatus	NRIP3	ENSSPUG00000015371	Nuclear coactivator	NA
+Sphenodon_punctatus	MCRS1	ENSSPUG00000015423	Others	NA
+Sphenodon_punctatus	IKBKB	ENSSPUG00000015472	Others	NA
+Sphenodon_punctatus	YAP1	ENSSPUG00000015546	Others	NA
+Sphenodon_punctatus		ENSSPUG00000015558	Others	NA
+Sphenodon_punctatus	RNF10	ENSSPUG00000015562	Ring finger protein	NA
+Sphenodon_punctatus	RNF4	ENSSPUG00000015569	Ring finger protein	NA
+Sphenodon_punctatus	HIRA	ENSSPUG00000015576	Others	NA
+Sphenodon_punctatus	SRA1	ENSSPUG00000015651	Others	NA
+Sphenodon_punctatus		ENSSPUG00000015657	Mediator complex	NA
+Sphenodon_punctatus	MED21	ENSSPUG00000015658	Mediator complex	NA
+Sphenodon_punctatus	CAMK4	ENSSPUG00000015674	CAMK	NA
+Sphenodon_punctatus	TAF1B	ENSSPUG00000015685	TATA-box	NA
+Sphenodon_punctatus	SLC25A15	ENSSPUG00000015728	SLC	NA
+Sphenodon_punctatus		ENSSPUG00000015781	Others	NA
+Sphenodon_punctatus	LGALS8	ENSSPUG00000015796	Others	NA
+Sphenodon_punctatus	NSMCE4A	ENSSPUG00000015836	EID	NA
+Sphenodon_punctatus	ACTN2	ENSSPUG00000015851	Actin	NA
+Sphenodon_punctatus		ENSSPUG00000015853	MBD	NA
+Sphenodon_punctatus		ENSSPUG00000015864	Others	NA
+Sphenodon_punctatus	TCEA1	ENSSPUG00000015865	TEF	NA
+Sphenodon_punctatus	REXO4	ENSSPUG00000015868	Others	NA
+Sphenodon_punctatus	NELFA	ENSSPUG00000015899	GTF	NA
+Sphenodon_punctatus	CBX3	ENSSPUG00000015990	Chromobox	NA
+Sphenodon_punctatus	SETD6	ENSSPUG00000016014	SET	NA
+Sphenodon_punctatus	CTBP1	ENSSPUG00000016066	Others	NA
+Sphenodon_punctatus	CCNT1	ENSSPUG00000016139	Cyclin	NA
+Sphenodon_punctatus	PXN	ENSSPUG00000016181	Others	NA
+Sphenodon_punctatus	ITGB3BP	ENSSPUG00000016183	Others	NA
+Sphenodon_punctatus	TRIM37	ENSSPUG00000016219	Tripartite motif	NA
+Sphenodon_punctatus	PNRC2	ENSSPUG00000016233	Others	NA
+Sphenodon_punctatus	PCBD1	ENSSPUG00000016256	Others	NA
+Sphenodon_punctatus	PARP9	ENSSPUG00000016273	PARP	NA
+Sphenodon_punctatus		ENSSPUG00000016288	PARP	NA
+Sphenodon_punctatus	JAK2	ENSSPUG00000016313	Others	NA
+Sphenodon_punctatus	MALT1	ENSSPUG00000016318	Others	NA
+Sphenodon_punctatus	SKI	ENSSPUG00000016375	SKI	NA
+Sphenodon_punctatus	CTH	ENSSPUG00000016391	Others	NA
+Sphenodon_punctatus	GTF2F1	ENSSPUG00000016444	GTF	NA
+Sphenodon_punctatus		ENSSPUG00000016484	BCL	NA
+Sphenodon_punctatus	ERBIN	ENSSPUG00000016541	Erbb2	NA
+Sphenodon_punctatus	MED13	ENSSPUG00000016568	Mediator complex	NA
+Sphenodon_punctatus	SMARCD1	ENSSPUG00000016616	SWI/SNF	NA
+Sphenodon_punctatus		ENSSPUG00000016625	INO80 complex	NA
+Sphenodon_punctatus	BRIP1	ENSSPUG00000016653	Others	NA
+Sphenodon_punctatus	LMO1	ENSSPUG00000016705	LIM	NA
+Sphenodon_punctatus	BCAS3	ENSSPUG00000016715	Others	NA
+Sphenodon_punctatus	MED27	ENSSPUG00000016739	Mediator complex	NA
+Sphenodon_punctatus		ENSSPUG00000016742	Others	NA
+Sphenodon_punctatus	CREBBP	ENSSPUG00000016747	CREB	NA
+Sphenodon_punctatus	ERBB4	ENSSPUG00000016797	Erbb2	NA
+Sphenodon_punctatus		ENSSPUG00000016802	SUPT	NA
+Sphenodon_punctatus	HNRNPAB	ENSSPUG00000016806	HNRNP	NA
+Sphenodon_punctatus	CHD3	ENSSPUG00000016808	CHD	NA
+Sphenodon_punctatus	MED19	ENSSPUG00000016841	Mediator complex	NA
+Sphenodon_punctatus	CHD1L	ENSSPUG00000016865	CHD	NA
+Sphenodon_punctatus	AURKAIP1	ENSSPUG00000016876	Others	NA
+Sphenodon_punctatus	BCL3	ENSSPUG00000016924	BCL	NA
+Sphenodon_punctatus	PKP4	ENSSPUG00000016930	Casein	NA
+Sphenodon_punctatus	DNAJA3	ENSSPUG00000016933	Others	NA
+Sphenodon_punctatus	SUV39H1	ENSSPUG00000016950	Others	NA
+Sphenodon_punctatus	SSU72	ENSSPUG00000016958	Others	NA
+Sphenodon_punctatus	PINK1	ENSSPUG00000017024	Others	NA
+Sphenodon_punctatus	RUNX1T1	ENSSPUG00000017046	Others	NA
+Sphenodon_punctatus	CNOT7	ENSSPUG00000017128	CCR4-NOT	NA
+Sphenodon_punctatus		ENSSPUG00000017133	Others	NA
+Sphenodon_punctatus		ENSSPUG00000017185	CAMK	NA
+Sphenodon_punctatus	MED6	ENSSPUG00000017189	Mediator complex	NA
+Sphenodon_punctatus	GSK3B	ENSSPUG00000017220	Others	NA
+Sphenodon_punctatus	PRMT8	ENSSPUG00000017276	Arginine methyltransferase	NA
+Sphenodon_punctatus	DPY30	ENSSPUG00000017293	Others	NA
+Sphenodon_punctatus	NPAT	ENSSPUG00000017323	Nuclear coactivator	NA
+Sphenodon_punctatus		ENSSPUG00000017327	Transducin	NA
+Sphenodon_punctatus	PDLIM1	ENSSPUG00000017343	Others	NA
+Sphenodon_punctatus	EAF2	ENSSPUG00000017376	Others	NA
+Sphenodon_punctatus	TAF7	ENSSPUG00000017409	TATA-box	NA
+Sphenodon_punctatus	HELLS	ENSSPUG00000017425	Others	NA
+Sphenodon_punctatus		ENSSPUG00000017443	Chromodomain Y	NA
+Sphenodon_punctatus		ENSSPUG00000017449	Others	NA
+Sphenodon_punctatus		ENSSPUG00000017457	Others	NA
+Sphenodon_punctatus	RING1	ENSSPUG00000017458	Ring finger protein	NA
+Sphenodon_punctatus	BTK	ENSSPUG00000017463	Others	NA
+Sphenodon_punctatus	GTF2E1	ENSSPUG00000017495	GTF	NA
+Sphenodon_punctatus	SKAP1	ENSSPUG00000017498	Others	NA
+Sphenodon_punctatus	RBPMS	ENSSPUG00000017525	RNA binding protein	NA
+Sphenodon_punctatus	WAC	ENSSPUG00000017580	WW	NA
+Sphenodon_punctatus	WDR5B	ENSSPUG00000017582	WD	NA
+Sphenodon_punctatus	CDK5RAP3	ENSSPUG00000017587	Cyclin	NA
+Sphenodon_punctatus	AURKB	ENSSPUG00000017601	Others	NA
+Sphenodon_punctatus	TRIB1	ENSSPUG00000017614	Others	NA
+Sphenodon_punctatus	SFRP4	ENSSPUG00000017683	Others	NA
+Sphenodon_punctatus	EYA1	ENSSPUG00000017796	EYA	NA
+Sphenodon_punctatus	TXLNG	ENSSPUG00000017809	Others	NA
+Sphenodon_punctatus	PFDN5	ENSSPUG00000017819	Others	NA
+Sphenodon_punctatus	RBBP7	ENSSPUG00000017820	RBBP	NA
+Sphenodon_punctatus	WWP1	ENSSPUG00000017925	WW	NA
+Sphenodon_punctatus	WDTC1	ENSSPUG00000017937	WD	NA
+Sphenodon_punctatus	MLLT6	ENSSPUG00000017943	Others	NA
+Sphenodon_punctatus	RAB43	ENSSPUG00000017960	Others	NA
+Sphenodon_punctatus	PCGF2	ENSSPUG00000017985	PCGF	NA
+Sphenodon_punctatus	HDAC11	ENSSPUG00000018048	Histone deacetylase	NA
+Sphenodon_punctatus		ENSSPUG00000018066	Others	NA
+Sphenodon_punctatus	RAF1	ENSSPUG00000018074	Others	NA
+Sphenodon_punctatus	BRF2	ENSSPUG00000018125	GTF	NA
+Sphenodon_punctatus	CHEK1	ENSSPUG00000018163	Others	NA
+Sphenodon_punctatus	ELOC	ENSSPUG00000018196	Others	NA
+Sphenodon_punctatus	CDK9	ENSSPUG00000018209	Cyclin	NA
+Sphenodon_punctatus	TCEA2	ENSSPUG00000018251	TEF	NA
+Sphenodon_punctatus	PRPF6	ENSSPUG00000018260	Others	NA
+Sphenodon_punctatus	NUP98	ENSSPUG00000018268	Others	NA
+Sphenodon_punctatus	MYO6	ENSSPUG00000018313	Others	NA
+Sphenodon_punctatus	DACT1	ENSSPUG00000018322	Others	NA
+Sphenodon_punctatus	NFKBIZ	ENSSPUG00000018407	NFKB associated	NA
+Sphenodon_punctatus	DCAF6	ENSSPUG00000018479	Others	NA
+Sphenodon_punctatus	CREG1	ENSSPUG00000018514	Others	NA
+Sphenodon_punctatus	THOC5	ENSSPUG00000018553	Others	NA
+Sphenodon_punctatus	TAF5L	ENSSPUG00000018554	TATA-box	NA
+Sphenodon_punctatus	CDKN1B	ENSSPUG00000018579	Cyclin	NA
+Sphenodon_punctatus	TADA1	ENSSPUG00000018622	Transcriptional adaptor	NA
+Sphenodon_punctatus		ENSSPUG00000018628	Casein	NA
+Sphenodon_punctatus	ARRB1	ENSSPUG00000018675	Others	NA
+Sphenodon_punctatus	ACTR8	ENSSPUG00000018724	ACTR	NA
+Sphenodon_punctatus		ENSSPUG00000018728	HNRNP	NA
+Sphenodon_punctatus	TRIB3	ENSSPUG00000018755	Others	NA
+Sphenodon_punctatus	DDX1	ENSSPUG00000018835	RNA helicase	NA
+Sphenodon_punctatus	HCK	ENSSPUG00000018878	Others	NA
+Sphenodon_punctatus	DNMT3B	ENSSPUG00000018931	DNA_methylase	NA
+Sphenodon_punctatus	LRRK2	ENSSPUG00000018947	Other_CRF	NA
+Sphenodon_punctatus	ASCC2	ENSSPUG00000018956	ASCC	NA
+Sphenodon_punctatus	NOC2L	ENSSPUG00000018958	Others	NA
+Sphenodon_punctatus		ENSSPUG00000018982	Others	NA
+Sphenodon_punctatus	RPRD1B	ENSSPUG00000018992	Others	NA
+Sphenodon_punctatus	ENO1	ENSSPUG00000019001	Others	NA
+Sphenodon_punctatus	CTNNBIP1	ENSSPUG00000019064	Casein	NA
+Sphenodon_punctatus	TRAF6	ENSSPUG00000019081	Others	NA
+Sphenodon_punctatus	SLC26A3	ENSSPUG00000019107	SLC	NA
+Sphenodon_punctatus	CXXC5	ENSSPUG00000019209	Others	NA
+Sphenodon_punctatus	TRADD	ENSSPUG00000019223	Others	NA
+Sphenodon_punctatus	MED10	ENSSPUG00000019231	Mediator complex	NA
+Sphenodon_punctatus	PPARGC1B	ENSSPUG00000019271	Others	NA
+Sphenodon_punctatus		ENSSPUG00000019297	Lysine demethylase	NA
+Sphenodon_punctatus		ENSSPUG00000019311	PARP	NA

@@ -1,0 +1,917 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Mustela_putorius_furo	MED9	ENSMPUG00000000020	Mediator complex	NA
+Mustela_putorius_furo	RASD1	ENSMPUG00000000021	Others	NA
+Mustela_putorius_furo	RAI1	ENSMPUG00000000023	Others	NA
+Mustela_putorius_furo	FLII	ENSMPUG00000000034	Others	101692711
+Mustela_putorius_furo	FAM83G	ENSMPUG00000000042	FAM	NA
+Mustela_putorius_furo	TAF9B	ENSMPUG00000000084	TATA-box	NA
+Mustela_putorius_furo	ATRX	ENSMPUG00000000087	Others	NA
+Mustela_putorius_furo	PER2	ENSMPUG00000000124	Others	NA
+Mustela_putorius_furo	HDAC4	ENSMPUG00000000127	Histone deacetylase	NA
+Mustela_putorius_furo	TLE1	ENSMPUG00000000148	Transducin	NA
+Mustela_putorius_furo		ENSMPUG00000000164	HNRNP	NA
+Mustela_putorius_furo	SUPT16H	ENSMPUG00000000173	SUPT	NA
+Mustela_putorius_furo	CHD8	ENSMPUG00000000174	CHD	101688581
+Mustela_putorius_furo	NIF3L1	ENSMPUG00000000206	Others	NA
+Mustela_putorius_furo	ORC2	ENSMPUG00000000208	Others	NA
+Mustela_putorius_furo		ENSMPUG00000000218	ANP	101672540
+Mustela_putorius_furo	LRRK2	ENSMPUG00000000236	Other_CRF	101684592
+Mustela_putorius_furo	TRAK2	ENSMPUG00000000245	Others	NA
+Mustela_putorius_furo	MED19	ENSMPUG00000000276	Mediator complex	NA
+Mustela_putorius_furo	SKOR1	ENSMPUG00000000283	SKI	NA
+Mustela_putorius_furo	CTNND1	ENSMPUG00000000296	Casein	NA
+Mustela_putorius_furo	LPXN	ENSMPUG00000000297	Others	NA
+Mustela_putorius_furo	YAF2	ENSMPUG00000000324	Others	NA
+Mustela_putorius_furo		ENSMPUG00000000335	Others	NA
+Mustela_putorius_furo	PPHLN1	ENSMPUG00000000340	Others	NA
+Mustela_putorius_furo	DTX4	ENSMPUG00000000341	Others	NA
+Mustela_putorius_furo	NMI	ENSMPUG00000000344	Others	NA
+Mustela_putorius_furo	SNAPC5	ENSMPUG00000000356	Others	NA
+Mustela_putorius_furo	HDAC7	ENSMPUG00000000416	Histone deacetylase	NA
+Mustela_putorius_furo	SENP1	ENSMPUG00000000436	Others	NA
+Mustela_putorius_furo	INO80D	ENSMPUG00000000439	INO80 complex	NA
+Mustela_putorius_furo	PKP4	ENSMPUG00000000474	Casein	NA
+Mustela_putorius_furo		ENSMPUG00000000521	Chromodomain Y	NA
+Mustela_putorius_furo	DCAF6	ENSMPUG00000000538	Others	NA
+Mustela_putorius_furo	TRIP4	ENSMPUG00000000568	Thyroid hormone receptor	NA
+Mustela_putorius_furo	CNOT6	ENSMPUG00000000587	CCR4-NOT	NA
+Mustela_putorius_furo	CHD1L	ENSMPUG00000000615	CHD	NA
+Mustela_putorius_furo	BCL9	ENSMPUG00000000620	BCL	NA
+Mustela_putorius_furo	MAK	ENSMPUG00000000627	Others	NA
+Mustela_putorius_furo	SQSTM1	ENSMPUG00000000653	Others	NA
+Mustela_putorius_furo	POLR3C	ENSMPUG00000000656	POLR	101682791
+Mustela_putorius_furo	MAML1	ENSMPUG00000000684	MAML	NA
+Mustela_putorius_furo	SIRT5	ENSMPUG00000000689	Sirtuin	NA
+Mustela_putorius_furo	ICE2	ENSMPUG00000000759	GTF	NA
+Mustela_putorius_furo	TXNIP	ENSMPUG00000000813	Others	NA
+Mustela_putorius_furo	HAT1	ENSMPUG00000000835	Others	NA
+Mustela_putorius_furo	MAGED1	ENSMPUG00000000874	MAGE	NA
+Mustela_putorius_furo	DEPDC1	ENSMPUG00000000887	Others	NA
+Mustela_putorius_furo	CTH	ENSMPUG00000000898	Others	NA
+Mustela_putorius_furo	CLU	ENSMPUG00000000903	Others	NA
+Mustela_putorius_furo	SUV39H2	ENSMPUG00000000920	Others	NA
+Mustela_putorius_furo	CDK2	ENSMPUG00000000944	Cyclin	NA
+Mustela_putorius_furo	WNT3A	ENSMPUG00000000960	Others	101683083
+Mustela_putorius_furo	ELP3	ENSMPUG00000000966	ELP	NA
+Mustela_putorius_furo	RAD21	ENSMPUG00000000988	Others	101690137
+Mustela_putorius_furo	MED30	ENSMPUG00000000992	Mediator complex	NA
+Mustela_putorius_furo	TAF2	ENSMPUG00000001041	TATA-box	NA
+Mustela_putorius_furo	NUDT5	ENSMPUG00000001054	Other_CRF	NA
+Mustela_putorius_furo	ARHGAP5	ENSMPUG00000001057	Others	NA
+Mustela_putorius_furo	TRIM11	ENSMPUG00000001081	Tripartite motif	NA
+Mustela_putorius_furo	ELP2	ENSMPUG00000001125	ELP	NA
+Mustela_putorius_furo	RPRD1A	ENSMPUG00000001133	Others	NA
+Mustela_putorius_furo	INO80C	ENSMPUG00000001144	INO80 complex	NA
+Mustela_putorius_furo	ATAD2	ENSMPUG00000001145	Others	NA
+Mustela_putorius_furo	XRN2	ENSMPUG00000001198	Others	NA
+Mustela_putorius_furo	CDK8	ENSMPUG00000001222	Cyclin	NA
+Mustela_putorius_furo	RNF6	ENSMPUG00000001225	Ring finger protein	NA
+Mustela_putorius_furo		ENSMPUG00000001240	Others	NA
+Mustela_putorius_furo	TRIM27	ENSMPUG00000001248	Tripartite motif	NA
+Mustela_putorius_furo	POLR3F	ENSMPUG00000001252	POLR	NA
+Mustela_putorius_furo	KDM4C	ENSMPUG00000001258	Lysine demethylase	NA
+Mustela_putorius_furo	TRIB1	ENSMPUG00000001325	Others	NA
+Mustela_putorius_furo	PRMT2	ENSMPUG00000001331	Arginine methyltransferase	NA
+Mustela_putorius_furo		ENSMPUG00000001346	Others	NA
+Mustela_putorius_furo	XIAP	ENSMPUG00000001354	Others	101671154
+Mustela_putorius_furo	NOTCH2	ENSMPUG00000001399	Notch	101678036
+Mustela_putorius_furo	RB1	ENSMPUG00000001423	Other_Co-activator/repressors	NA
+Mustela_putorius_furo		ENSMPUG00000001437	Mediator complex	NA
+Mustela_putorius_furo		ENSMPUG00000001445	Others	NA
+Mustela_putorius_furo	ESF1	ENSMPUG00000001450	Others	NA
+Mustela_putorius_furo	UFL1	ENSMPUG00000001467	Others	NA
+Mustela_putorius_furo	FHL5	ENSMPUG00000001473	FHL	NA
+Mustela_putorius_furo	GTF2H3	ENSMPUG00000001492	GTF	101685498
+Mustela_putorius_furo	PRAME	ENSMPUG00000001542	Others	NA
+Mustela_putorius_furo	NACA	ENSMPUG00000001597	Others	NA
+Mustela_putorius_furo		ENSMPUG00000001606	Others	101686821
+Mustela_putorius_furo	KMT5A	ENSMPUG00000001631	Lysine methyltransferase	NA
+Mustela_putorius_furo	CCNC	ENSMPUG00000001641	Cyclin	NA
+Mustela_putorius_furo	ASCC3	ENSMPUG00000001675	ASCC	NA
+Mustela_putorius_furo	EAF1	ENSMPUG00000001699	Others	101681784
+Mustela_putorius_furo	NAB2	ENSMPUG00000001738	Others	NA
+Mustela_putorius_furo	SUPT20H	ENSMPUG00000001828	SUPT	NA
+Mustela_putorius_furo	RFXAP	ENSMPUG00000001841	Others	NA
+Mustela_putorius_furo	CCNA1	ENSMPUG00000001844	Cyclin	NA
+Mustela_putorius_furo	RBMX	ENSMPUG00000001855	RNA binding protein	NA
+Mustela_putorius_furo	RGCC	ENSMPUG00000001865	Others	101687722
+Mustela_putorius_furo		ENSMPUG00000001896	Vestigial like	101681785
+Mustela_putorius_furo	HTATSF1	ENSMPUG00000001901	Others	101682669
+Mustela_putorius_furo	SAP30	ENSMPUG00000001916	SAP	NA
+Mustela_putorius_furo	N4BP2L2	ENSMPUG00000001920	Others	NA
+Mustela_putorius_furo	AGO2	ENSMPUG00000001930	Others	NA
+Mustela_putorius_furo	BRCA2	ENSMPUG00000001945	Others	NA
+Mustela_putorius_furo	BRD2	ENSMPUG00000001955	Bromodomain	NA
+Mustela_putorius_furo		ENSMPUG00000002059	HNRNP	NA
+Mustela_putorius_furo	PDCD4	ENSMPUG00000002065	Others	NA
+Mustela_putorius_furo	KDM2B	ENSMPUG00000002104	Lysine demethylase	NA
+Mustela_putorius_furo	SMARCAD1	ENSMPUG00000002111	SWI/SNF	NA
+Mustela_putorius_furo	SIVA1	ENSMPUG00000002160	Others	NA
+Mustela_putorius_furo	BTK	ENSMPUG00000002171	Others	101685094
+Mustela_putorius_furo	RAP2C	ENSMPUG00000002176	Others	101687142
+Mustela_putorius_furo	TAF7L	ENSMPUG00000002181	TATA-box	NA
+Mustela_putorius_furo	SFSWAP	ENSMPUG00000002218	Others	NA
+Mustela_putorius_furo	LDB2	ENSMPUG00000002253	LIM	NA
+Mustela_putorius_furo	MED28	ENSMPUG00000002271	Mediator complex	NA
+Mustela_putorius_furo	RING1	ENSMPUG00000002279	Ring finger protein	NA
+Mustela_putorius_furo	EP400	ENSMPUG00000002315	Others	NA
+Mustela_putorius_furo	HDAC10	ENSMPUG00000002331	Histone deacetylase	NA
+Mustela_putorius_furo	CHD7	ENSMPUG00000002338	CHD	NA
+Mustela_putorius_furo	MED25	ENSMPUG00000002366	Mediator complex	101689085
+Mustela_putorius_furo	YEATS2	ENSMPUG00000002394	Others	NA
+Mustela_putorius_furo	PRMT1	ENSMPUG00000002401	Arginine methyltransferase	NA
+Mustela_putorius_furo	DAXX	ENSMPUG00000002405	Other_CRF	101684105
+Mustela_putorius_furo	PHF1	ENSMPUG00000002414	PHF	NA
+Mustela_putorius_furo	HLTF	ENSMPUG00000002436	Others	NA
+Mustela_putorius_furo	DVL3	ENSMPUG00000002442	Others	NA
+Mustela_putorius_furo	BRD1	ENSMPUG00000002491	Bromodomain	101678760
+Mustela_putorius_furo	WWTR1	ENSMPUG00000002520	WW	NA
+Mustela_putorius_furo	MSL3	ENSMPUG00000002545	Others	NA
+Mustela_putorius_furo	CCNT2	ENSMPUG00000002548	Cyclin	101681042
+Mustela_putorius_furo	TAB3	ENSMPUG00000002567	Others	NA
+Mustela_putorius_furo	DDX54	ENSMPUG00000002574	RNA helicase	NA
+Mustela_putorius_furo	RITA1	ENSMPUG00000002581	Others	NA
+Mustela_putorius_furo	SIAH2	ENSMPUG00000002618	Others	NA
+Mustela_putorius_furo	MED12L	ENSMPUG00000002648	Mediator complex	NA
+Mustela_putorius_furo	EDRF1	ENSMPUG00000002649	Others	NA
+Mustela_putorius_furo	PIH1D1	ENSMPUG00000002657	Other_CRF	101673041
+Mustela_putorius_furo	ZNF451	ENSMPUG00000002686	Zinc finger	NA
+Mustela_putorius_furo	BEND6	ENSMPUG00000002696	Others	NA
+Mustela_putorius_furo	DHX36	ENSMPUG00000002723	RNA helicase	NA
+Mustela_putorius_furo	MED13L	ENSMPUG00000002724	Mediator complex	NA
+Mustela_putorius_furo	TAF13	ENSMPUG00000002784	TATA-box	NA
+Mustela_putorius_furo	TESC	ENSMPUG00000002796	Others	NA
+Mustela_putorius_furo	TARBP1	ENSMPUG00000002802	Others	NA
+Mustela_putorius_furo	TXLNG	ENSMPUG00000002808	Others	101678386
+Mustela_putorius_furo	RBBP7	ENSMPUG00000002818	RBBP	NA
+Mustela_putorius_furo	SUDS3	ENSMPUG00000002878	Other_Co-activator/repressors	NA
+Mustela_putorius_furo	NSMCE4A	ENSMPUG00000002960	EID	NA
+Mustela_putorius_furo	DNAJB1	ENSMPUG00000002977	Others	NA
+Mustela_putorius_furo	FGFR2	ENSMPUG00000002989	FGF	101683248
+Mustela_putorius_furo	BRMS1	ENSMPUG00000002990	Other_CRF	NA
+Mustela_putorius_furo	SMARCB1	ENSMPUG00000003010	SWI/SNF	NA
+Mustela_putorius_furo		ENSMPUG00000003019	Cyclin	NA
+Mustela_putorius_furo	SETD3	ENSMPUG00000003024	SET	101688373
+Mustela_putorius_furo	CENPF	ENSMPUG00000003030	CENP	NA
+Mustela_putorius_furo	ASF1B	ENSMPUG00000003072	Others	NA
+Mustela_putorius_furo	BRD7	ENSMPUG00000003164	Bromodomain	101685461
+Mustela_putorius_furo	NOD2	ENSMPUG00000003188	Others	101687569
+Mustela_putorius_furo	RNF10	ENSMPUG00000003216	Ring finger protein	NA
+Mustela_putorius_furo	TAF11	ENSMPUG00000003241	TATA-box	NA
+Mustela_putorius_furo	MYCBP2	ENSMPUG00000003254	MYC	NA
+Mustela_putorius_furo	RUVBL2	ENSMPUG00000003274	Other_CRF	NA
+Mustela_putorius_furo	CHD9	ENSMPUG00000003285	CHD	NA
+Mustela_putorius_furo	RWDD3	ENSMPUG00000003307	Others	NA
+Mustela_putorius_furo	RBL2	ENSMPUG00000003315	Other_Co-activator/repressors	NA
+Mustela_putorius_furo	KAT6B	ENSMPUG00000003327	Lysine acetyltransferase	NA
+Mustela_putorius_furo	TRIM16	ENSMPUG00000003333	Tripartite motif	NA
+Mustela_putorius_furo	POU2AF1	ENSMPUG00000003385	Others	NA
+Mustela_putorius_furo	RBM14	ENSMPUG00000003440	RNA binding protein	NA
+Mustela_putorius_furo	LOXL2	ENSMPUG00000003449	Others	NA
+Mustela_putorius_furo	CCAR2	ENSMPUG00000003486	Others	NA
+Mustela_putorius_furo	KDM7A	ENSMPUG00000003567	Lysine demethylase	NA
+Mustela_putorius_furo	EPC2	ENSMPUG00000003574	Others	NA
+Mustela_putorius_furo	MED6	ENSMPUG00000003601	Mediator complex	NA
+Mustela_putorius_furo	MYOCD	ENSMPUG00000003656	Others	NA
+Mustela_putorius_furo	DPF3	ENSMPUG00000003677	DPF	NA
+Mustela_putorius_furo	KDM2A	ENSMPUG00000003692	Lysine demethylase	NA
+Mustela_putorius_furo	PSEN1	ENSMPUG00000003705	Others	NA
+Mustela_putorius_furo	MED15	ENSMPUG00000003709	Mediator complex	NA
+Mustela_putorius_furo	RIPPLY1	ENSMPUG00000003728	Others	NA
+Mustela_putorius_furo	HIPK2	ENSMPUG00000003745	HIPK	NA
+Mustela_putorius_furo	CHD1	ENSMPUG00000003750	CHD	NA
+Mustela_putorius_furo	RBM15	ENSMPUG00000003822	RNA binding protein	NA
+Mustela_putorius_furo	ECD	ENSMPUG00000003845	Others	101674010
+Mustela_putorius_furo	HIRA	ENSMPUG00000003849	Others	NA
+Mustela_putorius_furo	CNOT6L	ENSMPUG00000003895	CCR4-NOT	NA
+Mustela_putorius_furo	RNF168	ENSMPUG00000003897	Ring finger protein	NA
+Mustela_putorius_furo	TRIM24	ENSMPUG00000003933	Tripartite motif	101687559
+Mustela_putorius_furo	TAF1A	ENSMPUG00000003936	TATA-box	NA
+Mustela_putorius_furo	AIP	ENSMPUG00000003950	Others	NA
+Mustela_putorius_furo	HR	ENSMPUG00000003967	Lysine methyltransferase	NA
+Mustela_putorius_furo	HDGF	ENSMPUG00000003989	Others	NA
+Mustela_putorius_furo	DNTTIP2	ENSMPUG00000004000	Others	NA
+Mustela_putorius_furo	NPM2	ENSMPUG00000004012	Nucleoplasmin	NA
+Mustela_putorius_furo	DR1	ENSMPUG00000004025	Others	NA
+Mustela_putorius_furo	MTPN	ENSMPUG00000004042	Others	NA
+Mustela_putorius_furo		ENSMPUG00000004044	Others	NA
+Mustela_putorius_furo	PSIP1	ENSMPUG00000004058	Others	NA
+Mustela_putorius_furo	MTF2	ENSMPUG00000004081	Others	NA
+Mustela_putorius_furo	ASCC1	ENSMPUG00000004088	ASCC	NA
+Mustela_putorius_furo	PCBD1	ENSMPUG00000004192	Others	NA
+Mustela_putorius_furo	LRIF1	ENSMPUG00000004198	Others	NA
+Mustela_putorius_furo	RNF111	ENSMPUG00000004214	Ring finger protein	NA
+Mustela_putorius_furo	RPAP2	ENSMPUG00000004227	Others	101685879
+Mustela_putorius_furo	SLTM	ENSMPUG00000004229	Others	NA
+Mustela_putorius_furo	PID1	ENSMPUG00000004252	Others	NA
+Mustela_putorius_furo	LZTS1	ENSMPUG00000004268	Others	NA
+Mustela_putorius_furo	ARL2BP	ENSMPUG00000004306	Others	NA
+Mustela_putorius_furo	BRDT	ENSMPUG00000004311	Bromodomain	NA
+Mustela_putorius_furo	KMT5B	ENSMPUG00000004326	Lysine methyltransferase	NA
+Mustela_putorius_furo	CALR	ENSMPUG00000004348	Others	NA
+Mustela_putorius_furo	MACROH2A2	ENSMPUG00000004359	Others	NA
+Mustela_putorius_furo	ELL2	ENSMPUG00000004364	GTF	NA
+Mustela_putorius_furo	PHF2	ENSMPUG00000004416	PHF	NA
+Mustela_putorius_furo	CHCHD3	ENSMPUG00000004424	Coiled-coil	NA
+Mustela_putorius_furo	DAPK3	ENSMPUG00000004467	Others	NA
+Mustela_putorius_furo	CD3D	ENSMPUG00000004477	Others	NA
+Mustela_putorius_furo	LBH	ENSMPUG00000004503	Others	NA
+Mustela_putorius_furo	GMNN	ENSMPUG00000004510	Others	NA
+Mustela_putorius_furo	CIDEA	ENSMPUG00000004512	Others	NA
+Mustela_putorius_furo	TDP2	ENSMPUG00000004516	Others	NA
+Mustela_putorius_furo	CCND1	ENSMPUG00000004567	Cyclin	NA
+Mustela_putorius_furo	LIN9	ENSMPUG00000004573	Others	NA
+Mustela_putorius_furo	CCAR1	ENSMPUG00000004618	Others	NA
+Mustela_putorius_furo	PARP14	ENSMPUG00000004629	PARP	101681767
+Mustela_putorius_furo		ENSMPUG00000004640	Lysine methyltransferase	NA
+Mustela_putorius_furo	CDC73	ENSMPUG00000004645	Others	NA
+Mustela_putorius_furo	MED12	ENSMPUG00000004666	Mediator complex	101679261
+Mustela_putorius_furo		ENSMPUG00000004672	Others	NA
+Mustela_putorius_furo	CSNK2A2	ENSMPUG00000004713	Casein	NA
+Mustela_putorius_furo	PARP15	ENSMPUG00000004730	PARP	NA
+Mustela_putorius_furo	SIRT6	ENSMPUG00000004740	Sirtuin	101680338
+Mustela_putorius_furo	PARP9	ENSMPUG00000004750	PARP	NA
+Mustela_putorius_furo	WDR77	ENSMPUG00000004756	WD	NA
+Mustela_putorius_furo	GTF2B	ENSMPUG00000004799	GTF	NA
+Mustela_putorius_furo	SETD6	ENSMPUG00000004820	SET	NA
+Mustela_putorius_furo	CNOT1	ENSMPUG00000004830	CCR4-NOT	101674560
+Mustela_putorius_furo	EAF2	ENSMPUG00000004844	Others	NA
+Mustela_putorius_furo	BCL9L	ENSMPUG00000004872	BCL	NA
+Mustela_putorius_furo	HCLS1	ENSMPUG00000004886	Others	NA
+Mustela_putorius_furo	DDX20	ENSMPUG00000004921	RNA helicase	NA
+Mustela_putorius_furo	NONO	ENSMPUG00000004937	Others	NA
+Mustela_putorius_furo	JAK2	ENSMPUG00000004974	Others	NA
+Mustela_putorius_furo	JMY	ENSMPUG00000005003	Others	NA
+Mustela_putorius_furo	DEK	ENSMPUG00000005031	Other_CRF	NA
+Mustela_putorius_furo		ENSMPUG00000005076	TATA-box	NA
+Mustela_putorius_furo	OGT	ENSMPUG00000005097	Others	NA
+Mustela_putorius_furo	LPIN2	ENSMPUG00000005110	LPIN	NA
+Mustela_putorius_furo	SAV1	ENSMPUG00000005119	Others	NA
+Mustela_putorius_furo	ARHGAP35	ENSMPUG00000005138	Others	NA
+Mustela_putorius_furo	SMARCA2	ENSMPUG00000005171	SWI/SNF	NA
+Mustela_putorius_furo	EZR	ENSMPUG00000005183	Others	NA
+Mustela_putorius_furo	DPY30	ENSMPUG00000005211	Others	NA
+Mustela_putorius_furo	KANK1	ENSMPUG00000005216	Others	NA
+Mustela_putorius_furo	KDM4B	ENSMPUG00000005282	Lysine demethylase	NA
+Mustela_putorius_furo	GTF2H5	ENSMPUG00000005299	GTF	NA
+Mustela_putorius_furo	CITED1	ENSMPUG00000005336	CITED	NA
+Mustela_putorius_furo	STRN3	ENSMPUG00000005340	Others	NA
+Mustela_putorius_furo	ANP32E	ENSMPUG00000005343	ANP	NA
+Mustela_putorius_furo		ENSMPUG00000005345	Histone deacetylase	NA
+Mustela_putorius_furo	HIPK1	ENSMPUG00000005355	HIPK	NA
+Mustela_putorius_furo	TRADD	ENSMPUG00000005387	Others	NA
+Mustela_putorius_furo	TRIM33	ENSMPUG00000005413	Tripartite motif	NA
+Mustela_putorius_furo	CBL	ENSMPUG00000005426	Others	NA
+Mustela_putorius_furo	BCL10	ENSMPUG00000005447	BCL	NA
+Mustela_putorius_furo	ASH1L	ENSMPUG00000005465	Others	NA
+Mustela_putorius_furo	ILK	ENSMPUG00000005495	Others	NA
+Mustela_putorius_furo	SPAG8	ENSMPUG00000005541	Others	NA
+Mustela_putorius_furo	TRIM29	ENSMPUG00000005576	Tripartite motif	NA
+Mustela_putorius_furo	PLRG1	ENSMPUG00000005590	Others	NA
+Mustela_putorius_furo	PHF21A	ENSMPUG00000005646	PHF	NA
+Mustela_putorius_furo	RBBP8	ENSMPUG00000005667	RBBP	NA
+Mustela_putorius_furo	SMARCA4	ENSMPUG00000005711	SWI/SNF	NA
+Mustela_putorius_furo	APBB1	ENSMPUG00000005723	Others	NA
+Mustela_putorius_furo	CARM1	ENSMPUG00000005752	Others	NA
+Mustela_putorius_furo	KAT6A	ENSMPUG00000005773	Lysine acetyltransferase	NA
+Mustela_putorius_furo	TBPL2	ENSMPUG00000005807	TATA-box	NA
+Mustela_putorius_furo		ENSMPUG00000005810	Heat shock protein	NA
+Mustela_putorius_furo		ENSMPUG00000005822	Others	NA
+Mustela_putorius_furo	CBX5	ENSMPUG00000005824	Chromobox	NA
+Mustela_putorius_furo	COMMD1	ENSMPUG00000005842	Others	NA
+Mustela_putorius_furo	ANKRA2	ENSMPUG00000005857	Ankyrin repeat	NA
+Mustela_putorius_furo	BTF3	ENSMPUG00000005864	Others	NA
+Mustela_putorius_furo	ENY2	ENSMPUG00000005873	Others	NA
+Mustela_putorius_furo	CALCOCO1	ENSMPUG00000005917	Others	NA
+Mustela_putorius_furo	ABRA	ENSMPUG00000005948	Actin	101678217
+Mustela_putorius_furo	ERCC2	ENSMPUG00000005989	Others	NA
+Mustela_putorius_furo	NPAT	ENSMPUG00000006026	Nuclear coactivator	NA
+Mustela_putorius_furo	GRHPR	ENSMPUG00000006029	Others	101674108
+Mustela_putorius_furo	TNNI2	ENSMPUG00000006046	Others	NA
+Mustela_putorius_furo		ENSMPUG00000006059	Others	NA
+Mustela_putorius_furo	PELI1	ENSMPUG00000006068	Others	NA
+Mustela_putorius_furo	SAFB2	ENSMPUG00000006106	Others	NA
+Mustela_putorius_furo	SAFB	ENSMPUG00000006123	Others	NA
+Mustela_putorius_furo	DACT1	ENSMPUG00000006171	Others	NA
+Mustela_putorius_furo	KMT2B	ENSMPUG00000006206	Lysine methyltransferase	NA
+Mustela_putorius_furo	C1D	ENSMPUG00000006224	Other_Co-activator/repressors	NA
+Mustela_putorius_furo	TONSL	ENSMPUG00000006237	Others	NA
+Mustela_putorius_furo	BCL3	ENSMPUG00000006326	BCL	NA
+Mustela_putorius_furo	PYGO2	ENSMPUG00000006331	Others	NA
+Mustela_putorius_furo	PBXIP1	ENSMPUG00000006338	Others	NA
+Mustela_putorius_furo	SS18	ENSMPUG00000006348	SS18	NA
+Mustela_putorius_furo	ENO1	ENSMPUG00000006382	Others	NA
+Mustela_putorius_furo		ENSMPUG00000006422	Coiled-coil	NA
+Mustela_putorius_furo	MNAT1	ENSMPUG00000006428	Others	NA
+Mustela_putorius_furo	ANP32B	ENSMPUG00000006433	ANP	NA
+Mustela_putorius_furo	TAF4B	ENSMPUG00000006462	TATA-box	NA
+Mustela_putorius_furo	SLC30A9	ENSMPUG00000006465	SLC	NA
+Mustela_putorius_furo	CHEK1	ENSMPUG00000006494	Others	NA
+Mustela_putorius_furo	MLLT1	ENSMPUG00000006527	GTF	NA
+Mustela_putorius_furo	SND1	ENSMPUG00000006545	Others	NA
+Mustela_putorius_furo	GTF2F1	ENSMPUG00000006566	GTF	NA
+Mustela_putorius_furo	PARK7	ENSMPUG00000006583	Others	NA
+Mustela_putorius_furo	TIRAP	ENSMPUG00000006645	Others	NA
+Mustela_putorius_furo	FBP1	ENSMPUG00000006664	Others	NA
+Mustela_putorius_furo		ENSMPUG00000006699	Others	NA
+Mustela_putorius_furo	ANXA4	ENSMPUG00000006796	Others	NA
+Mustela_putorius_furo	DNMT1	ENSMPUG00000006829	DNA_methylase	NA
+Mustela_putorius_furo	HABP4	ENSMPUG00000006887	Others	101683263
+Mustela_putorius_furo	NELFCD	ENSMPUG00000006914	GTF	NA
+Mustela_putorius_furo	RNF20	ENSMPUG00000006941	Ring finger protein	NA
+Mustela_putorius_furo	DOT1L	ENSMPUG00000006962	Others	NA
+Mustela_putorius_furo	PRMT7	ENSMPUG00000007016	Arginine methyltransferase	NA
+Mustela_putorius_furo	PHF10	ENSMPUG00000007022	PHF	NA
+Mustela_putorius_furo	ING3	ENSMPUG00000007054	ING	NA
+Mustela_putorius_furo	ARHGEF5	ENSMPUG00000007058	Others	NA
+Mustela_putorius_furo	AJUBA	ENSMPUG00000007116	Others	NA
+Mustela_putorius_furo	PRMT5	ENSMPUG00000007137	Arginine methyltransferase	NA
+Mustela_putorius_furo		ENSMPUG00000007161	MBD	101675885
+Mustela_putorius_furo	BIRC2	ENSMPUG00000007189	Others	NA
+Mustela_putorius_furo	UTP4	ENSMPUG00000007202	Others	101682649
+Mustela_putorius_furo	TBP	ENSMPUG00000007213	TATA-box	NA
+Mustela_putorius_furo	EZH2	ENSMPUG00000007249	Others	NA
+Mustela_putorius_furo	ELP1	ENSMPUG00000007255	ELP	NA
+Mustela_putorius_furo	ACTN1	ENSMPUG00000007318	Actin	NA
+Mustela_putorius_furo	FBXW7	ENSMPUG00000007404	Others	NA
+Mustela_putorius_furo	ZNF638	ENSMPUG00000007422	Zinc finger	NA
+Mustela_putorius_furo	TXN	ENSMPUG00000007426	Others	101691655
+Mustela_putorius_furo	WWP2	ENSMPUG00000007494	WW	NA
+Mustela_putorius_furo	BTG1	ENSMPUG00000007519	Others	NA
+Mustela_putorius_furo	KMT5C	ENSMPUG00000007564	Lysine methyltransferase	NA
+Mustela_putorius_furo	MED10	ENSMPUG00000007576	Mediator complex	101686614
+Mustela_putorius_furo	ICE1	ENSMPUG00000007595	Others	NA
+Mustela_putorius_furo	CBFA2T3	ENSMPUG00000007614	Others	NA
+Mustela_putorius_furo	CEP290	ENSMPUG00000007620	Others	101690426
+Mustela_putorius_furo	LEO1	ENSMPUG00000007648	Others	NA
+Mustela_putorius_furo	PHF19	ENSMPUG00000007651	PHF	NA
+Mustela_putorius_furo	MCIDAS	ENSMPUG00000007663	Others	NA
+Mustela_putorius_furo	SS18L1	ENSMPUG00000007669	SS18	NA
+Mustela_putorius_furo	SKI	ENSMPUG00000007768	SKI	NA
+Mustela_putorius_furo	TRIP11	ENSMPUG00000007776	Thyroid hormone receptor	101686216
+Mustela_putorius_furo	TCERG1	ENSMPUG00000007817	TEF	NA
+Mustela_putorius_furo	ERBB4	ENSMPUG00000007892	Erbb2	NA
+Mustela_putorius_furo	MRGBP	ENSMPUG00000007912	Others	NA
+Mustela_putorius_furo	FGF1	ENSMPUG00000007946	FGF	NA
+Mustela_putorius_furo	RNF14	ENSMPUG00000007962	Ring finger protein	NA
+Mustela_putorius_furo	CCNH	ENSMPUG00000007985	Cyclin	NA
+Mustela_putorius_furo	CRTC2	ENSMPUG00000007999	CREB	NA
+Mustela_putorius_furo	URI1	ENSMPUG00000008002	Others	NA
+Mustela_putorius_furo	SNAPC2	ENSMPUG00000008010	Others	NA
+Mustela_putorius_furo	CCNE1	ENSMPUG00000008012	Cyclin	NA
+Mustela_putorius_furo		ENSMPUG00000008017	INO80 complex	NA
+Mustela_putorius_furo	ITGB3BP	ENSMPUG00000008084	Others	NA
+Mustela_putorius_furo	PCGF1	ENSMPUG00000008098	PCGF	NA
+Mustela_putorius_furo	PUF60	ENSMPUG00000008137	Others	NA
+Mustela_putorius_furo	LOXL3	ENSMPUG00000008143	Others	NA
+Mustela_putorius_furo	AURKB	ENSMPUG00000008152	Others	NA
+Mustela_putorius_furo	BRF1	ENSMPUG00000008184	GTF	NA
+Mustela_putorius_furo	HDAC3	ENSMPUG00000008187	Histone deacetylase	NA
+Mustela_putorius_furo	CHAF1B	ENSMPUG00000008227	Others	NA
+Mustela_putorius_furo	BANP	ENSMPUG00000008244	Others	NA
+Mustela_putorius_furo	GTF2E1	ENSMPUG00000008252	GTF	NA
+Mustela_putorius_furo	ILF2	ENSMPUG00000008267	Others	NA
+Mustela_putorius_furo	TRIM28	ENSMPUG00000008273	Tripartite motif	NA
+Mustela_putorius_furo		ENSMPUG00000008295	CAMK	NA
+Mustela_putorius_furo	CHTOP	ENSMPUG00000008311	Others	NA
+Mustela_putorius_furo	SLC25A2	ENSMPUG00000008334	SLC	NA
+Mustela_putorius_furo	CDK5	ENSMPUG00000008335	Cyclin	NA
+Mustela_putorius_furo	POLE4	ENSMPUG00000008356	Other_CRF	NA
+Mustela_putorius_furo	GSK3B	ENSMPUG00000008359	Others	NA
+Mustela_putorius_furo	HELZ2	ENSMPUG00000008361	Others	101692547
+Mustela_putorius_furo	S100A8	ENSMPUG00000008369	Others	NA
+Mustela_putorius_furo	S100A12	ENSMPUG00000008375	Others	NA
+Mustela_putorius_furo	PAK6	ENSMPUG00000008398	Others	NA
+Mustela_putorius_furo	SIRT3	ENSMPUG00000008421	Sirtuin	NA
+Mustela_putorius_furo	INSR	ENSMPUG00000008446	Others	101677072
+Mustela_putorius_furo	SRA1	ENSMPUG00000008493	Others	NA
+Mustela_putorius_furo	BRWD1	ENSMPUG00000008515	Bromodomain	NA
+Mustela_putorius_furo	ABT1	ENSMPUG00000008607	Others	NA
+Mustela_putorius_furo	BTN1A1	ENSMPUG00000008628	Others	NA
+Mustela_putorius_furo	GTF2A1	ENSMPUG00000008643	GTF	NA
+Mustela_putorius_furo	HEXIM2	ENSMPUG00000008646	Others	NA
+Mustela_putorius_furo		ENSMPUG00000008669	Others	101670557
+Mustela_putorius_furo	PRPF6	ENSMPUG00000008673	Others	NA
+Mustela_putorius_furo	SNW1	ENSMPUG00000008724	Others	NA
+Mustela_putorius_furo	MTDH	ENSMPUG00000008731	Others	NA
+Mustela_putorius_furo	EMSY	ENSMPUG00000008766	Others	NA
+Mustela_putorius_furo	INO80	ENSMPUG00000008786	INO80 complex	NA
+Mustela_putorius_furo	CXXC1	ENSMPUG00000008831	Others	NA
+Mustela_putorius_furo	CHD3	ENSMPUG00000008861	CHD	NA
+Mustela_putorius_furo	RTF1	ENSMPUG00000008905	Others	NA
+Mustela_putorius_furo	KDM6B	ENSMPUG00000008906	Lysine demethylase	NA
+Mustela_putorius_furo	TAF1C	ENSMPUG00000008913	TATA-box	NA
+Mustela_putorius_furo	SMARCD3	ENSMPUG00000008936	SWI/SNF	NA
+Mustela_putorius_furo	IRF2BPL	ENSMPUG00000008947	Others	NA
+Mustela_putorius_furo	PIDD1	ENSMPUG00000009033	Others	NA
+Mustela_putorius_furo	CXXC5	ENSMPUG00000009101	Others	NA
+Mustela_putorius_furo	KCNIP3	ENSMPUG00000009115	Others	NA
+Mustela_putorius_furo	CASP8AP2	ENSMPUG00000009120	Others	101684386
+Mustela_putorius_furo	RUNX1T1	ENSMPUG00000009128	Others	NA
+Mustela_putorius_furo	ARRB1	ENSMPUG00000009213	Others	NA
+Mustela_putorius_furo	KDM3A	ENSMPUG00000009253	Lysine demethylase	NA
+Mustela_putorius_furo		ENSMPUG00000009262	RNA helicase	NA
+Mustela_putorius_furo	MED16	ENSMPUG00000009286	Mediator complex	NA
+Mustela_putorius_furo	FLNA	ENSMPUG00000009293	Others	NA
+Mustela_putorius_furo	SMYD1	ENSMPUG00000009316	SMYD	NA
+Mustela_putorius_furo	NCK1	ENSMPUG00000009318	Others	NA
+Mustela_putorius_furo	PNRC1	ENSMPUG00000009350	Others	NA
+Mustela_putorius_furo	PRMT8	ENSMPUG00000009360	Arginine methyltransferase	NA
+Mustela_putorius_furo	ELANE	ENSMPUG00000009405	Others	NA
+Mustela_putorius_furo	KDM3B	ENSMPUG00000009408	Lysine demethylase	NA
+Mustela_putorius_furo	NRIP2	ENSMPUG00000009427	Nuclear coactivator	NA
+Mustela_putorius_furo	PAXIP1	ENSMPUG00000009429	Others	NA
+Mustela_putorius_furo	ATXN7L3	ENSMPUG00000009478	Others	NA
+Mustela_putorius_furo	NCOA4	ENSMPUG00000009483	Nuclear receptor coactivator	NA
+Mustela_putorius_furo	H2AZ1	ENSMPUG00000009519	Others	NA
+Mustela_putorius_furo	HDAC5	ENSMPUG00000009528	Histone deacetylase	101685275
+Mustela_putorius_furo	TCEAL1	ENSMPUG00000009586	TEF	NA
+Mustela_putorius_furo	TDRD3	ENSMPUG00000009630	Others	101675307
+Mustela_putorius_furo	TSPYL2	ENSMPUG00000009638	Others	NA
+Mustela_putorius_furo	POLR2A	ENSMPUG00000009648	POLR	101687537
+Mustela_putorius_furo	FGFR1	ENSMPUG00000009649	FGF	NA
+Mustela_putorius_furo	NSD3	ENSMPUG00000009674	Nuclear receptor coactivator	NA
+Mustela_putorius_furo	BRD8	ENSMPUG00000009676	Bromodomain	101680641
+Mustela_putorius_furo	BEND3	ENSMPUG00000009678	Others	NA
+Mustela_putorius_furo	KDM5C	ENSMPUG00000009698	Lysine demethylase	NA
+Mustela_putorius_furo	CDYL2	ENSMPUG00000009741	Chromodomain Y	NA
+Mustela_putorius_furo	WWOX	ENSMPUG00000009803	WW	NA
+Mustela_putorius_furo	IKBKG	ENSMPUG00000009835	Others	NA
+Mustela_putorius_furo	TERF2IP	ENSMPUG00000009867	Others	NA
+Mustela_putorius_furo	ASH2L	ENSMPUG00000009911	Others	NA
+Mustela_putorius_furo	BRF2	ENSMPUG00000010006	GTF	NA
+Mustela_putorius_furo	NLRP12	ENSMPUG00000010010	Others	101688951
+Mustela_putorius_furo	TRIM22	ENSMPUG00000010012	Tripartite motif	NA
+Mustela_putorius_furo	PICALM	ENSMPUG00000010037	Others	101673615
+Mustela_putorius_furo	ZNF703	ENSMPUG00000010048	Zinc finger	101694318
+Mustela_putorius_furo	TRIM6	ENSMPUG00000010049	Tripartite motif	101675015
+Mustela_putorius_furo	EED	ENSMPUG00000010062	Others	NA
+Mustela_putorius_furo	TRIP13	ENSMPUG00000010073	Thyroid hormone receptor	NA
+Mustela_putorius_furo	NOTCH4	ENSMPUG00000010109	Notch	NA
+Mustela_putorius_furo	DUSP26	ENSMPUG00000010124	Others	NA
+Mustela_putorius_furo	MIER2	ENSMPUG00000010129	MIER	NA
+Mustela_putorius_furo	EZH1	ENSMPUG00000010144	Others	NA
+Mustela_putorius_furo	COPS5	ENSMPUG00000010175	Others	NA
+Mustela_putorius_furo	DPPA2	ENSMPUG00000010188	Others	101686809
+Mustela_putorius_furo	NRG1	ENSMPUG00000010197	Others	NA
+Mustela_putorius_furo	DPPA4	ENSMPUG00000010206	Others	101687094
+Mustela_putorius_furo	ELOC	ENSMPUG00000010207	Others	NA
+Mustela_putorius_furo	TP53BP1	ENSMPUG00000010262	Others	101687215
+Mustela_putorius_furo	HDAC2	ENSMPUG00000010268	Histone deacetylase	NA
+Mustela_putorius_furo	FRK	ENSMPUG00000010284	Others	NA
+Mustela_putorius_furo		ENSMPUG00000010298	Others	NA
+Mustela_putorius_furo	CNOT3	ENSMPUG00000010352	CCR4-NOT	NA
+Mustela_putorius_furo	SLC19A1	ENSMPUG00000010396	SLC	NA
+Mustela_putorius_furo	NUP98	ENSMPUG00000010422	Others	NA
+Mustela_putorius_furo	SDR16C5	ENSMPUG00000010435	Others	NA
+Mustela_putorius_furo	TGS1	ENSMPUG00000010475	Others	NA
+Mustela_putorius_furo	DVL2	ENSMPUG00000010482	Others	NA
+Mustela_putorius_furo	MED21	ENSMPUG00000010498	Mediator complex	NA
+Mustela_putorius_furo	DCC	ENSMPUG00000010503	Others	NA
+Mustela_putorius_furo	CAVIN1	ENSMPUG00000010505	Others	NA
+Mustela_putorius_furo	ELL3	ENSMPUG00000010513	GTF	NA
+Mustela_putorius_furo	KAT2A	ENSMPUG00000010560	Lysine acetyltransferase	101670315
+Mustela_putorius_furo	NELFE	ENSMPUG00000010581	GTF	NA
+Mustela_putorius_furo	EYA1	ENSMPUG00000010595	EYA	101694532
+Mustela_putorius_furo	TCEA1	ENSMPUG00000010602	TEF	NA
+Mustela_putorius_furo	NCOA2	ENSMPUG00000010623	Nuclear receptor coactivator	NA
+Mustela_putorius_furo	ING1	ENSMPUG00000010625	ING	NA
+Mustela_putorius_furo	VGLL3	ENSMPUG00000010640	Vestigial like	NA
+Mustela_putorius_furo	TAF1D	ENSMPUG00000010659	TATA-box	NA
+Mustela_putorius_furo		ENSMPUG00000010667	Mediator complex	NA
+Mustela_putorius_furo		ENSMPUG00000010677	Others	NA
+Mustela_putorius_furo	EHMT2	ENSMPUG00000010764	Histone lysine methyltransferase	101693123
+Mustela_putorius_furo	PELP1	ENSMPUG00000010785	Others	NA
+Mustela_putorius_furo	ARRB2	ENSMPUG00000010797	Others	NA
+Mustela_putorius_furo	WWP1	ENSMPUG00000010807	WW	NA
+Mustela_putorius_furo		ENSMPUG00000010814	Heat shock protein	NA
+Mustela_putorius_furo	FHL2	ENSMPUG00000010842	FHL	NA
+Mustela_putorius_furo	TAF6	ENSMPUG00000010870	TATA-box	NA
+Mustela_putorius_furo	JUP	ENSMPUG00000010872	Others	NA
+Mustela_putorius_furo	TNIP2	ENSMPUG00000010947	Others	NA
+Mustela_putorius_furo	RNF4	ENSMPUG00000010957	Ring finger protein	NA
+Mustela_putorius_furo	RIPK2	ENSMPUG00000010960	Others	NA
+Mustela_putorius_furo	EDF1	ENSMPUG00000011008	Others	NA
+Mustela_putorius_furo	WDR61	ENSMPUG00000011014	WD	NA
+Mustela_putorius_furo	NELFA	ENSMPUG00000011031	GTF	NA
+Mustela_putorius_furo	CDK1	ENSMPUG00000011057	Cyclin	NA
+Mustela_putorius_furo	BASP1	ENSMPUG00000011070	Others	NA
+Mustela_putorius_furo	CENPU	ENSMPUG00000011102	CENP	101691974
+Mustela_putorius_furo	NRBF2	ENSMPUG00000011106	Nuclear receptor coactivator	NA
+Mustela_putorius_furo	JMJD1C	ENSMPUG00000011122	Other_CRF	NA
+Mustela_putorius_furo	CTBP1	ENSMPUG00000011182	Others	NA
+Mustela_putorius_furo	KDM5B	ENSMPUG00000011183	Lysine demethylase	101678160
+Mustela_putorius_furo	DGKQ	ENSMPUG00000011237	Others	NA
+Mustela_putorius_furo	C1QBP	ENSMPUG00000011246	Others	NA
+Mustela_putorius_furo	DHX33	ENSMPUG00000011250	RNA helicase	NA
+Mustela_putorius_furo	ELP4	ENSMPUG00000011290	ELP	NA
+Mustela_putorius_furo	ZAP70	ENSMPUG00000011312	Others	101682004
+Mustela_putorius_furo	RBPMS	ENSMPUG00000011314	RNA binding protein	NA
+Mustela_putorius_furo	PCGF3	ENSMPUG00000011322	PCGF	NA
+Mustela_putorius_furo	NOTCH1	ENSMPUG00000011325	Notch	NA
+Mustela_putorius_furo	MED31	ENSMPUG00000011341	Mediator complex	NA
+Mustela_putorius_furo	TGFB1I1	ENSMPUG00000011350	Others	NA
+Mustela_putorius_furo	CCDC59	ENSMPUG00000011361	Coiled-coil	NA
+Mustela_putorius_furo	TNKS	ENSMPUG00000011383	Others	NA
+Mustela_putorius_furo	MYBBP1A	ENSMPUG00000011401	MYB	101689330
+Mustela_putorius_furo	DDX39B	ENSMPUG00000011407	RNA helicase	NA
+Mustela_putorius_furo	PYCARD	ENSMPUG00000011423	Others	NA
+Mustela_putorius_furo	DRAP1	ENSMPUG00000011429	Others	NA
+Mustela_putorius_furo	HIPK3	ENSMPUG00000011469	HIPK	NA
+Mustela_putorius_furo	KAT8	ENSMPUG00000011488	Lysine acetyltransferase	NA
+Mustela_putorius_furo	ACTR6	ENSMPUG00000011507	ACTR	NA
+Mustela_putorius_furo	STRAP	ENSMPUG00000011519	Others	NA
+Mustela_putorius_furo	DHX9	ENSMPUG00000011544	RNA helicase	NA
+Mustela_putorius_furo	PHF8	ENSMPUG00000011546	PHF	NA
+Mustela_putorius_furo	CTNNB1	ENSMPUG00000011552	Casein	NA
+Mustela_putorius_furo	TRAK1	ENSMPUG00000011608	Others	NA
+Mustela_putorius_furo	BAHCC1	ENSMPUG00000011616	Others	NA
+Mustela_putorius_furo	KAT5	ENSMPUG00000011620	Lysine acetyltransferase	NA
+Mustela_putorius_furo		ENSMPUG00000011639	Others	NA
+Mustela_putorius_furo	ATF7IP	ENSMPUG00000011645	Others	NA
+Mustela_putorius_furo	MDM4	ENSMPUG00000011721	Others	NA
+Mustela_putorius_furo	CDKN1B	ENSMPUG00000011736	Cyclin	NA
+Mustela_putorius_furo	RBBP5	ENSMPUG00000011753	RBBP	NA
+Mustela_putorius_furo	TRAF6	ENSMPUG00000011785	Others	NA
+Mustela_putorius_furo	NFKBIZ	ENSMPUG00000011786	NFKB associated	NA
+Mustela_putorius_furo		ENSMPUG00000011800	Others	NA
+Mustela_putorius_furo	RNF2	ENSMPUG00000011854	Ring finger protein	NA
+Mustela_putorius_furo		ENSMPUG00000011867	SET	NA
+Mustela_putorius_furo	DCAF1	ENSMPUG00000011875	Others	NA
+Mustela_putorius_furo	RPTOR	ENSMPUG00000011950	Others	NA
+Mustela_putorius_furo	DPF2	ENSMPUG00000011987	DPF	NA
+Mustela_putorius_furo	ERCC3	ENSMPUG00000012021	Others	NA
+Mustela_putorius_furo	TDG	ENSMPUG00000012042	Others	NA
+Mustela_putorius_furo	TPR	ENSMPUG00000012051	Others	NA
+Mustela_putorius_furo	HCFC2	ENSMPUG00000012052	Others	NA
+Mustela_putorius_furo		ENSMPUG00000012062	Others	NA
+Mustela_putorius_furo	CRY1	ENSMPUG00000012161	Others	NA
+Mustela_putorius_furo		ENSMPUG00000012170	Others	101685489
+Mustela_putorius_furo	WDR5	ENSMPUG00000012184	WD	NA
+Mustela_putorius_furo	PLK1	ENSMPUG00000012187	Others	NA
+Mustela_putorius_furo	BRD3	ENSMPUG00000012188	Bromodomain	NA
+Mustela_putorius_furo	CNOT11	ENSMPUG00000012207	CCR4-NOT	NA
+Mustela_putorius_furo	CREG2	ENSMPUG00000012215	Others	NA
+Mustela_putorius_furo	KDM4D	ENSMPUG00000012267	Lysine demethylase	NA
+Mustela_putorius_furo	CBX4	ENSMPUG00000012273	Chromobox	NA
+Mustela_putorius_furo	NSD1	ENSMPUG00000012275	Nuclear receptor coactivator	101692273
+Mustela_putorius_furo		ENSMPUG00000012277	Chromobox	NA
+Mustela_putorius_furo	CBX2	ENSMPUG00000012281	Chromobox	NA
+Mustela_putorius_furo	NLRP3	ENSMPUG00000012286	Others	101683072
+Mustela_putorius_furo	MAML2	ENSMPUG00000012297	MAML	NA
+Mustela_putorius_furo	REXO4	ENSMPUG00000012315	Others	NA
+Mustela_putorius_furo	COPS2	ENSMPUG00000012327	Others	NA
+Mustela_putorius_furo	ANKAR	ENSMPUG00000012368	Ankyrin repeat	NA
+Mustela_putorius_furo	MED22	ENSMPUG00000012409	Mediator complex	NA
+Mustela_putorius_furo	HMOX1	ENSMPUG00000012420	Others	NA
+Mustela_putorius_furo	TAF5L	ENSMPUG00000012434	TATA-box	101691683
+Mustela_putorius_furo	NAB1	ENSMPUG00000012442	Others	NA
+Mustela_putorius_furo	LMO1	ENSMPUG00000012472	LIM	NA
+Mustela_putorius_furo	MEN1	ENSMPUG00000012509	Others	NA
+Mustela_putorius_furo	INO80E	ENSMPUG00000012526	INO80 complex	NA
+Mustela_putorius_furo	SUPT3H	ENSMPUG00000012541	SUPT	NA
+Mustela_putorius_furo	RBFOX2	ENSMPUG00000012555	Others	NA
+Mustela_putorius_furo	TLE4	ENSMPUG00000012590	Transducin	NA
+Mustela_putorius_furo	BCOR	ENSMPUG00000012607	Other_Co-activator/repressors	101689795
+Mustela_putorius_furo	MED14	ENSMPUG00000012615	Mediator complex	NA
+Mustela_putorius_furo	CASK	ENSMPUG00000012639	CAMK	NA
+Mustela_putorius_furo	SGF29	ENSMPUG00000012669	Others	NA
+Mustela_putorius_furo	ABL1	ENSMPUG00000012678	Others	NA
+Mustela_putorius_furo	SF1	ENSMPUG00000012684	Others	NA
+Mustela_putorius_furo	IKBKB	ENSMPUG00000012701	Others	NA
+Mustela_putorius_furo	ACTN2	ENSMPUG00000012742	Actin	101674315
+Mustela_putorius_furo	HEATR1	ENSMPUG00000012748	Others	101676494
+Mustela_putorius_furo	FBXW11	ENSMPUG00000012769	Others	101671054
+Mustela_putorius_furo	VEGFA	ENSMPUG00000012815	Other_CRF	NA
+Mustela_putorius_furo	RNF141	ENSMPUG00000012849	Ring finger protein	NA
+Mustela_putorius_furo		ENSMPUG00000012858	Nucleoplasmin	NA
+Mustela_putorius_furo	CTR9	ENSMPUG00000012875	Others	101682090
+Mustela_putorius_furo	PRDX5	ENSMPUG00000012907	Others	NA
+Mustela_putorius_furo	KDM6A	ENSMPUG00000012926	Lysine demethylase	NA
+Mustela_putorius_furo	KDM8	ENSMPUG00000012991	Lysine demethylase	NA
+Mustela_putorius_furo	SRFBP1	ENSMPUG00000013031	Others	NA
+Mustela_putorius_furo	WWC1	ENSMPUG00000013058	WW	NA
+Mustela_putorius_furo	HYAL2	ENSMPUG00000013063	Others	NA
+Mustela_putorius_furo	EPC1	ENSMPUG00000013065	Others	NA
+Mustela_putorius_furo		ENSMPUG00000013069	SET	NA
+Mustela_putorius_furo		ENSMPUG00000013084	Others	NA
+Mustela_putorius_furo	DDX17	ENSMPUG00000013125	RNA helicase	NA
+Mustela_putorius_furo	CNOT10	ENSMPUG00000013138	CCR4-NOT	NA
+Mustela_putorius_furo		ENSMPUG00000013159	Lysine acetyltransferase	NA
+Mustela_putorius_furo	TENM2	ENSMPUG00000013168	Others	101684262
+Mustela_putorius_furo	ASCC2	ENSMPUG00000013238	ASCC	NA
+Mustela_putorius_furo		ENSMPUG00000013241	Others	NA
+Mustela_putorius_furo	CBX7	ENSMPUG00000013246	Chromobox	NA
+Mustela_putorius_furo	BIRC5	ENSMPUG00000013248	Others	NA
+Mustela_putorius_furo	TAF1B	ENSMPUG00000013256	TATA-box	NA
+Mustela_putorius_furo	PSPC1	ENSMPUG00000013347	Others	NA
+Mustela_putorius_furo	ZMYM2	ENSMPUG00000013364	Zinc finger	NA
+Mustela_putorius_furo	TAB1	ENSMPUG00000013374	Others	NA
+Mustela_putorius_furo	THOC5	ENSMPUG00000013393	Others	NA
+Mustela_putorius_furo	UXT	ENSMPUG00000013405	Others	NA
+Mustela_putorius_furo	JMJD6	ENSMPUG00000013425	Others	NA
+Mustela_putorius_furo		ENSMPUG00000013432	Others	101685938
+Mustela_putorius_furo	TAF8	ENSMPUG00000013442	TATA-box	101688791
+Mustela_putorius_furo	PLK3	ENSMPUG00000013451	Others	NA
+Mustela_putorius_furo	SMYD2	ENSMPUG00000013463	SMYD	NA
+Mustela_putorius_furo		ENSMPUG00000013469	SSX	NA
+Mustela_putorius_furo	LGALS12	ENSMPUG00000013482	Others	NA
+Mustela_putorius_furo		ENSMPUG00000013492	Mediator complex	NA
+Mustela_putorius_furo	CRYM	ENSMPUG00000013508	Others	NA
+Mustela_putorius_furo	CNOT8	ENSMPUG00000013552	CCR4-NOT	NA
+Mustela_putorius_furo	DMAP1	ENSMPUG00000013562	DNA_methylase	NA
+Mustela_putorius_furo	CHEK2	ENSMPUG00000013566	Others	NA
+Mustela_putorius_furo	SAP30L	ENSMPUG00000013575	SAP	NA
+Mustela_putorius_furo	LPIN1	ENSMPUG00000013577	LPIN	NA
+Mustela_putorius_furo	ENG	ENSMPUG00000013578	Others	NA
+Mustela_putorius_furo	MDFI	ENSMPUG00000013599	Others	NA
+Mustela_putorius_furo	DDX1	ENSMPUG00000013606	RNA helicase	NA
+Mustela_putorius_furo	SUV39H1	ENSMPUG00000013648	Others	NA
+Mustela_putorius_furo	KDM4A	ENSMPUG00000013657	Lysine demethylase	101693240
+Mustela_putorius_furo	HDAC6	ENSMPUG00000013660	Histone deacetylase	101675514
+Mustela_putorius_furo	CDK9	ENSMPUG00000013681	Cyclin	NA
+Mustela_putorius_furo	PQBP1	ENSMPUG00000013699	Others	NA
+Mustela_putorius_furo	CRK	ENSMPUG00000013702	Others	NA
+Mustela_putorius_furo	TNIP1	ENSMPUG00000013705	Others	NA
+Mustela_putorius_furo	MED8	ENSMPUG00000013718	Mediator complex	NA
+Mustela_putorius_furo	GTF2H1	ENSMPUG00000013729	GTF	NA
+Mustela_putorius_furo	TSG101	ENSMPUG00000013769	Others	NA
+Mustela_putorius_furo	WBP2	ENSMPUG00000013775	WW	NA
+Mustela_putorius_furo	NIBAN2	ENSMPUG00000013824	FAM	NA
+Mustela_putorius_furo	SAP30BP	ENSMPUG00000013829	SAP	NA
+Mustela_putorius_furo	NOC2L	ENSMPUG00000013830	Others	NA
+Mustela_putorius_furo	RECQL5	ENSMPUG00000013833	Others	NA
+Mustela_putorius_furo	RHOA	ENSMPUG00000013840	Others	NA
+Mustela_putorius_furo	CAMK2A	ENSMPUG00000013844	CAMK	NA
+Mustela_putorius_furo	SCAI	ENSMPUG00000013894	Others	NA
+Mustela_putorius_furo	CSRP3	ENSMPUG00000013898	Others	NA
+Mustela_putorius_furo	HTATIP2	ENSMPUG00000013921	Others	NA
+Mustela_putorius_furo	HDAC9	ENSMPUG00000013952	Histone deacetylase	NA
+Mustela_putorius_furo	RNF8	ENSMPUG00000014020	Ring finger protein	NA
+Mustela_putorius_furo	SCMH1	ENSMPUG00000014085	Others	NA
+Mustela_putorius_furo	PIM1	ENSMPUG00000014123	Others	101689736
+Mustela_putorius_furo	PHF12	ENSMPUG00000014128	PHF	NA
+Mustela_putorius_furo	C6orf89	ENSMPUG00000014159	Other_CRF	NA
+Mustela_putorius_furo	SUPT6H	ENSMPUG00000014195	SUPT	NA
+Mustela_putorius_furo	PPARGC1B	ENSMPUG00000014245	Others	NA
+Mustela_putorius_furo	ADRB2	ENSMPUG00000014292	Others	NA
+Mustela_putorius_furo	VGLL2	ENSMPUG00000014293	Vestigial like	NA
+Mustela_putorius_furo	PPIE	ENSMPUG00000014345	Others	NA
+Mustela_putorius_furo	AURKAIP1	ENSMPUG00000014359	Others	NA
+Mustela_putorius_furo	NLK	ENSMPUG00000014360	Others	NA
+Mustela_putorius_furo	RRN3	ENSMPUG00000014367	Others	NA
+Mustela_putorius_furo		ENSMPUG00000014369	Others	NA
+Mustela_putorius_furo	SMARCD1	ENSMPUG00000014386	SWI/SNF	NA
+Mustela_putorius_furo	ASF1A	ENSMPUG00000014391	Others	NA
+Mustela_putorius_furo	FGF10	ENSMPUG00000014408	FGF	NA
+Mustela_putorius_furo	BDP1	ENSMPUG00000014424	GTF	NA
+Mustela_putorius_furo		ENSMPUG00000014474	GTF	NA
+Mustela_putorius_furo	MRTFB	ENSMPUG00000014475	Others	NA
+Mustela_putorius_furo	FHL3	ENSMPUG00000014497	FHL	NA
+Mustela_putorius_furo	NCOA7	ENSMPUG00000014535	Nuclear receptor coactivator	NA
+Mustela_putorius_furo	PIN1	ENSMPUG00000014536	Others	NA
+Mustela_putorius_furo	COPRS	ENSMPUG00000014579	Others	NA
+Mustela_putorius_furo	MCRS1	ENSMPUG00000014582	Others	NA
+Mustela_putorius_furo	CDK7	ENSMPUG00000014611	Cyclin	NA
+Mustela_putorius_furo	CIITA	ENSMPUG00000014633	Others	NA
+Mustela_putorius_furo	SUZ12	ENSMPUG00000014641	Others	NA
+Mustela_putorius_furo	MED23	ENSMPUG00000014652	Mediator complex	NA
+Mustela_putorius_furo	NOL11	ENSMPUG00000014685	Nuclear coactivator	NA
+Mustela_putorius_furo	BPTF	ENSMPUG00000014688	Bromodomain	NA
+Mustela_putorius_furo	ATF7IP2	ENSMPUG00000014692	Others	NA
+Mustela_putorius_furo	LIN54	ENSMPUG00000014712	Others	NA
+Mustela_putorius_furo	SNIP1	ENSMPUG00000014718	Others	NA
+Mustela_putorius_furo	PIK3R1	ENSMPUG00000014719	Others	NA
+Mustela_putorius_furo	MEAF6	ENSMPUG00000014722	Others	NA
+Mustela_putorius_furo	SMURF2	ENSMPUG00000014733	Others	NA
+Mustela_putorius_furo	ERBIN	ENSMPUG00000014742	Erbb2	NA
+Mustela_putorius_furo	ERN1	ENSMPUG00000014770	Others	NA
+Mustela_putorius_furo	HNRNPD	ENSMPUG00000014782	HNRNP	NA
+Mustela_putorius_furo	EYA4	ENSMPUG00000014787	EYA	101675134
+Mustela_putorius_furo	DAB2	ENSMPUG00000014789	Others	NA
+Mustela_putorius_furo	TBPL1	ENSMPUG00000014801	TATA-box	NA
+Mustela_putorius_furo	SGK1	ENSMPUG00000014805	Others	NA
+Mustela_putorius_furo	THRAP3	ENSMPUG00000014809	Thyroid hormone receptor	NA
+Mustela_putorius_furo		ENSMPUG00000014835	SWI/SNF	NA
+Mustela_putorius_furo	AGO1	ENSMPUG00000014872	Others	NA
+Mustela_putorius_furo	CCNT1	ENSMPUG00000014887	Cyclin	NA
+Mustela_putorius_furo	NIPBL	ENSMPUG00000014922	Others	101679892
+Mustela_putorius_furo	ERBB2	ENSMPUG00000014982	Erbb2	NA
+Mustela_putorius_furo	CDK12	ENSMPUG00000015009	Cyclin	NA
+Mustela_putorius_furo	DNAJA3	ENSMPUG00000015010	Others	NA
+Mustela_putorius_furo	CREBBP	ENSMPUG00000015036	CREB	NA
+Mustela_putorius_furo	SETD2	ENSMPUG00000015045	SET	NA
+Mustela_putorius_furo	AATF	ENSMPUG00000015057	Others	NA
+Mustela_putorius_furo	WAC	ENSMPUG00000015072	WW	NA
+Mustela_putorius_furo	PCGF2	ENSMPUG00000015084	PCGF	NA
+Mustela_putorius_furo	BCAS3	ENSMPUG00000015112	Others	NA
+Mustela_putorius_furo	NELFB	ENSMPUG00000015121	GTF	NA
+Mustela_putorius_furo	MLLT6	ENSMPUG00000015135	Others	NA
+Mustela_putorius_furo	YWHAZ	ENSMPUG00000015158	Others	NA
+Mustela_putorius_furo	BRIP1	ENSMPUG00000015169	Others	101676269
+Mustela_putorius_furo	MED13	ENSMPUG00000015173	Mediator complex	NA
+Mustela_putorius_furo	HDAC1	ENSMPUG00000015231	Histone deacetylase	NA
+Mustela_putorius_furo	TRIM37	ENSMPUG00000015244	Tripartite motif	NA
+Mustela_putorius_furo	STK3	ENSMPUG00000015247	Others	NA
+Mustela_putorius_furo	EHMT1	ENSMPUG00000015280	Histone lysine methyltransferase	NA
+Mustela_putorius_furo	CDK5RAP3	ENSMPUG00000015291	Cyclin	NA
+Mustela_putorius_furo	SKAP1	ENSMPUG00000015305	Others	NA
+Mustela_putorius_furo	LIMD1	ENSMPUG00000015325	LIM	NA
+Mustela_putorius_furo	SUPT4H1	ENSMPUG00000015326	SUPT	NA
+Mustela_putorius_furo	TRIM25	ENSMPUG00000015388	Tripartite motif	NA
+Mustela_putorius_furo	MORF4L1	ENSMPUG00000015429	Other_CRF	NA
+Mustela_putorius_furo	TAF12	ENSMPUG00000015506	TATA-box	NA
+Mustela_putorius_furo	CRTC1	ENSMPUG00000015520	CREB	NA
+Mustela_putorius_furo	MED18	ENSMPUG00000015531	Mediator complex	NA
+Mustela_putorius_furo	ELL	ENSMPUG00000015542	GTF	NA
+Mustela_putorius_furo	EYA3	ENSMPUG00000015548	EYA	NA
+Mustela_putorius_furo	MBTD1	ENSMPUG00000015580	Others	NA
+Mustela_putorius_furo	ALPK3	ENSMPUG00000015611	Others	NA
+Mustela_putorius_furo	WDTC1	ENSMPUG00000015651	WD	NA
+Mustela_putorius_furo	BLM	ENSMPUG00000015657	Others	NA
+Mustela_putorius_furo	TADA1	ENSMPUG00000015688	Transcriptional adaptor	NA
+Mustela_putorius_furo	ACTL6B	ENSMPUG00000015701	Actin	NA
+Mustela_putorius_furo		ENSMPUG00000015727	Others	NA
+Mustela_putorius_furo	TFB2M	ENSMPUG00000015810	Others	NA
+Mustela_putorius_furo	KDM1A	ENSMPUG00000015915	Lysine demethylase	NA
+Mustela_putorius_furo	RSF1	ENSMPUG00000015940	Others	NA
+Mustela_putorius_furo	WNT4	ENSMPUG00000015964	Others	NA
+Mustela_putorius_furo	MLLT3	ENSMPUG00000015992	GTF	NA
+Mustela_putorius_furo	SIN3B	ENSMPUG00000016012	Others	NA
+Mustela_putorius_furo		ENSMPUG00000016021	Mediator complex	NA
+Mustela_putorius_furo	AXIN1	ENSMPUG00000016024	Others	NA
+Mustela_putorius_furo	BAZ1B	ENSMPUG00000016069	Bromodomain	NA
+Mustela_putorius_furo	BRD4	ENSMPUG00000016088	Bromodomain	NA
+Mustela_putorius_furo	NOTCH3	ENSMPUG00000016090	Notch	NA
+Mustela_putorius_furo	PINK1	ENSMPUG00000016102	Others	NA
+Mustela_putorius_furo	MAML3	ENSMPUG00000016122	MAML	NA
+Mustela_putorius_furo	SETD7	ENSMPUG00000016124	SET	NA
+Mustela_putorius_furo	NAA15	ENSMPUG00000016126	Others	NA
+Mustela_putorius_furo	AUTS2	ENSMPUG00000016184	Others	NA
+Mustela_putorius_furo	PADI4	ENSMPUG00000016215	Others	101691536
+Mustela_putorius_furo	ZMYND11	ENSMPUG00000016216	Zinc finger	NA
+Mustela_putorius_furo	PADI2	ENSMPUG00000016243	Other_CRF	NA
+Mustela_putorius_furo	PHF21B	ENSMPUG00000016262	PHF	NA
+Mustela_putorius_furo	BRMS1L	ENSMPUG00000016267	Other_CRF	NA
+Mustela_putorius_furo	RALGAPA1	ENSMPUG00000016268	Others	NA
+Mustela_putorius_furo	EFCAB6	ENSMPUG00000016284	Others	101686720
+Mustela_putorius_furo	NFKBIA	ENSMPUG00000016286	NFKB associated	NA
+Mustela_putorius_furo	BAZ1A	ENSMPUG00000016305	Bromodomain	NA
+Mustela_putorius_furo	SNX6	ENSMPUG00000016307	Others	NA
+Mustela_putorius_furo	SPEN	ENSMPUG00000016317	Others	NA
+Mustela_putorius_furo	TCF20	ENSMPUG00000016327	Others	101671394
+Mustela_putorius_furo	WBP2NL	ENSMPUG00000016336	Others	NA
+Mustela_putorius_furo	SFMBT2	ENSMPUG00000016363	Others	NA
+Mustela_putorius_furo	XRCC6	ENSMPUG00000016382	Others	NA
+Mustela_putorius_furo	TAF3	ENSMPUG00000016389	TATA-box	NA
+Mustela_putorius_furo	PHF5A	ENSMPUG00000016398	PHF	NA
+Mustela_putorius_furo	MAD2L2	ENSMPUG00000016422	Others	NA
+Mustela_putorius_furo	L3MBTL2	ENSMPUG00000016425	Others	NA
+Mustela_putorius_furo	EP300	ENSMPUG00000016427	Others	101686721
+Mustela_putorius_furo	MTOR	ENSMPUG00000016429	Others	NA
+Mustela_putorius_furo	RBX1	ENSMPUG00000016430	Others	NA
+Mustela_putorius_furo	MRTFA	ENSMPUG00000016438	Others	NA
+Mustela_putorius_furo	PEX14	ENSMPUG00000016448	Others	NA
+Mustela_putorius_furo	MALT1	ENSMPUG00000016475	Others	NA
+Mustela_putorius_furo	TNP1	ENSMPUG00000016502	Other_CRF	NA
+Mustela_putorius_furo	BUD31	ENSMPUG00000016519	Others	NA
+Mustela_putorius_furo	CTDSP1	ENSMPUG00000016534	Others	NA
+Mustela_putorius_furo	CNOT9	ENSMPUG00000016537	CCR4-NOT	NA
+Mustela_putorius_furo	RNF25	ENSMPUG00000016541	Ring finger protein	NA
+Mustela_putorius_furo	STK36	ENSMPUG00000016546	Others	NA
+Mustela_putorius_furo	SMURF1	ENSMPUG00000016554	Others	NA
+Mustela_putorius_furo	TRRAP	ENSMPUG00000016556	Others	NA
+Mustela_putorius_furo	ACTB	ENSMPUG00000016612	Actin	NA
+Mustela_putorius_furo	CTDP1	ENSMPUG00000016652	Others	NA
+Mustela_putorius_furo	SAP130	ENSMPUG00000016680	SAP	NA
+Mustela_putorius_furo	PPARGC1A	ENSMPUG00000016736	Others	NA
+Mustela_putorius_furo	ATN1	ENSMPUG00000016768	Others	NA
+Mustela_putorius_furo	GNL3	ENSMPUG00000016777	Others	NA
+Mustela_putorius_furo	SFR1	ENSMPUG00000016796	Others	NA
+Mustela_putorius_furo	SFMBT1	ENSMPUG00000016812	Others	NA
+Mustela_putorius_furo	TAF5	ENSMPUG00000016831	TATA-box	NA
+Mustela_putorius_furo	ACTR8	ENSMPUG00000016832	ACTR	NA
+Mustela_putorius_furo	ING4	ENSMPUG00000016840	ING	NA
+Mustela_putorius_furo	PCGF6	ENSMPUG00000016842	PCGF	NA
+Mustela_putorius_furo	TASOR	ENSMPUG00000016846	FAM	NA
+Mustela_putorius_furo		ENSMPUG00000016859	CHD	101691636
+Mustela_putorius_furo	TRIM8	ENSMPUG00000016866	Tripartite motif	NA
+Mustela_putorius_furo	SUFU	ENSMPUG00000016867	Others	101674483
+Mustela_putorius_furo	PPRC1	ENSMPUG00000016888	Others	NA
+Mustela_putorius_furo	LDB1	ENSMPUG00000016889	LIM	NA
+Mustela_putorius_furo	NPM3	ENSMPUG00000016894	Nucleoplasmin	NA
+Mustela_putorius_furo	BTRC	ENSMPUG00000016923	Others	NA
+Mustela_putorius_furo	CHUK	ENSMPUG00000016978	Others	NA
+Mustela_putorius_furo	RYBP	ENSMPUG00000017004	Others	NA
+Mustela_putorius_furo	ANKRD2	ENSMPUG00000017039	Ankyrin repeat	NA
+Mustela_putorius_furo	MMS19	ENSMPUG00000017041	Others	NA
+Mustela_putorius_furo	LMCD1	ENSMPUG00000017058	LIM	NA
+Mustela_putorius_furo	TLE3	ENSMPUG00000017094	Transducin	NA
+Mustela_putorius_furo	SKIL	ENSMPUG00000017110	SKI	NA
+Mustela_putorius_furo	PDLIM1	ENSMPUG00000017120	Others	NA
+Mustela_putorius_furo	TADA3	ENSMPUG00000017125	Transcriptional adaptor	NA
+Mustela_putorius_furo	HELLS	ENSMPUG00000017131	Others	NA
+Mustela_putorius_furo		ENSMPUG00000017155	Others	NA
+Mustela_putorius_furo	VGLL4	ENSMPUG00000017174	Vestigial like	NA
+Mustela_putorius_furo	RAF1	ENSMPUG00000017185	Others	NA
+Mustela_putorius_furo	TBL1XR1	ENSMPUG00000017202	Transducin	NA
+Mustela_putorius_furo	ACTL6A	ENSMPUG00000017212	Actin	NA
+Mustela_putorius_furo	BTAF1	ENSMPUG00000017228	Others	NA
+Mustela_putorius_furo	PCGF5	ENSMPUG00000017239	PCGF	NA
+Mustela_putorius_furo	ANKRD1	ENSMPUG00000017242	Ankyrin repeat	NA
+Mustela_putorius_furo	PML	ENSMPUG00000017266	Others	NA
+Mustela_putorius_furo	HDAC11	ENSMPUG00000017271	Histone deacetylase	NA
+Mustela_putorius_furo	SIN3A	ENSMPUG00000017323	Other_CRF	NA
+Mustela_putorius_furo	RUVBL1	ENSMPUG00000017341	Other_CRF	NA
+Mustela_putorius_furo	JADE1	ENSMPUG00000017361	Others	NA
+Mustela_putorius_furo	CCNA2	ENSMPUG00000017407	Cyclin	NA
+Mustela_putorius_furo	SMARCA1	ENSMPUG00000017423	SWI/SNF	101683575
+Mustela_putorius_furo	PAWR	ENSMPUG00000017462	Others	NA
+Mustela_putorius_furo	CNOT2	ENSMPUG00000017494	CCR4-NOT	NA
+Mustela_putorius_furo	MDM2	ENSMPUG00000017505	Others	NA
+Mustela_putorius_furo	GRIP1	ENSMPUG00000017516	Others	NA
+Mustela_putorius_furo	NCOA3	ENSMPUG00000017593	Nuclear receptor coactivator	NA
+Mustela_putorius_furo	ZMYND8	ENSMPUG00000017594	Zinc finger	NA
+Mustela_putorius_furo	EYA2	ENSMPUG00000017595	EYA	NA
+Mustela_putorius_furo	PABPC1L	ENSMPUG00000017646	Other_CRF	NA
+Mustela_putorius_furo	TGFB1	ENSMPUG00000017652	Others	101670127
+Mustela_putorius_furo	HNRNPUL1	ENSMPUG00000017654	HNRNP	NA
+Mustela_putorius_furo	EGLN2	ENSMPUG00000017671	Others	NA
+Mustela_putorius_furo	CHD6	ENSMPUG00000017695	CHD	101682654
+Mustela_putorius_furo	LPIN3	ENSMPUG00000017698	LPIN	NA
+Mustela_putorius_furo	TOP1	ENSMPUG00000017701	Other_CRF	NA
+Mustela_putorius_furo	SERTAD3	ENSMPUG00000017706	Others	NA
+Mustela_putorius_furo	DYRK1B	ENSMPUG00000017716	Others	NA
+Mustela_putorius_furo	SUPT5H	ENSMPUG00000017721	SUPT	101693838
+Mustela_putorius_furo	MED29	ENSMPUG00000017727	Mediator complex	NA
+Mustela_putorius_furo	PAF1	ENSMPUG00000017728	Others	NA
+Mustela_putorius_furo	SAMD4B	ENSMPUG00000017729	Others	NA
+Mustela_putorius_furo	ACTR5	ENSMPUG00000017731	ACTR	NA
+Mustela_putorius_furo	NFKBIB	ENSMPUG00000017752	NFKB associated	NA
+Mustela_putorius_furo	SIRT2	ENSMPUG00000017753	Sirtuin	NA
+Mustela_putorius_furo	RPRD1B	ENSMPUG00000017758	Others	NA
+Mustela_putorius_furo	SRC	ENSMPUG00000017762	Others	106003305
+Mustela_putorius_furo	RBL1	ENSMPUG00000017768	Other_Co-activator/repressors	NA
+Mustela_putorius_furo	PHF20	ENSMPUG00000017785	PHF	NA
+Mustela_putorius_furo	RBM39	ENSMPUG00000017786	RNA binding protein	NA
+Mustela_putorius_furo	ACTN4	ENSMPUG00000017792	Actin	101685186
+Mustela_putorius_furo	ITCH	ENSMPUG00000017816	Others	NA
+Mustela_putorius_furo	RALY	ENSMPUG00000017820	Others	NA
+Mustela_putorius_furo	CBFA2T2	ENSMPUG00000017831	Others	NA
+Mustela_putorius_furo	DPF1	ENSMPUG00000017846	DPF	NA
+Mustela_putorius_furo	DNMT3B	ENSMPUG00000017868	DNA_methylase	101690059
+Mustela_putorius_furo	ASXL1	ENSMPUG00000017872	Others	NA
+Mustela_putorius_furo	HCK	ENSMPUG00000017886	Others	NA
+Mustela_putorius_furo	TRIB3	ENSMPUG00000017923	Others	NA
+Mustela_putorius_furo		ENSMPUG00000017926	Casein	NA
+Mustela_putorius_furo		ENSMPUG00000017960	Others	NA
+Mustela_putorius_furo	CNOT7	ENSMPUG00000017972	CCR4-NOT	NA
+Mustela_putorius_furo	SUPT7L	ENSMPUG00000017993	SUPT	NA
+Mustela_putorius_furo	KDM5A	ENSMPUG00000018029	Lysine demethylase	NA
+Mustela_putorius_furo	MYO6	ENSMPUG00000018086	Others	101670008
+Mustela_putorius_furo	PHIP	ENSMPUG00000018090	Others	NA
+Mustela_putorius_furo	CECR2	ENSMPUG00000018104	Other_CRF	NA
+Mustela_putorius_furo	PPID	ENSMPUG00000018108	Others	NA
+Mustela_putorius_furo	CDK13	ENSMPUG00000018137	Cyclin	NA
+Mustela_putorius_furo	LANCL2	ENSMPUG00000018152	Others	NA
+Mustela_putorius_furo	EGFR	ENSMPUG00000018153	Others	NA
+Mustela_putorius_furo	AEBP1	ENSMPUG00000018204	Others	NA
+Mustela_putorius_furo	SFRP4	ENSMPUG00000018235	Others	NA
+Mustela_putorius_furo	SLC26A3	ENSMPUG00000018243	SLC	NA
+Mustela_putorius_furo	KMT2E	ENSMPUG00000018261	Lysine methyltransferase	101688015
+Mustela_putorius_furo		ENSMPUG00000018362	Others	NA
+Mustela_putorius_furo		ENSMPUG00000018497	Others	NA
+Mustela_putorius_furo	H1-6	ENSMPUG00000018617	Histone cluster 1 H1	NA
+Mustela_putorius_furo		ENSMPUG00000018638	Others	106004715
+Mustela_putorius_furo		ENSMPUG00000018657	Chromobox	NA
+Mustela_putorius_furo		ENSMPUG00000018690	Others	NA
+Mustela_putorius_furo	TRIM32	ENSMPUG00000018731	Tripartite motif	NA
+Mustela_putorius_furo		ENSMPUG00000018744	MAGE	NA
+Mustela_putorius_furo		ENSMPUG00000018760	Other_Co-activator/repressors	NA
+Mustela_putorius_furo	SERTAD2	ENSMPUG00000018821	Others	NA
+Mustela_putorius_furo		ENSMPUG00000018843	SAP	101678002
+Mustela_putorius_furo	CITED2	ENSMPUG00000018884	CITED	NA
+Mustela_putorius_furo		ENSMPUG00000018921	Others	NA
+Mustela_putorius_furo	SCAND1	ENSMPUG00000019029	Others	NA
+Mustela_putorius_furo	HEXIM1	ENSMPUG00000019044	Others	NA
+Mustela_putorius_furo		ENSMPUG00000019083	TEF	NA
+Mustela_putorius_furo		ENSMPUG00000019086	Others	NA
+Mustela_putorius_furo		ENSMPUG00000019118	RBBP	NA
+Mustela_putorius_furo	CENPB	ENSMPUG00000019142	CENP	NA
+Mustela_putorius_furo	NRIP1	ENSMPUG00000019144	Nuclear receptor coactivator	NA
+Mustela_putorius_furo		ENSMPUG00000019204	TEF	NA
+Mustela_putorius_furo	MORF4L2	ENSMPUG00000019212	Other_CRF	NA
+Mustela_putorius_furo		ENSMPUG00000019322	TATA-box	NA
+Mustela_putorius_furo		ENSMPUG00000019359	Zinc finger	NA
+Mustela_putorius_furo	NUP62	ENSMPUG00000019361	Others	NA
+Mustela_putorius_furo	PRMT6	ENSMPUG00000019442	Arginine methyltransferase	NA
+Mustela_putorius_furo		ENSMPUG00000019485	Others	NA
+Mustela_putorius_furo		ENSMPUG00000019488	Ring finger protein	NA
+Mustela_putorius_furo	CDK5R1	ENSMPUG00000019514	Cyclin	NA
+Mustela_putorius_furo	TOB2	ENSMPUG00000019594	Others	NA
+Mustela_putorius_furo	THRSP	ENSMPUG00000019830	Others	NA
+Mustela_putorius_furo		ENSMPUG00000019845	EID	NA
+Mustela_putorius_furo	CCDC85B	ENSMPUG00000019984	Coiled-coil	NA
+Mustela_putorius_furo	TAF7	ENSMPUG00000020047	TATA-box	NA
+Mustela_putorius_furo	TOB1	ENSMPUG00000020088	Others	NA
+Mustela_putorius_furo		ENSMPUG00000020158	Others	106003906

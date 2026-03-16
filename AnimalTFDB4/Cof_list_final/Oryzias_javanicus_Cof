@@ -1,0 +1,705 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Oryzias_javanicus	dnajb1b	ENSOJAG00000000030	Others	NA
+Oryzias_javanicus	ASF1B	ENSOJAG00000000035	Others	NA
+Oryzias_javanicus	taf5	ENSOJAG00000000065	TATA-box	NA
+Oryzias_javanicus	banp	ENSOJAG00000000188	Others	NA
+Oryzias_javanicus	ccnh	ENSOJAG00000000211	Cyclin	NA
+Oryzias_javanicus	sap130a	ENSOJAG00000000219	SAP	NA
+Oryzias_javanicus	rhoab	ENSOJAG00000000243	Others	NA
+Oryzias_javanicus	traf6	ENSOJAG00000000283	Others	NA
+Oryzias_javanicus	sap18	ENSOJAG00000000305	SAP	NA
+Oryzias_javanicus	actl6a	ENSOJAG00000000347	Actin	NA
+Oryzias_javanicus	SPEN	ENSOJAG00000000380	Others	NA
+Oryzias_javanicus	camk2d2	ENSOJAG00000000420	CAMK	NA
+Oryzias_javanicus	smarca5	ENSOJAG00000000440	SWI/SNF	NA
+Oryzias_javanicus	trak2	ENSOJAG00000000484	Others	NA
+Oryzias_javanicus		ENSOJAG00000000539	Transducin	NA
+Oryzias_javanicus	taf3	ENSOJAG00000000551	TATA-box	NA
+Oryzias_javanicus	ssu72	ENSOJAG00000000558	Others	NA
+Oryzias_javanicus	leo1	ENSOJAG00000000660	Others	NA
+Oryzias_javanicus	pspc1	ENSOJAG00000000726	Others	NA
+Oryzias_javanicus	kmt5b	ENSOJAG00000000820	Lysine methyltransferase	NA
+Oryzias_javanicus	ccnt2b	ENSOJAG00000000869	Cyclin	NA
+Oryzias_javanicus		ENSOJAG00000000893	Others	NA
+Oryzias_javanicus	zgc:162255	ENSOJAG00000000905	Other_CRF	NA
+Oryzias_javanicus	sgf29	ENSOJAG00000000909	Others	NA
+Oryzias_javanicus	rbpms2b	ENSOJAG00000000964	RNA binding protein	NA
+Oryzias_javanicus	jupa	ENSOJAG00000000979	Others	NA
+Oryzias_javanicus	tdg.1	ENSOJAG00000001007	Others	NA
+Oryzias_javanicus	crebbpb	ENSOJAG00000001022	CREB	NA
+Oryzias_javanicus	jmjd6	ENSOJAG00000001035	Others	NA
+Oryzias_javanicus	ell2	ENSOJAG00000001041	GTF	NA
+Oryzias_javanicus	ddx20	ENSOJAG00000001145	RNA helicase	NA
+Oryzias_javanicus	dnmt3bb.1	ENSOJAG00000001191	DNA_methylase	NA
+Oryzias_javanicus	si:ch73-60h1.1	ENSOJAG00000001206	CAMK	NA
+Oryzias_javanicus	MSL3	ENSOJAG00000001221	Others	NA
+Oryzias_javanicus	pfdn5	ENSOJAG00000001243	Others	NA
+Oryzias_javanicus	phf19	ENSOJAG00000001271	PHF	NA
+Oryzias_javanicus	ldb1b	ENSOJAG00000001294	LIM	NA
+Oryzias_javanicus	caskb	ENSOJAG00000001306	CAMK	NA
+Oryzias_javanicus	ikbkb	ENSOJAG00000001342	Others	NA
+Oryzias_javanicus	ciita	ENSOJAG00000001368	Others	NA
+Oryzias_javanicus	chd1l	ENSOJAG00000001382	CHD	NA
+Oryzias_javanicus	pdcd4b	ENSOJAG00000001439	Others	NA
+Oryzias_javanicus	dr1	ENSOJAG00000001463	Others	NA
+Oryzias_javanicus	malt1	ENSOJAG00000001536	Others	NA
+Oryzias_javanicus	aatf	ENSOJAG00000001555	Others	NA
+Oryzias_javanicus	sirt7	ENSOJAG00000001605	Sirtuin	NA
+Oryzias_javanicus	maml1	ENSOJAG00000001607	MAML	NA
+Oryzias_javanicus		ENSOJAG00000001632	Others	NA
+Oryzias_javanicus	sirt2	ENSOJAG00000001657	Sirtuin	NA
+Oryzias_javanicus	nlk2	ENSOJAG00000001725	Others	NA
+Oryzias_javanicus	PELI1	ENSOJAG00000001747	Others	NA
+Oryzias_javanicus	kat8	ENSOJAG00000001801	Lysine acetyltransferase	NA
+Oryzias_javanicus	chd9	ENSOJAG00000001803	CHD	NA
+Oryzias_javanicus	eya3	ENSOJAG00000001877	EYA	NA
+Oryzias_javanicus	rnf25	ENSOJAG00000001894	Ring finger protein	NA
+Oryzias_javanicus	slc25a15b	ENSOJAG00000001916	SLC	NA
+Oryzias_javanicus	sqstm1	ENSOJAG00000001920	Others	NA
+Oryzias_javanicus		ENSOJAG00000001941	Ring finger protein	NA
+Oryzias_javanicus	taf6	ENSOJAG00000002004	TATA-box	NA
+Oryzias_javanicus	sirt3	ENSOJAG00000002130	Sirtuin	NA
+Oryzias_javanicus	hif1an	ENSOJAG00000002132	Others	NA
+Oryzias_javanicus	top1	ENSOJAG00000002142	Other_CRF	NA
+Oryzias_javanicus	jade1	ENSOJAG00000002179	Others	NA
+Oryzias_javanicus	dnaja3a	ENSOJAG00000002197	Others	NA
+Oryzias_javanicus	ctnnb1	ENSOJAG00000002203	Casein	NA
+Oryzias_javanicus	bcl9l	ENSOJAG00000002342	BCL	NA
+Oryzias_javanicus	med8	ENSOJAG00000002355	Mediator complex	NA
+Oryzias_javanicus	SCMH1	ENSOJAG00000002358	Others	NA
+Oryzias_javanicus	drap1	ENSOJAG00000002363	Others	NA
+Oryzias_javanicus	hipk3a	ENSOJAG00000002377	HIPK	NA
+Oryzias_javanicus	MED18	ENSOJAG00000002431	Mediator complex	NA
+Oryzias_javanicus	anp32b	ENSOJAG00000002470	ANP	NA
+Oryzias_javanicus	med30	ENSOJAG00000002562	Mediator complex	NA
+Oryzias_javanicus	egln2	ENSOJAG00000002604	Others	NA
+Oryzias_javanicus		ENSOJAG00000002611	SWI/SNF	NA
+Oryzias_javanicus	abrab	ENSOJAG00000002667	Actin	NA
+Oryzias_javanicus	apbb2b	ENSOJAG00000002694	Others	NA
+Oryzias_javanicus	nelfa	ENSOJAG00000002713	GTF	NA
+Oryzias_javanicus		ENSOJAG00000002737	Others	NA
+Oryzias_javanicus		ENSOJAG00000002742	Transducin	NA
+Oryzias_javanicus	CSNK2A2	ENSOJAG00000002843	Casein	NA
+Oryzias_javanicus	trak1a	ENSOJAG00000002861	Others	NA
+Oryzias_javanicus		ENSOJAG00000002882	Others	NA
+Oryzias_javanicus	mms19	ENSOJAG00000002890	Others	NA
+Oryzias_javanicus	ppargc1b	ENSOJAG00000002980	Others	NA
+Oryzias_javanicus	nod2	ENSOJAG00000003016	Others	NA
+Oryzias_javanicus	elp1	ENSOJAG00000003026	ELP	NA
+Oryzias_javanicus	tada3l	ENSOJAG00000003061	Transcriptional adaptor	NA
+Oryzias_javanicus	brip1	ENSOJAG00000003067	Others	NA
+Oryzias_javanicus	pa2g4a	ENSOJAG00000003091	Others	NA
+Oryzias_javanicus		ENSOJAG00000003111	Others	NA
+Oryzias_javanicus	nab1a	ENSOJAG00000003138	Others	NA
+Oryzias_javanicus	aip	ENSOJAG00000003163	Others	NA
+Oryzias_javanicus		ENSOJAG00000003221	Zinc finger	NA
+Oryzias_javanicus	brd7	ENSOJAG00000003227	Bromodomain	NA
+Oryzias_javanicus		ENSOJAG00000003245	Others	NA
+Oryzias_javanicus	bcas3	ENSOJAG00000003258	Others	NA
+Oryzias_javanicus	vhl	ENSOJAG00000003270	Others	NA
+Oryzias_javanicus	PCGF3	ENSOJAG00000003363	PCGF	NA
+Oryzias_javanicus	alyref	ENSOJAG00000003401	Others	NA
+Oryzias_javanicus	ruvbl1	ENSOJAG00000003481	Other_CRF	NA
+Oryzias_javanicus	gtf2h1	ENSOJAG00000003502	GTF	NA
+Oryzias_javanicus		ENSOJAG00000003513	Others	NA
+Oryzias_javanicus	zmym2	ENSOJAG00000003553	Zinc finger	NA
+Oryzias_javanicus		ENSOJAG00000003565	Others	NA
+Oryzias_javanicus	psen1	ENSOJAG00000003635	Others	NA
+Oryzias_javanicus	pir	ENSOJAG00000003641	Others	NA
+Oryzias_javanicus	dpy30	ENSOJAG00000003649	Others	NA
+Oryzias_javanicus	vgll2b	ENSOJAG00000003650	Vestigial like	NA
+Oryzias_javanicus	lgals8a	ENSOJAG00000003728	Others	NA
+Oryzias_javanicus	smurf2	ENSOJAG00000003743	Others	NA
+Oryzias_javanicus	tnni2a.1	ENSOJAG00000003772	Others	NA
+Oryzias_javanicus	cthl	ENSOJAG00000003775	Others	NA
+Oryzias_javanicus	ttf2	ENSOJAG00000003856	Others	NA
+Oryzias_javanicus	prpf6	ENSOJAG00000003868	Others	NA
+Oryzias_javanicus	tgfb3	ENSOJAG00000003928	Others	NA
+Oryzias_javanicus	sap30bp	ENSOJAG00000003993	SAP	NA
+Oryzias_javanicus	abt1	ENSOJAG00000003999	Others	NA
+Oryzias_javanicus	kat5b	ENSOJAG00000004100	Lysine acetyltransferase	NA
+Oryzias_javanicus	FAM83G	ENSOJAG00000004134	FAM	NA
+Oryzias_javanicus	cbx3a	ENSOJAG00000004172	Chromobox	NA
+Oryzias_javanicus	brf1b	ENSOJAG00000004203	GTF	NA
+Oryzias_javanicus		ENSOJAG00000004290	Others	NA
+Oryzias_javanicus	TADA1	ENSOJAG00000004296	Transcriptional adaptor	NA
+Oryzias_javanicus	xrcc6	ENSOJAG00000004317	Others	NA
+Oryzias_javanicus	brdt	ENSOJAG00000004318	Bromodomain	NA
+Oryzias_javanicus	hdac6	ENSOJAG00000004339	Histone deacetylase	NA
+Oryzias_javanicus	supt16h	ENSOJAG00000004361	SUPT	NA
+Oryzias_javanicus	DDX5	ENSOJAG00000004468	RNA helicase	NA
+Oryzias_javanicus	rrn3	ENSOJAG00000004581	Others	NA
+Oryzias_javanicus	setd7	ENSOJAG00000004584	SET	NA
+Oryzias_javanicus	rbmx	ENSOJAG00000004624	RNA binding protein	NA
+Oryzias_javanicus	hdac4	ENSOJAG00000004660	Histone deacetylase	NA
+Oryzias_javanicus	vgll3	ENSOJAG00000004830	Vestigial like	NA
+Oryzias_javanicus		ENSOJAG00000004926	TATA-box	NA
+Oryzias_javanicus	polr3f	ENSOJAG00000004980	POLR	NA
+Oryzias_javanicus	pidd1	ENSOJAG00000005016	Others	NA
+Oryzias_javanicus	dpf2	ENSOJAG00000005030	DPF	NA
+Oryzias_javanicus	atad2	ENSOJAG00000005065	Others	NA
+Oryzias_javanicus	phf5a	ENSOJAG00000005081	PHF	NA
+Oryzias_javanicus	hltf	ENSOJAG00000005327	Others	NA
+Oryzias_javanicus	birc5a	ENSOJAG00000005361	Others	NA
+Oryzias_javanicus		ENSOJAG00000005369	Others	NA
+Oryzias_javanicus	seta	ENSOJAG00000005378	SET	NA
+Oryzias_javanicus	fgfr2	ENSOJAG00000005416	FGF	NA
+Oryzias_javanicus	esf1	ENSOJAG00000005538	Others	NA
+Oryzias_javanicus	nsd3	ENSOJAG00000005628	Nuclear receptor coactivator	NA
+Oryzias_javanicus	depdc1a	ENSOJAG00000005643	Others	NA
+Oryzias_javanicus	prmt7	ENSOJAG00000005697	Arginine methyltransferase	NA
+Oryzias_javanicus	trip11	ENSOJAG00000005767	Thyroid hormone receptor	NA
+Oryzias_javanicus	fgf2	ENSOJAG00000005830	FGF	NA
+Oryzias_javanicus		ENSOJAG00000005858	Others	NA
+Oryzias_javanicus	noc2l	ENSOJAG00000005877	Others	NA
+Oryzias_javanicus	ikbkg	ENSOJAG00000005882	Others	NA
+Oryzias_javanicus	smarcd1	ENSOJAG00000005889	SWI/SNF	NA
+Oryzias_javanicus	si:dkey-6i22.5	ENSOJAG00000005939	Others	NA
+Oryzias_javanicus	nrg2a	ENSOJAG00000006059	Others	NA
+Oryzias_javanicus	wbp2nl	ENSOJAG00000006098	WW	NA
+Oryzias_javanicus	ago2	ENSOJAG00000006102	Others	NA
+Oryzias_javanicus	pcgf1	ENSOJAG00000006122	PCGF	NA
+Oryzias_javanicus	wwp2	ENSOJAG00000006178	WW	NA
+Oryzias_javanicus	tasorb	ENSOJAG00000006193	FAM	NA
+Oryzias_javanicus	cavin1b	ENSOJAG00000006202	Others	NA
+Oryzias_javanicus	ILK	ENSOJAG00000006213	Others	NA
+Oryzias_javanicus	mycbp	ENSOJAG00000006238	MYC	NA
+Oryzias_javanicus	ddx54	ENSOJAG00000006259	RNA helicase	NA
+Oryzias_javanicus	s100s	ENSOJAG00000006354	Others	NA
+Oryzias_javanicus	ilf2	ENSOJAG00000006438	Others	NA
+Oryzias_javanicus	rtf1	ENSOJAG00000006542	Others	NA
+Oryzias_javanicus	txnipa	ENSOJAG00000006544	Others	NA
+Oryzias_javanicus	cnot10	ENSOJAG00000006575	CCR4-NOT	NA
+Oryzias_javanicus	gtf2a1l	ENSOJAG00000006631	GTF	NA
+Oryzias_javanicus	sertad2b	ENSOJAG00000006686	Others	NA
+Oryzias_javanicus	hipk2	ENSOJAG00000006728	HIPK	NA
+Oryzias_javanicus	fbxw11a	ENSOJAG00000006766	Others	NA
+Oryzias_javanicus	edf1	ENSOJAG00000006789	Others	NA
+Oryzias_javanicus	actr5	ENSOJAG00000006812	ACTR	NA
+Oryzias_javanicus	ran	ENSOJAG00000006836	Others	NA
+Oryzias_javanicus	trim25	ENSOJAG00000006856	Tripartite motif	NA
+Oryzias_javanicus	MID1IP1	ENSOJAG00000006931	Others	NA
+Oryzias_javanicus	sumo2b	ENSOJAG00000006946	Others	NA
+Oryzias_javanicus		ENSOJAG00000006976	Erbb2	NA
+Oryzias_javanicus	adrb2a	ENSOJAG00000007009	Others	NA
+Oryzias_javanicus	fgfr1a	ENSOJAG00000007080	FGF	NA
+Oryzias_javanicus	eno1a	ENSOJAG00000007095	Others	NA
+Oryzias_javanicus	pex2	ENSOJAG00000007184	Others	NA
+Oryzias_javanicus	puf60b	ENSOJAG00000007188	Others	NA
+Oryzias_javanicus	ppid	ENSOJAG00000007286	Others	NA
+Oryzias_javanicus	kdm2ab	ENSOJAG00000007358	Lysine demethylase	NA
+Oryzias_javanicus	slc19a1	ENSOJAG00000007390	SLC	NA
+Oryzias_javanicus	LIMD1	ENSOJAG00000007396	LIM	NA
+Oryzias_javanicus	chek2	ENSOJAG00000007495	Others	NA
+Oryzias_javanicus	tab1	ENSOJAG00000007600	Others	NA
+Oryzias_javanicus	PAK6	ENSOJAG00000007770	Others	NA
+Oryzias_javanicus	nrbf2b	ENSOJAG00000007807	Nuclear receptor coactivator	NA
+Oryzias_javanicus	nipbla	ENSOJAG00000007817	Others	NA
+Oryzias_javanicus		ENSOJAG00000007958	WD	NA
+Oryzias_javanicus	crtc1b	ENSOJAG00000007978	CREB	NA
+Oryzias_javanicus		ENSOJAG00000007993	Others	NA
+Oryzias_javanicus	cdkn1bb	ENSOJAG00000008003	Cyclin	NA
+Oryzias_javanicus	FHL2	ENSOJAG00000008063	FHL	NA
+Oryzias_javanicus	trim37	ENSOJAG00000008065	Tripartite motif	NA
+Oryzias_javanicus	dscama	ENSOJAG00000008078	Others	NA
+Oryzias_javanicus	gtf2h2	ENSOJAG00000008085	GTF	NA
+Oryzias_javanicus	lin54	ENSOJAG00000008114	Others	NA
+Oryzias_javanicus	syk	ENSOJAG00000008137	Others	NA
+Oryzias_javanicus	gsk3ba	ENSOJAG00000008148	Others	NA
+Oryzias_javanicus	SNIP1	ENSOJAG00000008177	Others	NA
+Oryzias_javanicus	hck	ENSOJAG00000008197	Others	NA
+Oryzias_javanicus	cnot3a	ENSOJAG00000008263	CCR4-NOT	NA
+Oryzias_javanicus	mbtd1	ENSOJAG00000008292	Others	NA
+Oryzias_javanicus	hells	ENSOJAG00000008349	Others	NA
+Oryzias_javanicus	fhl3a	ENSOJAG00000008350	FHL	NA
+Oryzias_javanicus	brms1lb	ENSOJAG00000008362	Other_CRF	NA
+Oryzias_javanicus	nfkbiaa	ENSOJAG00000008392	NFKB associated	NA
+Oryzias_javanicus	gmnn	ENSOJAG00000008400	Others	NA
+Oryzias_javanicus	calr	ENSOJAG00000008445	Others	NA
+Oryzias_javanicus	tdp2b	ENSOJAG00000008455	Others	NA
+Oryzias_javanicus	apex1	ENSOJAG00000008491	Others	NA
+Oryzias_javanicus	sirt5	ENSOJAG00000008498	Sirtuin	NA
+Oryzias_javanicus	pnrc2	ENSOJAG00000008605	Others	NA
+Oryzias_javanicus	chrac1	ENSOJAG00000008653	Other_CRF	NA
+Oryzias_javanicus	lrrc14b	ENSOJAG00000008703	Others	NA
+Oryzias_javanicus	chaf1b	ENSOJAG00000008818	Others	NA
+Oryzias_javanicus	cidec	ENSOJAG00000008864	Others	NA
+Oryzias_javanicus		ENSOJAG00000008866	Actin	NA
+Oryzias_javanicus	skia	ENSOJAG00000008868	SKI	NA
+Oryzias_javanicus	med24	ENSOJAG00000008932	Mediator complex	NA
+Oryzias_javanicus	hnrnpd	ENSOJAG00000008964	HNRNP	NA
+Oryzias_javanicus	cbx6a	ENSOJAG00000008973	Chromobox	NA
+Oryzias_javanicus	SRC	ENSOJAG00000008989	Others	NA
+Oryzias_javanicus	cnot7	ENSOJAG00000009032	CCR4-NOT	NA
+Oryzias_javanicus	abl2	ENSOJAG00000009043	Others	NA
+Oryzias_javanicus	MLLT1	ENSOJAG00000009064	GTF	NA
+Oryzias_javanicus	ascc3	ENSOJAG00000009078	ASCC	NA
+Oryzias_javanicus	csrp3	ENSOJAG00000009082	Others	NA
+Oryzias_javanicus	NCOA7	ENSOJAG00000009107	Nuclear receptor coactivator	NA
+Oryzias_javanicus		ENSOJAG00000009109	Others	NA
+Oryzias_javanicus	mrtfba	ENSOJAG00000009124	Others	NA
+Oryzias_javanicus	tnip2	ENSOJAG00000009143	Others	NA
+Oryzias_javanicus		ENSOJAG00000009186	CHD	NA
+Oryzias_javanicus	NOL11	ENSOJAG00000009204	Nuclear coactivator	NA
+Oryzias_javanicus	kdm8	ENSOJAG00000009206	Lysine demethylase	NA
+Oryzias_javanicus	btg1	ENSOJAG00000009216	Others	NA
+Oryzias_javanicus		ENSOJAG00000009217	Mediator complex	NA
+Oryzias_javanicus	ccne1	ENSOJAG00000009251	Cyclin	NA
+Oryzias_javanicus	arglu1a	ENSOJAG00000009269	Others	NA
+Oryzias_javanicus		ENSOJAG00000009294	Mediator complex	NA
+Oryzias_javanicus	bptf	ENSOJAG00000009321	Bromodomain	NA
+Oryzias_javanicus	plrg1	ENSOJAG00000009332	Others	NA
+Oryzias_javanicus	mak	ENSOJAG00000009387	Others	NA
+Oryzias_javanicus	ldb2a	ENSOJAG00000009447	LIM	NA
+Oryzias_javanicus	dact2	ENSOJAG00000009539	Others	NA
+Oryzias_javanicus	med1	ENSOJAG00000009541	Mediator complex	NA
+Oryzias_javanicus	nrip1b	ENSOJAG00000009560	Nuclear receptor coactivator	NA
+Oryzias_javanicus	rnf2	ENSOJAG00000009618	Ring finger protein	NA
+Oryzias_javanicus	ncoa4	ENSOJAG00000009677	Nuclear receptor coactivator	NA
+Oryzias_javanicus	hdac10	ENSOJAG00000009725	Histone deacetylase	NA
+Oryzias_javanicus	axin1	ENSOJAG00000009726	Others	NA
+Oryzias_javanicus	snd1	ENSOJAG00000009781	Others	NA
+Oryzias_javanicus	smarcd3b	ENSOJAG00000009827	SWI/SNF	NA
+Oryzias_javanicus	gtf2h4	ENSOJAG00000009828	GTF	NA
+Oryzias_javanicus	trip4	ENSOJAG00000009875	Thyroid hormone receptor	NA
+Oryzias_javanicus	brd1a	ENSOJAG00000009897	Bromodomain	NA
+Oryzias_javanicus	NEDD8	ENSOJAG00000009946	Others	NA
+Oryzias_javanicus		ENSOJAG00000009964	NFKB associated	NA
+Oryzias_javanicus	med6	ENSOJAG00000010025	Mediator complex	NA
+Oryzias_javanicus	csnk2a1	ENSOJAG00000010047	Casein	NA
+Oryzias_javanicus	SFMBT1	ENSOJAG00000010061	Others	NA
+Oryzias_javanicus	sin3aa	ENSOJAG00000010067	Other_CRF	NA
+Oryzias_javanicus	taf8	ENSOJAG00000010080	TATA-box	NA
+Oryzias_javanicus	ANP32E	ENSOJAG00000010139	ANP	NA
+Oryzias_javanicus	wu:fj64h06	ENSOJAG00000010150	TATA-box	NA
+Oryzias_javanicus		ENSOJAG00000010161	Others	NA
+Oryzias_javanicus	kdm4ab	ENSOJAG00000010264	Lysine demethylase	NA
+Oryzias_javanicus		ENSOJAG00000010318	Others	NA
+Oryzias_javanicus	actn1	ENSOJAG00000010349	Actin	NA
+Oryzias_javanicus		ENSOJAG00000010374	Others	NA
+Oryzias_javanicus	hexim1	ENSOJAG00000010382	Others	NA
+Oryzias_javanicus	rnf141	ENSOJAG00000010385	Ring finger protein	NA
+Oryzias_javanicus	arrb1	ENSOJAG00000010419	Others	NA
+Oryzias_javanicus	PCBD2	ENSOJAG00000010451	Others	NA
+Oryzias_javanicus	rbm15	ENSOJAG00000010585	RNA binding protein	NA
+Oryzias_javanicus	slc30a9	ENSOJAG00000010686	SLC	NA
+Oryzias_javanicus	serbp1b	ENSOJAG00000010738	Others	NA
+Oryzias_javanicus		ENSOJAG00000010750	Sirtuin	NA
+Oryzias_javanicus		ENSOJAG00000010753	Others	NA
+Oryzias_javanicus	DCAF1	ENSOJAG00000010754	Others	NA
+Oryzias_javanicus	edrf1	ENSOJAG00000010764	Others	NA
+Oryzias_javanicus	mrgbp	ENSOJAG00000010773	Others	NA
+Oryzias_javanicus	gtf2a2	ENSOJAG00000010842	GTF	NA
+Oryzias_javanicus	wdr61	ENSOJAG00000010909	WD	NA
+Oryzias_javanicus	nck1a	ENSOJAG00000010911	Others	NA
+Oryzias_javanicus	rbx1	ENSOJAG00000010942	Others	NA
+Oryzias_javanicus	CDYL2	ENSOJAG00000010983	Chromodomain Y	NA
+Oryzias_javanicus	wwc1	ENSOJAG00000011008	WW	NA
+Oryzias_javanicus	hira	ENSOJAG00000011013	Others	NA
+Oryzias_javanicus	birc2	ENSOJAG00000011039	Others	NA
+Oryzias_javanicus	htatip2	ENSOJAG00000011049	Others	NA
+Oryzias_javanicus	dhx36	ENSOJAG00000011118	RNA helicase	NA
+Oryzias_javanicus	commd1	ENSOJAG00000011177	Others	NA
+Oryzias_javanicus	tle3b	ENSOJAG00000011183	Transducin	NA
+Oryzias_javanicus	cops5	ENSOJAG00000011187	Others	NA
+Oryzias_javanicus	auts2a	ENSOJAG00000011264	Others	NA
+Oryzias_javanicus	suds3	ENSOJAG00000011299	Other_Co-activator/repressors	NA
+Oryzias_javanicus	DTX1	ENSOJAG00000011321	Others	NA
+Oryzias_javanicus	zmynd11	ENSOJAG00000011333	Zinc finger	NA
+Oryzias_javanicus	tnip1	ENSOJAG00000011334	Others	NA
+Oryzias_javanicus	fhod3a	ENSOJAG00000011425	Others	NA
+Oryzias_javanicus	raf1a	ENSOJAG00000011473	Others	NA
+Oryzias_javanicus	notch1a	ENSOJAG00000011572	Notch	NA
+Oryzias_javanicus	slc26a3.2	ENSOJAG00000011580	SLC	NA
+Oryzias_javanicus	ago1	ENSOJAG00000011585	Others	NA
+Oryzias_javanicus	pink1	ENSOJAG00000011591	Others	NA
+Oryzias_javanicus	trib1	ENSOJAG00000011629	Others	NA
+Oryzias_javanicus	picalmb	ENSOJAG00000011701	Others	NA
+Oryzias_javanicus	runx1t1	ENSOJAG00000011709	Others	NA
+Oryzias_javanicus	suv39h1a	ENSOJAG00000011716	Others	NA
+Oryzias_javanicus	lpxn	ENSOJAG00000011742	Others	NA
+Oryzias_javanicus	trappc2	ENSOJAG00000011776	Others	NA
+Oryzias_javanicus	dcc	ENSOJAG00000011803	Others	NA
+Oryzias_javanicus	pid1	ENSOJAG00000011807	Others	NA
+Oryzias_javanicus	ccar1	ENSOJAG00000011851	Others	NA
+Oryzias_javanicus	PLK1	ENSOJAG00000011874	Others	NA
+Oryzias_javanicus	hnrnpc	ENSOJAG00000011969	HNRNP	NA
+Oryzias_javanicus	arl2bp	ENSOJAG00000011989	Others	NA
+Oryzias_javanicus		ENSOJAG00000012046	Others	NA
+Oryzias_javanicus	trip13	ENSOJAG00000012057	Thyroid hormone receptor	NA
+Oryzias_javanicus	dvl2	ENSOJAG00000012069	Others	NA
+Oryzias_javanicus	mtf2	ENSOJAG00000012084	Others	NA
+Oryzias_javanicus	kat2b	ENSOJAG00000012098	Lysine acetyltransferase	NA
+Oryzias_javanicus		ENSOJAG00000012190	Arginine methyltransferase	NA
+Oryzias_javanicus	chchd2	ENSOJAG00000012222	Coiled-coil	NA
+Oryzias_javanicus	wnt3	ENSOJAG00000012236	Others	NA
+Oryzias_javanicus	prdx5	ENSOJAG00000012241	Others	NA
+Oryzias_javanicus	anp32a	ENSOJAG00000012270	ANP	NA
+Oryzias_javanicus	rpap2	ENSOJAG00000012305	Others	NA
+Oryzias_javanicus	CTDSP1	ENSOJAG00000012413	Others	NA
+Oryzias_javanicus	taf7	ENSOJAG00000012429	TATA-box	NA
+Oryzias_javanicus	skor1b	ENSOJAG00000012503	SKI	NA
+Oryzias_javanicus	med4	ENSOJAG00000012533	Mediator complex	NA
+Oryzias_javanicus	macroh2a2	ENSOJAG00000012551	Others	NA
+Oryzias_javanicus	nup98	ENSOJAG00000012558	Others	NA
+Oryzias_javanicus	CTNND1	ENSOJAG00000012605	Casein	NA
+Oryzias_javanicus	lmcd1	ENSOJAG00000012611	LIM	NA
+Oryzias_javanicus	cbx4	ENSOJAG00000012620	Chromobox	NA
+Oryzias_javanicus	LRPPRC	ENSOJAG00000012625	Others	NA
+Oryzias_javanicus	kat6b	ENSOJAG00000012645	Lysine acetyltransferase	NA
+Oryzias_javanicus	cnot8	ENSOJAG00000012677	CCR4-NOT	NA
+Oryzias_javanicus	kdm5a	ENSOJAG00000012752	Lysine demethylase	NA
+Oryzias_javanicus	snw1	ENSOJAG00000012807	Others	NA
+Oryzias_javanicus	EZH1	ENSOJAG00000012865	Others	NA
+Oryzias_javanicus	TAF4	ENSOJAG00000012903	TATA-box	NA
+Oryzias_javanicus		ENSOJAG00000012910	Others	NA
+Oryzias_javanicus	cdc73	ENSOJAG00000012923	Others	NA
+Oryzias_javanicus	DUSP26	ENSOJAG00000012931	Others	NA
+Oryzias_javanicus	med31	ENSOJAG00000012937	Mediator complex	NA
+Oryzias_javanicus	CBL	ENSOJAG00000012947	Others	NA
+Oryzias_javanicus	JAK2	ENSOJAG00000012958	Others	NA
+Oryzias_javanicus	bud31	ENSOJAG00000012994	Others	NA
+Oryzias_javanicus	ern1	ENSOJAG00000012997	Others	NA
+Oryzias_javanicus	ankra2	ENSOJAG00000013011	Ankyrin repeat	NA
+Oryzias_javanicus	btf3	ENSOJAG00000013079	Others	NA
+Oryzias_javanicus	dhx9	ENSOJAG00000013158	RNA helicase	NA
+Oryzias_javanicus	nsmce4a	ENSOJAG00000013160	EID	NA
+Oryzias_javanicus	phf21ab	ENSOJAG00000013172	PHF	NA
+Oryzias_javanicus		ENSOJAG00000013198	RNA helicase	NA
+Oryzias_javanicus	rprd1b	ENSOJAG00000013247	Others	NA
+Oryzias_javanicus	ercc3	ENSOJAG00000013253	Others	NA
+Oryzias_javanicus	myo6a	ENSOJAG00000013278	Others	NA
+Oryzias_javanicus	gtf2f1	ENSOJAG00000013318	GTF	NA
+Oryzias_javanicus	actr6	ENSOJAG00000013334	ACTR	NA
+Oryzias_javanicus	siah2l	ENSOJAG00000013474	Others	NA
+Oryzias_javanicus	gtf2a1	ENSOJAG00000013631	GTF	NA
+Oryzias_javanicus	ppargc1a	ENSOJAG00000013648	Others	NA
+Oryzias_javanicus	supt20	ENSOJAG00000013701	SUPT	NA
+Oryzias_javanicus	supt3h	ENSOJAG00000013756	SUPT	NA
+Oryzias_javanicus	prkcbp1l	ENSOJAG00000013803	Zinc finger	NA
+Oryzias_javanicus	arrb2a	ENSOJAG00000013816	Others	NA
+Oryzias_javanicus	smurf1	ENSOJAG00000013851	Others	NA
+Oryzias_javanicus	plk3	ENSOJAG00000013864	Others	NA
+Oryzias_javanicus	HDAC11	ENSOJAG00000013868	Histone deacetylase	NA
+Oryzias_javanicus	kdm4c	ENSOJAG00000013891	Lysine demethylase	NA
+Oryzias_javanicus	dgkg	ENSOJAG00000013898	Others	NA
+Oryzias_javanicus	ing4	ENSOJAG00000014015	ING	NA
+Oryzias_javanicus	orc2	ENSOJAG00000014032	Others	NA
+Oryzias_javanicus	mnat1	ENSOJAG00000014044	Others	NA
+Oryzias_javanicus	rprd1a	ENSOJAG00000014045	Others	NA
+Oryzias_javanicus	rfxap	ENSOJAG00000014056	Others	NA
+Oryzias_javanicus	ccdc59	ENSOJAG00000014057	Coiled-coil	NA
+Oryzias_javanicus	wwox	ENSOJAG00000014061	WW	NA
+Oryzias_javanicus		ENSOJAG00000014097	Thyroid hormone receptor	NA
+Oryzias_javanicus		ENSOJAG00000014114	Other_CRF	NA
+Oryzias_javanicus	mcrs1	ENSOJAG00000014218	Others	NA
+Oryzias_javanicus	ccna1	ENSOJAG00000014240	Cyclin	NA
+Oryzias_javanicus		ENSOJAG00000014311	FGF	NA
+Oryzias_javanicus	tirap	ENSOJAG00000014330	Others	NA
+Oryzias_javanicus	tob1a	ENSOJAG00000014375	Others	NA
+Oryzias_javanicus		ENSOJAG00000014412	Casein	NA
+Oryzias_javanicus	pin1	ENSOJAG00000014472	Others	NA
+Oryzias_javanicus	timeless	ENSOJAG00000014474	Others	NA
+Oryzias_javanicus	cdk5r1b	ENSOJAG00000014476	Cyclin	NA
+Oryzias_javanicus	rnf14	ENSOJAG00000014491	Ring finger protein	NA
+Oryzias_javanicus	clu	ENSOJAG00000014520	Others	NA
+Oryzias_javanicus	TLE5	ENSOJAG00000014558	Others	NA
+Oryzias_javanicus	ccnd2a	ENSOJAG00000014590	Cyclin	NA
+Oryzias_javanicus	rexo4	ENSOJAG00000014614	Others	NA
+Oryzias_javanicus	setd2	ENSOJAG00000014629	SET	NA
+Oryzias_javanicus	cdk2	ENSOJAG00000014740	Cyclin	NA
+Oryzias_javanicus	hsbp1b	ENSOJAG00000014757	Heat shock protein	NA
+Oryzias_javanicus	rap2c	ENSOJAG00000014787	Others	NA
+Oryzias_javanicus	setd1a	ENSOJAG00000014791	SET	NA
+Oryzias_javanicus	taf9	ENSOJAG00000014826	TATA-box	NA
+Oryzias_javanicus	sin3b	ENSOJAG00000014829	Others	NA
+Oryzias_javanicus	strap	ENSOJAG00000014880	Others	NA
+Oryzias_javanicus	cdk1	ENSOJAG00000014894	Cyclin	NA
+Oryzias_javanicus	tenm1	ENSOJAG00000014933	Others	NA
+Oryzias_javanicus	blm	ENSOJAG00000014939	Others	NA
+Oryzias_javanicus	sfswap	ENSOJAG00000014952	Others	NA
+Oryzias_javanicus	HINT1	ENSOJAG00000015150	Others	NA
+Oryzias_javanicus	ezh2	ENSOJAG00000015177	Others	NA
+Oryzias_javanicus	polr2a	ENSOJAG00000015228	POLR	NA
+Oryzias_javanicus	hnrnpub	ENSOJAG00000015260	HNRNP	NA
+Oryzias_javanicus	bcl10	ENSOJAG00000015265	BCL	NA
+Oryzias_javanicus	kdm5ba	ENSOJAG00000015407	Lysine demethylase	NA
+Oryzias_javanicus	scai	ENSOJAG00000015411	Others	NA
+Oryzias_javanicus	gtf2h3	ENSOJAG00000015414	GTF	NA
+Oryzias_javanicus	ino80e	ENSOJAG00000015438	INO80 complex	NA
+Oryzias_javanicus	mdm4	ENSOJAG00000015456	Others	NA
+Oryzias_javanicus	tdrd3	ENSOJAG00000015477	Others	NA
+Oryzias_javanicus	DDX39A	ENSOJAG00000015567	RNA helicase	NA
+Oryzias_javanicus	cdk9	ENSOJAG00000015604	Cyclin	NA
+Oryzias_javanicus	PER2	ENSOJAG00000015635	Others	NA
+Oryzias_javanicus	frzb	ENSOJAG00000015698	Others	NA
+Oryzias_javanicus	naca	ENSOJAG00000015717	Others	NA
+Oryzias_javanicus	gtf2b	ENSOJAG00000015718	GTF	NA
+Oryzias_javanicus	ercc2	ENSOJAG00000015767	Others	NA
+Oryzias_javanicus	prmt6	ENSOJAG00000015861	Arginine methyltransferase	NA
+Oryzias_javanicus	ccdc85b	ENSOJAG00000015944	Coiled-coil	NA
+Oryzias_javanicus	nelfcd	ENSOJAG00000015952	GTF	NA
+Oryzias_javanicus	strn3	ENSOJAG00000015993	Others	NA
+Oryzias_javanicus	rbbp5	ENSOJAG00000016005	RBBP	NA
+Oryzias_javanicus	elp3	ENSOJAG00000016009	ELP	NA
+Oryzias_javanicus	gps2	ENSOJAG00000016055	Others	NA
+Oryzias_javanicus	padi2	ENSOJAG00000016057	Other_CRF	NA
+Oryzias_javanicus	utp4	ENSOJAG00000016200	Others	NA
+Oryzias_javanicus	kmt5ab	ENSOJAG00000016201	Lysine methyltransferase	NA
+Oryzias_javanicus	lzts2b	ENSOJAG00000016216	Others	NA
+Oryzias_javanicus	sav1	ENSOJAG00000016231	Others	NA
+Oryzias_javanicus	cdk5rap3	ENSOJAG00000016281	Cyclin	NA
+Oryzias_javanicus	txlng	ENSOJAG00000016282	Others	NA
+Oryzias_javanicus	setd6	ENSOJAG00000016297	SET	NA
+Oryzias_javanicus	trim32	ENSOJAG00000016301	Tripartite motif	NA
+Oryzias_javanicus	ruvbl2	ENSOJAG00000016327	Other_CRF	NA
+Oryzias_javanicus	ssbp4	ENSOJAG00000016362	Others	NA
+Oryzias_javanicus	grip1	ENSOJAG00000016366	Others	NA
+Oryzias_javanicus		ENSOJAG00000016447	Others	NA
+Oryzias_javanicus	recql	ENSOJAG00000016459	Others	NA
+Oryzias_javanicus	vgll4b	ENSOJAG00000016510	Vestigial like	NA
+Oryzias_javanicus	med29	ENSOJAG00000016533	Mediator complex	NA
+Oryzias_javanicus	cnot6b	ENSOJAG00000016662	CCR4-NOT	NA
+Oryzias_javanicus	xrn2	ENSOJAG00000016674	Others	NA
+Oryzias_javanicus	med14	ENSOJAG00000016688	Mediator complex	NA
+Oryzias_javanicus	safb	ENSOJAG00000016731	Others	NA
+Oryzias_javanicus	dhx33	ENSOJAG00000016741	RNA helicase	NA
+Oryzias_javanicus		ENSOJAG00000016752	Others	NA
+Oryzias_javanicus	nelfb	ENSOJAG00000016769	GTF	NA
+Oryzias_javanicus	prmt2	ENSOJAG00000016781	Arginine methyltransferase	NA
+Oryzias_javanicus	hdac8	ENSOJAG00000016782	Histone deacetylase	NA
+Oryzias_javanicus	tsg101a	ENSOJAG00000016819	Others	NA
+Oryzias_javanicus	skap1	ENSOJAG00000016831	Others	NA
+Oryzias_javanicus	pabpc1l	ENSOJAG00000016862	Other_CRF	NA
+Oryzias_javanicus	brwd3	ENSOJAG00000016872	Bromodomain	NA
+Oryzias_javanicus	cited1	ENSOJAG00000016886	CITED	NA
+Oryzias_javanicus	ncoa2	ENSOJAG00000016887	Nuclear receptor coactivator	NA
+Oryzias_javanicus		ENSOJAG00000016932	Others	NA
+Oryzias_javanicus	baz1b	ENSOJAG00000016949	Bromodomain	NA
+Oryzias_javanicus	itchb	ENSOJAG00000016978	Others	NA
+Oryzias_javanicus	taf5l	ENSOJAG00000017027	TATA-box	NA
+Oryzias_javanicus	rbm39b	ENSOJAG00000017107	RNA binding protein	NA
+Oryzias_javanicus	dvl3a	ENSOJAG00000017146	Others	NA
+Oryzias_javanicus	aurkb	ENSOJAG00000017151	Others	NA
+Oryzias_javanicus	kank1b	ENSOJAG00000017260	Others	NA
+Oryzias_javanicus	lin9	ENSOJAG00000017273	Others	NA
+Oryzias_javanicus	ankrd1a	ENSOJAG00000017280	Ankyrin repeat	NA
+Oryzias_javanicus	pcgf5a	ENSOJAG00000017294	PCGF	NA
+Oryzias_javanicus	eya1	ENSOJAG00000017309	EYA	NA
+Oryzias_javanicus	frk	ENSOJAG00000017360	Others	NA
+Oryzias_javanicus	si:ch211-219a4.3	ENSOJAG00000017395	PARP	NA
+Oryzias_javanicus	YWHAB	ENSOJAG00000017435	Others	NA
+Oryzias_javanicus	park7	ENSOJAG00000017454	Others	NA
+Oryzias_javanicus	anxa4	ENSOJAG00000017458	Others	NA
+Oryzias_javanicus	SMARCB1	ENSOJAG00000017471	SWI/SNF	NA
+Oryzias_javanicus	snx6	ENSOJAG00000017479	Others	NA
+Oryzias_javanicus	dab2	ENSOJAG00000017484	Others	NA
+Oryzias_javanicus	ino80c	ENSOJAG00000017534	INO80 complex	NA
+Oryzias_javanicus	taf10	ENSOJAG00000017538	TATA-box	NA
+Oryzias_javanicus	chd2	ENSOJAG00000017547	CHD	NA
+Oryzias_javanicus	creg1	ENSOJAG00000017607	Others	NA
+Oryzias_javanicus	sap30l	ENSOJAG00000017612	SAP	NA
+Oryzias_javanicus	cnot6l	ENSOJAG00000017630	CCR4-NOT	NA
+Oryzias_javanicus	med28	ENSOJAG00000017634	Mediator complex	NA
+Oryzias_javanicus	cdk12	ENSOJAG00000017645	Cyclin	NA
+Oryzias_javanicus	si:dkey-21c19.3	ENSOJAG00000017725	Others	NA
+Oryzias_javanicus	ENY2	ENSOJAG00000017753	Others	NA
+Oryzias_javanicus	smyd1b	ENSOJAG00000017823	SMYD	NA
+Oryzias_javanicus	pphln1	ENSOJAG00000017967	Others	NA
+Oryzias_javanicus	s100a10b	ENSOJAG00000017997	Others	NA
+Oryzias_javanicus	brf2	ENSOJAG00000017999	GTF	NA
+Oryzias_javanicus		ENSOJAG00000018041	Others	NA
+Oryzias_javanicus	tbpl2	ENSOJAG00000018061	TATA-box	NA
+Oryzias_javanicus	calcoco1a	ENSOJAG00000018097	Others	NA
+Oryzias_javanicus	rbb4l	ENSOJAG00000018141	RBBP	NA
+Oryzias_javanicus	ctr9	ENSOJAG00000018192	Others	NA
+Oryzias_javanicus	cbx5	ENSOJAG00000018252	Chromobox	NA
+Oryzias_javanicus	epc1a	ENSOJAG00000018322	Others	NA
+Oryzias_javanicus	trim33	ENSOJAG00000018336	Tripartite motif	NA
+Oryzias_javanicus	WAC	ENSOJAG00000018355	WW	NA
+Oryzias_javanicus	wdtc1	ENSOJAG00000018357	WD	NA
+Oryzias_javanicus		ENSOJAG00000018390	Others	NA
+Oryzias_javanicus	cbfa2t2	ENSOJAG00000018411	Others	NA
+Oryzias_javanicus	meaf6	ENSOJAG00000018430	Others	NA
+Oryzias_javanicus	tcea1	ENSOJAG00000018449	TEF	NA
+Oryzias_javanicus	elp2	ENSOJAG00000018476	ELP	NA
+Oryzias_javanicus	ecd	ENSOJAG00000018618	Others	NA
+Oryzias_javanicus		ENSOJAG00000018653	TATA-box	NA
+Oryzias_javanicus	kdm2bb	ENSOJAG00000018658	Lysine demethylase	NA
+Oryzias_javanicus	sfr1	ENSOJAG00000018755	Others	NA
+Oryzias_javanicus	hspa8	ENSOJAG00000018765	Heat shock protein	NA
+Oryzias_javanicus	setd3	ENSOJAG00000018816	SET	NA
+Oryzias_javanicus	actn2b	ENSOJAG00000018839	Actin	NA
+Oryzias_javanicus		ENSOJAG00000018846	Others	NA
+Oryzias_javanicus	med23	ENSOJAG00000018898	Mediator complex	NA
+Oryzias_javanicus	SAMD4B	ENSOJAG00000018903	Others	NA
+Oryzias_javanicus	hdac7a	ENSOJAG00000018904	Histone deacetylase	NA
+Oryzias_javanicus	sufu	ENSOJAG00000018944	Others	NA
+Oryzias_javanicus	erbin	ENSOJAG00000018954	Erbb2	NA
+Oryzias_javanicus	ino80b	ENSOJAG00000018974	INO80 complex	NA
+Oryzias_javanicus	cdyl	ENSOJAG00000019021	Chromodomain Y	NA
+Oryzias_javanicus	paf1	ENSOJAG00000019086	Others	NA
+Oryzias_javanicus	pih1d1	ENSOJAG00000019180	Other_CRF	NA
+Oryzias_javanicus	egfra	ENSOJAG00000019285	Others	NA
+Oryzias_javanicus		ENSOJAG00000019292	Others	NA
+Oryzias_javanicus	CHUK	ENSOJAG00000019344	Others	NA
+Oryzias_javanicus	RNF8	ENSOJAG00000019370	Ring finger protein	NA
+Oryzias_javanicus	wnt4	ENSOJAG00000019386	Others	NA
+Oryzias_javanicus	nab2	ENSOJAG00000019405	Others	NA
+Oryzias_javanicus	npm1a	ENSOJAG00000019410	Nucleoplasmin	NA
+Oryzias_javanicus	btk	ENSOJAG00000019433	Others	NA
+Oryzias_javanicus	polr3c	ENSOJAG00000019474	POLR	NA
+Oryzias_javanicus		ENSOJAG00000019475	Others	NA
+Oryzias_javanicus	taf1a	ENSOJAG00000019506	TATA-box	NA
+Oryzias_javanicus	rnf20	ENSOJAG00000019544	Ring finger protein	NA
+Oryzias_javanicus	lpin2	ENSOJAG00000019554	LPIN	NA
+Oryzias_javanicus	med12	ENSOJAG00000019592	Mediator complex	NA
+Oryzias_javanicus	c1qbp	ENSOJAG00000019616	Others	NA
+Oryzias_javanicus	supt4h1	ENSOJAG00000019624	SUPT	NA
+Oryzias_javanicus	bend3	ENSOJAG00000019658	Others	NA
+Oryzias_javanicus	eapp	ENSOJAG00000019661	Others	NA
+Oryzias_javanicus	trim16	ENSOJAG00000019704	Tripartite motif	NA
+Oryzias_javanicus	prmt1	ENSOJAG00000019709	Arginine methyltransferase	NA
+Oryzias_javanicus	med22	ENSOJAG00000019722	Mediator complex	NA
+Oryzias_javanicus	pycard	ENSOJAG00000019756	Others	NA
+Oryzias_javanicus	pik3r1	ENSOJAG00000019765	Others	NA
+Oryzias_javanicus	pdlim1	ENSOJAG00000019801	Others	NA
+Oryzias_javanicus	ezrb	ENSOJAG00000019889	Others	NA
+Oryzias_javanicus	rnf6	ENSOJAG00000019897	Ring finger protein	NA
+Oryzias_javanicus	cdk8	ENSOJAG00000019911	Cyclin	NA
+Oryzias_javanicus		ENSOJAG00000019954	Other_CRF	NA
+Oryzias_javanicus	arhgap5	ENSOJAG00000019983	Others	NA
+Oryzias_javanicus	svild	ENSOJAG00000020073	Others	NA
+Oryzias_javanicus	ccnt2a	ENSOJAG00000020079	Cyclin	NA
+Oryzias_javanicus	ascc1	ENSOJAG00000020093	ASCC	NA
+Oryzias_javanicus	ing3	ENSOJAG00000020153	ING	NA
+Oryzias_javanicus	HYAL2	ENSOJAG00000020173	Others	NA
+Oryzias_javanicus	eya4	ENSOJAG00000020302	EYA	NA
+Oryzias_javanicus	c1d	ENSOJAG00000020345	Other_Co-activator/repressors	NA
+Oryzias_javanicus	RING1	ENSOJAG00000020355	Ring finger protein	NA
+Oryzias_javanicus	emsy	ENSOJAG00000020358	Others	NA
+Oryzias_javanicus	daxx	ENSOJAG00000020425	Other_CRF	NA
+Oryzias_javanicus	grhpra	ENSOJAG00000020433	Others	NA
+Oryzias_javanicus	tescb	ENSOJAG00000020485	Others	NA
+Oryzias_javanicus	med21	ENSOJAG00000020502	Mediator complex	NA
+Oryzias_javanicus	eaf2	ENSOJAG00000020558	Others	NA
+Oryzias_javanicus	med10	ENSOJAG00000020569	Mediator complex	NA
+Oryzias_javanicus		ENSOJAG00000020620	Others	NA
+Oryzias_javanicus	brms1	ENSOJAG00000020625	Other_CRF	NA
+Oryzias_javanicus	siva1	ENSOJAG00000020628	Others	NA
+Oryzias_javanicus	niban2b	ENSOJAG00000020765	FAM	NA
+Oryzias_javanicus	sdr16c5a	ENSOJAG00000020778	Others	NA
+Oryzias_javanicus	hnrpkl	ENSOJAG00000020818	HNRNP	NA
+Oryzias_javanicus	arhgap35b	ENSOJAG00000020821	Others	NA
+Oryzias_javanicus	cxxc1b	ENSOJAG00000020840	Others	NA
+Oryzias_javanicus	cops2	ENSOJAG00000020919	Others	NA
+Oryzias_javanicus	HDAC2	ENSOJAG00000020960	Histone deacetylase	NA
+Oryzias_javanicus	crk	ENSOJAG00000020977	Others	NA
+Oryzias_javanicus	bcl3	ENSOJAG00000020982	BCL	NA
+Oryzias_javanicus	brd2a	ENSOJAG00000020985	Bromodomain	NA
+Oryzias_javanicus	skila	ENSOJAG00000021010	SKI	NA
+Oryzias_javanicus	gnl3l	ENSOJAG00000021019	Others	NA
+Oryzias_javanicus	rgcc	ENSOJAG00000021050	Others	NA
+Oryzias_javanicus	sfmbt2	ENSOJAG00000021102	Others	NA
+Oryzias_javanicus	dmap1	ENSOJAG00000021112	DNA_methylase	NA
+Oryzias_javanicus	tbpl1	ENSOJAG00000021124	TATA-box	NA
+Oryzias_javanicus	SGK1	ENSOJAG00000021158	Others	NA
+Oryzias_javanicus	med27	ENSOJAG00000021253	Mediator complex	NA
+Oryzias_javanicus	supt7l	ENSOJAG00000021342	SUPT	NA
+Oryzias_javanicus	tab3	ENSOJAG00000021357	Others	NA
+Oryzias_javanicus	tonsl	ENSOJAG00000021364	Others	NA
+Oryzias_javanicus	lmo1	ENSOJAG00000021369	LIM	NA
+Oryzias_javanicus	actr8	ENSOJAG00000021423	ACTR	NA
+Oryzias_javanicus	egln1a	ENSOJAG00000021463	Others	NA
+Oryzias_javanicus	znf593	ENSOJAG00000021479	Zinc finger	NA
+Oryzias_javanicus	cnot9	ENSOJAG00000021505	CCR4-NOT	NA
+Oryzias_javanicus	MED20	ENSOJAG00000021516	Mediator complex	NA
+Oryzias_javanicus		ENSOJAG00000021542	Others	NA
+Oryzias_javanicus	pim1	ENSOJAG00000021597	Others	NA
+Oryzias_javanicus	loxl3b	ENSOJAG00000021607	Others	NA
+Oryzias_javanicus	KDM7A	ENSOJAG00000021647	Lysine demethylase	NA
+Oryzias_javanicus	eloca	ENSOJAG00000021648	Others	NA
+Oryzias_javanicus	wdr5	ENSOJAG00000021711	WD	NA
+Oryzias_javanicus	thoc5	ENSOJAG00000021718	Others	NA
+Oryzias_javanicus	TENM2	ENSOJAG00000021800	Others	NA
+Oryzias_javanicus	HMOX1	ENSOJAG00000021814	Others	NA
+Oryzias_javanicus	dapk3	ENSOJAG00000021853	Others	NA
+Oryzias_javanicus	ralgapa2	ENSOJAG00000021869	Others	NA
+Oryzias_javanicus	hcls1	ENSOJAG00000021881	Others	NA
+Oryzias_javanicus	ctbp2a	ENSOJAG00000021893	Others	NA
+Oryzias_javanicus	supt6h	ENSOJAG00000022036	SUPT	NA
+Oryzias_javanicus	loxl2b	ENSOJAG00000022058	Others	NA
+Oryzias_javanicus	znf503	ENSOJAG00000022069	Zinc finger	NA
+Oryzias_javanicus	NAA15	ENSOJAG00000022103	Others	NA
+Oryzias_javanicus	insra	ENSOJAG00000022139	Others	NA
+Oryzias_javanicus	suz12b	ENSOJAG00000022167	Others	NA
+Oryzias_javanicus	lbh	ENSOJAG00000022244	Others	NA
+Oryzias_javanicus	rnf10	ENSOJAG00000022251	Ring finger protein	NA
+Oryzias_javanicus	ogt.1	ENSOJAG00000022272	Others	NA
+Oryzias_javanicus	smarcd2	ENSOJAG00000022347	SWI/SNF	NA
+Oryzias_javanicus	smarcad1a	ENSOJAG00000022387	SWI/SNF	NA
+Oryzias_javanicus	stk3	ENSOJAG00000022419	Others	NA
+Oryzias_javanicus	pex14	ENSOJAG00000022482	Others	NA
+Oryzias_javanicus	nudt5	ENSOJAG00000022483	Other_CRF	NA
+Oryzias_javanicus	tbp	ENSOJAG00000022509	TATA-box	NA
+Oryzias_javanicus	phf10	ENSOJAG00000022562	PHF	NA
+Oryzias_javanicus		ENSOJAG00000022601	DPF	NA
+Oryzias_javanicus	taf2	ENSOJAG00000022633	TATA-box	NA
+Oryzias_javanicus	ino80da	ENSOJAG00000022689	INO80 complex	NA
+Oryzias_javanicus	med7	ENSOJAG00000022709	Mediator complex	NA
+Oryzias_javanicus	rnf111	ENSOJAG00000022800	Ring finger protein	NA
+Oryzias_javanicus		ENSOJAG00000022806	Transducin	NA
+Oryzias_javanicus	eed	ENSOJAG00000022814	Others	NA
+Oryzias_javanicus	sltm	ENSOJAG00000022834	Others	NA
+Oryzias_javanicus	phf20a	ENSOJAG00000022842	PHF	NA
+Oryzias_javanicus		ENSOJAG00000022864	MAML	NA
+Oryzias_javanicus	yap1	ENSOJAG00000022872	Others	NA
+Oryzias_javanicus	smyd2a	ENSOJAG00000022875	SMYD	NA
+Oryzias_javanicus		ENSOJAG00000022898	CENP	NA
+Oryzias_javanicus	cdk7	ENSOJAG00000022943	Cyclin	NA
+Oryzias_javanicus	erbb2	ENSOJAG00000022944	Erbb2	NA
+Oryzias_javanicus	lancl2	ENSOJAG00000022949	Others	NA
+Oryzias_javanicus	ctnnbip1	ENSOJAG00000022958	Casein	NA
+Oryzias_javanicus	phf8	ENSOJAG00000022991	PHF	NA
+Oryzias_javanicus		ENSOJAG00000022992	Actin	NA
+Oryzias_javanicus	gtf2h5	ENSOJAG00000023015	GTF	NA
+Oryzias_javanicus	si:ch73-21k16.1	ENSOJAG00000023026	LPIN	NA
+Oryzias_javanicus	JMY	ENSOJAG00000023052	Others	NA
+Oryzias_javanicus	rad21a	ENSOJAG00000023068	Others	NA
+Oryzias_javanicus	ehmt1b	ENSOJAG00000023108	Histone lysine methyltransferase	NA
+Oryzias_javanicus	kdm1a	ENSOJAG00000023141	Lysine demethylase	NA
+Oryzias_javanicus	CNOT2	ENSOJAG00000023176	CCR4-NOT	NA
+Oryzias_javanicus	trim8b	ENSOJAG00000023177	Tripartite motif	NA
+Oryzias_javanicus	hcfc2	ENSOJAG00000023233	Others	NA
+Oryzias_javanicus	nrip2	ENSOJAG00000023325	Nuclear coactivator	NA
+Oryzias_javanicus	cnot11	ENSOJAG00000023404	CCR4-NOT	NA
+Oryzias_javanicus	tfb2m	ENSOJAG00000023405	Others	NA
+Oryzias_javanicus	ccnc	ENSOJAG00000023411	Cyclin	NA
+Oryzias_javanicus	SMYD3	ENSOJAG00000023415	SMYD	NA
+Oryzias_javanicus	med17	ENSOJAG00000023469	Mediator complex	NA
+Oryzias_javanicus	TGFB1I1	ENSOJAG00000023561	Others	NA
+Oryzias_javanicus	H2AZ1	ENSOJAG00000023617	Others	NA
+Oryzias_javanicus	cry1a	ENSOJAG00000023629	Others	NA
+Oryzias_javanicus	bmi1a	ENSOJAG00000023664	Others	NA
+Oryzias_javanicus	taf6l	ENSOJAG00000023666	TATA-box	NA
+Oryzias_javanicus	pawr	ENSOJAG00000023718	Others	NA
+Oryzias_javanicus	dpf1	ENSOJAG00000023734	DPF	NA
+Oryzias_javanicus	pagr1	ENSOJAG00000023747	Others	NA
+Oryzias_javanicus	nif3l1	ENSOJAG00000023765	Others	NA
+Oryzias_javanicus	CIR1	ENSOJAG00000023810	Other_Co-activator/repressors	NA
+Oryzias_javanicus		ENSOJAG00000023825	Others	NA
+Oryzias_javanicus		ENSOJAG00000023864	Others	NA
+Oryzias_javanicus	hat1	ENSOJAG00000023876	Others	NA
+Oryzias_javanicus		ENSOJAG00000023881	TATA-box	NA
+Oryzias_javanicus	rb1	ENSOJAG00000023889	Other_Co-activator/repressors	NA
+Oryzias_javanicus	sirt6	ENSOJAG00000023891	Sirtuin	NA
+Oryzias_javanicus	taf11	ENSOJAG00000023920	TATA-box	NA
+Oryzias_javanicus		ENSOJAG00000023937	MBD	NA
+Oryzias_javanicus		ENSOJAG00000023985	Tripartite motif	NA
+Oryzias_javanicus	NDUFA13	ENSOJAG00000023992	Others	NA
+Oryzias_javanicus	tradd	ENSOJAG00000024004	Others	NA
+Oryzias_javanicus	men1	ENSOJAG00000024031	Others	NA
+Oryzias_javanicus	sf1	ENSOJAG00000024050	Others	NA
+Oryzias_javanicus	MED11	ENSOJAG00000024055	Mediator complex	NA
+Oryzias_javanicus	kdm4b	ENSOJAG00000024062	Lysine demethylase	NA
+Oryzias_javanicus	ncl	ENSOJAG00000024151	Others	NA

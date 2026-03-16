@@ -1,0 +1,964 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Cricetulus_griseus	Tcea2	ENSCGRG00001000049	TEF	NA
+Cricetulus_griseus	Rad21	ENSCGRG00001000050	Others	NA
+Cricetulus_griseus	Nono	ENSCGRG00001000065	Others	100757453
+Cricetulus_griseus	Atad2	ENSCGRG00001000084	Others	NA
+Cricetulus_griseus	Loxl2	ENSCGRG00001000163	Others	100771343
+Cricetulus_griseus	Brf1	ENSCGRG00001000222	GTF	100753600
+Cricetulus_griseus	Utf1	ENSCGRG00001000232	Others	100770383
+Cricetulus_griseus	Trak1	ENSCGRG00001000246	Others	NA
+Cricetulus_griseus	Padi4	ENSCGRG00001000267	Others	NA
+Cricetulus_griseus	Mphosph8	ENSCGRG00001000268	Others	100752223
+Cricetulus_griseus	Taf3	ENSCGRG00001000287	TATA-box	100760532
+Cricetulus_griseus	Skor1	ENSCGRG00001000300	SKI	100760389
+Cricetulus_griseus	Baz1b	ENSCGRG00001000343	Bromodomain	100760864
+Cricetulus_griseus	Erbb2	ENSCGRG00001000353	Erbb2	100759983
+Cricetulus_griseus	Pcbd1	ENSCGRG00001000360	Others	100767749
+Cricetulus_griseus	Taf6	ENSCGRG00001000372	TATA-box	100775090
+Cricetulus_griseus	Tdp2	ENSCGRG00001000384	Others	100764160
+Cricetulus_griseus	Ino80b	ENSCGRG00001000403	INO80 complex	100764793
+Cricetulus_griseus	Lzts1	ENSCGRG00001000408	Others	100773219
+Cricetulus_griseus	Padi2	ENSCGRG00001000413	Other_CRF	NA
+Cricetulus_griseus	Ripk3	ENSCGRG00001000461	Others	NA
+Cricetulus_griseus	Nmi	ENSCGRG00001000480	Others	100771173
+Cricetulus_griseus	Pycard	ENSCGRG00001000516	Others	100757158
+Cricetulus_griseus	Strn3	ENSCGRG00001000550	Others	NA
+Cricetulus_griseus	Chek2	ENSCGRG00001000569	Others	100769280
+Cricetulus_griseus	Brms1	ENSCGRG00001000593	Other_CRF	100762549
+Cricetulus_griseus	Sfmbt1	ENSCGRG00001000631	Others	100752971
+Cricetulus_griseus	Ctbp1	ENSCGRG00001000660	Others	100766703
+Cricetulus_griseus	Lpin1	ENSCGRG00001000692	LPIN	100689029
+Cricetulus_griseus	Hspa1l	ENSCGRG00001000703	Heat shock protein	100760804
+Cricetulus_griseus	Srfbp1	ENSCGRG00001000718	Others	100773240
+Cricetulus_griseus	Taf11	ENSCGRG00001000736	TATA-box	100758577
+Cricetulus_griseus	Pelp1	ENSCGRG00001000840	Others	100775022
+Cricetulus_griseus	Cnot3	ENSCGRG00001000855	CCR4-NOT	100765854
+Cricetulus_griseus	Med14	ENSCGRG00001000873	Mediator complex	NA
+Cricetulus_griseus	Fhit	ENSCGRG00001000886	Others	100755382
+Cricetulus_griseus	Ascc3	ENSCGRG00001000918	ASCC	100762460
+Cricetulus_griseus	Rai1	ENSCGRG00001000952	Others	100768243
+Cricetulus_griseus	Tfb2m	ENSCGRG00001000953	Others	100765415
+Cricetulus_griseus		ENSCGRG00001000991	TEF	NA
+Cricetulus_griseus	Rbm15	ENSCGRG00001001004	RNA binding protein	100764622
+Cricetulus_griseus	Gmnn	ENSCGRG00001001079	Others	100689393
+Cricetulus_griseus	Eaf2	ENSCGRG00001001162	Others	100765712
+Cricetulus_griseus	Ascc2	ENSCGRG00001001194	ASCC	100775056
+Cricetulus_griseus	Jade1	ENSCGRG00001001195	Others	100772857
+Cricetulus_griseus	Arhgef5	ENSCGRG00001001249	Others	NA
+Cricetulus_griseus	Pqbp1	ENSCGRG00001001371	Others	100762531
+Cricetulus_griseus	Tbp	ENSCGRG00001001372	TATA-box	100751579
+Cricetulus_griseus	Bmi1	ENSCGRG00001001400	Others	100754672
+Cricetulus_griseus	Pttg1	ENSCGRG00001001415	Others	100765630
+Cricetulus_griseus	Cry1	ENSCGRG00001001431	Others	NA
+Cricetulus_griseus	Eloc	ENSCGRG00001001449	Others	100757872
+Cricetulus_griseus	Sirt6	ENSCGRG00001001515	Sirtuin	100760117
+Cricetulus_griseus	Rrn3	ENSCGRG00001001530	Others	100751564
+Cricetulus_griseus	Fhod3	ENSCGRG00001001610	Others	NA
+Cricetulus_griseus	Ddx39a	ENSCGRG00001001611	RNA helicase	100752425
+Cricetulus_griseus		ENSCGRG00001001629	SET	100766742
+Cricetulus_griseus	Pygo2	ENSCGRG00001001671	Others	100759420
+Cricetulus_griseus	Vgll4	ENSCGRG00001001705	Vestigial like	100753837
+Cricetulus_griseus	Sertad3	ENSCGRG00001001744	Others	100764273
+Cricetulus_griseus	Vgll1	ENSCGRG00001001771	Vestigial like	NA
+Cricetulus_griseus	Phf19	ENSCGRG00001001795	PHF	100756504
+Cricetulus_griseus	Fam83g	ENSCGRG00001001951	FAM	113836800
+Cricetulus_griseus		ENSCGRG00001001985	Nucleoplasmin	100761791
+Cricetulus_griseus	Ring1	ENSCGRG00001001992	Ring finger protein	100766521
+Cricetulus_griseus	Sirt7	ENSCGRG00001002007	Sirtuin	100757186
+Cricetulus_griseus	Polr3f	ENSCGRG00001002032	POLR	100766844
+Cricetulus_griseus	Ehmt1	ENSCGRG00001002035	Histone lysine methyltransferase	100754544
+Cricetulus_griseus	Elp3	ENSCGRG00001002047	ELP	100771722
+Cricetulus_griseus		ENSCGRG00001002091	Others	NA
+Cricetulus_griseus	Arhgap5	ENSCGRG00001002196	Others	100765474
+Cricetulus_griseus	Crtc1	ENSCGRG00001002202	CREB	100766676
+Cricetulus_griseus	Npm2	ENSCGRG00001002208	Nucleoplasmin	100764312
+Cricetulus_griseus	Eed	ENSCGRG00001002220	Others	100764182
+Cricetulus_griseus	Wdr77	ENSCGRG00001002232	WD	NA
+Cricetulus_griseus	Safb	ENSCGRG00001002254	Others	100771098
+Cricetulus_griseus	Hexim1	ENSCGRG00001002270	Others	100760203
+Cricetulus_griseus	Smarca2	ENSCGRG00001002323	SWI/SNF	NA
+Cricetulus_griseus	Taf8	ENSCGRG00001002329	TATA-box	100766320
+Cricetulus_griseus	Abt1	ENSCGRG00001002467	Others	NA
+Cricetulus_griseus	Pcgf1	ENSCGRG00001002493	PCGF	100761496
+Cricetulus_griseus	Sap30	ENSCGRG00001002497	SAP	100763782
+Cricetulus_griseus	Asxl1	ENSCGRG00001002670	Others	100761070
+Cricetulus_griseus	Chd6	ENSCGRG00001002694	CHD	100770276
+Cricetulus_griseus	Cdyl	ENSCGRG00001002703	Chromodomain Y	100763740
+Cricetulus_griseus	Mtor	ENSCGRG00001002776	Others	100755421
+Cricetulus_griseus	Rbpms	ENSCGRG00001002814	RNA binding protein	100758259
+Cricetulus_griseus	Med12l	ENSCGRG00001002841	Mediator complex	NA
+Cricetulus_griseus	Csnk2a2	ENSCGRG00001002993	Casein	100763424
+Cricetulus_griseus	Atxn7l3	ENSCGRG00001003041	Others	100754412
+Cricetulus_griseus	Hck	ENSCGRG00001003070	Others	NA
+Cricetulus_griseus	Thrap3	ENSCGRG00001003105	Thyroid hormone receptor	100758746
+Cricetulus_griseus	Phip	ENSCGRG00001003114	Others	NA
+Cricetulus_griseus	Hdac4	ENSCGRG00001003116	Histone deacetylase	100767877
+Cricetulus_griseus	Ern1	ENSCGRG00001003211	Others	100750680
+Cricetulus_griseus	Brd7	ENSCGRG00001003449	Bromodomain	100758832
+Cricetulus_griseus	Polr2a	ENSCGRG00001003538	POLR	NA
+Cricetulus_griseus	Trip13	ENSCGRG00001003568	Thyroid hormone receptor	100761136
+Cricetulus_griseus	Malt1	ENSCGRG00001003593	Others	100770557
+Cricetulus_griseus	Med7	ENSCGRG00001003660	Mediator complex	100767208
+Cricetulus_griseus	Sf1	ENSCGRG00001003677	Others	100760817
+Cricetulus_griseus	Taf4b	ENSCGRG00001003694	TATA-box	100768814
+Cricetulus_griseus	Dvl2	ENSCGRG00001003711	Others	100762587
+Cricetulus_griseus	Med6	ENSCGRG00001003723	Mediator complex	100762349
+Cricetulus_griseus	Rbbp8	ENSCGRG00001003771	RBBP	100765239
+Cricetulus_griseus	Pnrc1	ENSCGRG00001003862	Others	113834406
+Cricetulus_griseus	Senp1	ENSCGRG00001003916	Others	100754744
+Cricetulus_griseus	Lmo2	ENSCGRG00001003942	LIM	100773201
+Cricetulus_griseus	Phf10	ENSCGRG00001004025	PHF	100773896
+Cricetulus_griseus	Nfkbib	ENSCGRG00001004264	NFKB associated	100769201
+Cricetulus_griseus	Anp32b	ENSCGRG00001004334	ANP	100767552
+Cricetulus_griseus	Mdm4	ENSCGRG00001004339	Others	100752007
+Cricetulus_griseus	Hnrnpc	ENSCGRG00001004415	HNRNP	100751290
+Cricetulus_griseus	Med29	ENSCGRG00001004443	Mediator complex	100772644
+Cricetulus_griseus	Ezh1	ENSCGRG00001004522	Others	NA
+Cricetulus_griseus	Trim6	ENSCGRG00001004562	Tripartite motif	NA
+Cricetulus_griseus	Zmynd11	ENSCGRG00001004629	Zinc finger	100753657
+Cricetulus_griseus	Kmt2d	ENSCGRG00001004692	Lysine methyltransferase	NA
+Cricetulus_griseus	Ssbp3	ENSCGRG00001004797	Others	100770485
+Cricetulus_griseus	Taf1d	ENSCGRG00001004962	TATA-box	NA
+Cricetulus_griseus		ENSCGRG00001004976	Other_CRF	NA
+Cricetulus_griseus	Setd2	ENSCGRG00001005038	SET	100765637
+Cricetulus_griseus	Med9	ENSCGRG00001005101	Mediator complex	100767374
+Cricetulus_griseus	Mcrs1	ENSCGRG00001005113	Others	100761535
+Cricetulus_griseus		ENSCGRG00001005128	Others	100769194
+Cricetulus_griseus	Cdk7	ENSCGRG00001005183	Cyclin	100769780
+Cricetulus_griseus	Mtpn	ENSCGRG00001005201	Others	100772730
+Cricetulus_griseus	Magea9	ENSCGRG00001005254	MAGE	100771813
+Cricetulus_griseus	Fgf10	ENSCGRG00001005274	FGF	100751051
+Cricetulus_griseus		ENSCGRG00001005313	TATA-box	100768389
+Cricetulus_griseus	Nudt5	ENSCGRG00001005315	Other_CRF	100772118
+Cricetulus_griseus	Strap	ENSCGRG00001005322	Others	100751262
+Cricetulus_griseus	Hat1	ENSCGRG00001005351	Others	100768382
+Cricetulus_griseus	Lmo1	ENSCGRG00001005443	LIM	100768173
+Cricetulus_griseus	Polr3c	ENSCGRG00001005471	POLR	100752999
+Cricetulus_griseus	Aatf	ENSCGRG00001005527	Others	100758164
+Cricetulus_griseus	Med26	ENSCGRG00001005532	Mediator complex	100755356
+Cricetulus_griseus	Eno2	ENSCGRG00001005536	Others	NA
+Cricetulus_griseus	Tcerg1	ENSCGRG00001005553	TEF	100763776
+Cricetulus_griseus	Sra1	ENSCGRG00001005557	Others	100753253
+Cricetulus_griseus		ENSCGRG00001005609	PHF	100767411
+Cricetulus_griseus	Jup	ENSCGRG00001005618	Others	100760007
+Cricetulus_griseus	Tdg	ENSCGRG00001005837	Others	100772748
+Cricetulus_griseus	Thrsp	ENSCGRG00001006063	Others	100766732
+Cricetulus_griseus	Trim32	ENSCGRG00001006161	Tripartite motif	100750407
+Cricetulus_griseus	Lbh	ENSCGRG00001006188	Others	100754182
+Cricetulus_griseus	Gtf2f1	ENSCGRG00001006209	GTF	100762222
+Cricetulus_griseus	Snapc2	ENSCGRG00001006223	Others	100759063
+Cricetulus_griseus	Sufu	ENSCGRG00001006263	Others	100753058
+Cricetulus_griseus		ENSCGRG00001006277	Others	100769758
+Cricetulus_griseus	Zmym5	ENSCGRG00001006520	Zinc finger	100751650
+Cricetulus_griseus	Cbfa2t3	ENSCGRG00001006537	Others	100764900
+Cricetulus_griseus	Per2	ENSCGRG00001006630	Others	100772001
+Cricetulus_griseus	Kmt5c	ENSCGRG00001006665	Lysine methyltransferase	100772952
+Cricetulus_griseus	Parp14	ENSCGRG00001006699	PARP	100758989
+Cricetulus_griseus	Ell3	ENSCGRG00001006707	GTF	100754376
+Cricetulus_griseus	Meaf6	ENSCGRG00001006760	Others	100755375
+Cricetulus_griseus	Bend3	ENSCGRG00001006904	Others	100768308
+Cricetulus_griseus	Cnot9	ENSCGRG00001006914	CCR4-NOT	100772865
+Cricetulus_griseus	Psen1	ENSCGRG00001006926	Others	100770550
+Cricetulus_griseus	Cdk5rap3	ENSCGRG00001006966	Cyclin	100752708
+Cricetulus_griseus	Kat2b	ENSCGRG00001006983	Lysine acetyltransferase	100772054
+Cricetulus_griseus	Dapk3	ENSCGRG00001006998	Others	NA
+Cricetulus_griseus	Scand1	ENSCGRG00001007054	Others	113836369
+Cricetulus_griseus	Arrb1	ENSCGRG00001007148	Others	100754574
+Cricetulus_griseus	Ufl1	ENSCGRG00001007168	Others	100768952
+Cricetulus_griseus	Kctd1	ENSCGRG00001007208	Others	100770054
+Cricetulus_griseus	Pdcd4	ENSCGRG00001007322	Others	100766922
+Cricetulus_griseus	Myocd	ENSCGRG00001007362	Others	100771555
+Cricetulus_griseus	Smarcd1	ENSCGRG00001007364	SWI/SNF	100773634
+Cricetulus_griseus	Taf6l	ENSCGRG00001007467	TATA-box	103159405
+Cricetulus_griseus	Bahcc1	ENSCGRG00001007507	Others	100754288
+Cricetulus_griseus	Gtf2h1	ENSCGRG00001007611	GTF	100751383
+Cricetulus_griseus		ENSCGRG00001007647	RBBP	107977000
+Cricetulus_griseus	Sap130	ENSCGRG00001007656	SAP	100755025
+Cricetulus_griseus	Spen	ENSCGRG00001007725	Others	NA
+Cricetulus_griseus	Vhl	ENSCGRG00001007732	Others	NA
+Cricetulus_griseus	Elp2	ENSCGRG00001007789	ELP	100764459
+Cricetulus_griseus	Pml	ENSCGRG00001007798	Others	NA
+Cricetulus_griseus	Pcgf6	ENSCGRG00001007808	PCGF	100764227
+Cricetulus_griseus		ENSCGRG00001007842	Others	100767564
+Cricetulus_griseus	Daxx	ENSCGRG00001007861	Other_CRF	NA
+Cricetulus_griseus	Txn1	ENSCGRG00001007919	Others	100758292
+Cricetulus_griseus	Skor2	ENSCGRG00001007925	SKI	113833663
+Cricetulus_griseus	Aip	ENSCGRG00001007960	Others	100759077
+Cricetulus_griseus	Phf21a	ENSCGRG00001007974	PHF	100751419
+Cricetulus_griseus	Taf5	ENSCGRG00001008015	TATA-box	NA
+Cricetulus_griseus	Eid2	ENSCGRG00001008212	EID	NA
+Cricetulus_griseus		ENSCGRG00001008231	Others	100766137
+Cricetulus_griseus	Med23	ENSCGRG00001008295	Mediator complex	100775007
+Cricetulus_griseus	Rsf1	ENSCGRG00001008301	Others	NA
+Cricetulus_griseus	Ewsr1	ENSCGRG00001008309	Others	100773033
+Cricetulus_griseus	Taf7	ENSCGRG00001008337	TATA-box	NA
+Cricetulus_griseus	Mbtd1	ENSCGRG00001008409	Others	100765134
+Cricetulus_griseus	Cited2	ENSCGRG00001008546	CITED	113834243
+Cricetulus_griseus	Nsd1	ENSCGRG00001008636	Nuclear receptor coactivator	100773206
+Cricetulus_griseus	Cdk5	ENSCGRG00001008797	Cyclin	100762907
+Cricetulus_griseus	Ell	ENSCGRG00001009009	GTF	100767546
+Cricetulus_griseus	Kdm7a	ENSCGRG00001009052	Lysine demethylase	100773228
+Cricetulus_griseus	Fbp1	ENSCGRG00001009150	Others	NA
+Cricetulus_griseus	H1f3	ENSCGRG00001009344	Histone cluster 1 H1	NA
+Cricetulus_griseus	Smyd1	ENSCGRG00001009382	SMYD	100766221
+Cricetulus_griseus	Mtf2	ENSCGRG00001009422	Others	NA
+Cricetulus_griseus	Ercc3	ENSCGRG00001009426	Others	100689367
+Cricetulus_griseus	Lmcd1	ENSCGRG00001009463	LIM	100773779
+Cricetulus_griseus	Ccdc62	ENSCGRG00001009498	Coiled-coil	NA
+Cricetulus_griseus	Hltf	ENSCGRG00001009501	Others	100751958
+Cricetulus_griseus	Kdm5a	ENSCGRG00001009596	Lysine demethylase	NA
+Cricetulus_griseus		ENSCGRG00001009622	Others	100768916
+Cricetulus_griseus	Tob1	ENSCGRG00001009633	Others	100766688
+Cricetulus_griseus	Sertad2	ENSCGRG00001009657	Others	100753488
+Cricetulus_griseus	Adrb2	ENSCGRG00001009662	Others	100758902
+Cricetulus_griseus	PRNP	ENSCGRG00001009683	Others	100762792
+Cricetulus_griseus	Sqstm1	ENSCGRG00001009697	Others	NA
+Cricetulus_griseus	Ctnnbip1	ENSCGRG00001009739	Casein	100760454
+Cricetulus_griseus	Btf3	ENSCGRG00001009745	Others	NA
+Cricetulus_griseus	Egln1	ENSCGRG00001009766	Others	100772704
+Cricetulus_griseus	Tceal5	ENSCGRG00001009828	TEF	100768643
+Cricetulus_griseus	Lrrk2	ENSCGRG00001009933	Other_CRF	100768191
+Cricetulus_griseus	Trip11	ENSCGRG00001009975	Thyroid hormone receptor	100760148
+Cricetulus_griseus	Macroh2a2	ENSCGRG00001009991	Others	100764242
+Cricetulus_griseus	Med1	ENSCGRG00001009997	Mediator complex	NA
+Cricetulus_griseus	Atrx	ENSCGRG00001010011	Others	NA
+Cricetulus_griseus	Ccar2	ENSCGRG00001010031	Others	100769631
+Cricetulus_griseus	Tob2	ENSCGRG00001010039	Others	100758626
+Cricetulus_griseus	Hdac3	ENSCGRG00001010047	Histone deacetylase	100752639
+Cricetulus_griseus	Maged1	ENSCGRG00001010048	MAGE	100768434
+Cricetulus_griseus	MED11	ENSCGRG00001010051	Mediator complex	100768888
+Cricetulus_griseus	Txnip	ENSCGRG00001010170	Others	100756038
+Cricetulus_griseus	Ezh2	ENSCGRG00001010172	Others	100758055
+Cricetulus_griseus	Prmt8	ENSCGRG00001010178	Arginine methyltransferase	100770963
+Cricetulus_griseus		ENSCGRG00001010239	Casein	100753529
+Cricetulus_griseus	Sirt5	ENSCGRG00001010244	Sirtuin	100767069
+Cricetulus_griseus	Eid1	ENSCGRG00001010267	EID	100760502
+Cricetulus_griseus	Cggbp1	ENSCGRG00001010279	Others	100767237
+Cricetulus_griseus	Pcgf5	ENSCGRG00001010288	PCGF	100769081
+Cricetulus_griseus	Slc30a9	ENSCGRG00001010316	SLC	NA
+Cricetulus_griseus	Plk3	ENSCGRG00001010394	Others	100762491
+Cricetulus_griseus	Edf1	ENSCGRG00001010405	Others	100763269
+Cricetulus_griseus	Snip1	ENSCGRG00001010414	Others	100755086
+Cricetulus_griseus	Dyrk1b	ENSCGRG00001010455	Others	100762532
+Cricetulus_griseus	Rnf6	ENSCGRG00001010459	Ring finger protein	100759570
+Cricetulus_griseus	Ccnt1	ENSCGRG00001010472	Cyclin	100758059
+Cricetulus_griseus	Kdm4b	ENSCGRG00001010495	Lysine demethylase	100770247
+Cricetulus_griseus	Ncoa3	ENSCGRG00001010532	Nuclear receptor coactivator	100774568
+Cricetulus_griseus	Prmt2	ENSCGRG00001010555	Arginine methyltransferase	100752416
+Cricetulus_griseus	Lgals12	ENSCGRG00001010564	Others	100768596
+Cricetulus_griseus	Anxa4	ENSCGRG00001010596	Others	100771507
+Cricetulus_griseus	Loxl3	ENSCGRG00001010598	Others	100760335
+Cricetulus_griseus	Tle1	ENSCGRG00001010603	Transducin	100771091
+Cricetulus_griseus	Cited4	ENSCGRG00001010621	CITED	113833819
+Cricetulus_griseus		ENSCGRG00001010653	Others	NA
+Cricetulus_griseus	Xrn2	ENSCGRG00001010676	Others	NA
+Cricetulus_griseus	Zfp593	ENSCGRG00001010679	Zinc finger	100769424
+Cricetulus_griseus	Nck1	ENSCGRG00001010690	Others	100769675
+Cricetulus_griseus	Rgcc	ENSCGRG00001010708	Others	100771295
+Cricetulus_griseus	Cdk8	ENSCGRG00001010747	Cyclin	100759285
+Cricetulus_griseus	Mrtfb	ENSCGRG00001010790	Others	100771346
+Cricetulus_griseus		ENSCGRG00001010848	GTF	100750331
+Cricetulus_griseus	Basp1	ENSCGRG00001010849	Others	113833947
+Cricetulus_griseus	Mtdh	ENSCGRG00001010894	Others	100753818
+Cricetulus_griseus		ENSCGRG00001010901	Other_CRF	100767218
+Cricetulus_griseus	Pmf1	ENSCGRG00001010918	Others	100756436
+Cricetulus_griseus	Ssbp2	ENSCGRG00001010940	Others	100753364
+Cricetulus_griseus	Tceal1	ENSCGRG00001010984	TEF	100764535
+Cricetulus_griseus	Wtip	ENSCGRG00001011000	Others	NA
+Cricetulus_griseus		ENSCGRG00001011002	MYC	113830700
+Cricetulus_griseus	Pawr	ENSCGRG00001011044	Others	100754431
+Cricetulus_griseus	Crym	ENSCGRG00001011103	Others	100771156
+Cricetulus_griseus	Zcchc12	ENSCGRG00001011149	Zinc finger	100771090
+Cricetulus_griseus	Cnot7	ENSCGRG00001011174	CCR4-NOT	100773091
+Cricetulus_griseus	Ash1l	ENSCGRG00001011192	Others	100754103
+Cricetulus_griseus	Auts2	ENSCGRG00001011239	Others	NA
+Cricetulus_griseus	Recql5	ENSCGRG00001011255	Others	NA
+Cricetulus_griseus	Sfswap	ENSCGRG00001011284	Others	100755786
+Cricetulus_griseus	Tdrd3	ENSCGRG00001011297	Others	100772340
+Cricetulus_griseus	Chd3	ENSCGRG00001011306	CHD	NA
+Cricetulus_griseus	Crtc2	ENSCGRG00001011316	CREB	100751848
+Cricetulus_griseus	Supt16	ENSCGRG00001011339	SUPT	100750703
+Cricetulus_griseus		ENSCGRG00001011363	Notch	NA
+Cricetulus_griseus	Tradd	ENSCGRG00001011379	Others	100758679
+Cricetulus_griseus	Ncoa2	ENSCGRG00001011433	Nuclear receptor coactivator	NA
+Cricetulus_griseus	Cnot6	ENSCGRG00001011452	CCR4-NOT	100764369
+Cricetulus_griseus	Hdac6	ENSCGRG00001011507	Histone deacetylase	100763688
+Cricetulus_griseus	Dpf3	ENSCGRG00001011525	DPF	100760706
+Cricetulus_griseus	Skil	ENSCGRG00001011528	SKI	100765342
+Cricetulus_griseus	Nod2	ENSCGRG00001011531	Others	100759694
+Cricetulus_griseus		ENSCGRG00001011568	Nuclear receptor coactivator	100756488
+Cricetulus_griseus	Yap1	ENSCGRG00001011573	Others	100761993
+Cricetulus_griseus	Ankrd2	ENSCGRG00001011585	Ankyrin repeat	NA
+Cricetulus_griseus	Ogt	ENSCGRG00001011594	Others	100768670
+Cricetulus_griseus	Gsk3b	ENSCGRG00001011596	Others	100760865
+Cricetulus_griseus	C1qbp	ENSCGRG00001011622	Others	100754945
+Cricetulus_griseus	Trim37	ENSCGRG00001011708	Tripartite motif	100754889
+Cricetulus_griseus	Pprc1	ENSCGRG00001011726	Others	100751874
+Cricetulus_griseus	Edrf1	ENSCGRG00001011728	Others	NA
+Cricetulus_griseus	MED19	ENSCGRG00001011747	Mediator complex	100755285
+Cricetulus_griseus	Zfp451	ENSCGRG00001011771	Zinc finger	100750506
+Cricetulus_griseus	Dmap1	ENSCGRG00001011802	DNA_methylase	100756406
+Cricetulus_griseus	Scai	ENSCGRG00001011822	Others	NA
+Cricetulus_griseus	Pcgf3	ENSCGRG00001011904	PCGF	100766593
+Cricetulus_griseus	Trib3	ENSCGRG00001011910	Others	100760725
+Cricetulus_griseus	Chd7	ENSCGRG00001011949	CHD	100755474
+Cricetulus_griseus	Rptor	ENSCGRG00001011960	Others	100761529
+Cricetulus_griseus	Wac	ENSCGRG00001011994	WW	100770036
+Cricetulus_griseus	Crk	ENSCGRG00001011996	Others	NA
+Cricetulus_griseus	Taf15	ENSCGRG00001012011	TATA-box	NA
+Cricetulus_griseus	Kdm4a	ENSCGRG00001012013	Lysine demethylase	100756054
+Cricetulus_griseus	Bud31	ENSCGRG00001012044	Others	100774223
+Cricetulus_griseus		ENSCGRG00001012053	Others	100763852
+Cricetulus_griseus	Ell2	ENSCGRG00001012065	GTF	NA
+Cricetulus_griseus	Dnmt3b	ENSCGRG00001012078	DNA_methylase	100751727
+Cricetulus_griseus	Frk	ENSCGRG00001012098	Others	100751157
+Cricetulus_griseus	Actn2	ENSCGRG00001012116	Actin	NA
+Cricetulus_griseus	Smarcd3	ENSCGRG00001012201	SWI/SNF	100768809
+Cricetulus_griseus		ENSCGRG00001012219	Others	NA
+Cricetulus_griseus	Noc2l	ENSCGRG00001012249	Others	100772415
+Cricetulus_griseus	Med13	ENSCGRG00001012260	Mediator complex	100751010
+Cricetulus_griseus	Timeless	ENSCGRG00001012271	Others	NA
+Cricetulus_griseus	Lpin2	ENSCGRG00001012322	LPIN	100769904
+Cricetulus_griseus	Pnrc2	ENSCGRG00001012333	Others	100753045
+Cricetulus_griseus	Rnf10	ENSCGRG00001012342	Ring finger protein	NA
+Cricetulus_griseus	Ctnnd2	ENSCGRG00001012344	Casein	100752408
+Cricetulus_griseus	Banp	ENSCGRG00001012363	Others	100768192
+Cricetulus_griseus	Ing3	ENSCGRG00001012381	ING	100766428
+Cricetulus_griseus	Asf1a	ENSCGRG00001012443	Others	103163586
+Cricetulus_griseus	Suz12	ENSCGRG00001012460	Others	100771055
+Cricetulus_griseus	Supt3	ENSCGRG00001012497	SUPT	NA
+Cricetulus_griseus	Supt5	ENSCGRG00001012522	SUPT	100761749
+Cricetulus_griseus	Mdfi	ENSCGRG00001012532	Others	100772181
+Cricetulus_griseus	Egln2	ENSCGRG00001012545	Others	NA
+Cricetulus_griseus	S100a8	ENSCGRG00001012556	Others	100772297
+Cricetulus_griseus	Hdac9	ENSCGRG00001012600	Histone deacetylase	NA
+Cricetulus_griseus	Vgll2	ENSCGRG00001012605	Vestigial like	100760317
+Cricetulus_griseus	Tspyl2	ENSCGRG00001012633	Others	NA
+Cricetulus_griseus	Chaf1b	ENSCGRG00001012715	Others	100751472
+Cricetulus_griseus	Smarca5	ENSCGRG00001012719	SWI/SNF	NA
+Cricetulus_griseus	Tesc	ENSCGRG00001012767	Others	100757834
+Cricetulus_griseus	Abra	ENSCGRG00001012776	Actin	NA
+Cricetulus_griseus	Rbl2	ENSCGRG00001012793	Other_Co-activator/repressors	100770221
+Cricetulus_griseus	Rnf111	ENSCGRG00001012805	Ring finger protein	100773181
+Cricetulus_griseus	Tbl1xr1	ENSCGRG00001012826	Transducin	100751772
+Cricetulus_griseus		ENSCGRG00001012849	Sirtuin	NA
+Cricetulus_griseus	Actn4	ENSCGRG00001012859	Actin	NA
+Cricetulus_griseus	Npat	ENSCGRG00001012884	Nuclear coactivator	NA
+Cricetulus_griseus	Prmt6	ENSCGRG00001012887	Arginine methyltransferase	103163554
+Cricetulus_griseus	Sdr16c5	ENSCGRG00001012918	Others	NA
+Cricetulus_griseus	Parp10	ENSCGRG00001012953	PARP	NA
+Cricetulus_griseus	Kcnip3	ENSCGRG00001013000	Others	100774362
+Cricetulus_griseus	Smyd2	ENSCGRG00001013013	SMYD	NA
+Cricetulus_griseus	Ddx1	ENSCGRG00001013025	RNA helicase	100756637
+Cricetulus_griseus	Gtf2e1	ENSCGRG00001013030	GTF	100763009
+Cricetulus_griseus	Dact1	ENSCGRG00001013082	Others	NA
+Cricetulus_griseus	Hmox1	ENSCGRG00001013097	Others	100756872
+Cricetulus_griseus	Rprd1a	ENSCGRG00001013116	Others	100767756
+Cricetulus_griseus	Rexo4	ENSCGRG00001013126	Others	NA
+Cricetulus_griseus	Nkap	ENSCGRG00001013137	NFKB associated	100767082
+Cricetulus_griseus	Thoc5	ENSCGRG00001013145	Others	100773616
+Cricetulus_griseus	Ep400	ENSCGRG00001013148	Others	NA
+Cricetulus_griseus	Flna	ENSCGRG00001013154	Others	100760050
+Cricetulus_griseus	Kdm4d	ENSCGRG00001013157	Lysine demethylase	100753944
+Cricetulus_griseus	Grhpr	ENSCGRG00001013235	Others	100752744
+Cricetulus_griseus	Tgfb1i1	ENSCGRG00001013242	Others	100771750
+Cricetulus_griseus		ENSCGRG00001013286	Others	100773980
+Cricetulus_griseus	Arhgap35	ENSCGRG00001013301	Others	100752481
+Cricetulus_griseus	Nelfb	ENSCGRG00001013321	GTF	NA
+Cricetulus_griseus	Btn1a1	ENSCGRG00001013343	Others	NA
+Cricetulus_griseus	Npm3	ENSCGRG00001013345	Nucleoplasmin	100751292
+Cricetulus_griseus		ENSCGRG00001013373	GTF	100772736
+Cricetulus_griseus	Trib1	ENSCGRG00001013388	Others	NA
+Cricetulus_griseus	Actl6a	ENSCGRG00001013395	Actin	100757342
+Cricetulus_griseus	Pih1d1	ENSCGRG00001013397	Other_CRF	100772372
+Cricetulus_griseus	Xiap	ENSCGRG00001013410	Others	100689374
+Cricetulus_griseus	Flii	ENSCGRG00001013412	Others	NA
+Cricetulus_griseus	Baz1a	ENSCGRG00001013418	Bromodomain	NA
+Cricetulus_griseus	Epc1	ENSCGRG00001013506	Others	100773878
+Cricetulus_griseus	Ccdc85b	ENSCGRG00001013508	Coiled-coil	100766533
+Cricetulus_griseus	Hdgf	ENSCGRG00001013528	Others	100761454
+Cricetulus_griseus	Ago2	ENSCGRG00001013557	Others	100760040
+Cricetulus_griseus	Ino80	ENSCGRG00001013566	INO80 complex	100762469
+Cricetulus_griseus	Top1mt	ENSCGRG00001013641	Other_CRF	100759175
+Cricetulus_griseus	Cdk2	ENSCGRG00001013650	Cyclin	100689039
+Cricetulus_griseus	Top1	ENSCGRG00001013671	Other_CRF	NA
+Cricetulus_griseus	Gtf2h4	ENSCGRG00001013679	GTF	103160241
+Cricetulus_griseus	Dhx36	ENSCGRG00001013722	RNA helicase	100771317
+Cricetulus_griseus	Dnajb1	ENSCGRG00001013728	Others	100753924
+Cricetulus_griseus	Smarcb1	ENSCGRG00001013732	SWI/SNF	100769126
+Cricetulus_griseus	Brca1	ENSCGRG00001013854	Others	100770724
+Cricetulus_griseus	Maml3	ENSCGRG00001013876	MAML	NA
+Cricetulus_griseus	Ercc2	ENSCGRG00001013953	Others	NA
+Cricetulus_griseus	Wnt4	ENSCGRG00001013957	Others	100769003
+Cricetulus_griseus	Mnat1	ENSCGRG00001013958	Others	100770765
+Cricetulus_griseus	Snapc5	ENSCGRG00001013968	Others	113830748
+Cricetulus_griseus	Rbm39	ENSCGRG00001013983	RNA binding protein	100757502
+Cricetulus_griseus	Dnttip2	ENSCGRG00001014053	Others	100774727
+Cricetulus_griseus	Cdk5r1	ENSCGRG00001014057	Cyclin	100773660
+Cricetulus_griseus	Calcoco1	ENSCGRG00001014119	Others	100768405
+Cricetulus_griseus	Terf2ip	ENSCGRG00001014122	Others	100766336
+Cricetulus_griseus	Pcbd2	ENSCGRG00001014123	Others	NA
+Cricetulus_griseus	Ddx20	ENSCGRG00001014132	RNA helicase	100752364
+Cricetulus_griseus	Cops2	ENSCGRG00001014155	Others	100760211
+Cricetulus_griseus	Ajuba	ENSCGRG00001014156	Others	103158564
+Cricetulus_griseus	Lin9	ENSCGRG00001014165	Others	100774401
+Cricetulus_griseus	Trim33	ENSCGRG00001014166	Tripartite motif	100761760
+Cricetulus_griseus	Rwdd3	ENSCGRG00001014186	Others	100773353
+Cricetulus_griseus		ENSCGRG00001014204	Others	100765234
+Cricetulus_griseus	Ino80e	ENSCGRG00001014232	INO80 complex	100773645
+Cricetulus_griseus	Trim29	ENSCGRG00001014242	Tripartite motif	NA
+Cricetulus_griseus	Stk3	ENSCGRG00001014280	Others	100763795
+Cricetulus_griseus	Prmt5	ENSCGRG00001014293	Arginine methyltransferase	100768836
+Cricetulus_griseus	Chd8	ENSCGRG00001014351	CHD	100750414
+Cricetulus_griseus	Ice2	ENSCGRG00001014356	GTF	100759663
+Cricetulus_griseus	Aim2	ENSCGRG00001014376	Others	100750381
+Cricetulus_griseus	Notch2	ENSCGRG00001014398	Notch	100771788
+Cricetulus_griseus	Ankra2	ENSCGRG00001014449	Ankyrin repeat	100755782
+Cricetulus_griseus	Cdk9	ENSCGRG00001014509	Cyclin	100757719
+Cricetulus_griseus	Cbfa2t2	ENSCGRG00001014529	Others	100773698
+Cricetulus_griseus	Nab1	ENSCGRG00001014583	Others	100765317
+Cricetulus_griseus	Rtf1	ENSCGRG00001014611	Others	100773205
+Cricetulus_griseus	Trim25	ENSCGRG00001014623	Tripartite motif	100765402
+Cricetulus_griseus	Hnrnpd	ENSCGRG00001014634	HNRNP	NA
+Cricetulus_griseus	Setd3	ENSCGRG00001014636	SET	100768717
+Cricetulus_griseus	Ddx5	ENSCGRG00001014644	RNA helicase	100768812
+Cricetulus_griseus	Raly	ENSCGRG00001014652	Others	100774868
+Cricetulus_griseus	Cnot8	ENSCGRG00001014687	CCR4-NOT	100770253
+Cricetulus_griseus	Brip1	ENSCGRG00001014758	Others	100774617
+Cricetulus_griseus	Hr	ENSCGRG00001014790	Lysine methyltransferase	NA
+Cricetulus_griseus	Nlrp12	ENSCGRG00001014801	Others	NA
+Cricetulus_griseus	Ddx54	ENSCGRG00001014803	RNA helicase	100770376
+Cricetulus_griseus	Hexim2	ENSCGRG00001014831	Others	100760493
+Cricetulus_griseus	MED10	ENSCGRG00001014842	Mediator complex	100759421
+Cricetulus_griseus	Notch1	ENSCGRG00001014866	Notch	100761880
+Cricetulus_griseus	Cecr2	ENSCGRG00001014886	Other_CRF	NA
+Cricetulus_griseus	Sav1	ENSCGRG00001014937	Others	100766170
+Cricetulus_griseus	Hipk1	ENSCGRG00001014954	HIPK	100759237
+Cricetulus_griseus	Kdm4c	ENSCGRG00001014973	Lysine demethylase	100771667
+Cricetulus_griseus	Ccna1	ENSCGRG00001015009	Cyclin	100769969
+Cricetulus_griseus	Smarcad1	ENSCGRG00001015056	SWI/SNF	100767543
+Cricetulus_griseus	Tenm1	ENSCGRG00001015057	Others	NA
+Cricetulus_griseus	Wdtc1	ENSCGRG00001015126	WD	100768446
+Cricetulus_griseus	Arglu1	ENSCGRG00001015195	Others	100756104
+Cricetulus_griseus	Wnt3a	ENSCGRG00001015217	Others	100764164
+Cricetulus_griseus	Slc25a15	ENSCGRG00001015230	SLC	100773024
+Cricetulus_griseus	Pa2g4	ENSCGRG00001015234	Others	100767388
+Cricetulus_griseus	PEX2	ENSCGRG00001015243	Others	100689047
+Cricetulus_griseus	Eny2	ENSCGRG00001015308	Others	100768337
+Cricetulus_griseus	Tbpl2	ENSCGRG00001015310	TATA-box	NA
+Cricetulus_griseus	Trrap	ENSCGRG00001015326	Others	NA
+Cricetulus_griseus	Cd3d	ENSCGRG00001015398	Others	100756906
+Cricetulus_griseus	Suv39h2	ENSCGRG00001015429	Others	NA
+Cricetulus_griseus	Btrc	ENSCGRG00001015459	Others	100750426
+Cricetulus_griseus	Cdkn1b	ENSCGRG00001015479	Cyclin	NA
+Cricetulus_griseus	Casp8ap2	ENSCGRG00001015514	Others	NA
+Cricetulus_griseus	Cir1	ENSCGRG00001015518	Other_Co-activator/repressors	NA
+Cricetulus_griseus	Ppargc1a	ENSCGRG00001015534	Others	100753651
+Cricetulus_griseus	Wdr61	ENSCGRG00001015563	WD	100755344
+Cricetulus_griseus	Med24	ENSCGRG00001015568	Mediator complex	100759120
+Cricetulus_griseus	Taf1c	ENSCGRG00001015596	TATA-box	100774138
+Cricetulus_griseus	Ripply1	ENSCGRG00001015609	Others	NA
+Cricetulus_griseus	Rbl1	ENSCGRG00001015657	Other_Co-activator/repressors	100755818
+Cricetulus_griseus	Ctnnb1	ENSCGRG00001015665	Casein	100773307
+Cricetulus_griseus	Snx6	ENSCGRG00001015718	Others	NA
+Cricetulus_griseus	Gtf2a1l	ENSCGRG00001015738	GTF	NA
+Cricetulus_griseus	Niban2	ENSCGRG00001015750	FAM	100761378
+Cricetulus_griseus	Actb	ENSCGRG00001015781	Actin	100689477
+Cricetulus_griseus	Rbmx	ENSCGRG00001015786	RNA binding protein	100762511
+Cricetulus_griseus	Dhx9	ENSCGRG00001015796	RNA helicase	NA
+Cricetulus_griseus	Actn1	ENSCGRG00001015821	Actin	100755831
+Cricetulus_griseus	Safb2	ENSCGRG00001015833	Others	100759135
+Cricetulus_griseus	Jak2	ENSCGRG00001015840	Others	100769337
+Cricetulus_griseus	Zfp703	ENSCGRG00001015865	Zinc finger	100751429
+Cricetulus_griseus	Ccne1	ENSCGRG00001015867	Cyclin	100753358
+Cricetulus_griseus	Slc26a3	ENSCGRG00001015891	SLC	100757051
+Cricetulus_griseus	Rbm15b	ENSCGRG00001015903	RNA binding protein	NA
+Cricetulus_griseus	Ccdc59	ENSCGRG00001015959	Coiled-coil	100765463
+Cricetulus_griseus	Tle2	ENSCGRG00001015962	Transducin	NA
+Cricetulus_griseus	Trim28	ENSCGRG00001015972	Tripartite motif	NA
+Cricetulus_griseus	Vgll3	ENSCGRG00001015980	Vestigial like	100762839
+Cricetulus_griseus	Rbbp5	ENSCGRG00001015995	RBBP	100754011
+Cricetulus_griseus	Cbx8	ENSCGRG00001016000	Chromobox	100756264
+Cricetulus_griseus	Dusp26	ENSCGRG00001016001	Others	100761425
+Cricetulus_griseus	Src	ENSCGRG00001016023	Others	100757188
+Cricetulus_griseus		ENSCGRG00001016024	Others	100763666
+Cricetulus_griseus	Men1	ENSCGRG00001016026	Others	100757636
+Cricetulus_griseus	Tpte	ENSCGRG00001016028	Others	NA
+Cricetulus_griseus	Fbxw11	ENSCGRG00001016029	Others	100772242
+Cricetulus_griseus	Ing4	ENSCGRG00001016033	ING	100754938
+Cricetulus_griseus	Pim1	ENSCGRG00001016048	Others	100751275
+Cricetulus_griseus	Prmt7	ENSCGRG00001016051	Arginine methyltransferase	100759617
+Cricetulus_griseus		ENSCGRG00001016070	Lysine acetyltransferase	100761603
+Cricetulus_griseus	Elane	ENSCGRG00001016094	Others	100752732
+Cricetulus_griseus	Tbl1x	ENSCGRG00001016098	Transducin	100755304
+Cricetulus_griseus	Med21	ENSCGRG00001016121	Mediator complex	100756366
+Cricetulus_griseus	Chd9	ENSCGRG00001016150	CHD	100769940
+Cricetulus_griseus	Fus	ENSCGRG00001016216	Others	100756868
+Cricetulus_griseus	Trim11	ENSCGRG00001016227	Tripartite motif	100770152
+Cricetulus_griseus	Btk	ENSCGRG00001016231	Others	100772144
+Cricetulus_griseus	Hipk3	ENSCGRG00001016245	HIPK	100772418
+Cricetulus_griseus		ENSCGRG00001016261	Others	100761521
+Cricetulus_griseus	Camk2d	ENSCGRG00001016320	CAMK	100752268
+Cricetulus_griseus	Nup62	ENSCGRG00001016364	Others	100769030
+Cricetulus_griseus	Cnot1	ENSCGRG00001016365	CCR4-NOT	100761778
+Cricetulus_griseus	Mbd3l1	ENSCGRG00001016373	MBD	100770293
+Cricetulus_griseus	Ankar	ENSCGRG00001016410	Ankyrin repeat	NA
+Cricetulus_griseus		ENSCGRG00001016423	Others	NA
+Cricetulus_griseus	Maml1	ENSCGRG00001016447	MAML	NA
+Cricetulus_griseus	Lgals4	ENSCGRG00001016455	Others	NA
+Cricetulus_griseus	Htatip2	ENSCGRG00001016457	Others	100759325
+Cricetulus_griseus	Crebbp	ENSCGRG00001016476	CREB	100770451
+Cricetulus_griseus	Txlng	ENSCGRG00001016480	Others	100752164
+Cricetulus_griseus	Insr	ENSCGRG00001016526	Others	100766818
+Cricetulus_griseus	Sap30bp	ENSCGRG00001016528	SAP	100753135
+Cricetulus_griseus	Ascc1	ENSCGRG00001016548	ASCC	100759170
+Cricetulus_griseus	Cenpf	ENSCGRG00001016593	CENP	100752075
+Cricetulus_griseus	Cnot2	ENSCGRG00001016595	CCR4-NOT	100755143
+Cricetulus_griseus	Nelfe	ENSCGRG00001016608	GTF	100769129
+Cricetulus_griseus	Hdac2	ENSCGRG00001016612	Histone deacetylase	NA
+Cricetulus_griseus	Samd4b	ENSCGRG00001016646	Others	100760986
+Cricetulus_griseus	Brf2	ENSCGRG00001016656	GTF	100769943
+Cricetulus_griseus	Wbp2	ENSCGRG00001016669	WW	100753733
+Cricetulus_griseus		ENSCGRG00001016682	Others	NA
+Cricetulus_griseus	Tarbp1	ENSCGRG00001016690	Others	NA
+Cricetulus_griseus		ENSCGRG00001016730	Others	100769355
+Cricetulus_griseus	Smarca4	ENSCGRG00001016732	SWI/SNF	100756329
+Cricetulus_griseus	Helz2	ENSCGRG00001016744	Others	NA
+Cricetulus_griseus	Kdm3b	ENSCGRG00001016750	Lysine demethylase	100752012
+Cricetulus_griseus	Rnf20	ENSCGRG00001016760	Ring finger protein	100754600
+Cricetulus_griseus	Pfdn5	ENSCGRG00001016773	Others	100768547
+Cricetulus_griseus	Hsbp1	ENSCGRG00001016781	Heat shock protein	100751023
+Cricetulus_griseus		ENSCGRG00001016793	Transcriptional adaptor	100755727
+Cricetulus_griseus	Tgfb1	ENSCGRG00001016798	Others	100773359
+Cricetulus_griseus	Fhl5	ENSCGRG00001016810	FHL	100773098
+Cricetulus_griseus		ENSCGRG00001016822	Other_CRF	100770081
+Cricetulus_griseus	Pak6	ENSCGRG00001016845	Others	100758984
+Cricetulus_griseus	SLC19A1	ENSCGRG00001016846	SLC	100689407
+Cricetulus_griseus	Sfrp4	ENSCGRG00001016880	Others	100767339
+Cricetulus_griseus	Orc2	ENSCGRG00001016911	Others	100689333
+Cricetulus_griseus		ENSCGRG00001016951	HNRNP	100762670
+Cricetulus_griseus	Pou2af1	ENSCGRG00001016957	Others	100770131
+Cricetulus_griseus	Taf1	ENSCGRG00001016967	TATA-box	NA
+Cricetulus_griseus	Chuk	ENSCGRG00001016974	Others	100754432
+Cricetulus_griseus	Grip1	ENSCGRG00001016989	Others	NA
+Cricetulus_griseus	Eng	ENSCGRG00001017000	Others	100757433
+Cricetulus_griseus	Taf4	ENSCGRG00001017027	TATA-box	NA
+Cricetulus_griseus	Aurkaip1	ENSCGRG00001017030	Others	100770569
+Cricetulus_griseus	APE	ENSCGRG00001017046	Others	100689281
+Cricetulus_griseus	Ruvbl1	ENSCGRG00001017058	Other_CRF	100761458
+Cricetulus_griseus	Kmt2e	ENSCGRG00001017060	Lysine methyltransferase	100756731
+Cricetulus_griseus	Trak2	ENSCGRG00001017078	Others	100756850
+Cricetulus_griseus	Rfxap	ENSCGRG00001017082	Others	NA
+Cricetulus_griseus	Taf7l	ENSCGRG00001017096	TATA-box	NA
+Cricetulus_griseus	Arl2bp	ENSCGRG00001017105	Others	100763207
+Cricetulus_griseus	Kdm1a	ENSCGRG00001017159	Lysine demethylase	100770721
+Cricetulus_griseus	Bptf	ENSCGRG00001017221	Bromodomain	NA
+Cricetulus_griseus	Actr8	ENSCGRG00001017229	ACTR	100771927
+Cricetulus_griseus	Dppa4	ENSCGRG00001017241	Others	100760387
+Cricetulus_griseus	Cavin1	ENSCGRG00001017248	Others	100756349
+Cricetulus_griseus	Eya1	ENSCGRG00001017253	EYA	NA
+Cricetulus_griseus	Taf10	ENSCGRG00001017301	TATA-box	NA
+Cricetulus_griseus		ENSCGRG00001017316	SAP	100760388
+Cricetulus_griseus		ENSCGRG00001017332	Others	100755272
+Cricetulus_griseus	Med31	ENSCGRG00001017337	Mediator complex	100759823
+Cricetulus_griseus	Wwp1	ENSCGRG00001017339	WW	NA
+Cricetulus_griseus		ENSCGRG00001017346	Nuclear coactivator	NA
+Cricetulus_griseus	Trappc2	ENSCGRG00001017361	Others	100768363
+Cricetulus_griseus	Utp4	ENSCGRG00001017368	Others	100757324
+Cricetulus_griseus	Hells	ENSCGRG00001017410	Others	100754676
+Cricetulus_griseus	Ecd	ENSCGRG00001017437	Others	100761389
+Cricetulus_griseus	Puf60	ENSCGRG00001017442	Others	100758296
+Cricetulus_griseus	Ssu72	ENSCGRG00001017443	Others	NA
+Cricetulus_griseus	Bcor	ENSCGRG00001017450	Other_Co-activator/repressors	100767711
+Cricetulus_griseus	MED17	ENSCGRG00001017473	Mediator complex	100752831
+Cricetulus_griseus	Trim24	ENSCGRG00001017478	Tripartite motif	NA
+Cricetulus_griseus	Uxt	ENSCGRG00001017486	Others	100764181
+Cricetulus_griseus	Kdm1b	ENSCGRG00001017531	Lysine demethylase	100767337
+Cricetulus_griseus	Gtf2h3	ENSCGRG00001017537	GTF	100768069
+Cricetulus_griseus		ENSCGRG00001017557	Others	100769066
+Cricetulus_griseus	Kdm8	ENSCGRG00001017571	Lysine demethylase	NA
+Cricetulus_griseus	Mrgbp	ENSCGRG00001017599	Others	100757027
+Cricetulus_griseus	Nrip1	ENSCGRG00001017624	Nuclear receptor coactivator	NA
+Cricetulus_griseus	Cth	ENSCGRG00001017639	Others	NA
+Cricetulus_griseus	Fgf1	ENSCGRG00001017683	FGF	100764257
+Cricetulus_griseus	Erbin	ENSCGRG00001017697	Erbb2	100774374
+Cricetulus_griseus	Anp32e	ENSCGRG00001017709	ANP	100751239
+Cricetulus_griseus	Ikbkb	ENSCGRG00001017718	Others	100750488
+Cricetulus_griseus	Rbfox2	ENSCGRG00001017727	Others	100757818
+Cricetulus_griseus	Taf9b	ENSCGRG00001017738	TATA-box	100767965
+Cricetulus_griseus	Kat6b	ENSCGRG00001017805	Lysine acetyltransferase	100760447
+Cricetulus_griseus	Ctbp2	ENSCGRG00001017809	Others	100769412
+Cricetulus_griseus	Brca2	ENSCGRG00001017867	Others	100689197
+Cricetulus_griseus	Nelfcd	ENSCGRG00001017868	GTF	NA
+Cricetulus_griseus		ENSCGRG00001017909	Tripartite motif	100762680
+Cricetulus_griseus	Chrac1	ENSCGRG00001017929	Other_CRF	100759753
+Cricetulus_griseus	Phf5a	ENSCGRG00001017936	PHF	100758913
+Cricetulus_griseus		ENSCGRG00001017938	Others	100751387
+Cricetulus_griseus	Pik3r2	ENSCGRG00001017940	Others	NA
+Cricetulus_griseus	Ppargc1b	ENSCGRG00001017949	Others	NA
+Cricetulus_griseus	Med30	ENSCGRG00001017964	Mediator complex	100751133
+Cricetulus_griseus	Dcaf6	ENSCGRG00001018018	Others	100770150
+Cricetulus_griseus	Paf1	ENSCGRG00001018021	Others	100772353
+Cricetulus_griseus	Kat2a	ENSCGRG00001018026	Lysine acetyltransferase	NA
+Cricetulus_griseus	Supt4a	ENSCGRG00001018056	SUPT	100752824
+Cricetulus_griseus	Mycbp2	ENSCGRG00001018070	MYC	100763589
+Cricetulus_griseus	Jmy	ENSCGRG00001018071	Others	100761093
+Cricetulus_griseus	Psip1	ENSCGRG00001018077	Others	100763870
+Cricetulus_griseus	Pdlim1	ENSCGRG00001018084	Others	100756459
+Cricetulus_griseus	Asf1b	ENSCGRG00001018098	Others	100769479
+Cricetulus_griseus	Cask	ENSCGRG00001018099	CAMK	100764902
+Cricetulus_griseus	Nab2	ENSCGRG00001018114	Others	100753054
+Cricetulus_griseus		ENSCGRG00001018118	Histone deacetylase	100752721
+Cricetulus_griseus		ENSCGRG00001018137	Others	100758007
+Cricetulus_griseus	Brd2	ENSCGRG00001018148	Bromodomain	100767103
+Cricetulus_griseus	Mrtfa	ENSCGRG00001018160	Others	100770457
+Cricetulus_griseus	Bcl10	ENSCGRG00001018169	BCL	NA
+Cricetulus_griseus	Prmt1	ENSCGRG00001018188	Arginine methyltransferase	100765197
+Cricetulus_griseus		ENSCGRG00001018191	Others	100756310
+Cricetulus_griseus	Med4	ENSCGRG00001018208	Mediator complex	100761008
+Cricetulus_griseus	Suds3	ENSCGRG00001018235	Other_Co-activator/repressors	NA
+Cricetulus_griseus	Tnni2	ENSCGRG00001018253	Others	100766918
+Cricetulus_griseus	Esf1	ENSCGRG00001018257	Others	100771608
+Cricetulus_griseus	Med12	ENSCGRG00001018258	Mediator complex	NA
+Cricetulus_griseus	Ss18l2	ENSCGRG00001018261	SS18	100771870
+Cricetulus_griseus	Mcidas	ENSCGRG00001018268	Others	NA
+Cricetulus_griseus	Pramel13	ENSCGRG00001018269	Others	NA
+Cricetulus_griseus	Yeats2	ENSCGRG00001018275	Others	100759076
+Cricetulus_griseus	Tnip2	ENSCGRG00001018278	Others	NA
+Cricetulus_griseus	Rprd1b	ENSCGRG00001018295	Others	100759004
+Cricetulus_griseus	Med20	ENSCGRG00001018311	Mediator complex	100771319
+Cricetulus_griseus	Lin54	ENSCGRG00001018316	Others	100755318
+Cricetulus_griseus	Kat8	ENSCGRG00001018364	Lysine acetyltransferase	100756283
+Cricetulus_griseus	Med15	ENSCGRG00001018365	Mediator complex	100754109
+Cricetulus_griseus	Pspc1	ENSCGRG00001018368	Others	100751937
+Cricetulus_griseus	Dpy30	ENSCGRG00001018375	Others	100763394
+Cricetulus_griseus	Zmym2	ENSCGRG00001018436	Zinc finger	100762715
+Cricetulus_griseus	Nlk	ENSCGRG00001018447	Others	100768473
+Cricetulus_griseus	Ppie	ENSCGRG00001018491	Others	100773432
+Cricetulus_griseus	Csnk2a1	ENSCGRG00001018495	Casein	NA
+Cricetulus_griseus		ENSCGRG00001018516	TATA-box	100752844
+Cricetulus_griseus	Dtx1	ENSCGRG00001018544	Others	100772295
+Cricetulus_griseus	Eya2	ENSCGRG00001018570	EYA	NA
+Cricetulus_griseus	Eya3	ENSCGRG00001018576	EYA	100772330
+Cricetulus_griseus	Chek1	ENSCGRG00001018583	Others	100751099
+Cricetulus_griseus	Mllt1	ENSCGRG00001018607	GTF	100773703
+Cricetulus_griseus	Jmjd6	ENSCGRG00001018648	Others	100774658
+Cricetulus_griseus	Kdm5c	ENSCGRG00001018652	Lysine demethylase	100758549
+Cricetulus_griseus	Rnf2	ENSCGRG00001018674	Ring finger protein	100752124
+Cricetulus_griseus	Aebp1	ENSCGRG00001018686	Others	NA
+Cricetulus_griseus	Smyd3	ENSCGRG00001018690	SMYD	100764840
+Cricetulus_griseus	Nelfa	ENSCGRG00001018745	GTF	100769975
+Cricetulus_griseus	Lrif1	ENSCGRG00001018748	Others	NA
+Cricetulus_griseus	Taf1a	ENSCGRG00001018774	TATA-box	100773180
+Cricetulus_griseus	Cbx7	ENSCGRG00001018782	Chromobox	NA
+Cricetulus_griseus	Cnot11	ENSCGRG00001018815	CCR4-NOT	100760179
+Cricetulus_griseus	Phf20	ENSCGRG00001018836	PHF	100762872
+Cricetulus_griseus	Hdac11	ENSCGRG00001018847	Histone deacetylase	100772691
+Cricetulus_griseus	Supt20	ENSCGRG00001018857	SUPT	100769517
+Cricetulus_griseus	Sin3b	ENSCGRG00001018859	Others	100757579
+Cricetulus_griseus	Dvl3	ENSCGRG00001018864	Others	NA
+Cricetulus_griseus		ENSCGRG00001018882	Coiled-coil	NA
+Cricetulus_griseus	Drap1	ENSCGRG00001018888	Others	100765946
+Cricetulus_griseus	Rnf141	ENSCGRG00001018891	Ring finger protein	100758100
+Cricetulus_griseus	Ccnt2	ENSCGRG00001018905	Cyclin	100764441
+Cricetulus_griseus	Trim27	ENSCGRG00001018921	Tripartite motif	100771886
+Cricetulus_griseus	Siva1	ENSCGRG00001018931	Others	100768983
+Cricetulus_griseus	Brd3	ENSCGRG00001018938	Bromodomain	100768189
+Cricetulus_griseus	Limd1	ENSCGRG00001018965	LIM	100759535
+Cricetulus_griseus		ENSCGRG00001018983	Heat shock protein	NA
+Cricetulus_griseus	Cbx5	ENSCGRG00001019018	Chromobox	100689444
+Cricetulus_griseus	Xrcc6	ENSCGRG00001019029	Others	NA
+Cricetulus_griseus	Scmh1	ENSCGRG00001019038	Others	100754510
+Cricetulus_griseus	Trip6	ENSCGRG00001019048	Thyroid hormone receptor	100770112
+Cricetulus_griseus	Cenpb	ENSCGRG00001019077	CENP	100689274
+Cricetulus_griseus	Nfkbiz	ENSCGRG00001019170	NFKB associated	100759240
+Cricetulus_griseus	Dcc	ENSCGRG00001019199	Others	NA
+Cricetulus_griseus	Kmt2a	ENSCGRG00001019200	Lysine methyltransferase	100760424
+Cricetulus_griseus		ENSCGRG00001019229	Others	100752921
+Cricetulus_griseus	Brd8	ENSCGRG00001019239	Bromodomain	100774001
+Cricetulus_griseus	Actr6	ENSCGRG00001019259	ACTR	NA
+Cricetulus_griseus	Alpk3	ENSCGRG00001019264	Others	NA
+Cricetulus_griseus	Park7	ENSCGRG00001019265	Others	100759195
+Cricetulus_griseus	Traf6	ENSCGRG00001019275	Others	100753700
+Cricetulus_griseus		ENSCGRG00001019331	Others	100774400
+Cricetulus_griseus	Ankrd1	ENSCGRG00001019357	Ankyrin repeat	NA
+Cricetulus_griseus	Bcl3	ENSCGRG00001019375	BCL	NA
+Cricetulus_griseus	Lpin3	ENSCGRG00001019441	LPIN	NA
+Cricetulus_griseus	Wdr5	ENSCGRG00001019447	WD	100768958
+Cricetulus_griseus	Tgs1	ENSCGRG00001019470	Others	NA
+Cricetulus_griseus	Ccar1	ENSCGRG00001019471	Others	100767167
+Cricetulus_griseus	Ctr9	ENSCGRG00001019483	Others	100757530
+Cricetulus_griseus	Cbx4	ENSCGRG00001019500	Chromobox	113836681
+Cricetulus_griseus	Hira	ENSCGRG00001019509	Others	100769195
+Cricetulus_griseus		ENSCGRG00001019512	Others	100762735
+Cricetulus_griseus	Hcfc1	ENSCGRG00001019535	Others	100774489
+Cricetulus_griseus	Med16	ENSCGRG00001019551	Mediator complex	100763586
+Cricetulus_griseus	Cbl	ENSCGRG00001019559	Others	100754737
+Cricetulus_griseus	Elp4	ENSCGRG00001019577	ELP	100766660
+Cricetulus_griseus	Tada1	ENSCGRG00001019593	Transcriptional adaptor	100768714
+Cricetulus_griseus	Kat6a	ENSCGRG00001019602	Lysine acetyltransferase	100751361
+Cricetulus_griseus	Runx1t1	ENSCGRG00001019631	Others	100768348
+Cricetulus_griseus	Ccnk	ENSCGRG00001019662	Cyclin	NA
+Cricetulus_griseus	Fhl2	ENSCGRG00001019694	FHL	100762607
+Cricetulus_griseus	Sfmbt2	ENSCGRG00001019695	Others	100761982
+Cricetulus_griseus	Ncoa7	ENSCGRG00001019713	Nuclear receptor coactivator	100773831
+Cricetulus_griseus	Cdk1	ENSCGRG00001019727	Cyclin	100766716
+Cricetulus_griseus	Rhoa	ENSCGRG00001019741	Others	100762797
+Cricetulus_griseus	Eapp	ENSCGRG00001019760	Others	100763566
+Cricetulus_griseus	Dcaf1	ENSCGRG00001019765	Others	100768333
+Cricetulus_griseus	Rap2c	ENSCGRG00001019800	Others	100761576
+Cricetulus_griseus	Phf2	ENSCGRG00001019829	PHF	100764126
+Cricetulus_griseus	Phf1	ENSCGRG00001019832	PHF	NA
+Cricetulus_griseus	Kmt5b	ENSCGRG00001019834	Lysine methyltransferase	100761878
+Cricetulus_griseus	Dppa2	ENSCGRG00001019845	Others	NA
+Cricetulus_griseus	Nsd3	ENSCGRG00001019859	Nuclear receptor coactivator	100773097
+Cricetulus_griseus	Uri1	ENSCGRG00001019892	Others	NA
+Cricetulus_griseus	Brwd1	ENSCGRG00001019901	Bromodomain	100750709
+Cricetulus_griseus		ENSCGRG00001019909	Others	NA
+Cricetulus_griseus	Rnf25	ENSCGRG00001019945	Ring finger protein	100771315
+Cricetulus_griseus	Rlim	ENSCGRG00001019959	Ring finger protein	100760995
+Cricetulus_griseus	Hif1an	ENSCGRG00001019981	Others	NA
+Cricetulus_griseus	Parp9	ENSCGRG00001020003	PARP	NA
+Cricetulus_griseus	Tab3	ENSCGRG00001020007	Others	100752839
+Cricetulus_griseus	Phf8	ENSCGRG00001020020	PHF	100756628
+Cricetulus_griseus	Axin1	ENSCGRG00001020049	Others	NA
+Cricetulus_griseus	Jmjd1c	ENSCGRG00001020069	Other_CRF	100773596
+Cricetulus_griseus	RNF168	ENSCGRG00001020081	Ring finger protein	NA
+Cricetulus_griseus	Raf1	ENSCGRG00001020096	Others	100769018
+Cricetulus_griseus	Dpf2	ENSCGRG00001020101	DPF	100767725
+Cricetulus_griseus	Ctdsp1	ENSCGRG00001020131	Others	100751900
+Cricetulus_griseus	Smurf1	ENSCGRG00001020132	Others	100765164
+Cricetulus_griseus	Rybp	ENSCGRG00001020152	Others	100758801
+Cricetulus_griseus	Notch3	ENSCGRG00001020179	Notch	100753340
+Cricetulus_griseus	Calr	ENSCGRG00001020181	Others	NA
+Cricetulus_griseus	Itch	ENSCGRG00001020207	Others	NA
+Cricetulus_griseus	Ino80d	ENSCGRG00001020225	INO80 complex	NA
+Cricetulus_griseus	Ctdp1	ENSCGRG00001020255	Others	NA
+Cricetulus_griseus	Tnks	ENSCGRG00001020318	Others	100756523
+Cricetulus_griseus	Cdk13	ENSCGRG00001020334	Cyclin	NA
+Cricetulus_griseus	Kank1	ENSCGRG00001020355	Others	100759671
+Cricetulus_griseus	Bcas3	ENSCGRG00001020361	Others	100761557
+Cricetulus_griseus	Bend6	ENSCGRG00001020381	Others	100774404
+Cricetulus_griseus	Wwp2	ENSCGRG00001020395	WW	100761484
+Cricetulus_griseus		ENSCGRG00001020399	Others	NA
+Cricetulus_griseus	Phf21b	ENSCGRG00001020414	PHF	NA
+Cricetulus_griseus	Kdm3a	ENSCGRG00001020421	Lysine demethylase	100771108
+Cricetulus_griseus	Cep290	ENSCGRG00001020423	Others	100753037
+Cricetulus_griseus	Hnrnpu	ENSCGRG00001020525	HNRNP	100767942
+Cricetulus_griseus	Heatr1	ENSCGRG00001020538	Others	100763985
+Cricetulus_griseus	Hsbp1l1	ENSCGRG00001020550	Heat shock protein	NA
+Cricetulus_griseus	Sirt2	ENSCGRG00001020566	Sirtuin	100768923
+Cricetulus_griseus	Nup98	ENSCGRG00001020636	Others	100760516
+Cricetulus_griseus	Chd4	ENSCGRG00001020662	CHD	100754178
+Cricetulus_griseus	Ep300	ENSCGRG00001020720	Others	100762260
+Cricetulus_griseus	Egfr	ENSCGRG00001020721	Others	NA
+Cricetulus_griseus	Ldb1	ENSCGRG00001020743	LIM	100773526
+Cricetulus_griseus		ENSCGRG00001020759	Others	NA
+Cricetulus_griseus	MED8	ENSCGRG00001020809	Mediator complex	100767178
+Cricetulus_griseus	Ccnc	ENSCGRG00001020846	Cyclin	NA
+Cricetulus_griseus	Gtf2h2	ENSCGRG00001020894	GTF	100771702
+Cricetulus_griseus	Dscam	ENSCGRG00001020907	Others	NA
+Cricetulus_griseus	Brd1	ENSCGRG00001020920	Bromodomain	100770868
+Cricetulus_griseus	Ss18l1	ENSCGRG00001020942	SS18	100769060
+Cricetulus_griseus	Med22	ENSCGRG00001020945	Mediator complex	100771147
+Cricetulus_griseus	Gnl3	ENSCGRG00001020950	Others	100762471
+Cricetulus_griseus	Tirap	ENSCGRG00001020991	Others	NA
+Cricetulus_griseus		ENSCGRG00001021011	Ring finger protein	103162332
+Cricetulus_griseus	Gtf2a1	ENSCGRG00001021040	GTF	100750765
+Cricetulus_griseus	Stk36	ENSCGRG00001021047	Others	100771030
+Cricetulus_griseus	Wwc1	ENSCGRG00001021086	WW	113836658
+Cricetulus_griseus	L3mbtl2	ENSCGRG00001021097	Others	NA
+Cricetulus_griseus	Zfp638	ENSCGRG00001021120	Zinc finger	100769635
+Cricetulus_griseus	Vegfa	ENSCGRG00001021125	Other_CRF	NA
+Cricetulus_griseus	Ldb2	ENSCGRG00001021127	LIM	100773655
+Cricetulus_griseus	Nlrp3	ENSCGRG00001021138	Others	NA
+Cricetulus_griseus	Dab2	ENSCGRG00001021141	Others	100774674
+Cricetulus_griseus	Trip4	ENSCGRG00001021158	Thyroid hormone receptor	100755328
+Cricetulus_griseus	Trp53bp1	ENSCGRG00001021181	Others	NA
+Cricetulus_griseus	Cbx2	ENSCGRG00001021218	Chromobox	100755979
+Cricetulus_griseus	Smarcd2	ENSCGRG00001021228	SWI/SNF	100770817
+Cricetulus_griseus	Wwox	ENSCGRG00001021234	WW	100756740
+Cricetulus_griseus	Tonsl	ENSCGRG00001021255	Others	100761088
+Cricetulus_griseus	Depdc1a	ENSCGRG00001021261	Others	100767779
+Cricetulus_griseus	Tbpl1	ENSCGRG00001021262	TATA-box	NA
+Cricetulus_griseus	Ywhab	ENSCGRG00001021323	Others	100757122
+Cricetulus_griseus	Mllt3	ENSCGRG00001021349	GTF	NA
+Cricetulus_griseus	Elp1	ENSCGRG00001021382	ELP	100767755
+Cricetulus_griseus	Ccna2	ENSCGRG00001021415	Cyclin	100759649
+Cricetulus_griseus	Cdk12	ENSCGRG00001021473	Cyclin	NA
+Cricetulus_griseus	Bcl9	ENSCGRG00001021508	BCL	NA
+Cricetulus_griseus	Cdyl2	ENSCGRG00001021515	Chromodomain Y	100766529
+Cricetulus_griseus	Pcgf2	ENSCGRG00001021517	PCGF	100755947
+Cricetulus_griseus	Setd7	ENSCGRG00001021541	SET	100767175
+Cricetulus_griseus	Rnf14	ENSCGRG00001021566	Ring finger protein	NA
+Cricetulus_griseus	Htatsf1	ENSCGRG00001021602	Others	NA
+Cricetulus_griseus	Dnaja3	ENSCGRG00001021604	Others	100774313
+Cricetulus_griseus	Pidd1	ENSCGRG00001021612	Others	100753147
+Cricetulus_griseus	Chd1l	ENSCGRG00001021624	CHD	NA
+Cricetulus_griseus	Leo1	ENSCGRG00001021688	Others	100752559
+Cricetulus_griseus	Med27	ENSCGRG00001021730	Mediator complex	100760726
+Cricetulus_griseus	Mllt6	ENSCGRG00001021735	Others	NA
+Cricetulus_griseus	Coprs	ENSCGRG00001021740	Others	100756315
+Cricetulus_griseus	Yaf2	ENSCGRG00001021765	Others	100760251
+Cricetulus_griseus		ENSCGRG00001021780	Mediator complex	100768639
+Cricetulus_griseus	Kmt5a	ENSCGRG00001021783	Lysine methyltransferase	100774411
+Cricetulus_griseus	Prdx5	ENSCGRG00001021785	Others	100758393
+Cricetulus_griseus	Pbxip1	ENSCGRG00001021803	Others	NA
+Cricetulus_griseus	Clu	ENSCGRG00001021841	Others	100756447
+Cricetulus_griseus	Plk1	ENSCGRG00001021855	Others	100760676
+Cricetulus_griseus	Taf13	ENSCGRG00001021904	TATA-box	100766831
+Cricetulus_griseus	Pabpc1l	ENSCGRG00001021938	Other_CRF	100762044
+Cricetulus_griseus	Peli1	ENSCGRG00001021958	Others	100754085
+Cricetulus_griseus		ENSCGRG00001021963	Others	NA
+Cricetulus_griseus	Rita1	ENSCGRG00001021987	Others	100771723
+Cricetulus_griseus	Pid1	ENSCGRG00001022008	Others	100772428
+Cricetulus_griseus	Sltm	ENSCGRG00001022009	Others	100757547
+Cricetulus_griseus	Tcerg1l	ENSCGRG00001022062	TEF	NA
+Cricetulus_griseus	Hdac5	ENSCGRG00001022072	Histone deacetylase	100689350
+Cricetulus_griseus	Snw1	ENSCGRG00001022083	Others	100759596
+Cricetulus_griseus	Mms19	ENSCGRG00001022087	Others	100766371
+Cricetulus_griseus	Cnot6l	ENSCGRG00001022099	CCR4-NOT	100769928
+Cricetulus_griseus	Rbx1	ENSCGRG00001022113	Others	100762556
+Cricetulus_griseus	Topors	ENSCGRG00001022117	Others	NA
+Cricetulus_griseus	Cited1	ENSCGRG00001022122	CITED	100759164
+Cricetulus_griseus	Tpr	ENSCGRG00001022166	Others	100753776
+Cricetulus_griseus	Brms1l	ENSCGRG00001022168	Other_CRF	100774936
+Cricetulus_griseus	Rb1	ENSCGRG00001022172	Other_Co-activator/repressors	100752928
+Cricetulus_griseus	Sgk1	ENSCGRG00001022228	Others	100771433
+Cricetulus_griseus		ENSCGRG00001022248	Others	100770109
+Cricetulus_griseus	Mdm2	ENSCGRG00001022261	Others	NA
+Cricetulus_griseus	Ccnd1	ENSCGRG00001022268	Cyclin	NA
+Cricetulus_griseus	Dnmt1	ENSCGRG00001022275	DNA_methylase	NA
+Cricetulus_griseus	Hdac10	ENSCGRG00001022290	Histone deacetylase	NA
+Cricetulus_griseus	Brd4	ENSCGRG00001022342	Bromodomain	NA
+Cricetulus_griseus		ENSCGRG00001022376	RBBP	100757871
+Cricetulus_griseus	Gtf2b	ENSCGRG00001022382	GTF	NA
+Cricetulus_griseus	Tsg101	ENSCGRG00001022420	Others	100752541
+Cricetulus_griseus		ENSCGRG00001022425	SET	100753962
+Cricetulus_griseus	Wbp2nl	ENSCGRG00001022437	Others	100764498
+Cricetulus_griseus	Ezr	ENSCGRG00001022444	Others	NA
+Cricetulus_griseus	Hdac8	ENSCGRG00001022455	Histone deacetylase	100765184
+Cricetulus_griseus	Rnf4	ENSCGRG00001022472	Ring finger protein	100770179
+Cricetulus_griseus	MED18	ENSCGRG00001022480	Mediator complex	100770895
+Cricetulus_griseus	Snd1	ENSCGRG00001022514	Others	NA
+Cricetulus_griseus	Fgfr1	ENSCGRG00001022635	FGF	NA
+Cricetulus_griseus		ENSCGRG00001022637	ANP	100758072
+Cricetulus_griseus	Prpf6	ENSCGRG00001022666	Others	100767706
+Cricetulus_griseus	Setd6	ENSCGRG00001022683	SET	NA
+Cricetulus_griseus	Ago1	ENSCGRG00001022708	Others	100768807
+Cricetulus_griseus	Med25	ENSCGRG00001022723	Mediator complex	NA
+Cricetulus_griseus	Ehmt2	ENSCGRG00001022736	Histone lysine methyltransferase	100769417
+Cricetulus_griseus	Ndufa13	ENSCGRG00001022785	Others	100762893
+Cricetulus_griseus	Creg1	ENSCGRG00001022812	Others	100767565
+Cricetulus_griseus	Rasd1	ENSCGRG00001022821	Others	NA
+Cricetulus_griseus	Ilk	ENSCGRG00001022853	Others	100689388
+Cricetulus_griseus	Pir	ENSCGRG00001022899	Others	100772846
+Cricetulus_griseus	Hyal2	ENSCGRG00001022911	Others	100752414
+Cricetulus_griseus	Kdm2a	ENSCGRG00001022950	Lysine demethylase	100763039
+Cricetulus_griseus	Erbb4	ENSCGRG00001023006	Erbb2	NA
+Cricetulus_griseus	Apbb1	ENSCGRG00001023039	Others	100760848
+Cricetulus_griseus	Ddx17	ENSCGRG00001023050	RNA helicase	100774831
+Cricetulus_griseus	Kdm6a	ENSCGRG00001023077	Lysine demethylase	100758834
+Cricetulus_griseus	Dhx33	ENSCGRG00001023101	RNA helicase	NA
+Cricetulus_griseus	Lpxn	ENSCGRG00001023102	Others	100774643
+Cricetulus_griseus	Ss18	ENSCGRG00001023153	SS18	100768518
+Cricetulus_griseus	Zmynd8	ENSCGRG00001023160	Zinc finger	100768704
+Cricetulus_griseus	Mak	ENSCGRG00001023197	Others	100762243
+Cricetulus_griseus	Carm1	ENSCGRG00001023212	Others	100771088
+Cricetulus_griseus		ENSCGRG00001023215	Nuclear receptor coactivator	100773882
+Cricetulus_griseus		ENSCGRG00001023217	Others	100758651
+Cricetulus_griseus	Mybbp1a	ENSCGRG00001023237	MYB	100758378
+Cricetulus_griseus	Birc2	ENSCGRG00001023266	Others	NA
+Cricetulus_griseus	Syk	ENSCGRG00001023272	Others	100758656
+Cricetulus_griseus	Hcfc2	ENSCGRG00001023298	Others	100774776
+Cricetulus_griseus	Itgb3bp	ENSCGRG00001023317	Others	NA
+Cricetulus_griseus	Eya4	ENSCGRG00001023342	EYA	100754333
+Cricetulus_griseus	Camk4	ENSCGRG00001023370	CAMK	100774010
+Cricetulus_griseus	Tle4	ENSCGRG00001023373	Transducin	100762258
+Cricetulus_griseus	C1d	ENSCGRG00001023376	Other_Co-activator/repressors	100689353
+Cricetulus_griseus	Sap30l	ENSCGRG00001023382	SAP	100768241
+Cricetulus_griseus	Cxxc5	ENSCGRG00001023419	Others	113834033
+Cricetulus_griseus	Cnot10	ENSCGRG00001023474	CCR4-NOT	100770796
+Cricetulus_griseus	Srsf2	ENSCGRG00001023483	Others	NA
+Cricetulus_griseus	Csrp3	ENSCGRG00001023491	Others	100761159
+Cricetulus_griseus	Cbx6	ENSCGRG00001023499	Chromobox	103161880
+Cricetulus_griseus	Tasor	ENSCGRG00001023504	FAM	100752192
+Cricetulus_griseus	Suv39h1	ENSCGRG00001023557	Others	100764568
+Cricetulus_griseus	Smurf2	ENSCGRG00001023581	Others	100773704
+Cricetulus_griseus	Efcab6	ENSCGRG00001023590	Others	NA
+Cricetulus_griseus	Mad2l2	ENSCGRG00001023601	Others	NA
+Cricetulus_griseus	Sirt3	ENSCGRG00001023616	Sirtuin	100762304
+Cricetulus_griseus	Med13l	ENSCGRG00001023619	Mediator complex	100757555
+Cricetulus_griseus	Spag8	ENSCGRG00001023642	Others	NA
+Cricetulus_griseus	Hipk2	ENSCGRG00001023661	HIPK	NA
+Cricetulus_griseus	Kmt2b	ENSCGRG00001023704	Lysine methyltransferase	100750575
+Cricetulus_griseus	Nfatc2ip	ENSCGRG00001023795	Nuclear coactivator	100764196
+Cricetulus_griseus	Ash2l	ENSCGRG00001023804	Others	NA
+Cricetulus_griseus	Wwtr1	ENSCGRG00001023807	WW	100758012
+Cricetulus_griseus	BC004004	ENSCGRG00001023827	Other_CRF	100753933
+Cricetulus_griseus	Cdc73	ENSCGRG00001023831	Others	100767294
+Cricetulus_griseus	Ikbkg	ENSCGRG00001023852	Others	100759762
+Cricetulus_griseus	Ino80c	ENSCGRG00001023869	INO80 complex	100766878
+Cricetulus_griseus	Cops5	ENSCGRG00001023879	Others	100767044
+Cricetulus_griseus	Kdm6b	ENSCGRG00001023895	Lysine demethylase	NA
+Cricetulus_griseus	Actl6b	ENSCGRG00001023904	Actin	100753067
+Cricetulus_griseus	Hdac7	ENSCGRG00001023917	Histone deacetylase	100766171
+Cricetulus_griseus	Kdm5b	ENSCGRG00001023924	Lysine demethylase	NA
+Cricetulus_griseus	Picalm	ENSCGRG00001023935	Others	NA
+Cricetulus_griseus	Chd1	ENSCGRG00001023943	CHD	100751866
+Cricetulus_griseus	Dot1l	ENSCGRG00001023955	Others	100771005
+Cricetulus_griseus	Ciita	ENSCGRG00001023958	Others	NA
+Cricetulus_griseus	Dpf1	ENSCGRG00001023964	DPF	103161811
+Cricetulus_griseus	Hint1	ENSCGRG00001023991	Others	100764340
+Cricetulus_griseus	Nol11	ENSCGRG00001024010	Nuclear coactivator	100767464
+Cricetulus_griseus		ENSCGRG00001024015	Others	NA
+Cricetulus_griseus		ENSCGRG00001024024	NFKB associated	100754153
+Cricetulus_griseus	Nipbl	ENSCGRG00001024039	Others	100772261
+Cricetulus_griseus	Tle3	ENSCGRG00001024081	Transducin	100754091
+Cricetulus_griseus	Ski	ENSCGRG00001024094	SKI	100755403
+Cricetulus_griseus	Tnip1	ENSCGRG00001024112	Others	100764935
+Cricetulus_griseus	Fhl3	ENSCGRG00001024120	FHL	100751268
+Cricetulus_griseus	Siah2	ENSCGRG00001024133	Others	100773133
+Cricetulus_griseus	Cxxc1	ENSCGRG00001024166	Others	100770455
+Cricetulus_griseus	Pik3r1	ENSCGRG00001024173	Others	100750761
+Cricetulus_griseus	Hcls1	ENSCGRG00001024176	Others	NA
+Cricetulus_griseus	Chchd3	ENSCGRG00001024181	Coiled-coil	100750398
+Cricetulus_griseus	Actr5	ENSCGRG00001024182	ACTR	100765489
+Cricetulus_griseus	Bdp1	ENSCGRG00001024257	GTF	100759229
+Cricetulus_griseus	Lancl2	ENSCGRG00001024284	Others	100763111
+Cricetulus_griseus	Cenpu	ENSCGRG00001024299	CENP	100753571
+Cricetulus_griseus		ENSCGRG00001024300	Others	100773691
+Cricetulus_griseus	Cbx3	ENSCGRG00001024311	Chromobox	113837793
+Cricetulus_griseus		ENSCGRG00001024315	Others	100689056
+Cricetulus_griseus	Rpap2	ENSCGRG00001024341	Others	100763199
+Cricetulus_griseus	Trim8	ENSCGRG00001024342	Tripartite motif	100757352
+Cricetulus_griseus	Ccnh	ENSCGRG00001024363	Cyclin	100762144
+Cricetulus_griseus	Tenm2	ENSCGRG00001024364	Others	NA
+Cricetulus_griseus	Msl3	ENSCGRG00001024399	Others	100760785
+Cricetulus_griseus	Cidea	ENSCGRG00001024410	Others	100763404
+Cricetulus_griseus		ENSCGRG00001024458	Other_CRF	113834833
+Cricetulus_griseus	Aurkb	ENSCGRG00001024489	Others	100753283
+Cricetulus_griseus	Atf7ip	ENSCGRG00001024496	Others	100753637
+Cricetulus_griseus	Pex14	ENSCGRG00001024545	Others	NA
+Cricetulus_griseus	Nsmce4a	ENSCGRG00001024552	EID	100774921
+Cricetulus_griseus	Epc2	ENSCGRG00001024568	Others	100773541
+Cricetulus_griseus	Tnp1	ENSCGRG00001024576	Other_CRF	100755165
+Cricetulus_griseus	Gps2	ENSCGRG00001024581	Others	100766072
+Cricetulus_griseus	Kdm2b	ENSCGRG00001024585	Lysine demethylase	100767158
+Cricetulus_griseus	Supt7l	ENSCGRG00001024595	SUPT	100757081
+Cricetulus_griseus	Fbxw7	ENSCGRG00001024605	Others	100761759
+Cricetulus_griseus	Nrg1	ENSCGRG00001024689	Others	100757907
+Cricetulus_griseus	Abl1	ENSCGRG00001024699	Others	100768098
+Cricetulus_griseus	Arrb2	ENSCGRG00001024701	Others	100750830
+Cricetulus_griseus	Pink1	ENSCGRG00001024734	Others	100757303
+Cricetulus_griseus	Irf2bpl	ENSCGRG00001024769	Others	NA
+Cricetulus_griseus	Ralgapa1	ENSCGRG00001024774	Others	NA
+Cricetulus_griseus	Brdt	ENSCGRG00001024776	Bromodomain	NA
+Cricetulus_griseus	Bcl9l	ENSCGRG00001024818	BCL	100770128
+Cricetulus_griseus	Dgkq	ENSCGRG00001024827	Others	NA
+Cricetulus_griseus	Myo6	ENSCGRG00001024878	Others	100765167
+Cricetulus_griseus	Blm	ENSCGRG00001024897	Others	NA
+Cricetulus_griseus	Rbm14	ENSCGRG00001024921	RNA binding protein	100757535
+Cricetulus_griseus	Taf12	ENSCGRG00001024959	TATA-box	100769367
+Cricetulus_griseus	Sin3a	ENSCGRG00001025002	Other_CRF	100761538
+Cricetulus_griseus	Habp4	ENSCGRG00001025040	Others	100760637

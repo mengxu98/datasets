@@ -1,0 +1,764 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Myripristis_murdjan	dpy30	ENSMMDG00005000012	Others	NA
+Myripristis_murdjan	polr3f	ENSMMDG00005000051	POLR	NA
+Myripristis_murdjan	plrg1	ENSMMDG00005000088	Others	115367430
+Myripristis_murdjan	htatip2	ENSMMDG00005000108	Others	NA
+Myripristis_murdjan	tradd	ENSMMDG00005000176	Others	115357304
+Myripristis_murdjan	mdm4	ENSMMDG00005000181	Others	115359164
+Myripristis_murdjan	pfdn5	ENSMMDG00005000184	Others	115359666
+Myripristis_murdjan	dmap1	ENSMMDG00005000211	DNA_methylase	NA
+Myripristis_murdjan	blm	ENSMMDG00005000284	Others	115361044
+Myripristis_murdjan	leo1	ENSMMDG00005000296	Others	115357076
+Myripristis_murdjan	wnt4	ENSMMDG00005000390	Others	NA
+Myripristis_murdjan		ENSMMDG00005000433	Others	115378928
+Myripristis_murdjan	ssbp3b	ENSMMDG00005000436	Others	115358218
+Myripristis_murdjan	txlng	ENSMMDG00005000463	Others	115377584
+Myripristis_murdjan	dnmt1	ENSMMDG00005000480	DNA_methylase	115363625
+Myripristis_murdjan	mad2l2	ENSMMDG00005000492	Others	115362126
+Myripristis_murdjan	tprb	ENSMMDG00005000569	Others	NA
+Myripristis_murdjan	skia	ENSMMDG00005000627	SKI	115361981
+Myripristis_murdjan	zgc:162255	ENSMMDG00005000633	Other_CRF	115359682
+Myripristis_murdjan	eno1a	ENSMMDG00005000763	Others	115362089
+Myripristis_murdjan	slc19a1	ENSMMDG00005000822	SLC	NA
+Myripristis_murdjan	PLK1	ENSMMDG00005000859	Others	115367705
+Myripristis_murdjan	ctnnd1	ENSMMDG00005000863	Casein	NA
+Myripristis_murdjan	noc2l	ENSMMDG00005000917	Others	115361704
+Myripristis_murdjan	med28	ENSMMDG00005000944	Mediator complex	115365794
+Myripristis_murdjan	pin1	ENSMMDG00005001037	Others	115365339
+Myripristis_murdjan	yaf2	ENSMMDG00005001063	Others	115360317
+Myripristis_murdjan	NAA15	ENSMMDG00005001073	Others	NA
+Myripristis_murdjan	phf12b	ENSMMDG00005001181	PHF	115370286
+Myripristis_murdjan	ino80c	ENSMMDG00005001198	INO80 complex	115374380
+Myripristis_murdjan	hira	ENSMMDG00005001211	Others	NA
+Myripristis_murdjan	dpf2	ENSMMDG00005001231	DPF	NA
+Myripristis_murdjan	polr3c	ENSMMDG00005001235	POLR	115373500
+Myripristis_murdjan	sirt6	ENSMMDG00005001413	Sirtuin	115375694
+Myripristis_murdjan	bcas3	ENSMMDG00005001437	Others	NA
+Myripristis_murdjan	ing4	ENSMMDG00005001445	ING	115374268
+Myripristis_murdjan	aip	ENSMMDG00005001446	Others	115366964
+Myripristis_murdjan	lpin2	ENSMMDG00005001490	LPIN	NA
+Myripristis_murdjan	abrab	ENSMMDG00005001495	Actin	NA
+Myripristis_murdjan	padi2	ENSMMDG00005001496	Other_CRF	115359265
+Myripristis_murdjan	supt16h	ENSMMDG00005001509	SUPT	115376522
+Myripristis_murdjan	apbb2b	ENSMMDG00005001523	Others	NA
+Myripristis_murdjan	med30	ENSMMDG00005001535	Mediator complex	115368220
+Myripristis_murdjan	rad21b	ENSMMDG00005001684	Others	115367330
+Myripristis_murdjan	plk3	ENSMMDG00005001739	Others	115375457
+Myripristis_murdjan	taf7	ENSMMDG00005001770	TATA-box	115366377
+Myripristis_murdjan	zgc:55733	ENSMMDG00005001811	HNRNP	115376341
+Myripristis_murdjan	TOB2	ENSMMDG00005001914	Others	115363914
+Myripristis_murdjan	pycard	ENSMMDG00005001916	Others	NA
+Myripristis_murdjan	kat8	ENSMMDG00005001945	Lysine acetyltransferase	115363767
+Myripristis_murdjan	gmnn	ENSMMDG00005001954	Others	NA
+Myripristis_murdjan	hnrnpd	ENSMMDG00005001961	HNRNP	NA
+Myripristis_murdjan	tdp2b	ENSMMDG00005001963	Others	115367409
+Myripristis_murdjan	chrac1	ENSMMDG00005001976	Other_CRF	115367875
+Myripristis_murdjan	ascc2	ENSMMDG00005002008	ASCC	115365172
+Myripristis_murdjan	ILK	ENSMMDG00005002014	Others	115370059
+Myripristis_murdjan	rbx1	ENSMMDG00005002108	Others	115362901
+Myripristis_murdjan	trim32	ENSMMDG00005002110	Tripartite motif	115368793
+Myripristis_murdjan	calr3a	ENSMMDG00005002132	Others	NA
+Myripristis_murdjan	brip1	ENSMMDG00005002145	Others	NA
+Myripristis_murdjan	med20	ENSMMDG00005002227	Mediator complex	115358754
+Myripristis_murdjan	grhpra	ENSMMDG00005002287	Others	115367072
+Myripristis_murdjan	supt6h	ENSMMDG00005002344	SUPT	115371205
+Myripristis_murdjan	tab1	ENSMMDG00005002355	Others	NA
+Myripristis_murdjan	actr6	ENSMMDG00005002399	ACTR	115361203
+Myripristis_murdjan	fbxw11a	ENSMMDG00005002449	Others	115366480
+Myripristis_murdjan	cbx6a	ENSMMDG00005002478	Chromobox	115359328
+Myripristis_murdjan	cnot11	ENSMMDG00005002570	CCR4-NOT	NA
+Myripristis_murdjan	loxl3b	ENSMMDG00005002574	Others	NA
+Myripristis_murdjan	znf593	ENSMMDG00005002609	Zinc finger	115354042
+Myripristis_murdjan	epc1a	ENSMMDG00005002612	Others	115378595
+Myripristis_murdjan	hnrnpub	ENSMMDG00005002655	HNRNP	115356020
+Myripristis_murdjan	chaf1b	ENSMMDG00005002685	Others	115379601
+Myripristis_murdjan	elp4	ENSMMDG00005002731	ELP	115355060
+Myripristis_murdjan	bcl9	ENSMMDG00005002739	BCL	115379619
+Myripristis_murdjan	gtf2h5	ENSMMDG00005002845	GTF	115356005
+Myripristis_murdjan	sap18	ENSMMDG00005002873	SAP	115371453
+Myripristis_murdjan	tonsl	ENSMMDG00005002892	Others	115354782
+Myripristis_murdjan	smyd2a	ENSMMDG00005002965	SMYD	NA
+Myripristis_murdjan	lin54	ENSMMDG00005003009	Others	115368789
+Myripristis_murdjan	ncl	ENSMMDG00005003041	Others	115357645
+Myripristis_murdjan	FAM83G	ENSMMDG00005003072	FAM	115364848
+Myripristis_murdjan	gsk3ba	ENSMMDG00005003137	Others	115379634
+Myripristis_murdjan	ldb1b	ENSMMDG00005003141	LIM	NA
+Myripristis_murdjan	NDUFA13	ENSMMDG00005003172	Others	115375871
+Myripristis_murdjan	trak2	ENSMMDG00005003175	Others	115371232
+Myripristis_murdjan	wwtr1	ENSMMDG00005003223	WW	115358207
+Myripristis_murdjan	actn1	ENSMMDG00005003290	Actin	115353908
+Myripristis_murdjan	DUSP26	ENSMMDG00005003307	Others	115369045
+Myripristis_murdjan	HYAL2	ENSMMDG00005003319	Others	115359955
+Myripristis_murdjan	gnl3	ENSMMDG00005003334	Others	115359893
+Myripristis_murdjan	ASF1B	ENSMMDG00005003410	Others	115363967
+Myripristis_murdjan	pagr1	ENSMMDG00005003433	Others	115377829
+Myripristis_murdjan	aurkb	ENSMMDG00005003446	Others	115366053
+Myripristis_murdjan		ENSMMDG00005003447	Bromodomain	NA
+Myripristis_murdjan	trib1	ENSMMDG00005003459	Others	NA
+Myripristis_murdjan	runx1t1	ENSMMDG00005003488	Others	NA
+Myripristis_murdjan	frzb	ENSMMDG00005003496	Others	NA
+Myripristis_murdjan	cdk9	ENSMMDG00005003506	Cyclin	NA
+Myripristis_murdjan	tgfbr3	ENSMMDG00005003536	Others	NA
+Myripristis_murdjan		ENSMMDG00005003561	Casein	NA
+Myripristis_murdjan	taf1b	ENSMMDG00005003582	TATA-box	NA
+Myripristis_murdjan	cbfa2t3	ENSMMDG00005003611	Others	NA
+Myripristis_murdjan	nif3l1	ENSMMDG00005003612	Others	115377821
+Myripristis_murdjan	nudt5	ENSMMDG00005003618	Other_CRF	NA
+Myripristis_murdjan	slc30a9	ENSMMDG00005003625	SLC	115366606
+Myripristis_murdjan	KCNIP3	ENSMMDG00005003716	Others	NA
+Myripristis_murdjan	pex14	ENSMMDG00005003882	Others	NA
+Myripristis_murdjan	ash2l	ENSMMDG00005003886	Others	115369243
+Myripristis_murdjan	sin3b	ENSMMDG00005003960	Others	115357539
+Myripristis_murdjan	phf20a	ENSMMDG00005004009	PHF	115358965
+Myripristis_murdjan	jmjd6	ENSMMDG00005004045	Others	115362895
+Myripristis_murdjan	hsbp1b	ENSMMDG00005004064	Heat shock protein	115360942
+Myripristis_murdjan	tsg101a	ENSMMDG00005004097	Others	115360798
+Myripristis_murdjan	ALYREF	ENSMMDG00005004118	Others	115363456
+Myripristis_murdjan	nab1a	ENSMMDG00005004121	Others	NA
+Myripristis_murdjan	pcgf1	ENSMMDG00005004243	PCGF	115367091
+Myripristis_murdjan	npm1b	ENSMMDG00005004265	Nucleoplasmin	NA
+Myripristis_murdjan	kat2b	ENSMMDG00005004318	Lysine acetyltransferase	NA
+Myripristis_murdjan	fgf2	ENSMMDG00005004338	FGF	115366385
+Myripristis_murdjan		ENSMMDG00005004409	WD	115359679
+Myripristis_murdjan	mycbp	ENSMMDG00005004420	MYC	115368315
+Myripristis_murdjan	mllt1b	ENSMMDG00005004422	GTF	115357566
+Myripristis_murdjan	tenm1	ENSMMDG00005004446	Others	NA
+Myripristis_murdjan	pspc1	ENSMMDG00005004495	Others	115371815
+Myripristis_murdjan	rnf25	ENSMMDG00005004560	Ring finger protein	115364354
+Myripristis_murdjan	PELI1	ENSMMDG00005004574	Others	115372328
+Myripristis_murdjan	ehmt2	ENSMMDG00005004595	Histone lysine methyltransferase	115367604
+Myripristis_murdjan	bcl9l	ENSMMDG00005004639	BCL	115370130
+Myripristis_murdjan	ccne1	ENSMMDG00005004645	Cyclin	115356055
+Myripristis_murdjan	ctdp1	ENSMMDG00005004665	Others	115367452
+Myripristis_murdjan	smarcad1a	ENSMMDG00005004747	SWI/SNF	115365559
+Myripristis_murdjan	ccnt2b	ENSMMDG00005004749	Cyclin	115372442
+Myripristis_murdjan	pir	ENSMMDG00005004812	Others	115355988
+Myripristis_murdjan	ikbkg	ENSMMDG00005004838	Others	NA
+Myripristis_murdjan	KDM1B	ENSMMDG00005004848	Lysine demethylase	NA
+Myripristis_murdjan	ddx5	ENSMMDG00005004891	RNA helicase	115362900
+Myripristis_murdjan	ogt.1	ENSMMDG00005004999	Others	115366100
+Myripristis_murdjan	cdk8	ENSMMDG00005005001	Cyclin	NA
+Myripristis_murdjan	pid1	ENSMMDG00005005030	Others	115370234
+Myripristis_murdjan	rprd1b	ENSMMDG00005005081	Others	115361565
+Myripristis_murdjan	skap1	ENSMMDG00005005155	Others	NA
+Myripristis_murdjan	c1d	ENSMMDG00005005173	Other_Co-activator/repressors	115372171
+Myripristis_murdjan	jupa	ENSMMDG00005005176	Others	115363279
+Myripristis_murdjan	cdk5rap3	ENSMMDG00005005179	Cyclin	115378396
+Myripristis_murdjan	dot1l	ENSMMDG00005005213	Others	NA
+Myripristis_murdjan	tnip2	ENSMMDG00005005244	Others	NA
+Myripristis_murdjan	cnot8	ENSMMDG00005005262	CCR4-NOT	115371091
+Myripristis_murdjan	bud31	ENSMMDG00005005279	Others	115363186
+Myripristis_murdjan	mrtfba	ENSMMDG00005005323	Others	NA
+Myripristis_murdjan	rprd1a	ENSMMDG00005005356	Others	115367398
+Myripristis_murdjan	gtf2h4	ENSMMDG00005005376	GTF	115367474
+Myripristis_murdjan	ddx39b	ENSMMDG00005005438	RNA helicase	115367476
+Myripristis_murdjan	carm1	ENSMMDG00005005524	Others	NA
+Myripristis_murdjan	smurf2	ENSMMDG00005005577	Others	115362898
+Myripristis_murdjan	arrb1	ENSMMDG00005005589	Others	NA
+Myripristis_murdjan	sgf29	ENSMMDG00005005616	Others	115364401
+Myripristis_murdjan	fgf3	ENSMMDG00005005681	FGF	115356971
+Myripristis_murdjan	nrbf2b	ENSMMDG00005005691	Nuclear receptor coactivator	115377394
+Myripristis_murdjan	hck	ENSMMDG00005005694	Others	NA
+Myripristis_murdjan		ENSMMDG00005005708	RBBP	115368241
+Myripristis_murdjan	med17	ENSMMDG00005005881	Mediator complex	115370693
+Myripristis_murdjan	ncoa4	ENSMMDG00005005929	Nuclear receptor coactivator	NA
+Myripristis_murdjan	TRAK1	ENSMMDG00005005973	Others	NA
+Myripristis_murdjan	med4	ENSMMDG00005006013	Mediator complex	NA
+Myripristis_murdjan	actr8	ENSMMDG00005006067	ACTR	115361758
+Myripristis_murdjan	kmt5c	ENSMMDG00005006104	Lysine methyltransferase	NA
+Myripristis_murdjan	mrgbp	ENSMMDG00005006165	Others	NA
+Myripristis_murdjan	med12	ENSMMDG00005006205	Mediator complex	NA
+Myripristis_murdjan	brf1b	ENSMMDG00005006232	GTF	NA
+Myripristis_murdjan	btk	ENSMMDG00005006246	Others	115366466
+Myripristis_murdjan		ENSMMDG00005006263	Bromodomain	NA
+Myripristis_murdjan	pik3r1	ENSMMDG00005006298	Others	115368553
+Myripristis_murdjan		ENSMMDG00005006309	Others	NA
+Myripristis_murdjan	chek2	ENSMMDG00005006336	Others	NA
+Myripristis_murdjan	tirap	ENSMMDG00005006339	Others	115370093
+Myripristis_murdjan	csnk2a4	ENSMMDG00005006378	Casein	115359095
+Myripristis_murdjan	eya4	ENSMMDG00005006387	EYA	NA
+Myripristis_murdjan	pim1	ENSMMDG00005006390	Others	115362250
+Myripristis_murdjan	tbpl1	ENSMMDG00005006420	TATA-box	115356244
+Myripristis_murdjan	picalmb	ENSMMDG00005006425	Others	115369828
+Myripristis_murdjan	SGK1	ENSMMDG00005006445	Others	115356184
+Myripristis_murdjan	JMY	ENSMMDG00005006450	Others	NA
+Myripristis_murdjan	stk3	ENSMMDG00005006488	Others	115367509
+Myripristis_murdjan	hspa8b	ENSMMDG00005006494	Heat shock protein	115369840
+Myripristis_murdjan	rbl1	ENSMMDG00005006525	Other_Co-activator/repressors	NA
+Myripristis_murdjan	dnajb1a	ENSMMDG00005006536	Others	115364006
+Myripristis_murdjan	kdm2ab	ENSMMDG00005006544	Lysine demethylase	115366085
+Myripristis_murdjan	kdm4b	ENSMMDG00005006549	Lysine demethylase	115357700
+Myripristis_murdjan	ZNF703	ENSMMDG00005006551	Zinc finger	115368502
+Myripristis_murdjan	rexo4	ENSMMDG00005006612	Others	115377742
+Myripristis_murdjan	nsd3	ENSMMDG00005006659	Nuclear receptor coactivator	NA
+Myripristis_murdjan		ENSMMDG00005006671	Actin	115363912
+Myripristis_murdjan	smurf1	ENSMMDG00005006730	Others	NA
+Myripristis_murdjan	actr5	ENSMMDG00005006876	ACTR	115361523
+Myripristis_murdjan	erbin	ENSMMDG00005006885	Erbb2	NA
+Myripristis_murdjan	ACTN4	ENSMMDG00005006914	Actin	115369640
+Myripristis_murdjan	supt3h	ENSMMDG00005006972	SUPT	NA
+Myripristis_murdjan	edrf1	ENSMMDG00005007034	Others	115372790
+Myripristis_murdjan	chtopa	ENSMMDG00005007036	Others	115367489
+Myripristis_murdjan	top1l	ENSMMDG00005007045	Other_CRF	115359385
+Myripristis_murdjan	CBX4	ENSMMDG00005007047	Chromobox	115364623
+Myripristis_murdjan		ENSMMDG00005007066	RNA helicase	115363357
+Myripristis_murdjan	trim25	ENSMMDG00005007072	Tripartite motif	115357432
+Myripristis_murdjan	ilf2	ENSMMDG00005007101	Others	115367479
+Myripristis_murdjan	wwox	ENSMMDG00005007125	WW	115360696
+Myripristis_murdjan	rptor	ENSMMDG00005007160	Others	115357401
+Myripristis_murdjan	nrip1b	ENSMMDG00005007181	Nuclear receptor coactivator	NA
+Myripristis_murdjan	cops5	ENSMMDG00005007196	Others	115378968
+Myripristis_murdjan	crtc1b	ENSMMDG00005007228	CREB	115357705
+Myripristis_murdjan	rbmx	ENSMMDG00005007256	RNA binding protein	115366507
+Myripristis_murdjan	cnot2	ENSMMDG00005007260	CCR4-NOT	115360928
+Myripristis_murdjan	txnipa	ENSMMDG00005007306	Others	115367478
+Myripristis_murdjan	bmi1a	ENSMMDG00005007312	Others	NA
+Myripristis_murdjan	sin3aa	ENSMMDG00005007370	Other_CRF	115360616
+Myripristis_murdjan	wdr61	ENSMMDG00005007388	WD	115361208
+Myripristis_murdjan	chchd2	ENSMMDG00005007417	Coiled-coil	115370668
+Myripristis_murdjan	ascc1	ENSMMDG00005007481	ASCC	115377513
+Myripristis_murdjan		ENSMMDG00005007497	NFKB associated	NA
+Myripristis_murdjan	MDM2	ENSMMDG00005007595	Others	115355504
+Myripristis_murdjan	arhgap5	ENSMMDG00005007636	Others	115353953
+Myripristis_murdjan	chchd6a	ENSMMDG00005007672	Coiled-coil	115362301
+Myripristis_murdjan	hdac7a	ENSMMDG00005007685	Histone deacetylase	NA
+Myripristis_murdjan	phf5a	ENSMMDG00005007725	PHF	115377992
+Myripristis_murdjan	strn	ENSMMDG00005007845	Others	115356087
+Myripristis_murdjan	jak2b	ENSMMDG00005007867	Others	115364763
+Myripristis_murdjan	eed	ENSMMDG00005007873	Others	115375179
+Myripristis_murdjan	fgfr2	ENSMMDG00005007887	FGF	NA
+Myripristis_murdjan	hcfc1a	ENSMMDG00005007918	Others	NA
+Myripristis_murdjan	zgc:123305	ENSMMDG00005007965	LPIN	115358913
+Myripristis_murdjan	rnf14	ENSMMDG00005007987	Ring finger protein	115371958
+Myripristis_murdjan	taf5	ENSMMDG00005008045	TATA-box	115371452
+Myripristis_murdjan	cxxc1b	ENSMMDG00005008061	Others	115359796
+Myripristis_murdjan	wwp2	ENSMMDG00005008077	WW	115360394
+Myripristis_murdjan	rlim	ENSMMDG00005008081	Ring finger protein	115366455
+Myripristis_murdjan	ccar1	ENSMMDG00005008087	Others	NA
+Myripristis_murdjan	RING1	ENSMMDG00005008119	Ring finger protein	115367381
+Myripristis_murdjan	lbh	ENSMMDG00005008181	Others	115354614
+Myripristis_murdjan	KDM5B	ENSMMDG00005008203	Lysine demethylase	115361476
+Myripristis_murdjan	sirt2	ENSMMDG00005008312	Sirtuin	115369982
+Myripristis_murdjan	snx6	ENSMMDG00005008315	Others	NA
+Myripristis_murdjan	esf1	ENSMMDG00005008361	Others	115380308
+Myripristis_murdjan	rpap2	ENSMMDG00005008387	Others	115375288
+Myripristis_murdjan	emsy	ENSMMDG00005008415	Others	NA
+Myripristis_murdjan	smarca5	ENSMMDG00005008435	SWI/SNF	115357770
+Myripristis_murdjan	nsmce4a	ENSMMDG00005008461	EID	115372542
+Myripristis_murdjan	loxl2b	ENSMMDG00005008520	Others	NA
+Myripristis_murdjan	brca2	ENSMMDG00005008528	Others	NA
+Myripristis_murdjan		ENSMMDG00005008554	Others	115366658
+Myripristis_murdjan	mtf2	ENSMMDG00005008570	Others	115375107
+Myripristis_murdjan	med10	ENSMMDG00005008582	Mediator complex	115367262
+Myripristis_murdjan	dscama	ENSMMDG00005008649	Others	NA
+Myripristis_murdjan	H2AZ1	ENSMMDG00005008655	Others	115377081
+Myripristis_murdjan	skila	ENSMMDG00005008701	SKI	NA
+Myripristis_murdjan	CBL	ENSMMDG00005008702	Others	115369940
+Myripristis_murdjan	uri1	ENSMMDG00005008735	Others	115360885
+Myripristis_murdjan	cdk7	ENSMMDG00005008742	Cyclin	115365888
+Myripristis_murdjan	src	ENSMMDG00005008751	Others	115361828
+Myripristis_murdjan	ddx1	ENSMMDG00005008779	RNA helicase	115356532
+Myripristis_murdjan	cnot3a	ENSMMDG00005008817	CCR4-NOT	115373557
+Myripristis_murdjan	irf2bpl	ENSMMDG00005008820	Others	115356756
+Myripristis_murdjan	chd4a	ENSMMDG00005008844	CHD	NA
+Myripristis_murdjan	med11	ENSMMDG00005008849	Mediator complex	115377062
+Myripristis_murdjan	pelp1	ENSMMDG00005008855	Others	115377060
+Myripristis_murdjan		ENSMMDG00005008864	Tripartite motif	115366970
+Myripristis_murdjan	LRPPRC	ENSMMDG00005008898	Others	115372462
+Myripristis_murdjan	malt1	ENSMMDG00005008972	Others	115364765
+Myripristis_murdjan	cep290	ENSMMDG00005009030	Others	NA
+Myripristis_murdjan	setd6	ENSMMDG00005009061	SET	115360130
+Myripristis_murdjan	cnot1	ENSMMDG00005009076	CCR4-NOT	NA
+Myripristis_murdjan	sf1	ENSMMDG00005009088	Others	115376185
+Myripristis_murdjan	raly	ENSMMDG00005009123	Others	NA
+Myripristis_murdjan	ran	ENSMMDG00005009127	Others	115366778
+Myripristis_murdjan		ENSMMDG00005009134	Sirtuin	115372781
+Myripristis_murdjan	med19a	ENSMMDG00005009180	Mediator complex	115367054
+Myripristis_murdjan	si:dkey-6i22.5	ENSMMDG00005009183	Others	115366219
+Myripristis_murdjan	men1	ENSMMDG00005009193	Others	115376836
+Myripristis_murdjan	rybpa	ENSMMDG00005009204	Others	115359029
+Myripristis_murdjan	YWHAB	ENSMMDG00005009258	Others	115358880
+Myripristis_murdjan	SMARCA2	ENSMMDG00005009285	SWI/SNF	NA
+Myripristis_murdjan		ENSMMDG00005009306	Others	NA
+Myripristis_murdjan	kat2a	ENSMMDG00005009366	Lysine acetyltransferase	NA
+Myripristis_murdjan	chd6	ENSMMDG00005009374	CHD	NA
+Myripristis_murdjan	SAMD4B	ENSMMDG00005009419	Others	115370620
+Myripristis_murdjan	setd3	ENSMMDG00005009432	SET	115380661
+Myripristis_murdjan	PAF1	ENSMMDG00005009443	Others	115370621
+Myripristis_murdjan	xrcc6	ENSMMDG00005009465	Others	115378321
+Myripristis_murdjan	wwc3	ENSMMDG00005009503	WW	115358342
+Myripristis_murdjan	chd1l	ENSMMDG00005009516	CHD	115357845
+Myripristis_murdjan	morf4l1	ENSMMDG00005009517	Other_CRF	115360579
+Myripristis_murdjan	hipk3b	ENSMMDG00005009570	HIPK	NA
+Myripristis_murdjan	dact1	ENSMMDG00005009624	Others	NA
+Myripristis_murdjan	nfkbiaa	ENSMMDG00005009630	NFKB associated	115356597
+Myripristis_murdjan	brms1lb	ENSMMDG00005009632	Other_CRF	NA
+Myripristis_murdjan	snapc5	ENSMMDG00005009708	Others	115360408
+Myripristis_murdjan		ENSMMDG00005009727	Others	115371251
+Myripristis_murdjan	CDYL2	ENSMMDG00005009728	Chromodomain Y	115377217
+Myripristis_murdjan	atrx	ENSMMDG00005009742	Others	NA
+Myripristis_murdjan	arl2bp	ENSMMDG00005009751	Others	115361306
+Myripristis_murdjan	siah2l	ENSMMDG00005009764	Others	115371245
+Myripristis_murdjan	tdg.1	ENSMMDG00005009807	Others	NA
+Myripristis_murdjan	kmt5b	ENSMMDG00005009834	Lysine methyltransferase	115379238
+Myripristis_murdjan	arrb2a	ENSMMDG00005009850	Others	115371239
+Myripristis_murdjan	snw1	ENSMMDG00005009864	Others	115356356
+Myripristis_murdjan	pih1d1	ENSMMDG00005009877	Other_CRF	115364491
+Myripristis_murdjan	phf21ab	ENSMMDG00005009902	PHF	NA
+Myripristis_murdjan	cops2	ENSMMDG00005009909	Others	115353940
+Myripristis_murdjan	cdk5r1b	ENSMMDG00005009918	Cyclin	115377634
+Myripristis_murdjan	ercc3	ENSMMDG00005009935	Others	115357016
+Myripristis_murdjan	tdrd3	ENSMMDG00005010014	Others	115379405
+Myripristis_murdjan	dpf1	ENSMMDG00005010049	DPF	NA
+Myripristis_murdjan	taf10	ENSMMDG00005010054	TATA-box	115361848
+Myripristis_murdjan	gtf2h2	ENSMMDG00005010102	GTF	115365805
+Myripristis_murdjan	auts2a	ENSMMDG00005010155	Others	NA
+Myripristis_murdjan	hdac10	ENSMMDG00005010205	Histone deacetylase	115354694
+Myripristis_murdjan	bend3	ENSMMDG00005010221	Others	115354280
+Myripristis_murdjan	rasd1	ENSMMDG00005010236	Others	115377892
+Myripristis_murdjan	CILK1	ENSMMDG00005010300	Others	115372499
+Myripristis_murdjan	fhit	ENSMMDG00005010375	Others	115358975
+Myripristis_murdjan	SCMH1	ENSMMDG00005010389	Others	115373916
+Myripristis_murdjan		ENSMMDG00005010415	Others	NA
+Myripristis_murdjan	med13a	ENSMMDG00005010425	Mediator complex	115370939
+Myripristis_murdjan	dapk3	ENSMMDG00005010442	Others	115375562
+Myripristis_murdjan	ehmt1b	ENSMMDG00005010471	Histone lysine methyltransferase	NA
+Myripristis_murdjan	daxx	ENSMMDG00005010515	Other_CRF	115368089
+Myripristis_murdjan	med18	ENSMMDG00005010520	Mediator complex	115373245
+Myripristis_murdjan	pabpc1l	ENSMMDG00005010521	Other_CRF	115361624
+Myripristis_murdjan	rsf1b.1	ENSMMDG00005010534	Others	NA
+Myripristis_murdjan	grip2b	ENSMMDG00005010568	Others	NA
+Myripristis_murdjan	med29	ENSMMDG00005010619	Mediator complex	115369631
+Myripristis_murdjan	hdac3	ENSMMDG00005010654	Histone deacetylase	115366170
+Myripristis_murdjan	rbm39b	ENSMMDG00005010666	RNA binding protein	115361880
+Myripristis_murdjan	commd1	ENSMMDG00005010733	Others	115363808
+Myripristis_murdjan	chd7	ENSMMDG00005010740	CHD	NA
+Myripristis_murdjan	LIMD1	ENSMMDG00005010776	LIM	NA
+Myripristis_murdjan	eapp	ENSMMDG00005010804	Others	115353989
+Myripristis_murdjan	znf451	ENSMMDG00005010805	Zinc finger	115372718
+Myripristis_murdjan	nelfb	ENSMMDG00005010864	GTF	115365815
+Myripristis_murdjan	drap1	ENSMMDG00005010899	Others	115376499
+Myripristis_murdjan	cdk12	ENSMMDG00005010941	Cyclin	115362941
+Myripristis_murdjan	tnni2a.1	ENSMMDG00005010942	Others	NA
+Myripristis_murdjan	kank1a	ENSMMDG00005010956	Others	115365943
+Myripristis_murdjan	slc25a15a	ENSMMDG00005010972	SLC	115370167
+Myripristis_murdjan	sfr1	ENSMMDG00005011030	Others	115372200
+Myripristis_murdjan	sltm	ENSMMDG00005011045	Others	115356993
+Myripristis_murdjan		ENSMMDG00005011050	Others	115372388
+Myripristis_murdjan	tgfb3	ENSMMDG00005011068	Others	115354252
+Myripristis_murdjan	eaf1	ENSMMDG00005011081	Others	115373400
+Myripristis_murdjan	birc2	ENSMMDG00005011096	Others	115371312
+Myripristis_murdjan	ikbkb	ENSMMDG00005011131	Others	115364795
+Myripristis_murdjan	ela3l	ENSMMDG00005011139	Others	115365296
+Myripristis_murdjan	lzts1	ENSMMDG00005011164	Others	NA
+Myripristis_murdjan	xrn2	ENSMMDG00005011225	Others	NA
+Myripristis_murdjan	epc2	ENSMMDG00005011233	Others	115380136
+Myripristis_murdjan	thoc5	ENSMMDG00005011259	Others	115365790
+Myripristis_murdjan		ENSMMDG00005011298	Others	NA
+Myripristis_murdjan	dnmt3bb.1	ENSMMDG00005011348	DNA_methylase	NA
+Myripristis_murdjan	dhx36	ENSMMDG00005011372	RNA helicase	NA
+Myripristis_murdjan	flii	ENSMMDG00005011375	Others	115363982
+Myripristis_murdjan	cbfa2t2	ENSMMDG00005011384	Others	115359845
+Myripristis_murdjan	rhoab	ENSMMDG00005011441	Others	115358757
+Myripristis_murdjan	hdac8	ENSMMDG00005011498	Histone deacetylase	115376080
+Myripristis_murdjan	chek1	ENSMMDG00005011535	Others	NA
+Myripristis_murdjan	cited2	ENSMMDG00005011556	CITED	115356608
+Myripristis_murdjan	rrn3	ENSMMDG00005011624	Others	115364335
+Myripristis_murdjan	dcc	ENSMMDG00005011641	Others	NA
+Myripristis_murdjan	cbx5	ENSMMDG00005011668	Chromobox	115361592
+Myripristis_murdjan	ino80	ENSMMDG00005011688	INO80 complex	115355944
+Myripristis_murdjan	calcoco1a	ENSMMDG00005011695	Others	NA
+Myripristis_murdjan	pcbd1	ENSMMDG00005011701	Others	115372559
+Myripristis_murdjan	pdlim1	ENSMMDG00005011716	Others	115373145
+Myripristis_murdjan	si:dkey-21c19.3	ENSMMDG00005011724	Others	115362322
+Myripristis_murdjan	SPEN	ENSMMDG00005011748	Others	115358675
+Myripristis_murdjan	ccnd1	ENSMMDG00005011749	Cyclin	115357219
+Myripristis_murdjan		ENSMMDG00005011775	Others	NA
+Myripristis_murdjan	RBPMS	ENSMMDG00005011825	RNA binding protein	115376914
+Myripristis_murdjan	insra	ENSMMDG00005011859	Others	NA
+Myripristis_murdjan	cited1	ENSMMDG00005011863	CITED	NA
+Myripristis_murdjan	PCGF3	ENSMMDG00005011865	PCGF	115366582
+Myripristis_murdjan	bcl10	ENSMMDG00005011990	BCL	115375825
+Myripristis_murdjan	ssu72	ENSMMDG00005012079	Others	115358756
+Myripristis_murdjan	cdkn1bb	ENSMMDG00005012083	Cyclin	115360673
+Myripristis_murdjan		ENSMMDG00005012137	Zinc finger	NA
+Myripristis_murdjan	dr1	ENSMMDG00005012161	Others	115358239
+Myripristis_murdjan		ENSMMDG00005012176	Others	NA
+Myripristis_murdjan	tcea1	ENSMMDG00005012277	TEF	115374926
+Myripristis_murdjan	csnk2a2a	ENSMMDG00005012337	Casein	NA
+Myripristis_murdjan	rfxap	ENSMMDG00005012366	Others	115371620
+Myripristis_murdjan	supt20	ENSMMDG00005012423	SUPT	115371364
+Myripristis_murdjan	npm3	ENSMMDG00005012425	Nucleoplasmin	115372413
+Myripristis_murdjan	MED13L	ENSMMDG00005012448	Mediator complex	NA
+Myripristis_murdjan	atad2	ENSMMDG00005012472	Others	115374004
+Myripristis_murdjan	safb	ENSMMDG00005012474	Others	115357790
+Myripristis_murdjan	gtf2f1	ENSMMDG00005012477	GTF	115363876
+Myripristis_murdjan	ddx54	ENSMMDG00005012485	RNA helicase	115369421
+Myripristis_murdjan	cnot9	ENSMMDG00005012494	CCR4-NOT	115375489
+Myripristis_murdjan	CCNK	ENSMMDG00005012501	Cyclin	115356477
+Myripristis_murdjan	nedd8	ENSMMDG00005012506	Others	NA
+Myripristis_murdjan	prmt7	ENSMMDG00005012526	Arginine methyltransferase	115360742
+Myripristis_murdjan	med8	ENSMMDG00005012551	Mediator complex	115357873
+Myripristis_murdjan	sufu	ENSMMDG00005012560	Others	115372464
+Myripristis_murdjan	taf8	ENSMMDG00005012574	TATA-box	115361546
+Myripristis_murdjan	aatf	ENSMMDG00005012612	Others	NA
+Myripristis_murdjan	ino80b	ENSMMDG00005012653	INO80 complex	115377106
+Myripristis_murdjan	BRD3	ENSMMDG00005012664	Bromodomain	NA
+Myripristis_murdjan	sirt3	ENSMMDG00005012703	Sirtuin	115356695
+Myripristis_murdjan	recql5	ENSMMDG00005012726	Others	115364160
+Myripristis_murdjan	cdyl	ENSMMDG00005012760	Chromodomain Y	115374943
+Myripristis_murdjan	psen1	ENSMMDG00005012767	Others	NA
+Myripristis_murdjan	si:ch73-60h1.1	ENSMMDG00005012845	CAMK	NA
+Myripristis_murdjan	CCDC85B	ENSMMDG00005012874	Coiled-coil	NA
+Myripristis_murdjan	med1	ENSMMDG00005012941	Mediator complex	NA
+Myripristis_murdjan	ice2	ENSMMDG00005013016	GTF	115360995
+Myripristis_murdjan	trip11	ENSMMDG00005013017	Thyroid hormone receptor	115380867
+Myripristis_murdjan	serbp1b	ENSMMDG00005013240	Others	115375554
+Myripristis_murdjan	ccna2	ENSMMDG00005013287	Cyclin	115367058
+Myripristis_murdjan	si:dkey-85a20.4	ENSMMDG00005013311	Others	115372847
+Myripristis_murdjan	SFMBT1	ENSMMDG00005013319	Others	115359735
+Myripristis_murdjan	cnot6l	ENSMMDG00005013356	CCR4-NOT	115364947
+Myripristis_murdjan		ENSMMDG00005013370	CAMK	NA
+Myripristis_murdjan	cdc73	ENSMMDG00005013427	Others	115375084
+Myripristis_murdjan	ldb2a	ENSMMDG00005013444	LIM	115366895
+Myripristis_murdjan	vgll3	ENSMMDG00005013450	Vestigial like	115380005
+Myripristis_murdjan	hint1	ENSMMDG00005013490	Others	115372730
+Myripristis_murdjan	tnksb	ENSMMDG00005013528	Others	115365125
+Myripristis_murdjan	hipk2	ENSMMDG00005013545	HIPK	NA
+Myripristis_murdjan	notch1b	ENSMMDG00005013617	Notch	NA
+Myripristis_murdjan	abl1	ENSMMDG00005013709	Others	115369452
+Myripristis_murdjan	seta	ENSMMDG00005013727	SET	115364809
+Myripristis_murdjan	pex2	ENSMMDG00005013744	Others	115379272
+Myripristis_murdjan	wnt3	ENSMMDG00005013783	Others	115377940
+Myripristis_murdjan	chd1	ENSMMDG00005013821	CHD	NA
+Myripristis_murdjan	itcha	ENSMMDG00005013833	Others	115358938
+Myripristis_murdjan		ENSMMDG00005013876	Others	NA
+Myripristis_murdjan	ctdsp1	ENSMMDG00005013884	Others	115380332
+Myripristis_murdjan	arhgap35a	ENSMMDG00005013906	Others	NA
+Myripristis_murdjan	si:ch211-219a4.3	ENSMMDG00005013977	PARP	115379810
+Myripristis_murdjan	myo6a	ENSMMDG00005013982	Others	NA
+Myripristis_murdjan	baz1b	ENSMMDG00005014020	Bromodomain	115370218
+Myripristis_murdjan	hdac4	ENSMMDG00005014053	Histone deacetylase	NA
+Myripristis_murdjan	rtf1	ENSMMDG00005014061	Others	115353914
+Myripristis_murdjan	TLE3	ENSMMDG00005014073	Transducin	NA
+Myripristis_murdjan	wdtc1	ENSMMDG00005014107	WD	NA
+Myripristis_murdjan	arglu1a	ENSMMDG00005014121	Others	115380056
+Myripristis_murdjan	taf9	ENSMMDG00005014203	TATA-box	115371254
+Myripristis_murdjan	med16	ENSMMDG00005014220	Mediator complex	NA
+Myripristis_murdjan	tesca	ENSMMDG00005014256	Others	NA
+Myripristis_murdjan	sirt5	ENSMMDG00005014270	Sirtuin	115357653
+Myripristis_murdjan	zmym2	ENSMMDG00005014290	Zinc finger	115379644
+Myripristis_murdjan	ncoa2	ENSMMDG00005014351	Nuclear receptor coactivator	115378541
+Myripristis_murdjan	dnaja3a	ENSMMDG00005014359	Others	115363638
+Myripristis_murdjan	creg1	ENSMMDG00005014361	Others	115370917
+Myripristis_murdjan		ENSMMDG00005014375	Mediator complex	115374686
+Myripristis_murdjan	pik3r2	ENSMMDG00005014416	Others	NA
+Myripristis_murdjan	ccnh	ENSMMDG00005014495	Cyclin	115364941
+Myripristis_murdjan	siva1	ENSMMDG00005014509	Others	115380734
+Myripristis_murdjan	eya1	ENSMMDG00005014516	EYA	115379117
+Myripristis_murdjan	med31	ENSMMDG00005014522	Mediator complex	115371261
+Myripristis_murdjan	ndnl2	ENSMMDG00005014545	MAGE	115362256
+Myripristis_murdjan	heatr1	ENSMMDG00005014551	Others	NA
+Myripristis_murdjan	nup98	ENSMMDG00005014578	Others	115371222
+Myripristis_murdjan	phf19	ENSMMDG00005014610	PHF	NA
+Myripristis_murdjan		ENSMMDG00005014639	Tripartite motif	115355288
+Myripristis_murdjan	ppargc1a	ENSMMDG00005014661	Others	NA
+Myripristis_murdjan	kdm5a	ENSMMDG00005014692	Lysine demethylase	115354995
+Myripristis_murdjan	jade1	ENSMMDG00005014709	Others	115380652
+Myripristis_murdjan	kat6b	ENSMMDG00005014740	Lysine acetyltransferase	NA
+Myripristis_murdjan	rnf40	ENSMMDG00005014822	Ring finger protein	115377600
+Myripristis_murdjan	nck1a	ENSMMDG00005014828	Others	115378682
+Myripristis_murdjan	pink1	ENSMMDG00005014834	Others	115362081
+Myripristis_murdjan	med27	ENSMMDG00005014851	Mediator complex	NA
+Myripristis_murdjan	ripk2	ENSMMDG00005014897	Others	115375458
+Myripristis_murdjan	clu	ENSMMDG00005014908	Others	115355768
+Myripristis_murdjan	cxxc5a	ENSMMDG00005014978	Others	NA
+Myripristis_murdjan	vgll2a	ENSMMDG00005014988	Vestigial like	NA
+Myripristis_murdjan	orc2	ENSMMDG00005015043	Others	115375282
+Myripristis_murdjan	sqstm1	ENSMMDG00005015093	Others	115366568
+Myripristis_murdjan	flncb	ENSMMDG00005015121	Others	NA
+Myripristis_murdjan	TCERG1	ENSMMDG00005015160	TEF	115371116
+Myripristis_murdjan	thrsp	ENSMMDG00005015218	Others	115369892
+Myripristis_murdjan	ing3	ENSMMDG00005015329	ING	115355241
+Myripristis_murdjan	ruvbl2	ENSMMDG00005015372	Other_CRF	115372053
+Myripristis_murdjan		ENSMMDG00005015373	Others	115373790
+Myripristis_murdjan	yap1	ENSMMDG00005015388	Others	115370259
+Myripristis_murdjan	gtf2e1	ENSMMDG00005015431	GTF	115379646
+Myripristis_murdjan	ddx20	ENSMMDG00005015451	RNA helicase	115361502
+Myripristis_murdjan		ENSMMDG00005015488	Others	115363291
+Myripristis_murdjan	ino80e	ENSMMDG00005015500	INO80 complex	115374256
+Myripristis_murdjan		ENSMMDG00005015519	Others	115366412
+Myripristis_murdjan	setd7	ENSMMDG00005015535	SET	115366616
+Myripristis_murdjan	edf1	ENSMMDG00005015548	Others	115369414
+Myripristis_murdjan	med24	ENSMMDG00005015597	Mediator complex	115377873
+Myripristis_murdjan	nsd1a	ENSMMDG00005015689	Nuclear receptor coactivator	115366090
+Myripristis_murdjan	nelfa	ENSMMDG00005015694	GTF	115376554
+Myripristis_murdjan		ENSMMDG00005015716	Others	115376909
+Myripristis_murdjan	cdk13	ENSMMDG00005015795	Cyclin	115378951
+Myripristis_murdjan	sap30l	ENSMMDG00005015870	SAP	115371769
+Myripristis_murdjan	syk	ENSMMDG00005015877	Others	NA
+Myripristis_murdjan	kdm3b	ENSMMDG00005015889	Lysine demethylase	115366323
+Myripristis_murdjan	btg1	ENSMMDG00005015955	Others	115354885
+Myripristis_murdjan	taf6l	ENSMMDG00005015964	TATA-box	115376810
+Myripristis_murdjan	nrg2b	ENSMMDG00005015970	Others	NA
+Myripristis_murdjan	elp3	ENSMMDG00005015987	ELP	115356026
+Myripristis_murdjan		ENSMMDG00005016006	Others	115376397
+Myripristis_murdjan	wu:fj64h06	ENSMMDG00005016007	TATA-box	115368567
+Myripristis_murdjan	ripply1	ENSMMDG00005016014	Others	115371559
+Myripristis_murdjan	dab2	ENSMMDG00005016030	Others	NA
+Myripristis_murdjan	mybbp1a	ENSMMDG00005016132	MYB	115371695
+Myripristis_murdjan	kdm1a	ENSMMDG00005016250	Lysine demethylase	115354094
+Myripristis_murdjan	per2	ENSMMDG00005016315	Others	115375164
+Myripristis_murdjan	trim37	ENSMMDG00005016332	Tripartite motif	115371422
+Myripristis_murdjan	fbp1b	ENSMMDG00005016413	Others	115369011
+Myripristis_murdjan	niban2a	ENSMMDG00005016439	FAM	NA
+Myripristis_murdjan	wbp2	ENSMMDG00005016492	WW	115377703
+Myripristis_murdjan	traf6	ENSMMDG00005016512	Others	115378857
+Myripristis_murdjan	pdcd4b	ENSMMDG00005016525	Others	115361043
+Myripristis_murdjan	taf6	ENSMMDG00005016556	TATA-box	115371412
+Myripristis_murdjan	ern1	ENSMMDG00005016569	Others	115363143
+Myripristis_murdjan	ufl1	ENSMMDG00005016601	Others	115356396
+Myripristis_murdjan	frk	ENSMMDG00005016660	Others	115356306
+Myripristis_murdjan	HDAC2	ENSMMDG00005016678	Histone deacetylase	115356246
+Myripristis_murdjan	taf11	ENSMMDG00005016698	TATA-box	115361744
+Myripristis_murdjan	hnrpkl	ENSMMDG00005016704	HNRNP	115369081
+Myripristis_murdjan	rnf141	ENSMMDG00005016832	Ring finger protein	115360824
+Myripristis_murdjan	sap30bp	ENSMMDG00005016862	SAP	115377651
+Myripristis_murdjan	phip	ENSMMDG00005016896	Others	NA
+Myripristis_murdjan	smyd1b	ENSMMDG00005017062	SMYD	115365315
+Myripristis_murdjan	crk	ENSMMDG00005017139	Others	115370487
+Myripristis_murdjan	tp53bp1	ENSMMDG00005017178	Others	NA
+Myripristis_murdjan	sfmbt2	ENSMMDG00005017192	Others	NA
+Myripristis_murdjan	eya3	ENSMMDG00005017198	EYA	115367230
+Myripristis_murdjan	supt7l	ENSMMDG00005017202	SUPT	115354186
+Myripristis_murdjan	hat1	ENSMMDG00005017239	Others	115380405
+Myripristis_murdjan	lrrk2	ENSMMDG00005017275	Other_CRF	115360872
+Myripristis_murdjan	snd1	ENSMMDG00005017281	Others	115354892
+Myripristis_murdjan	FHL2	ENSMMDG00005017299	FHL	115379827
+Myripristis_murdjan	prmt1	ENSMMDG00005017385	Arginine methyltransferase	115363948
+Myripristis_murdjan	sirt7	ENSMMDG00005017443	Sirtuin	115367968
+Myripristis_murdjan	trim16	ENSMMDG00005017511	Tripartite motif	115377597
+Myripristis_murdjan	suds3	ENSMMDG00005017517	Other_Co-activator/repressors	115365610
+Myripristis_murdjan	puf60b	ENSMMDG00005017582	Others	115379044
+Myripristis_murdjan	ANP32E	ENSMMDG00005017583	ANP	115374103
+Myripristis_murdjan	crebbpa	ENSMMDG00005017595	CREB	NA
+Myripristis_murdjan		ENSMMDG00005017639	Others	115379878
+Myripristis_murdjan	taf5l	ENSMMDG00005017691	TATA-box	115368496
+Myripristis_murdjan	tob1b	ENSMMDG00005017695	Others	115377766
+Myripristis_murdjan	brd1a	ENSMMDG00005017736	Bromodomain	115355500
+Myripristis_murdjan	snip1	ENSMMDG00005017814	Others	115373515
+Myripristis_murdjan	fhl3a	ENSMMDG00005017832	FHL	115374165
+Myripristis_murdjan	pnrc2	ENSMMDG00005017854	Others	115374384
+Myripristis_murdjan	btaf1	ENSMMDG00005017880	Others	115372378
+Myripristis_murdjan	dvl2	ENSMMDG00005017908	Others	115376327
+Myripristis_murdjan		ENSMMDG00005017964	Thyroid hormone receptor	115376483
+Myripristis_murdjan	phf8	ENSMMDG00005017979	PHF	115362158
+Myripristis_murdjan	rap2c	ENSMMDG00005018033	Others	115367014
+Myripristis_murdjan	raf1a	ENSMMDG00005018107	Others	115362164
+Myripristis_murdjan	taf2	ENSMMDG00005018110	TATA-box	115373781
+Myripristis_murdjan	anp32a	ENSMMDG00005018115	ANP	115376846
+Myripristis_murdjan	dvl3a	ENSMMDG00005018119	Others	115375873
+Myripristis_murdjan	trip4	ENSMMDG00005018139	Thyroid hormone receptor	115379921
+Myripristis_murdjan	rbbp5	ENSMMDG00005018153	RBBP	NA
+Myripristis_murdjan	dhx9	ENSMMDG00005018164	RNA helicase	NA
+Myripristis_murdjan	cnot7	ENSMMDG00005018183	CCR4-NOT	115366852
+Myripristis_murdjan		ENSMMDG00005018327	Others	NA
+Myripristis_murdjan	mycbp2	ENSMMDG00005018451	MYC	NA
+Myripristis_murdjan	ago2	ENSMMDG00005018499	Others	NA
+Myripristis_murdjan	cidec	ENSMMDG00005018519	Others	NA
+Myripristis_murdjan		ENSMMDG00005018622	Others	115362643
+Myripristis_murdjan	gtf2a2	ENSMMDG00005018625	GTF	115356958
+Myripristis_murdjan	hdac11	ENSMMDG00005018658	Histone deacetylase	NA
+Myripristis_murdjan	DGKQ	ENSMMDG00005018688	Others	NA
+Myripristis_murdjan	elocb	ENSMMDG00005018719	Others	115379106
+Myripristis_murdjan	ctr9	ENSMMDG00005018737	Others	115356910
+Myripristis_murdjan	ppid	ENSMMDG00005018747	Others	115366382
+Myripristis_murdjan	nrip2	ENSMMDG00005018750	Nuclear coactivator	NA
+Myripristis_murdjan	ecd	ENSMMDG00005018787	Others	115373073
+Myripristis_murdjan	xiap	ENSMMDG00005018788	Others	115366151
+Myripristis_murdjan	elp1	ENSMMDG00005018839	ELP	115366111
+Myripristis_murdjan	dhx33	ENSMMDG00005018843	RNA helicase	115371520
+Myripristis_murdjan	c1qbp	ENSMMDG00005018846	Others	115371979
+Myripristis_murdjan	cdk5	ENSMMDG00005018899	Cyclin	115374849
+Myripristis_murdjan	tada3l	ENSMMDG00005018915	Transcriptional adaptor	115358934
+Myripristis_murdjan	hdac6	ENSMMDG00005018921	Histone deacetylase	NA
+Myripristis_murdjan	cry1a	ENSMMDG00005018951	Others	115355048
+Myripristis_murdjan	pak7	ENSMMDG00005018993	Others	115356165
+Myripristis_murdjan	TADA1	ENSMMDG00005019010	Transcriptional adaptor	115374914
+Myripristis_murdjan	ash1l	ENSMMDG00005019071	Others	NA
+Myripristis_murdjan	aurkaip1	ENSMMDG00005019083	Others	115362745
+Myripristis_murdjan	supt4h1	ENSMMDG00005019113	SUPT	115370943
+Myripristis_murdjan	ercc2	ENSMMDG00005019115	Others	115369811
+Myripristis_murdjan	hltf	ENSMMDG00005019121	Others	115380633
+Myripristis_murdjan	dyrk1b	ENSMMDG00005019133	Others	NA
+Myripristis_murdjan	wdr5	ENSMMDG00005019168	WD	115368695
+Myripristis_murdjan	meaf6	ENSMMDG00005019209	Others	115367602
+Myripristis_murdjan	ago1	ENSMMDG00005019216	Others	115373409
+Myripristis_murdjan	fhod1	ENSMMDG00005019244	Others	115378148
+Myripristis_murdjan	rbl2	ENSMMDG00005019300	Other_Co-activator/repressors	NA
+Myripristis_murdjan	med6	ENSMMDG00005019459	Mediator complex	115353927
+Myripristis_murdjan	chd5	ENSMMDG00005019493	CHD	NA
+Myripristis_murdjan	uxt	ENSMMDG00005019554	Others	115361798
+Myripristis_murdjan	smarcd1	ENSMMDG00005019577	SWI/SNF	115359287
+Myripristis_murdjan	si:dkey-219c3.2	ENSMMDG00005019608	TATA-box	115360499
+Myripristis_murdjan	taf4a	ENSMMDG00005019674	TATA-box	NA
+Myripristis_murdjan	ankrd29	ENSMMDG00005019676	Ankyrin repeat	NA
+Myripristis_murdjan	actn2b	ENSMMDG00005019753	Actin	115372534
+Myripristis_murdjan		ENSMMDG00005019783	Others	115373855
+Myripristis_murdjan	prpf6	ENSMMDG00005019945	Others	115362209
+Myripristis_murdjan	smarcd3b	ENSMMDG00005020016	SWI/SNF	115378703
+Myripristis_murdjan	DCAF1	ENSMMDG00005020117	Others	NA
+Myripristis_murdjan	TLE5	ENSMMDG00005020135	Others	115354345
+Myripristis_murdjan	nol11	ENSMMDG00005020139	Nuclear coactivator	115365648
+Myripristis_murdjan	PCBD2	ENSMMDG00005020150	Others	115371983
+Myripristis_murdjan	sap130a	ENSMMDG00005020204	SAP	115357779
+Myripristis_murdjan	zmynd8	ENSMMDG00005020267	Zinc finger	115359309
+Myripristis_murdjan	utp4	ENSMMDG00005020297	Others	115361090
+Myripristis_murdjan	gtf2h1	ENSMMDG00005020306	GTF	NA
+Myripristis_murdjan	suv39h1a	ENSMMDG00005020323	Others	NA
+Myripristis_murdjan	ascc3	ENSMMDG00005020342	ASCC	115373480
+Myripristis_murdjan	trip13	ENSMMDG00005020355	Thyroid hormone receptor	115374046
+Myripristis_murdjan	kdm5c	ENSMMDG00005020357	Lysine demethylase	115361512
+Myripristis_murdjan	cnot6b	ENSMMDG00005020424	CCR4-NOT	115366231
+Myripristis_murdjan	gtf2a1l	ENSMMDG00005020427	GTF	115372307
+Myripristis_murdjan	rbm15	ENSMMDG00005020450	RNA binding protein	NA
+Myripristis_murdjan	SMYD3	ENSMMDG00005020550	SMYD	115357292
+Myripristis_murdjan	tfb2m	ENSMMDG00005020558	Others	115357013
+Myripristis_murdjan	rnf10	ENSMMDG00005020567	Ring finger protein	115365222
+Myripristis_murdjan	trim8b	ENSMMDG00005020598	Tripartite motif	115377437
+Myripristis_murdjan	rnf8	ENSMMDG00005020711	Ring finger protein	115356543
+Myripristis_murdjan	taf1a	ENSMMDG00005020731	TATA-box	115356556
+Myripristis_murdjan	pawr	ENSMMDG00005020744	Others	115355397
+Myripristis_murdjan	strap	ENSMMDG00005020781	Others	115355430
+Myripristis_murdjan	lin9	ENSMMDG00005020869	Others	115356385
+Myripristis_murdjan	CTBP1	ENSMMDG00005020944	Others	115366664
+Myripristis_murdjan	ppie	ENSMMDG00005020986	Others	115354232
+Myripristis_murdjan	ctnnb1	ENSMMDG00005020999	Casein	115373629
+Myripristis_murdjan	ss18	ENSMMDG00005021012	SS18	115374668
+Myripristis_murdjan	brd7	ENSMMDG00005021060	Bromodomain	115378385
+Myripristis_murdjan	nod2	ENSMMDG00005021064	Others	NA
+Myripristis_murdjan	med14	ENSMMDG00005021154	Mediator complex	115379823
+Myripristis_murdjan	PRMT8	ENSMMDG00005021161	Arginine methyltransferase	115355108
+Myripristis_murdjan	ccdc59	ENSMMDG00005021172	Coiled-coil	115355109
+Myripristis_murdjan	chd9	ENSMMDG00005021186	CHD	NA
+Myripristis_murdjan	setd2	ENSMMDG00005021187	SET	NA
+Myripristis_murdjan	ezrb	ENSMMDG00005021202	Others	115355968
+Myripristis_murdjan	DTX1	ENSMMDG00005021217	Others	NA
+Myripristis_murdjan	pidd1	ENSMMDG00005021234	Others	NA
+Myripristis_murdjan	TENM2	ENSMMDG00005021259	Others	115366521
+Myripristis_murdjan	ruvbl1	ENSMMDG00005021263	Other_CRF	NA
+Myripristis_murdjan		ENSMMDG00005021297	Transducin	115357918
+Myripristis_murdjan	ep400	ENSMMDG00005021299	Others	NA
+Myripristis_murdjan	vhl	ENSMMDG00005021319	Others	115359018
+Myripristis_murdjan	pa2g4a	ENSMMDG00005021330	Others	115359634
+Myripristis_murdjan	ezh2	ENSMMDG00005021370	Others	115378761
+Myripristis_murdjan	med23	ENSMMDG00005021426	Mediator complex	NA
+Myripristis_murdjan	ankra2	ENSMMDG00005021427	Ankyrin repeat	115368816
+Myripristis_murdjan	birc5a	ENSMMDG00005021454	Others	115378216
+Myripristis_murdjan	ino80da	ENSMMDG00005021523	INO80 complex	115379798
+Myripristis_murdjan	anp32b	ENSMMDG00005021549	ANP	NA
+Myripristis_murdjan	erbb4b	ENSMMDG00005021557	Erbb2	NA
+Myripristis_murdjan	kdm4aa	ENSMMDG00005021620	Lysine demethylase	NA
+Myripristis_murdjan	tbp	ENSMMDG00005021663	TATA-box	115356262
+Myripristis_murdjan	phf10	ENSMMDG00005021715	PHF	115356192
+Myripristis_murdjan	taf3	ENSMMDG00005021729	TATA-box	115360622
+Myripristis_murdjan	gtf2h3	ENSMMDG00005021730	GTF	115365133
+Myripristis_murdjan	kctd1	ENSMMDG00005021770	Others	115357392
+Myripristis_murdjan	CHUK	ENSMMDG00005021795	Others	115378355
+Myripristis_murdjan	cdk1	ENSMMDG00005021864	Cyclin	115372385
+Myripristis_murdjan	crym	ENSMMDG00005021873	Others	NA
+Myripristis_murdjan	ccnc	ENSMMDG00005021909	Cyclin	115355997
+Myripristis_murdjan	gtf2b	ENSMMDG00005021922	GTF	115375638
+Myripristis_murdjan	sav1	ENSMMDG00005022118	Others	115353920
+Myripristis_murdjan	cthl	ENSMMDG00005022141	Others	115358193
+Myripristis_murdjan	rnf168	ENSMMDG00005022177	Ring finger protein	115370377
+Myripristis_murdjan	supt5h	ENSMMDG00005022228	SUPT	115370362
+Myripristis_murdjan		ENSMMDG00005022235	Others	NA
+Myripristis_murdjan	rnf2	ENSMMDG00005022338	Ring finger protein	115375097
+Myripristis_murdjan	rb1	ENSMMDG00005022361	Other_Co-activator/repressors	115371408
+Myripristis_murdjan	MSL3	ENSMMDG00005022382	Others	NA
+Myripristis_murdjan	mcrs1	ENSMMDG00005022387	Others	NA
+Myripristis_murdjan	brf2	ENSMMDG00005022391	GTF	115369439
+Myripristis_murdjan	anxa4	ENSMMDG00005022406	Others	115368582
+Myripristis_murdjan	timeless	ENSMMDG00005022418	Others	NA
+Myripristis_murdjan	si:ch73-21k16.1	ENSMMDG00005022428	LPIN	NA
+Myripristis_murdjan	eaf2	ENSMMDG00005022432	Others	115380339
+Myripristis_murdjan	hif1an	ENSMMDG00005022472	Others	115372438
+Myripristis_murdjan		ENSMMDG00005022550	Mediator complex	NA
+Myripristis_murdjan	kdm8	ENSMMDG00005022557	Lysine demethylase	115362891
+Myripristis_murdjan	lmo1	ENSMMDG00005022576	LIM	115354300
+Myripristis_murdjan	trrap	ENSMMDG00005022580	Others	115377441
+Myripristis_murdjan	cdk2	ENSMMDG00005022622	Cyclin	115358851
+Myripristis_murdjan	adrb2a	ENSMMDG00005022646	Others	NA
+Myripristis_murdjan		ENSMMDG00005022678	Others	115374568
+Myripristis_murdjan	slc26a3.2	ENSMMDG00005022687	SLC	NA
+Myripristis_murdjan	sdr16c5a	ENSMMDG00005022692	Others	115375530
+Myripristis_murdjan	eny2	ENSMMDG00005022733	Others	115374408
+Myripristis_murdjan	nelfcd	ENSMMDG00005022803	GTF	115358823
+Myripristis_murdjan	mtor	ENSMMDG00005022828	Others	115361626
+Myripristis_murdjan	vgll4b	ENSMMDG00005022864	Vestigial like	115359081
+Myripristis_murdjan	park7	ENSMMDG00005022956	Others	115359966
+Myripristis_murdjan	axin1	ENSMMDG00005022975	Others	115364460
+Myripristis_murdjan	mtpn	ENSMMDG00005023039	Others	115355224
+Myripristis_murdjan	cnot10	ENSMMDG00005023045	CCR4-NOT	115373972
+Myripristis_murdjan	cbx3a	ENSMMDG00005023091	Chromobox	NA
+Myripristis_murdjan		ENSMMDG00005023097	GTF	115354780
+Myripristis_murdjan	NCOA7	ENSMMDG00005023120	Nuclear receptor coactivator	NA
+Myripristis_murdjan	nlk2	ENSMMDG00005023154	Others	115370458
+Myripristis_murdjan	polr2a	ENSMMDG00005023188	POLR	115376091
+Myripristis_murdjan	KDM7A	ENSMMDG00005023196	Lysine demethylase	115355157
+Myripristis_murdjan	taf1	ENSMMDG00005023207	TATA-box	NA
+Myripristis_murdjan	kmt2e	ENSMMDG00005023210	Lysine methyltransferase	NA
+Myripristis_murdjan	mnat1	ENSMMDG00005023235	Others	115354708
+Myripristis_murdjan	hcls1	ENSMMDG00005023238	Others	NA
+Myripristis_murdjan	tnip1	ENSMMDG00005023277	Others	115367032
+Myripristis_murdjan	notch3	ENSMMDG00005023344	Notch	NA
+Myripristis_murdjan	MYOCD	ENSMMDG00005023392	Others	NA
+Myripristis_murdjan	trim33	ENSMMDG00005023394	Tripartite motif	115361636
+Myripristis_murdjan	gps2	ENSMMDG00005023452	Others	115376333
+Myripristis_murdjan	mbtd1	ENSMMDG00005023470	Others	115377649
+Myripristis_murdjan		ENSMMDG00005023592	Coiled-coil	115368721
+Myripristis_murdjan	nab2	ENSMMDG00005023594	Others	NA
+Myripristis_murdjan	kmt5aa	ENSMMDG00005023629	Lysine methyltransferase	115369560
+Myripristis_murdjan	banp	ENSMMDG00005023692	Others	115360409
+Myripristis_murdjan	apex1	ENSMMDG00005023711	Others	NA
+Myripristis_murdjan	waca	ENSMMDG00005023784	WW	NA
+Myripristis_murdjan	csrp3	ENSMMDG00005023826	Others	115355953
+Myripristis_murdjan	cavin1b	ENSMMDG00005023875	Others	115378220
+Myripristis_murdjan	ttf2	ENSMMDG00005023912	Others	115380477
+Myripristis_murdjan	med21	ENSMMDG00005024030	Mediator complex	115355115
+Myripristis_murdjan		ENSMMDG00005024045	Others	115380347
+Myripristis_murdjan	smarcd2	ENSMMDG00005024054	SWI/SNF	NA
+Myripristis_murdjan	CASK	ENSMMDG00005024140	CAMK	115379762
+Myripristis_murdjan	egln1a	ENSMMDG00005024141	Others	115372483
+Myripristis_murdjan	zmynd11	ENSMMDG00005024148	Zinc finger	NA
+Myripristis_murdjan	chd8	ENSMMDG00005024149	CHD	115374824
+Myripristis_murdjan	prmt2	ENSMMDG00005024170	Arginine methyltransferase	115380391
+Myripristis_murdjan	tbl1x	ENSMMDG00005024185	Transducin	NA
+Myripristis_murdjan	kdm6a	ENSMMDG00005024287	Lysine demethylase	NA
+Myripristis_murdjan	erbb2	ENSMMDG00005024319	Erbb2	NA
+Myripristis_murdjan	TGFB1I1	ENSMMDG00005024354	Others	NA
+Myripristis_murdjan	prmt5	ENSMMDG00005024408	Arginine methyltransferase	115375632
+Myripristis_murdjan	elp2	ENSMMDG00005024409	ELP	115368080
+Myripristis_murdjan	lgals9l5	ENSMMDG00005024526	Others	115370798
+Myripristis_murdjan	macroh2a2	ENSMMDG00005024548	Others	115373096
+Myripristis_murdjan	hells	ENSMMDG00005024554	Others	115372433
+Myripristis_murdjan	ankrd1a	ENSMMDG00005024569	Ankyrin repeat	NA
+Myripristis_murdjan	pcgf5a	ENSMMDG00005024571	PCGF	NA
+Myripristis_murdjan	prdx5	ENSMMDG00005024612	Others	115371723
+Myripristis_murdjan	actl6a	ENSMMDG00005024643	Actin	NA
+Myripristis_murdjan	kat5b	ENSMMDG00005024655	Lysine acetyltransferase	115371647
+Myripristis_murdjan	nipbla	ENSMMDG00005024662	Others	NA
+Myripristis_murdjan	wwp1	ENSMMDG00005024670	WW	115378643
+Myripristis_murdjan	tab3	ENSMMDG00005024698	Others	115358481
+Myripristis_murdjan		ENSMMDG00005024701	Transducin	115364946
+Myripristis_murdjan	smarcb1b	ENSMMDG00005024750	SWI/SNF	NA
+Myripristis_murdjan	scai	ENSMMDG00005024753	Others	115368808
+Myripristis_murdjan	suz12b	ENSMMDG00005024787	Others	115365079
+Myripristis_murdjan	med22	ENSMMDG00005024801	Mediator complex	115364958
+Myripristis_murdjan	HMOX1	ENSMMDG00005024856	Others	115359065
+Myripristis_murdjan	SMARCA4	ENSMMDG00005024868	SWI/SNF	NA
+Myripristis_murdjan	rbfox2	ENSMMDG00005024893	Others	115358952
+Myripristis_murdjan	rgcc	ENSMMDG00005024959	Others	115380118
+Myripristis_murdjan	prmt6	ENSMMDG00005024979	Arginine methyltransferase	NA
+Myripristis_murdjan	lancl2	ENSMMDG00005025062	Others	115378937

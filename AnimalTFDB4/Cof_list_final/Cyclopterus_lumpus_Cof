@@ -1,0 +1,756 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Cyclopterus_lumpus	HYAL2	ENSCLMG00005000086	Others	NA
+Cyclopterus_lumpus	yaf2	ENSCLMG00005000104	Others	NA
+Cyclopterus_lumpus	chchd6a	ENSCLMG00005000119	Coiled-coil	NA
+Cyclopterus_lumpus	lmcd1	ENSCLMG00005000145	LIM	NA
+Cyclopterus_lumpus	thoc5	ENSCLMG00005000146	Others	NA
+Cyclopterus_lumpus	skia	ENSCLMG00005000147	SKI	NA
+Cyclopterus_lumpus	gtf2h2	ENSCLMG00005000193	GTF	NA
+Cyclopterus_lumpus	chd1l	ENSCLMG00005000276	CHD	NA
+Cyclopterus_lumpus	nipbla	ENSCLMG00005000282	Others	NA
+Cyclopterus_lumpus	PLK1	ENSCLMG00005000304	Others	NA
+Cyclopterus_lumpus	nono	ENSCLMG00005000348	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005000381	Others	NA
+Cyclopterus_lumpus	ctnnd1	ENSCLMG00005000498	Casein	NA
+Cyclopterus_lumpus	pdcd4b	ENSCLMG00005000539	Others	NA
+Cyclopterus_lumpus	gtf2a2	ENSCLMG00005000554	GTF	NA
+Cyclopterus_lumpus	uxt	ENSCLMG00005000558	Others	NA
+Cyclopterus_lumpus	TENM3	ENSCLMG00005000572	Others	NA
+Cyclopterus_lumpus	malt1	ENSCLMG00005000585	Others	NA
+Cyclopterus_lumpus	traf6	ENSCLMG00005000677	Others	NA
+Cyclopterus_lumpus	jak2b	ENSCLMG00005000682	Others	NA
+Cyclopterus_lumpus	pin1	ENSCLMG00005000688	Others	NA
+Cyclopterus_lumpus	hck	ENSCLMG00005000714	Others	NA
+Cyclopterus_lumpus	taf5	ENSCLMG00005000736	TATA-box	NA
+Cyclopterus_lumpus	cbfa2t3	ENSCLMG00005000791	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005000795	Others	NA
+Cyclopterus_lumpus	cbfa2t2	ENSCLMG00005000800	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005000823	BCL	NA
+Cyclopterus_lumpus	cnot7	ENSCLMG00005000845	CCR4-NOT	NA
+Cyclopterus_lumpus	mrgbp	ENSCLMG00005000892	Others	NA
+Cyclopterus_lumpus	txlng	ENSCLMG00005000905	Others	NA
+Cyclopterus_lumpus	kmt5b	ENSCLMG00005000945	Lysine methyltransferase	NA
+Cyclopterus_lumpus	CDYL2	ENSCLMG00005000980	Chromodomain Y	NA
+Cyclopterus_lumpus	pir	ENSCLMG00005001034	Others	NA
+Cyclopterus_lumpus	ice2	ENSCLMG00005001088	GTF	NA
+Cyclopterus_lumpus	NAA15	ENSCLMG00005001117	Others	NA
+Cyclopterus_lumpus	FLNB	ENSCLMG00005001118	Others	NA
+Cyclopterus_lumpus	loxl2b	ENSCLMG00005001138	Others	NA
+Cyclopterus_lumpus	jmjd6	ENSCLMG00005001164	Others	NA
+Cyclopterus_lumpus	sgf29	ENSCLMG00005001171	Others	NA
+Cyclopterus_lumpus	kdm4c	ENSCLMG00005001264	Lysine demethylase	NA
+Cyclopterus_lumpus	actr5	ENSCLMG00005001302	ACTR	NA
+Cyclopterus_lumpus	ncoa4	ENSCLMG00005001362	Nuclear receptor coactivator	NA
+Cyclopterus_lumpus		ENSCLMG00005001383	Others	NA
+Cyclopterus_lumpus	zgc:113279	ENSCLMG00005001414	NFKB associated	NA
+Cyclopterus_lumpus	ddx54	ENSCLMG00005001515	RNA helicase	NA
+Cyclopterus_lumpus	HDGF	ENSCLMG00005001525	Others	NA
+Cyclopterus_lumpus	cops5	ENSCLMG00005001742	Others	NA
+Cyclopterus_lumpus	gtf2h4	ENSCLMG00005001746	GTF	NA
+Cyclopterus_lumpus	elp1	ENSCLMG00005001759	ELP	NA
+Cyclopterus_lumpus	hif1an	ENSCLMG00005001801	Others	NA
+Cyclopterus_lumpus	runx1t1	ENSCLMG00005001825	Others	NA
+Cyclopterus_lumpus	med30	ENSCLMG00005001856	Mediator complex	NA
+Cyclopterus_lumpus	dhx36	ENSCLMG00005001870	RNA helicase	NA
+Cyclopterus_lumpus	dscama	ENSCLMG00005001893	Others	NA
+Cyclopterus_lumpus	smarcad1a	ENSCLMG00005001923	SWI/SNF	NA
+Cyclopterus_lumpus	park7	ENSCLMG00005002000	Others	NA
+Cyclopterus_lumpus	rnf25	ENSCLMG00005002112	Ring finger protein	NA
+Cyclopterus_lumpus	rprd1b	ENSCLMG00005002122	Others	NA
+Cyclopterus_lumpus	kat8	ENSCLMG00005002137	Lysine acetyltransferase	NA
+Cyclopterus_lumpus	trim16	ENSCLMG00005002154	Tripartite motif	NA
+Cyclopterus_lumpus	cbx2	ENSCLMG00005002163	Chromobox	NA
+Cyclopterus_lumpus	vgll4b	ENSCLMG00005002259	Vestigial like	NA
+Cyclopterus_lumpus	abl1	ENSCLMG00005002301	Others	NA
+Cyclopterus_lumpus	CHUK	ENSCLMG00005002340	Others	NA
+Cyclopterus_lumpus	stk3	ENSCLMG00005002368	Others	NA
+Cyclopterus_lumpus	mtdha	ENSCLMG00005002387	Others	NA
+Cyclopterus_lumpus	pagr1	ENSCLMG00005002388	Others	NA
+Cyclopterus_lumpus	polr3c	ENSCLMG00005002406	POLR	NA
+Cyclopterus_lumpus	egln1a	ENSCLMG00005002426	Others	NA
+Cyclopterus_lumpus	YWHAB	ENSCLMG00005002445	Others	NA
+Cyclopterus_lumpus	abraa	ENSCLMG00005002447	Actin	NA
+Cyclopterus_lumpus	ing4	ENSCLMG00005002494	ING	NA
+Cyclopterus_lumpus	csnk2a1	ENSCLMG00005002518	Casein	NA
+Cyclopterus_lumpus	FAM83G	ENSCLMG00005002531	FAM	NA
+Cyclopterus_lumpus	kat2b	ENSCLMG00005002571	Lysine acetyltransferase	NA
+Cyclopterus_lumpus	rbfox2	ENSCLMG00005002629	Others	NA
+Cyclopterus_lumpus	taf7	ENSCLMG00005002689	TATA-box	NA
+Cyclopterus_lumpus		ENSCLMG00005002733	CHD	NA
+Cyclopterus_lumpus		ENSCLMG00005002840	SMYD	NA
+Cyclopterus_lumpus	pex14	ENSCLMG00005002858	Others	NA
+Cyclopterus_lumpus	slc19a1	ENSCLMG00005002976	SLC	NA
+Cyclopterus_lumpus	ing3	ENSCLMG00005003001	ING	NA
+Cyclopterus_lumpus	cnot2	ENSCLMG00005003053	CCR4-NOT	NA
+Cyclopterus_lumpus	taf11	ENSCLMG00005003060	TATA-box	NA
+Cyclopterus_lumpus	med25	ENSCLMG00005003075	Mediator complex	NA
+Cyclopterus_lumpus	ss18	ENSCLMG00005003096	SS18	NA
+Cyclopterus_lumpus	frzb	ENSCLMG00005003100	Others	NA
+Cyclopterus_lumpus	elp4	ENSCLMG00005003205	ELP	NA
+Cyclopterus_lumpus	taf10	ENSCLMG00005003208	TATA-box	NA
+Cyclopterus_lumpus	KDM5B	ENSCLMG00005003267	Lysine demethylase	NA
+Cyclopterus_lumpus	sap18	ENSCLMG00005003269	SAP	NA
+Cyclopterus_lumpus	leo1	ENSCLMG00005003282	Others	NA
+Cyclopterus_lumpus	rprd1a	ENSCLMG00005003296	Others	NA
+Cyclopterus_lumpus	drap1	ENSCLMG00005003312	Others	NA
+Cyclopterus_lumpus	ccne1	ENSCLMG00005003338	Cyclin	NA
+Cyclopterus_lumpus	trak2	ENSCLMG00005003344	Others	NA
+Cyclopterus_lumpus	ascc3	ENSCLMG00005003396	ASCC	NA
+Cyclopterus_lumpus	suz12b	ENSCLMG00005003443	Others	NA
+Cyclopterus_lumpus	phf19	ENSCLMG00005003503	PHF	NA
+Cyclopterus_lumpus	pspc1	ENSCLMG00005003504	Others	NA
+Cyclopterus_lumpus	nlk2	ENSCLMG00005003545	Others	NA
+Cyclopterus_lumpus	nab1a	ENSCLMG00005003557	Others	NA
+Cyclopterus_lumpus	phf8	ENSCLMG00005003573	PHF	NA
+Cyclopterus_lumpus	cdk2	ENSCLMG00005003611	Cyclin	NA
+Cyclopterus_lumpus	pink1	ENSCLMG00005003639	Others	NA
+Cyclopterus_lumpus	picalmb	ENSCLMG00005003650	Others	NA
+Cyclopterus_lumpus	mrtfba	ENSCLMG00005003652	Others	NA
+Cyclopterus_lumpus	vgll2a	ENSCLMG00005003667	Vestigial like	NA
+Cyclopterus_lumpus	rnf14	ENSCLMG00005003698	Ring finger protein	NA
+Cyclopterus_lumpus	tp53bp1	ENSCLMG00005003713	Others	NA
+Cyclopterus_lumpus	axin1	ENSCLMG00005003730	Others	NA
+Cyclopterus_lumpus	med27	ENSCLMG00005003754	Mediator complex	NA
+Cyclopterus_lumpus		ENSCLMG00005003768	FGF	NA
+Cyclopterus_lumpus	trip11	ENSCLMG00005003773	Thyroid hormone receptor	NA
+Cyclopterus_lumpus		ENSCLMG00005003787	Bromodomain	NA
+Cyclopterus_lumpus	timeless	ENSCLMG00005003804	Others	NA
+Cyclopterus_lumpus	mcrs1	ENSCLMG00005003819	Others	NA
+Cyclopterus_lumpus	TGFB1I1	ENSCLMG00005003846	Others	NA
+Cyclopterus_lumpus	ELOB	ENSCLMG00005003894	Others	NA
+Cyclopterus_lumpus	txnipa	ENSCLMG00005003943	Others	NA
+Cyclopterus_lumpus	chtopa	ENSCLMG00005003952	Others	NA
+Cyclopterus_lumpus	ilf2	ENSCLMG00005003962	Others	NA
+Cyclopterus_lumpus	erbb2	ENSCLMG00005004004	Erbb2	NA
+Cyclopterus_lumpus	gmnn	ENSCLMG00005004015	Others	NA
+Cyclopterus_lumpus	tdp2b	ENSCLMG00005004019	Others	NA
+Cyclopterus_lumpus	chrac1	ENSCLMG00005004025	Other_CRF	NA
+Cyclopterus_lumpus	CBX4	ENSCLMG00005004072	Chromobox	NA
+Cyclopterus_lumpus	cbx8b	ENSCLMG00005004073	Chromobox	NA
+Cyclopterus_lumpus	trim25	ENSCLMG00005004085	Tripartite motif	NA
+Cyclopterus_lumpus	cttn	ENSCLMG00005004094	Others	NA
+Cyclopterus_lumpus	setd6	ENSCLMG00005004120	SET	NA
+Cyclopterus_lumpus	MSL3	ENSCLMG00005004121	Others	NA
+Cyclopterus_lumpus	arglu1a	ENSCLMG00005004135	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005004155	Others	NA
+Cyclopterus_lumpus	rptor	ENSCLMG00005004157	Others	NA
+Cyclopterus_lumpus	cnot1	ENSCLMG00005004164	CCR4-NOT	NA
+Cyclopterus_lumpus	sqstm1	ENSCLMG00005004165	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005004166	Ring finger protein	NA
+Cyclopterus_lumpus	ercc3	ENSCLMG00005004201	Others	NA
+Cyclopterus_lumpus	SMARCA2	ENSCLMG00005004251	SWI/SNF	NA
+Cyclopterus_lumpus	HINT1	ENSCLMG00005004337	Others	NA
+Cyclopterus_lumpus	mycbp	ENSCLMG00005004359	MYC	NA
+Cyclopterus_lumpus		ENSCLMG00005004360	Nuclear coactivator	NA
+Cyclopterus_lumpus	cdc73	ENSCLMG00005004413	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005004471	SUPT	NA
+Cyclopterus_lumpus	kank1a	ENSCLMG00005004492	Others	NA
+Cyclopterus_lumpus	carm1	ENSCLMG00005004546	Others	NA
+Cyclopterus_lumpus	nup98	ENSCLMG00005004760	Others	NA
+Cyclopterus_lumpus	ercc2	ENSCLMG00005004783	Others	NA
+Cyclopterus_lumpus	CTBP1	ENSCLMG00005004841	Others	NA
+Cyclopterus_lumpus	smarca5	ENSCLMG00005004849	SWI/SNF	NA
+Cyclopterus_lumpus	ctnnb1	ENSCLMG00005004892	Casein	NA
+Cyclopterus_lumpus	taf3	ENSCLMG00005004915	TATA-box	NA
+Cyclopterus_lumpus	ino80c	ENSCLMG00005004924	INO80 complex	NA
+Cyclopterus_lumpus	dpy30	ENSCLMG00005005030	Others	NA
+Cyclopterus_lumpus	TOB2	ENSCLMG00005005101	Others	NA
+Cyclopterus_lumpus	hells	ENSCLMG00005005103	Others	NA
+Cyclopterus_lumpus	rbx1	ENSCLMG00005005119	Others	NA
+Cyclopterus_lumpus	rtf1	ENSCLMG00005005122	Others	NA
+Cyclopterus_lumpus	sufu	ENSCLMG00005005134	Others	NA
+Cyclopterus_lumpus	taf12	ENSCLMG00005005141	TATA-box	NA
+Cyclopterus_lumpus	BRF1	ENSCLMG00005005142	GTF	NA
+Cyclopterus_lumpus	npm3	ENSCLMG00005005148	Nucleoplasmin	NA
+Cyclopterus_lumpus	supt5h	ENSCLMG00005005159	SUPT	NA
+Cyclopterus_lumpus	dnaja3a	ENSCLMG00005005164	Others	NA
+Cyclopterus_lumpus	anp32e	ENSCLMG00005005187	ANP	NA
+Cyclopterus_lumpus	tdrd3	ENSCLMG00005005233	Others	NA
+Cyclopterus_lumpus	cited4b	ENSCLMG00005005269	CITED	NA
+Cyclopterus_lumpus	SCMH1	ENSCLMG00005005272	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005005298	Others	NA
+Cyclopterus_lumpus	med18	ENSCLMG00005005329	Mediator complex	NA
+Cyclopterus_lumpus		ENSCLMG00005005359	Others	NA
+Cyclopterus_lumpus	PCGF2	ENSCLMG00005005370	PCGF	NA
+Cyclopterus_lumpus	med29	ENSCLMG00005005396	Mediator complex	NA
+Cyclopterus_lumpus	scai	ENSCLMG00005005420	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005005435	Sirtuin	NA
+Cyclopterus_lumpus	macroh2a2	ENSCLMG00005005469	Others	NA
+Cyclopterus_lumpus	med17	ENSCLMG00005005498	Mediator complex	NA
+Cyclopterus_lumpus	cdk12	ENSCLMG00005005508	Cyclin	NA
+Cyclopterus_lumpus	setd7	ENSCLMG00005005540	SET	NA
+Cyclopterus_lumpus	chek1	ENSCLMG00005005568	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005005601	CAMK	NA
+Cyclopterus_lumpus	med6	ENSCLMG00005005663	Mediator complex	NA
+Cyclopterus_lumpus	uri1	ENSCLMG00005005742	Others	NA
+Cyclopterus_lumpus	ILK	ENSCLMG00005005759	Others	NA
+Cyclopterus_lumpus	CIITA	ENSCLMG00005005770	Others	NA
+Cyclopterus_lumpus	ALYREF	ENSCLMG00005005776	Others	NA
+Cyclopterus_lumpus	apbb1	ENSCLMG00005005785	Others	NA
+Cyclopterus_lumpus	bcl9l	ENSCLMG00005005788	BCL	NA
+Cyclopterus_lumpus	recql5	ENSCLMG00005005799	Others	NA
+Cyclopterus_lumpus	actn1	ENSCLMG00005005806	Actin	NA
+Cyclopterus_lumpus	taf6	ENSCLMG00005005900	TATA-box	NA
+Cyclopterus_lumpus	nfkbiaa	ENSCLMG00005005911	NFKB associated	NA
+Cyclopterus_lumpus	brms1lb	ENSCLMG00005005912	Other_CRF	NA
+Cyclopterus_lumpus	skila	ENSCLMG00005006000	SKI	NA
+Cyclopterus_lumpus	fbrsl1	ENSCLMG00005006003	Others	NA
+Cyclopterus_lumpus	RBPMS	ENSCLMG00005006022	RNA binding protein	NA
+Cyclopterus_lumpus	rad21a	ENSCLMG00005006041	Others	NA
+Cyclopterus_lumpus	phf21ab	ENSCLMG00005006087	PHF	NA
+Cyclopterus_lumpus	gtf2a1	ENSCLMG00005006103	GTF	NA
+Cyclopterus_lumpus	actr6	ENSCLMG00005006124	ACTR	NA
+Cyclopterus_lumpus	snw1	ENSCLMG00005006183	Others	NA
+Cyclopterus_lumpus	trrap	ENSCLMG00005006184	Others	NA
+Cyclopterus_lumpus	SAMD4B	ENSCLMG00005006243	Others	NA
+Cyclopterus_lumpus	pcbd1	ENSCLMG00005006256	Others	NA
+Cyclopterus_lumpus	hdac5	ENSCLMG00005006315	Histone deacetylase	NA
+Cyclopterus_lumpus	sin3b	ENSCLMG00005006338	Others	NA
+Cyclopterus_lumpus	sap130a	ENSCLMG00005006384	SAP	NA
+Cyclopterus_lumpus	NDUFA13	ENSCLMG00005006434	Others	NA
+Cyclopterus_lumpus	camk4	ENSCLMG00005006466	CAMK	NA
+Cyclopterus_lumpus	rbm39b	ENSCLMG00005006469	RNA binding protein	NA
+Cyclopterus_lumpus	paf1	ENSCLMG00005006478	Others	NA
+Cyclopterus_lumpus	nelfa	ENSCLMG00005006480	GTF	NA
+Cyclopterus_lumpus	tnip1	ENSCLMG00005006483	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005006497	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005006521	Others	NA
+Cyclopterus_lumpus	ctnnbip1	ENSCLMG00005006623	Casein	NA
+Cyclopterus_lumpus	ino80e	ENSCLMG00005006649	INO80 complex	NA
+Cyclopterus_lumpus	taf9	ENSCLMG00005006655	TATA-box	NA
+Cyclopterus_lumpus	utp4	ENSCLMG00005006659	Others	NA
+Cyclopterus_lumpus	pabpc1l	ENSCLMG00005006743	Other_CRF	NA
+Cyclopterus_lumpus	noc2l	ENSCLMG00005006769	Others	NA
+Cyclopterus_lumpus	DCAF1	ENSCLMG00005006838	Others	NA
+Cyclopterus_lumpus	calr	ENSCLMG00005006870	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005006893	Others	NA
+Cyclopterus_lumpus	hira	ENSCLMG00005006939	Others	NA
+Cyclopterus_lumpus	aip	ENSCLMG00005006952	Others	NA
+Cyclopterus_lumpus	kdm8	ENSCLMG00005006976	Lysine demethylase	NA
+Cyclopterus_lumpus		ENSCLMG00005006989	Others	NA
+Cyclopterus_lumpus	cideb	ENSCLMG00005007007	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005007055	TEF	NA
+Cyclopterus_lumpus	med16	ENSCLMG00005007071	Mediator complex	NA
+Cyclopterus_lumpus	arrb1	ENSCLMG00005007150	Others	NA
+Cyclopterus_lumpus	sdr16c5a	ENSCLMG00005007197	Others	NA
+Cyclopterus_lumpus	lyn	ENSCLMG00005007202	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005007217	Others	NA
+Cyclopterus_lumpus	kat6b	ENSCLMG00005007314	Lysine acetyltransferase	NA
+Cyclopterus_lumpus	KDM1B	ENSCLMG00005007339	Lysine demethylase	NA
+Cyclopterus_lumpus	waca	ENSCLMG00005007354	WW	NA
+Cyclopterus_lumpus	sirt6	ENSCLMG00005007368	Sirtuin	NA
+Cyclopterus_lumpus	mtor	ENSCLMG00005007384	Others	NA
+Cyclopterus_lumpus	egfra	ENSCLMG00005007428	Others	NA
+Cyclopterus_lumpus	med24	ENSCLMG00005007450	Mediator complex	NA
+Cyclopterus_lumpus	gtf2h3	ENSCLMG00005007470	GTF	NA
+Cyclopterus_lumpus	chd3	ENSCLMG00005007477	CHD	NA
+Cyclopterus_lumpus	med10	ENSCLMG00005007575	Mediator complex	NA
+Cyclopterus_lumpus	ss18l2	ENSCLMG00005007635	SS18	NA
+Cyclopterus_lumpus	DDX39A	ENSCLMG00005007794	RNA helicase	NA
+Cyclopterus_lumpus	kdm5c	ENSCLMG00005007885	Lysine demethylase	NA
+Cyclopterus_lumpus	CCNK	ENSCLMG00005007947	Cyclin	NA
+Cyclopterus_lumpus	dvl3a	ENSCLMG00005007983	Others	NA
+Cyclopterus_lumpus	pdlim1	ENSCLMG00005007996	Others	NA
+Cyclopterus_lumpus	kat5b	ENSCLMG00005008164	Lysine acetyltransferase	NA
+Cyclopterus_lumpus	dpf2	ENSCLMG00005008185	DPF	NA
+Cyclopterus_lumpus	smarcb1b	ENSCLMG00005008192	SWI/SNF	NA
+Cyclopterus_lumpus	prmt5	ENSCLMG00005008205	Arginine methyltransferase	NA
+Cyclopterus_lumpus	birc2	ENSCLMG00005008211	Others	NA
+Cyclopterus_lumpus	pid1	ENSCLMG00005008240	Others	NA
+Cyclopterus_lumpus	sirt2	ENSCLMG00005008246	Sirtuin	NA
+Cyclopterus_lumpus	mdm4	ENSCLMG00005008255	Others	NA
+Cyclopterus_lumpus	LIMD1	ENSCLMG00005008373	LIM	NA
+Cyclopterus_lumpus	seta	ENSCLMG00005008432	SET	NA
+Cyclopterus_lumpus	btk	ENSCLMG00005008452	Others	NA
+Cyclopterus_lumpus	CASK	ENSCLMG00005008471	CAMK	NA
+Cyclopterus_lumpus		ENSCLMG00005008494	Erbb2	NA
+Cyclopterus_lumpus	ndnl2	ENSCLMG00005008521	MAGE	NA
+Cyclopterus_lumpus	ddx20	ENSCLMG00005008550	RNA helicase	NA
+Cyclopterus_lumpus	gnl3	ENSCLMG00005008562	Others	NA
+Cyclopterus_lumpus	kdm3b	ENSCLMG00005008574	Lysine demethylase	NA
+Cyclopterus_lumpus	RING1	ENSCLMG00005008611	Ring finger protein	NA
+Cyclopterus_lumpus	ENY2	ENSCLMG00005008615	Others	NA
+Cyclopterus_lumpus	WDR77	ENSCLMG00005008650	WD	NA
+Cyclopterus_lumpus	TADA1	ENSCLMG00005008749	Transcriptional adaptor	NA
+Cyclopterus_lumpus	polr3f	ENSCLMG00005008811	POLR	NA
+Cyclopterus_lumpus	crebbpb	ENSCLMG00005008886	CREB	NA
+Cyclopterus_lumpus	NEDD8	ENSCLMG00005008909	Others	NA
+Cyclopterus_lumpus	chd9	ENSCLMG00005008933	CHD	NA
+Cyclopterus_lumpus	kdm6a	ENSCLMG00005008935	Lysine demethylase	NA
+Cyclopterus_lumpus	mak	ENSCLMG00005008936	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005009017	Mediator complex	NA
+Cyclopterus_lumpus	jade1	ENSCLMG00005009036	Others	NA
+Cyclopterus_lumpus	med22	ENSCLMG00005009060	Mediator complex	NA
+Cyclopterus_lumpus	eno1a	ENSCLMG00005009064	Others	NA
+Cyclopterus_lumpus	baz1b	ENSCLMG00005009135	Bromodomain	NA
+Cyclopterus_lumpus	si:dkey-21c19.3	ENSCLMG00005009249	Others	NA
+Cyclopterus_lumpus	chd6	ENSCLMG00005009283	CHD	NA
+Cyclopterus_lumpus	ccnt2a	ENSCLMG00005009290	Cyclin	NA
+Cyclopterus_lumpus	ehmt2	ENSCLMG00005009291	Histone lysine methyltransferase	NA
+Cyclopterus_lumpus	setd3	ENSCLMG00005009303	SET	NA
+Cyclopterus_lumpus	pim1	ENSCLMG00005009341	Others	NA
+Cyclopterus_lumpus	cnot10	ENSCLMG00005009351	CCR4-NOT	NA
+Cyclopterus_lumpus	snip1	ENSCLMG00005009356	Others	NA
+Cyclopterus_lumpus	fhl3a	ENSCLMG00005009368	FHL	NA
+Cyclopterus_lumpus	pnrc2	ENSCLMG00005009430	Others	NA
+Cyclopterus_lumpus	c1d	ENSCLMG00005009465	Other_Co-activator/repressors	NA
+Cyclopterus_lumpus	heatr1	ENSCLMG00005009476	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005009500	Others	NA
+Cyclopterus_lumpus	wdtc1	ENSCLMG00005009534	WD	NA
+Cyclopterus_lumpus	wdr5	ENSCLMG00005009569	WD	NA
+Cyclopterus_lumpus	calcoco1a	ENSCLMG00005009578	Others	NA
+Cyclopterus_lumpus	cbx5	ENSCLMG00005009594	Chromobox	NA
+Cyclopterus_lumpus	chd8	ENSCLMG00005009595	CHD	NA
+Cyclopterus_lumpus	PELI1	ENSCLMG00005009602	Others	NA
+Cyclopterus_lumpus	pik3r2	ENSCLMG00005009644	Others	NA
+Cyclopterus_lumpus	crtc1b	ENSCLMG00005009656	CREB	NA
+Cyclopterus_lumpus		ENSCLMG00005009720	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005009744	Tripartite motif	NA
+Cyclopterus_lumpus	tnksb	ENSCLMG00005009829	Others	NA
+Cyclopterus_lumpus	supt7l	ENSCLMG00005009839	SUPT	NA
+Cyclopterus_lumpus	ELOF1	ENSCLMG00005009868	GTF	NA
+Cyclopterus_lumpus	wdr61	ENSCLMG00005009885	WD	NA
+Cyclopterus_lumpus	gtf2f1	ENSCLMG00005009886	GTF	NA
+Cyclopterus_lumpus	sin3aa	ENSCLMG00005009901	Other_CRF	NA
+Cyclopterus_lumpus	rap2c	ENSCLMG00005009912	Others	NA
+Cyclopterus_lumpus	rrn3	ENSCLMG00005009922	Others	NA
+Cyclopterus_lumpus	hdac8	ENSCLMG00005010034	Histone deacetylase	NA
+Cyclopterus_lumpus	cited1	ENSCLMG00005010035	CITED	NA
+Cyclopterus_lumpus	siah2l	ENSCLMG00005010045	Others	NA
+Cyclopterus_lumpus	si:dkey-6i22.5	ENSCLMG00005010076	Others	NA
+Cyclopterus_lumpus	med19a	ENSCLMG00005010077	Mediator complex	NA
+Cyclopterus_lumpus	med31	ENSCLMG00005010081	Mediator complex	NA
+Cyclopterus_lumpus	prpf6	ENSCLMG00005010125	Others	NA
+Cyclopterus_lumpus	pfdn5	ENSCLMG00005010137	Others	NA
+Cyclopterus_lumpus	tonsl	ENSCLMG00005010170	Others	NA
+Cyclopterus_lumpus	bend3	ENSCLMG00005010171	Others	NA
+Cyclopterus_lumpus	nab2	ENSCLMG00005010195	Others	NA
+Cyclopterus_lumpus	znf593	ENSCLMG00005010229	Zinc finger	NA
+Cyclopterus_lumpus	ran	ENSCLMG00005010355	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005010364	Actin	NA
+Cyclopterus_lumpus	smurf1	ENSCLMG00005010392	Others	NA
+Cyclopterus_lumpus	apex1	ENSCLMG00005010397	Others	NA
+Cyclopterus_lumpus	med21	ENSCLMG00005010429	Mediator complex	NA
+Cyclopterus_lumpus	rnf10	ENSCLMG00005010445	Ring finger protein	NA
+Cyclopterus_lumpus	fgf5	ENSCLMG00005010446	FGF	NA
+Cyclopterus_lumpus	lmo1	ENSCLMG00005010493	LIM	NA
+Cyclopterus_lumpus		ENSCLMG00005010500	Transducin	NA
+Cyclopterus_lumpus	kdm2ab	ENSCLMG00005010522	Lysine demethylase	NA
+Cyclopterus_lumpus	lrrc7	ENSCLMG00005010559	Erbb2	NA
+Cyclopterus_lumpus	fbxw7	ENSCLMG00005010561	Others	NA
+Cyclopterus_lumpus	med20	ENSCLMG00005010612	Mediator complex	NA
+Cyclopterus_lumpus	btg1	ENSCLMG00005010618	Others	NA
+Cyclopterus_lumpus	med8	ENSCLMG00005010626	Mediator complex	NA
+Cyclopterus_lumpus	dnajb1a	ENSCLMG00005010688	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005010715	Others	NA
+Cyclopterus_lumpus	insra	ENSCLMG00005010724	Others	NA
+Cyclopterus_lumpus	h2az2a	ENSCLMG00005010725	Others	NA
+Cyclopterus_lumpus	pih1d1	ENSCLMG00005010731	Other_CRF	NA
+Cyclopterus_lumpus	prmt7	ENSCLMG00005010778	Arginine methyltransferase	NA
+Cyclopterus_lumpus	dr1	ENSCLMG00005010812	Others	NA
+Cyclopterus_lumpus	ZNF703	ENSCLMG00005010820	Zinc finger	NA
+Cyclopterus_lumpus	wwp2	ENSCLMG00005010824	WW	NA
+Cyclopterus_lumpus	cep290	ENSCLMG00005010870	Others	NA
+Cyclopterus_lumpus	CTDSP1	ENSCLMG00005010886	Others	NA
+Cyclopterus_lumpus	edf1	ENSCLMG00005010897	Others	NA
+Cyclopterus_lumpus	lin9	ENSCLMG00005010900	Others	NA
+Cyclopterus_lumpus	eaf2	ENSCLMG00005010957	Others	NA
+Cyclopterus_lumpus	ppargc1a	ENSCLMG00005010970	Others	NA
+Cyclopterus_lumpus	si:dkey-103i16.6	ENSCLMG00005010993	Sirtuin	NA
+Cyclopterus_lumpus		ENSCLMG00005011041	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005011116	Mediator complex	NA
+Cyclopterus_lumpus	trip13	ENSCLMG00005011161	Thyroid hormone receptor	NA
+Cyclopterus_lumpus	tab1	ENSCLMG00005011231	Others	NA
+Cyclopterus_lumpus	supt16h	ENSCLMG00005011237	SUPT	NA
+Cyclopterus_lumpus	ccdc59	ENSCLMG00005011241	Coiled-coil	NA
+Cyclopterus_lumpus	trim32	ENSCLMG00005011310	Tripartite motif	NA
+Cyclopterus_lumpus	fgfr2	ENSCLMG00005011396	FGF	NA
+Cyclopterus_lumpus	rbm15	ENSCLMG00005011415	RNA binding protein	NA
+Cyclopterus_lumpus	phip	ENSCLMG00005011467	Others	NA
+Cyclopterus_lumpus	sfr1	ENSCLMG00005011472	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005011483	Others	NA
+Cyclopterus_lumpus	strap	ENSCLMG00005011507	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005011641	Tripartite motif	NA
+Cyclopterus_lumpus	strn	ENSCLMG00005011651	Others	NA
+Cyclopterus_lumpus	mdm2	ENSCLMG00005011698	Others	NA
+Cyclopterus_lumpus	ago1	ENSCLMG00005011699	Others	NA
+Cyclopterus_lumpus	ssu72	ENSCLMG00005011728	Others	NA
+Cyclopterus_lumpus	xrn2	ENSCLMG00005011775	Others	NA
+Cyclopterus_lumpus	tgfb1a	ENSCLMG00005011794	Others	NA
+Cyclopterus_lumpus	SPEN	ENSCLMG00005011816	Others	NA
+Cyclopterus_lumpus	rexo4	ENSCLMG00005011896	Others	NA
+Cyclopterus_lumpus	hspa8	ENSCLMG00005011929	Heat shock protein	NA
+Cyclopterus_lumpus	brip1	ENSCLMG00005011933	Others	NA
+Cyclopterus_lumpus	bcas3	ENSCLMG00005011937	Others	NA
+Cyclopterus_lumpus	rbbp4	ENSCLMG00005011991	RBBP	NA
+Cyclopterus_lumpus	snd1	ENSCLMG00005012045	Others	NA
+Cyclopterus_lumpus	ikbkb	ENSCLMG00005012066	Others	NA
+Cyclopterus_lumpus	anp32b	ENSCLMG00005012076	ANP	NA
+Cyclopterus_lumpus	setd2	ENSCLMG00005012096	SET	NA
+Cyclopterus_lumpus	lgals9l6	ENSCLMG00005012098	Others	NA
+Cyclopterus_lumpus	kdm6ba	ENSCLMG00005012114	Lysine demethylase	NA
+Cyclopterus_lumpus	ppid	ENSCLMG00005012149	Others	NA
+Cyclopterus_lumpus	ASF1B	ENSCLMG00005012177	Others	NA
+Cyclopterus_lumpus	ldb2a	ENSCLMG00005012196	LIM	NA
+Cyclopterus_lumpus	smarcd1	ENSCLMG00005012219	SWI/SNF	NA
+Cyclopterus_lumpus	kdm4b	ENSCLMG00005012307	Lysine demethylase	NA
+Cyclopterus_lumpus	ezh2	ENSCLMG00005012338	Others	NA
+Cyclopterus_lumpus	supt6h	ENSCLMG00005012497	SUPT	NA
+Cyclopterus_lumpus	cxxc1b	ENSCLMG00005012498	Others	NA
+Cyclopterus_lumpus	dnmt3bb.1	ENSCLMG00005012506	DNA_methylase	NA
+Cyclopterus_lumpus	ccdc85b	ENSCLMG00005012554	Coiled-coil	NA
+Cyclopterus_lumpus	supt4h1	ENSCLMG00005012578	SUPT	NA
+Cyclopterus_lumpus	c1qbp	ENSCLMG00005012602	Others	NA
+Cyclopterus_lumpus	dhx33	ENSCLMG00005012603	RNA helicase	NA
+Cyclopterus_lumpus	ncoa2	ENSCLMG00005012653	Nuclear receptor coactivator	NA
+Cyclopterus_lumpus	eya1	ENSCLMG00005012679	EYA	NA
+Cyclopterus_lumpus	ccna2	ENSCLMG00005012694	Cyclin	NA
+Cyclopterus_lumpus	pcgf1	ENSCLMG00005012719	PCGF	NA
+Cyclopterus_lumpus	SFMBT1	ENSCLMG00005012763	Others	NA
+Cyclopterus_lumpus	dvl2	ENSCLMG00005012796	Others	NA
+Cyclopterus_lumpus	si:ch73-21k16.1	ENSCLMG00005012806	LPIN	NA
+Cyclopterus_lumpus	chchd2	ENSCLMG00005012807	Coiled-coil	NA
+Cyclopterus_lumpus	dhx9	ENSCLMG00005012844	RNA helicase	NA
+Cyclopterus_lumpus	dyrk1b	ENSCLMG00005012892	Others	NA
+Cyclopterus_lumpus	HCFC1	ENSCLMG00005012898	Others	NA
+Cyclopterus_lumpus	wwc1	ENSCLMG00005012902	WW	NA
+Cyclopterus_lumpus	ddx1	ENSCLMG00005012911	RNA helicase	NA
+Cyclopterus_lumpus	mnat1	ENSCLMG00005012917	Others	NA
+Cyclopterus_lumpus	creg1	ENSCLMG00005012945	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005012957	Thyroid hormone receptor	NA
+Cyclopterus_lumpus	flii	ENSCLMG00005012960	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005013020	Others	NA
+Cyclopterus_lumpus	EZH1	ENSCLMG00005013037	Others	NA
+Cyclopterus_lumpus	hipk2	ENSCLMG00005013052	HIPK	NA
+Cyclopterus_lumpus	ascc1	ENSCLMG00005013090	ASCC	NA
+Cyclopterus_lumpus	tob1a	ENSCLMG00005013111	Others	NA
+Cyclopterus_lumpus	bcl10	ENSCLMG00005013132	BCL	NA
+Cyclopterus_lumpus	top1l	ENSCLMG00005013136	Other_CRF	NA
+Cyclopterus_lumpus	abt1	ENSCLMG00005013173	Others	NA
+Cyclopterus_lumpus	hnrnpc	ENSCLMG00005013227	HNRNP	NA
+Cyclopterus_lumpus	tbpl2	ENSCLMG00005013238	TATA-box	NA
+Cyclopterus_lumpus	dact1	ENSCLMG00005013247	Others	NA
+Cyclopterus_lumpus	sap30l	ENSCLMG00005013254	SAP	NA
+Cyclopterus_lumpus	tirap	ENSCLMG00005013261	Others	NA
+Cyclopterus_lumpus	snx6	ENSCLMG00005013263	Others	NA
+Cyclopterus_lumpus	nsmce4a	ENSCLMG00005013284	EID	NA
+Cyclopterus_lumpus	commd1	ENSCLMG00005013349	Others	NA
+Cyclopterus_lumpus	ankrd2	ENSCLMG00005013370	Ankyrin repeat	NA
+Cyclopterus_lumpus	hdac1	ENSCLMG00005013445	Histone deacetylase	NA
+Cyclopterus_lumpus	ccar1	ENSCLMG00005013456	Others	NA
+Cyclopterus_lumpus	hipk3a	ENSCLMG00005013494	HIPK	NA
+Cyclopterus_lumpus	taf2	ENSCLMG00005013505	TATA-box	NA
+Cyclopterus_lumpus	ino80b	ENSCLMG00005013539	INO80 complex	NA
+Cyclopterus_lumpus	safb	ENSCLMG00005013575	Others	NA
+Cyclopterus_lumpus	puf60b	ENSCLMG00005013607	Others	NA
+Cyclopterus_lumpus	smyd1b	ENSCLMG00005013639	SMYD	NA
+Cyclopterus_lumpus	tle5	ENSCLMG00005013657	Others	NA
+Cyclopterus_lumpus	prmt6	ENSCLMG00005013718	Arginine methyltransferase	NA
+Cyclopterus_lumpus	cnot8	ENSCLMG00005013727	CCR4-NOT	NA
+Cyclopterus_lumpus	lzts2a	ENSCLMG00005013735	Others	NA
+Cyclopterus_lumpus	pycard	ENSCLMG00005013740	Others	NA
+Cyclopterus_lumpus	cdk9	ENSCLMG00005013744	Cyclin	NA
+Cyclopterus_lumpus		ENSCLMG00005013815	Others	NA
+Cyclopterus_lumpus	eloca	ENSCLMG00005013847	Others	NA
+Cyclopterus_lumpus	crym	ENSCLMG00005013887	Others	NA
+Cyclopterus_lumpus	CSNK2A2	ENSCLMG00005013902	Casein	NA
+Cyclopterus_lumpus	smarcd2	ENSCLMG00005013932	SWI/SNF	NA
+Cyclopterus_lumpus	gsk3bb	ENSCLMG00005013971	Others	NA
+Cyclopterus_lumpus	nrip1b	ENSCLMG00005013995	Nuclear receptor coactivator	NA
+Cyclopterus_lumpus	pik3r1	ENSCLMG00005014157	Others	NA
+Cyclopterus_lumpus	per2	ENSCLMG00005014179	Others	NA
+Cyclopterus_lumpus	sfmbt2	ENSCLMG00005014257	Others	NA
+Cyclopterus_lumpus	birc5a	ENSCLMG00005014302	Others	NA
+Cyclopterus_lumpus	kmt5aa	ENSCLMG00005014338	Lysine methyltransferase	NA
+Cyclopterus_lumpus	smarcd3b	ENSCLMG00005014373	SWI/SNF	NA
+Cyclopterus_lumpus	med28	ENSCLMG00005014390	Mediator complex	NA
+Cyclopterus_lumpus	tgfbr3	ENSCLMG00005014421	Others	NA
+Cyclopterus_lumpus	aurkaip1	ENSCLMG00005014486	Others	NA
+Cyclopterus_lumpus	KMT2A	ENSCLMG00005014497	Lysine methyltransferase	NA
+Cyclopterus_lumpus	CBL	ENSCLMG00005014505	Others	NA
+Cyclopterus_lumpus	ascc2	ENSCLMG00005014515	ASCC	NA
+Cyclopterus_lumpus	cry3a	ENSCLMG00005014554	Others	NA
+Cyclopterus_lumpus	ago2	ENSCLMG00005014637	Others	NA
+Cyclopterus_lumpus	ssbp3b	ENSCLMG00005014730	Others	NA
+Cyclopterus_lumpus	sirt7	ENSCLMG00005014808	Sirtuin	NA
+Cyclopterus_lumpus	orc2	ENSCLMG00005014840	Others	NA
+Cyclopterus_lumpus	trim37	ENSCLMG00005014874	Tripartite motif	NA
+Cyclopterus_lumpus	BAZ1A	ENSCLMG00005014892	Bromodomain	NA
+Cyclopterus_lumpus	loxl3b	ENSCLMG00005014919	Others	NA
+Cyclopterus_lumpus	polr2a	ENSCLMG00005014945	POLR	NA
+Cyclopterus_lumpus	trib2	ENSCLMG00005014955	Others	NA
+Cyclopterus_lumpus	ldb1b	ENSCLMG00005014963	LIM	NA
+Cyclopterus_lumpus	pak6a	ENSCLMG00005015017	Others	NA
+Cyclopterus_lumpus	phf20a	ENSCLMG00005015025	PHF	NA
+Cyclopterus_lumpus	ehmt1b	ENSCLMG00005015061	Histone lysine methyltransferase	NA
+Cyclopterus_lumpus	hdac3	ENSCLMG00005015063	Histone deacetylase	NA
+Cyclopterus_lumpus		ENSCLMG00005015075	Zinc finger	NA
+Cyclopterus_lumpus	map3k3	ENSCLMG00005015096	Others	NA
+Cyclopterus_lumpus	cavin1a	ENSCLMG00005015152	Others	NA
+Cyclopterus_lumpus	kdm4ab	ENSCLMG00005015154	Lysine demethylase	NA
+Cyclopterus_lumpus	jupa	ENSCLMG00005015158	Others	NA
+Cyclopterus_lumpus	HDAC4	ENSCLMG00005015160	Histone deacetylase	NA
+Cyclopterus_lumpus	smarca4a	ENSCLMG00005015175	SWI/SNF	NA
+Cyclopterus_lumpus	siva1	ENSCLMG00005015180	Others	NA
+Cyclopterus_lumpus	bcl9	ENSCLMG00005015191	BCL	NA
+Cyclopterus_lumpus	chaf1b	ENSCLMG00005015195	Others	NA
+Cyclopterus_lumpus	emsy	ENSCLMG00005015206	Others	NA
+Cyclopterus_lumpus	egln2	ENSCLMG00005015228	Others	NA
+Cyclopterus_lumpus	kat2a	ENSCLMG00005015231	Lysine acetyltransferase	NA
+Cyclopterus_lumpus	mybbp1a	ENSCLMG00005015238	MYB	NA
+Cyclopterus_lumpus	phf10	ENSCLMG00005015245	PHF	NA
+Cyclopterus_lumpus	tbl1x	ENSCLMG00005015267	Transducin	NA
+Cyclopterus_lumpus		ENSCLMG00005015303	Other_CRF	NA
+Cyclopterus_lumpus	smyd2a	ENSCLMG00005015336	SMYD	NA
+Cyclopterus_lumpus	wwp1	ENSCLMG00005015409	WW	NA
+Cyclopterus_lumpus	trappc2	ENSCLMG00005015477	Others	NA
+Cyclopterus_lumpus	PCGF3	ENSCLMG00005015530	PCGF	NA
+Cyclopterus_lumpus	fbp1b	ENSCLMG00005015558	Others	NA
+Cyclopterus_lumpus	zmynd11	ENSCLMG00005015584	Zinc finger	NA
+Cyclopterus_lumpus	ncoa3	ENSCLMG00005015587	Nuclear receptor coactivator	NA
+Cyclopterus_lumpus	zmynd8	ENSCLMG00005015600	Zinc finger	NA
+Cyclopterus_lumpus	dab2	ENSCLMG00005015621	Others	NA
+Cyclopterus_lumpus	gtf2b	ENSCLMG00005015634	GTF	NA
+Cyclopterus_lumpus		ENSCLMG00005015636	Coiled-coil	NA
+Cyclopterus_lumpus	rpap2	ENSCLMG00005015659	Others	NA
+Cyclopterus_lumpus	ecd	ENSCLMG00005015674	Others	NA
+Cyclopterus_lumpus	tenm1	ENSCLMG00005015695	Others	NA
+Cyclopterus_lumpus	taf5l	ENSCLMG00005015705	TATA-box	NA
+Cyclopterus_lumpus	mtf2	ENSCLMG00005015785	Others	NA
+Cyclopterus_lumpus	ruvbl2	ENSCLMG00005015825	Other_CRF	NA
+Cyclopterus_lumpus	niban2a	ENSCLMG00005015879	FAM	NA
+Cyclopterus_lumpus	chd7	ENSCLMG00005015903	CHD	NA
+Cyclopterus_lumpus	cxxc5a	ENSCLMG00005015943	Others	NA
+Cyclopterus_lumpus	nrg2a	ENSCLMG00005015946	Others	NA
+Cyclopterus_lumpus	med14	ENSCLMG00005015948	Mediator complex	NA
+Cyclopterus_lumpus	plk3	ENSCLMG00005016006	Others	NA
+Cyclopterus_lumpus	crk	ENSCLMG00005016046	Others	NA
+Cyclopterus_lumpus	nelfcd	ENSCLMG00005016069	GTF	NA
+Cyclopterus_lumpus	tescb	ENSCLMG00005016179	Others	NA
+Cyclopterus_lumpus	ep400	ENSCLMG00005016186	Others	NA
+Cyclopterus_lumpus	supt20	ENSCLMG00005016279	SUPT	NA
+Cyclopterus_lumpus	rgcc	ENSCLMG00005016307	Others	NA
+Cyclopterus_lumpus	setd1ba	ENSCLMG00005016308	SET	NA
+Cyclopterus_lumpus	gtf2e1	ENSCLMG00005016318	GTF	NA
+Cyclopterus_lumpus	ccnd1	ENSCLMG00005016327	Cyclin	NA
+Cyclopterus_lumpus	cnot6b	ENSCLMG00005016372	CCR4-NOT	NA
+Cyclopterus_lumpus	gtf2h5	ENSCLMG00005016553	GTF	NA
+Cyclopterus_lumpus	brf2	ENSCLMG00005016595	GTF	NA
+Cyclopterus_lumpus	rfxap	ENSCLMG00005016602	Others	NA
+Cyclopterus_lumpus	anxa4	ENSCLMG00005016603	Others	NA
+Cyclopterus_lumpus	tcea1	ENSCLMG00005016607	TEF	NA
+Cyclopterus_lumpus	lpin2	ENSCLMG00005016686	LPIN	NA
+Cyclopterus_lumpus	depdc1a	ENSCLMG00005016687	Others	NA
+Cyclopterus_lumpus	SRC	ENSCLMG00005016702	Others	NA
+Cyclopterus_lumpus	slc30a9	ENSCLMG00005016743	SLC	NA
+Cyclopterus_lumpus	ell	ENSCLMG00005016774	GTF	NA
+Cyclopterus_lumpus	dot1l	ENSCLMG00005016800	Others	NA
+Cyclopterus_lumpus	rnf141	ENSCLMG00005016813	Ring finger protein	NA
+Cyclopterus_lumpus	ern1	ENSCLMG00005016843	Others	NA
+Cyclopterus_lumpus	s100s	ENSCLMG00005016875	Others	NA
+Cyclopterus_lumpus	suds3	ENSCLMG00005016879	Other_Co-activator/repressors	NA
+Cyclopterus_lumpus	taf8	ENSCLMG00005016909	TATA-box	NA
+Cyclopterus_lumpus	nsd3	ENSCLMG00005016923	Nuclear receptor coactivator	NA
+Cyclopterus_lumpus	cdyl	ENSCLMG00005016985	Chromodomain Y	NA
+Cyclopterus_lumpus	cthl	ENSCLMG00005017022	Others	NA
+Cyclopterus_lumpus	ripply2	ENSCLMG00005017052	Others	NA
+Cyclopterus_lumpus	tnni1b	ENSCLMG00005017092	Others	NA
+Cyclopterus_lumpus	pa2g4a	ENSCLMG00005017128	Others	NA
+Cyclopterus_lumpus	vhl	ENSCLMG00005017148	Others	NA
+Cyclopterus_lumpus	DGKQ	ENSCLMG00005017153	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005017171	Others	NA
+Cyclopterus_lumpus	grhpra	ENSCLMG00005017186	Others	NA
+Cyclopterus_lumpus	wwox	ENSCLMG00005017189	WW	NA
+Cyclopterus_lumpus	SGK1	ENSCLMG00005017211	Others	NA
+Cyclopterus_lumpus	cdk1	ENSCLMG00005017214	Cyclin	NA
+Cyclopterus_lumpus	tbpl1	ENSCLMG00005017222	TATA-box	NA
+Cyclopterus_lumpus	eya4	ENSCLMG00005017245	EYA	NA
+Cyclopterus_lumpus	TAF4	ENSCLMG00005017259	TATA-box	NA
+Cyclopterus_lumpus	fbxw11a	ENSCLMG00005017302	Others	NA
+Cyclopterus_lumpus	raf1a	ENSCLMG00005017410	Others	NA
+Cyclopterus_lumpus	PRMT8	ENSCLMG00005017532	Arginine methyltransferase	NA
+Cyclopterus_lumpus	aurkb	ENSCLMG00005017547	Others	NA
+Cyclopterus_lumpus	OGT	ENSCLMG00005017583	Others	NA
+Cyclopterus_lumpus	mad2l2	ENSCLMG00005017635	Others	NA
+Cyclopterus_lumpus	med13a	ENSCLMG00005017640	Mediator complex	NA
+Cyclopterus_lumpus	pelp1	ENSCLMG00005017643	Others	NA
+Cyclopterus_lumpus	med11	ENSCLMG00005017645	Mediator complex	NA
+Cyclopterus_lumpus	ARRB2	ENSCLMG00005017655	Others	NA
+Cyclopterus_lumpus	fhod1	ENSCLMG00005017682	Others	NA
+Cyclopterus_lumpus	gps2	ENSCLMG00005017729	Others	NA
+Cyclopterus_lumpus	nelfb	ENSCLMG00005017813	GTF	NA
+Cyclopterus_lumpus	tfb2m	ENSCLMG00005017844	Others	NA
+Cyclopterus_lumpus	taf1a	ENSCLMG00005017893	TATA-box	NA
+Cyclopterus_lumpus	rnf8	ENSCLMG00005017905	Ring finger protein	NA
+Cyclopterus_lumpus	EPC1	ENSCLMG00005017917	Others	NA
+Cyclopterus_lumpus	cdkn1bb	ENSCLMG00005017929	Cyclin	NA
+Cyclopterus_lumpus	psen1	ENSCLMG00005017954	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005017979	Others	NA
+Cyclopterus_lumpus	si:ch211-219a4.3	ENSCLMG00005018042	PARP	NA
+Cyclopterus_lumpus	tprb	ENSCLMG00005018057	Others	NA
+Cyclopterus_lumpus	sirt5	ENSCLMG00005018073	Sirtuin	NA
+Cyclopterus_lumpus	CRTC2	ENSCLMG00005018096	CREB	NA
+Cyclopterus_lumpus	hnrnpd	ENSCLMG00005018137	HNRNP	NA
+Cyclopterus_lumpus	DUSP26	ENSCLMG00005018179	Others	NA
+Cyclopterus_lumpus	padi2	ENSCLMG00005018204	Other_CRF	NA
+Cyclopterus_lumpus	phf12b	ENSCLMG00005018221	PHF	NA
+Cyclopterus_lumpus	plrg1	ENSCLMG00005018247	Others	NA
+Cyclopterus_lumpus	si:dkey-85a20.4	ENSCLMG00005018261	Others	NA
+Cyclopterus_lumpus	tnip2	ENSCLMG00005018284	Others	NA
+Cyclopterus_lumpus	ufl1	ENSCLMG00005018328	Others	NA
+Cyclopterus_lumpus	lin54	ENSCLMG00005018332	Others	NA
+Cyclopterus_lumpus	frk	ENSCLMG00005018344	Others	NA
+Cyclopterus_lumpus	ruvbl1	ENSCLMG00005018400	Other_CRF	NA
+Cyclopterus_lumpus	thrsp	ENSCLMG00005018424	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005018445	MAML	NA
+Cyclopterus_lumpus	yap1	ENSCLMG00005018447	Others	NA
+Cyclopterus_lumpus	gtf2h1	ENSCLMG00005018455	GTF	NA
+Cyclopterus_lumpus	pidd1	ENSCLMG00005018519	Others	NA
+Cyclopterus_lumpus	tada3l	ENSCLMG00005018586	Transcriptional adaptor	NA
+Cyclopterus_lumpus	hdac10	ENSCLMG00005018589	Histone deacetylase	NA
+Cyclopterus_lumpus	nod2	ENSCLMG00005018590	Others	NA
+Cyclopterus_lumpus	brd7	ENSCLMG00005018593	Bromodomain	NA
+Cyclopterus_lumpus	jmjd1cb	ENSCLMG00005018598	Other_CRF	NA
+Cyclopterus_lumpus	nrbf2b	ENSCLMG00005018601	Nuclear receptor coactivator	NA
+Cyclopterus_lumpus	actn2b	ENSCLMG00005018652	Actin	NA
+Cyclopterus_lumpus	PCBD2	ENSCLMG00005018674	Others	NA
+Cyclopterus_lumpus	btf3	ENSCLMG00005018714	Others	NA
+Cyclopterus_lumpus	ankra2	ENSCLMG00005018718	Ankyrin repeat	NA
+Cyclopterus_lumpus	notch1a	ENSCLMG00005018745	Notch	NA
+Cyclopterus_lumpus	atad2	ENSCLMG00005018794	Others	NA
+Cyclopterus_lumpus	ripk3	ENSCLMG00005018821	Others	NA
+Cyclopterus_lumpus	lancl2	ENSCLMG00005018849	Others	NA
+Cyclopterus_lumpus	wnt4	ENSCLMG00005018852	Others	NA
+Cyclopterus_lumpus	mycbp2	ENSCLMG00005018863	MYC	NA
+Cyclopterus_lumpus	nrip2	ENSCLMG00005018870	Nuclear coactivator	NA
+Cyclopterus_lumpus	grip1	ENSCLMG00005018952	Others	NA
+Cyclopterus_lumpus	rbl1	ENSCLMG00005018994	Other_Co-activator/repressors	NA
+Cyclopterus_lumpus	DTX1	ENSCLMG00005019004	Others	NA
+Cyclopterus_lumpus	BRD2	ENSCLMG00005019025	Bromodomain	NA
+Cyclopterus_lumpus	ino80da	ENSCLMG00005019041	INO80 complex	NA
+Cyclopterus_lumpus	pex2	ENSCLMG00005019053	Others	NA
+Cyclopterus_lumpus	arhgap35b	ENSCLMG00005019119	Others	NA
+Cyclopterus_lumpus	rnf2	ENSCLMG00005019121	Ring finger protein	NA
+Cyclopterus_lumpus	bcor	ENSCLMG00005019208	Other_Co-activator/repressors	NA
+Cyclopterus_lumpus	CNOT9	ENSCLMG00005019237	CCR4-NOT	NA
+Cyclopterus_lumpus	ash2l	ENSCLMG00005019239	Others	NA
+Cyclopterus_lumpus	rbbp5	ENSCLMG00005019256	RBBP	NA
+Cyclopterus_lumpus	si:ch211-130m23.3	ENSCLMG00005019300	Others	NA
+Cyclopterus_lumpus	sav1	ENSCLMG00005019514	Others	NA
+Cyclopterus_lumpus	sap30bp	ENSCLMG00005019648	SAP	NA
+Cyclopterus_lumpus	nck1a	ENSCLMG00005019650	Others	NA
+Cyclopterus_lumpus	myo6b	ENSCLMG00005019728	Others	NA
+Cyclopterus_lumpus	dnmt1	ENSCLMG00005019760	DNA_methylase	NA
+Cyclopterus_lumpus	hdac11	ENSCLMG00005019781	Histone deacetylase	NA
+Cyclopterus_lumpus		ENSCLMG00005019866	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005019881	Others	NA
+Cyclopterus_lumpus	snapc5	ENSCLMG00005019894	Others	NA
+Cyclopterus_lumpus	nudt5	ENSCLMG00005019945	Other_CRF	NA
+Cyclopterus_lumpus	prmt1	ENSCLMG00005019982	Arginine methyltransferase	NA
+Cyclopterus_lumpus	zgc:162255	ENSCLMG00005020056	Other_CRF	NA
+Cyclopterus_lumpus	cbx3a	ENSCLMG00005020104	Chromobox	NA
+Cyclopterus_lumpus	mllt1b	ENSCLMG00005020106	GTF	NA
+Cyclopterus_lumpus	zmym2	ENSCLMG00005020192	Zinc finger	NA
+Cyclopterus_lumpus	itchb	ENSCLMG00005020232	Others	NA
+Cyclopterus_lumpus	elp3	ENSCLMG00005020255	ELP	NA
+Cyclopterus_lumpus	hnrnpub	ENSCLMG00005020305	HNRNP	NA
+Cyclopterus_lumpus	FHL2	ENSCLMG00005020312	FHL	NA
+Cyclopterus_lumpus	cops2	ENSCLMG00005020324	Others	NA
+Cyclopterus_lumpus	TRAK1	ENSCLMG00005020400	Others	NA
+Cyclopterus_lumpus	NCOA7	ENSCLMG00005020409	Nuclear receptor coactivator	NA
+Cyclopterus_lumpus	xiap	ENSCLMG00005020442	Others	NA
+Cyclopterus_lumpus	ctdp1	ENSCLMG00005020445	Others	NA
+Cyclopterus_lumpus	rybpa	ENSCLMG00005020520	Others	NA
+Cyclopterus_lumpus	ino80	ENSCLMG00005020571	INO80 complex	NA
+Cyclopterus_lumpus	hltf	ENSCLMG00005020618	Others	NA
+Cyclopterus_lumpus	dpf3	ENSCLMG00005020645	DPF	NA
+Cyclopterus_lumpus	wu:fj64h06	ENSCLMG00005020669	TATA-box	NA
+Cyclopterus_lumpus	taf6l	ENSCLMG00005020678	TATA-box	NA
+Cyclopterus_lumpus	cnot3a	ENSCLMG00005020687	CCR4-NOT	NA
+Cyclopterus_lumpus	edrf1	ENSCLMG00005020733	Others	NA
+Cyclopterus_lumpus	tdg.1	ENSCLMG00005020737	Others	NA
+Cyclopterus_lumpus	elp2	ENSCLMG00005020769	ELP	NA
+Cyclopterus_lumpus	ccnh	ENSCLMG00005020776	Cyclin	NA
+Cyclopterus_lumpus		ENSCLMG00005020792	Other_CRF	NA
+Cyclopterus_lumpus	TLE3	ENSCLMG00005020805	Transducin	NA
+Cyclopterus_lumpus	suv39h1a	ENSCLMG00005020855	Others	NA
+Cyclopterus_lumpus	cnot11	ENSCLMG00005020872	CCR4-NOT	NA
+Cyclopterus_lumpus	slc25a15b	ENSCLMG00005020971	SLC	NA
+Cyclopterus_lumpus	eapp	ENSCLMG00005021007	Others	NA
+Cyclopterus_lumpus	kdm1a	ENSCLMG00005021020	Lysine demethylase	NA
+Cyclopterus_lumpus	arhgap5	ENSCLMG00005021023	Others	NA
+Cyclopterus_lumpus	rai1	ENSCLMG00005021026	Others	NA
+Cyclopterus_lumpus	actr8	ENSCLMG00005021033	ACTR	NA
+Cyclopterus_lumpus	ikbkg	ENSCLMG00005021114	Others	NA
+Cyclopterus_lumpus	NUP62	ENSCLMG00005021120	Others	NA
+Cyclopterus_lumpus	hat1	ENSCLMG00005021153	Others	NA
+Cyclopterus_lumpus	med4	ENSCLMG00005021169	Mediator complex	NA
+Cyclopterus_lumpus	pcgf5a	ENSCLMG00005021294	PCGF	NA
+Cyclopterus_lumpus	ankrd1a	ENSCLMG00005021296	Ankyrin repeat	NA
+Cyclopterus_lumpus	anp32a	ENSCLMG00005021319	ANP	NA
+Cyclopterus_lumpus	trip4	ENSCLMG00005021348	Thyroid hormone receptor	NA
+Cyclopterus_lumpus		ENSCLMG00005021384	RNA helicase	NA
+Cyclopterus_lumpus	hsbp1b	ENSCLMG00005021408	Heat shock protein	NA
+Cyclopterus_lumpus	wbp2	ENSCLMG00005021430	WW	NA
+Cyclopterus_lumpus	hdac7a	ENSCLMG00005021433	Histone deacetylase	NA
+Cyclopterus_lumpus	hcfc2	ENSCLMG00005021487	Others	NA
+Cyclopterus_lumpus	JMY	ENSCLMG00005021509	Others	NA
+Cyclopterus_lumpus	cdk7	ENSCLMG00005021536	Cyclin	NA
+Cyclopterus_lumpus		ENSCLMG00005021568	Mediator complex	NA
+Cyclopterus_lumpus	lbh	ENSCLMG00005021589	Others	NA
+Cyclopterus_lumpus	adrb2a	ENSCLMG00005021649	Others	NA
+Cyclopterus_lumpus	med23	ENSCLMG00005021729	Mediator complex	NA
+Cyclopterus_lumpus	rnf6	ENSCLMG00005021749	Ring finger protein	NA
+Cyclopterus_lumpus	cdk8	ENSCLMG00005021750	Cyclin	NA
+Cyclopterus_lumpus	trim8b	ENSCLMG00005021756	Tripartite motif	NA
+Cyclopterus_lumpus	rnf111	ENSCLMG00005021772	Ring finger protein	NA
+Cyclopterus_lumpus	sltm	ENSCLMG00005021774	Others	NA
+Cyclopterus_lumpus	arl2bp	ENSCLMG00005021861	Others	NA
+Cyclopterus_lumpus	rbl2	ENSCLMG00005021904	Other_Co-activator/repressors	NA
+Cyclopterus_lumpus	chd1	ENSCLMG00005021912	CHD	NA
+Cyclopterus_lumpus		ENSCLMG00005021923	Others	NA
+Cyclopterus_lumpus	si:ch73-174h16.4	ENSCLMG00005021962	Others	NA
+Cyclopterus_lumpus	syk	ENSCLMG00005022025	Others	NA
+Cyclopterus_lumpus	btaf1	ENSCLMG00005022092	Others	NA
+Cyclopterus_lumpus	thrap3b	ENSCLMG00005022119	Thyroid hormone receptor	NA
+Cyclopterus_lumpus	meaf6	ENSCLMG00005022124	Others	NA
+Cyclopterus_lumpus	ccnc	ENSCLMG00005022237	Cyclin	NA
+Cyclopterus_lumpus	dcc	ENSCLMG00005022275	Others	NA
+Cyclopterus_lumpus	mms19	ENSCLMG00005022310	Others	NA
+Cyclopterus_lumpus	hnrpkl	ENSCLMG00005022318	HNRNP	NA
+Cyclopterus_lumpus	tradd	ENSCLMG00005022360	Others	NA
+Cyclopterus_lumpus	mbtd1	ENSCLMG00005022373	Others	NA
+Cyclopterus_lumpus	kmt2e	ENSCLMG00005022381	Lysine methyltransferase	NA
+Cyclopterus_lumpus	KDM7A	ENSCLMG00005022389	Lysine demethylase	NA
+Cyclopterus_lumpus	actl6a	ENSCLMG00005022397	Actin	NA
+Cyclopterus_lumpus	tab3	ENSCLMG00005022431	Others	NA
+Cyclopterus_lumpus	dmap1	ENSCLMG00005022452	DNA_methylase	NA
+Cyclopterus_lumpus	LRPPRC	ENSCLMG00005022471	Others	NA
+Cyclopterus_lumpus	phf5a	ENSCLMG00005022544	PHF	NA
+Cyclopterus_lumpus	slc26a3.2	ENSCLMG00005022589	SLC	NA
+Cyclopterus_lumpus	mtpn	ENSCLMG00005022629	Others	NA
+Cyclopterus_lumpus	brd1a	ENSCLMG00005022646	Bromodomain	NA
+Cyclopterus_lumpus	xrcc6	ENSCLMG00005022659	Others	NA
+Cyclopterus_lumpus	mrtfab	ENSCLMG00005022667	Others	NA
+Cyclopterus_lumpus	htatip2	ENSCLMG00005022680	Others	NA
+Cyclopterus_lumpus	banp	ENSCLMG00005022699	Others	NA
+Cyclopterus_lumpus	rb1	ENSCLMG00005022772	Other_Co-activator/repressors	NA
+Cyclopterus_lumpus	clu	ENSCLMG00005022787	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005022832	Casein	NA
+Cyclopterus_lumpus		ENSCLMG00005022839	Cyclin	NA
+Cyclopterus_lumpus	wnt3	ENSCLMG00005022851	Others	NA
+Cyclopterus_lumpus	men1	ENSCLMG00005022866	Others	NA
+Cyclopterus_lumpus		ENSCLMG00005022877	Others	NA
+Cyclopterus_lumpus	cdk13	ENSCLMG00005022878	Cyclin	NA
+Cyclopterus_lumpus	taf1	ENSCLMG00005022883	TATA-box	NA
+Cyclopterus_lumpus	sf1	ENSCLMG00005022886	Others	NA
+Cyclopterus_lumpus	mllt3	ENSCLMG00005022914	GTF	NA
+Cyclopterus_lumpus	csrp2	ENSCLMG00005022924	Others	NA
+Cyclopterus_lumpus	cdk5r1b	ENSCLMG00005022932	Cyclin	NA
+Cyclopterus_lumpus	tsg101a	ENSCLMG00005022965	Others	NA
+Cyclopterus_lumpus	cdk5rap3	ENSCLMG00005022988	Cyclin	NA
+Cyclopterus_lumpus	skap1	ENSCLMG00005022997	Others	NA
+Cyclopterus_lumpus	DDX5	ENSCLMG00005023023	RNA helicase	NA
+Cyclopterus_lumpus	SMURF2	ENSCLMG00005023061	Others	NA
+Cyclopterus_lumpus	nol11	ENSCLMG00005023102	Nuclear coactivator	NA
+Cyclopterus_lumpus	prdx5	ENSCLMG00005023146	Others	NA

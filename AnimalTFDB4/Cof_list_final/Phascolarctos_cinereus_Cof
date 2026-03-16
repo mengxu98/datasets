@@ -1,0 +1,876 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Phascolarctos_cinereus	CHD7	ENSPCIG00000000025	CHD	NA
+Phascolarctos_cinereus	DHX36	ENSPCIG00000000045	RNA helicase	NA
+Phascolarctos_cinereus	SAP18	ENSPCIG00000000062	SAP	NA
+Phascolarctos_cinereus	STK3	ENSPCIG00000000136	Others	NA
+Phascolarctos_cinereus	SUDS3	ENSPCIG00000000137	Other_Co-activator/repressors	NA
+Phascolarctos_cinereus	PDCD4	ENSPCIG00000000171	Others	NA
+Phascolarctos_cinereus	AGO1	ENSPCIG00000000172	Others	NA
+Phascolarctos_cinereus	SNIP1	ENSPCIG00000000204	Others	NA
+Phascolarctos_cinereus	JAK2	ENSPCIG00000000252	Others	NA
+Phascolarctos_cinereus	AXIN1	ENSPCIG00000000309	Others	NA
+Phascolarctos_cinereus	BEND3	ENSPCIG00000000335	Others	NA
+Phascolarctos_cinereus	SKAP1	ENSPCIG00000000339	Others	NA
+Phascolarctos_cinereus	ERBB2	ENSPCIG00000000366	Erbb2	NA
+Phascolarctos_cinereus	CCNC	ENSPCIG00000000512	Cyclin	NA
+Phascolarctos_cinereus		ENSPCIG00000000555	Others	NA
+Phascolarctos_cinereus	NSD1	ENSPCIG00000000610	Nuclear receptor coactivator	NA
+Phascolarctos_cinereus	YAP1	ENSPCIG00000000622	Others	NA
+Phascolarctos_cinereus	CBX1	ENSPCIG00000000630	Chromobox	NA
+Phascolarctos_cinereus	TRIP13	ENSPCIG00000000635	Thyroid hormone receptor	NA
+Phascolarctos_cinereus	MBTD1	ENSPCIG00000000651	Others	NA
+Phascolarctos_cinereus	SUPT3H	ENSPCIG00000000688	SUPT	NA
+Phascolarctos_cinereus	PADI4	ENSPCIG00000000723	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000000741	Others	NA
+Phascolarctos_cinereus	CDK7	ENSPCIG00000000747	Cyclin	NA
+Phascolarctos_cinereus	CDK5RAP3	ENSPCIG00000000798	Cyclin	NA
+Phascolarctos_cinereus	TRIP6	ENSPCIG00000000802	Thyroid hormone receptor	NA
+Phascolarctos_cinereus	MED16	ENSPCIG00000000803	Mediator complex	NA
+Phascolarctos_cinereus	POLR3F	ENSPCIG00000000908	POLR	NA
+Phascolarctos_cinereus	TRIM7	ENSPCIG00000000980	Tripartite motif	NA
+Phascolarctos_cinereus	HIF1AN	ENSPCIG00000001045	Others	NA
+Phascolarctos_cinereus	CENPB	ENSPCIG00000001086	CENP	NA
+Phascolarctos_cinereus	TAF5	ENSPCIG00000001090	TATA-box	NA
+Phascolarctos_cinereus	HTATIP2	ENSPCIG00000001125	Others	NA
+Phascolarctos_cinereus	TNIP2	ENSPCIG00000001126	Others	NA
+Phascolarctos_cinereus	NSMCE4A	ENSPCIG00000001203	EID	NA
+Phascolarctos_cinereus	XRN2	ENSPCIG00000001237	Others	NA
+Phascolarctos_cinereus	NOC2L	ENSPCIG00000001294	Others	NA
+Phascolarctos_cinereus	MLLT6	ENSPCIG00000001404	Others	NA
+Phascolarctos_cinereus	AURKB	ENSPCIG00000001437	Others	NA
+Phascolarctos_cinereus	DDX17	ENSPCIG00000001652	RNA helicase	NA
+Phascolarctos_cinereus		ENSPCIG00000001679	PARP	NA
+Phascolarctos_cinereus	PHF10	ENSPCIG00000001721	PHF	NA
+Phascolarctos_cinereus	TADA3	ENSPCIG00000001725	Transcriptional adaptor	NA
+Phascolarctos_cinereus	PDLIM1	ENSPCIG00000001797	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000001846	CHD	NA
+Phascolarctos_cinereus	BCL3	ENSPCIG00000001877	BCL	NA
+Phascolarctos_cinereus	ING4	ENSPCIG00000001929	ING	NA
+Phascolarctos_cinereus	MED28	ENSPCIG00000002020	Mediator complex	NA
+Phascolarctos_cinereus	CTH	ENSPCIG00000002022	Others	NA
+Phascolarctos_cinereus	TOP1MT	ENSPCIG00000002023	Other_CRF	NA
+Phascolarctos_cinereus	HCLS1	ENSPCIG00000002239	Others	NA
+Phascolarctos_cinereus	MMS19	ENSPCIG00000002256	Others	NA
+Phascolarctos_cinereus	ANKRD2	ENSPCIG00000002292	Ankyrin repeat	NA
+Phascolarctos_cinereus	CCNT2	ENSPCIG00000002354	Cyclin	NA
+Phascolarctos_cinereus	RNF2	ENSPCIG00000002387	Ring finger protein	NA
+Phascolarctos_cinereus	ANP32B	ENSPCIG00000002429	ANP	NA
+Phascolarctos_cinereus	ATN1	ENSPCIG00000002515	Others	NA
+Phascolarctos_cinereus	CTDP1	ENSPCIG00000002576	Others	NA
+Phascolarctos_cinereus	RING1	ENSPCIG00000002578	Ring finger protein	NA
+Phascolarctos_cinereus	LPIN1	ENSPCIG00000002703	LPIN	NA
+Phascolarctos_cinereus	NPAT	ENSPCIG00000002706	Nuclear coactivator	NA
+Phascolarctos_cinereus		ENSPCIG00000002732	CCR4-NOT	NA
+Phascolarctos_cinereus	FGF20	ENSPCIG00000002772	FGF	NA
+Phascolarctos_cinereus	WWP1	ENSPCIG00000002873	WW	NA
+Phascolarctos_cinereus	NAB1	ENSPCIG00000002886	Others	NA
+Phascolarctos_cinereus	PCGF2	ENSPCIG00000002900	PCGF	NA
+Phascolarctos_cinereus		ENSPCIG00000002976	WW	NA
+Phascolarctos_cinereus	CDK13	ENSPCIG00000003007	Cyclin	NA
+Phascolarctos_cinereus	THOC5	ENSPCIG00000003063	Others	NA
+Phascolarctos_cinereus	HNRNPD	ENSPCIG00000003112	HNRNP	NA
+Phascolarctos_cinereus	ANKAR	ENSPCIG00000003128	Ankyrin repeat	NA
+Phascolarctos_cinereus	GTF2B	ENSPCIG00000003131	GTF	NA
+Phascolarctos_cinereus	KDM5B	ENSPCIG00000003240	Lysine demethylase	NA
+Phascolarctos_cinereus	ATF7IP	ENSPCIG00000003247	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000003268	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000003293	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000003395	Mediator complex	NA
+Phascolarctos_cinereus		ENSPCIG00000003418	TATA-box	NA
+Phascolarctos_cinereus	RBM15	ENSPCIG00000003458	RNA binding protein	NA
+Phascolarctos_cinereus	TTF2	ENSPCIG00000003483	Others	NA
+Phascolarctos_cinereus	TRIM33	ENSPCIG00000003619	Tripartite motif	NA
+Phascolarctos_cinereus	DHX9	ENSPCIG00000003716	RNA helicase	NA
+Phascolarctos_cinereus	FGFR1	ENSPCIG00000003718	FGF	NA
+Phascolarctos_cinereus	FBP1	ENSPCIG00000003724	Others	NA
+Phascolarctos_cinereus	TAF15	ENSPCIG00000003783	TATA-box	NA
+Phascolarctos_cinereus	TADA1	ENSPCIG00000003844	Transcriptional adaptor	NA
+Phascolarctos_cinereus	BRD3	ENSPCIG00000003877	Bromodomain	NA
+Phascolarctos_cinereus		ENSPCIG00000003893	WD	NA
+Phascolarctos_cinereus	MAML1	ENSPCIG00000003902	MAML	NA
+Phascolarctos_cinereus	SMARCA5	ENSPCIG00000003926	SWI/SNF	NA
+Phascolarctos_cinereus	EGFR	ENSPCIG00000003935	Others	NA
+Phascolarctos_cinereus	SQSTM1	ENSPCIG00000003936	Others	NA
+Phascolarctos_cinereus	LANCL2	ENSPCIG00000003950	Others	NA
+Phascolarctos_cinereus	FGFR2	ENSPCIG00000004047	FGF	NA
+Phascolarctos_cinereus		ENSPCIG00000004243	Others	NA
+Phascolarctos_cinereus	KDM3A	ENSPCIG00000004328	Lysine demethylase	NA
+Phascolarctos_cinereus	RBBP5	ENSPCIG00000004412	RBBP	NA
+Phascolarctos_cinereus	VEGFA	ENSPCIG00000004426	Other_CRF	NA
+Phascolarctos_cinereus	KDM6B	ENSPCIG00000004435	Lysine demethylase	NA
+Phascolarctos_cinereus	EAF2	ENSPCIG00000004463	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000004565	GTF	NA
+Phascolarctos_cinereus	XIAP	ENSPCIG00000004570	Others	NA
+Phascolarctos_cinereus	NELFCD	ENSPCIG00000004596	GTF	NA
+Phascolarctos_cinereus	HCFC2	ENSPCIG00000004665	Others	NA
+Phascolarctos_cinereus	HDAC11	ENSPCIG00000004669	Histone deacetylase	NA
+Phascolarctos_cinereus		ENSPCIG00000004775	Others	NA
+Phascolarctos_cinereus	GTF2A1L	ENSPCIG00000004964	GTF	NA
+Phascolarctos_cinereus	CCAR2	ENSPCIG00000004974	Others	NA
+Phascolarctos_cinereus	SLC26A3	ENSPCIG00000004999	SLC	NA
+Phascolarctos_cinereus	LEO1	ENSPCIG00000005153	Others	NA
+Phascolarctos_cinereus	MED24	ENSPCIG00000005155	Mediator complex	NA
+Phascolarctos_cinereus	EP400	ENSPCIG00000005158	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000005192	Coiled-coil	NA
+Phascolarctos_cinereus	JMJD6	ENSPCIG00000005317	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000005334	Others	NA
+Phascolarctos_cinereus	SIAH2	ENSPCIG00000005398	Others	NA
+Phascolarctos_cinereus	CHD3	ENSPCIG00000005442	CHD	NA
+Phascolarctos_cinereus	HLTF	ENSPCIG00000005506	Others	NA
+Phascolarctos_cinereus	CIITA	ENSPCIG00000005524	Others	NA
+Phascolarctos_cinereus	CHAF1B	ENSPCIG00000005627	Others	NA
+Phascolarctos_cinereus	ERN1	ENSPCIG00000005771	Others	NA
+Phascolarctos_cinereus	CBX2	ENSPCIG00000005783	Chromobox	NA
+Phascolarctos_cinereus	CBX8	ENSPCIG00000005787	Chromobox	NA
+Phascolarctos_cinereus	CBX4	ENSPCIG00000005794	Chromobox	NA
+Phascolarctos_cinereus	WWTR1	ENSPCIG00000005795	WW	NA
+Phascolarctos_cinereus		ENSPCIG00000005830	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000005877	Others	NA
+Phascolarctos_cinereus	NRIP3	ENSPCIG00000005921	Nuclear coactivator	NA
+Phascolarctos_cinereus	MDFI	ENSPCIG00000005975	Others	NA
+Phascolarctos_cinereus	PPIL6	ENSPCIG00000005983	Others	NA
+Phascolarctos_cinereus	SFSWAP	ENSPCIG00000006062	Others	NA
+Phascolarctos_cinereus	SMARCD3	ENSPCIG00000006102	SWI/SNF	NA
+Phascolarctos_cinereus		ENSPCIG00000006135	Lysine demethylase	NA
+Phascolarctos_cinereus	CDK5	ENSPCIG00000006139	Cyclin	NA
+Phascolarctos_cinereus	GSK3B	ENSPCIG00000006163	Others	NA
+Phascolarctos_cinereus	NELFB	ENSPCIG00000006188	GTF	NA
+Phascolarctos_cinereus	EWSR1	ENSPCIG00000006189	Others	NA
+Phascolarctos_cinereus	TLE4	ENSPCIG00000006249	Transducin	NA
+Phascolarctos_cinereus	EFCAB6	ENSPCIG00000006305	Others	NA
+Phascolarctos_cinereus	INO80D	ENSPCIG00000006328	INO80 complex	NA
+Phascolarctos_cinereus	LOXL3	ENSPCIG00000006347	Others	NA
+Phascolarctos_cinereus	SIN3A	ENSPCIG00000006359	Other_CRF	NA
+Phascolarctos_cinereus		ENSPCIG00000006373	Transducin	NA
+Phascolarctos_cinereus		ENSPCIG00000006377	Others	NA
+Phascolarctos_cinereus	SIRT6	ENSPCIG00000006432	Sirtuin	NA
+Phascolarctos_cinereus	RALGAPA1	ENSPCIG00000006590	Others	NA
+Phascolarctos_cinereus	BLM	ENSPCIG00000006609	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000006634	Others	NA
+Phascolarctos_cinereus	NUDT5	ENSPCIG00000006637	Other_CRF	NA
+Phascolarctos_cinereus	BCL10	ENSPCIG00000006659	BCL	NA
+Phascolarctos_cinereus	CALCOCO1	ENSPCIG00000006685	Others	NA
+Phascolarctos_cinereus	SKOR2	ENSPCIG00000006700	SKI	NA
+Phascolarctos_cinereus		ENSPCIG00000006776	Others	NA
+Phascolarctos_cinereus	ACTL6A	ENSPCIG00000006777	Actin	NA
+Phascolarctos_cinereus		ENSPCIG00000006812	Others	NA
+Phascolarctos_cinereus	LRPPRC	ENSPCIG00000006872	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000007020	Others	NA
+Phascolarctos_cinereus	CBFA2T3	ENSPCIG00000007037	Others	NA
+Phascolarctos_cinereus	CITED2	ENSPCIG00000007068	CITED	NA
+Phascolarctos_cinereus		ENSPCIG00000007081	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000007124	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000007128	SLC	NA
+Phascolarctos_cinereus	CSNK2A2	ENSPCIG00000007143	Casein	NA
+Phascolarctos_cinereus	ZNF451	ENSPCIG00000007261	Zinc finger	NA
+Phascolarctos_cinereus	CDYL2	ENSPCIG00000007286	Chromodomain Y	NA
+Phascolarctos_cinereus	RUVBL2	ENSPCIG00000007304	Other_CRF	NA
+Phascolarctos_cinereus	TDP2	ENSPCIG00000007316	Others	NA
+Phascolarctos_cinereus	PIH1D1	ENSPCIG00000007337	Other_CRF	NA
+Phascolarctos_cinereus	CNOT1	ENSPCIG00000007343	CCR4-NOT	NA
+Phascolarctos_cinereus	PRMT1	ENSPCIG00000007372	Arginine methyltransferase	NA
+Phascolarctos_cinereus		ENSPCIG00000007488	MAGE	NA
+Phascolarctos_cinereus	TAF3	ENSPCIG00000007493	TATA-box	NA
+Phascolarctos_cinereus	BANP	ENSPCIG00000007514	Others	NA
+Phascolarctos_cinereus	SUV39H1	ENSPCIG00000007547	Others	NA
+Phascolarctos_cinereus	SSU72	ENSPCIG00000007735	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000007756	Others	NA
+Phascolarctos_cinereus	ANKRA2	ENSPCIG00000007784	Ankyrin repeat	NA
+Phascolarctos_cinereus	SMARCD1	ENSPCIG00000007804	SWI/SNF	NA
+Phascolarctos_cinereus	CCDC59	ENSPCIG00000007808	Coiled-coil	NA
+Phascolarctos_cinereus	ARGLU1	ENSPCIG00000007828	Others	NA
+Phascolarctos_cinereus	NCOA4	ENSPCIG00000007954	Nuclear receptor coactivator	NA
+Phascolarctos_cinereus	PEX14	ENSPCIG00000008019	Others	NA
+Phascolarctos_cinereus	PRDX5	ENSPCIG00000008029	Others	NA
+Phascolarctos_cinereus	DPF3	ENSPCIG00000008080	DPF	NA
+Phascolarctos_cinereus	SMARCAD1	ENSPCIG00000008137	SWI/SNF	NA
+Phascolarctos_cinereus	HCK	ENSPCIG00000008195	Others	NA
+Phascolarctos_cinereus	TRIB3	ENSPCIG00000008247	Others	NA
+Phascolarctos_cinereus	CCDC85B	ENSPCIG00000008248	Coiled-coil	NA
+Phascolarctos_cinereus		ENSPCIG00000008259	Casein	NA
+Phascolarctos_cinereus	PIDD1	ENSPCIG00000008274	Others	NA
+Phascolarctos_cinereus	HEATR1	ENSPCIG00000008351	Others	NA
+Phascolarctos_cinereus	ACTN2	ENSPCIG00000008366	Actin	NA
+Phascolarctos_cinereus	BRMS1	ENSPCIG00000008427	Other_CRF	NA
+Phascolarctos_cinereus	CRYM	ENSPCIG00000008516	Others	NA
+Phascolarctos_cinereus	RBM14	ENSPCIG00000008541	RNA binding protein	NA
+Phascolarctos_cinereus	PIK3R1	ENSPCIG00000008648	Others	NA
+Phascolarctos_cinereus	HNRNPU	ENSPCIG00000008657	HNRNP	NA
+Phascolarctos_cinereus	FRK	ENSPCIG00000008683	Others	NA
+Phascolarctos_cinereus	PRMT2	ENSPCIG00000008734	Arginine methyltransferase	NA
+Phascolarctos_cinereus	TBPL1	ENSPCIG00000008805	TATA-box	NA
+Phascolarctos_cinereus	DR1	ENSPCIG00000008809	Others	NA
+Phascolarctos_cinereus	NSD3	ENSPCIG00000008870	Nuclear receptor coactivator	NA
+Phascolarctos_cinereus	ASH2L	ENSPCIG00000008882	Others	NA
+Phascolarctos_cinereus	BRF2	ENSPCIG00000008891	GTF	NA
+Phascolarctos_cinereus	AIPL1	ENSPCIG00000008923	Others	NA
+Phascolarctos_cinereus	TRIM32	ENSPCIG00000008975	Tripartite motif	NA
+Phascolarctos_cinereus		ENSPCIG00000008979	Others	NA
+Phascolarctos_cinereus	TONSL	ENSPCIG00000008994	Others	NA
+Phascolarctos_cinereus	SNX6	ENSPCIG00000009058	Others	NA
+Phascolarctos_cinereus	TPR	ENSPCIG00000009067	Others	NA
+Phascolarctos_cinereus	CCND1	ENSPCIG00000009078	Cyclin	NA
+Phascolarctos_cinereus	SMARCD2	ENSPCIG00000009083	SWI/SNF	NA
+Phascolarctos_cinereus	RITA1	ENSPCIG00000009174	Others	NA
+Phascolarctos_cinereus	CLU	ENSPCIG00000009230	Others	NA
+Phascolarctos_cinereus	MCRS1	ENSPCIG00000009248	Others	NA
+Phascolarctos_cinereus	ELANE	ENSPCIG00000009262	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000009301	Others	NA
+Phascolarctos_cinereus	MYOCD	ENSPCIG00000009361	Others	NA
+Phascolarctos_cinereus	PABPC1L	ENSPCIG00000009393	Other_CRF	NA
+Phascolarctos_cinereus	EYA2	ENSPCIG00000009416	EYA	NA
+Phascolarctos_cinereus	ZMYND8	ENSPCIG00000009418	Zinc finger	NA
+Phascolarctos_cinereus	CRY1	ENSPCIG00000009482	Others	NA
+Phascolarctos_cinereus	SAFB	ENSPCIG00000009504	Others	NA
+Phascolarctos_cinereus	SAFB2	ENSPCIG00000009518	Others	NA
+Phascolarctos_cinereus	KDM4C	ENSPCIG00000009543	Lysine demethylase	NA
+Phascolarctos_cinereus	PCGF5	ENSPCIG00000009625	PCGF	NA
+Phascolarctos_cinereus	RAF1	ENSPCIG00000009694	Others	NA
+Phascolarctos_cinereus	SMYD1	ENSPCIG00000009730	SMYD	NA
+Phascolarctos_cinereus	BPTF	ENSPCIG00000009740	Bromodomain	NA
+Phascolarctos_cinereus	TXLNG	ENSPCIG00000009809	Others	NA
+Phascolarctos_cinereus	RBBP7	ENSPCIG00000009812	RBBP	NA
+Phascolarctos_cinereus	PINK1	ENSPCIG00000010013	Others	NA
+Phascolarctos_cinereus	RNF20	ENSPCIG00000010110	Ring finger protein	NA
+Phascolarctos_cinereus	PRMT6	ENSPCIG00000010181	Arginine methyltransferase	NA
+Phascolarctos_cinereus	TIRAP	ENSPCIG00000010205	Others	NA
+Phascolarctos_cinereus	SYK	ENSPCIG00000010223	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000010288	TEF	NA
+Phascolarctos_cinereus	RBBP8	ENSPCIG00000010449	RBBP	NA
+Phascolarctos_cinereus	SUPT5H	ENSPCIG00000010477	SUPT	NA
+Phascolarctos_cinereus	MED29	ENSPCIG00000010490	Mediator complex	NA
+Phascolarctos_cinereus	PAF1	ENSPCIG00000010492	Others	NA
+Phascolarctos_cinereus	SAMD4B	ENSPCIG00000010495	Others	NA
+Phascolarctos_cinereus	NFKBIB	ENSPCIG00000010534	NFKB associated	NA
+Phascolarctos_cinereus	SIRT2	ENSPCIG00000010538	Sirtuin	NA
+Phascolarctos_cinereus		ENSPCIG00000010592	Others	NA
+Phascolarctos_cinereus	MYO6	ENSPCIG00000010630	Others	NA
+Phascolarctos_cinereus	CNOT2	ENSPCIG00000010670	CCR4-NOT	NA
+Phascolarctos_cinereus		ENSPCIG00000010703	Others	NA
+Phascolarctos_cinereus	TCERG1	ENSPCIG00000010713	TEF	NA
+Phascolarctos_cinereus	ACTR5	ENSPCIG00000010719	ACTR	NA
+Phascolarctos_cinereus	ACTR6	ENSPCIG00000010776	ACTR	NA
+Phascolarctos_cinereus	LRRK2	ENSPCIG00000010782	Other_CRF	NA
+Phascolarctos_cinereus	LPXN	ENSPCIG00000010867	Others	NA
+Phascolarctos_cinereus	BRD1	ENSPCIG00000010892	Bromodomain	NA
+Phascolarctos_cinereus	EZR	ENSPCIG00000010897	Others	NA
+Phascolarctos_cinereus	SMARCB1	ENSPCIG00000010917	SWI/SNF	NA
+Phascolarctos_cinereus	DDX1	ENSPCIG00000010941	RNA helicase	NA
+Phascolarctos_cinereus	GTF2H3	ENSPCIG00000010970	GTF	NA
+Phascolarctos_cinereus		ENSPCIG00000010982	Lysine methyltransferase	NA
+Phascolarctos_cinereus	MALT1	ENSPCIG00000011036	Others	NA
+Phascolarctos_cinereus	VGLL4	ENSPCIG00000011097	Vestigial like	NA
+Phascolarctos_cinereus	RUNX1T1	ENSPCIG00000011101	Others	NA
+Phascolarctos_cinereus	PSEN1	ENSPCIG00000011174	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000011191	Cyclin	NA
+Phascolarctos_cinereus		ENSPCIG00000011355	Chromodomain Y	NA
+Phascolarctos_cinereus	TNKS	ENSPCIG00000011378	Others	NA
+Phascolarctos_cinereus	TRIP11	ENSPCIG00000011383	Thyroid hormone receptor	NA
+Phascolarctos_cinereus	EMSY	ENSPCIG00000011389	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000011476	Others	NA
+Phascolarctos_cinereus	NRG1	ENSPCIG00000011488	Others	NA
+Phascolarctos_cinereus	MTF2	ENSPCIG00000011497	Others	NA
+Phascolarctos_cinereus	SND1	ENSPCIG00000011561	Others	NA
+Phascolarctos_cinereus	SDR16C5	ENSPCIG00000011567	Others	NA
+Phascolarctos_cinereus	JMY	ENSPCIG00000011631	Others	NA
+Phascolarctos_cinereus	OXR1	ENSPCIG00000011756	Nuclear receptor coactivator	NA
+Phascolarctos_cinereus	TESC	ENSPCIG00000011761	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000011786	TEF	NA
+Phascolarctos_cinereus	SAP130	ENSPCIG00000011794	SAP	NA
+Phascolarctos_cinereus	ERCC3	ENSPCIG00000011821	Others	NA
+Phascolarctos_cinereus	BEND6	ENSPCIG00000011850	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000011878	Others	NA
+Phascolarctos_cinereus	CTNND1	ENSPCIG00000011879	Casein	NA
+Phascolarctos_cinereus	MED19	ENSPCIG00000011896	Mediator complex	NA
+Phascolarctos_cinereus	ZNF593	ENSPCIG00000011911	Zinc finger	NA
+Phascolarctos_cinereus	TXNIP	ENSPCIG00000011922	Others	NA
+Phascolarctos_cinereus	POLR3C	ENSPCIG00000011954	POLR	NA
+Phascolarctos_cinereus		ENSPCIG00000011992	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000011998	Lysine methyltransferase	NA
+Phascolarctos_cinereus	CECR2	ENSPCIG00000012011	Other_CRF	NA
+Phascolarctos_cinereus		ENSPCIG00000012043	Others	NA
+Phascolarctos_cinereus	BCL9L	ENSPCIG00000012095	BCL	NA
+Phascolarctos_cinereus		ENSPCIG00000012109	Others	NA
+Phascolarctos_cinereus	MRTFB	ENSPCIG00000012142	Others	NA
+Phascolarctos_cinereus	TAF6	ENSPCIG00000012242	TATA-box	NA
+Phascolarctos_cinereus	SAV1	ENSPCIG00000012324	Others	NA
+Phascolarctos_cinereus	KDM4B	ENSPCIG00000012450	Lysine demethylase	NA
+Phascolarctos_cinereus	PHF21B	ENSPCIG00000012452	PHF	NA
+Phascolarctos_cinereus	CGGBP1	ENSPCIG00000012490	Others	NA
+Phascolarctos_cinereus	NIBAN2	ENSPCIG00000012502	FAM	NA
+Phascolarctos_cinereus	ELP4	ENSPCIG00000012543	ELP	NA
+Phascolarctos_cinereus	MED6	ENSPCIG00000012574	Mediator complex	NA
+Phascolarctos_cinereus		ENSPCIG00000012619	PCGF	NA
+Phascolarctos_cinereus	HDAC7	ENSPCIG00000012641	Histone deacetylase	NA
+Phascolarctos_cinereus	HABP4	ENSPCIG00000012647	Others	NA
+Phascolarctos_cinereus	PIM1	ENSPCIG00000012664	Others	NA
+Phascolarctos_cinereus	RNF8	ENSPCIG00000012673	Ring finger protein	NA
+Phascolarctos_cinereus	HR	ENSPCIG00000012707	Lysine methyltransferase	NA
+Phascolarctos_cinereus		ENSPCIG00000012716	Nucleoplasmin	NA
+Phascolarctos_cinereus		ENSPCIG00000012781	Others	NA
+Phascolarctos_cinereus	ELOC	ENSPCIG00000012867	Others	NA
+Phascolarctos_cinereus	RGCC	ENSPCIG00000012956	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000013017	Nucleoplasmin	NA
+Phascolarctos_cinereus	NLRP12	ENSPCIG00000013064	Others	NA
+Phascolarctos_cinereus	KMT5C	ENSPCIG00000013079	Lysine methyltransferase	NA
+Phascolarctos_cinereus	MED12L	ENSPCIG00000013099	Mediator complex	NA
+Phascolarctos_cinereus	BRIP1	ENSPCIG00000013168	Others	NA
+Phascolarctos_cinereus	SSBP2	ENSPCIG00000013205	Others	NA
+Phascolarctos_cinereus	HELLS	ENSPCIG00000013361	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000013374	PARP	NA
+Phascolarctos_cinereus	ELP1	ENSPCIG00000013392	ELP	NA
+Phascolarctos_cinereus	SS18L1	ENSPCIG00000013402	SS18	NA
+Phascolarctos_cinereus	ZNF638	ENSPCIG00000013410	Zinc finger	NA
+Phascolarctos_cinereus	FLII	ENSPCIG00000013455	Others	NA
+Phascolarctos_cinereus	NCOA2	ENSPCIG00000013456	Nuclear receptor coactivator	NA
+Phascolarctos_cinereus	ZMYND11	ENSPCIG00000013482	Zinc finger	NA
+Phascolarctos_cinereus	ICE2	ENSPCIG00000013541	GTF	NA
+Phascolarctos_cinereus	KMT2E	ENSPCIG00000013558	Lysine methyltransferase	NA
+Phascolarctos_cinereus	CTBP1	ENSPCIG00000013559	Others	NA
+Phascolarctos_cinereus	MED8	ENSPCIG00000013588	Mediator complex	NA
+Phascolarctos_cinereus		ENSPCIG00000013591	TATA-box	NA
+Phascolarctos_cinereus	FBXW11	ENSPCIG00000013595	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000013615	Nucleoplasmin	NA
+Phascolarctos_cinereus	RPAP2	ENSPCIG00000013740	Others	NA
+Phascolarctos_cinereus	GTF2H1	ENSPCIG00000013760	GTF	NA
+Phascolarctos_cinereus	TRRAP	ENSPCIG00000013776	Others	NA
+Phascolarctos_cinereus	ATAD2	ENSPCIG00000013943	Others	NA
+Phascolarctos_cinereus	TSG101	ENSPCIG00000013997	Others	NA
+Phascolarctos_cinereus	LBH	ENSPCIG00000014051	Others	NA
+Phascolarctos_cinereus	PHF8	ENSPCIG00000014070	PHF	NA
+Phascolarctos_cinereus	BRDT	ENSPCIG00000014201	Bromodomain	NA
+Phascolarctos_cinereus	BAZ1A	ENSPCIG00000014265	Bromodomain	NA
+Phascolarctos_cinereus	PNRC2	ENSPCIG00000014271	Others	NA
+Phascolarctos_cinereus	TAB3	ENSPCIG00000014316	Others	NA
+Phascolarctos_cinereus	KAT5	ENSPCIG00000014346	Lysine acetyltransferase	NA
+Phascolarctos_cinereus	SENP1	ENSPCIG00000014356	Others	NA
+Phascolarctos_cinereus	DDX5	ENSPCIG00000014428	RNA helicase	NA
+Phascolarctos_cinereus		ENSPCIG00000014467	Lysine demethylase	NA
+Phascolarctos_cinereus	PID1	ENSPCIG00000014519	Others	NA
+Phascolarctos_cinereus	MED27	ENSPCIG00000014541	Mediator complex	NA
+Phascolarctos_cinereus	RAP2C	ENSPCIG00000014556	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000014589	Lysine demethylase	NA
+Phascolarctos_cinereus	PRMT7	ENSPCIG00000014655	Arginine methyltransferase	NA
+Phascolarctos_cinereus	CTNNB1	ENSPCIG00000014703	Casein	NA
+Phascolarctos_cinereus	GRHPR	ENSPCIG00000014804	Others	NA
+Phascolarctos_cinereus	GTF2A1	ENSPCIG00000014831	GTF	NA
+Phascolarctos_cinereus	LIN54	ENSPCIG00000014870	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000014875	Others	NA
+Phascolarctos_cinereus	NRIP1	ENSPCIG00000014945	Nuclear receptor coactivator	NA
+Phascolarctos_cinereus	GTF2H4	ENSPCIG00000015032	GTF	NA
+Phascolarctos_cinereus	HEXIM1	ENSPCIG00000015058	Others	NA
+Phascolarctos_cinereus	HEXIM2	ENSPCIG00000015059	Others	NA
+Phascolarctos_cinereus	DMAP1	ENSPCIG00000015135	DNA_methylase	NA
+Phascolarctos_cinereus		ENSPCIG00000015159	Others	NA
+Phascolarctos_cinereus	ECD	ENSPCIG00000015186	Others	NA
+Phascolarctos_cinereus	JADE1	ENSPCIG00000015194	Others	NA
+Phascolarctos_cinereus	FBXW7	ENSPCIG00000015204	Others	NA
+Phascolarctos_cinereus	TAF6L	ENSPCIG00000015237	TATA-box	NA
+Phascolarctos_cinereus	ACTB	ENSPCIG00000015244	Actin	NA
+Phascolarctos_cinereus	TRIM11	ENSPCIG00000015276	Tripartite motif	NA
+Phascolarctos_cinereus	MACROH2A2	ENSPCIG00000015324	Others	NA
+Phascolarctos_cinereus	PSIP1	ENSPCIG00000015377	Others	NA
+Phascolarctos_cinereus	JUP	ENSPCIG00000015390	Others	NA
+Phascolarctos_cinereus	LGALS12	ENSPCIG00000015539	Others	NA
+Phascolarctos_cinereus	TRIM37	ENSPCIG00000015543	Tripartite motif	NA
+Phascolarctos_cinereus	ALPK3	ENSPCIG00000015580	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000015610	SUPT	NA
+Phascolarctos_cinereus	ELL2	ENSPCIG00000015657	GTF	NA
+Phascolarctos_cinereus	SMARCA2	ENSPCIG00000015658	SWI/SNF	NA
+Phascolarctos_cinereus	MAD2L2	ENSPCIG00000015666	Others	NA
+Phascolarctos_cinereus	BRD8	ENSPCIG00000015719	Bromodomain	NA
+Phascolarctos_cinereus	ANKRD1	ENSPCIG00000015723	Ankyrin repeat	NA
+Phascolarctos_cinereus	PPARGC1A	ENSPCIG00000015835	Others	NA
+Phascolarctos_cinereus	VGLL3	ENSPCIG00000015864	Vestigial like	NA
+Phascolarctos_cinereus		ENSPCIG00000015869	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000015897	Others	NA
+Phascolarctos_cinereus	KAT8	ENSPCIG00000015907	Lysine acetyltransferase	NA
+Phascolarctos_cinereus	KDM3B	ENSPCIG00000015954	Lysine demethylase	NA
+Phascolarctos_cinereus	BCL9	ENSPCIG00000015994	BCL	NA
+Phascolarctos_cinereus	MED23	ENSPCIG00000016019	Mediator complex	NA
+Phascolarctos_cinereus	EZH2	ENSPCIG00000016029	Others	NA
+Phascolarctos_cinereus	CCAR1	ENSPCIG00000016044	Others	NA
+Phascolarctos_cinereus	CXXC5	ENSPCIG00000016047	Others	NA
+Phascolarctos_cinereus	NFKBIZ	ENSPCIG00000016061	NFKB associated	NA
+Phascolarctos_cinereus	STK36	ENSPCIG00000016130	Others	NA
+Phascolarctos_cinereus	RNF25	ENSPCIG00000016131	Ring finger protein	NA
+Phascolarctos_cinereus	HDAC10	ENSPCIG00000016148	Histone deacetylase	NA
+Phascolarctos_cinereus		ENSPCIG00000016166	NFKB associated	NA
+Phascolarctos_cinereus	MED12	ENSPCIG00000016230	Mediator complex	NA
+Phascolarctos_cinereus	TGS1	ENSPCIG00000016232	Others	NA
+Phascolarctos_cinereus	TRIM16	ENSPCIG00000016261	Tripartite motif	NA
+Phascolarctos_cinereus	CNOT9	ENSPCIG00000016288	CCR4-NOT	NA
+Phascolarctos_cinereus	CNOT11	ENSPCIG00000016312	CCR4-NOT	NA
+Phascolarctos_cinereus	FHL2	ENSPCIG00000016329	FHL	NA
+Phascolarctos_cinereus	TRAK1	ENSPCIG00000016370	Others	NA
+Phascolarctos_cinereus	KDM7A	ENSPCIG00000016381	Lysine demethylase	NA
+Phascolarctos_cinereus	HCFC1	ENSPCIG00000016397	Others	NA
+Phascolarctos_cinereus	EHMT1	ENSPCIG00000016541	Histone lysine methyltransferase	NA
+Phascolarctos_cinereus		ENSPCIG00000016616	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000016725	SET	NA
+Phascolarctos_cinereus	THRSP	ENSPCIG00000016747	Others	NA
+Phascolarctos_cinereus	TGFB1	ENSPCIG00000016755	Others	NA
+Phascolarctos_cinereus	LPIN2	ENSPCIG00000016789	LPIN	NA
+Phascolarctos_cinereus		ENSPCIG00000016800	Others	NA
+Phascolarctos_cinereus	RRN3	ENSPCIG00000016898	Others	NA
+Phascolarctos_cinereus	ELP2	ENSPCIG00000016951	ELP	NA
+Phascolarctos_cinereus	INO80C	ENSPCIG00000016968	INO80 complex	NA
+Phascolarctos_cinereus	SS18L2	ENSPCIG00000017041	SS18	NA
+Phascolarctos_cinereus	ATRX	ENSPCIG00000017088	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000017124	Others	NA
+Phascolarctos_cinereus	SMARCA4	ENSPCIG00000017138	SWI/SNF	NA
+Phascolarctos_cinereus	RLIM	ENSPCIG00000017146	Ring finger protein	NA
+Phascolarctos_cinereus	LMCD1	ENSPCIG00000017159	LIM	NA
+Phascolarctos_cinereus	MRGBP	ENSPCIG00000017191	Others	NA
+Phascolarctos_cinereus	CHD9	ENSPCIG00000017215	CHD	NA
+Phascolarctos_cinereus	ASCC3	ENSPCIG00000017288	ASCC	NA
+Phascolarctos_cinereus	BTAF1	ENSPCIG00000017290	Others	NA
+Phascolarctos_cinereus	PELP1	ENSPCIG00000017329	Others	NA
+Phascolarctos_cinereus	ARRB2	ENSPCIG00000017331	Others	NA
+Phascolarctos_cinereus	MED11	ENSPCIG00000017333	Mediator complex	NA
+Phascolarctos_cinereus	SFMBT2	ENSPCIG00000017345	Others	NA
+Phascolarctos_cinereus	CDK8	ENSPCIG00000017352	Cyclin	NA
+Phascolarctos_cinereus	MED22	ENSPCIG00000017359	Mediator complex	NA
+Phascolarctos_cinereus	REXO4	ENSPCIG00000017379	Others	NA
+Phascolarctos_cinereus	MDM4	ENSPCIG00000017446	Others	NA
+Phascolarctos_cinereus	LIN9	ENSPCIG00000017472	Others	NA
+Phascolarctos_cinereus	SRA1	ENSPCIG00000017474	Others	NA
+Phascolarctos_cinereus	DACT1	ENSPCIG00000017476	Others	NA
+Phascolarctos_cinereus	TRADD	ENSPCIG00000017529	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000017540	Others	NA
+Phascolarctos_cinereus	URI1	ENSPCIG00000017561	Others	NA
+Phascolarctos_cinereus	DDX39B	ENSPCIG00000017572	RNA helicase	NA
+Phascolarctos_cinereus		ENSPCIG00000017603	MYB	NA
+Phascolarctos_cinereus	ZMYM2	ENSPCIG00000017668	Zinc finger	NA
+Phascolarctos_cinereus	PSPC1	ENSPCIG00000017680	Others	NA
+Phascolarctos_cinereus	MPHOSPH8	ENSPCIG00000017695	Others	NA
+Phascolarctos_cinereus	MEN1	ENSPCIG00000017717	Others	NA
+Phascolarctos_cinereus	ERBIN	ENSPCIG00000017735	Erbb2	NA
+Phascolarctos_cinereus	AATF	ENSPCIG00000017761	Others	NA
+Phascolarctos_cinereus	YEATS2	ENSPCIG00000017776	Others	NA
+Phascolarctos_cinereus	MTPN	ENSPCIG00000017854	Others	NA
+Phascolarctos_cinereus	NOD2	ENSPCIG00000017861	Others	NA
+Phascolarctos_cinereus	BRD7	ENSPCIG00000017871	Bromodomain	NA
+Phascolarctos_cinereus	PARK7	ENSPCIG00000017878	Others	NA
+Phascolarctos_cinereus	TCEA2	ENSPCIG00000017904	TEF	NA
+Phascolarctos_cinereus	PRPF6	ENSPCIG00000017909	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000017935	Cyclin	NA
+Phascolarctos_cinereus	SETD3	ENSPCIG00000017936	SET	NA
+Phascolarctos_cinereus	SUPT6H	ENSPCIG00000017943	SUPT	NA
+Phascolarctos_cinereus	PHF12	ENSPCIG00000017961	PHF	NA
+Phascolarctos_cinereus	HELZ2	ENSPCIG00000017966	Others	NA
+Phascolarctos_cinereus	COPS2	ENSPCIG00000018046	Others	NA
+Phascolarctos_cinereus	SIRT3	ENSPCIG00000018065	Sirtuin	NA
+Phascolarctos_cinereus	SIVA1	ENSPCIG00000018092	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000018106	Others	NA
+Phascolarctos_cinereus	SF1	ENSPCIG00000018173	Others	NA
+Phascolarctos_cinereus	MYCBP2	ENSPCIG00000018184	MYC	NA
+Phascolarctos_cinereus	ELL3	ENSPCIG00000018285	GTF	NA
+Phascolarctos_cinereus	ELL	ENSPCIG00000018295	GTF	NA
+Phascolarctos_cinereus	KAT2B	ENSPCIG00000018318	Lysine acetyltransferase	NA
+Phascolarctos_cinereus	TP53BP1	ENSPCIG00000018326	Others	NA
+Phascolarctos_cinereus	KAT6A	ENSPCIG00000018329	Lysine acetyltransferase	NA
+Phascolarctos_cinereus	IKBKB	ENSPCIG00000018339	Others	NA
+Phascolarctos_cinereus	EAPP	ENSPCIG00000018355	Others	NA
+Phascolarctos_cinereus	LDB2	ENSPCIG00000018570	LIM	NA
+Phascolarctos_cinereus	EHMT2	ENSPCIG00000018573	Histone lysine methyltransferase	NA
+Phascolarctos_cinereus	RAD21	ENSPCIG00000018592	Others	NA
+Phascolarctos_cinereus	DTX1	ENSPCIG00000018619	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000018629	Other_Co-activator/repressors	NA
+Phascolarctos_cinereus	GNL3	ENSPCIG00000018642	Others	NA
+Phascolarctos_cinereus	SFMBT1	ENSPCIG00000018663	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000018690	Ring finger protein	NA
+Phascolarctos_cinereus	MED25	ENSPCIG00000018700	Mediator complex	NA
+Phascolarctos_cinereus		ENSPCIG00000018780	DNA_methylase	NA
+Phascolarctos_cinereus	NELFE	ENSPCIG00000018791	GTF	NA
+Phascolarctos_cinereus		ENSPCIG00000018808	Notch	NA
+Phascolarctos_cinereus	PICALM	ENSPCIG00000018862	Others	NA
+Phascolarctos_cinereus	TAF2	ENSPCIG00000018883	TATA-box	NA
+Phascolarctos_cinereus	EED	ENSPCIG00000018888	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000018898	Vestigial like	NA
+Phascolarctos_cinereus	GTF2E1	ENSPCIG00000018918	GTF	NA
+Phascolarctos_cinereus		ENSPCIG00000018946	Others	NA
+Phascolarctos_cinereus	RPRD1B	ENSPCIG00000019006	Others	NA
+Phascolarctos_cinereus	TRAK2	ENSPCIG00000019074	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000019140	Others	NA
+Phascolarctos_cinereus	BAZ1B	ENSPCIG00000019188	Bromodomain	NA
+Phascolarctos_cinereus	MED21	ENSPCIG00000019241	Mediator complex	NA
+Phascolarctos_cinereus	CALR	ENSPCIG00000019290	Others	NA
+Phascolarctos_cinereus	NOL11	ENSPCIG00000019293	Nuclear coactivator	NA
+Phascolarctos_cinereus	SMURF2	ENSPCIG00000019300	Others	NA
+Phascolarctos_cinereus	ESF1	ENSPCIG00000019331	Others	NA
+Phascolarctos_cinereus	NIF3L1	ENSPCIG00000019334	Others	NA
+Phascolarctos_cinereus	PIR	ENSPCIG00000019501	Others	NA
+Phascolarctos_cinereus	NOTCH1	ENSPCIG00000019548	Notch	NA
+Phascolarctos_cinereus	DPF1	ENSPCIG00000019551	DPF	NA
+Phascolarctos_cinereus	DVL2	ENSPCIG00000019572	Others	NA
+Phascolarctos_cinereus	SIN3B	ENSPCIG00000019606	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000019612	Mediator complex	NA
+Phascolarctos_cinereus	SMURF1	ENSPCIG00000019659	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000019665	Heat shock protein	NA
+Phascolarctos_cinereus	TASOR	ENSPCIG00000019727	FAM	NA
+Phascolarctos_cinereus	ACTN1	ENSPCIG00000019896	Actin	NA
+Phascolarctos_cinereus	EPC1	ENSPCIG00000020008	Others	NA
+Phascolarctos_cinereus	CTDSP1	ENSPCIG00000020018	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000020021	HNRNP	NA
+Phascolarctos_cinereus	MED31	ENSPCIG00000020030	Mediator complex	NA
+Phascolarctos_cinereus	SUPT16H	ENSPCIG00000020044	SUPT	NA
+Phascolarctos_cinereus	DHX33	ENSPCIG00000020074	RNA helicase	NA
+Phascolarctos_cinereus	C1QBP	ENSPCIG00000020077	Others	NA
+Phascolarctos_cinereus	PPARGC1B	ENSPCIG00000020102	Others	NA
+Phascolarctos_cinereus	PHF21A	ENSPCIG00000020119	PHF	NA
+Phascolarctos_cinereus		ENSPCIG00000020144	Others	NA
+Phascolarctos_cinereus	BTK	ENSPCIG00000020184	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000020209	MYC	NA
+Phascolarctos_cinereus	KAT2A	ENSPCIG00000020226	Lysine acetyltransferase	NA
+Phascolarctos_cinereus	ATXN7L3	ENSPCIG00000020227	Others	NA
+Phascolarctos_cinereus	HDAC5	ENSPCIG00000020235	Histone deacetylase	NA
+Phascolarctos_cinereus	PUF60	ENSPCIG00000020270	Others	NA
+Phascolarctos_cinereus	WBP2	ENSPCIG00000020281	WW	NA
+Phascolarctos_cinereus	CNOT6	ENSPCIG00000020319	CCR4-NOT	NA
+Phascolarctos_cinereus		ENSPCIG00000020322	CAMK	NA
+Phascolarctos_cinereus	MRTFA	ENSPCIG00000020323	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000020395	SAP	NA
+Phascolarctos_cinereus	RECQL5	ENSPCIG00000020398	Others	NA
+Phascolarctos_cinereus	TAB1	ENSPCIG00000020421	Others	NA
+Phascolarctos_cinereus	KDM8	ENSPCIG00000020455	Lysine demethylase	NA
+Phascolarctos_cinereus	MNAT1	ENSPCIG00000020456	Others	NA
+Phascolarctos_cinereus	LMO3	ENSPCIG00000020527	LIM	NA
+Phascolarctos_cinereus		ENSPCIG00000020542	Others	NA
+Phascolarctos_cinereus	TBP	ENSPCIG00000020612	TATA-box	NA
+Phascolarctos_cinereus	LOXL2	ENSPCIG00000020766	Others	NA
+Phascolarctos_cinereus	TLE3	ENSPCIG00000020857	Transducin	NA
+Phascolarctos_cinereus	CHD8	ENSPCIG00000020931	CHD	NA
+Phascolarctos_cinereus	EGLN2	ENSPCIG00000020942	Others	NA
+Phascolarctos_cinereus	ASF1A	ENSPCIG00000021052	Others	NA
+Phascolarctos_cinereus	EYA1	ENSPCIG00000021109	EYA	NA
+Phascolarctos_cinereus	ACTN4	ENSPCIG00000021127	Actin	NA
+Phascolarctos_cinereus	UTP4	ENSPCIG00000021141	Others	NA
+Phascolarctos_cinereus	PHF19	ENSPCIG00000021382	PHF	NA
+Phascolarctos_cinereus	PPIE	ENSPCIG00000021413	Others	NA
+Phascolarctos_cinereus	CDK1	ENSPCIG00000021421	Cyclin	NA
+Phascolarctos_cinereus	TLE1	ENSPCIG00000021439	Transducin	NA
+Phascolarctos_cinereus	NIPBL	ENSPCIG00000021464	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000021481	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000021489	TATA-box	NA
+Phascolarctos_cinereus	EZH1	ENSPCIG00000021506	Others	NA
+Phascolarctos_cinereus	RBFOX2	ENSPCIG00000021550	Others	NA
+Phascolarctos_cinereus	NUP98	ENSPCIG00000021590	Others	NA
+Phascolarctos_cinereus	CIDEA	ENSPCIG00000021612	Others	NA
+Phascolarctos_cinereus	CCNA1	ENSPCIG00000021624	Cyclin	NA
+Phascolarctos_cinereus	RFXAP	ENSPCIG00000021628	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000021637	SUPT	NA
+Phascolarctos_cinereus		ENSPCIG00000021645	Others	NA
+Phascolarctos_cinereus	TRIM24	ENSPCIG00000021685	Tripartite motif	NA
+Phascolarctos_cinereus	ASH1L	ENSPCIG00000021694	Others	NA
+Phascolarctos_cinereus	PNRC1	ENSPCIG00000021712	Others	NA
+Phascolarctos_cinereus	PYGO2	ENSPCIG00000021733	Others	NA
+Phascolarctos_cinereus	WTIP	ENSPCIG00000021778	Others	NA
+Phascolarctos_cinereus	WNT3A	ENSPCIG00000021855	Others	NA
+Phascolarctos_cinereus	DEPDC1	ENSPCIG00000021948	Others	NA
+Phascolarctos_cinereus	LRIF1	ENSPCIG00000021975	Others	NA
+Phascolarctos_cinereus	LZTS1	ENSPCIG00000022021	Others	NA
+Phascolarctos_cinereus	PER2	ENSPCIG00000022055	Others	NA
+Phascolarctos_cinereus	BRF1	ENSPCIG00000022201	GTF	NA
+Phascolarctos_cinereus	EYA3	ENSPCIG00000022339	EYA	NA
+Phascolarctos_cinereus	PELI1	ENSPCIG00000022340	Others	NA
+Phascolarctos_cinereus	MED18	ENSPCIG00000022383	Mediator complex	NA
+Phascolarctos_cinereus	RBBP4	ENSPCIG00000022401	RBBP	NA
+Phascolarctos_cinereus	TAF12	ENSPCIG00000022402	TATA-box	NA
+Phascolarctos_cinereus		ENSPCIG00000022408	TATA-box	NA
+Phascolarctos_cinereus	SCMH1	ENSPCIG00000022489	Others	NA
+Phascolarctos_cinereus	CBL	ENSPCIG00000022527	Others	NA
+Phascolarctos_cinereus	CHUK	ENSPCIG00000022709	Others	NA
+Phascolarctos_cinereus	INSR	ENSPCIG00000022748	Others	NA
+Phascolarctos_cinereus	TDG	ENSPCIG00000022776	Others	NA
+Phascolarctos_cinereus	WDR61	ENSPCIG00000022865	WD	NA
+Phascolarctos_cinereus	MORF4L1	ENSPCIG00000022888	Other_CRF	NA
+Phascolarctos_cinereus	ERCC2	ENSPCIG00000022927	Others	NA
+Phascolarctos_cinereus	APBB1	ENSPCIG00000022934	Others	NA
+Phascolarctos_cinereus	HIPK1	ENSPCIG00000022995	HIPK	NA
+Phascolarctos_cinereus	CNOT3	ENSPCIG00000023018	CCR4-NOT	NA
+Phascolarctos_cinereus	HIPK2	ENSPCIG00000023035	HIPK	NA
+Phascolarctos_cinereus	ABL1	ENSPCIG00000023056	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000023060	TATA-box	NA
+Phascolarctos_cinereus	EDRF1	ENSPCIG00000023062	Others	NA
+Phascolarctos_cinereus	ELP3	ENSPCIG00000023076	ELP	NA
+Phascolarctos_cinereus	SSBP3	ENSPCIG00000023094	Others	NA
+Phascolarctos_cinereus	HYAL2	ENSPCIG00000023116	Others	NA
+Phascolarctos_cinereus	CASP8AP2	ENSPCIG00000023147	Others	NA
+Phascolarctos_cinereus	DCAF1	ENSPCIG00000023152	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000023204	ANP	NA
+Phascolarctos_cinereus	CSRP3	ENSPCIG00000023226	Others	NA
+Phascolarctos_cinereus	SKOR1	ENSPCIG00000023240	SKI	NA
+Phascolarctos_cinereus	UFL1	ENSPCIG00000023251	Others	NA
+Phascolarctos_cinereus	APEX1	ENSPCIG00000023274	Others	NA
+Phascolarctos_cinereus	RNF141	ENSPCIG00000023312	Ring finger protein	NA
+Phascolarctos_cinereus	CTR9	ENSPCIG00000023374	Others	NA
+Phascolarctos_cinereus	CRTC1	ENSPCIG00000023392	CREB	NA
+Phascolarctos_cinereus	TENM1	ENSPCIG00000023536	Others	NA
+Phascolarctos_cinereus	CHEK1	ENSPCIG00000023554	Others	NA
+Phascolarctos_cinereus	NLK	ENSPCIG00000023604	Others	NA
+Phascolarctos_cinereus	EDF1	ENSPCIG00000023737	Others	NA
+Phascolarctos_cinereus	STRN3	ENSPCIG00000023770	Others	NA
+Phascolarctos_cinereus	SIRT4	ENSPCIG00000023827	Sirtuin	NA
+Phascolarctos_cinereus	CBX6	ENSPCIG00000023845	Chromobox	NA
+Phascolarctos_cinereus	NCOA3	ENSPCIG00000023847	Nuclear receptor coactivator	NA
+Phascolarctos_cinereus	RNF111	ENSPCIG00000023892	Ring finger protein	NA
+Phascolarctos_cinereus	ARRB1	ENSPCIG00000024137	Others	NA
+Phascolarctos_cinereus	NDUFA13	ENSPCIG00000024191	Others	NA
+Phascolarctos_cinereus	HDGF	ENSPCIG00000024242	Others	NA
+Phascolarctos_cinereus	ERBB4	ENSPCIG00000024251	Erbb2	NA
+Phascolarctos_cinereus	RBL1	ENSPCIG00000024296	Other_Co-activator/repressors	NA
+Phascolarctos_cinereus	SRC	ENSPCIG00000024313	Others	NA
+Phascolarctos_cinereus	ARHGAP5	ENSPCIG00000024338	Others	NA
+Phascolarctos_cinereus	RBL2	ENSPCIG00000024344	Other_Co-activator/repressors	NA
+Phascolarctos_cinereus	SUV39H2	ENSPCIG00000024395	Others	NA
+Phascolarctos_cinereus	KAT6B	ENSPCIG00000024595	Lysine acetyltransferase	NA
+Phascolarctos_cinereus	NAB2	ENSPCIG00000024618	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000024633	Others	NA
+Phascolarctos_cinereus	TIMELESS	ENSPCIG00000024638	Others	NA
+Phascolarctos_cinereus	CDK2	ENSPCIG00000024655	Cyclin	NA
+Phascolarctos_cinereus		ENSPCIG00000024779	Others	NA
+Phascolarctos_cinereus	TAF4B	ENSPCIG00000024780	TATA-box	NA
+Phascolarctos_cinereus	BTN1A1	ENSPCIG00000024787	Others	NA
+Phascolarctos_cinereus	SS18	ENSPCIG00000024793	SS18	NA
+Phascolarctos_cinereus	THRAP3	ENSPCIG00000024805	Thyroid hormone receptor	NA
+Phascolarctos_cinereus	WDTC1	ENSPCIG00000024839	WD	NA
+Phascolarctos_cinereus	ING3	ENSPCIG00000024863	ING	NA
+Phascolarctos_cinereus	COMMD1	ENSPCIG00000024929	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000024986	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000025028	CENP	NA
+Phascolarctos_cinereus	INO80E	ENSPCIG00000025149	INO80 complex	NA
+Phascolarctos_cinereus	TRAF6	ENSPCIG00000025154	Others	NA
+Phascolarctos_cinereus	SGF29	ENSPCIG00000025200	Others	NA
+Phascolarctos_cinereus	MCIDAS	ENSPCIG00000025289	Others	NA
+Phascolarctos_cinereus	ENY2	ENSPCIG00000025325	Others	NA
+Phascolarctos_cinereus	ASXL1	ENSPCIG00000025336	Others	NA
+Phascolarctos_cinereus	DNMT3B	ENSPCIG00000025372	DNA_methylase	NA
+Phascolarctos_cinereus	DAPK3	ENSPCIG00000025399	Others	NA
+Phascolarctos_cinereus	HIRA	ENSPCIG00000025474	Others	NA
+Phascolarctos_cinereus	DVL3	ENSPCIG00000025623	Others	NA
+Phascolarctos_cinereus	FHL3	ENSPCIG00000025714	FHL	NA
+Phascolarctos_cinereus		ENSPCIG00000025763	GTF	NA
+Phascolarctos_cinereus	ARHGAP35	ENSPCIG00000025775	Others	NA
+Phascolarctos_cinereus	SERTAD2	ENSPCIG00000025805	Others	NA
+Phascolarctos_cinereus	HDAC2	ENSPCIG00000025858	Histone deacetylase	NA
+Phascolarctos_cinereus	TAF8	ENSPCIG00000025887	TATA-box	NA
+Phascolarctos_cinereus		ENSPCIG00000025891	Mediator complex	NA
+Phascolarctos_cinereus	SKIL	ENSPCIG00000025951	SKI	NA
+Phascolarctos_cinereus	RNF10	ENSPCIG00000025990	Ring finger protein	NA
+Phascolarctos_cinereus		ENSPCIG00000026025	Other_CRF	NA
+Phascolarctos_cinereus	LPIN3	ENSPCIG00000026051	LPIN	NA
+Phascolarctos_cinereus	BTF3	ENSPCIG00000026102	Others	NA
+Phascolarctos_cinereus	CNOT10	ENSPCIG00000026148	CCR4-NOT	NA
+Phascolarctos_cinereus	SUPT7L	ENSPCIG00000026183	SUPT	NA
+Phascolarctos_cinereus	TCF20	ENSPCIG00000026198	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000026207	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000026309	Lysine demethylase	NA
+Phascolarctos_cinereus	FLNA	ENSPCIG00000026358	Others	NA
+Phascolarctos_cinereus	PAWR	ENSPCIG00000026365	Others	NA
+Phascolarctos_cinereus	HDAC4	ENSPCIG00000026377	Histone deacetylase	NA
+Phascolarctos_cinereus	HIPK3	ENSPCIG00000026397	HIPK	NA
+Phascolarctos_cinereus	XRCC6	ENSPCIG00000026409	Others	NA
+Phascolarctos_cinereus	L3MBTL2	ENSPCIG00000026428	Others	NA
+Phascolarctos_cinereus	JMJD1C	ENSPCIG00000026465	Other_CRF	NA
+Phascolarctos_cinereus	EP300	ENSPCIG00000026468	Others	NA
+Phascolarctos_cinereus	MED14	ENSPCIG00000026469	Mediator complex	NA
+Phascolarctos_cinereus	TAF10	ENSPCIG00000026496	TATA-box	NA
+Phascolarctos_cinereus	ILK	ENSPCIG00000026497	Others	NA
+Phascolarctos_cinereus	NOTCH3	ENSPCIG00000026508	Notch	NA
+Phascolarctos_cinereus	CHRAC1	ENSPCIG00000026511	Other_CRF	NA
+Phascolarctos_cinereus	AGO2	ENSPCIG00000026513	Others	NA
+Phascolarctos_cinereus	NONO	ENSPCIG00000026515	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000026519	TATA-box	NA
+Phascolarctos_cinereus	TOB2	ENSPCIG00000026533	Others	NA
+Phascolarctos_cinereus	PLK1	ENSPCIG00000026611	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000026636	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000026723	CITED	NA
+Phascolarctos_cinereus	TRIM28	ENSPCIG00000026788	Tripartite motif	NA
+Phascolarctos_cinereus	SNW1	ENSPCIG00000026811	Others	NA
+Phascolarctos_cinereus	POU2AF1	ENSPCIG00000026850	Others	NA
+Phascolarctos_cinereus	RNF6	ENSPCIG00000026870	Ring finger protein	NA
+Phascolarctos_cinereus	PEX2	ENSPCIG00000026897	Others	NA
+Phascolarctos_cinereus	ASCC2	ENSPCIG00000026909	ASCC	NA
+Phascolarctos_cinereus	OGT	ENSPCIG00000026962	Others	NA
+Phascolarctos_cinereus	FBRSL1	ENSPCIG00000026990	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000027066	Others	NA
+Phascolarctos_cinereus	NAA15	ENSPCIG00000027075	Others	NA
+Phascolarctos_cinereus	SETD7	ENSPCIG00000027079	SET	NA
+Phascolarctos_cinereus	MED13	ENSPCIG00000027082	Mediator complex	NA
+Phascolarctos_cinereus	MAK	ENSPCIG00000027107	Others	NA
+Phascolarctos_cinereus	IKBKG	ENSPCIG00000027137	Others	NA
+Phascolarctos_cinereus	CREBBP	ENSPCIG00000027225	CREB	NA
+Phascolarctos_cinereus	RPTOR	ENSPCIG00000027281	Others	NA
+Phascolarctos_cinereus	PCBD1	ENSPCIG00000027314	Others	NA
+Phascolarctos_cinereus	CASK	ENSPCIG00000027325	CAMK	NA
+Phascolarctos_cinereus	CIR1	ENSPCIG00000027338	Other_Co-activator/repressors	NA
+Phascolarctos_cinereus	TNNI2	ENSPCIG00000027375	Others	NA
+Phascolarctos_cinereus	PADI2	ENSPCIG00000027414	Other_CRF	NA
+Phascolarctos_cinereus	ASCC1	ENSPCIG00000027424	ASCC	NA
+Phascolarctos_cinereus		ENSPCIG00000027485	Others	NA
+Phascolarctos_cinereus	CNOT6L	ENSPCIG00000027504	CCR4-NOT	NA
+Phascolarctos_cinereus	PRMT8	ENSPCIG00000027518	Arginine methyltransferase	NA
+Phascolarctos_cinereus	PLK3	ENSPCIG00000027602	Others	NA
+Phascolarctos_cinereus	HNRNPK	ENSPCIG00000027665	HNRNP	NA
+Phascolarctos_cinereus	CCNT1	ENSPCIG00000027711	Cyclin	NA
+Phascolarctos_cinereus	DDX20	ENSPCIG00000027721	RNA helicase	NA
+Phascolarctos_cinereus		ENSPCIG00000027736	WD	NA
+Phascolarctos_cinereus	AJUBA	ENSPCIG00000027770	Others	NA
+Phascolarctos_cinereus	PRMT5	ENSPCIG00000027772	Arginine methyltransferase	NA
+Phascolarctos_cinereus	KDM5A	ENSPCIG00000027786	Lysine demethylase	NA
+Phascolarctos_cinereus	RTF1	ENSPCIG00000027802	Others	NA
+Phascolarctos_cinereus	EAF1	ENSPCIG00000027839	Others	NA
+Phascolarctos_cinereus	INO80	ENSPCIG00000027848	INO80 complex	NA
+Phascolarctos_cinereus	HDAC6	ENSPCIG00000027912	Histone deacetylase	NA
+Phascolarctos_cinereus	PHF20	ENSPCIG00000027934	PHF	NA
+Phascolarctos_cinereus		ENSPCIG00000027936	Others	NA
+Phascolarctos_cinereus	CXXC1	ENSPCIG00000027942	Others	NA
+Phascolarctos_cinereus	RBM39	ENSPCIG00000027946	RNA binding protein	NA
+Phascolarctos_cinereus	ANXA5	ENSPCIG00000027985	Others	NA
+Phascolarctos_cinereus	CAMK2A	ENSPCIG00000028012	CAMK	NA
+Phascolarctos_cinereus	RIPK2	ENSPCIG00000028032	Others	NA
+Phascolarctos_cinereus	CHD6	ENSPCIG00000028037	CHD	NA
+Phascolarctos_cinereus	WWP2	ENSPCIG00000028063	WW	NA
+Phascolarctos_cinereus	ITCH	ENSPCIG00000028155	Others	NA
+Phascolarctos_cinereus	DUSP26	ENSPCIG00000028181	Others	NA
+Phascolarctos_cinereus	MED30	ENSPCIG00000028188	Mediator complex	NA
+Phascolarctos_cinereus	BRWD1	ENSPCIG00000028266	Bromodomain	NA
+Phascolarctos_cinereus	DSCAM	ENSPCIG00000028291	Others	NA
+Phascolarctos_cinereus	PCGF6	ENSPCIG00000028313	PCGF	NA
+Phascolarctos_cinereus	MTDH	ENSPCIG00000028335	Others	NA
+Phascolarctos_cinereus	SLTM	ENSPCIG00000028356	Others	NA
+Phascolarctos_cinereus	CCNE2	ENSPCIG00000028382	Cyclin	NA
+Phascolarctos_cinereus	SCAI	ENSPCIG00000028448	Others	NA
+Phascolarctos_cinereus	CHD1	ENSPCIG00000028450	CHD	NA
+Phascolarctos_cinereus	MED1	ENSPCIG00000028460	Mediator complex	NA
+Phascolarctos_cinereus	CDK12	ENSPCIG00000028464	Cyclin	NA
+Phascolarctos_cinereus	CENPF	ENSPCIG00000028486	CENP	NA
+Phascolarctos_cinereus	RNF4	ENSPCIG00000028508	Ring finger protein	NA
+Phascolarctos_cinereus	SRFBP1	ENSPCIG00000028532	Others	NA
+Phascolarctos_cinereus	EPC2	ENSPCIG00000028543	Others	NA
+Phascolarctos_cinereus	TBL1XR1	ENSPCIG00000028583	Transducin	NA
+Phascolarctos_cinereus	TNIP1	ENSPCIG00000028596	Others	NA
+Phascolarctos_cinereus	CDC73	ENSPCIG00000028627	Others	NA
+Phascolarctos_cinereus	BCOR	ENSPCIG00000028680	Other_Co-activator/repressors	NA
+Phascolarctos_cinereus	WAC	ENSPCIG00000028691	WW	NA
+Phascolarctos_cinereus	RWDD3	ENSPCIG00000028712	Others	NA
+Phascolarctos_cinereus	EYA4	ENSPCIG00000028725	EYA	NA
+Phascolarctos_cinereus	PKP4	ENSPCIG00000028795	Casein	NA
+Phascolarctos_cinereus	UXT	ENSPCIG00000028801	Others	NA
+Phascolarctos_cinereus	CHEK2	ENSPCIG00000028815	Others	NA
+Phascolarctos_cinereus	GPS2	ENSPCIG00000028822	Others	NA
+Phascolarctos_cinereus	POLR2A	ENSPCIG00000028851	POLR	NA
+Phascolarctos_cinereus	GRIP1	ENSPCIG00000028935	Others	NA
+Phascolarctos_cinereus	SKI	ENSPCIG00000028949	SKI	NA
+Phascolarctos_cinereus	TRIM8	ENSPCIG00000028984	Tripartite motif	NA
+Phascolarctos_cinereus	SUFU	ENSPCIG00000028985	Others	NA
+Phascolarctos_cinereus	LDB1	ENSPCIG00000029016	LIM	NA
+Phascolarctos_cinereus	BTRC	ENSPCIG00000029037	Others	NA
+Phascolarctos_cinereus	TGFB1I1	ENSPCIG00000029081	Others	NA
+Phascolarctos_cinereus	RAI1	ENSPCIG00000029201	Others	NA
+Phascolarctos_cinereus	DPF2	ENSPCIG00000029217	DPF	NA
+Phascolarctos_cinereus	MED4	ENSPCIG00000029302	Mediator complex	NA
+Phascolarctos_cinereus	RB1	ENSPCIG00000029307	Other_Co-activator/repressors	NA
+Phascolarctos_cinereus	TOPORS	ENSPCIG00000029319	Others	NA
+Phascolarctos_cinereus	TENM2	ENSPCIG00000029322	Others	NA
+Phascolarctos_cinereus	ACTR8	ENSPCIG00000029341	ACTR	NA
+Phascolarctos_cinereus	CRTC2	ENSPCIG00000029355	CREB	NA
+Phascolarctos_cinereus	ILF2	ENSPCIG00000029363	Others	NA
+Phascolarctos_cinereus	CHTOP	ENSPCIG00000029365	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000029376	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000029377	Others	NA
+Phascolarctos_cinereus	CHCHD3	ENSPCIG00000029392	Coiled-coil	NA
+Phascolarctos_cinereus	TAF1A	ENSPCIG00000029400	TATA-box	NA
+Phascolarctos_cinereus	TNP1	ENSPCIG00000029428	Other_CRF	NA
+Phascolarctos_cinereus	RBPMS2	ENSPCIG00000029447	RNA binding protein	NA
+Phascolarctos_cinereus	TRIP4	ENSPCIG00000029450	Thyroid hormone receptor	NA
+Phascolarctos_cinereus	WWC1	ENSPCIG00000029477	WW	NA
+Phascolarctos_cinereus	CCNH	ENSPCIG00000029526	Cyclin	NA
+Phascolarctos_cinereus	SIRT7	ENSPCIG00000029553	Sirtuin	NA
+Phascolarctos_cinereus	PLRG1	ENSPCIG00000029645	Others	NA
+Phascolarctos_cinereus	KDM1B	ENSPCIG00000029691	Lysine demethylase	NA
+Phascolarctos_cinereus	DEK	ENSPCIG00000029694	Other_CRF	NA
+Phascolarctos_cinereus	TARBP1	ENSPCIG00000029710	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000029716	RNA binding protein	NA
+Phascolarctos_cinereus	IRF2BP2	ENSPCIG00000029728	Others	NA
+Phascolarctos_cinereus	ASF1B	ENSPCIG00000029777	Others	NA
+Phascolarctos_cinereus	DNAJB1	ENSPCIG00000029796	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000029840	Others	NA
+Phascolarctos_cinereus	HDAC3	ENSPCIG00000029855	Histone deacetylase	NA
+Phascolarctos_cinereus		ENSPCIG00000029864	GTF	NA
+Phascolarctos_cinereus	RNF14	ENSPCIG00000029875	Ring finger protein	NA
+Phascolarctos_cinereus		ENSPCIG00000029889	Others	NA
+Phascolarctos_cinereus	FGF1	ENSPCIG00000029890	FGF	NA
+Phascolarctos_cinereus	CDKN1B	ENSPCIG00000029931	Cyclin	NA
+Phascolarctos_cinereus		ENSPCIG00000029964	Others	NA
+Phascolarctos_cinereus	SUZ12	ENSPCIG00000029986	Others	NA
+Phascolarctos_cinereus	MED13L	ENSPCIG00000030006	Mediator complex	NA
+Phascolarctos_cinereus	SMYD2	ENSPCIG00000030013	SMYD	NA
+Phascolarctos_cinereus	TAF5L	ENSPCIG00000030070	TATA-box	NA
+Phascolarctos_cinereus	KANK1	ENSPCIG00000030084	Others	NA
+Phascolarctos_cinereus	CDK5R1	ENSPCIG00000030101	Cyclin	NA
+Phascolarctos_cinereus	SET	ENSPCIG00000030104	SET	NA
+Phascolarctos_cinereus	DAXX	ENSPCIG00000030119	Other_CRF	NA
+Phascolarctos_cinereus	PHF1	ENSPCIG00000030129	PHF	NA
+Phascolarctos_cinereus	TOB1	ENSPCIG00000030166	Others	NA
+Phascolarctos_cinereus	MED7	ENSPCIG00000030172	Mediator complex	NA
+Phascolarctos_cinereus	SLC30A9	ENSPCIG00000030215	SLC	NA
+Phascolarctos_cinereus	DGKQ	ENSPCIG00000030233	Others	NA
+Phascolarctos_cinereus	ADRB2	ENSPCIG00000030235	Others	NA
+Phascolarctos_cinereus	NOTCH2	ENSPCIG00000030297	Notch	NA
+Phascolarctos_cinereus	DOT1L	ENSPCIG00000030462	Others	NA
+Phascolarctos_cinereus	HAT1	ENSPCIG00000030475	Others	NA
+Phascolarctos_cinereus	RUVBL1	ENSPCIG00000030477	Other_CRF	NA
+Phascolarctos_cinereus	NCK1	ENSPCIG00000030493	Others	NA
+Phascolarctos_cinereus	DCAF6	ENSPCIG00000030532	Others	NA
+Phascolarctos_cinereus	TRIM29	ENSPCIG00000030589	Tripartite motif	NA
+Phascolarctos_cinereus		ENSPCIG00000030594	Others	NA
+Phascolarctos_cinereus	PRNP	ENSPCIG00000030958	Others	NA
+Phascolarctos_cinereus	CNOT8	ENSPCIG00000030984	CCR4-NOT	NA
+Phascolarctos_cinereus	RBX1	ENSPCIG00000030999	Others	NA
+Phascolarctos_cinereus	BTG1	ENSPCIG00000031006	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000031065	Heat shock protein	NA
+Phascolarctos_cinereus	KCNIP3	ENSPCIG00000031536	Others	NA
+Phascolarctos_cinereus	SFR1	ENSPCIG00000031692	Others	NA
+Phascolarctos_cinereus	SAP30	ENSPCIG00000031794	SAP	NA
+Phascolarctos_cinereus	CAMK4	ENSPCIG00000032166	CAMK	NA
+Phascolarctos_cinereus		ENSPCIG00000032307	Others	NA
+Phascolarctos_cinereus	RSF1	ENSPCIG00000032364	Others	NA
+Phascolarctos_cinereus	PHIP	ENSPCIG00000032385	Others	NA
+Phascolarctos_cinereus	PPHLN1	ENSPCIG00000032400	Others	NA
+Phascolarctos_cinereus	MLLT1	ENSPCIG00000032521	GTF	NA
+Phascolarctos_cinereus	TRIB1	ENSPCIG00000032567	Others	NA
+Phascolarctos_cinereus	DRAP1	ENSPCIG00000032858	Others	NA
+Phascolarctos_cinereus	LMO2	ENSPCIG00000032881	LIM	NA
+Phascolarctos_cinereus	WNT4	ENSPCIG00000032945	Others	NA
+Phascolarctos_cinereus	NELFA	ENSPCIG00000033023	GTF	NA
+Phascolarctos_cinereus	CAVIN1	ENSPCIG00000033169	Others	NA
+Phascolarctos_cinereus	PIN1	ENSPCIG00000033231	Others	NA
+Phascolarctos_cinereus	DDX54	ENSPCIG00000033259	RNA helicase	NA
+Phascolarctos_cinereus		ENSPCIG00000033433	ANP	NA
+Phascolarctos_cinereus	DYRK1B	ENSPCIG00000033476	Others	NA
+Phascolarctos_cinereus	CCDC62	ENSPCIG00000033520	Coiled-coil	NA
+Phascolarctos_cinereus		ENSPCIG00000033629	Others	NA
+Phascolarctos_cinereus	SFRP4	ENSPCIG00000033685	Others	NA
+Phascolarctos_cinereus	PAK6	ENSPCIG00000033722	Others	NA
+Phascolarctos_cinereus	DCC	ENSPCIG00000033928	Others	NA
+Phascolarctos_cinereus	SGK1	ENSPCIG00000034420	Others	NA
+Phascolarctos_cinereus	ORC2	ENSPCIG00000034597	Others	NA
+Phascolarctos_cinereus	NRBF2	ENSPCIG00000034827	Nuclear receptor coactivator	NA
+Phascolarctos_cinereus	H1-5	ENSPCIG00000034869	Histone cluster 1 H1	NA
+Phascolarctos_cinereus		ENSPCIG00000034929	Others	NA
+Phascolarctos_cinereus	CTNNBIP1	ENSPCIG00000035084	Casein	NA
+Phascolarctos_cinereus	ZNF703	ENSPCIG00000035170	Zinc finger	NA
+Phascolarctos_cinereus	DAB2	ENSPCIG00000035421	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000035598	INO80 complex	NA
+Phascolarctos_cinereus	RYBP	ENSPCIG00000035828	Others	NA
+Phascolarctos_cinereus	TBPL2	ENSPCIG00000036022	TATA-box	NA
+Phascolarctos_cinereus	RPRD1A	ENSPCIG00000036063	Others	NA
+Phascolarctos_cinereus		ENSPCIG00000036093	Heat shock protein	NA
+Phascolarctos_cinereus		ENSPCIG00000036134	Tripartite motif	NA
+Phascolarctos_cinereus	RASD1	ENSPCIG00000036183	Others	NA
+Phascolarctos_cinereus	GTF2H5	ENSPCIG00000036390	GTF	NA
+Phascolarctos_cinereus	BRMS1L	ENSPCIG00000037373	Other_CRF	NA
+Phascolarctos_cinereus	LIMD1	ENSPCIG00000037441	LIM	NA
+Phascolarctos_cinereus	ABRA	ENSPCIG00000037467	Actin	NA

@@ -1,0 +1,930 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Mus_spicilegus	Sirt7	ENSMSIG00000000028	Sirtuin	NA
+Mus_spicilegus	Gtf2a1l	ENSMSIG00000000118	GTF	NA
+Mus_spicilegus	Raf1	ENSMSIG00000000188	Others	NA
+Mus_spicilegus	Trim28	ENSMSIG00000000233	Tripartite motif	NA
+Mus_spicilegus	Asxl1	ENSMSIG00000000240	Others	NA
+Mus_spicilegus	Alyref	ENSMSIG00000000268	Others	NA
+Mus_spicilegus	Dek	ENSMSIG00000000269	Other_CRF	NA
+Mus_spicilegus		ENSMSIG00000000341	GTF	NA
+Mus_spicilegus		ENSMSIG00000000351	Others	NA
+Mus_spicilegus	Kdm1b	ENSMSIG00000000391	Lysine demethylase	NA
+Mus_spicilegus	Tle3	ENSMSIG00000000432	Transducin	NA
+Mus_spicilegus	Nlrp12	ENSMSIG00000000526	Others	NA
+Mus_spicilegus	Cdk2	ENSMSIG00000000542	Cyclin	NA
+Mus_spicilegus		ENSMSIG00000000563	Others	NA
+Mus_spicilegus	Ccnt1	ENSMSIG00000000619	Cyclin	NA
+Mus_spicilegus	Hipk3	ENSMSIG00000000626	HIPK	NA
+Mus_spicilegus	Runx1t1	ENSMSIG00000000727	Others	NA
+Mus_spicilegus	Hck	ENSMSIG00000000795	Others	NA
+Mus_spicilegus	Pa2g4	ENSMSIG00000000829	Others	NA
+Mus_spicilegus	Samd4b	ENSMSIG00000000853	Others	NA
+Mus_spicilegus	Paf1	ENSMSIG00000000896	Others	NA
+Mus_spicilegus	C1d	ENSMSIG00000000910	Other_Co-activator/repressors	NA
+Mus_spicilegus	Med29	ENSMSIG00000000975	Mediator complex	NA
+Mus_spicilegus	Jup	ENSMSIG00000001000	Others	NA
+Mus_spicilegus	Tbpl2	ENSMSIG00000001006	TATA-box	NA
+Mus_spicilegus	Supt5	ENSMSIG00000001085	SUPT	NA
+Mus_spicilegus	Ilf2	ENSMSIG00000001090	Others	NA
+Mus_spicilegus	Chek1	ENSMSIG00000001117	Others	NA
+Mus_spicilegus	Egfr	ENSMSIG00000001122	Others	NA
+Mus_spicilegus		ENSMSIG00000001140	Others	NA
+Mus_spicilegus	Cbfa2t2	ENSMSIG00000001148	Others	NA
+Mus_spicilegus	Txlna	ENSMSIG00000001252	Others	NA
+Mus_spicilegus	Basp1	ENSMSIG00000001305	Others	NA
+Mus_spicilegus	Kat5	ENSMSIG00000001364	Lysine acetyltransferase	NA
+Mus_spicilegus	Ikbkg	ENSMSIG00000001456	Others	NA
+Mus_spicilegus	S100a8	ENSMSIG00000001506	Others	NA
+Mus_spicilegus	S100a9	ENSMSIG00000001530	Others	NA
+Mus_spicilegus	Raly	ENSMSIG00000001654	Others	NA
+Mus_spicilegus	Hdac1	ENSMSIG00000001726	Histone deacetylase	NA
+Mus_spicilegus	Rbl1	ENSMSIG00000001770	Other_Co-activator/repressors	NA
+Mus_spicilegus	Rnf168	ENSMSIG00000001818	Ring finger protein	NA
+Mus_spicilegus	Dpf3	ENSMSIG00000001852	DPF	NA
+Mus_spicilegus		ENSMSIG00000001877	CCR4-NOT	NA
+Mus_spicilegus	Cbx6	ENSMSIG00000001905	Chromobox	NA
+Mus_spicilegus	Suv39h1	ENSMSIG00000001933	Others	NA
+Mus_spicilegus	Eid3	ENSMSIG00000001954	EID	NA
+Mus_spicilegus	Itch	ENSMSIG00000001955	Others	NA
+Mus_spicilegus	Bend6	ENSMSIG00000001969	Others	NA
+Mus_spicilegus	Bmi1	ENSMSIG00000002009	Others	NA
+Mus_spicilegus	Rbbp4	ENSMSIG00000002012	RBBP	NA
+Mus_spicilegus	Zfp451	ENSMSIG00000002013	Zinc finger	NA
+Mus_spicilegus	Hcfc2	ENSMSIG00000002022	Others	NA
+Mus_spicilegus	Abt1	ENSMSIG00000002096	Others	NA
+Mus_spicilegus	Btn1a1	ENSMSIG00000002124	Others	NA
+Mus_spicilegus	Elane	ENSMSIG00000002142	Others	NA
+Mus_spicilegus	Psen1	ENSMSIG00000002158	Others	NA
+Mus_spicilegus	Eed	ENSMSIG00000002163	Others	NA
+Mus_spicilegus	Skor1	ENSMSIG00000002179	SKI	NA
+Mus_spicilegus	Alpk3	ENSMSIG00000002205	Others	NA
+Mus_spicilegus	Tdg	ENSMSIG00000002206	Others	NA
+Mus_spicilegus	Kmt5c	ENSMSIG00000002231	Lysine methyltransferase	NA
+Mus_spicilegus	Med16	ENSMSIG00000002237	Mediator complex	NA
+Mus_spicilegus	Lzts1	ENSMSIG00000002251	Others	NA
+Mus_spicilegus	Zfp593	ENSMSIG00000002253	Zinc finger	NA
+Mus_spicilegus	Ncoa6	ENSMSIG00000002291	Nuclear receptor coactivator	NA
+Mus_spicilegus	Lin54	ENSMSIG00000002294	Others	NA
+Mus_spicilegus	Csrp3	ENSMSIG00000002301	Others	NA
+Mus_spicilegus	Ctdp1	ENSMSIG00000002354	Others	NA
+Mus_spicilegus	Cdk7	ENSMSIG00000002372	Cyclin	NA
+Mus_spicilegus	Hells	ENSMSIG00000002377	Others	NA
+Mus_spicilegus	Picalm	ENSMSIG00000002381	Others	NA
+Mus_spicilegus	Tspyl2	ENSMSIG00000002449	Others	NA
+Mus_spicilegus	Cdk13	ENSMSIG00000002486	Cyclin	NA
+Mus_spicilegus	H1f3	ENSMSIG00000002502	Histone cluster 1 H1	NA
+Mus_spicilegus	Tceal1	ENSMSIG00000002554	TEF	NA
+Mus_spicilegus	Taf7	ENSMSIG00000002625	TATA-box	NA
+Mus_spicilegus	Hsbp1l1	ENSMSIG00000002676	Heat shock protein	NA
+Mus_spicilegus		ENSMSIG00000002780	Others	NA
+Mus_spicilegus	Med19	ENSMSIG00000002785	Mediator complex	NA
+Mus_spicilegus	Ddx17	ENSMSIG00000002893	RNA helicase	NA
+Mus_spicilegus	Nup98	ENSMSIG00000002896	Others	NA
+Mus_spicilegus	Camk4	ENSMSIG00000002903	CAMK	NA
+Mus_spicilegus	Dyrk1b	ENSMSIG00000002904	Others	NA
+Mus_spicilegus	Blm	ENSMSIG00000002982	Others	NA
+Mus_spicilegus	Npat	ENSMSIG00000003045	Nuclear coactivator	NA
+Mus_spicilegus	Pdlim1	ENSMSIG00000003058	Others	NA
+Mus_spicilegus	Vgll3	ENSMSIG00000003078	Vestigial like	NA
+Mus_spicilegus		ENSMSIG00000003105	Casein	NA
+Mus_spicilegus	Erbb4	ENSMSIG00000003165	Erbb2	NA
+Mus_spicilegus	Ncl	ENSMSIG00000003189	Others	NA
+Mus_spicilegus	Sap30	ENSMSIG00000003196	SAP	NA
+Mus_spicilegus	Wwp2	ENSMSIG00000003228	WW	NA
+Mus_spicilegus	Strn3	ENSMSIG00000003232	Others	NA
+Mus_spicilegus		ENSMSIG00000003304	SSX	NA
+Mus_spicilegus	Hnrnpd	ENSMSIG00000003308	HNRNP	NA
+Mus_spicilegus	Nab2	ENSMSIG00000003392	Others	NA
+Mus_spicilegus	Ccdc85b	ENSMSIG00000003469	Coiled-coil	NA
+Mus_spicilegus	Pik3r1	ENSMSIG00000003525	Others	NA
+Mus_spicilegus	Drap1	ENSMSIG00000003544	Others	NA
+Mus_spicilegus	Mak	ENSMSIG00000003703	Others	NA
+Mus_spicilegus	Slc26a3	ENSMSIG00000003716	SLC	NA
+Mus_spicilegus	Kdm7a	ENSMSIG00000003734	Lysine demethylase	NA
+Mus_spicilegus		ENSMSIG00000003803	Others	NA
+Mus_spicilegus	Tbl1xr1	ENSMSIG00000003957	Transducin	NA
+Mus_spicilegus		ENSMSIG00000003982	Bromodomain	NA
+Mus_spicilegus	Taf6	ENSMSIG00000003996	TATA-box	NA
+Mus_spicilegus	Hipk2	ENSMSIG00000004039	HIPK	NA
+Mus_spicilegus	Arhgap5	ENSMSIG00000004050	Others	NA
+Mus_spicilegus	Wdr61	ENSMSIG00000004067	WD	NA
+Mus_spicilegus	Eya1	ENSMSIG00000004087	EYA	NA
+Mus_spicilegus	Nab1	ENSMSIG00000004120	Others	NA
+Mus_spicilegus	Snapc5	ENSMSIG00000004231	Others	NA
+Mus_spicilegus	Pnrc2	ENSMSIG00000004244	Others	NA
+Mus_spicilegus	Cdk5	ENSMSIG00000004283	Cyclin	NA
+Mus_spicilegus	Phf1	ENSMSIG00000004306	PHF	NA
+Mus_spicilegus	Ep400	ENSMSIG00000004329	Others	NA
+Mus_spicilegus	Erbin	ENSMSIG00000004381	Erbb2	NA
+Mus_spicilegus	Sirt5	ENSMSIG00000004411	Sirtuin	NA
+Mus_spicilegus	Cnot6	ENSMSIG00000004435	CCR4-NOT	NA
+Mus_spicilegus	Rgcc	ENSMSIG00000004519	Others	NA
+Mus_spicilegus	Lpin2	ENSMSIG00000004627	LPIN	NA
+Mus_spicilegus	Kat2a	ENSMSIG00000004648	Lysine acetyltransferase	NA
+Mus_spicilegus	Hdac2	ENSMSIG00000004652	Histone deacetylase	NA
+Mus_spicilegus	Rbm39	ENSMSIG00000004662	RNA binding protein	NA
+Mus_spicilegus	Phf20	ENSMSIG00000004775	PHF	NA
+Mus_spicilegus	Prmt2	ENSMSIG00000004778	Arginine methyltransferase	NA
+Mus_spicilegus	Smarcad1	ENSMSIG00000004793	SWI/SNF	NA
+Mus_spicilegus	Sfswap	ENSMSIG00000004800	Others	NA
+Mus_spicilegus	Scand1	ENSMSIG00000004809	Others	NA
+Mus_spicilegus	Traf6	ENSMSIG00000004857	Others	NA
+Mus_spicilegus	Kdm1a	ENSMSIG00000004881	Lysine demethylase	NA
+Mus_spicilegus	Nfkbid	ENSMSIG00000004889	NFKB associated	NA
+Mus_spicilegus	Mphosph8	ENSMSIG00000004972	Others	NA
+Mus_spicilegus	Taf2	ENSMSIG00000004981	TATA-box	NA
+Mus_spicilegus		ENSMSIG00000004991	TATA-box	NA
+Mus_spicilegus	Rbbp7	ENSMSIG00000005004	RBBP	NA
+Mus_spicilegus	Gtf2h1	ENSMSIG00000005013	GTF	NA
+Mus_spicilegus	Pspc1	ENSMSIG00000005036	Others	NA
+Mus_spicilegus	Utp4	ENSMSIG00000005070	Others	NA
+Mus_spicilegus	Zmym5	ENSMSIG00000005074	Zinc finger	NA
+Mus_spicilegus	Set	ENSMSIG00000005123	SET	NA
+Mus_spicilegus	Rbbp8	ENSMSIG00000005137	RBBP	NA
+Mus_spicilegus	Ncoa7	ENSMSIG00000005139	Nuclear receptor coactivator	NA
+Mus_spicilegus	Smarcb1	ENSMSIG00000005155	SWI/SNF	NA
+Mus_spicilegus	Parp9	ENSMSIG00000005170	PARP	NA
+Mus_spicilegus	Zmym2	ENSMSIG00000005177	Zinc finger	NA
+Mus_spicilegus	Myo6	ENSMSIG00000005185	Others	NA
+Mus_spicilegus	Adrb2	ENSMSIG00000005196	Others	NA
+Mus_spicilegus	Ran	ENSMSIG00000005235	Others	NA
+Mus_spicilegus		ENSMSIG00000005247	Casein	NA
+Mus_spicilegus	Hnrnpu	ENSMSIG00000005250	HNRNP	NA
+Mus_spicilegus	Chek2	ENSMSIG00000005285	Others	NA
+Mus_spicilegus	Wnt4	ENSMSIG00000005334	Others	NA
+Mus_spicilegus		ENSMSIG00000005342	Others	NA
+Mus_spicilegus	Cavin1	ENSMSIG00000005346	Others	NA
+Mus_spicilegus	Prmt7	ENSMSIG00000005450	Arginine methyltransferase	NA
+Mus_spicilegus	Smyd3	ENSMSIG00000005471	SMYD	NA
+Mus_spicilegus	Setd6	ENSMSIG00000005533	SET	NA
+Mus_spicilegus	Trim29	ENSMSIG00000005545	Tripartite motif	NA
+Mus_spicilegus	Cnot1	ENSMSIG00000005580	CCR4-NOT	NA
+Mus_spicilegus		ENSMSIG00000005581	Bromodomain	NA
+Mus_spicilegus	Tfb2m	ENSMSIG00000005588	Others	NA
+Mus_spicilegus	Wdr77	ENSMSIG00000005672	WD	NA
+Mus_spicilegus	Eid1	ENSMSIG00000005738	EID	NA
+Mus_spicilegus	Kdm2a	ENSMSIG00000005774	Lysine demethylase	NA
+Mus_spicilegus	Cops2	ENSMSIG00000005796	Others	NA
+Mus_spicilegus	Ercc2	ENSMSIG00000005841	Others	NA
+Mus_spicilegus	Notch3	ENSMSIG00000005867	Notch	NA
+Mus_spicilegus	Ddx20	ENSMSIG00000005900	RNA helicase	NA
+Mus_spicilegus	Cth	ENSMSIG00000005934	Others	NA
+Mus_spicilegus	Ppid	ENSMSIG00000005955	Others	NA
+Mus_spicilegus	Ing4	ENSMSIG00000005976	ING	NA
+Mus_spicilegus	Cbl	ENSMSIG00000006132	Others	NA
+Mus_spicilegus	Trip4	ENSMSIG00000006163	Thyroid hormone receptor	NA
+Mus_spicilegus	Mbtd1	ENSMSIG00000006207	Others	NA
+Mus_spicilegus	Kmt2b	ENSMSIG00000006214	Lysine methyltransferase	NA
+Mus_spicilegus	Kctd1	ENSMSIG00000006254	Others	NA
+Mus_spicilegus	Elp1	ENSMSIG00000006298	ELP	NA
+Mus_spicilegus	Taf4b	ENSMSIG00000006310	TATA-box	NA
+Mus_spicilegus	Ezh1	ENSMSIG00000006338	Others	NA
+Mus_spicilegus	Chd4	ENSMSIG00000006341	CHD	NA
+Mus_spicilegus	Ss18	ENSMSIG00000006510	SS18	NA
+Mus_spicilegus	Taf11	ENSMSIG00000006531	TATA-box	NA
+Mus_spicilegus	Hcfc1	ENSMSIG00000006587	Others	NA
+Mus_spicilegus		ENSMSIG00000006607	Others	NA
+Mus_spicilegus	Trappc2	ENSMSIG00000006617	Others	NA
+Mus_spicilegus	Cdc73	ENSMSIG00000006710	Others	NA
+Mus_spicilegus	Lmo2	ENSMSIG00000006713	LIM	NA
+Mus_spicilegus	Siah2	ENSMSIG00000006762	Others	NA
+Mus_spicilegus	Tenm2	ENSMSIG00000006923	Others	NA
+Mus_spicilegus	Bcl10	ENSMSIG00000006967	BCL	NA
+Mus_spicilegus	Kat6b	ENSMSIG00000006970	Lysine acetyltransferase	NA
+Mus_spicilegus	Smarcd1	ENSMSIG00000006988	SWI/SNF	NA
+Mus_spicilegus		ENSMSIG00000007006	Others	NA
+Mus_spicilegus	Cdkn1b	ENSMSIG00000007012	Cyclin	NA
+Mus_spicilegus	Cnot3	ENSMSIG00000007036	CCR4-NOT	NA
+Mus_spicilegus	Syk	ENSMSIG00000007089	Others	NA
+Mus_spicilegus	Ciita	ENSMSIG00000007094	Others	NA
+Mus_spicilegus	Cir1	ENSMSIG00000007130	Other_Co-activator/repressors	NA
+Mus_spicilegus	Tob1	ENSMSIG00000007131	Others	NA
+Mus_spicilegus	Pml	ENSMSIG00000007173	Others	NA
+Mus_spicilegus	Brca1	ENSMSIG00000007192	Others	NA
+Mus_spicilegus	Hdac9	ENSMSIG00000007205	Histone deacetylase	NA
+Mus_spicilegus	Rb1	ENSMSIG00000007265	Other_Co-activator/repressors	NA
+Mus_spicilegus		ENSMSIG00000007287	Others	NA
+Mus_spicilegus	Wwc1	ENSMSIG00000007293	WW	NA
+Mus_spicilegus	Insr	ENSMSIG00000007338	Others	NA
+Mus_spicilegus	Cdk5r1	ENSMSIG00000007341	Cyclin	NA
+Mus_spicilegus	Notch4	ENSMSIG00000007446	Notch	NA
+Mus_spicilegus		ENSMSIG00000007488	Others	NA
+Mus_spicilegus	Bcl9l	ENSMSIG00000007566	BCL	NA
+Mus_spicilegus	Timeless	ENSMSIG00000007572	Others	NA
+Mus_spicilegus	Bcl3	ENSMSIG00000007593	BCL	NA
+Mus_spicilegus	Slc30a9	ENSMSIG00000007605	SLC	NA
+Mus_spicilegus	Anp32e	ENSMSIG00000007657	ANP	NA
+Mus_spicilegus	Pou2af1	ENSMSIG00000007978	Others	NA
+Mus_spicilegus	Fgfr2	ENSMSIG00000007996	FGF	NA
+Mus_spicilegus		ENSMSIG00000008098	Others	NA
+Mus_spicilegus	Sap18	ENSMSIG00000008113	SAP	NA
+Mus_spicilegus	Hint1	ENSMSIG00000008122	Others	NA
+Mus_spicilegus	Tnip1	ENSMSIG00000008139	Others	NA
+Mus_spicilegus	Hat1	ENSMSIG00000008197	Others	NA
+Mus_spicilegus	Trak2	ENSMSIG00000008206	Others	NA
+Mus_spicilegus	Actl6b	ENSMSIG00000008340	Actin	NA
+Mus_spicilegus	Suz12	ENSMSIG00000008361	Others	NA
+Mus_spicilegus	Cops5	ENSMSIG00000008534	Others	NA
+Mus_spicilegus	Eya3	ENSMSIG00000008546	EYA	NA
+Mus_spicilegus	Rlim	ENSMSIG00000008579	Ring finger protein	NA
+Mus_spicilegus	Gtf2h3	ENSMSIG00000008664	GTF	NA
+Mus_spicilegus	Cnot2	ENSMSIG00000008826	CCR4-NOT	NA
+Mus_spicilegus	Eapp	ENSMSIG00000008901	Others	NA
+Mus_spicilegus	Kmt5a	ENSMSIG00000008903	Lysine methyltransferase	NA
+Mus_spicilegus	Parp14	ENSMSIG00000008946	PARP	NA
+Mus_spicilegus	Sin3a	ENSMSIG00000009029	Other_CRF	NA
+Mus_spicilegus	Med18	ENSMSIG00000009082	Mediator complex	NA
+Mus_spicilegus	Wbp2nl	ENSMSIG00000009083	Others	NA
+Mus_spicilegus	Rnf2	ENSMSIG00000009086	Ring finger protein	NA
+Mus_spicilegus	Kmt2a	ENSMSIG00000009111	Lysine methyltransferase	NA
+Mus_spicilegus	Trim37	ENSMSIG00000009188	Tripartite motif	NA
+Mus_spicilegus	Tceal3	ENSMSIG00000009285	TEF	NA
+Mus_spicilegus	Skil	ENSMSIG00000009305	SKI	NA
+Mus_spicilegus	Aurkb	ENSMSIG00000009349	Others	NA
+Mus_spicilegus	Tirap	ENSMSIG00000009381	Others	NA
+Mus_spicilegus	Plrg1	ENSMSIG00000009414	Others	NA
+Mus_spicilegus	Taf9b	ENSMSIG00000009481	TATA-box	NA
+Mus_spicilegus	Kdm3a	ENSMSIG00000009485	Lysine demethylase	NA
+Mus_spicilegus	Taf12	ENSMSIG00000009505	TATA-box	NA
+Mus_spicilegus	Cd3d	ENSMSIG00000009529	Others	NA
+Mus_spicilegus	Sqstm1	ENSMSIG00000009550	Others	NA
+Mus_spicilegus	Lgals9	ENSMSIG00000009585	Others	NA
+Mus_spicilegus	Jade1	ENSMSIG00000009613	Others	NA
+Mus_spicilegus	Maml1	ENSMSIG00000009693	MAML	NA
+Mus_spicilegus	Niban2	ENSMSIG00000009708	FAM	NA
+Mus_spicilegus	Chaf1b	ENSMSIG00000009725	Others	NA
+Mus_spicilegus	Med27	ENSMSIG00000009748	Mediator complex	NA
+Mus_spicilegus		ENSMSIG00000009759	Others	NA
+Mus_spicilegus	Nlk	ENSMSIG00000009822	Others	NA
+Mus_spicilegus	Rbm15b	ENSMSIG00000009947	RNA binding protein	NA
+Mus_spicilegus	Dcaf1	ENSMSIG00000009958	Others	NA
+Mus_spicilegus	Trip6	ENSMSIG00000009968	Thyroid hormone receptor	NA
+Mus_spicilegus	Crym	ENSMSIG00000010014	Others	NA
+Mus_spicilegus	Ecd	ENSMSIG00000010043	Others	NA
+Mus_spicilegus	Med13	ENSMSIG00000010075	Mediator complex	NA
+Mus_spicilegus	Cbx3	ENSMSIG00000010130	Chromobox	NA
+Mus_spicilegus	Ccna2	ENSMSIG00000010165	Cyclin	NA
+Mus_spicilegus	Ascc1	ENSMSIG00000010173	ASCC	NA
+Mus_spicilegus	Dot1l	ENSMSIG00000010192	Others	NA
+Mus_spicilegus	Calcoco1	ENSMSIG00000010197	Others	NA
+Mus_spicilegus	Calr4	ENSMSIG00000010220	Others	NA
+Mus_spicilegus	Arglu1	ENSMSIG00000010263	Others	NA
+Mus_spicilegus		ENSMSIG00000010266	Cyclin	NA
+Mus_spicilegus	Cited4	ENSMSIG00000010267	CITED	NA
+Mus_spicilegus	Hmox1	ENSMSIG00000010278	Others	NA
+Mus_spicilegus	Gtf2b	ENSMSIG00000010280	GTF	NA
+Mus_spicilegus	Scmh1	ENSMSIG00000010338	Others	NA
+Mus_spicilegus	Eng	ENSMSIG00000010381	Others	NA
+Mus_spicilegus	BC004004	ENSMSIG00000010390	Other_CRF	NA
+Mus_spicilegus	Kank1	ENSMSIG00000010404	Others	NA
+Mus_spicilegus	Bcas3	ENSMSIG00000010472	Others	NA
+Mus_spicilegus	Supt6	ENSMSIG00000010519	SUPT	NA
+Mus_spicilegus	Pim1	ENSMSIG00000010559	Others	NA
+Mus_spicilegus	Nmi	ENSMSIG00000010569	Others	NA
+Mus_spicilegus	Kdm3b	ENSMSIG00000010592	Lysine demethylase	NA
+Mus_spicilegus	Cbx5	ENSMSIG00000010608	Chromobox	NA
+Mus_spicilegus	Yeats2	ENSMSIG00000010643	Others	NA
+Mus_spicilegus	Ccnc	ENSMSIG00000010655	Cyclin	NA
+Mus_spicilegus	Rnf10	ENSMSIG00000010698	Ring finger protein	NA
+Mus_spicilegus	Thrsp	ENSMSIG00000010722	Others	NA
+Mus_spicilegus	Suv39h2	ENSMSIG00000010787	Others	NA
+Mus_spicilegus	Cxxc1	ENSMSIG00000010895	Others	NA
+Mus_spicilegus	Dvl3	ENSMSIG00000010921	Others	NA
+Mus_spicilegus	Park7	ENSMSIG00000011034	Others	NA
+Mus_spicilegus	Phf12	ENSMSIG00000011061	PHF	NA
+Mus_spicilegus	Brd2	ENSMSIG00000011118	Bromodomain	NA
+Mus_spicilegus	Trim8	ENSMSIG00000011181	Tripartite motif	NA
+Mus_spicilegus	Sufu	ENSMSIG00000011215	Others	NA
+Mus_spicilegus		ENSMSIG00000011230	Others	NA
+Mus_spicilegus	Lrpprc	ENSMSIG00000011282	Others	NA
+Mus_spicilegus	Ccna1	ENSMSIG00000011369	Cyclin	NA
+Mus_spicilegus	Rfxap	ENSMSIG00000011399	Others	NA
+Mus_spicilegus	Tpr	ENSMSIG00000011409	Others	NA
+Mus_spicilegus	Mad2l2	ENSMSIG00000011418	Others	NA
+Mus_spicilegus	Hipk1	ENSMSIG00000011445	HIPK	NA
+Mus_spicilegus	Supt20	ENSMSIG00000011522	SUPT	NA
+Mus_spicilegus	Aatf	ENSMSIG00000011523	Others	NA
+Mus_spicilegus	Lpin1	ENSMSIG00000011530	LPIN	NA
+Mus_spicilegus	Mtor	ENSMSIG00000011592	Others	NA
+Mus_spicilegus	Baz1b	ENSMSIG00000011669	Bromodomain	NA
+Mus_spicilegus	Dnajb1	ENSMSIG00000011684	Others	NA
+Mus_spicilegus	Kdm4b	ENSMSIG00000011694	Lysine demethylase	NA
+Mus_spicilegus	Cnot7	ENSMSIG00000011698	CCR4-NOT	NA
+Mus_spicilegus	Trim33	ENSMSIG00000011742	Tripartite motif	NA
+Mus_spicilegus		ENSMSIG00000011749	Others	NA
+Mus_spicilegus	Prmt6	ENSMSIG00000011756	Arginine methyltransferase	NA
+Mus_spicilegus	Ldb1	ENSMSIG00000011766	LIM	NA
+Mus_spicilegus	Jmy	ENSMSIG00000011806	Others	NA
+Mus_spicilegus	Pid1	ENSMSIG00000011814	Others	NA
+Mus_spicilegus	Ddx39a	ENSMSIG00000011831	RNA helicase	NA
+Mus_spicilegus	Ncoa4	ENSMSIG00000011904	Nuclear receptor coactivator	NA
+Mus_spicilegus	Irf2bpl	ENSMSIG00000011957	Others	NA
+Mus_spicilegus		ENSMSIG00000011963	Others	NA
+Mus_spicilegus	Hsbp1	ENSMSIG00000012033	Heat shock protein	NA
+Mus_spicilegus	Tab3	ENSMSIG00000012093	Others	NA
+Mus_spicilegus	Pex14	ENSMSIG00000012138	Others	NA
+Mus_spicilegus	Maml3	ENSMSIG00000012162	MAML	NA
+Mus_spicilegus	Ring1	ENSMSIG00000012190	Ring finger protein	NA
+Mus_spicilegus	Setd7	ENSMSIG00000012236	SET	NA
+Mus_spicilegus	Tcea2	ENSMSIG00000012258	TEF	NA
+Mus_spicilegus	Prpf6	ENSMSIG00000012299	Others	NA
+Mus_spicilegus	Naa15	ENSMSIG00000012304	Others	NA
+Mus_spicilegus	Suds3	ENSMSIG00000012350	Other_Co-activator/repressors	NA
+Mus_spicilegus	Pnrc1	ENSMSIG00000012374	Others	NA
+Mus_spicilegus	Pak6	ENSMSIG00000012435	Others	NA
+Mus_spicilegus	Arhgef5	ENSMSIG00000012437	Others	NA
+Mus_spicilegus	Taf15	ENSMSIG00000012461	TATA-box	NA
+Mus_spicilegus	Npm3	ENSMSIG00000012497	Nucleoplasmin	NA
+Mus_spicilegus	Daxx	ENSMSIG00000012554	Other_CRF	NA
+Mus_spicilegus	Asf1b	ENSMSIG00000012561	Others	NA
+Mus_spicilegus	Tada1	ENSMSIG00000012597	Transcriptional adaptor	NA
+Mus_spicilegus	Ino80d	ENSMSIG00000012604	INO80 complex	NA
+Mus_spicilegus	Vegfa	ENSMSIG00000012606	Other_CRF	NA
+Mus_spicilegus	Dhx9	ENSMSIG00000012678	RNA helicase	NA
+Mus_spicilegus	Btrc	ENSMSIG00000012680	Others	NA
+Mus_spicilegus	Snw1	ENSMSIG00000012712	Others	NA
+Mus_spicilegus	Ctnnbip1	ENSMSIG00000012852	Casein	NA
+Mus_spicilegus	Padi4	ENSMSIG00000013050	Others	NA
+Mus_spicilegus	Kmt5b	ENSMSIG00000013087	Lysine methyltransferase	NA
+Mus_spicilegus	Ppie	ENSMSIG00000013106	Others	NA
+Mus_spicilegus	Pcbd1	ENSMSIG00000013225	Others	NA
+Mus_spicilegus	Padi2	ENSMSIG00000013229	Other_CRF	NA
+Mus_spicilegus	Flnb	ENSMSIG00000013237	Others	NA
+Mus_spicilegus	Helz2	ENSMSIG00000013287	Others	NA
+Mus_spicilegus	Hif1an	ENSMSIG00000013295	Others	NA
+Mus_spicilegus	Tradd	ENSMSIG00000013313	Others	NA
+Mus_spicilegus	Casp8ap2	ENSMSIG00000013344	Others	NA
+Mus_spicilegus	Ruvbl1	ENSMSIG00000013395	Other_CRF	NA
+Mus_spicilegus	Eny2	ENSMSIG00000013419	Others	NA
+Mus_spicilegus	Sertad2	ENSMSIG00000013434	Others	NA
+Mus_spicilegus	Mybbp1a	ENSMSIG00000013464	MYB	NA
+Mus_spicilegus	Tdrd3	ENSMSIG00000013545	Others	NA
+Mus_spicilegus	Hdac4	ENSMSIG00000013672	Histone deacetylase	NA
+Mus_spicilegus	Cecr2	ENSMSIG00000013711	Other_CRF	NA
+Mus_spicilegus	Pink1	ENSMSIG00000013735	Others	NA
+Mus_spicilegus	Chuk	ENSMSIG00000013784	Others	NA
+Mus_spicilegus	Mycbp2	ENSMSIG00000013793	MYC	NA
+Mus_spicilegus	Med31	ENSMSIG00000013954	Mediator complex	NA
+Mus_spicilegus	Med21	ENSMSIG00000014163	Mediator complex	NA
+Mus_spicilegus	Nck1	ENSMSIG00000014165	Others	NA
+Mus_spicilegus	Dact1	ENSMSIG00000014186	Others	NA
+Mus_spicilegus	Kdm2b	ENSMSIG00000014189	Lysine demethylase	NA
+Mus_spicilegus	Spen	ENSMSIG00000014208	Others	NA
+Mus_spicilegus		ENSMSIG00000014378	CENP	NA
+Mus_spicilegus	Fhod1	ENSMSIG00000014442	Others	NA
+Mus_spicilegus	Plk3	ENSMSIG00000014443	Others	NA
+Mus_spicilegus	Dcaf6	ENSMSIG00000014460	Others	NA
+Mus_spicilegus	Ssbp3	ENSMSIG00000014470	Others	NA
+Mus_spicilegus	Peli1	ENSMSIG00000014472	Others	NA
+Mus_spicilegus	Fbp1	ENSMSIG00000014473	Others	NA
+Mus_spicilegus	Ccnk	ENSMSIG00000014486	Cyclin	NA
+Mus_spicilegus	Ccdc62	ENSMSIG00000014496	Coiled-coil	NA
+Mus_spicilegus	Setd3	ENSMSIG00000014538	SET	NA
+Mus_spicilegus	Dscam	ENSMSIG00000014580	Others	NA
+Mus_spicilegus	Vgll1	ENSMSIG00000014590	Vestigial like	NA
+Mus_spicilegus	Bahcc1	ENSMSIG00000014611	Others	NA
+Mus_spicilegus	Ezr	ENSMSIG00000014644	Others	NA
+Mus_spicilegus	Chd6	ENSMSIG00000014662	CHD	NA
+Mus_spicilegus	Med14	ENSMSIG00000014738	Mediator complex	NA
+Mus_spicilegus	Anxa4	ENSMSIG00000014770	Others	NA
+Mus_spicilegus	Trib1	ENSMSIG00000014778	Others	NA
+Mus_spicilegus	Lpin3	ENSMSIG00000014785	LPIN	NA
+Mus_spicilegus	Ssu72	ENSMSIG00000014790	Others	NA
+Mus_spicilegus	Dmap1	ENSMSIG00000014804	DNA_methylase	NA
+Mus_spicilegus	Gtf2h4	ENSMSIG00000014824	GTF	NA
+Mus_spicilegus	Creg1	ENSMSIG00000014843	Others	NA
+Mus_spicilegus	Gtf2h5	ENSMSIG00000014886	GTF	NA
+Mus_spicilegus	Xrn2	ENSMSIG00000014908	Others	NA
+Mus_spicilegus	Mbd3l1	ENSMSIG00000014959	MBD	NA
+Mus_spicilegus	Fhl3	ENSMSIG00000015008	FHL	NA
+Mus_spicilegus	Trim32	ENSMSIG00000015050	Tripartite motif	NA
+Mus_spicilegus	Cbfa2t3	ENSMSIG00000015080	Others	NA
+Mus_spicilegus	Aurkaip1	ENSMSIG00000015106	Others	NA
+Mus_spicilegus	Mbd3l2	ENSMSIG00000015109	MBD	NA
+Mus_spicilegus	Brwd1	ENSMSIG00000015168	Bromodomain	NA
+Mus_spicilegus	Kdm4a	ENSMSIG00000015233	Lysine demethylase	NA
+Mus_spicilegus	Top1	ENSMSIG00000015267	Other_CRF	NA
+Mus_spicilegus	Pex2	ENSMSIG00000015460	Others	NA
+Mus_spicilegus	Zmynd11	ENSMSIG00000015479	Zinc finger	NA
+Mus_spicilegus	Phf19	ENSMSIG00000015511	PHF	NA
+Mus_spicilegus	Actr5	ENSMSIG00000015565	ACTR	NA
+Mus_spicilegus	Smarca4	ENSMSIG00000015575	SWI/SNF	NA
+Mus_spicilegus	Actn1	ENSMSIG00000015590	Actin	NA
+Mus_spicilegus	Snip1	ENSMSIG00000015594	Others	NA
+Mus_spicilegus	Meaf6	ENSMSIG00000015611	Others	NA
+Mus_spicilegus	Lpxn	ENSMSIG00000015616	Others	NA
+Mus_spicilegus	Btg1	ENSMSIG00000015631	Others	NA
+Mus_spicilegus	Rptor	ENSMSIG00000015682	Others	NA
+Mus_spicilegus	Carm1	ENSMSIG00000015744	Others	NA
+Mus_spicilegus	Atad2	ENSMSIG00000015754	Others	NA
+Mus_spicilegus	Sgf29	ENSMSIG00000015782	Others	NA
+Mus_spicilegus		ENSMSIG00000015807	Sirtuin	NA
+Mus_spicilegus	Mms19	ENSMSIG00000015819	Others	NA
+Mus_spicilegus	Banp	ENSMSIG00000015888	Others	NA
+Mus_spicilegus	Med8	ENSMSIG00000015946	Mediator complex	NA
+Mus_spicilegus	Tnni2	ENSMSIG00000015957	Others	NA
+Mus_spicilegus	Trip13	ENSMSIG00000016051	Thyroid hormone receptor	NA
+Mus_spicilegus	Ankrd2	ENSMSIG00000016098	Ankyrin repeat	NA
+Mus_spicilegus		ENSMSIG00000016142	SS18	NA
+Mus_spicilegus	Thrap3	ENSMSIG00000016164	Thyroid hormone receptor	NA
+Mus_spicilegus	Taf1d	ENSMSIG00000016165	TATA-box	NA
+Mus_spicilegus	Btk	ENSMSIG00000016186	Others	NA
+Mus_spicilegus	Med17	ENSMSIG00000016253	Mediator complex	NA
+Mus_spicilegus	Stk3	ENSMSIG00000016310	Others	NA
+Mus_spicilegus	Prmt5	ENSMSIG00000016312	Arginine methyltransferase	NA
+Mus_spicilegus		ENSMSIG00000016326	Heat shock protein	NA
+Mus_spicilegus	Lrrk2	ENSMSIG00000016337	Other_CRF	NA
+Mus_spicilegus	Ajuba	ENSMSIG00000016353	Others	NA
+Mus_spicilegus	Smarcd3	ENSMSIG00000016483	SWI/SNF	NA
+Mus_spicilegus	Med1	ENSMSIG00000016503	Mediator complex	NA
+Mus_spicilegus	Actn2	ENSMSIG00000016544	Actin	NA
+Mus_spicilegus	Ago1	ENSMSIG00000016559	Others	NA
+Mus_spicilegus	Coprs	ENSMSIG00000016579	Others	NA
+Mus_spicilegus	Noc2l	ENSMSIG00000016580	Others	NA
+Mus_spicilegus	Ehmt2	ENSMSIG00000016591	Histone lysine methyltransferase	NA
+Mus_spicilegus	Heatr1	ENSMSIG00000016595	Others	NA
+Mus_spicilegus	Nudt5	ENSMSIG00000016635	Other_CRF	NA
+Mus_spicilegus	Cdk12	ENSMSIG00000016664	Cyclin	NA
+Mus_spicilegus	Mtdh	ENSMSIG00000016720	Others	NA
+Mus_spicilegus		ENSMSIG00000016722	Histone deacetylase	NA
+Mus_spicilegus	Cbx4	ENSMSIG00000016769	Chromobox	NA
+Mus_spicilegus	Cbx8	ENSMSIG00000016776	Chromobox	NA
+Mus_spicilegus	Ski	ENSMSIG00000016784	SKI	NA
+Mus_spicilegus	Cbx2	ENSMSIG00000016814	Chromobox	NA
+Mus_spicilegus	Nfatc2ip	ENSMSIG00000016853	Nuclear coactivator	NA
+Mus_spicilegus	Tcf20	ENSMSIG00000016858	Others	NA
+Mus_spicilegus	Erbb2	ENSMSIG00000016883	Erbb2	NA
+Mus_spicilegus		ENSMSIG00000016969	MAGE	NA
+Mus_spicilegus	Cited1	ENSMSIG00000017002	CITED	NA
+Mus_spicilegus	Med23	ENSMSIG00000017105	Mediator complex	NA
+Mus_spicilegus	Lancl2	ENSMSIG00000017167	Others	NA
+Mus_spicilegus	Thoc5	ENSMSIG00000017170	Others	NA
+Mus_spicilegus	Actr6	ENSMSIG00000017172	ACTR	NA
+Mus_spicilegus	Dnmt1	ENSMSIG00000017200	DNA_methylase	NA
+Mus_spicilegus	Pcgf2	ENSMSIG00000017227	PCGF	NA
+Mus_spicilegus	Eaf2	ENSMSIG00000017229	Others	NA
+Mus_spicilegus	Mllt6	ENSMSIG00000017258	Others	NA
+Mus_spicilegus	Mcidas	ENSMSIG00000017390	Others	NA
+Mus_spicilegus	Hcls1	ENSMSIG00000017414	Others	NA
+Mus_spicilegus	Tle4	ENSMSIG00000017471	Transducin	NA
+Mus_spicilegus	Ice1	ENSMSIG00000017478	Others	NA
+Mus_spicilegus	Nsd1	ENSMSIG00000017502	Nuclear receptor coactivator	NA
+Mus_spicilegus	Cdyl	ENSMSIG00000017505	Chromodomain Y	NA
+Mus_spicilegus	Ttf2	ENSMSIG00000017516	Others	NA
+Mus_spicilegus	Mrgbp	ENSMSIG00000017522	Others	NA
+Mus_spicilegus	Brms1l	ENSMSIG00000017523	Other_CRF	NA
+Mus_spicilegus	Kdm5b	ENSMSIG00000017529	Lysine demethylase	NA
+Mus_spicilegus		ENSMSIG00000017540	Others	NA
+Mus_spicilegus	Ralgapa1	ENSMSIG00000017557	Others	NA
+Mus_spicilegus		ENSMSIG00000017563	Mediator complex	NA
+Mus_spicilegus	Arhgap35	ENSMSIG00000017677	Others	NA
+Mus_spicilegus	Strap	ENSMSIG00000017726	Others	NA
+Mus_spicilegus	Ewsr1	ENSMSIG00000017826	Others	NA
+Mus_spicilegus	Pin1	ENSMSIG00000017849	Others	NA
+Mus_spicilegus	Efcab6	ENSMSIG00000017906	Others	NA
+Mus_spicilegus	Elp3	ENSMSIG00000017928	ELP	NA
+Mus_spicilegus	Tgs1	ENSMSIG00000017945	Others	NA
+Mus_spicilegus	Trim27	ENSMSIG00000017950	Tripartite motif	NA
+Mus_spicilegus	Kdm8	ENSMSIG00000018033	Lysine demethylase	NA
+Mus_spicilegus	Tceal5	ENSMSIG00000018073	TEF	NA
+Mus_spicilegus	Bex1	ENSMSIG00000018077	Others	NA
+Mus_spicilegus	Xrcc6	ENSMSIG00000018083	Others	NA
+Mus_spicilegus	Clu	ENSMSIG00000018167	Others	NA
+Mus_spicilegus	Hyal2	ENSMSIG00000018188	Others	NA
+Mus_spicilegus	Uxt	ENSMSIG00000018247	Others	NA
+Mus_spicilegus		ENSMSIG00000018249	Others	NA
+Mus_spicilegus	Gtf2e1	ENSMSIG00000018274	GTF	NA
+Mus_spicilegus	Sfrp4	ENSMSIG00000018285	Others	NA
+Mus_spicilegus	Nfkbia	ENSMSIG00000018300	NFKB associated	NA
+Mus_spicilegus	Cdk5rap3	ENSMSIG00000018309	Cyclin	NA
+Mus_spicilegus	Kdm4c	ENSMSIG00000018342	Lysine demethylase	NA
+Mus_spicilegus	Hspa8	ENSMSIG00000018401	Heat shock protein	NA
+Mus_spicilegus	Phf21b	ENSMSIG00000018483	PHF	NA
+Mus_spicilegus	Gsk3b	ENSMSIG00000018514	Others	NA
+Mus_spicilegus	Dnmt3b	ENSMSIG00000018600	DNA_methylase	NA
+Mus_spicilegus	Skap1	ENSMSIG00000018601	Others	NA
+Mus_spicilegus	Smyd1	ENSMSIG00000018766	SMYD	NA
+Mus_spicilegus	Brdt	ENSMSIG00000018799	Bromodomain	NA
+Mus_spicilegus	Skor2	ENSMSIG00000018834	SKI	NA
+Mus_spicilegus	Stk36	ENSMSIG00000018889	Others	NA
+Mus_spicilegus	Taf1c	ENSMSIG00000018907	TATA-box	NA
+Mus_spicilegus	Phf21a	ENSMSIG00000018990	PHF	NA
+Mus_spicilegus		ENSMSIG00000019089	Others	NA
+Mus_spicilegus	Aebp1	ENSMSIG00000019091	Others	NA
+Mus_spicilegus	Rpap2	ENSMSIG00000019128	Others	NA
+Mus_spicilegus	Rnf25	ENSMSIG00000019133	Ring finger protein	NA
+Mus_spicilegus	Epc1	ENSMSIG00000019175	Others	NA
+Mus_spicilegus	Med22	ENSMSIG00000019178	Mediator complex	NA
+Mus_spicilegus	Dvl2	ENSMSIG00000019225	Others	NA
+Mus_spicilegus	Ogt	ENSMSIG00000019243	Others	NA
+Mus_spicilegus	Atrx	ENSMSIG00000019326	Others	NA
+Mus_spicilegus	Rexo4	ENSMSIG00000019342	Others	NA
+Mus_spicilegus	Spag8	ENSMSIG00000019371	Others	NA
+Mus_spicilegus	Ing3	ENSMSIG00000019386	ING	NA
+Mus_spicilegus	Pcbd2	ENSMSIG00000019409	Others	NA
+Mus_spicilegus		ENSMSIG00000019424	Other_CRF	NA
+Mus_spicilegus	Apex1	ENSMSIG00000019485	Others	NA
+Mus_spicilegus	Cnot9	ENSMSIG00000019555	CCR4-NOT	NA
+Mus_spicilegus	Grip1	ENSMSIG00000019568	Others	NA
+Mus_spicilegus	Ppargc1b	ENSMSIG00000019610	Others	NA
+Mus_spicilegus		ENSMSIG00000019634	Others	NA
+Mus_spicilegus	Med15	ENSMSIG00000019659	Mediator complex	NA
+Mus_spicilegus	Taf13	ENSMSIG00000019692	TATA-box	NA
+Mus_spicilegus	Ago2	ENSMSIG00000019719	Others	NA
+Mus_spicilegus	Chrac1	ENSMSIG00000019743	Other_CRF	NA
+Mus_spicilegus	Abl1	ENSMSIG00000019810	Others	NA
+Mus_spicilegus	Myocd	ENSMSIG00000019847	Others	NA
+Mus_spicilegus	Brd3	ENSMSIG00000019895	Bromodomain	NA
+Mus_spicilegus	Wdr5	ENSMSIG00000019932	WD	NA
+Mus_spicilegus	Grhpr	ENSMSIG00000019984	Others	NA
+Mus_spicilegus	Ppargc1a	ENSMSIG00000019989	Others	NA
+Mus_spicilegus	Supt7l	ENSMSIG00000019995	SUPT	NA
+Mus_spicilegus	Wac	ENSMSIG00000020012	WW	NA
+Mus_spicilegus	Terf2ip	ENSMSIG00000020038	Others	NA
+Mus_spicilegus	Rai1	ENSMSIG00000020085	Others	NA
+Mus_spicilegus	Pih1d1	ENSMSIG00000020099	Other_CRF	NA
+Mus_spicilegus	Fgfr1	ENSMSIG00000020120	FGF	NA
+Mus_spicilegus	Rasd1	ENSMSIG00000020140	Others	NA
+Mus_spicilegus	Med9	ENSMSIG00000020150	Mediator complex	NA
+Mus_spicilegus	Mtf2	ENSMSIG00000020200	Others	NA
+Mus_spicilegus	Fbxw7	ENSMSIG00000020233	Others	NA
+Mus_spicilegus	Pelp1	ENSMSIG00000020241	Others	NA
+Mus_spicilegus	Prnp	ENSMSIG00000020265	Others	NA
+Mus_spicilegus	Arrb2	ENSMSIG00000020274	Others	NA
+Mus_spicilegus	Lgals12	ENSMSIG00000020293	Others	NA
+Mus_spicilegus	Cidea	ENSMSIG00000020323	Others	NA
+Mus_spicilegus	Hnrnpk	ENSMSIG00000020356	HNRNP	NA
+Mus_spicilegus	Dr1	ENSMSIG00000020419	Others	NA
+Mus_spicilegus	Wwox	ENSMSIG00000020449	WW	NA
+Mus_spicilegus	Med11	ENSMSIG00000020477	Mediator complex	NA
+Mus_spicilegus		ENSMSIG00000020483	Others	NA
+Mus_spicilegus	Med4	ENSMSIG00000020566	Mediator complex	NA
+Mus_spicilegus	Fam83g	ENSMSIG00000020601	FAM	NA
+Mus_spicilegus	Ash1l	ENSMSIG00000020662	Others	NA
+Mus_spicilegus	Phip	ENSMSIG00000020676	Others	NA
+Mus_spicilegus	Pphln1	ENSMSIG00000020713	Others	NA
+Mus_spicilegus	Cdyl2	ENSMSIG00000020716	Chromodomain Y	NA
+Mus_spicilegus	Prmt1	ENSMSIG00000020718	Arginine methyltransferase	NA
+Mus_spicilegus	Anp32b	ENSMSIG00000020720	ANP	NA
+Mus_spicilegus	Pcgf3	ENSMSIG00000020743	PCGF	NA
+Mus_spicilegus	Rbfox2	ENSMSIG00000020751	Others	NA
+Mus_spicilegus	Malt1	ENSMSIG00000020848	Others	NA
+Mus_spicilegus	Ankar	ENSMSIG00000020863	Ankyrin repeat	NA
+Mus_spicilegus	Dgkq	ENSMSIG00000020878	Others	NA
+Mus_spicilegus	Nlrp3	ENSMSIG00000020937	Others	NA
+Mus_spicilegus	Brd1	ENSMSIG00000021095	Bromodomain	NA
+Mus_spicilegus	Chchd2	ENSMSIG00000021109	Coiled-coil	NA
+Mus_spicilegus	Wnt3a	ENSMSIG00000021119	Others	NA
+Mus_spicilegus	Nelfa	ENSMSIG00000021131	GTF	NA
+Mus_spicilegus	Top1mt	ENSMSIG00000021154	Other_CRF	NA
+Mus_spicilegus	Polr3f	ENSMSIG00000021211	POLR	NA
+Mus_spicilegus	Med25	ENSMSIG00000021224	Mediator complex	NA
+Mus_spicilegus	Habp4	ENSMSIG00000021366	Others	NA
+Mus_spicilegus	Cggbp1	ENSMSIG00000021398	Others	NA
+Mus_spicilegus	Txnip	ENSMSIG00000021449	Others	NA
+Mus_spicilegus	Chd8	ENSMSIG00000021475	CHD	NA
+Mus_spicilegus	Rnf4	ENSMSIG00000021525	Ring finger protein	NA
+Mus_spicilegus	Supt16	ENSMSIG00000021570	SUPT	NA
+Mus_spicilegus		ENSMSIG00000021597	Others	NA
+Mus_spicilegus	Tnip2	ENSMSIG00000021599	Others	NA
+Mus_spicilegus		ENSMSIG00000021621	Others	NA
+Mus_spicilegus		ENSMSIG00000021633	TATA-box	NA
+Mus_spicilegus	Nup62	ENSMSIG00000021640	Others	NA
+Mus_spicilegus	Hdac10	ENSMSIG00000021649	Histone deacetylase	NA
+Mus_spicilegus	Trim11	ENSMSIG00000021692	Tripartite motif	NA
+Mus_spicilegus	Eya4	ENSMSIG00000021698	EYA	NA
+Mus_spicilegus	Nfkbiz	ENSMSIG00000021767	NFKB associated	NA
+Mus_spicilegus	Hnrnpc	ENSMSIG00000021798	HNRNP	NA
+Mus_spicilegus	Mrtfb	ENSMSIG00000021808	Others	NA
+Mus_spicilegus	Polr3c	ENSMSIG00000021829	POLR	NA
+Mus_spicilegus	Flii	ENSMSIG00000021934	Others	NA
+Mus_spicilegus	Kat6a	ENSMSIG00000021939	Lysine acetyltransferase	NA
+Mus_spicilegus	Gtf2f1	ENSMSIG00000021940	GTF	NA
+Mus_spicilegus	Ino80c	ENSMSIG00000021941	INO80 complex	NA
+Mus_spicilegus	Mllt1	ENSMSIG00000022050	GTF	NA
+Mus_spicilegus	Limd1	ENSMSIG00000022059	LIM	NA
+Mus_spicilegus		ENSMSIG00000022062	Others	NA
+Mus_spicilegus	Bcl9	ENSMSIG00000022077	BCL	NA
+Mus_spicilegus	Elp2	ENSMSIG00000022128	ELP	NA
+Mus_spicilegus	Smarca2	ENSMSIG00000022131	SWI/SNF	NA
+Mus_spicilegus	Chd1l	ENSMSIG00000022150	CHD	NA
+Mus_spicilegus		ENSMSIG00000022151	PHF	NA
+Mus_spicilegus	Ikbkb	ENSMSIG00000022158	Others	NA
+Mus_spicilegus	Mllt3	ENSMSIG00000022183	GTF	NA
+Mus_spicilegus		ENSMSIG00000022244	Others	NA
+Mus_spicilegus	Brca2	ENSMSIG00000022300	Others	NA
+Mus_spicilegus	Cnot11	ENSMSIG00000022348	CCR4-NOT	NA
+Mus_spicilegus	Mdm2	ENSMSIG00000022359	Others	NA
+Mus_spicilegus	Psip1	ENSMSIG00000022367	Others	NA
+Mus_spicilegus	Rbl2	ENSMSIG00000022400	Other_Co-activator/repressors	NA
+Mus_spicilegus	Slc25a15	ENSMSIG00000022423	SLC	NA
+Mus_spicilegus	Puf60	ENSMSIG00000022454	Others	NA
+Mus_spicilegus	Asf1a	ENSMSIG00000022467	Others	NA
+Mus_spicilegus		ENSMSIG00000022494	Mediator complex	NA
+Mus_spicilegus	Bcor	ENSMSIG00000022531	Other_Co-activator/repressors	NA
+Mus_spicilegus	Tarbp1	ENSMSIG00000022537	Others	NA
+Mus_spicilegus	Notch2	ENSMSIG00000022612	Notch	NA
+Mus_spicilegus	Edf1	ENSMSIG00000022614	Others	NA
+Mus_spicilegus	Chd9	ENSMSIG00000022627	CHD	NA
+Mus_spicilegus	Yap1	ENSMSIG00000022749	Others	NA
+Mus_spicilegus	H2az2	ENSMSIG00000022792	Others	NA
+Mus_spicilegus	Mdm4	ENSMSIG00000022799	Others	NA
+Mus_spicilegus		ENSMSIG00000022820	Others	NA
+Mus_spicilegus	Dpy30	ENSMSIG00000022833	Others	NA
+Mus_spicilegus	Vgll2	ENSMSIG00000022898	Vestigial like	NA
+Mus_spicilegus	Hira	ENSMSIG00000022901	Others	NA
+Mus_spicilegus		ENSMSIG00000022938	Actin	NA
+Mus_spicilegus	Nod2	ENSMSIG00000023038	Others	NA
+Mus_spicilegus	Brd7	ENSMSIG00000023142	Bromodomain	NA
+Mus_spicilegus	Pttg1	ENSMSIG00000023171	Others	NA
+Mus_spicilegus	Kdm5d	ENSMSIG00000023190	Lysine demethylase	NA
+Mus_spicilegus	Ss18l2	ENSMSIG00000023200	SS18	NA
+Mus_spicilegus	Nrip1	ENSMSIG00000023278	Nuclear receptor coactivator	NA
+Mus_spicilegus	Eya2	ENSMSIG00000023297	EYA	NA
+Mus_spicilegus	Rbbp5	ENSMSIG00000023316	RBBP	NA
+Mus_spicilegus	Nol11	ENSMSIG00000023320	Nuclear coactivator	NA
+Mus_spicilegus	Sirt2	ENSMSIG00000023341	Sirtuin	NA
+Mus_spicilegus	Trak1	ENSMSIG00000023343	Others	NA
+Mus_spicilegus	Parp10	ENSMSIG00000023344	PARP	NA
+Mus_spicilegus	Zmynd8	ENSMSIG00000023346	Zinc finger	NA
+Mus_spicilegus	Bptf	ENSMSIG00000023393	Bromodomain	NA
+Mus_spicilegus	Ankrd1	ENSMSIG00000023413	Ankyrin repeat	NA
+Mus_spicilegus	Cep290	ENSMSIG00000023414	Others	NA
+Mus_spicilegus	Pcgf5	ENSMSIG00000023434	PCGF	NA
+Mus_spicilegus		ENSMSIG00000023445	Nucleoplasmin	NA
+Mus_spicilegus	Nfkbib	ENSMSIG00000023464	NFKB associated	NA
+Mus_spicilegus	Dab2	ENSMSIG00000023466	Others	NA
+Mus_spicilegus	Fbxw11	ENSMSIG00000023614	Others	NA
+Mus_spicilegus	Dpf1	ENSMSIG00000023617	DPF	NA
+Mus_spicilegus	Nelfb	ENSMSIG00000023619	GTF	NA
+Mus_spicilegus	Nif3l1	ENSMSIG00000023627	Others	NA
+Mus_spicilegus	Orc2	ENSMSIG00000023700	Others	NA
+Mus_spicilegus	Ctbp2	ENSMSIG00000023710	Others	NA
+Mus_spicilegus	Supt3	ENSMSIG00000023732	SUPT	NA
+Mus_spicilegus	Kdm6a	ENSMSIG00000023773	Lysine demethylase	NA
+Mus_spicilegus	Tcea1	ENSMSIG00000023777	TEF	NA
+Mus_spicilegus	Btaf1	ENSMSIG00000023779	Others	NA
+Mus_spicilegus	Edrf1	ENSMSIG00000023786	Others	NA
+Mus_spicilegus	Smurf2	ENSMSIG00000023844	Others	NA
+Mus_spicilegus	Sdr16c5	ENSMSIG00000023861	Others	NA
+Mus_spicilegus	Axin1	ENSMSIG00000023878	Others	NA
+Mus_spicilegus	Ctnnd2	ENSMSIG00000024043	Casein	NA
+Mus_spicilegus		ENSMSIG00000024093	RNA helicase	NA
+Mus_spicilegus	Dhx33	ENSMSIG00000024114	RNA helicase	NA
+Mus_spicilegus	Tgfb1i1	ENSMSIG00000024124	Others	NA
+Mus_spicilegus	Med26	ENSMSIG00000024132	Mediator complex	NA
+Mus_spicilegus	C1qbp	ENSMSIG00000024150	Others	NA
+Mus_spicilegus	Ncoa3	ENSMSIG00000024153	Nuclear receptor coactivator	NA
+Mus_spicilegus	Cdk8	ENSMSIG00000024179	Cyclin	NA
+Mus_spicilegus	Rhoa	ENSMSIG00000024290	Others	NA
+Mus_spicilegus	Ice2	ENSMSIG00000024296	GTF	NA
+Mus_spicilegus	Rnf6	ENSMSIG00000024340	Ring finger protein	NA
+Mus_spicilegus	Ell2	ENSMSIG00000024417	GTF	NA
+Mus_spicilegus	Crk	ENSMSIG00000024436	Others	NA
+Mus_spicilegus	Tonsl	ENSMSIG00000024439	Others	NA
+Mus_spicilegus	Gtf2a2	ENSMSIG00000024440	GTF	NA
+Mus_spicilegus	Dapk3	ENSMSIG00000024443	Others	NA
+Mus_spicilegus	Tob2	ENSMSIG00000024481	Others	NA
+Mus_spicilegus		ENSMSIG00000024482	Nuclear coactivator	NA
+Mus_spicilegus		ENSMSIG00000024495	PHF	NA
+Mus_spicilegus	Rnf111	ENSMSIG00000024613	Ring finger protein	NA
+Mus_spicilegus	Pycard	ENSMSIG00000024621	Others	NA
+Mus_spicilegus	Fus	ENSMSIG00000024633	Others	NA
+Mus_spicilegus	Loxl2	ENSMSIG00000024664	Others	NA
+Mus_spicilegus	Setd2	ENSMSIG00000024689	SET	NA
+Mus_spicilegus	Prmt8	ENSMSIG00000024750	Arginine methyltransferase	NA
+Mus_spicilegus		ENSMSIG00000024767	Others	NA
+Mus_spicilegus	Ern1	ENSMSIG00000024769	Others	NA
+Mus_spicilegus	Mnat1	ENSMSIG00000024773	Others	NA
+Mus_spicilegus	Tesc	ENSMSIG00000024795	Others	NA
+Mus_spicilegus	Sltm	ENSMSIG00000024797	Others	NA
+Mus_spicilegus	Kat8	ENSMSIG00000024811	Lysine acetyltransferase	NA
+Mus_spicilegus	Topors	ENSMSIG00000024818	Others	NA
+Mus_spicilegus	Gps2	ENSMSIG00000024878	Others	NA
+Mus_spicilegus	Hdac8	ENSMSIG00000024883	Histone deacetylase	NA
+Mus_spicilegus	Ehmt1	ENSMSIG00000024910	Histone lysine methyltransferase	NA
+Mus_spicilegus	Med13l	ENSMSIG00000024947	Mediator complex	NA
+Mus_spicilegus	Csnk2a1	ENSMSIG00000025036	Casein	NA
+Mus_spicilegus	Smarcd2	ENSMSIG00000025057	SWI/SNF	NA
+Mus_spicilegus	Tcerg1	ENSMSIG00000025059	TEF	NA
+Mus_spicilegus	Per2	ENSMSIG00000025064	Others	NA
+Mus_spicilegus	Snd1	ENSMSIG00000025077	Others	NA
+Mus_spicilegus	Setd1a	ENSMSIG00000025107	SET	NA
+Mus_spicilegus	Kmt2e	ENSMSIG00000025111	Lysine methyltransferase	NA
+Mus_spicilegus	Tgfb1	ENSMSIG00000025220	Others	NA
+Mus_spicilegus	Camk2d	ENSMSIG00000025272	CAMK	NA
+Mus_spicilegus	Jak2	ENSMSIG00000025287	Others	NA
+Mus_spicilegus	Hltf	ENSMSIG00000025336	Others	NA
+Mus_spicilegus	Tcerg1l	ENSMSIG00000025406	TEF	NA
+Mus_spicilegus		ENSMSIG00000025412	Others	NA
+Mus_spicilegus	Fgf11	ENSMSIG00000025425	FGF	NA
+Mus_spicilegus	Polr2a	ENSMSIG00000025463	POLR	NA
+Mus_spicilegus	Xiap	ENSMSIG00000025506	Others	NA
+Mus_spicilegus	Fgf1	ENSMSIG00000025554	FGF	NA
+Mus_spicilegus	Tnks	ENSMSIG00000025573	Others	NA
+Mus_spicilegus	Esf1	ENSMSIG00000025596	Others	NA
+Mus_spicilegus	Pfdn5	ENSMSIG00000025610	Others	NA
+Mus_spicilegus	Fhl2	ENSMSIG00000025611	FHL	NA
+Mus_spicilegus	Rbpms	ENSMSIG00000025732	RNA binding protein	NA
+Mus_spicilegus	Rsf1	ENSMSIG00000025856	Others	NA
+Mus_spicilegus	Vhl	ENSMSIG00000025959	Others	NA
+Mus_spicilegus	Hdac3	ENSMSIG00000026000	Histone deacetylase	NA
+Mus_spicilegus	Taf1b	ENSMSIG00000026008	TATA-box	NA
+Mus_spicilegus	Ccnh	ENSMSIG00000026024	Cyclin	NA
+Mus_spicilegus		ENSMSIG00000026028	Others	NA
+Mus_spicilegus	Srfbp1	ENSMSIG00000026058	Others	NA
+Mus_spicilegus	Ccnt2	ENSMSIG00000026074	Cyclin	NA
+Mus_spicilegus	Med6	ENSMSIG00000026084	Mediator complex	NA
+Mus_spicilegus	Morf4l1	ENSMSIG00000026191	Other_CRF	NA
+Mus_spicilegus	Rnf14	ENSMSIG00000026210	Ring finger protein	NA
+Mus_spicilegus	Rap2a	ENSMSIG00000026221	Others	NA
+Mus_spicilegus	Kdm6b	ENSMSIG00000026234	Lysine demethylase	NA
+Mus_spicilegus	Utf1	ENSMSIG00000026269	Others	NA
+Mus_spicilegus	Chd3	ENSMSIG00000026278	CHD	NA
+Mus_spicilegus	Med12l	ENSMSIG00000026353	Mediator complex	NA
+Mus_spicilegus	Ctnnb1	ENSMSIG00000026366	Casein	NA
+Mus_spicilegus	Supt4a	ENSMSIG00000026368	SUPT	NA
+Mus_spicilegus	Ino80	ENSMSIG00000026377	INO80 complex	NA
+Mus_spicilegus	Scai	ENSMSIG00000026395	Others	NA
+Mus_spicilegus	Wdtc1	ENSMSIG00000026410	WD	NA
+Mus_spicilegus	Jmjd6	ENSMSIG00000026419	Others	NA
+Mus_spicilegus	Srsf2	ENSMSIG00000026470	Others	NA
+Mus_spicilegus	Med24	ENSMSIG00000026495	Mediator complex	NA
+Mus_spicilegus	Rtf1	ENSMSIG00000026687	Others	NA
+Mus_spicilegus	Wwp1	ENSMSIG00000026696	WW	NA
+Mus_spicilegus	Crebbp	ENSMSIG00000026704	CREB	NA
+Mus_spicilegus	Rnf20	ENSMSIG00000026724	Ring finger protein	NA
+Mus_spicilegus	Emsy	ENSMSIG00000026804	Others	NA
+Mus_spicilegus	Tada3	ENSMSIG00000026832	Transcriptional adaptor	NA
+Mus_spicilegus	Sin3b	ENSMSIG00000026848	Others	NA
+Mus_spicilegus	Dnaja3	ENSMSIG00000026968	Others	NA
+Mus_spicilegus	Rad21	ENSMSIG00000027003	Others	NA
+Mus_spicilegus	Pygo2	ENSMSIG00000027012	Others	NA
+Mus_spicilegus	Pbxip1	ENSMSIG00000027031	Others	NA
+Mus_spicilegus	Atf7ip	ENSMSIG00000027046	Others	NA
+Mus_spicilegus	Egln2	ENSMSIG00000027049	Others	NA
+Mus_spicilegus	Lmo1	ENSMSIG00000027214	LIM	NA
+Mus_spicilegus	Nelfcd	ENSMSIG00000027285	GTF	NA
+Mus_spicilegus	Hdac7	ENSMSIG00000027292	Histone deacetylase	NA
+Mus_spicilegus	Phf10	ENSMSIG00000027316	PHF	NA
+Mus_spicilegus	Fhl5	ENSMSIG00000027349	FHL	NA
+Mus_spicilegus		ENSMSIG00000027353	WW	NA
+Mus_spicilegus	Ufl1	ENSMSIG00000027364	Others	NA
+Mus_spicilegus		ENSMSIG00000027402	Others	NA
+Mus_spicilegus	Taf3	ENSMSIG00000027422	TATA-box	NA
+Mus_spicilegus	Ino80e	ENSMSIG00000027512	INO80 complex	NA
+Mus_spicilegus	Pidd1	ENSMSIG00000027540	Others	NA
+Mus_spicilegus	Cnot6l	ENSMSIG00000027638	CCR4-NOT	NA
+Mus_spicilegus	Sertad3	ENSMSIG00000027658	Others	NA
+Mus_spicilegus	L3mbtl2	ENSMSIG00000027660	Others	NA
+Mus_spicilegus	Cenpu	ENSMSIG00000027669	CENP	NA
+Mus_spicilegus	Hexim2	ENSMSIG00000027714	Others	NA
+Mus_spicilegus	Hexim1	ENSMSIG00000027717	Others	NA
+Mus_spicilegus	Ascc2	ENSMSIG00000027728	ASCC	NA
+Mus_spicilegus	Rprd1b	ENSMSIG00000027745	Others	NA
+Mus_spicilegus	Lmcd1	ENSMSIG00000027786	LIM	NA
+Mus_spicilegus	Apbb1	ENSMSIG00000027795	Others	NA
+Mus_spicilegus	Src	ENSMSIG00000027828	Others	NA
+Mus_spicilegus		ENSMSIG00000027832	CREB	NA
+Mus_spicilegus	Chd1	ENSMSIG00000027903	CHD	NA
+Mus_spicilegus	Tasor	ENSMSIG00000027932	FAM	NA
+Mus_spicilegus	Lbh	ENSMSIG00000027946	Others	NA
+Mus_spicilegus	Kat2b	ENSMSIG00000027955	Lysine acetyltransferase	NA
+Mus_spicilegus	Pramel13	ENSMSIG00000027965	Others	NA
+Mus_spicilegus	Tbp	ENSMSIG00000027981	TATA-box	NA
+Mus_spicilegus		ENSMSIG00000028005	SAP	NA
+Mus_spicilegus	Recql5	ENSMSIG00000028015	Others	NA
+Mus_spicilegus	Smarca5	ENSMSIG00000028055	SWI/SNF	NA
+Mus_spicilegus	Atxn7l3	ENSMSIG00000028080	Others	NA
+Mus_spicilegus	Hdac5	ENSMSIG00000028119	Histone deacetylase	NA
+Mus_spicilegus	Ilk	ENSMSIG00000028162	Others	NA
+Mus_spicilegus	Rnf141	ENSMSIG00000028164	Ring finger protein	NA
+Mus_spicilegus	Gmnn	ENSMSIG00000028174	Others	NA
+Mus_spicilegus	Taf10	ENSMSIG00000028175	TATA-box	NA
+Mus_spicilegus	Tdp2	ENSMSIG00000028204	Others	NA
+Mus_spicilegus	Ctr9	ENSMSIG00000028218	Others	NA
+Mus_spicilegus	Notch1	ENSMSIG00000028222	Notch	NA
+Mus_spicilegus	Plk1	ENSMSIG00000028255	Others	NA
+Mus_spicilegus	Actr8	ENSMSIG00000028385	ACTR	NA
+Mus_spicilegus	Rbx1	ENSMSIG00000028515	Others	NA
+Mus_spicilegus	Ankra2	ENSMSIG00000028570	Ankyrin repeat	NA
+Mus_spicilegus	Trp53bp1	ENSMSIG00000028574	Others	NA
+Mus_spicilegus	Mrtfa	ENSMSIG00000028601	Others	NA
+Mus_spicilegus		ENSMSIG00000028616	Others	NA
+Mus_spicilegus	Ywhab	ENSMSIG00000028646	Others	NA
+Mus_spicilegus	Pabpc1l	ENSMSIG00000028649	Other_CRF	NA
+Mus_spicilegus	Phf2	ENSMSIG00000028741	PHF	NA
+Mus_spicilegus	Bdp1	ENSMSIG00000028772	GTF	NA
+Mus_spicilegus	Uri1	ENSMSIG00000028815	Others	NA
+Mus_spicilegus	Ccne1	ENSMSIG00000028826	Cyclin	NA
+Mus_spicilegus	Chchd3	ENSMSIG00000028865	Coiled-coil	NA
+Mus_spicilegus	Pawr	ENSMSIG00000028867	Others	NA
+Mus_spicilegus	Sfmbt1	ENSMSIG00000028879	Others	NA
+Mus_spicilegus	Tab1	ENSMSIG00000028888	Others	NA
+Mus_spicilegus	Ell3	ENSMSIG00000028902	GTF	NA
+Mus_spicilegus		ENSMSIG00000028912	Others	NA
+Mus_spicilegus	Cbx7	ENSMSIG00000028925	Chromobox	NA
+Mus_spicilegus	Gtf2h2	ENSMSIG00000028931	GTF	NA
+Mus_spicilegus	Sav1	ENSMSIG00000028944	Others	NA
+Mus_spicilegus	Bud31	ENSMSIG00000028973	Others	NA
+Mus_spicilegus	Smurf1	ENSMSIG00000029028	Others	NA
+Mus_spicilegus	Brf1	ENSMSIG00000029057	GTF	NA
+Mus_spicilegus	Trrap	ENSMSIG00000029078	Others	NA
+Mus_spicilegus	Rita1	ENSMSIG00000029144	Others	NA
+Mus_spicilegus	Ddx54	ENSMSIG00000029149	RNA helicase	NA
+Mus_spicilegus	Gnl3	ENSMSIG00000029154	Others	NA
+Mus_spicilegus	Dtx1	ENSMSIG00000029171	Others	NA
+Mus_spicilegus	Slc19a1	ENSMSIG00000029222	SLC	NA
+Mus_spicilegus	Pmf1	ENSMSIG00000029235	Others	NA
+Mus_spicilegus	Cited2	ENSMSIG00000029240	CITED	NA
+Mus_spicilegus	Dhx36	ENSMSIG00000029300	RNA helicase	NA
+Mus_spicilegus	Rbmx	ENSMSIG00000029350	RNA binding protein	NA
+Mus_spicilegus	Mtpn	ENSMSIG00000029374	Others	NA
+Mus_spicilegus	Sgk1	ENSMSIG00000029394	Others	NA
+Mus_spicilegus	Epc2	ENSMSIG00000029405	Others	NA
+Mus_spicilegus	Tle2	ENSMSIG00000029418	Transducin	NA
+Mus_spicilegus	Smyd2	ENSMSIG00000029433	SMYD	NA
+Mus_spicilegus	Cenpf	ENSMSIG00000029453	CENP	NA
+Mus_spicilegus	Sirt6	ENSMSIG00000029480	Sirtuin	NA
+Mus_spicilegus	Trim24	ENSMSIG00000029525	Tripartite motif	NA
+Mus_spicilegus	Actb	ENSMSIG00000029528	Actin	NA
+Mus_spicilegus	Ccnd1	ENSMSIG00000029529	Cyclin	NA
+Mus_spicilegus	Wwtr1	ENSMSIG00000029692	WW	NA
+Mus_spicilegus	Med28	ENSMSIG00000029693	Mediator complex	NA
+Mus_spicilegus	Leo1	ENSMSIG00000029699	Others	NA
+Mus_spicilegus	Ldb2	ENSMSIG00000029731	LIM	NA
+Mus_spicilegus	Cry1	ENSMSIG00000029783	Others	NA
+Mus_spicilegus	Ash2l	ENSMSIG00000029803	Others	NA
+Mus_spicilegus	Frk	ENSMSIG00000029824	Others	NA
+Mus_spicilegus	Cxxc5	ENSMSIG00000029839	Others	NA
+Mus_spicilegus	Zcchc12	ENSMSIG00000029923	Zinc finger	NA
+Mus_spicilegus	Trim6	ENSMSIG00000029929	Tripartite motif	NA
+Mus_spicilegus	Zfp703	ENSMSIG00000030035	Zinc finger	NA
+Mus_spicilegus	Maged1	ENSMSIG00000030050	MAGE	NA
+Mus_spicilegus	Brf2	ENSMSIG00000030061	GTF	NA
+Mus_spicilegus	Sf1	ENSMSIG00000030063	Others	NA
+Mus_spicilegus	Dusp26	ENSMSIG00000030077	Others	NA
+Mus_spicilegus	Men1	ENSMSIG00000030097	Others	NA
+Mus_spicilegus		ENSMSIG00000030103	Others	NA
+Mus_spicilegus	Bend3	ENSMSIG00000030306	Others	NA
+Mus_spicilegus	Dpf2	ENSMSIG00000030307	DPF	NA
+Mus_spicilegus		ENSMSIG00000030338	Cyclin	NA
+Mus_spicilegus	Nrbf2	ENSMSIG00000030387	Nuclear receptor coactivator	NA
+Mus_spicilegus	Jmjd1c	ENSMSIG00000030391	Other_CRF	NA
+Mus_spicilegus	Ccar1	ENSMSIG00000030418	Others	NA
+Mus_spicilegus	Ccar2	ENSMSIG00000030448	Others	NA
+Mus_spicilegus	Ddx1	ENSMSIG00000030451	RNA helicase	NA
+Mus_spicilegus	Ercc3	ENSMSIG00000030584	Others	NA
+Mus_spicilegus	Macroh2a2	ENSMSIG00000030618	Others	NA
+Mus_spicilegus	Trim25	ENSMSIG00000030740	Tripartite motif	NA
+Mus_spicilegus	Tle1	ENSMSIG00000030761	Transducin	NA
+Mus_spicilegus	Baz1a	ENSMSIG00000030780	Bromodomain	NA
+Mus_spicilegus	Chd7	ENSMSIG00000030784	CHD	NA
+Mus_spicilegus	Senp1	ENSMSIG00000030788	Others	NA
+Mus_spicilegus	Snx6	ENSMSIG00000030794	Others	NA
+Mus_spicilegus	Sap30l	ENSMSIG00000030808	SAP	NA
+Mus_spicilegus	Trip11	ENSMSIG00000030814	Thyroid hormone receptor	NA
+Mus_spicilegus	Rybp	ENSMSIG00000030836	Others	NA
+Mus_spicilegus	Ssbp2	ENSMSIG00000030895	Others	NA
+Mus_spicilegus	Nipbl	ENSMSIG00000030991	Others	NA
+Mus_spicilegus	Snapc2	ENSMSIG00000031008	Others	NA
+Mus_spicilegus	Abra	ENSMSIG00000031032	Actin	NA
+Mus_spicilegus	Ncoa2	ENSMSIG00000031066	Nuclear receptor coactivator	NA
+Mus_spicilegus	Nedd8	ENSMSIG00000031128	Others	NA
+Mus_spicilegus	Npm2	ENSMSIG00000031136	Nucleoplasmin	NA
+Mus_spicilegus	Ripk3	ENSMSIG00000031143	Others	NA
+Mus_spicilegus	Hr	ENSMSIG00000031176	Lysine methyltransferase	NA
+Mus_spicilegus	Taf6l	ENSMSIG00000031216	TATA-box	NA
+Mus_spicilegus	Pdcd4	ENSMSIG00000031298	Others	NA
+Mus_spicilegus	Zfp638	ENSMSIG00000031402	Zinc finger	NA
+Mus_spicilegus	Sfr1	ENSMSIG00000031436	Others	NA
+Mus_spicilegus	Taf5	ENSMSIG00000031481	TATA-box	NA
+Mus_spicilegus	Pcgf6	ENSMSIG00000031488	PCGF	NA
+Mus_spicilegus	Ino80b	ENSMSIG00000031570	INO80 complex	NA
+Mus_spicilegus	Pcgf1	ENSMSIG00000031584	PCGF	NA
+Mus_spicilegus	Loxl3	ENSMSIG00000031591	Others	NA
+Mus_spicilegus	Actl6a	ENSMSIG00000031649	Actin	NA
+Mus_spicilegus		ENSMSIG00000031651	Others	NA
+Mus_spicilegus	Hdgf	ENSMSIG00000031683	Others	NA
+Mus_spicilegus	Taf8	ENSMSIG00000031720	TATA-box	NA
+Mus_spicilegus	Med20	ENSMSIG00000031732	Mediator complex	NA
+Mus_spicilegus	Mdfi	ENSMSIG00000031746	Others	NA
+Mus_spicilegus	Ccdc59	ENSMSIG00000031800	Coiled-coil	NA
+Mus_spicilegus	Kdm5a	ENSMSIG00000031844	Lysine demethylase	NA
+Mus_spicilegus	Commd1	ENSMSIG00000031866	Others	NA
+Mus_spicilegus	Sap130	ENSMSIG00000031894	SAP	NA
+Mus_spicilegus	Vgll4	ENSMSIG00000031930	Vestigial like	NA
+Mus_spicilegus	Ascc3	ENSMSIG00000031949	ASCC	NA
+Mus_spicilegus	Depdc1a	ENSMSIG00000031994	Others	NA
+Mus_spicilegus	Aim2	ENSMSIG00000031998	Others	NA
+Mus_spicilegus	Ifi209	ENSMSIG00000032000	Others	NA
+Mus_spicilegus	Dppa4	ENSMSIG00000032022	Others	NA
+Mus_spicilegus		ENSMSIG00000032023	Others	NA
+Mus_spicilegus	Ndufa13	ENSMSIG00000032033	Others	NA
+Mus_spicilegus	Crtc1	ENSMSIG00000032058	CREB	NA
+Mus_spicilegus	Ell	ENSMSIG00000032065	GTF	NA
+Mus_spicilegus	Pik3r2	ENSMSIG00000032078	Others	NA
+Mus_spicilegus		ENSMSIG00000032151	Others	NA
+Mus_spicilegus	Rbm15	ENSMSIG00000032155	RNA binding protein	NA
+Mus_spicilegus	Lrif1	ENSMSIG00000032169	Others	NA
+Mus_spicilegus	Med7	ENSMSIG00000032194	Mediator complex	NA

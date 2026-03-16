@@ -1,0 +1,740 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Takifugu_rubripes	RBPMS	ENSTRUG00000000041	RNA binding protein	101072423
+Takifugu_rubripes	nab1a	ENSTRUG00000000082	Others	NA
+Takifugu_rubripes	aatf	ENSTRUG00000000154	Others	101069284
+Takifugu_rubripes	wnt4	ENSTRUG00000000172	Others	101068089
+Takifugu_rubripes	pex2	ENSTRUG00000000192	Others	101072624
+Takifugu_rubripes	kdm5c	ENSTRUG00000000305	Lysine demethylase	101076258
+Takifugu_rubripes	hells	ENSTRUG00000000350	Others	101076259
+Takifugu_rubripes	cnot8	ENSTRUG00000000395	CCR4-NOT	105417460
+Takifugu_rubripes	ela3l	ENSTRUG00000000454	Others	NA
+Takifugu_rubripes	dvl3a	ENSTRUG00000000483	Others	101065936
+Takifugu_rubripes	hnrpkl	ENSTRUG00000000535	HNRNP	101076991
+Takifugu_rubripes	phip	ENSTRUG00000000577	Others	101071169
+Takifugu_rubripes	nrbf2b	ENSTRUG00000000608	Nuclear receptor coactivator	101075866
+Takifugu_rubripes	sap130a	ENSTRUG00000000628	SAP	101078792
+Takifugu_rubripes	wwc1	ENSTRUG00000000744	WW	101078552
+Takifugu_rubripes	jmjd6	ENSTRUG00000000851	Others	101080088
+Takifugu_rubripes	kdm3b	ENSTRUG00000000867	Lysine demethylase	101066593
+Takifugu_rubripes	mad2l2	ENSTRUG00000000942	Others	101066699
+Takifugu_rubripes	fgf5	ENSTRUG00000000972	FGF	101075104
+Takifugu_rubripes		ENSTRUG00000000978	Transducin	101078578
+Takifugu_rubripes	brd1a	ENSTRUG00000001000	Bromodomain	101076215
+Takifugu_rubripes	taf9	ENSTRUG00000001054	TATA-box	NA
+Takifugu_rubripes	fbxw11a	ENSTRUG00000001126	Others	101067263
+Takifugu_rubripes	arrb2a	ENSTRUG00000001204	Others	101076921
+Takifugu_rubripes	dhx36	ENSTRUG00000001230	RNA helicase	101079147
+Takifugu_rubripes	snrnp200	ENSTRUG00000001307	ASCC	101078349
+Takifugu_rubripes	ehmt2	ENSTRUG00000001392	Histone lysine methyltransferase	101076450
+Takifugu_rubripes	hsbp1b	ENSTRUG00000001395	Heat shock protein	NA
+Takifugu_rubripes	cideb	ENSTRUG00000001434	Others	NA
+Takifugu_rubripes	nol11	ENSTRUG00000001515	Nuclear coactivator	101065483
+Takifugu_rubripes	ing3	ENSTRUG00000001599	ING	101076162
+Takifugu_rubripes	hck	ENSTRUG00000001630	Others	NA
+Takifugu_rubripes	plk3	ENSTRUG00000001633	Others	NA
+Takifugu_rubripes	TAF12	ENSTRUG00000001648	TATA-box	NA
+Takifugu_rubripes		ENSTRUG00000001671	Others	101077379
+Takifugu_rubripes	runx1t1	ENSTRUG00000001804	Others	101078656
+Takifugu_rubripes	cry3a	ENSTRUG00000001852	Others	101079934
+Takifugu_rubripes	ufl1	ENSTRUG00000001855	Others	101071247
+Takifugu_rubripes	elp1	ENSTRUG00000001880	ELP	101063031
+Takifugu_rubripes	edrf1	ENSTRUG00000001948	Others	101063417
+Takifugu_rubripes	supt16h	ENSTRUG00000001952	SUPT	101068554
+Takifugu_rubripes	cdk5r1b	ENSTRUG00000001984	Cyclin	101068959
+Takifugu_rubripes	auts2a	ENSTRUG00000002035	Others	101067208
+Takifugu_rubripes	clu	ENSTRUG00000002065	Others	101070794
+Takifugu_rubripes		ENSTRUG00000002067	Casein	101072653
+Takifugu_rubripes	supt20	ENSTRUG00000002073	SUPT	101075837
+Takifugu_rubripes	trak1a	ENSTRUG00000002103	Others	101064093
+Takifugu_rubripes	dhx9	ENSTRUG00000002136	RNA helicase	101061920
+Takifugu_rubripes	kdm5a	ENSTRUG00000002183	Lysine demethylase	101077353
+Takifugu_rubripes	prmt5	ENSTRUG00000002234	Arginine methyltransferase	101076778
+Takifugu_rubripes	gtf2b	ENSTRUG00000002246	GTF	NA
+Takifugu_rubripes	ino80b	ENSTRUG00000002278	INO80 complex	101061686
+Takifugu_rubripes	abt1	ENSTRUG00000002298	Others	101080100
+Takifugu_rubripes	gsk3bb	ENSTRUG00000002302	Others	NA
+Takifugu_rubripes	cnot7	ENSTRUG00000002353	CCR4-NOT	101064780
+Takifugu_rubripes	DDX5	ENSTRUG00000002356	RNA helicase	101065169
+Takifugu_rubripes	supt5h	ENSTRUG00000002370	SUPT	101064061
+Takifugu_rubripes	ikbkg	ENSTRUG00000002414	Others	NA
+Takifugu_rubripes	tprb	ENSTRUG00000002419	Others	101065714
+Takifugu_rubripes		ENSTRUG00000002476	Others	NA
+Takifugu_rubripes	ing4	ENSTRUG00000002482	ING	101066650
+Takifugu_rubripes		ENSTRUG00000002497	Others	101064371
+Takifugu_rubripes	psen1	ENSTRUG00000002589	Others	101077303
+Takifugu_rubripes	txlng	ENSTRUG00000002592	Others	101078216
+Takifugu_rubripes	DGKQ	ENSTRUG00000002613	Others	101071318
+Takifugu_rubripes	nup98	ENSTRUG00000002669	Others	101067065
+Takifugu_rubripes	niban2b	ENSTRUG00000002706	FAM	NA
+Takifugu_rubripes	SGK1	ENSTRUG00000002784	Others	101075473
+Takifugu_rubripes	cnot6b	ENSTRUG00000002818	CCR4-NOT	101072935
+Takifugu_rubripes	trim25	ENSTRUG00000002882	Tripartite motif	101076539
+Takifugu_rubripes	vgll4b	ENSTRUG00000002884	Vestigial like	101061667
+Takifugu_rubripes	TENM2	ENSTRUG00000002890	Others	101076136
+Takifugu_rubripes	prpf6	ENSTRUG00000002920	Others	101065053
+Takifugu_rubripes	rbm15	ENSTRUG00000002921	RNA binding protein	101071941
+Takifugu_rubripes	cnot2	ENSTRUG00000002924	CCR4-NOT	NA
+Takifugu_rubripes	cdk1	ENSTRUG00000003059	Cyclin	101064374
+Takifugu_rubripes	taf7	ENSTRUG00000003067	TATA-box	101062632
+Takifugu_rubripes	csnk2a4	ENSTRUG00000003103	Casein	NA
+Takifugu_rubripes	elp3	ENSTRUG00000003113	ELP	NA
+Takifugu_rubripes	cbx5	ENSTRUG00000003115	Chromobox	101078224
+Takifugu_rubripes	creg1	ENSTRUG00000003275	Others	NA
+Takifugu_rubripes	maml3	ENSTRUG00000003286	MAML	105418907
+Takifugu_rubripes	erbin	ENSTRUG00000003320	Erbb2	NA
+Takifugu_rubripes	dhx33	ENSTRUG00000003395	RNA helicase	101076230
+Takifugu_rubripes	txnipa	ENSTRUG00000003416	Others	101071854
+Takifugu_rubripes		ENSTRUG00000003423	PARP	101068877
+Takifugu_rubripes	abrab	ENSTRUG00000003433	Actin	101063662
+Takifugu_rubripes	ecd	ENSTRUG00000003434	Others	101065806
+Takifugu_rubripes	kdm4b	ENSTRUG00000003495	Lysine demethylase	101065945
+Takifugu_rubripes	actr5	ENSTRUG00000003498	ACTR	101063614
+Takifugu_rubripes	ctnnb1	ENSTRUG00000003520	Casein	101077931
+Takifugu_rubripes	tob1b	ENSTRUG00000003534	Others	NA
+Takifugu_rubripes	med18	ENSTRUG00000003541	Mediator complex	NA
+Takifugu_rubripes	safb	ENSTRUG00000003567	Others	101068864
+Takifugu_rubripes	waca	ENSTRUG00000003570	WW	101069705
+Takifugu_rubripes	tbpl1	ENSTRUG00000003677	TATA-box	100101453
+Takifugu_rubripes	siah1	ENSTRUG00000003707	Others	NA
+Takifugu_rubripes	orc2	ENSTRUG00000003785	Others	101078119
+Takifugu_rubripes	cd3g/d	ENSTRUG00000003789	Others	654302
+Takifugu_rubripes	setd3	ENSTRUG00000003791	SET	101067589
+Takifugu_rubripes	med30	ENSTRUG00000003806	Mediator complex	101077865
+Takifugu_rubripes	wwp2	ENSTRUG00000003922	WW	NA
+Takifugu_rubripes	rnf25	ENSTRUG00000003923	Ring finger protein	101066531
+Takifugu_rubripes	ncoa4	ENSTRUG00000003924	Nuclear receptor coactivator	NA
+Takifugu_rubripes	cdk8	ENSTRUG00000003969	Cyclin	101062477
+Takifugu_rubripes	ripk2	ENSTRUG00000003970	Others	NA
+Takifugu_rubripes	eya4	ENSTRUG00000003990	EYA	101062779
+Takifugu_rubripes	KDM1B	ENSTRUG00000004004	Lysine demethylase	101065716
+Takifugu_rubripes	bmi1a	ENSTRUG00000004011	Others	101067697
+Takifugu_rubripes	aip	ENSTRUG00000004014	Others	101062286
+Takifugu_rubripes	cdyl	ENSTRUG00000004028	Chromodomain Y	101070176
+Takifugu_rubripes	cdk5	ENSTRUG00000004034	Cyclin	101063018
+Takifugu_rubripes		ENSTRUG00000004064	Others	NA
+Takifugu_rubripes	actbc	ENSTRUG00000004099	Actin	101069102
+Takifugu_rubripes	phf2	ENSTRUG00000004130	PHF	NA
+Takifugu_rubripes	vgll3	ENSTRUG00000004178	Vestigial like	105417430
+Takifugu_rubripes	hipk3b	ENSTRUG00000004241	HIPK	101073648
+Takifugu_rubripes	apex1	ENSTRUG00000004268	Others	101069391
+Takifugu_rubripes	hdac6	ENSTRUG00000004270	Histone deacetylase	101079879
+Takifugu_rubripes	med17	ENSTRUG00000004276	Mediator complex	101076652
+Takifugu_rubripes	erbb2	ENSTRUG00000004330	Erbb2	101074842
+Takifugu_rubripes	cnot6l	ENSTRUG00000004332	CCR4-NOT	NA
+Takifugu_rubripes	brms1lb	ENSTRUG00000004343	Other_CRF	NA
+Takifugu_rubripes	lgals9l3	ENSTRUG00000004388	Others	NA
+Takifugu_rubripes		ENSTRUG00000004392	ANP	NA
+Takifugu_rubripes	SFMBT1	ENSTRUG00000004422	Others	101063306
+Takifugu_rubripes	pak6b	ENSTRUG00000004444	Others	105418661
+Takifugu_rubripes	trim16	ENSTRUG00000004451	Tripartite motif	101065334
+Takifugu_rubripes	calcoco1a	ENSTRUG00000004537	Others	101078522
+Takifugu_rubripes		ENSTRUG00000004597	Others	NA
+Takifugu_rubripes	smurf1	ENSTRUG00000004668	Others	NA
+Takifugu_rubripes	loxl2b	ENSTRUG00000004680	Others	NA
+Takifugu_rubripes	brd2a	ENSTRUG00000004723	Bromodomain	NA
+Takifugu_rubripes	depdc1a	ENSTRUG00000004792	Others	101061827
+Takifugu_rubripes	banp	ENSTRUG00000004864	Others	101063429
+Takifugu_rubripes	smarca4a	ENSTRUG00000004885	SWI/SNF	101069734
+Takifugu_rubripes	ilf2	ENSTRUG00000004888	Others	101072968
+Takifugu_rubripes	FLNB	ENSTRUG00000005042	Others	101067631
+Takifugu_rubripes	ruvbl2	ENSTRUG00000005100	Other_CRF	115252686
+Takifugu_rubripes	snapc2	ENSTRUG00000005122	Others	NA
+Takifugu_rubripes	rbl1	ENSTRUG00000005130	Other_Co-activator/repressors	101077660
+Takifugu_rubripes	mak	ENSTRUG00000005187	Others	101079222
+Takifugu_rubripes	dnajb1b	ENSTRUG00000005217	Others	101074424
+Takifugu_rubripes	grip1	ENSTRUG00000005225	Others	101073241
+Takifugu_rubripes	skila	ENSTRUG00000005233	SKI	101079780
+Takifugu_rubripes	smarcd2	ENSTRUG00000005247	SWI/SNF	NA
+Takifugu_rubripes	jade1	ENSTRUG00000005254	Others	101064531
+Takifugu_rubripes	mtf2	ENSTRUG00000005257	Others	101078648
+Takifugu_rubripes	btaf1	ENSTRUG00000005368	Others	101072155
+Takifugu_rubripes	STRN	ENSTRUG00000005371	Others	101067066
+Takifugu_rubripes	hdac4	ENSTRUG00000005375	Histone deacetylase	101072308
+Takifugu_rubripes		ENSTRUG00000005389	Mediator complex	101065825
+Takifugu_rubripes		ENSTRUG00000005392	Others	NA
+Takifugu_rubripes	prmt7	ENSTRUG00000005405	Arginine methyltransferase	NA
+Takifugu_rubripes	sirt2	ENSTRUG00000005408	Sirtuin	101073832
+Takifugu_rubripes	puf60b	ENSTRUG00000005420	Others	101067930
+Takifugu_rubripes	pim1	ENSTRUG00000005490	Others	101074997
+Takifugu_rubripes	TGFB1I1	ENSTRUG00000005520	Others	101075503
+Takifugu_rubripes	gnl3	ENSTRUG00000005552	Others	101079923
+Takifugu_rubripes	nono	ENSTRUG00000005554	Others	101061987
+Takifugu_rubripes	dcc	ENSTRUG00000005560	Others	101079817
+Takifugu_rubripes	picalmb	ENSTRUG00000005633	Others	101070062
+Takifugu_rubripes	atad2b	ENSTRUG00000005641	Others	101077123
+Takifugu_rubripes	sap30bp	ENSTRUG00000005672	SAP	NA
+Takifugu_rubripes	lmcd1	ENSTRUG00000005704	LIM	101062803
+Takifugu_rubripes	actn3b	ENSTRUG00000005731	Actin	101079713
+Takifugu_rubripes	si:ch1073-459j12.1	ENSTRUG00000005739	Others	101062215
+Takifugu_rubripes	paf1	ENSTRUG00000005752	Others	101073074
+Takifugu_rubripes	slc26a3.2	ENSTRUG00000005804	SLC	101065788
+Takifugu_rubripes	baz1b	ENSTRUG00000005817	Bromodomain	101067874
+Takifugu_rubripes	rnf8	ENSTRUG00000005824	Ring finger protein	101071378
+Takifugu_rubripes	prkcbp1l	ENSTRUG00000005834	Zinc finger	NA
+Takifugu_rubripes	gtf2h2	ENSTRUG00000005929	GTF	115247568
+Takifugu_rubripes	src	ENSTRUG00000005980	Others	101065281
+Takifugu_rubripes	wdr5	ENSTRUG00000005982	WD	NA
+Takifugu_rubripes	maml1	ENSTRUG00000005986	MAML	101079635
+Takifugu_rubripes	seta	ENSTRUG00000006019	SET	101067281
+Takifugu_rubripes	rbmx	ENSTRUG00000006031	RNA binding protein	101063071
+Takifugu_rubripes	SAMD4B	ENSTRUG00000006063	Others	NA
+Takifugu_rubripes	mbtd1	ENSTRUG00000006077	Others	101077143
+Takifugu_rubripes	cnot10	ENSTRUG00000006110	CCR4-NOT	101065747
+Takifugu_rubripes	actr8	ENSTRUG00000006146	ACTR	101062527
+Takifugu_rubripes	brca2	ENSTRUG00000006177	Others	101079601
+Takifugu_rubripes	mrgbp	ENSTRUG00000006219	Others	101061535
+Takifugu_rubripes	ppie	ENSTRUG00000006308	Others	101068130
+Takifugu_rubripes	supt3h	ENSTRUG00000006325	SUPT	101069128
+Takifugu_rubripes	frk	ENSTRUG00000006360	Others	101079027
+Takifugu_rubripes	plrg1	ENSTRUG00000006373	Others	NA
+Takifugu_rubripes	gtf2f1	ENSTRUG00000006429	GTF	101065968
+Takifugu_rubripes	dapk3	ENSTRUG00000006459	Others	NA
+Takifugu_rubripes	taf1a	ENSTRUG00000006488	TATA-box	105417585
+Takifugu_rubripes	suv39h1a	ENSTRUG00000006495	Others	NA
+Takifugu_rubripes	nlk2	ENSTRUG00000006607	Others	NA
+Takifugu_rubripes	raf1a	ENSTRUG00000006611	Others	654310
+Takifugu_rubripes	gtf2h3	ENSTRUG00000006621	GTF	101072731
+Takifugu_rubripes	tenm1	ENSTRUG00000006641	Others	101068537
+Takifugu_rubripes	chd8	ENSTRUG00000006682	CHD	NA
+Takifugu_rubripes	dnaja3a	ENSTRUG00000006749	Others	101079508
+Takifugu_rubripes	HDAC2	ENSTRUG00000006770	Histone deacetylase	101079482
+Takifugu_rubripes	prmt8b	ENSTRUG00000006797	Arginine methyltransferase	101071885
+Takifugu_rubripes	camk2d2	ENSTRUG00000006806	CAMK	101071995
+Takifugu_rubripes	PER2	ENSTRUG00000006817	Others	101074942
+Takifugu_rubripes	nrg2b	ENSTRUG00000006829	Others	101075752
+Takifugu_rubripes	ILK	ENSTRUG00000006835	Others	NA
+Takifugu_rubripes	dyrk1ab	ENSTRUG00000006869	Others	101070521
+Takifugu_rubripes	pidd1	ENSTRUG00000006941	Others	NA
+Takifugu_rubripes	sirt6	ENSTRUG00000006954	Sirtuin	101077590
+Takifugu_rubripes	rad21a	ENSTRUG00000007006	Others	101065885
+Takifugu_rubripes	ccna2	ENSTRUG00000007066	Cyclin	101065451
+Takifugu_rubripes	tnip2	ENSTRUG00000007100	Others	101062566
+Takifugu_rubripes	cnot9	ENSTRUG00000007110	CCR4-NOT	101074933
+Takifugu_rubripes	pfdn5	ENSTRUG00000007151	Others	101064793
+Takifugu_rubripes	tirap	ENSTRUG00000007154	Others	100134854
+Takifugu_rubripes	elp4	ENSTRUG00000007181	ELP	101077001
+Takifugu_rubripes	tbp	ENSTRUG00000007200	TATA-box	100101451
+Takifugu_rubripes		ENSTRUG00000007217	Tripartite motif	115250628
+Takifugu_rubripes	cttn	ENSTRUG00000007235	Others	101064862
+Takifugu_rubripes	nipbla	ENSTRUG00000007260	Others	101076906
+Takifugu_rubripes	ercc2	ENSTRUG00000007303	Others	101077267
+Takifugu_rubripes	DTX1	ENSTRUG00000007477	Others	101064721
+Takifugu_rubripes	tonsl	ENSTRUG00000007494	Others	101067088
+Takifugu_rubripes	BAZ1A	ENSTRUG00000007498	Bromodomain	101075725
+Takifugu_rubripes	smarcb1b	ENSTRUG00000007532	SWI/SNF	NA
+Takifugu_rubripes	trim33	ENSTRUG00000007557	Tripartite motif	101073124
+Takifugu_rubripes	chd6	ENSTRUG00000007574	CHD	101070772
+Takifugu_rubripes	pik3r1	ENSTRUG00000007584	Others	101062512
+Takifugu_rubripes	phf10	ENSTRUG00000007587	PHF	NA
+Takifugu_rubripes	trip11	ENSTRUG00000007646	Thyroid hormone receptor	101064155
+Takifugu_rubripes	pdcd4b	ENSTRUG00000007652	Others	101075475
+Takifugu_rubripes		ENSTRUG00000007664	Others	101062485
+Takifugu_rubripes	gtf2e1	ENSTRUG00000007723	GTF	101079645
+Takifugu_rubripes	wbp2	ENSTRUG00000007743	WW	101071015
+Takifugu_rubripes	brip1	ENSTRUG00000007748	Others	101076617
+Takifugu_rubripes	hnrnpub	ENSTRUG00000007759	HNRNP	101075097
+Takifugu_rubripes		ENSTRUG00000007789	Casein	101066395
+Takifugu_rubripes	med16	ENSTRUG00000007850	Mediator complex	101078803
+Takifugu_rubripes	snx6	ENSTRUG00000007861	Others	NA
+Takifugu_rubripes	pcgf1	ENSTRUG00000007881	PCGF	101066815
+Takifugu_rubripes	taf1b	ENSTRUG00000007945	TATA-box	101075862
+Takifugu_rubripes	kdm4ab	ENSTRUG00000008046	Lysine demethylase	101079781
+Takifugu_rubripes	crtc1b	ENSTRUG00000008049	CREB	NA
+Takifugu_rubripes	brd7	ENSTRUG00000008098	Bromodomain	101071449
+Takifugu_rubripes	pink1	ENSTRUG00000008101	Others	101064886
+Takifugu_rubripes	dnmt1	ENSTRUG00000008132	DNA_methylase	101063571
+Takifugu_rubripes	pagr1	ENSTRUG00000008135	Others	101077314
+Takifugu_rubripes	mllt1b	ENSTRUG00000008154	GTF	101069798
+Takifugu_rubripes	ncl	ENSTRUG00000008185	Others	101080079
+Takifugu_rubripes	recql5	ENSTRUG00000008246	Others	101068138
+Takifugu_rubripes	sap18	ENSTRUG00000008250	SAP	101070895
+Takifugu_rubripes	znf593	ENSTRUG00000008269	Zinc finger	101075800
+Takifugu_rubripes	hipk2	ENSTRUG00000008330	HIPK	101072551
+Takifugu_rubripes	mdm2	ENSTRUG00000008338	Others	101068181
+Takifugu_rubripes	mybbp1a	ENSTRUG00000008378	MYB	101070369
+Takifugu_rubripes	LRPPRC	ENSTRUG00000008409	Others	101080187
+Takifugu_rubripes	anxa4	ENSTRUG00000008448	Others	NA
+Takifugu_rubripes	nod2	ENSTRUG00000008459	Others	724045
+Takifugu_rubripes	setd7	ENSTRUG00000008535	SET	101062805
+Takifugu_rubripes	vgll2a	ENSTRUG00000008567	Vestigial like	101071749
+Takifugu_rubripes	chd7	ENSTRUG00000008632	CHD	101076910
+Takifugu_rubripes	smyd2a	ENSTRUG00000008674	SMYD	NA
+Takifugu_rubripes	nif3l1	ENSTRUG00000008678	Others	101070724
+Takifugu_rubripes	edf1	ENSTRUG00000008728	Others	101065580
+Takifugu_rubripes	sav1	ENSTRUG00000008756	Others	101080105
+Takifugu_rubripes	rnf14	ENSTRUG00000008815	Ring finger protein	101076972
+Takifugu_rubripes	ALYREF	ENSTRUG00000008828	Others	NA
+Takifugu_rubripes	med13a	ENSTRUG00000008851	Mediator complex	101070072
+Takifugu_rubripes	med20	ENSTRUG00000008904	Mediator complex	101074369
+Takifugu_rubripes	setd1a	ENSTRUG00000008953	SET	101071878
+Takifugu_rubripes	trim37	ENSTRUG00000008970	Tripartite motif	101071055
+Takifugu_rubripes	cdk9	ENSTRUG00000008976	Cyclin	101075585
+Takifugu_rubripes	taf8	ENSTRUG00000008989	TATA-box	101066101
+Takifugu_rubripes	ss18	ENSTRUG00000008991	SS18	101063098
+Takifugu_rubripes	smurf2	ENSTRUG00000009018	Others	101071114
+Takifugu_rubripes	mtor	ENSTRUG00000009031	Others	101074470
+Takifugu_rubripes	zmynd8	ENSTRUG00000009049	Zinc finger	NA
+Takifugu_rubripes	adrb2a	ENSTRUG00000009069	Others	101072937
+Takifugu_rubripes	eno1a	ENSTRUG00000009070	Others	101069815
+Takifugu_rubripes	CHUK	ENSTRUG00000009078	Others	101069880
+Takifugu_rubripes	gtf2h1	ENSTRUG00000009086	GTF	101061794
+Takifugu_rubripes	PCBD2	ENSTRUG00000009098	Others	NA
+Takifugu_rubripes	DCAF1	ENSTRUG00000009124	Others	101074029
+Takifugu_rubripes	chd9	ENSTRUG00000009125	CHD	101072123
+Takifugu_rubripes	trf3	ENSTRUG00000009283	TATA-box	446042
+Takifugu_rubripes	RYBP	ENSTRUG00000009347	Others	101064352
+Takifugu_rubripes	cdc73	ENSTRUG00000009352	Others	101067866
+Takifugu_rubripes		ENSTRUG00000009427	Others	NA
+Takifugu_rubripes	noc2l	ENSTRUG00000009437	Others	101076180
+Takifugu_rubripes	fhl3a	ENSTRUG00000009493	FHL	101070354
+Takifugu_rubripes	bcor	ENSTRUG00000009503	Other_Co-activator/repressors	101062156
+Takifugu_rubripes	grhpra	ENSTRUG00000009513	Others	NA
+Takifugu_rubripes	ncoa3	ENSTRUG00000009516	Nuclear receptor coactivator	101077966
+Takifugu_rubripes	lyn	ENSTRUG00000009532	Others	101068190
+Takifugu_rubripes	ogt.1	ENSTRUG00000009559	Others	NA
+Takifugu_rubripes	TGFB3	ENSTRUG00000009598	Others	101077955
+Takifugu_rubripes	supt7l	ENSTRUG00000009632	SUPT	101063114
+Takifugu_rubripes	hcfc2	ENSTRUG00000009644	Others	101069163
+Takifugu_rubripes	tbl1x	ENSTRUG00000009728	Transducin	101062383
+Takifugu_rubripes	syk	ENSTRUG00000009800	Others	101063503
+Takifugu_rubripes		ENSTRUG00000009851	Others	NA
+Takifugu_rubripes	camk4	ENSTRUG00000009868	CAMK	NA
+Takifugu_rubripes	ACTN4	ENSTRUG00000009876	Actin	101078391
+Takifugu_rubripes	hint1	ENSTRUG00000009900	Others	101066186
+Takifugu_rubripes	rsf1b.1	ENSTRUG00000009902	Others	NA
+Takifugu_rubripes	ehmt1b	ENSTRUG00000009977	Histone lysine methyltransferase	101072913
+Takifugu_rubripes	mycbp2	ENSTRUG00000010000	MYC	NA
+Takifugu_rubripes	rbbp5	ENSTRUG00000010017	RBBP	101074738
+Takifugu_rubripes	hira	ENSTRUG00000010121	Others	NA
+Takifugu_rubripes	meaf6	ENSTRUG00000010159	Others	101078997
+Takifugu_rubripes	lpin2	ENSTRUG00000010192	LPIN	101076308
+Takifugu_rubripes	kdm2bb	ENSTRUG00000010230	Lysine demethylase	101075964
+Takifugu_rubripes	cdk7	ENSTRUG00000010233	Cyclin	NA
+Takifugu_rubripes	rnf141	ENSTRUG00000010276	Ring finger protein	101079746
+Takifugu_rubripes	sdr16c5a	ENSTRUG00000010279	Others	101062133
+Takifugu_rubripes	chd1	ENSTRUG00000010282	CHD	101063723
+Takifugu_rubripes	tfb2m	ENSTRUG00000010411	Others	NA
+Takifugu_rubripes	ruvbl1	ENSTRUG00000010451	Other_CRF	101062423
+Takifugu_rubripes	phf20a	ENSTRUG00000010461	PHF	101078414
+Takifugu_rubripes	pik3r2	ENSTRUG00000010476	Others	101063692
+Takifugu_rubripes		ENSTRUG00000010517	Others	101061181
+Takifugu_rubripes	tnksb	ENSTRUG00000010518	Others	101070151
+Takifugu_rubripes	sin3b	ENSTRUG00000010673	Others	101073315
+Takifugu_rubripes	polr3c	ENSTRUG00000010726	POLR	101064406
+Takifugu_rubripes	mnat1	ENSTRUG00000010746	Others	101078221
+Takifugu_rubripes	anp32b	ENSTRUG00000010757	ANP	101066282
+Takifugu_rubripes	nsmce4a	ENSTRUG00000010786	EID	NA
+Takifugu_rubripes	trak2	ENSTRUG00000010804	Others	101077409
+Takifugu_rubripes	bcl10	ENSTRUG00000010845	BCL	NA
+Takifugu_rubripes	tada3l	ENSTRUG00000010855	Transcriptional adaptor	101076148
+Takifugu_rubripes	rhoab	ENSTRUG00000010942	Others	101076147
+Takifugu_rubripes	ice2	ENSTRUG00000010945	GTF	101066942
+Takifugu_rubripes	tsg101a	ENSTRUG00000010968	Others	101079670
+Takifugu_rubripes	ywhabb	ENSTRUG00000011035	Others	101067448
+Takifugu_rubripes	strap	ENSTRUG00000011050	Others	101061137
+Takifugu_rubripes	pabpc1l	ENSTRUG00000011085	Other_CRF	101075802
+Takifugu_rubripes	elp2	ENSTRUG00000011088	ELP	NA
+Takifugu_rubripes	CRTC2	ENSTRUG00000011098	CREB	101063579
+Takifugu_rubripes	actn1	ENSTRUG00000011100	Actin	101075286
+Takifugu_rubripes	serbp1b	ENSTRUG00000011101	Others	NA
+Takifugu_rubripes	bend3	ENSTRUG00000011122	Others	101069350
+Takifugu_rubripes	wwox	ENSTRUG00000011183	WW	NA
+Takifugu_rubripes		ENSTRUG00000011184	Tripartite motif	NA
+Takifugu_rubripes		ENSTRUG00000011225	Others	101072707
+Takifugu_rubripes	paxip1	ENSTRUG00000011265	Others	101070016
+Takifugu_rubripes	kdm6al	ENSTRUG00000011300	Lysine demethylase	101067688
+Takifugu_rubripes	pspc1	ENSTRUG00000011335	Others	101071804
+Takifugu_rubripes	rbm39b	ENSTRUG00000011352	RNA binding protein	NA
+Takifugu_rubripes	pa2g4a	ENSTRUG00000011475	Others	101069165
+Takifugu_rubripes	itchb	ENSTRUG00000011522	Others	101061475
+Takifugu_rubripes	PELI1	ENSTRUG00000011542	Others	101062165
+Takifugu_rubripes	gps2	ENSTRUG00000011647	Others	NA
+Takifugu_rubripes	caskb	ENSTRUG00000011655	CAMK	101061413
+Takifugu_rubripes	npm3	ENSTRUG00000011661	Nucleoplasmin	101069733
+Takifugu_rubripes		ENSTRUG00000011681	Transducin	101079623
+Takifugu_rubripes	sufu	ENSTRUG00000011691	Others	101069962
+Takifugu_rubripes	eya3	ENSTRUG00000011700	EYA	101079907
+Takifugu_rubripes	tcea1	ENSTRUG00000011743	TEF	101071010
+Takifugu_rubripes	bahcc1a	ENSTRUG00000011764	Others	101065416
+Takifugu_rubripes	med6	ENSTRUG00000011771	Mediator complex	NA
+Takifugu_rubripes	bcl9l	ENSTRUG00000011780	BCL	101065528
+Takifugu_rubripes	sfmbt2	ENSTRUG00000011786	Others	101069546
+Takifugu_rubripes	ncoa2	ENSTRUG00000011789	Nuclear receptor coactivator	101075599
+Takifugu_rubripes	rbbp4	ENSTRUG00000011800	RBBP	101078368
+Takifugu_rubripes	egfra	ENSTRUG00000011834	Others	101069322
+Takifugu_rubripes	hdac5	ENSTRUG00000011893	Histone deacetylase	101065510
+Takifugu_rubripes	dcaf6	ENSTRUG00000011949	Others	101072446
+Takifugu_rubripes	sirt7	ENSTRUG00000011956	Sirtuin	NA
+Takifugu_rubripes	CRK	ENSTRUG00000011971	Others	101065989
+Takifugu_rubripes	dpy30	ENSTRUG00000011982	Others	101075919
+Takifugu_rubripes	emsy	ENSTRUG00000011995	Others	101069452
+Takifugu_rubripes	NCOA7	ENSTRUG00000012001	Nuclear receptor coactivator	NA
+Takifugu_rubripes	cbfa2t2	ENSTRUG00000012051	Others	101071002
+Takifugu_rubripes	ccdc85b	ENSTRUG00000012062	Coiled-coil	NA
+Takifugu_rubripes	chaf1b	ENSTRUG00000012075	Others	NA
+Takifugu_rubripes	bcl9	ENSTRUG00000012100	BCL	101061473
+Takifugu_rubripes	prmt1	ENSTRUG00000012105	Arginine methyltransferase	101063315
+Takifugu_rubripes	suz12b	ENSTRUG00000012137	Others	101078630
+Takifugu_rubripes	btk	ENSTRUG00000012144	Others	101073533
+Takifugu_rubripes		ENSTRUG00000012205	Others	101070980
+Takifugu_rubripes	c1d	ENSTRUG00000012245	Other_Co-activator/repressors	NA
+Takifugu_rubripes	ino80e	ENSTRUG00000012251	INO80 complex	101069744
+Takifugu_rubripes	uxt	ENSTRUG00000012271	Others	101072233
+Takifugu_rubripes	insrb	ENSTRUG00000012281	Others	101074430
+Takifugu_rubripes	nab2	ENSTRUG00000012284	Others	NA
+Takifugu_rubripes	kmt2d	ENSTRUG00000012286	Lysine methyltransferase	NA
+Takifugu_rubripes	eya1	ENSTRUG00000012298	EYA	NA
+Takifugu_rubripes	dnmt3bb.1	ENSTRUG00000012300	DNA_methylase	NA
+Takifugu_rubripes	cdk5rap3	ENSTRUG00000012311	Cyclin	101061319
+Takifugu_rubripes	polr2a	ENSTRUG00000012320	POLR	101067103
+Takifugu_rubripes	kdm1a	ENSTRUG00000012344	Lysine demethylase	NA
+Takifugu_rubripes	top1l	ENSTRUG00000012346	Other_CRF	NA
+Takifugu_rubripes	hdac7a	ENSTRUG00000012347	Histone deacetylase	101061705
+Takifugu_rubripes	tnip1	ENSTRUG00000012367	Others	NA
+Takifugu_rubripes	rtf1	ENSTRUG00000012419	Others	101077392
+Takifugu_rubripes	tescb	ENSTRUG00000012428	Others	101066422
+Takifugu_rubripes	sirt3	ENSTRUG00000012446	Sirtuin	101067563
+Takifugu_rubripes	SIRT5	ENSTRUG00000012455	Sirtuin	101074434
+Takifugu_rubripes	rrn3	ENSTRUG00000012504	Others	101061556
+Takifugu_rubripes	rnf2	ENSTRUG00000012510	Ring finger protein	101062800
+Takifugu_rubripes	rbl2	ENSTRUG00000012528	Other_Co-activator/repressors	101070901
+Takifugu_rubripes	ascc1	ENSTRUG00000012576	ASCC	101062449
+Takifugu_rubripes	lzts2a	ENSTRUG00000012594	Others	101075662
+Takifugu_rubripes	MSL3	ENSTRUG00000012620	Others	101061861
+Takifugu_rubripes	drap1	ENSTRUG00000012644	Others	101074634
+Takifugu_rubripes	med12	ENSTRUG00000012646	Mediator complex	NA
+Takifugu_rubripes		ENSTRUG00000012660	Others	101068319
+Takifugu_rubripes	carm1	ENSTRUG00000012690	Others	NA
+Takifugu_rubripes	taf6l	ENSTRUG00000012717	TATA-box	101074859
+Takifugu_rubripes	hcfc1a	ENSTRUG00000012807	Others	101079994
+Takifugu_rubripes	si:dkey-6i22.5	ENSTRUG00000012859	Others	NA
+Takifugu_rubripes	ctdp1	ENSTRUG00000012998	Others	101063440
+Takifugu_rubripes	ino80	ENSTRUG00000013026	INO80 complex	101064425
+Takifugu_rubripes	prmt2	ENSTRUG00000013061	Arginine methyltransferase	NA
+Takifugu_rubripes	men1	ENSTRUG00000013106	Others	NA
+Takifugu_rubripes	wdtc1	ENSTRUG00000013148	WD	NA
+Takifugu_rubripes	axin1	ENSTRUG00000013156	Others	NA
+Takifugu_rubripes		ENSTRUG00000013176	Thyroid hormone receptor	101068237
+Takifugu_rubripes	rexo4	ENSTRUG00000013225	Others	101063712
+Takifugu_rubripes		ENSTRUG00000013251	Transducin	101072205
+Takifugu_rubripes	ccar1	ENSTRUG00000013280	Others	101076714
+Takifugu_rubripes	cxxc1b	ENSTRUG00000013293	Others	101061441
+Takifugu_rubripes	kdm5ba	ENSTRUG00000013308	Lysine demethylase	101069859
+Takifugu_rubripes	kat6b	ENSTRUG00000013356	Lysine acetyltransferase	101065952
+Takifugu_rubripes	JUP	ENSTRUG00000013363	Others	101062682
+Takifugu_rubripes	HYAL2	ENSTRUG00000013394	Others	101074654
+Takifugu_rubripes	brwd3	ENSTRUG00000013452	Bromodomain	101065536
+Takifugu_rubripes	nelfb	ENSTRUG00000013482	GTF	NA
+Takifugu_rubripes	nck2a	ENSTRUG00000013538	Others	101074912
+Takifugu_rubripes	dvl2	ENSTRUG00000013550	Others	101061269
+Takifugu_rubripes	FHL2	ENSTRUG00000013559	FHL	101062743
+Takifugu_rubripes	phf21ab	ENSTRUG00000013593	PHF	101072702
+Takifugu_rubripes	pin1	ENSTRUG00000013606	Others	101079535
+Takifugu_rubripes	med14	ENSTRUG00000013609	Mediator complex	NA
+Takifugu_rubripes	taf2	ENSTRUG00000013647	TATA-box	101077026
+Takifugu_rubripes	setd2	ENSTRUG00000013742	SET	NA
+Takifugu_rubripes	ran	ENSTRUG00000013749	Others	NA
+Takifugu_rubripes	apbb2b	ENSTRUG00000013779	Others	101069686
+Takifugu_rubripes	actr6	ENSTRUG00000013801	ACTR	101073827
+Takifugu_rubripes	kdm2ab	ENSTRUG00000013920	Lysine demethylase	101067040
+Takifugu_rubripes	brd3a	ENSTRUG00000013925	Bromodomain	101063386
+Takifugu_rubripes	dmap1	ENSTRUG00000013929	DNA_methylase	101075103
+Takifugu_rubripes	pih1d1	ENSTRUG00000013985	Other_CRF	101063349
+Takifugu_rubripes	chek2	ENSTRUG00000014000	Others	101063164
+Takifugu_rubripes	med4	ENSTRUG00000014013	Mediator complex	NA
+Takifugu_rubripes	snd1	ENSTRUG00000014067	Others	445892
+Takifugu_rubripes	smarca5	ENSTRUG00000014094	SWI/SNF	101068027
+Takifugu_rubripes	slc30a9	ENSTRUG00000014154	SLC	101075978
+Takifugu_rubripes	gtf2h4	ENSTRUG00000014176	GTF	101074720
+Takifugu_rubripes	rprd1a	ENSTRUG00000014193	Others	101066807
+Takifugu_rubripes	frzb	ENSTRUG00000014200	Others	101070726
+Takifugu_rubripes	wnt3a	ENSTRUG00000014272	Others	101062356
+Takifugu_rubripes	hltf	ENSTRUG00000014279	Others	101072379
+Takifugu_rubripes	trip13	ENSTRUG00000014308	Thyroid hormone receptor	101077631
+Takifugu_rubripes	scai	ENSTRUG00000014341	Others	NA
+Takifugu_rubripes	supt6h	ENSTRUG00000014399	SUPT	101074065
+Takifugu_rubripes	med23	ENSTRUG00000014457	Mediator complex	101067798
+Takifugu_rubripes	aurkb	ENSTRUG00000014460	Others	101076892
+Takifugu_rubripes	taf5	ENSTRUG00000014486	TATA-box	101064262
+Takifugu_rubripes		ENSTRUG00000014636	Erbb2	101079286
+Takifugu_rubripes	lin9	ENSTRUG00000014637	Others	101073620
+Takifugu_rubripes	ctnnd1	ENSTRUG00000014794	Casein	101067270
+Takifugu_rubripes	abl1	ENSTRUG00000014808	Others	101064177
+Takifugu_rubripes	phf8	ENSTRUG00000014867	PHF	101063341
+Takifugu_rubripes	ddx54	ENSTRUG00000014939	RNA helicase	101069510
+Takifugu_rubripes	skor1b	ENSTRUG00000014982	SKI	101073523
+Takifugu_rubripes	ccnc	ENSTRUG00000014987	Cyclin	101072571
+Takifugu_rubripes		ENSTRUG00000014989	Others	101071188
+Takifugu_rubripes	chd3	ENSTRUG00000014990	CHD	NA
+Takifugu_rubripes	stk3	ENSTRUG00000015001	Others	NA
+Takifugu_rubripes	ell2	ENSTRUG00000015002	GTF	101079393
+Takifugu_rubripes	EZH1	ENSTRUG00000015011	Others	101070195
+Takifugu_rubripes	ascc2	ENSTRUG00000015035	ASCC	101077587
+Takifugu_rubripes	NAA15	ENSTRUG00000015036	Others	101074590
+Takifugu_rubripes	tnni2b.1	ENSTRUG00000015041	Others	NA
+Takifugu_rubripes	morf4l1	ENSTRUG00000015077	Other_CRF	NA
+Takifugu_rubripes	CBL	ENSTRUG00000015111	Others	101078613
+Takifugu_rubripes	znf703	ENSTRUG00000015121	Zinc finger	101072649
+Takifugu_rubripes	MED13L	ENSTRUG00000015129	Mediator complex	101064404
+Takifugu_rubripes	ccdc59	ENSTRUG00000015207	Coiled-coil	101079768
+Takifugu_rubripes	tdg.1	ENSTRUG00000015232	Others	101067104
+Takifugu_rubripes	kmt2a	ENSTRUG00000015266	Lysine methyltransferase	101079297
+Takifugu_rubripes	fbxw7	ENSTRUG00000015272	Others	101062488
+Takifugu_rubripes	CTBP1	ENSTRUG00000015287	Others	NA
+Takifugu_rubripes	taf10	ENSTRUG00000015379	TATA-box	101065961
+Takifugu_rubripes		ENSTRUG00000015416	Others	NA
+Takifugu_rubripes	xrn2	ENSTRUG00000015489	Others	101080068
+Takifugu_rubripes	chchd2	ENSTRUG00000015528	Coiled-coil	101079973
+Takifugu_rubripes	brms1	ENSTRUG00000015533	Other_CRF	101076576
+Takifugu_rubripes	smyd1b	ENSTRUG00000015565	SMYD	101069403
+Takifugu_rubripes	ttf2	ENSTRUG00000015592	Others	101066696
+Takifugu_rubripes	taf1	ENSTRUG00000015603	TATA-box	101069384
+Takifugu_rubripes	si:ch73-21k16.1	ENSTRUG00000015609	LPIN	101072572
+Takifugu_rubripes	SMARCA2	ENSTRUG00000015619	SWI/SNF	101063536
+Takifugu_rubripes	znf451	ENSTRUG00000015654	Zinc finger	101072540
+Takifugu_rubripes	KDM7A	ENSTRUG00000015683	Lysine demethylase	NA
+Takifugu_rubripes	kank1a	ENSTRUG00000015725	Others	101063979
+Takifugu_rubripes	cnot3a	ENSTRUG00000015732	CCR4-NOT	101079485
+Takifugu_rubripes	ccnd1	ENSTRUG00000015754	Cyclin	101061278
+Takifugu_rubripes	fbp1b	ENSTRUG00000015762	Others	101069203
+Takifugu_rubripes	ddx1	ENSTRUG00000015765	RNA helicase	101073917
+Takifugu_rubripes	csrp3	ENSTRUG00000015766	Others	101066886
+Takifugu_rubripes	rnf40	ENSTRUG00000015777	Ring finger protein	NA
+Takifugu_rubripes		ENSTRUG00000015791	TATA-box	105417228
+Takifugu_rubripes	rb1	ENSTRUG00000015842	Other_Co-activator/repressors	115246431
+Takifugu_rubripes	htatip2	ENSTRUG00000015893	Others	101067564
+Takifugu_rubripes	cbx3a	ENSTRUG00000015895	Chromobox	NA
+Takifugu_rubripes	TLE5	ENSTRUG00000015969	Others	101065642
+Takifugu_rubripes	sin3aa	ENSTRUG00000015995	Other_CRF	NA
+Takifugu_rubripes	ppid	ENSTRUG00000016203	Others	101066949
+Takifugu_rubripes	brf1b	ENSTRUG00000016217	GTF	101066443
+Takifugu_rubripes	suds3	ENSTRUG00000016240	Other_Co-activator/repressors	101064055
+Takifugu_rubripes		ENSTRUG00000016247	NFKB associated	101066492
+Takifugu_rubripes	traf6	ENSTRUG00000016306	Others	101071368
+Takifugu_rubripes	thoc5	ENSTRUG00000016363	Others	101061978
+Takifugu_rubripes	med24	ENSTRUG00000016382	Mediator complex	101079417
+Takifugu_rubripes	ikbkb	ENSTRUG00000016393	Others	101062431
+Takifugu_rubripes	taf6	ENSTRUG00000016480	TATA-box	101067944
+Takifugu_rubripes	trip4	ENSTRUG00000016488	Thyroid hormone receptor	NA
+Takifugu_rubripes	fgfr1a	ENSTRUG00000016527	FGF	101078564
+Takifugu_rubripes	nsd3	ENSTRUG00000016530	Nuclear receptor coactivator	101063468
+Takifugu_rubripes	hdac10	ENSTRUG00000016566	Histone deacetylase	101064184
+Takifugu_rubripes	dr1	ENSTRUG00000016627	Others	101074009
+Takifugu_rubripes	med8	ENSTRUG00000016630	Mediator complex	101076006
+Takifugu_rubripes	kat5b	ENSTRUG00000016643	Lysine acetyltransferase	101069305
+Takifugu_rubripes	KCNIP3	ENSTRUG00000016652	Others	101079926
+Takifugu_rubripes		ENSTRUG00000016684	Others	NA
+Takifugu_rubripes	birc5a	ENSTRUG00000016745	Others	101062741
+Takifugu_rubripes	crym	ENSTRUG00000016760	Others	101080177
+Takifugu_rubripes		ENSTRUG00000016767	Others	101070310
+Takifugu_rubripes	TLE3	ENSTRUG00000016796	Transducin	NA
+Takifugu_rubripes	malt1	ENSTRUG00000016824	Others	101074154
+Takifugu_rubripes	trrap	ENSTRUG00000016842	Others	101063411
+Takifugu_rubripes	jak2b	ENSTRUG00000016857	Others	101068778
+Takifugu_rubripes	taf3	ENSTRUG00000016902	TATA-box	101070287
+Takifugu_rubripes	cops2	ENSTRUG00000016921	Others	101075686
+Takifugu_rubripes	cnot11	ENSTRUG00000016939	CCR4-NOT	101071629
+Takifugu_rubripes	leo1	ENSTRUG00000017010	Others	NA
+Takifugu_rubripes	cxxc5a	ENSTRUG00000017014	Others	NA
+Takifugu_rubripes	pir	ENSTRUG00000017038	Others	101065907
+Takifugu_rubripes	xrcc6	ENSTRUG00000017070	Others	101071100
+Takifugu_rubripes	birc2	ENSTRUG00000017077	Others	101075537
+Takifugu_rubripes	mms19	ENSTRUG00000017103	Others	101071785
+Takifugu_rubripes		ENSTRUG00000017122	Others	NA
+Takifugu_rubripes	ercc3	ENSTRUG00000017185	Others	101079454
+Takifugu_rubripes	tdrd3	ENSTRUG00000017194	Others	101074947
+Takifugu_rubripes	sqstm1	ENSTRUG00000017345	Others	101074386
+Takifugu_rubripes	cthl	ENSTRUG00000017362	Others	101064271
+Takifugu_rubripes	ino80da	ENSTRUG00000017409	INO80 complex	NA
+Takifugu_rubripes	ctr9	ENSTRUG00000017448	Others	NA
+Takifugu_rubripes	actl6a	ENSTRUG00000017587	Actin	101066518
+Takifugu_rubripes	fgfr2	ENSTRUG00000017610	FGF	101073665
+Takifugu_rubripes	tab3	ENSTRUG00000017685	Others	101076763
+Takifugu_rubripes	NUP62	ENSTRUG00000017712	Others	NA
+Takifugu_rubripes	flii	ENSTRUG00000017743	Others	101076769
+Takifugu_rubripes	hat1	ENSTRUG00000017744	Others	101065568
+Takifugu_rubripes	rnf111	ENSTRUG00000017751	Ring finger protein	101071819
+Takifugu_rubripes	notch2	ENSTRUG00000017773	Notch	101080224
+Takifugu_rubripes	ssbp4	ENSTRUG00000017822	Others	101067724
+Takifugu_rubripes	ell	ENSTRUG00000017827	GTF	101062125
+Takifugu_rubripes	dot1l	ENSTRUG00000017836	Others	101062350
+Takifugu_rubripes	pdlim1	ENSTRUG00000017854	Others	101069356
+Takifugu_rubripes	epc1a	ENSTRUG00000017859	Others	101066125
+Takifugu_rubripes	pcbd1	ENSTRUG00000017869	Others	NA
+Takifugu_rubripes		ENSTRUG00000017926	Others	NA
+Takifugu_rubripes	gtf2a1	ENSTRUG00000017961	GTF	101078854
+Takifugu_rubripes	tradd	ENSTRUG00000017973	Others	NA
+Takifugu_rubripes	sirt1	ENSTRUG00000017974	Sirtuin	101061405
+Takifugu_rubripes	snw1	ENSTRUG00000018015	Others	NA
+Takifugu_rubripes	kat2b	ENSTRUG00000018099	Lysine acetyltransferase	101070909
+Takifugu_rubripes	trim8b	ENSTRUG00000018105	Tripartite motif	101066464
+Takifugu_rubripes	padi2	ENSTRUG00000018111	Other_CRF	101074813
+Takifugu_rubripes	notch1a	ENSTRUG00000018113	Notch	101062685
+Takifugu_rubripes	med27	ENSTRUG00000018247	Mediator complex	101066167
+Takifugu_rubripes	CDYL2	ENSTRUG00000018265	Chromodomain Y	NA
+Takifugu_rubripes	smarcd1	ENSTRUG00000018409	SWI/SNF	101079769
+Takifugu_rubripes	lin54	ENSTRUG00000018428	Others	101080118
+Takifugu_rubripes	hnrnpd	ENSTRUG00000018450	HNRNP	101066421
+Takifugu_rubripes	cdk2	ENSTRUG00000018471	Cyclin	101062041
+Takifugu_rubripes	timeless	ENSTRUG00000018488	Others	101071157
+Takifugu_rubripes	kmt5aa	ENSTRUG00000018497	Lysine methyltransferase	NA
+Takifugu_rubripes	ankra2	ENSTRUG00000018506	Ankyrin repeat	101066567
+Takifugu_rubripes	dab2	ENSTRUG00000018569	Others	101080191
+Takifugu_rubripes	ash2l	ENSTRUG00000018620	Others	101073289
+Takifugu_rubripes	mid1ip1a	ENSTRUG00000019505	Others	NA
+Takifugu_rubripes	hexim1	ENSTRUG00000019644	Others	101077847
+Takifugu_rubripes	pphln1	ENSTRUG00000019653	Others	NA
+Takifugu_rubripes	ldb2a	ENSTRUG00000019730	LIM	NA
+Takifugu_rubripes	trim32	ENSTRUG00000019757	Tripartite motif	NA
+Takifugu_rubripes		ENSTRUG00000019759	MAML	105417086
+Takifugu_rubripes	med10	ENSTRUG00000019762	Mediator complex	101074056
+Takifugu_rubripes	blm	ENSTRUG00000019860	Others	101078538
+Takifugu_rubripes	kdm8	ENSTRUG00000019976	Lysine demethylase	101067012
+Takifugu_rubripes	arl2bp	ENSTRUG00000020068	Others	101073371
+Takifugu_rubripes	rfxap	ENSTRUG00000020221	Others	101075394
+Takifugu_rubripes	pex14	ENSTRUG00000020302	Others	101077769
+Takifugu_rubripes	aurkaip1	ENSTRUG00000020312	Others	101074556
+Takifugu_rubripes	ppargc1b	ENSTRUG00000020349	Others	101070632
+Takifugu_rubripes	chd1l	ENSTRUG00000020456	CHD	NA
+Takifugu_rubripes	vhl	ENSTRUG00000020462	Others	101068717
+Takifugu_rubripes	snapc5	ENSTRUG00000020463	Others	NA
+Takifugu_rubripes	stk36	ENSTRUG00000020535	Others	101075248
+Takifugu_rubripes	yap1	ENSTRUG00000020886	Others	NA
+Takifugu_rubripes	med28	ENSTRUG00000020930	Mediator complex	101070230
+Takifugu_rubripes	nelfcd	ENSTRUG00000020959	GTF	NA
+Takifugu_rubripes	h2az2a	ENSTRUG00000020974	Others	101080230
+Takifugu_rubripes	ccnh	ENSTRUG00000021055	Cyclin	101070842
+Takifugu_rubripes	slc19a1	ENSTRUG00000021141	SLC	115250601
+Takifugu_rubripes		ENSTRUG00000021178	WD	101073699
+Takifugu_rubripes	kdm6ba	ENSTRUG00000021213	Lysine demethylase	101065748
+Takifugu_rubripes	taf11	ENSTRUG00000021221	TATA-box	101072834
+Takifugu_rubripes	wdr61	ENSTRUG00000021247	WD	NA
+Takifugu_rubripes	cavin1a	ENSTRUG00000021259	Others	101071346
+Takifugu_rubripes	HMOX1	ENSTRUG00000021266	Others	101070079
+Takifugu_rubripes	rprd1b	ENSTRUG00000021413	Others	101076481
+Takifugu_rubripes	rnf6	ENSTRUG00000021431	Ring finger protein	101069754
+Takifugu_rubripes	med29	ENSTRUG00000021505	Mediator complex	101073830
+Takifugu_rubripes	wu:fj64h06	ENSTRUG00000021624	TATA-box	NA
+Takifugu_rubripes		ENSTRUG00000021931	RNA helicase	NA
+Takifugu_rubripes	ANP32E	ENSTRUG00000022042	ANP	101078984
+Takifugu_rubripes		ENSTRUG00000022092	Others	101061033
+Takifugu_rubripes	atrx	ENSTRUG00000022330	Others	NA
+Takifugu_rubripes	brf2	ENSTRUG00000022445	GTF	101073518
+Takifugu_rubripes	ing1	ENSTRUG00000022744	ING	101077238
+Takifugu_rubripes	pnrc2	ENSTRUG00000022856	Others	101068749
+Takifugu_rubripes	kmt5b	ENSTRUG00000022914	Lysine methyltransferase	101076428
+Takifugu_rubripes	DDX39A	ENSTRUG00000022930	RNA helicase	NA
+Takifugu_rubripes	ASF1B	ENSTRUG00000022960	Others	101069596
+Takifugu_rubripes	ash1l	ENSTRUG00000022988	Others	101078475
+Takifugu_rubripes	btf3	ENSTRUG00000023038	Others	NA
+Takifugu_rubripes	commd1	ENSTRUG00000023095	Others	101079311
+Takifugu_rubripes		ENSTRUG00000023174	Others	101072182
+Takifugu_rubripes		ENSTRUG00000023296	SMYD	NA
+Takifugu_rubripes	nrip2	ENSTRUG00000023306	Nuclear coactivator	101073397
+Takifugu_rubripes	mycbp	ENSTRUG00000023350	MYC	101076131
+Takifugu_rubripes	hspa8	ENSTRUG00000023364	Heat shock protein	101063324
+Takifugu_rubripes	CTDSP1	ENSTRUG00000023492	Others	101066941
+Takifugu_rubripes	gtf2h5	ENSTRUG00000023578	GTF	101077576
+Takifugu_rubripes	mdm4	ENSTRUG00000023689	Others	101077886
+Takifugu_rubripes	ddx20	ENSTRUG00000023712	RNA helicase	101073509
+Takifugu_rubripes	park7	ENSTRUG00000023725	Others	101065925
+Takifugu_rubripes	med11	ENSTRUG00000023733	Mediator complex	101071356
+Takifugu_rubripes	TADA1	ENSTRUG00000023912	Transcriptional adaptor	101068423
+Takifugu_rubripes	nfkbiaa	ENSTRUG00000023986	NFKB associated	101068711
+Takifugu_rubripes	npm1a	ENSTRUG00000024003	Nucleoplasmin	101078706
+Takifugu_rubripes	FHIT	ENSTRUG00000024097	Others	101074368
+Takifugu_rubripes	spen	ENSTRUG00000024350	Others	101069501
+Takifugu_rubripes	ago1	ENSTRUG00000024431	Others	101062906
+Takifugu_rubripes	ccnt2b	ENSTRUG00000024469	Cyclin	NA
+Takifugu_rubripes	rasd1	ENSTRUG00000024512	Others	101071491
+Takifugu_rubripes	cdkn1bb	ENSTRUG00000024873	Cyclin	101071664
+Takifugu_rubripes	ndnl2	ENSTRUG00000024906	MAGE	NA
+Takifugu_rubripes	lmo1	ENSTRUG00000025019	LIM	101064114
+Takifugu_rubripes	CCNK	ENSTRUG00000025093	Cyclin	101062559
+Takifugu_rubripes		ENSTRUG00000025121	Others	NA
+Takifugu_rubripes	hif1an	ENSTRUG00000025302	Others	101073285
+Takifugu_rubripes		ENSTRUG00000025392	Others	NA
+Takifugu_rubripes	med1	ENSTRUG00000025515	Mediator complex	101062821
+Takifugu_rubripes	dpf2	ENSTRUG00000025548	DPF	101069539
+Takifugu_rubripes	hdac8	ENSTRUG00000025628	Histone deacetylase	101070514
+Takifugu_rubripes	slc25a15b	ENSTRUG00000025650	SLC	101067118
+Takifugu_rubripes	cbx8a	ENSTRUG00000025804	Chromobox	101068461
+Takifugu_rubripes	smarcad1a	ENSTRUG00000025900	SWI/SNF	NA
+Takifugu_rubripes	skap1	ENSTRUG00000026027	Others	NA
+Takifugu_rubripes	tdp2b	ENSTRUG00000026060	Others	101065077
+Takifugu_rubripes		ENSTRUG00000026088	Others	101071313
+Takifugu_rubripes	bud31	ENSTRUG00000026127	Others	NA
+Takifugu_rubripes	DUSP26	ENSTRUG00000026163	Others	NA
+Takifugu_rubripes		ENSTRUG00000026389	FAM	NA
+Takifugu_rubripes	cdk12	ENSTRUG00000026839	Cyclin	101074481
+Takifugu_rubripes	med22	ENSTRUG00000026939	Mediator complex	101070709
+Takifugu_rubripes		ENSTRUG00000026961	Others	101080064
+Takifugu_rubripes	dpf1	ENSTRUG00000027070	DPF	NA
+Takifugu_rubripes	nrip1b	ENSTRUG00000027101	Nuclear receptor coactivator	NA
+Takifugu_rubripes	supt4h1	ENSTRUG00000027184	SUPT	101076917
+Takifugu_rubripes	cbx6a	ENSTRUG00000027286	Chromobox	101072963
+Takifugu_rubripes	skor2	ENSTRUG00000027386	SKI	101073195
+Takifugu_rubripes	chd4a	ENSTRUG00000027499	CHD	NA
+Takifugu_rubripes	PCGF3	ENSTRUG00000027521	PCGF	105419655
+Takifugu_rubripes	rbfox2	ENSTRUG00000027524	Others	101062663
+Takifugu_rubripes	JMY	ENSTRUG00000027651	Others	101063102
+Takifugu_rubripes	nelfa	ENSTRUG00000027653	GTF	NA
+Takifugu_rubripes	trappc2	ENSTRUG00000027675	Others	101062604
+Takifugu_rubripes	rbx1	ENSTRUG00000027684	Others	101079814
+Takifugu_rubripes	ldb1b	ENSTRUG00000027693	LIM	101073193
+Takifugu_rubripes	pcgf5a	ENSTRUG00000027842	PCGF	101068653
+Takifugu_rubripes		ENSTRUG00000027854	INO80 complex	NA
+Takifugu_rubripes	med21	ENSTRUG00000028175	Mediator complex	101072354
+Takifugu_rubripes	s100s	ENSTRUG00000028186	Others	101076426
+Takifugu_rubripes	GMNN	ENSTRUG00000028377	Others	115251763
+Takifugu_rubripes	jmjd1cb	ENSTRUG00000028386	Other_CRF	101075422
+Takifugu_rubripes	nudt5	ENSTRUG00000028442	Other_CRF	NA
+Takifugu_rubripes	sfswap	ENSTRUG00000028452	Others	101071252
+Takifugu_rubripes	trib1	ENSTRUG00000028474	Others	115251795
+Takifugu_rubripes	anp32a	ENSTRUG00000028503	ANP	101073837
+Takifugu_rubripes	eloca	ENSTRUG00000028594	Others	101067422
+Takifugu_rubripes	ccne1	ENSTRUG00000028667	Cyclin	101065632
+Takifugu_rubripes	ssu72	ENSTRUG00000028915	Others	101075036
+Takifugu_rubripes	taf5l	ENSTRUG00000028964	TATA-box	101072431
+Takifugu_rubripes	rnf4	ENSTRUG00000029178	Ring finger protein	101073495
+Takifugu_rubripes	lrrk1	ENSTRUG00000029202	Other_CRF	101066314
+Takifugu_rubripes	gtf2a2	ENSTRUG00000029262	GTF	NA
+Takifugu_rubripes	ankrd1a	ENSTRUG00000029402	Ankyrin repeat	101068875
+Takifugu_rubripes	lbh	ENSTRUG00000029542	Others	NA
+Takifugu_rubripes	eaf1	ENSTRUG00000029596	Others	101066308
+Takifugu_rubripes	chrac1	ENSTRUG00000029830	Other_CRF	NA
+Takifugu_rubripes	ern1	ENSTRUG00000029966	Others	NA
+Takifugu_rubripes	fgf2	ENSTRUG00000029971	FGF	101071373
+Takifugu_rubripes	cops5	ENSTRUG00000030029	Others	NA
+Takifugu_rubripes	hnrnpc	ENSTRUG00000030090	HNRNP	NA
+Takifugu_rubripes	pid1	ENSTRUG00000030119	Others	101068559
+Takifugu_rubripes		ENSTRUG00000030194	Others	NA
+Takifugu_rubripes	dscama	ENSTRUG00000030223	Others	101074439
+Takifugu_rubripes	phf5a	ENSTRUG00000030258	PHF	101069189
+Takifugu_rubripes	med19a	ENSTRUG00000030263	Mediator complex	101069617
+Takifugu_rubripes	mtpn	ENSTRUG00000030378	Others	101064264
+Takifugu_rubripes		ENSTRUG00000030802	Others	101077677
+Takifugu_rubripes		ENSTRUG00000031040	Others	101064739
+Takifugu_rubripes	eapp	ENSTRUG00000031136	Others	101070623
+Takifugu_rubripes	macroh2a2	ENSTRUG00000031200	Others	NA
+Takifugu_rubripes	mrtfab	ENSTRUG00000031201	Others	101071561
+Takifugu_rubripes	lancl2	ENSTRUG00000031367	Others	115248304
+Takifugu_rubripes	NDUFA13	ENSTRUG00000031395	Others	101074970
+Takifugu_rubripes		ENSTRUG00000031403	Mediator complex	101062801
+Takifugu_rubripes		ENSTRUG00000031454	Others	NA
+Takifugu_rubripes	sumo1	ENSTRUG00000031534	Others	101062618
+Takifugu_rubripes	si:dkey-85a20.4	ENSTRUG00000031709	Others	101075663
+Takifugu_rubripes	rap2c	ENSTRUG00000031755	Others	101074132
+Takifugu_rubripes	prdx5	ENSTRUG00000031947	Others	101075536
+Takifugu_rubripes	c1qbp	ENSTRUG00000032244	Others	101076454
+Takifugu_rubripes	skia	ENSTRUG00000032329	SKI	101075281
+Takifugu_rubripes	heatr1	ENSTRUG00000032412	Others	101071256
+Takifugu_rubripes	btg1	ENSTRUG00000032692	Others	101063600
+Takifugu_rubripes	HDAC3	ENSTRUG00000032750	Histone deacetylase	101080240
+Takifugu_rubripes	chchd6b	ENSTRUG00000032807	Coiled-coil	NA
+Takifugu_rubripes		ENSTRUG00000032829	Others	101073701
+Takifugu_rubripes	sap30l	ENSTRUG00000032871	SAP	NA
+Takifugu_rubripes	TOB2	ENSTRUG00000032879	Others	NA
+Takifugu_rubripes	cbx4	ENSTRUG00000032947	Chromobox	101075073
+Takifugu_rubripes		ENSTRUG00000033399	Zinc finger	NA
+Takifugu_rubripes	cbx7b	ENSTRUG00000033494	Chromobox	101070872

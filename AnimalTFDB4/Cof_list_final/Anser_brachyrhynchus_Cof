@@ -1,0 +1,776 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Anser_brachyrhynchus	ASF1A	ENSABRG00000000086	Others	NA
+Anser_brachyrhynchus	NELFCD	ENSABRG00000000091	GTF	NA
+Anser_brachyrhynchus	NIPBL	ENSABRG00000000103	Others	NA
+Anser_brachyrhynchus	CCNC	ENSABRG00000000132	Cyclin	NA
+Anser_brachyrhynchus	BTF3	ENSABRG00000000145	Others	NA
+Anser_brachyrhynchus	ANKRA2	ENSABRG00000000152	Ankyrin repeat	NA
+Anser_brachyrhynchus	CBX4	ENSABRG00000000163	Chromobox	NA
+Anser_brachyrhynchus	DHX57	ENSABRG00000000213	RNA helicase	NA
+Anser_brachyrhynchus	TAF7	ENSABRG00000000225	TATA-box	NA
+Anser_brachyrhynchus		ENSABRG00000000276	Others	NA
+Anser_brachyrhynchus		ENSABRG00000000327	Other_CRF	NA
+Anser_brachyrhynchus		ENSABRG00000000339	Others	NA
+Anser_brachyrhynchus	HIF1AN	ENSABRG00000000346	Others	NA
+Anser_brachyrhynchus	MDFI	ENSABRG00000000404	Others	NA
+Anser_brachyrhynchus	MTDH	ENSABRG00000000437	Others	NA
+Anser_brachyrhynchus	FRK	ENSABRG00000000463	Others	NA
+Anser_brachyrhynchus	ASH2L	ENSABRG00000000535	Others	NA
+Anser_brachyrhynchus	HDAC2	ENSABRG00000000551	Histone deacetylase	NA
+Anser_brachyrhynchus	CDK12	ENSABRG00000000553	Cyclin	NA
+Anser_brachyrhynchus	MED18	ENSABRG00000000557	Mediator complex	NA
+Anser_brachyrhynchus	SKAP1	ENSABRG00000000558	Others	NA
+Anser_brachyrhynchus	MED1	ENSABRG00000000575	Mediator complex	NA
+Anser_brachyrhynchus	PARP9	ENSABRG00000000580	PARP	NA
+Anser_brachyrhynchus	EZR	ENSABRG00000000582	Others	NA
+Anser_brachyrhynchus	SIN3A	ENSABRG00000000585	Other_CRF	NA
+Anser_brachyrhynchus		ENSABRG00000000604	Mediator complex	NA
+Anser_brachyrhynchus	FGFR2	ENSABRG00000000608	FGF	NA
+Anser_brachyrhynchus	LPIN1	ENSABRG00000000615	LPIN	NA
+Anser_brachyrhynchus		ENSABRG00000000635	Others	NA
+Anser_brachyrhynchus	SS18L1	ENSABRG00000000648	SS18	NA
+Anser_brachyrhynchus	CDK9	ENSABRG00000000658	Cyclin	NA
+Anser_brachyrhynchus		ENSABRG00000000671	Others	NA
+Anser_brachyrhynchus	BTK	ENSABRG00000000710	Others	NA
+Anser_brachyrhynchus	TRIB2	ENSABRG00000000721	Others	NA
+Anser_brachyrhynchus	HYAL2	ENSABRG00000000745	Others	NA
+Anser_brachyrhynchus	MAML2	ENSABRG00000000748	MAML	NA
+Anser_brachyrhynchus	SUPT7L	ENSABRG00000000780	SUPT	NA
+Anser_brachyrhynchus	HCLS1	ENSABRG00000000781	Others	NA
+Anser_brachyrhynchus	BRIP1	ENSABRG00000000819	Others	NA
+Anser_brachyrhynchus	CNOT2	ENSABRG00000000842	CCR4-NOT	NA
+Anser_brachyrhynchus	EPC1	ENSABRG00000000910	Others	NA
+Anser_brachyrhynchus	APBB1	ENSABRG00000001000	Others	NA
+Anser_brachyrhynchus	CBX6	ENSABRG00000001054	Chromobox	NA
+Anser_brachyrhynchus	DNMT1	ENSABRG00000001097	DNA_methylase	NA
+Anser_brachyrhynchus	DDX1	ENSABRG00000001132	RNA helicase	NA
+Anser_brachyrhynchus	SYK	ENSABRG00000001134	Others	NA
+Anser_brachyrhynchus	NUP62	ENSABRG00000001150	Others	NA
+Anser_brachyrhynchus	GTF2A1	ENSABRG00000001174	GTF	NA
+Anser_brachyrhynchus	URI1	ENSABRG00000001220	Others	NA
+Anser_brachyrhynchus	CIR1	ENSABRG00000001225	Other_Co-activator/repressors	NA
+Anser_brachyrhynchus	CCNE1	ENSABRG00000001263	Cyclin	NA
+Anser_brachyrhynchus	TAF10	ENSABRG00000001328	TATA-box	NA
+Anser_brachyrhynchus	IKBKB	ENSABRG00000001364	Others	NA
+Anser_brachyrhynchus	KAT6A	ENSABRG00000001510	Lysine acetyltransferase	NA
+Anser_brachyrhynchus	DDX17	ENSABRG00000001584	RNA helicase	NA
+Anser_brachyrhynchus	BUD31	ENSABRG00000001589	Others	NA
+Anser_brachyrhynchus	CCNK	ENSABRG00000001604	Cyclin	NA
+Anser_brachyrhynchus	SETD3	ENSABRG00000001643	SET	NA
+Anser_brachyrhynchus	SNW1	ENSABRG00000001682	Others	NA
+Anser_brachyrhynchus	RBM15B	ENSABRG00000001736	RNA binding protein	NA
+Anser_brachyrhynchus	MED13	ENSABRG00000001762	Mediator complex	NA
+Anser_brachyrhynchus		ENSABRG00000001767	Others	NA
+Anser_brachyrhynchus	DOT1L	ENSABRG00000001775	Others	NA
+Anser_brachyrhynchus		ENSABRG00000001777	Others	NA
+Anser_brachyrhynchus	DCAF1	ENSABRG00000001779	Others	NA
+Anser_brachyrhynchus	FHIT	ENSABRG00000001781	Others	NA
+Anser_brachyrhynchus	SMURF1	ENSABRG00000001864	Others	NA
+Anser_brachyrhynchus	WAC	ENSABRG00000001904	WW	NA
+Anser_brachyrhynchus	STK3	ENSABRG00000001920	Others	NA
+Anser_brachyrhynchus	CREG1	ENSABRG00000001924	Others	NA
+Anser_brachyrhynchus		ENSABRG00000001941	Others	NA
+Anser_brachyrhynchus	ACTB	ENSABRG00000002004	Actin	NA
+Anser_brachyrhynchus	WDTC1	ENSABRG00000002008	WD	NA
+Anser_brachyrhynchus	ATAD2B	ENSABRG00000002023	Others	NA
+Anser_brachyrhynchus	DCAF6	ENSABRG00000002146	Others	NA
+Anser_brachyrhynchus	IRF2BPL	ENSABRG00000002202	Others	NA
+Anser_brachyrhynchus	TAF15	ENSABRG00000002253	TATA-box	NA
+Anser_brachyrhynchus	TGFB3	ENSABRG00000002408	Others	NA
+Anser_brachyrhynchus	LRPPRC	ENSABRG00000002580	Others	NA
+Anser_brachyrhynchus	NRIP3	ENSABRG00000002584	Nuclear coactivator	NA
+Anser_brachyrhynchus	UTP4	ENSABRG00000002603	Others	NA
+Anser_brachyrhynchus	C1D	ENSABRG00000002604	Other_Co-activator/repressors	NA
+Anser_brachyrhynchus	TARBP1	ENSABRG00000002605	Others	NA
+Anser_brachyrhynchus	BEND3	ENSABRG00000002730	Others	NA
+Anser_brachyrhynchus	CNOT6	ENSABRG00000002765	CCR4-NOT	NA
+Anser_brachyrhynchus	RNF2	ENSABRG00000002776	Ring finger protein	NA
+Anser_brachyrhynchus	PAWR	ENSABRG00000002832	Others	NA
+Anser_brachyrhynchus	BRD7	ENSABRG00000002889	Bromodomain	NA
+Anser_brachyrhynchus	SERTAD2	ENSABRG00000002908	Others	NA
+Anser_brachyrhynchus	PIN1	ENSABRG00000002911	Others	NA
+Anser_brachyrhynchus	WWP2	ENSABRG00000002919	WW	NA
+Anser_brachyrhynchus	PELI1	ENSABRG00000002957	Others	NA
+Anser_brachyrhynchus	ESF1	ENSABRG00000002993	Others	NA
+Anser_brachyrhynchus	ELP3	ENSABRG00000003007	ELP	NA
+Anser_brachyrhynchus	ARR3	ENSABRG00000003020	Others	NA
+Anser_brachyrhynchus	FHL5	ENSABRG00000003040	FHL	NA
+Anser_brachyrhynchus	NSD3	ENSABRG00000003063	Nuclear receptor coactivator	NA
+Anser_brachyrhynchus	UFL1	ENSABRG00000003072	Others	NA
+Anser_brachyrhynchus	DVL3	ENSABRG00000003117	Others	NA
+Anser_brachyrhynchus	PUF60	ENSABRG00000003137	Others	NA
+Anser_brachyrhynchus	FGFR1	ENSABRG00000003171	FGF	NA
+Anser_brachyrhynchus	RBFOX2	ENSABRG00000003221	Others	NA
+Anser_brachyrhynchus	CCNT2	ENSABRG00000003228	Cyclin	NA
+Anser_brachyrhynchus	CNOT1	ENSABRG00000003284	CCR4-NOT	NA
+Anser_brachyrhynchus	MAP3K7	ENSABRG00000003303	Others	NA
+Anser_brachyrhynchus	SUPT3H	ENSABRG00000003314	SUPT	NA
+Anser_brachyrhynchus	HMOX1	ENSABRG00000003342	Others	NA
+Anser_brachyrhynchus	EAF1	ENSABRG00000003360	Others	NA
+Anser_brachyrhynchus	TOP1	ENSABRG00000003366	Other_CRF	NA
+Anser_brachyrhynchus	RHOA	ENSABRG00000003369	Others	NA
+Anser_brachyrhynchus	CASP8AP2	ENSABRG00000003379	Others	NA
+Anser_brachyrhynchus	NOD1	ENSABRG00000003455	Others	NA
+Anser_brachyrhynchus	SETD6	ENSABRG00000003464	SET	NA
+Anser_brachyrhynchus	SLC30A9	ENSABRG00000003505	SLC	NA
+Anser_brachyrhynchus		ENSABRG00000003519	Others	NA
+Anser_brachyrhynchus	ELP2	ENSABRG00000003540	ELP	NA
+Anser_brachyrhynchus	MED21	ENSABRG00000003551	Mediator complex	NA
+Anser_brachyrhynchus	FHOD1	ENSABRG00000003600	Others	NA
+Anser_brachyrhynchus	RPTOR	ENSABRG00000003616	Others	NA
+Anser_brachyrhynchus	RGCC	ENSABRG00000003765	Others	NA
+Anser_brachyrhynchus		ENSABRG00000003771	Others	NA
+Anser_brachyrhynchus	CNOT10	ENSABRG00000003815	CCR4-NOT	NA
+Anser_brachyrhynchus	TASOR	ENSABRG00000003999	FAM	NA
+Anser_brachyrhynchus	SAV1	ENSABRG00000004029	Others	NA
+Anser_brachyrhynchus	NRIP1	ENSABRG00000004043	Nuclear receptor coactivator	NA
+Anser_brachyrhynchus	NOL11	ENSABRG00000004072	Nuclear coactivator	NA
+Anser_brachyrhynchus	CGGBP1	ENSABRG00000004140	Others	NA
+Anser_brachyrhynchus	TAF9	ENSABRG00000004161	TATA-box	NA
+Anser_brachyrhynchus	TP53BP1	ENSABRG00000004209	Others	NA
+Anser_brachyrhynchus		ENSABRG00000004217	NFKB associated	NA
+Anser_brachyrhynchus	KMT2E	ENSABRG00000004271	Lysine methyltransferase	NA
+Anser_brachyrhynchus	INSR	ENSABRG00000004285	Others	NA
+Anser_brachyrhynchus	RBBP5	ENSABRG00000004333	RBBP	NA
+Anser_brachyrhynchus	CBL	ENSABRG00000004341	Others	NA
+Anser_brachyrhynchus	BPTF	ENSABRG00000004387	Bromodomain	NA
+Anser_brachyrhynchus	CRY1	ENSABRG00000004417	Others	NA
+Anser_brachyrhynchus	GRHPR	ENSABRG00000004428	Others	NA
+Anser_brachyrhynchus		ENSABRG00000004457	Others	NA
+Anser_brachyrhynchus	TRIM29	ENSABRG00000004554	Tripartite motif	NA
+Anser_brachyrhynchus	TOB2	ENSABRG00000004605	Others	NA
+Anser_brachyrhynchus	PHF5A	ENSABRG00000004614	PHF	NA
+Anser_brachyrhynchus	ELL2	ENSABRG00000004641	GTF	NA
+Anser_brachyrhynchus	RSF1	ENSABRG00000004729	Others	NA
+Anser_brachyrhynchus	XRCC6	ENSABRG00000004750	Others	NA
+Anser_brachyrhynchus	ELP1	ENSABRG00000004860	ELP	NA
+Anser_brachyrhynchus	SLC25A15	ENSABRG00000004886	SLC	NA
+Anser_brachyrhynchus		ENSABRG00000004895	Others	NA
+Anser_brachyrhynchus	PRSS57	ENSABRG00000005029	Others	NA
+Anser_brachyrhynchus	TCF20	ENSABRG00000005048	Others	NA
+Anser_brachyrhynchus	EED	ENSABRG00000005077	Others	NA
+Anser_brachyrhynchus	WDR61	ENSABRG00000005080	WD	NA
+Anser_brachyrhynchus	MED16	ENSABRG00000005139	Mediator complex	NA
+Anser_brachyrhynchus	PCBD2	ENSABRG00000005148	Others	NA
+Anser_brachyrhynchus	PICALM	ENSABRG00000005201	Others	NA
+Anser_brachyrhynchus	CCNA2	ENSABRG00000005221	Cyclin	NA
+Anser_brachyrhynchus	CRTC2	ENSABRG00000005257	CREB	NA
+Anser_brachyrhynchus	ATF7IP	ENSABRG00000005266	Others	NA
+Anser_brachyrhynchus	PPHLN1	ENSABRG00000005284	Others	NA
+Anser_brachyrhynchus	TCEA1	ENSABRG00000005320	TEF	NA
+Anser_brachyrhynchus	ACTR8	ENSABRG00000005324	ACTR	NA
+Anser_brachyrhynchus	KDM7A	ENSABRG00000005332	Lysine demethylase	NA
+Anser_brachyrhynchus	CRTC1	ENSABRG00000005352	CREB	NA
+Anser_brachyrhynchus	TRRAP	ENSABRG00000005380	Others	NA
+Anser_brachyrhynchus	UBA52	ENSABRG00000005391	Others	NA
+Anser_brachyrhynchus	ELL	ENSABRG00000005411	GTF	NA
+Anser_brachyrhynchus	TRIP11	ENSABRG00000005440	Thyroid hormone receptor	NA
+Anser_brachyrhynchus	ARHGAP35	ENSABRG00000005455	Others	NA
+Anser_brachyrhynchus	TRIM24	ENSABRG00000005474	Tripartite motif	NA
+Anser_brachyrhynchus		ENSABRG00000005477	Chromodomain Y	NA
+Anser_brachyrhynchus	MLLT6	ENSABRG00000005520	Others	NA
+Anser_brachyrhynchus	C6orf89	ENSABRG00000005523	Other_CRF	NA
+Anser_brachyrhynchus	TGS1	ENSABRG00000005551	Others	NA
+Anser_brachyrhynchus	CSRP3	ENSABRG00000005596	Others	NA
+Anser_brachyrhynchus	HSPA8	ENSABRG00000005599	Heat shock protein	NA
+Anser_brachyrhynchus	MRGBP	ENSABRG00000005636	Others	NA
+Anser_brachyrhynchus	SDR16C5	ENSABRG00000005642	Others	NA
+Anser_brachyrhynchus	TNNI2	ENSABRG00000005703	Others	NA
+Anser_brachyrhynchus	CTNND1	ENSABRG00000005738	Casein	NA
+Anser_brachyrhynchus	MED19	ENSABRG00000005759	Mediator complex	NA
+Anser_brachyrhynchus	TCERG1L	ENSABRG00000005804	TEF	NA
+Anser_brachyrhynchus	HCFC2	ENSABRG00000005912	Others	NA
+Anser_brachyrhynchus	RB1	ENSABRG00000005918	Other_Co-activator/repressors	NA
+Anser_brachyrhynchus		ENSABRG00000005926	Others	NA
+Anser_brachyrhynchus	TDG	ENSABRG00000005939	Others	NA
+Anser_brachyrhynchus		ENSABRG00000005967	SUPT	NA
+Anser_brachyrhynchus	MED4	ENSABRG00000005968	Mediator complex	NA
+Anser_brachyrhynchus	PHF21B	ENSABRG00000006060	PHF	NA
+Anser_brachyrhynchus	CCNA1	ENSABRG00000006066	Cyclin	NA
+Anser_brachyrhynchus	DAB2	ENSABRG00000006154	Others	NA
+Anser_brachyrhynchus	CIDEA	ENSABRG00000006162	Others	NA
+Anser_brachyrhynchus	CHD7	ENSABRG00000006196	CHD	NA
+Anser_brachyrhynchus	HIPK2	ENSABRG00000006197	HIPK	NA
+Anser_brachyrhynchus	PDCD4	ENSABRG00000006329	Others	NA
+Anser_brachyrhynchus		ENSABRG00000006352	Others	NA
+Anser_brachyrhynchus	ARL2BP	ENSABRG00000006397	Others	NA
+Anser_brachyrhynchus	EDRF1	ENSABRG00000006414	Others	NA
+Anser_brachyrhynchus	XIAP	ENSABRG00000006537	Others	NA
+Anser_brachyrhynchus		ENSABRG00000006559	SWI/SNF	NA
+Anser_brachyrhynchus	TCEA2	ENSABRG00000006563	TEF	NA
+Anser_brachyrhynchus	DGKQ	ENSABRG00000006574	Others	NA
+Anser_brachyrhynchus	ARGLU1	ENSABRG00000006588	Others	NA
+Anser_brachyrhynchus	PRPF6	ENSABRG00000006592	Others	NA
+Anser_brachyrhynchus	TENM1	ENSABRG00000006618	Others	NA
+Anser_brachyrhynchus	PHF2	ENSABRG00000006684	PHF	NA
+Anser_brachyrhynchus	SKI	ENSABRG00000006736	SKI	NA
+Anser_brachyrhynchus	TERF2IP	ENSABRG00000006737	Others	NA
+Anser_brachyrhynchus	KAT2B	ENSABRG00000006750	Lysine acetyltransferase	NA
+Anser_brachyrhynchus	MBTD1	ENSABRG00000006772	Others	NA
+Anser_brachyrhynchus	SENP1	ENSABRG00000006814	Others	NA
+Anser_brachyrhynchus	SAP130	ENSABRG00000006868	SAP	NA
+Anser_brachyrhynchus	EYA1	ENSABRG00000006897	EYA	NA
+Anser_brachyrhynchus	SSU72	ENSABRG00000006898	Others	NA
+Anser_brachyrhynchus	NCOA2	ENSABRG00000006935	Nuclear receptor coactivator	NA
+Anser_brachyrhynchus	BAZ1B	ENSABRG00000006946	Bromodomain	NA
+Anser_brachyrhynchus	BLM	ENSABRG00000006971	Others	NA
+Anser_brachyrhynchus		ENSABRG00000006985	Others	NA
+Anser_brachyrhynchus	AURKAIP1	ENSABRG00000007020	Others	NA
+Anser_brachyrhynchus	TPR	ENSABRG00000007022	Others	NA
+Anser_brachyrhynchus	CHCHD2	ENSABRG00000007117	Coiled-coil	NA
+Anser_brachyrhynchus	SFR1	ENSABRG00000007118	Others	NA
+Anser_brachyrhynchus	CHCHD3	ENSABRG00000007128	Coiled-coil	NA
+Anser_brachyrhynchus	CHAF1B	ENSABRG00000007176	Others	NA
+Anser_brachyrhynchus	COPS5	ENSABRG00000007221	Others	NA
+Anser_brachyrhynchus	TAF5	ENSABRG00000007239	TATA-box	NA
+Anser_brachyrhynchus	PCGF6	ENSABRG00000007251	PCGF	NA
+Anser_brachyrhynchus	NOC2L	ENSABRG00000007275	Others	NA
+Anser_brachyrhynchus	HELZ2	ENSABRG00000007295	Others	NA
+Anser_brachyrhynchus	PNRC1	ENSABRG00000007300	Others	NA
+Anser_brachyrhynchus	DYRK1A	ENSABRG00000007369	Others	NA
+Anser_brachyrhynchus	AUTS2	ENSABRG00000007375	Others	NA
+Anser_brachyrhynchus	TRIM8	ENSABRG00000007399	Tripartite motif	NA
+Anser_brachyrhynchus	SUFU	ENSABRG00000007415	Others	NA
+Anser_brachyrhynchus	CRYM	ENSABRG00000007427	Others	NA
+Anser_brachyrhynchus	SMURF2	ENSABRG00000007429	Others	NA
+Anser_brachyrhynchus	COMMD1	ENSABRG00000007438	Others	NA
+Anser_brachyrhynchus	TRIM37	ENSABRG00000007452	Tripartite motif	NA
+Anser_brachyrhynchus	PER2	ENSABRG00000007500	Others	NA
+Anser_brachyrhynchus	NFKBIZ	ENSABRG00000007558	NFKB associated	NA
+Anser_brachyrhynchus	HELLS	ENSABRG00000007595	Others	NA
+Anser_brachyrhynchus	PDLIM1	ENSABRG00000007607	Others	NA
+Anser_brachyrhynchus	CSNK2A2	ENSABRG00000007626	Casein	NA
+Anser_brachyrhynchus	BTRC	ENSABRG00000007647	Others	NA
+Anser_brachyrhynchus	TOP1MT	ENSABRG00000007652	Other_CRF	NA
+Anser_brachyrhynchus		ENSABRG00000007662	HNRNP	NA
+Anser_brachyrhynchus	SLC19A1	ENSABRG00000007679	SLC	NA
+Anser_brachyrhynchus	BRWD1	ENSABRG00000007702	Bromodomain	NA
+Anser_brachyrhynchus	ENO1	ENSABRG00000007713	Others	NA
+Anser_brachyrhynchus	NPM3	ENSABRG00000007714	Nucleoplasmin	NA
+Anser_brachyrhynchus	KCNIP2	ENSABRG00000007767	Others	NA
+Anser_brachyrhynchus	TNIP2	ENSABRG00000007791	Others	NA
+Anser_brachyrhynchus	HDAC11	ENSABRG00000007799	Histone deacetylase	NA
+Anser_brachyrhynchus	LDB1	ENSABRG00000007841	LIM	NA
+Anser_brachyrhynchus	GRIP1	ENSABRG00000007883	Others	NA
+Anser_brachyrhynchus	LIN54	ENSABRG00000007914	Others	NA
+Anser_brachyrhynchus	CTNNBIP1	ENSABRG00000007922	Casein	NA
+Anser_brachyrhynchus		ENSABRG00000007952	Others	NA
+Anser_brachyrhynchus	DSCAM	ENSABRG00000008016	Others	NA
+Anser_brachyrhynchus	TNKS	ENSABRG00000008028	Others	NA
+Anser_brachyrhynchus	MMS19	ENSABRG00000008035	Others	NA
+Anser_brachyrhynchus	NCOA7	ENSABRG00000008080	Nuclear receptor coactivator	NA
+Anser_brachyrhynchus	ITCH	ENSABRG00000008171	Others	NA
+Anser_brachyrhynchus	RBM14	ENSABRG00000008174	RNA binding protein	NA
+Anser_brachyrhynchus	ACTN4	ENSABRG00000008222	Actin	NA
+Anser_brachyrhynchus	SAP30	ENSABRG00000008310	SAP	NA
+Anser_brachyrhynchus	RNF4	ENSABRG00000008422	Ring finger protein	NA
+Anser_brachyrhynchus	LPP	ENSABRG00000008425	Thyroid hormone receptor	NA
+Anser_brachyrhynchus	PSIP1	ENSABRG00000008458	Others	NA
+Anser_brachyrhynchus	EPC2	ENSABRG00000008493	Others	NA
+Anser_brachyrhynchus	ANP32E	ENSABRG00000008502	ANP	NA
+Anser_brachyrhynchus	FLNB	ENSABRG00000008509	Others	NA
+Anser_brachyrhynchus	DDX5	ENSABRG00000008564	RNA helicase	NA
+Anser_brachyrhynchus	DDX20	ENSABRG00000008596	RNA helicase	NA
+Anser_brachyrhynchus	SNAPC5	ENSABRG00000008617	Others	NA
+Anser_brachyrhynchus	WDR77	ENSABRG00000008653	WD	NA
+Anser_brachyrhynchus	GTF2H3	ENSABRG00000008672	GTF	NA
+Anser_brachyrhynchus	MED23	ENSABRG00000008731	Mediator complex	NA
+Anser_brachyrhynchus	NELFA	ENSABRG00000008734	GTF	NA
+Anser_brachyrhynchus	ELOC	ENSABRG00000008740	Others	NA
+Anser_brachyrhynchus	KDM1A	ENSABRG00000008753	Lysine demethylase	NA
+Anser_brachyrhynchus	RPRD1B	ENSABRG00000008862	Others	NA
+Anser_brachyrhynchus	TAB3	ENSABRG00000008864	Others	NA
+Anser_brachyrhynchus	EYA3	ENSABRG00000008872	EYA	NA
+Anser_brachyrhynchus	CITED4	ENSABRG00000009008	CITED	NA
+Anser_brachyrhynchus	CTBP1	ENSABRG00000009016	Others	NA
+Anser_brachyrhynchus		ENSABRG00000009019	Others	NA
+Anser_brachyrhynchus		ENSABRG00000009030	Others	NA
+Anser_brachyrhynchus	YAP1	ENSABRG00000009040	Others	NA
+Anser_brachyrhynchus	SCMH1	ENSABRG00000009051	Others	NA
+Anser_brachyrhynchus	MYBBP1A	ENSABRG00000009125	MYB	NA
+Anser_brachyrhynchus	JUP	ENSABRG00000009164	Others	NA
+Anser_brachyrhynchus		ENSABRG00000009339	Others	NA
+Anser_brachyrhynchus	BRF1	ENSABRG00000009340	GTF	NA
+Anser_brachyrhynchus		ENSABRG00000009365	Others	NA
+Anser_brachyrhynchus	EGFR	ENSABRG00000009417	Others	NA
+Anser_brachyrhynchus	LANCL2	ENSABRG00000009438	Others	NA
+Anser_brachyrhynchus		ENSABRG00000009457	Others	NA
+Anser_brachyrhynchus	LMCD1	ENSABRG00000009469	LIM	NA
+Anser_brachyrhynchus	LIMD1	ENSABRG00000009528	LIM	NA
+Anser_brachyrhynchus	EYA4	ENSABRG00000009530	EYA	NA
+Anser_brachyrhynchus	KMT5A	ENSABRG00000009537	Lysine methyltransferase	NA
+Anser_brachyrhynchus	MID1IP1	ENSABRG00000009582	Others	NA
+Anser_brachyrhynchus	RUVBL1	ENSABRG00000009587	Other_CRF	NA
+Anser_brachyrhynchus	BCOR	ENSABRG00000009596	Other_Co-activator/repressors	NA
+Anser_brachyrhynchus	POLR1A	ENSABRG00000009609	POLR	NA
+Anser_brachyrhynchus	MED14	ENSABRG00000009636	Mediator complex	NA
+Anser_brachyrhynchus	RAF1	ENSABRG00000009695	Others	NA
+Anser_brachyrhynchus	CDK13	ENSABRG00000009706	Cyclin	NA
+Anser_brachyrhynchus	HINT2	ENSABRG00000009763	Others	NA
+Anser_brachyrhynchus	TAF12	ENSABRG00000009777	TATA-box	NA
+Anser_brachyrhynchus	VGLL4	ENSABRG00000009786	Vestigial like	NA
+Anser_brachyrhynchus	ERN1	ENSABRG00000009818	Others	NA
+Anser_brachyrhynchus	NRG1	ENSABRG00000009867	Others	NA
+Anser_brachyrhynchus		ENSABRG00000009874	TATA-box	NA
+Anser_brachyrhynchus	AGO2	ENSABRG00000009885	Others	NA
+Anser_brachyrhynchus	SS18L2	ENSABRG00000009896	SS18	NA
+Anser_brachyrhynchus	CTDP1	ENSABRG00000009977	Others	NA
+Anser_brachyrhynchus	CCDC59	ENSABRG00000010015	Coiled-coil	NA
+Anser_brachyrhynchus		ENSABRG00000010018	Heat shock protein	NA
+Anser_brachyrhynchus	CHD1L	ENSABRG00000010095	CHD	NA
+Anser_brachyrhynchus	TIGD3	ENSABRG00000010115	CENP	NA
+Anser_brachyrhynchus	TAX1BP1	ENSABRG00000010126	Others	NA
+Anser_brachyrhynchus	KAT6B	ENSABRG00000010196	Lysine acetyltransferase	NA
+Anser_brachyrhynchus	TRAK1	ENSABRG00000010215	Others	NA
+Anser_brachyrhynchus	RBBP7	ENSABRG00000010224	RBBP	NA
+Anser_brachyrhynchus	TXLNG	ENSABRG00000010232	Others	NA
+Anser_brachyrhynchus	CRK	ENSABRG00000010250	Others	NA
+Anser_brachyrhynchus	CBX3	ENSABRG00000010267	Chromobox	NA
+Anser_brachyrhynchus	CEP290	ENSABRG00000010277	Others	NA
+Anser_brachyrhynchus	CTNNB1	ENSABRG00000010301	Casein	NA
+Anser_brachyrhynchus	GSK3B	ENSABRG00000010305	Others	NA
+Anser_brachyrhynchus	MRTFB	ENSABRG00000010308	Others	NA
+Anser_brachyrhynchus	DHX33	ENSABRG00000010321	RNA helicase	NA
+Anser_brachyrhynchus	CALR	ENSABRG00000010326	Others	NA
+Anser_brachyrhynchus	CASK	ENSABRG00000010365	CAMK	NA
+Anser_brachyrhynchus	SUPT5H	ENSABRG00000010385	SUPT	NA
+Anser_brachyrhynchus	GTF2E1	ENSABRG00000010408	GTF	NA
+Anser_brachyrhynchus		ENSABRG00000010595	Others	NA
+Anser_brachyrhynchus		ENSABRG00000010636	CHD	NA
+Anser_brachyrhynchus	BTG1	ENSABRG00000010638	Others	NA
+Anser_brachyrhynchus	CHRAC1	ENSABRG00000010680	Other_CRF	NA
+Anser_brachyrhynchus	SKIL	ENSABRG00000010699	SKI	NA
+Anser_brachyrhynchus	TAF1B	ENSABRG00000010705	TATA-box	NA
+Anser_brachyrhynchus	SIRT7	ENSABRG00000010708	Sirtuin	NA
+Anser_brachyrhynchus	MSL3	ENSABRG00000010722	Others	NA
+Anser_brachyrhynchus	TBPL1	ENSABRG00000010783	TATA-box	NA
+Anser_brachyrhynchus	SGK1	ENSABRG00000010801	Others	NA
+Anser_brachyrhynchus		ENSABRG00000010867	Transducin	NA
+Anser_brachyrhynchus	HDAC9	ENSABRG00000010874	Histone deacetylase	NA
+Anser_brachyrhynchus		ENSABRG00000010917	Lysine demethylase	NA
+Anser_brachyrhynchus	ANXA4	ENSABRG00000010922	Others	NA
+Anser_brachyrhynchus	WWOX	ENSABRG00000010937	WW	NA
+Anser_brachyrhynchus	SMARCA2	ENSABRG00000010971	SWI/SNF	NA
+Anser_brachyrhynchus	H2AZ1	ENSABRG00000010996	Others	NA
+Anser_brachyrhynchus	CDYL2	ENSABRG00000011016	Chromodomain Y	NA
+Anser_brachyrhynchus		ENSABRG00000011102	GTF	NA
+Anser_brachyrhynchus		ENSABRG00000011108	Others	NA
+Anser_brachyrhynchus		ENSABRG00000011169	Others	NA
+Anser_brachyrhynchus	SIRT3	ENSABRG00000011173	Sirtuin	NA
+Anser_brachyrhynchus	ALYREF	ENSABRG00000011176	Others	NA
+Anser_brachyrhynchus	PPP1R27	ENSABRG00000011240	Others	NA
+Anser_brachyrhynchus	CITED2	ENSABRG00000011293	CITED	NA
+Anser_brachyrhynchus	PPARGC1B	ENSABRG00000011312	Others	NA
+Anser_brachyrhynchus	PAK6	ENSABRG00000011361	Others	NA
+Anser_brachyrhynchus	SIRT5	ENSABRG00000011435	Sirtuin	NA
+Anser_brachyrhynchus	TOPORS	ENSABRG00000011443	Others	NA
+Anser_brachyrhynchus	XRN2	ENSABRG00000011465	Others	NA
+Anser_brachyrhynchus	TDRD3	ENSABRG00000011474	Others	NA
+Anser_brachyrhynchus		ENSABRG00000011563	TATA-box	NA
+Anser_brachyrhynchus	SUPT6H	ENSABRG00000011666	SUPT	NA
+Anser_brachyrhynchus	TRIP4	ENSABRG00000011684	Thyroid hormone receptor	NA
+Anser_brachyrhynchus	PCGF5	ENSABRG00000011791	PCGF	NA
+Anser_brachyrhynchus	ANKRD1	ENSABRG00000011807	Ankyrin repeat	NA
+Anser_brachyrhynchus	PHF12	ENSABRG00000011827	PHF	NA
+Anser_brachyrhynchus	CDK5R1	ENSABRG00000011835	Cyclin	NA
+Anser_brachyrhynchus	CBX8	ENSABRG00000011962	Chromobox	NA
+Anser_brachyrhynchus	SUZ12	ENSABRG00000011991	Others	NA
+Anser_brachyrhynchus	SIN3B	ENSABRG00000012013	Others	NA
+Anser_brachyrhynchus		ENSABRG00000012071	RNA binding protein	NA
+Anser_brachyrhynchus	TXN	ENSABRG00000012099	Others	NA
+Anser_brachyrhynchus	NUP98	ENSABRG00000012126	Others	NA
+Anser_brachyrhynchus	VGLL1	ENSABRG00000012161	Vestigial like	NA
+Anser_brachyrhynchus	HEXIM1	ENSABRG00000012173	Others	NA
+Anser_brachyrhynchus	MED31	ENSABRG00000012182	Mediator complex	NA
+Anser_brachyrhynchus	ACTR5	ENSABRG00000012197	ACTR	NA
+Anser_brachyrhynchus	TOB1	ENSABRG00000012283	Others	NA
+Anser_brachyrhynchus		ENSABRG00000012342	Mediator complex	NA
+Anser_brachyrhynchus	MDM4	ENSABRG00000012365	Others	NA
+Anser_brachyrhynchus	SIVA1	ENSABRG00000012430	Others	NA
+Anser_brachyrhynchus	PNRC2	ENSABRG00000012454	Others	NA
+Anser_brachyrhynchus	ERCC3	ENSABRG00000012460	Others	NA
+Anser_brachyrhynchus	RAP2C	ENSABRG00000012463	Others	NA
+Anser_brachyrhynchus	SMARCD2	ENSABRG00000012510	SWI/SNF	NA
+Anser_brachyrhynchus	STRN3	ENSABRG00000012535	Others	NA
+Anser_brachyrhynchus	PSEN1	ENSABRG00000012553	Others	NA
+Anser_brachyrhynchus	TRIM25	ENSABRG00000012560	Tripartite motif	NA
+Anser_brachyrhynchus	PRMT8	ENSABRG00000012589	Arginine methyltransferase	NA
+Anser_brachyrhynchus	ING4	ENSABRG00000012599	ING	NA
+Anser_brachyrhynchus	TAF2	ENSABRG00000012639	TATA-box	NA
+Anser_brachyrhynchus		ENSABRG00000012650	PCGF	NA
+Anser_brachyrhynchus		ENSABRG00000012671	CHD	NA
+Anser_brachyrhynchus	CAVIN1	ENSABRG00000012683	Others	NA
+Anser_brachyrhynchus	DPF3	ENSABRG00000012697	DPF	NA
+Anser_brachyrhynchus	TRIM33	ENSABRG00000012717	Tripartite motif	NA
+Anser_brachyrhynchus	KDM1B	ENSABRG00000012736	Lysine demethylase	NA
+Anser_brachyrhynchus	SFMBT2	ENSABRG00000012760	Others	NA
+Anser_brachyrhynchus	HIPK1	ENSABRG00000012762	HIPK	NA
+Anser_brachyrhynchus	MAK	ENSABRG00000012763	Others	NA
+Anser_brachyrhynchus	ING3	ENSABRG00000012803	ING	NA
+Anser_brachyrhynchus		ENSABRG00000012814	Tripartite motif	NA
+Anser_brachyrhynchus	SAMD4A	ENSABRG00000012842	Others	NA
+Anser_brachyrhynchus	TBPL2	ENSABRG00000012912	TATA-box	NA
+Anser_brachyrhynchus	NAA15	ENSABRG00000012922	Others	NA
+Anser_brachyrhynchus	KDM3A	ENSABRG00000012928	Lysine demethylase	NA
+Anser_brachyrhynchus	EZH1	ENSABRG00000012958	Others	NA
+Anser_brachyrhynchus	DAPK3	ENSABRG00000012994	Others	NA
+Anser_brachyrhynchus	BRMS1L	ENSABRG00000013014	Other_CRF	NA
+Anser_brachyrhynchus	LGALS8	ENSABRG00000013037	Others	NA
+Anser_brachyrhynchus	PPIE	ENSABRG00000013061	Others	NA
+Anser_brachyrhynchus	BRCA1	ENSABRG00000013131	Others	NA
+Anser_brachyrhynchus	SIRT6	ENSABRG00000013168	Sirtuin	NA
+Anser_brachyrhynchus	HEATR1	ENSABRG00000013178	Others	NA
+Anser_brachyrhynchus	DEK	ENSABRG00000013191	Other_CRF	NA
+Anser_brachyrhynchus	RALGAPA1	ENSABRG00000013207	Others	NA
+Anser_brachyrhynchus	CCNH	ENSABRG00000013217	Cyclin	NA
+Anser_brachyrhynchus	KAT7	ENSABRG00000013283	Lysine acetyltransferase	NA
+Anser_brachyrhynchus	WWP1	ENSABRG00000013305	WW	NA
+Anser_brachyrhynchus	MLLT1	ENSABRG00000013334	GTF	NA
+Anser_brachyrhynchus		ENSABRG00000013368	ANP	NA
+Anser_brachyrhynchus	CTNND2	ENSABRG00000013401	Casein	NA
+Anser_brachyrhynchus	WNT3	ENSABRG00000013420	Others	NA
+Anser_brachyrhynchus	PHIP	ENSABRG00000013428	Others	NA
+Anser_brachyrhynchus	TRAK2	ENSABRG00000013455	Others	NA
+Anser_brachyrhynchus		ENSABRG00000013464	Others	NA
+Anser_brachyrhynchus	DACT1	ENSABRG00000013488	Others	NA
+Anser_brachyrhynchus	SMYD1	ENSABRG00000013587	SMYD	NA
+Anser_brachyrhynchus	ORC2	ENSABRG00000013617	Others	NA
+Anser_brachyrhynchus	TAF3	ENSABRG00000013621	TATA-box	NA
+Anser_brachyrhynchus	NIF3L1	ENSABRG00000013667	Others	NA
+Anser_brachyrhynchus	SETD7	ENSABRG00000013691	SET	NA
+Anser_brachyrhynchus	MED30	ENSABRG00000013696	Mediator complex	NA
+Anser_brachyrhynchus	MNAT1	ENSABRG00000013710	Others	NA
+Anser_brachyrhynchus	KDM2B	ENSABRG00000013776	Lysine demethylase	NA
+Anser_brachyrhynchus	NUDT5	ENSABRG00000013816	Other_CRF	NA
+Anser_brachyrhynchus	ACTR6	ENSABRG00000013827	ACTR	NA
+Anser_brachyrhynchus	ASCC2	ENSABRG00000013845	ASCC	NA
+Anser_brachyrhynchus	OPTN	ENSABRG00000013847	Others	NA
+Anser_brachyrhynchus	MAML3	ENSABRG00000013850	MAML	NA
+Anser_brachyrhynchus	ARHGAP5	ENSABRG00000013863	Others	NA
+Anser_brachyrhynchus	MYCBP2	ENSABRG00000013872	MYC	NA
+Anser_brachyrhynchus	LMO3	ENSABRG00000013901	LIM	NA
+Anser_brachyrhynchus	STRAP	ENSABRG00000013930	Others	NA
+Anser_brachyrhynchus	EAPP	ENSABRG00000013967	Others	NA
+Anser_brachyrhynchus	SUV39H2	ENSABRG00000013970	Others	NA
+Anser_brachyrhynchus	SNX6	ENSABRG00000013972	Others	NA
+Anser_brachyrhynchus	PIDD1	ENSABRG00000014118	Others	NA
+Anser_brachyrhynchus	RAD21	ENSABRG00000014139	Others	NA
+Anser_brachyrhynchus	FBXW7	ENSABRG00000014263	Others	NA
+Anser_brachyrhynchus	RNF20	ENSABRG00000014270	Ring finger protein	NA
+Anser_brachyrhynchus	CECR2	ENSABRG00000014273	Other_CRF	NA
+Anser_brachyrhynchus	ENY2	ENSABRG00000014276	Others	NA
+Anser_brachyrhynchus	HDAC10	ENSABRG00000014313	Histone deacetylase	NA
+Anser_brachyrhynchus	CXXC5	ENSABRG00000014324	Others	NA
+Anser_brachyrhynchus	ABRA	ENSABRG00000014378	Actin	NA
+Anser_brachyrhynchus	PIM3	ENSABRG00000014401	Others	NA
+Anser_brachyrhynchus		ENSABRG00000014413	Tripartite motif	NA
+Anser_brachyrhynchus	BRD1	ENSABRG00000014414	Bromodomain	NA
+Anser_brachyrhynchus		ENSABRG00000014520	Lysine methyltransferase	NA
+Anser_brachyrhynchus	LDB2	ENSABRG00000014613	LIM	NA
+Anser_brachyrhynchus	MED28	ENSABRG00000014643	Mediator complex	NA
+Anser_brachyrhynchus	PLRG1	ENSABRG00000014756	Others	NA
+Anser_brachyrhynchus	PPARGC1A	ENSABRG00000014767	Others	NA
+Anser_brachyrhynchus	DR1	ENSABRG00000014802	Others	NA
+Anser_brachyrhynchus	PARK7	ENSABRG00000014829	Others	NA
+Anser_brachyrhynchus	HIRA	ENSABRG00000014830	Others	NA
+Anser_brachyrhynchus	MTF2	ENSABRG00000014841	Others	NA
+Anser_brachyrhynchus	SMARCA5	ENSABRG00000014923	SWI/SNF	NA
+Anser_brachyrhynchus	RWDD3	ENSABRG00000014934	Others	NA
+Anser_brachyrhynchus	ACTN2	ENSABRG00000014949	Actin	NA
+Anser_brachyrhynchus	SRA1	ENSABRG00000014976	Others	NA
+Anser_brachyrhynchus	SMARCB1	ENSABRG00000014982	SWI/SNF	NA
+Anser_brachyrhynchus	ADRB2	ENSABRG00000015003	Others	NA
+Anser_brachyrhynchus	LZTS1	ENSABRG00000015087	Others	NA
+Anser_brachyrhynchus	CAMK2D	ENSABRG00000015104	CAMK	NA
+Anser_brachyrhynchus	DUSP26	ENSABRG00000015131	Others	NA
+Anser_brachyrhynchus	ICE2	ENSABRG00000015132	GTF	NA
+Anser_brachyrhynchus	GTF2A2	ENSABRG00000015158	GTF	NA
+Anser_brachyrhynchus	BRD8	ENSABRG00000015161	Bromodomain	NA
+Anser_brachyrhynchus	RPAP2	ENSABRG00000015178	Others	NA
+Anser_brachyrhynchus	EMSY	ENSABRG00000015259	Others	NA
+Anser_brachyrhynchus	HNRNPDL	ENSABRG00000015277	HNRNP	NA
+Anser_brachyrhynchus	BCL9L	ENSABRG00000015313	BCL	NA
+Anser_brachyrhynchus	MED6	ENSABRG00000015324	Mediator complex	NA
+Anser_brachyrhynchus	DDX6	ENSABRG00000015331	RNA helicase	NA
+Anser_brachyrhynchus	ACTN1	ENSABRG00000015418	Actin	NA
+Anser_brachyrhynchus	FAM83G	ENSABRG00000015442	FAM	NA
+Anser_brachyrhynchus	NLK	ENSABRG00000015462	Others	NA
+Anser_brachyrhynchus	FLII	ENSABRG00000015478	Others	NA
+Anser_brachyrhynchus	NSD1	ENSABRG00000015506	Nuclear receptor coactivator	NA
+Anser_brachyrhynchus	NPAT	ENSABRG00000015573	Nuclear coactivator	NA
+Anser_brachyrhynchus	RAI1	ENSABRG00000015593	Others	NA
+Anser_brachyrhynchus	TAF1A	ENSABRG00000015594	TATA-box	NA
+Anser_brachyrhynchus	AIP	ENSABRG00000015599	Others	NA
+Anser_brachyrhynchus	RASD1	ENSABRG00000015604	Others	NA
+Anser_brachyrhynchus	MED9	ENSABRG00000015607	Mediator complex	NA
+Anser_brachyrhynchus	PHF21A	ENSABRG00000015666	PHF	NA
+Anser_brachyrhynchus	SRC	ENSABRG00000015683	Others	NA
+Anser_brachyrhynchus	LPIN3	ENSABRG00000015732	LPIN	NA
+Anser_brachyrhynchus	BAZ1A	ENSABRG00000015739	Bromodomain	NA
+Anser_brachyrhynchus	INO80	ENSABRG00000015764	INO80 complex	NA
+Anser_brachyrhynchus	RTF1	ENSABRG00000015812	Others	NA
+Anser_brachyrhynchus	KMT5B	ENSABRG00000015818	Lysine methyltransferase	NA
+Anser_brachyrhynchus	CENPF	ENSABRG00000015855	CENP	NA
+Anser_brachyrhynchus	SMYD2	ENSABRG00000015892	SMYD	NA
+Anser_brachyrhynchus	TAF4B	ENSABRG00000015907	TATA-box	NA
+Anser_brachyrhynchus	SS18	ENSABRG00000015928	SS18	NA
+Anser_brachyrhynchus	HDAC4	ENSABRG00000015943	Histone deacetylase	NA
+Anser_brachyrhynchus	SMARCAD1	ENSABRG00000015949	SWI/SNF	NA
+Anser_brachyrhynchus	LIN9	ENSABRG00000016056	Others	NA
+Anser_brachyrhynchus	RNF10	ENSABRG00000016061	Ring finger protein	NA
+Anser_brachyrhynchus	L3MBTL2	ENSABRG00000016104	Others	NA
+Anser_brachyrhynchus	HABP4	ENSABRG00000016119	Others	NA
+Anser_brachyrhynchus	EP300	ENSABRG00000016186	Others	NA
+Anser_brachyrhynchus	FBP1	ENSABRG00000016194	Others	NA
+Anser_brachyrhynchus	RNF111	ENSABRG00000016214	Ring finger protein	NA
+Anser_brachyrhynchus	RBX1	ENSABRG00000016215	Others	NA
+Anser_brachyrhynchus	ZNF638	ENSABRG00000016305	Zinc finger	NA
+Anser_brachyrhynchus	SLTM	ENSABRG00000016347	Others	NA
+Anser_brachyrhynchus	MRTFA	ENSABRG00000016352	Others	NA
+Anser_brachyrhynchus	RNF14	ENSABRG00000016367	Ring finger protein	NA
+Anser_brachyrhynchus	FGF1	ENSABRG00000016381	FGF	NA
+Anser_brachyrhynchus	RUNX1T1	ENSABRG00000016409	Others	NA
+Anser_brachyrhynchus	PXN	ENSABRG00000016436	Others	NA
+Anser_brachyrhynchus	KDM5B	ENSABRG00000016464	Lysine demethylase	NA
+Anser_brachyrhynchus	PID1	ENSABRG00000016528	Others	NA
+Anser_brachyrhynchus	TCERG1	ENSABRG00000016542	TEF	NA
+Anser_brachyrhynchus		ENSABRG00000016629	Others	NA
+Anser_brachyrhynchus	TAB1	ENSABRG00000016651	Others	NA
+Anser_brachyrhynchus	ZMYND11	ENSABRG00000016717	Zinc finger	NA
+Anser_brachyrhynchus	RYBP	ENSABRG00000016768	Others	NA
+Anser_brachyrhynchus	RBL1	ENSABRG00000016870	Other_Co-activator/repressors	NA
+Anser_brachyrhynchus	MED7	ENSABRG00000016895	Mediator complex	NA
+Anser_brachyrhynchus	KDM3B	ENSABRG00000016921	Lysine demethylase	NA
+Anser_brachyrhynchus	LBH	ENSABRG00000016950	Others	NA
+Anser_brachyrhynchus	KDM5A	ENSABRG00000016961	Lysine demethylase	NA
+Anser_brachyrhynchus	RBBP8	ENSABRG00000016963	RBBP	NA
+Anser_brachyrhynchus	CNOT8	ENSABRG00000017071	CCR4-NOT	NA
+Anser_brachyrhynchus	VGLL3	ENSABRG00000017072	Vestigial like	NA
+Anser_brachyrhynchus	RECQL5	ENSABRG00000017078	Others	NA
+Anser_brachyrhynchus	CHD6	ENSABRG00000017097	CHD	NA
+Anser_brachyrhynchus	SAP30BP	ENSABRG00000017102	SAP	NA
+Anser_brachyrhynchus	BCL9	ENSABRG00000017140	BCL	NA
+Anser_brachyrhynchus	SAP30L	ENSABRG00000017146	SAP	NA
+Anser_brachyrhynchus	SFSWAP	ENSABRG00000017167	Others	NA
+Anser_brachyrhynchus	YEATS2	ENSABRG00000017179	Others	NA
+Anser_brachyrhynchus	RAN	ENSABRG00000017189	Others	NA
+Anser_brachyrhynchus	MPHOSPH8	ENSABRG00000017207	Others	NA
+Anser_brachyrhynchus	INO80D	ENSABRG00000017222	INO80 complex	NA
+Anser_brachyrhynchus	PSPC1	ENSABRG00000017260	Others	NA
+Anser_brachyrhynchus	ZMYM2	ENSABRG00000017266	Zinc finger	NA
+Anser_brachyrhynchus	SAP18	ENSABRG00000017305	SAP	NA
+Anser_brachyrhynchus	TNIP1	ENSABRG00000017360	Others	NA
+Anser_brachyrhynchus	PEX14	ENSABRG00000017361	Others	NA
+Anser_brachyrhynchus	CCAR2	ENSABRG00000017380	Others	NA
+Anser_brachyrhynchus	ATRX	ENSABRG00000017452	Others	NA
+Anser_brachyrhynchus	FHL2	ENSABRG00000017461	FHL	NA
+Anser_brachyrhynchus	NCK2	ENSABRG00000017464	Others	NA
+Anser_brachyrhynchus	TXNIP	ENSABRG00000017486	Others	NA
+Anser_brachyrhynchus	KANK1	ENSABRG00000017500	Others	NA
+Anser_brachyrhynchus	HIPK3	ENSABRG00000017587	HIPK	NA
+Anser_brachyrhynchus	MLLT3	ENSABRG00000017613	GTF	NA
+Anser_brachyrhynchus	SFMBT1	ENSABRG00000017631	Others	NA
+Anser_brachyrhynchus	CTH	ENSABRG00000017657	Others	NA
+Anser_brachyrhynchus	MED24	ENSABRG00000017682	Mediator complex	NA
+Anser_brachyrhynchus	LRRC7	ENSABRG00000017686	Erbb2	NA
+Anser_brachyrhynchus	TRAF6	ENSABRG00000017746	Others	NA
+Anser_brachyrhynchus	DEPDC1	ENSABRG00000017766	Others	NA
+Anser_brachyrhynchus	WBP2	ENSABRG00000017788	WW	NA
+Anser_brachyrhynchus	MTOR	ENSABRG00000017820	Others	NA
+Anser_brachyrhynchus	LMO2	ENSABRG00000017822	LIM	NA
+Anser_brachyrhynchus	PLK3	ENSABRG00000017841	Others	NA
+Anser_brachyrhynchus	EAF2	ENSABRG00000017869	Others	NA
+Anser_brachyrhynchus	DMAP1	ENSABRG00000017892	DNA_methylase	NA
+Anser_brachyrhynchus	TRIP13	ENSABRG00000017917	Thyroid hormone receptor	NA
+Anser_brachyrhynchus	ELP4	ENSABRG00000017920	ELP	NA
+Anser_brachyrhynchus	TAF5L	ENSABRG00000017946	TATA-box	NA
+Anser_brachyrhynchus		ENSABRG00000017960	Lysine demethylase	NA
+Anser_brachyrhynchus	LOXL2	ENSABRG00000018099	Others	NA
+Anser_brachyrhynchus	MED8	ENSABRG00000018105	Mediator complex	NA
+Anser_brachyrhynchus	SETD2	ENSABRG00000018152	SET	NA
+Anser_brachyrhynchus	NAB2	ENSABRG00000018178	Others	NA
+Anser_brachyrhynchus	VGLL2	ENSABRG00000018202	Vestigial like	NA
+Anser_brachyrhynchus	SQSTM1	ENSABRG00000018209	Others	NA
+Anser_brachyrhynchus	DNAJB4	ENSABRG00000018232	Others	NA
+Anser_brachyrhynchus	TLE4	ENSABRG00000018244	Transducin	NA
+Anser_brachyrhynchus	TLE1	ENSABRG00000018269	Transducin	NA
+Anser_brachyrhynchus	TADA3	ENSABRG00000018282	Transcriptional adaptor	NA
+Anser_brachyrhynchus	SUDS3	ENSABRG00000018345	Other_Co-activator/repressors	NA
+Anser_brachyrhynchus	GNL3	ENSABRG00000018349	Others	NA
+Anser_brachyrhynchus	HNRNPU	ENSABRG00000018353	HNRNP	NA
+Anser_brachyrhynchus	MAML1	ENSABRG00000018368	MAML	NA
+Anser_brachyrhynchus		ENSABRG00000018372	GTF	NA
+Anser_brachyrhynchus	DDX54	ENSABRG00000018394	RNA helicase	NA
+Anser_brachyrhynchus	EDF1	ENSABRG00000018463	Others	NA
+Anser_brachyrhynchus	MAD2L2	ENSABRG00000018478	Others	NA
+Anser_brachyrhynchus	KDM4B	ENSABRG00000018524	Lysine demethylase	NA
+Anser_brachyrhynchus	BTAF1	ENSABRG00000018538	Others	NA
+Anser_brachyrhynchus	CDK3	ENSABRG00000018573	Cyclin	NA
+Anser_brachyrhynchus	MYOCD	ENSABRG00000018579	Others	NA
+Anser_brachyrhynchus	CBFA2T2	ENSABRG00000018621	Others	NA
+Anser_brachyrhynchus		ENSABRG00000018642	BCL	NA
+Anser_brachyrhynchus	ITGB3BP	ENSABRG00000018646	Others	NA
+Anser_brachyrhynchus	RALY	ENSABRG00000018676	Others	NA
+Anser_brachyrhynchus	RLIM	ENSABRG00000018760	Ring finger protein	NA
+Anser_brachyrhynchus	PABPC1L	ENSABRG00000018767	Other_CRF	NA
+Anser_brachyrhynchus	YWHAB	ENSABRG00000018777	Others	NA
+Anser_brachyrhynchus	MED13L	ENSABRG00000018816	Mediator complex	NA
+Anser_brachyrhynchus	TSG101	ENSABRG00000018867	Others	NA
+Anser_brachyrhynchus	TESC	ENSABRG00000018871	Others	NA
+Anser_brachyrhynchus	BIRC5	ENSABRG00000018893	Others	NA
+Anser_brachyrhynchus	GTF2H1	ENSABRG00000018911	GTF	NA
+Anser_brachyrhynchus	JMJD6	ENSABRG00000018988	Others	NA
+Anser_brachyrhynchus	CHEK1	ENSABRG00000018996	Others	NA
+Anser_brachyrhynchus		ENSABRG00000018998	Others	NA
+Anser_brachyrhynchus	PHF20	ENSABRG00000019015	PHF	NA
+Anser_brachyrhynchus	DTX1	ENSABRG00000019024	Others	NA
+Anser_brachyrhynchus	EYA2	ENSABRG00000019044	EYA	NA
+Anser_brachyrhynchus	ZMYND8	ENSABRG00000019051	Zinc finger	NA
+Anser_brachyrhynchus	EZH2	ENSABRG00000019057	Others	NA
+Anser_brachyrhynchus	NAB1	ENSABRG00000019061	Others	NA
+Anser_brachyrhynchus	TDP2	ENSABRG00000019066	Others	NA
+Anser_brachyrhynchus	SET	ENSABRG00000019082	SET	NA
+Anser_brachyrhynchus	GMNN	ENSABRG00000019086	Others	NA
+Anser_brachyrhynchus	TFB2M	ENSABRG00000019121	Others	NA
+Anser_brachyrhynchus	THOC5	ENSABRG00000019126	Others	NA
+Anser_brachyrhynchus	RBM39	ENSABRG00000019229	RNA binding protein	NA
+Anser_brachyrhynchus	CLUL1	ENSABRG00000019308	Others	NA
+Anser_brachyrhynchus		ENSABRG00000019336	PARP	NA
+Anser_brachyrhynchus	DPY30	ENSABRG00000019342	Others	NA
+Anser_brachyrhynchus	WWTR1	ENSABRG00000019344	WW	NA
+Anser_brachyrhynchus	SIAH2	ENSABRG00000019384	Others	NA
+Anser_brachyrhynchus	MED12	ENSABRG00000019390	Mediator complex	NA
+Anser_brachyrhynchus	PHF10	ENSABRG00000019394	PHF	NA
+Anser_brachyrhynchus	MED12L	ENSABRG00000019397	Mediator complex	NA
+Anser_brachyrhynchus	ASCC3	ENSABRG00000019418	ASCC	NA
+Anser_brachyrhynchus	GTF2B	ENSABRG00000019503	GTF	NA
+Anser_brachyrhynchus	AATF	ENSABRG00000019505	Others	NA
+Anser_brachyrhynchus		ENSABRG00000019510	Others	NA
+Anser_brachyrhynchus	PYGO2	ENSABRG00000019514	Others	NA
+Anser_brachyrhynchus	COPS2	ENSABRG00000019541	Others	NA
+Anser_brachyrhynchus	CNOT6L	ENSABRG00000019565	CCR4-NOT	NA
+Anser_brachyrhynchus	LPIN2	ENSABRG00000019611	LPIN	NA
+Anser_brachyrhynchus	BCAS3	ENSABRG00000019631	Others	NA
+Anser_brachyrhynchus	RBPMS	ENSABRG00000019634	RNA binding protein	NA
+Anser_brachyrhynchus	NFKBIE	ENSABRG00000019651	NFKB associated	NA
+Anser_brachyrhynchus	RNF8	ENSABRG00000019659	Ring finger protein	NA
+Anser_brachyrhynchus		ENSABRG00000019671	Others	NA
+Anser_brachyrhynchus	SIRT1	ENSABRG00000019729	Sirtuin	NA
+Anser_brachyrhynchus	TENM2	ENSABRG00000019739	Others	NA
+Anser_brachyrhynchus	DHX36	ENSABRG00000019769	RNA helicase	NA
+Anser_brachyrhynchus	WWC1	ENSABRG00000019783	WW	NA
+Anser_brachyrhynchus	FGF3	ENSABRG00000019857	FGF	NA
+Anser_brachyrhynchus	CCND1	ENSABRG00000019865	Cyclin	NA
+Anser_brachyrhynchus	CNOT7	ENSABRG00000019947	CCR4-NOT	NA
+Anser_brachyrhynchus	CHUK	ENSABRG00000020010	Others	NA
+Anser_brachyrhynchus	RNF168	ENSABRG00000020067	Ring finger protein	NA
+Anser_brachyrhynchus	FRZB	ENSABRG00000020214	Others	NA
+Anser_brachyrhynchus	CDK8	ENSABRG00000020224	Cyclin	NA
+Anser_brachyrhynchus	CENPU	ENSABRG00000020248	CENP	NA
+Anser_brachyrhynchus	RNF6	ENSABRG00000020261	Ring finger protein	NA
+Anser_brachyrhynchus	ASH1L	ENSABRG00000020263	Others	NA
+Anser_brachyrhynchus	NONO	ENSABRG00000020285	Others	NA
+Anser_brachyrhynchus	JADE1	ENSABRG00000020294	Others	NA
+Anser_brachyrhynchus		ENSABRG00000020298	TATA-box	NA
+Anser_brachyrhynchus	RBBP4	ENSABRG00000020300	RBBP	NA
+Anser_brachyrhynchus	OGT	ENSABRG00000020308	Others	NA
+Anser_brachyrhynchus	CHD9	ENSABRG00000020362	CHD	NA
+Anser_brachyrhynchus	CAMK4	ENSABRG00000020520	CAMK	NA
+Anser_brachyrhynchus	HDGF	ENSABRG00000020526	Others	NA
+Anser_brachyrhynchus	WNT4	ENSABRG00000020573	Others	NA
+Anser_brachyrhynchus	CTDSPL	ENSABRG00000020621	Others	NA
+Anser_brachyrhynchus	JMJD1C	ENSABRG00000020646	Other_CRF	NA
+Anser_brachyrhynchus	TBP	ENSABRG00000020658	TATA-box	NA
+Anser_brachyrhynchus	NELFB	ENSABRG00000020685	GTF	NA
+Anser_brachyrhynchus	NRBF2	ENSABRG00000020703	Nuclear receptor coactivator	NA
+Anser_brachyrhynchus	EHMT1	ENSABRG00000020722	Histone lysine methyltransferase	NA
+Anser_brachyrhynchus	CCAR1	ENSABRG00000020810	Others	NA
+Anser_brachyrhynchus	CDK1	ENSABRG00000020817	Cyclin	NA
+Anser_brachyrhynchus	PINK1	ENSABRG00000020829	Others	NA
+Anser_brachyrhynchus	MYO6	ENSABRG00000020850	Others	NA
+Anser_brachyrhynchus	DNMT3B	ENSABRG00000020884	DNA_methylase	NA
+Anser_brachyrhynchus	AGO3	ENSABRG00000020889	Others	NA
+Anser_brachyrhynchus	DCC	ENSABRG00000020894	Others	NA
+Anser_brachyrhynchus	ERBB4	ENSABRG00000020899	Erbb2	NA
+Anser_brachyrhynchus	MBD2	ENSABRG00000020912	MBD	NA
+Anser_brachyrhynchus	ABL1	ENSABRG00000020922	Others	NA
+Anser_brachyrhynchus	ASXL1	ENSABRG00000020925	Others	NA
+Anser_brachyrhynchus	HCK	ENSABRG00000020974	Others	NA
+Anser_brachyrhynchus	LOXL3	ENSABRG00000021007	Others	NA
+Anser_brachyrhynchus		ENSABRG00000021031	Others	NA
+Anser_brachyrhynchus	THRAP3	ENSABRG00000021040	Thyroid hormone receptor	NA
+Anser_brachyrhynchus	MED10	ENSABRG00000021067	Mediator complex	NA
+Anser_brachyrhynchus	PCGF1	ENSABRG00000021098	PCGF	NA
+Anser_brachyrhynchus	FHL3	ENSABRG00000021184	FHL	NA
+Anser_brachyrhynchus	ILF2	ENSABRG00000021190	Others	NA
+Anser_brachyrhynchus	MED27	ENSABRG00000021196	Mediator complex	NA
+Anser_brachyrhynchus	CHTOP	ENSABRG00000021199	Others	NA
+Anser_brachyrhynchus	SMARCD1	ENSABRG00000021298	SWI/SNF	NA
+Anser_brachyrhynchus	TAF6L	ENSABRG00000021336	TATA-box	NA
+Anser_brachyrhynchus	PLK1	ENSABRG00000021360	Others	NA
+Anser_brachyrhynchus		ENSABRG00000021392	Nucleoplasmin	NA
+Anser_brachyrhynchus	FBXW11	ENSABRG00000021404	Others	NA
+Anser_brachyrhynchus	MALT1	ENSABRG00000021417	Others	NA
+Anser_brachyrhynchus		ENSABRG00000021418	Bromodomain	NA
+Anser_brachyrhynchus	HDAC7	ENSABRG00000021420	Histone deacetylase	NA
+Anser_brachyrhynchus	KDM8	ENSABRG00000021461	Lysine demethylase	NA
+Anser_brachyrhynchus	BANP	ENSABRG00000021520	Others	NA
+Anser_brachyrhynchus		ENSABRG00000021538	Casein	NA
+Anser_brachyrhynchus	MED22	ENSABRG00000021552	Mediator complex	NA
+Anser_brachyrhynchus	CBFA2T3	ENSABRG00000021590	Others	NA
+Anser_brachyrhynchus	BRD3	ENSABRG00000021671	Bromodomain	NA
+Anser_brachyrhynchus	ZNF451	ENSABRG00000021672	Zinc finger	NA
+Anser_brachyrhynchus	WDR5B	ENSABRG00000021673	WD	NA
+Anser_brachyrhynchus	MACROH2A2	ENSABRG00000021712	Others	NA
+Anser_brachyrhynchus	JAK2	ENSABRG00000021718	Others	NA
+Anser_brachyrhynchus	SRFBP1	ENSABRG00000021752	Others	NA
+Anser_brachyrhynchus	SND1	ENSABRG00000021754	Others	NA
+Anser_brachyrhynchus	NOTCH1	ENSABRG00000021760	Notch	NA
+Anser_brachyrhynchus	HDAC3	ENSABRG00000021775	Histone deacetylase	NA
+Anser_brachyrhynchus	KDM4C	ENSABRG00000021794	Lysine demethylase	NA
+Anser_brachyrhynchus	RBL2	ENSABRG00000021843	Other_Co-activator/repressors	NA
+Anser_brachyrhynchus	PPID	ENSABRG00000021865	Others	NA
+Anser_brachyrhynchus	ASCC1	ENSABRG00000021984	ASCC	NA
+Anser_brachyrhynchus	PHF19	ENSABRG00000022009	PHF	NA
+Anser_brachyrhynchus	AURKA	ENSABRG00000022028	Others	NA
+Anser_brachyrhynchus	ECD	ENSABRG00000022037	Others	NA
+Anser_brachyrhynchus	RPRD1A	ENSABRG00000022056	Others	NA
+Anser_brachyrhynchus	INO80C	ENSABRG00000022098	INO80 complex	NA
+Anser_brachyrhynchus	KDM2A	ENSABRG00000022134	Lysine demethylase	NA
+Anser_brachyrhynchus	CNOT9	ENSABRG00000022140	CCR4-NOT	NA
+Anser_brachyrhynchus	RNF25	ENSABRG00000022147	Ring finger protein	NA
+Anser_brachyrhynchus	STK36	ENSABRG00000022150	Others	NA
+Anser_brachyrhynchus	MDM2	ENSABRG00000022167	Others	NA
+Anser_brachyrhynchus	CHEK2	ENSABRG00000022282	Others	NA
+Anser_brachyrhynchus	NCOA4	ENSABRG00000022326	Nuclear receptor coactivator	NA
+Anser_brachyrhynchus	SCAI	ENSABRG00000022367	Others	NA
+Anser_brachyrhynchus	CDKN1B	ENSABRG00000022402	Cyclin	NA
+Anser_brachyrhynchus	CTR9	ENSABRG00000022471	Others	NA
+Anser_brachyrhynchus		ENSABRG00000022484	MAGE	NA
+Anser_brachyrhynchus	RNF141	ENSABRG00000022501	Ring finger protein	NA
+Anser_brachyrhynchus	ACTL6A	ENSABRG00000022528	Actin	NA
+Anser_brachyrhynchus	PIK3R1	ENSABRG00000022553	Others	NA
+Anser_brachyrhynchus	TBL1XR1	ENSABRG00000022555	Transducin	NA
+Anser_brachyrhynchus	CDK7	ENSABRG00000022574	Cyclin	NA
+Anser_brachyrhynchus	JMY	ENSABRG00000022589	Others	NA
+Anser_brachyrhynchus	RRN3	ENSABRG00000022600	Others	NA
+Anser_brachyrhynchus	LEO1	ENSABRG00000022603	Others	NA
+Anser_brachyrhynchus		ENSABRG00000022621	PARP	NA
+Anser_brachyrhynchus	CCNT1	ENSABRG00000022634	Cyclin	NA
+Anser_brachyrhynchus	TAF1D	ENSABRG00000022716	TATA-box	NA
+Anser_brachyrhynchus		ENSABRG00000022726	Mediator complex	NA
+Anser_brachyrhynchus	SSBP3	ENSABRG00000022739	Others	NA
+Anser_brachyrhynchus	PRMT7	ENSABRG00000022774	Arginine methyltransferase	NA
+Anser_brachyrhynchus	AXIN1	ENSABRG00000022795	Others	NA
+Anser_brachyrhynchus	TRADD	ENSABRG00000022798	Others	NA
+Anser_brachyrhynchus	CREBBP	ENSABRG00000022846	CREB	NA
+Anser_brachyrhynchus	DNAJA3	ENSABRG00000022859	Others	NA
+Anser_brachyrhynchus	NIBAN2	ENSABRG00000022879	FAM	NA
+Anser_brachyrhynchus	TADA1	ENSABRG00000022932	Transcriptional adaptor	NA
+Anser_brachyrhynchus	NOTCH2	ENSABRG00000022942	Notch	NA
+Anser_brachyrhynchus		ENSABRG00000022964	Others	NA
+Anser_brachyrhynchus	CDC73	ENSABRG00000022976	Others	NA
+Anser_brachyrhynchus	GTF2H5	ENSABRG00000023050	GTF	NA
+Anser_brachyrhynchus	LRRK2	ENSABRG00000023123	Other_CRF	NA
+Anser_brachyrhynchus	SLC26A3	ENSABRG00000023129	SLC	NA
+Anser_brachyrhynchus	HAT1	ENSABRG00000023193	Others	NA

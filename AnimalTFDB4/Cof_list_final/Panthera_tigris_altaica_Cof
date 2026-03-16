@@ -1,0 +1,845 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Panthera_tigris_altaica	ERN1	ENSPTIG00000000179	Others	NA
+Panthera_tigris_altaica	CDK5R1	ENSPTIG00000000341	Cyclin	NA
+Panthera_tigris_altaica	DUSP26	ENSPTIG00000000562	Others	NA
+Panthera_tigris_altaica	TIRAP	ENSPTIG00000000582	Others	NA
+Panthera_tigris_altaica	ITGB3BP	ENSPTIG00000000768	Others	NA
+Panthera_tigris_altaica	TLE1	ENSPTIG00000000835	Transducin	NA
+Panthera_tigris_altaica		ENSPTIG00000000933	Others	NA
+Panthera_tigris_altaica	FHOD3	ENSPTIG00000000946	Others	NA
+Panthera_tigris_altaica	BTG2	ENSPTIG00000000957	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000001144	MAGE	NA
+Panthera_tigris_altaica	HEXIM1	ENSPTIG00000001145	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000001179	Tripartite motif	NA
+Panthera_tigris_altaica	BAZ1A	ENSPTIG00000001212	Bromodomain	NA
+Panthera_tigris_altaica	TAF8	ENSPTIG00000001301	TATA-box	NA
+Panthera_tigris_altaica	LRIF1	ENSPTIG00000001339	Others	NA
+Panthera_tigris_altaica	TBP	ENSPTIG00000001550	TATA-box	NA
+Panthera_tigris_altaica	FLNB	ENSPTIG00000001592	Others	NA
+Panthera_tigris_altaica	SMYD2	ENSPTIG00000001732	SMYD	NA
+Panthera_tigris_altaica	MED18	ENSPTIG00000001854	Mediator complex	NA
+Panthera_tigris_altaica	MED12	ENSPTIG00000001944	Mediator complex	NA
+Panthera_tigris_altaica	H1-6	ENSPTIG00000001945	Histone cluster 1 H1	NA
+Panthera_tigris_altaica	TRIP13	ENSPTIG00000002005	Thyroid hormone receptor	NA
+Panthera_tigris_altaica	CCNT1	ENSPTIG00000002066	Cyclin	NA
+Panthera_tigris_altaica	MBD3L1	ENSPTIG00000002103	MBD	NA
+Panthera_tigris_altaica	ELP2	ENSPTIG00000002104	ELP	NA
+Panthera_tigris_altaica	RLIM	ENSPTIG00000002109	Ring finger protein	NA
+Panthera_tigris_altaica	SUPT3H	ENSPTIG00000002174	SUPT	NA
+Panthera_tigris_altaica	SIRT5	ENSPTIG00000002186	Sirtuin	NA
+Panthera_tigris_altaica		ENSPTIG00000002280	Others	NA
+Panthera_tigris_altaica	PINK1	ENSPTIG00000002390	Others	NA
+Panthera_tigris_altaica	GMNN	ENSPTIG00000002444	Others	NA
+Panthera_tigris_altaica	TDRD3	ENSPTIG00000002537	Others	NA
+Panthera_tigris_altaica	TRIM16	ENSPTIG00000002657	Tripartite motif	NA
+Panthera_tigris_altaica	KAT6A	ENSPTIG00000002689	Lysine acetyltransferase	NA
+Panthera_tigris_altaica	RRN3	ENSPTIG00000002723	Others	NA
+Panthera_tigris_altaica	TAF6	ENSPTIG00000002884	TATA-box	NA
+Panthera_tigris_altaica	WDR61	ENSPTIG00000002989	WD	NA
+Panthera_tigris_altaica	EZR	ENSPTIG00000003011	Others	NA
+Panthera_tigris_altaica	ERBB2	ENSPTIG00000003012	Erbb2	NA
+Panthera_tigris_altaica	PRNP	ENSPTIG00000003015	Others	NA
+Panthera_tigris_altaica	PPIE	ENSPTIG00000003196	Others	NA
+Panthera_tigris_altaica	TRIM6	ENSPTIG00000003416	Tripartite motif	NA
+Panthera_tigris_altaica	TNP1	ENSPTIG00000003475	Other_CRF	NA
+Panthera_tigris_altaica	WDR77	ENSPTIG00000003575	WD	NA
+Panthera_tigris_altaica	HYAL2	ENSPTIG00000003625	Others	NA
+Panthera_tigris_altaica	KDM3A	ENSPTIG00000003722	Lysine demethylase	NA
+Panthera_tigris_altaica	NELFE	ENSPTIG00000003753	GTF	NA
+Panthera_tigris_altaica		ENSPTIG00000003789	Others	NA
+Panthera_tigris_altaica	PA2G4	ENSPTIG00000003864	Others	NA
+Panthera_tigris_altaica	NAB1	ENSPTIG00000003894	Others	NA
+Panthera_tigris_altaica	ACTN4	ENSPTIG00000003932	Actin	NA
+Panthera_tigris_altaica	SSU72	ENSPTIG00000004042	Others	NA
+Panthera_tigris_altaica	ELP1	ENSPTIG00000004053	ELP	NA
+Panthera_tigris_altaica	SUPT7L	ENSPTIG00000004080	SUPT	NA
+Panthera_tigris_altaica		ENSPTIG00000004092	Others	NA
+Panthera_tigris_altaica	TOB2	ENSPTIG00000004228	Others	NA
+Panthera_tigris_altaica	GTF2F1	ENSPTIG00000004277	GTF	NA
+Panthera_tigris_altaica	SFSWAP	ENSPTIG00000004304	Others	NA
+Panthera_tigris_altaica	ELP4	ENSPTIG00000004445	ELP	NA
+Panthera_tigris_altaica	SAV1	ENSPTIG00000004576	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000004597	Chromodomain Y	NA
+Panthera_tigris_altaica	NOC2L	ENSPTIG00000004690	Others	NA
+Panthera_tigris_altaica	CDK9	ENSPTIG00000004750	Cyclin	NA
+Panthera_tigris_altaica	DPY30	ENSPTIG00000004822	Others	NA
+Panthera_tigris_altaica	SAP30L	ENSPTIG00000004964	SAP	NA
+Panthera_tigris_altaica	SUPT20H	ENSPTIG00000005009	SUPT	NA
+Panthera_tigris_altaica	PHF1	ENSPTIG00000005011	PHF	NA
+Panthera_tigris_altaica	GTF2A1L	ENSPTIG00000005028	GTF	NA
+Panthera_tigris_altaica	HIRA	ENSPTIG00000005031	Others	NA
+Panthera_tigris_altaica	TGS1	ENSPTIG00000005122	Others	NA
+Panthera_tigris_altaica	ITCH	ENSPTIG00000005169	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000005223	Others	NA
+Panthera_tigris_altaica	PRMT6	ENSPTIG00000005241	Arginine methyltransferase	NA
+Panthera_tigris_altaica	DAXX	ENSPTIG00000005244	Other_CRF	NA
+Panthera_tigris_altaica	RNF8	ENSPTIG00000005257	Ring finger protein	NA
+Panthera_tigris_altaica	NRIP1	ENSPTIG00000005294	Nuclear receptor coactivator	NA
+Panthera_tigris_altaica	LPIN2	ENSPTIG00000005321	LPIN	NA
+Panthera_tigris_altaica	JUP	ENSPTIG00000005326	Others	NA
+Panthera_tigris_altaica	SLC25A2	ENSPTIG00000005360	SLC	NA
+Panthera_tigris_altaica	TAF7	ENSPTIG00000005366	TATA-box	NA
+Panthera_tigris_altaica	CITED2	ENSPTIG00000005376	CITED	NA
+Panthera_tigris_altaica	NPM3	ENSPTIG00000005390	Nucleoplasmin	NA
+Panthera_tigris_altaica	CTNNBIP1	ENSPTIG00000005407	Casein	NA
+Panthera_tigris_altaica	MEN1	ENSPTIG00000005535	Others	NA
+Panthera_tigris_altaica	RING1	ENSPTIG00000005545	Ring finger protein	NA
+Panthera_tigris_altaica	TRIM32	ENSPTIG00000005562	Tripartite motif	NA
+Panthera_tigris_altaica	ENG	ENSPTIG00000005567	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000005647	Others	NA
+Panthera_tigris_altaica	TRIP11	ENSPTIG00000005665	Thyroid hormone receptor	NA
+Panthera_tigris_altaica	TRIM25	ENSPTIG00000005760	Tripartite motif	NA
+Panthera_tigris_altaica	PELI1	ENSPTIG00000005767	Others	NA
+Panthera_tigris_altaica	WAC	ENSPTIG00000005848	WW	NA
+Panthera_tigris_altaica	YWHAB	ENSPTIG00000005867	Others	NA
+Panthera_tigris_altaica	INO80	ENSPTIG00000005911	INO80 complex	NA
+Panthera_tigris_altaica	MAML2	ENSPTIG00000005913	MAML	NA
+Panthera_tigris_altaica	RTF1	ENSPTIG00000005936	Others	NA
+Panthera_tigris_altaica	SERBP1	ENSPTIG00000005938	Others	NA
+Panthera_tigris_altaica	BRD2	ENSPTIG00000005977	Bromodomain	NA
+Panthera_tigris_altaica	SERTAD2	ENSPTIG00000006044	Others	NA
+Panthera_tigris_altaica	KANK1	ENSPTIG00000006046	Others	NA
+Panthera_tigris_altaica	HDAC3	ENSPTIG00000006047	Histone deacetylase	NA
+Panthera_tigris_altaica	RPRD1A	ENSPTIG00000006074	Others	NA
+Panthera_tigris_altaica	SIRT6	ENSPTIG00000006083	Sirtuin	NA
+Panthera_tigris_altaica	TIGD6	ENSPTIG00000006085	CENP	NA
+Panthera_tigris_altaica		ENSPTIG00000006135	ANP	NA
+Panthera_tigris_altaica	DCAF1	ENSPTIG00000006145	Others	NA
+Panthera_tigris_altaica	CRYM	ENSPTIG00000006148	Others	NA
+Panthera_tigris_altaica	SCAI	ENSPTIG00000006221	Others	NA
+Panthera_tigris_altaica	TAF1B	ENSPTIG00000006228	TATA-box	NA
+Panthera_tigris_altaica	CRTC2	ENSPTIG00000006256	CREB	NA
+Panthera_tigris_altaica	CIITA	ENSPTIG00000006289	Others	NA
+Panthera_tigris_altaica	ELL3	ENSPTIG00000006307	GTF	NA
+Panthera_tigris_altaica	WBP2	ENSPTIG00000006329	WW	NA
+Panthera_tigris_altaica	ASCC3	ENSPTIG00000006331	ASCC	NA
+Panthera_tigris_altaica	PRMT7	ENSPTIG00000006410	Arginine methyltransferase	NA
+Panthera_tigris_altaica	SLC26A3	ENSPTIG00000006420	SLC	NA
+Panthera_tigris_altaica	NMI	ENSPTIG00000006462	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000006468	Others	NA
+Panthera_tigris_altaica	CHD1	ENSPTIG00000006479	CHD	NA
+Panthera_tigris_altaica	HDAC1	ENSPTIG00000006481	Histone deacetylase	NA
+Panthera_tigris_altaica	SUPT4H1	ENSPTIG00000006503	SUPT	NA
+Panthera_tigris_altaica	PABPC1L	ENSPTIG00000006524	Other_CRF	NA
+Panthera_tigris_altaica	BRPF3	ENSPTIG00000006629	Bromodomain	NA
+Panthera_tigris_altaica	MED4	ENSPTIG00000006671	Mediator complex	NA
+Panthera_tigris_altaica	SUV39H1	ENSPTIG00000006678	Others	NA
+Panthera_tigris_altaica	SFMBT1	ENSPTIG00000006708	Others	NA
+Panthera_tigris_altaica	FHIT	ENSPTIG00000006722	Others	NA
+Panthera_tigris_altaica	GTF2H5	ENSPTIG00000006736	GTF	NA
+Panthera_tigris_altaica	BAZ1B	ENSPTIG00000006746	Bromodomain	NA
+Panthera_tigris_altaica	SFR1	ENSPTIG00000006750	Others	NA
+Panthera_tigris_altaica	MNAT1	ENSPTIG00000006766	Others	NA
+Panthera_tigris_altaica	FBP1	ENSPTIG00000006777	Others	NA
+Panthera_tigris_altaica	NLRP12	ENSPTIG00000006833	Others	NA
+Panthera_tigris_altaica	NOTCH4	ENSPTIG00000006842	Notch	NA
+Panthera_tigris_altaica	TGFB1I1	ENSPTIG00000006848	Others	NA
+Panthera_tigris_altaica	KDM5A	ENSPTIG00000006859	Lysine demethylase	NA
+Panthera_tigris_altaica	RNF20	ENSPTIG00000006874	Ring finger protein	NA
+Panthera_tigris_altaica	INO80C	ENSPTIG00000006907	INO80 complex	NA
+Panthera_tigris_altaica	CTDSP1	ENSPTIG00000006919	Others	NA
+Panthera_tigris_altaica	PAGR1	ENSPTIG00000007029	Others	NA
+Panthera_tigris_altaica	ERBB4	ENSPTIG00000007031	Erbb2	NA
+Panthera_tigris_altaica	MED1	ENSPTIG00000007067	Mediator complex	NA
+Panthera_tigris_altaica	TRADD	ENSPTIG00000007077	Others	NA
+Panthera_tigris_altaica	CNOT2	ENSPTIG00000007082	CCR4-NOT	NA
+Panthera_tigris_altaica	DMAP1	ENSPTIG00000007103	DNA_methylase	NA
+Panthera_tigris_altaica	STRAP	ENSPTIG00000007114	Others	NA
+Panthera_tigris_altaica	TCEA2	ENSPTIG00000007119	TEF	NA
+Panthera_tigris_altaica	EHMT2	ENSPTIG00000007133	Histone lysine methyltransferase	NA
+Panthera_tigris_altaica	MLLT6	ENSPTIG00000007153	Others	NA
+Panthera_tigris_altaica	TAF4B	ENSPTIG00000007195	TATA-box	NA
+Panthera_tigris_altaica	SIRT2	ENSPTIG00000007225	Sirtuin	NA
+Panthera_tigris_altaica		ENSPTIG00000007231	Others	NA
+Panthera_tigris_altaica	MDFI	ENSPTIG00000007258	Others	NA
+Panthera_tigris_altaica	SETD7	ENSPTIG00000007276	SET	NA
+Panthera_tigris_altaica		ENSPTIG00000007286	Others	NA
+Panthera_tigris_altaica	VGLL3	ENSPTIG00000007295	Vestigial like	NA
+Panthera_tigris_altaica	UFL1	ENSPTIG00000007297	Others	NA
+Panthera_tigris_altaica	MED7	ENSPTIG00000007305	Mediator complex	NA
+Panthera_tigris_altaica	PHF8	ENSPTIG00000007306	PHF	NA
+Panthera_tigris_altaica	NOD2	ENSPTIG00000007371	Others	NA
+Panthera_tigris_altaica	TBPL1	ENSPTIG00000007375	TATA-box	NA
+Panthera_tigris_altaica	PPARGC1A	ENSPTIG00000007378	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000007389	TEF	NA
+Panthera_tigris_altaica	PPARGC1B	ENSPTIG00000007391	Others	NA
+Panthera_tigris_altaica	AGO2	ENSPTIG00000007438	Others	NA
+Panthera_tigris_altaica	INSR	ENSPTIG00000007440	Others	NA
+Panthera_tigris_altaica	PRMT2	ENSPTIG00000007482	Arginine methyltransferase	NA
+Panthera_tigris_altaica	NFKBIB	ENSPTIG00000007510	NFKB associated	NA
+Panthera_tigris_altaica	DPPA2	ENSPTIG00000007530	Others	NA
+Panthera_tigris_altaica	TRIB3	ENSPTIG00000007535	Others	NA
+Panthera_tigris_altaica	TRIM28	ENSPTIG00000007609	Tripartite motif	NA
+Panthera_tigris_altaica	SRC	ENSPTIG00000007614	Others	NA
+Panthera_tigris_altaica	TRAK1	ENSPTIG00000007626	Others	NA
+Panthera_tigris_altaica	ELL	ENSPTIG00000007637	GTF	NA
+Panthera_tigris_altaica	HELLS	ENSPTIG00000007647	Others	NA
+Panthera_tigris_altaica	TFB2M	ENSPTIG00000007649	Others	NA
+Panthera_tigris_altaica	HIPK2	ENSPTIG00000007654	HIPK	NA
+Panthera_tigris_altaica		ENSPTIG00000007659	Others	NA
+Panthera_tigris_altaica	NAA15	ENSPTIG00000007667	Others	NA
+Panthera_tigris_altaica	FHL5	ENSPTIG00000007683	FHL	NA
+Panthera_tigris_altaica	FHL3	ENSPTIG00000007715	FHL	NA
+Panthera_tigris_altaica	TERF2IP	ENSPTIG00000007735	Others	NA
+Panthera_tigris_altaica	RSF1	ENSPTIG00000007738	Others	NA
+Panthera_tigris_altaica	CHUK	ENSPTIG00000007746	Others	NA
+Panthera_tigris_altaica	ERBIN	ENSPTIG00000007759	Erbb2	NA
+Panthera_tigris_altaica	ELOC	ENSPTIG00000007803	Others	NA
+Panthera_tigris_altaica	PEX2	ENSPTIG00000007824	Others	NA
+Panthera_tigris_altaica	BRIP1	ENSPTIG00000007851	Others	NA
+Panthera_tigris_altaica	PLRG1	ENSPTIG00000007864	Others	NA
+Panthera_tigris_altaica	FBXW7	ENSPTIG00000007915	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000007926	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000007952	TEF	NA
+Panthera_tigris_altaica		ENSPTIG00000007958	Others	NA
+Panthera_tigris_altaica	HDAC9	ENSPTIG00000007997	Histone deacetylase	NA
+Panthera_tigris_altaica		ENSPTIG00000008000	Zinc finger	NA
+Panthera_tigris_altaica	POU2AF1	ENSPTIG00000008029	Others	NA
+Panthera_tigris_altaica	ZMYND11	ENSPTIG00000008041	Zinc finger	NA
+Panthera_tigris_altaica	DPPA4	ENSPTIG00000008049	Others	NA
+Panthera_tigris_altaica	TADA1	ENSPTIG00000008050	Transcriptional adaptor	NA
+Panthera_tigris_altaica	TRIM33	ENSPTIG00000008054	Tripartite motif	NA
+Panthera_tigris_altaica	DYRK1B	ENSPTIG00000008058	Others	NA
+Panthera_tigris_altaica	ADRB2	ENSPTIG00000008074	Others	NA
+Panthera_tigris_altaica	MED30	ENSPTIG00000008078	Mediator complex	NA
+Panthera_tigris_altaica	KAT2A	ENSPTIG00000008088	Lysine acetyltransferase	NA
+Panthera_tigris_altaica	TLE5	ENSPTIG00000008105	Others	NA
+Panthera_tigris_altaica	DGKG	ENSPTIG00000008110	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000008136	MBD	NA
+Panthera_tigris_altaica	GTF2H3	ENSPTIG00000008146	GTF	NA
+Panthera_tigris_altaica	ING3	ENSPTIG00000008202	ING	NA
+Panthera_tigris_altaica	ACTL6A	ENSPTIG00000008261	Actin	NA
+Panthera_tigris_altaica	DDX1	ENSPTIG00000008267	RNA helicase	NA
+Panthera_tigris_altaica	GTF2A2	ENSPTIG00000008342	GTF	NA
+Panthera_tigris_altaica	EWSR1	ENSPTIG00000008375	Others	NA
+Panthera_tigris_altaica	ASF1A	ENSPTIG00000008424	Others	NA
+Panthera_tigris_altaica	MED22	ENSPTIG00000008449	Mediator complex	NA
+Panthera_tigris_altaica	CNOT11	ENSPTIG00000008532	CCR4-NOT	NA
+Panthera_tigris_altaica	COMMD1	ENSPTIG00000008560	Others	NA
+Panthera_tigris_altaica	ABL1	ENSPTIG00000008573	Others	NA
+Panthera_tigris_altaica	LPIN3	ENSPTIG00000008580	LPIN	NA
+Panthera_tigris_altaica	EZH2	ENSPTIG00000008662	Others	NA
+Panthera_tigris_altaica	CIR1	ENSPTIG00000008708	Other_Co-activator/repressors	NA
+Panthera_tigris_altaica	CCNT2	ENSPTIG00000008723	Cyclin	NA
+Panthera_tigris_altaica	DDX17	ENSPTIG00000008733	RNA helicase	NA
+Panthera_tigris_altaica	KDM4C	ENSPTIG00000008735	Lysine demethylase	NA
+Panthera_tigris_altaica	MLLT1	ENSPTIG00000008740	GTF	NA
+Panthera_tigris_altaica	CNOT3	ENSPTIG00000008781	CCR4-NOT	NA
+Panthera_tigris_altaica	HIPK3	ENSPTIG00000008849	HIPK	NA
+Panthera_tigris_altaica	UTP4	ENSPTIG00000008976	Others	NA
+Panthera_tigris_altaica	EYA4	ENSPTIG00000008994	EYA	NA
+Panthera_tigris_altaica	CSNK2A2	ENSPTIG00000009043	Casein	NA
+Panthera_tigris_altaica	GRIP1	ENSPTIG00000009058	Others	NA
+Panthera_tigris_altaica	PKP4	ENSPTIG00000009059	Casein	NA
+Panthera_tigris_altaica	CDK5RAP3	ENSPTIG00000009086	Cyclin	NA
+Panthera_tigris_altaica	CHAF1B	ENSPTIG00000009098	Others	NA
+Panthera_tigris_altaica	PIM1	ENSPTIG00000009139	Others	NA
+Panthera_tigris_altaica	BRMS1	ENSPTIG00000009162	Other_CRF	NA
+Panthera_tigris_altaica	BIRC2	ENSPTIG00000009197	Others	NA
+Panthera_tigris_altaica	CGGBP1	ENSPTIG00000009207	Others	NA
+Panthera_tigris_altaica	TAF2	ENSPTIG00000009218	TATA-box	NA
+Panthera_tigris_altaica	LEO1	ENSPTIG00000009225	Others	NA
+Panthera_tigris_altaica	TXNIP	ENSPTIG00000009240	Others	NA
+Panthera_tigris_altaica	TARBP1	ENSPTIG00000009281	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000009300	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000009319	TEF	NA
+Panthera_tigris_altaica	TCEAL1	ENSPTIG00000009326	TEF	NA
+Panthera_tigris_altaica		ENSPTIG00000009329	Ring finger protein	NA
+Panthera_tigris_altaica	GNL3	ENSPTIG00000009356	Others	NA
+Panthera_tigris_altaica	CBX2	ENSPTIG00000009403	Chromobox	NA
+Panthera_tigris_altaica	CBX8	ENSPTIG00000009412	Chromobox	NA
+Panthera_tigris_altaica	C1D	ENSPTIG00000009414	Other_Co-activator/repressors	NA
+Panthera_tigris_altaica	LIN54	ENSPTIG00000009415	Others	NA
+Panthera_tigris_altaica	SYK	ENSPTIG00000009425	Others	NA
+Panthera_tigris_altaica	CAMK4	ENSPTIG00000009487	CAMK	NA
+Panthera_tigris_altaica	RB1	ENSPTIG00000009545	Other_Co-activator/repressors	NA
+Panthera_tigris_altaica	RBM39	ENSPTIG00000009580	RNA binding protein	NA
+Panthera_tigris_altaica	PCBD2	ENSPTIG00000009638	Others	NA
+Panthera_tigris_altaica	NELFB	ENSPTIG00000009639	GTF	NA
+Panthera_tigris_altaica	CCAR1	ENSPTIG00000009648	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000009681	Heat shock protein	NA
+Panthera_tigris_altaica	RPRD1B	ENSPTIG00000009723	Others	NA
+Panthera_tigris_altaica	MAK	ENSPTIG00000009730	Others	NA
+Panthera_tigris_altaica	SERTAD3	ENSPTIG00000009734	Others	NA
+Panthera_tigris_altaica	PUF60	ENSPTIG00000009795	Others	NA
+Panthera_tigris_altaica	EYA2	ENSPTIG00000009852	EYA	NA
+Panthera_tigris_altaica	THRSP	ENSPTIG00000009858	Others	NA
+Panthera_tigris_altaica	POLR3C	ENSPTIG00000009916	POLR	NA
+Panthera_tigris_altaica	BANP	ENSPTIG00000009960	Others	NA
+Panthera_tigris_altaica	NCOA3	ENSPTIG00000009978	Nuclear receptor coactivator	NA
+Panthera_tigris_altaica	CDYL2	ENSPTIG00000009990	Chromodomain Y	NA
+Panthera_tigris_altaica	CCNA2	ENSPTIG00000009997	Cyclin	NA
+Panthera_tigris_altaica	GTF2B	ENSPTIG00000010053	GTF	NA
+Panthera_tigris_altaica	SAMD4B	ENSPTIG00000010064	Others	NA
+Panthera_tigris_altaica	ZMYND8	ENSPTIG00000010111	Zinc finger	NA
+Panthera_tigris_altaica	MCIDAS	ENSPTIG00000010130	Others	NA
+Panthera_tigris_altaica	SFRP4	ENSPTIG00000010151	Others	NA
+Panthera_tigris_altaica	NCK1	ENSPTIG00000010173	Others	NA
+Panthera_tigris_altaica	CDK12	ENSPTIG00000010182	Cyclin	NA
+Panthera_tigris_altaica	TADA3	ENSPTIG00000010213	Transcriptional adaptor	NA
+Panthera_tigris_altaica	NCOA2	ENSPTIG00000010224	Nuclear receptor coactivator	NA
+Panthera_tigris_altaica	HCFC2	ENSPTIG00000010246	Others	NA
+Panthera_tigris_altaica	SUPT16H	ENSPTIG00000010252	SUPT	NA
+Panthera_tigris_altaica	MED31	ENSPTIG00000010277	Mediator complex	NA
+Panthera_tigris_altaica	EPC2	ENSPTIG00000010286	Others	NA
+Panthera_tigris_altaica	EHMT1	ENSPTIG00000010288	Histone lysine methyltransferase	NA
+Panthera_tigris_altaica	PAK6	ENSPTIG00000010294	Others	NA
+Panthera_tigris_altaica	SSBP2	ENSPTIG00000010302	Others	NA
+Panthera_tigris_altaica	RBM15	ENSPTIG00000010318	RNA binding protein	NA
+Panthera_tigris_altaica	WNT3A	ENSPTIG00000010321	Others	NA
+Panthera_tigris_altaica	SUZ12	ENSPTIG00000010329	Others	NA
+Panthera_tigris_altaica	DDX5	ENSPTIG00000010353	RNA helicase	NA
+Panthera_tigris_altaica	NCL	ENSPTIG00000010393	Others	NA
+Panthera_tigris_altaica	JADE1	ENSPTIG00000010404	Others	NA
+Panthera_tigris_altaica	BCL9	ENSPTIG00000010406	BCL	NA
+Panthera_tigris_altaica	ACTR8	ENSPTIG00000010433	ACTR	NA
+Panthera_tigris_altaica	AATF	ENSPTIG00000010436	Others	NA
+Panthera_tigris_altaica	CHD1L	ENSPTIG00000010440	CHD	NA
+Panthera_tigris_altaica	EYA3	ENSPTIG00000010453	EYA	NA
+Panthera_tigris_altaica	PAF1	ENSPTIG00000010455	Others	NA
+Panthera_tigris_altaica	MCRS1	ENSPTIG00000010460	Others	NA
+Panthera_tigris_altaica	MTF2	ENSPTIG00000010490	Others	NA
+Panthera_tigris_altaica	PEX14	ENSPTIG00000010498	Others	NA
+Panthera_tigris_altaica	ELP3	ENSPTIG00000010521	ELP	NA
+Panthera_tigris_altaica	MED29	ENSPTIG00000010534	Mediator complex	NA
+Panthera_tigris_altaica	MRTFA	ENSPTIG00000010561	Others	NA
+Panthera_tigris_altaica	MTPN	ENSPTIG00000010566	Others	NA
+Panthera_tigris_altaica	SMARCB1	ENSPTIG00000010592	SWI/SNF	NA
+Panthera_tigris_altaica	KDM3B	ENSPTIG00000010625	Lysine demethylase	NA
+Panthera_tigris_altaica	SUDS3	ENSPTIG00000010667	Other_Co-activator/repressors	NA
+Panthera_tigris_altaica	PDCD4	ENSPTIG00000010679	Others	NA
+Panthera_tigris_altaica	CALCOCO1	ENSPTIG00000010683	Others	NA
+Panthera_tigris_altaica	ATF7IP	ENSPTIG00000010723	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000010742	MYB	NA
+Panthera_tigris_altaica	NPAT	ENSPTIG00000010746	Nuclear coactivator	NA
+Panthera_tigris_altaica	SDR16C5	ENSPTIG00000010766	Others	NA
+Panthera_tigris_altaica	WWTR1	ENSPTIG00000010780	WW	NA
+Panthera_tigris_altaica		ENSPTIG00000010826	Mediator complex	NA
+Panthera_tigris_altaica	L3MBTL2	ENSPTIG00000010861	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000010871	SET	NA
+Panthera_tigris_altaica	MBTD1	ENSPTIG00000010915	Others	NA
+Panthera_tigris_altaica	SLC19A3	ENSPTIG00000010950	SLC	NA
+Panthera_tigris_altaica	PCBD1	ENSPTIG00000010960	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000010979	CHD	NA
+Panthera_tigris_altaica	CENPF	ENSPTIG00000011051	CENP	NA
+Panthera_tigris_altaica	ARHGAP5	ENSPTIG00000011092	Others	NA
+Panthera_tigris_altaica	CHD6	ENSPTIG00000011094	CHD	NA
+Panthera_tigris_altaica	RNF10	ENSPTIG00000011143	Ring finger protein	NA
+Panthera_tigris_altaica	CALR	ENSPTIG00000011152	Others	NA
+Panthera_tigris_altaica	PRPF6	ENSPTIG00000011184	Others	NA
+Panthera_tigris_altaica	WDR5	ENSPTIG00000011250	WD	NA
+Panthera_tigris_altaica	WWP2	ENSPTIG00000011273	WW	NA
+Panthera_tigris_altaica	BUD31	ENSPTIG00000011324	Others	NA
+Panthera_tigris_altaica	ACTG1	ENSPTIG00000011343	Actin	NA
+Panthera_tigris_altaica	SRA1	ENSPTIG00000011361	Others	NA
+Panthera_tigris_altaica	MDM4	ENSPTIG00000011372	Others	NA
+Panthera_tigris_altaica	CSRP3	ENSPTIG00000011374	Others	NA
+Panthera_tigris_altaica	CRK	ENSPTIG00000011379	Others	NA
+Panthera_tigris_altaica	BRD7	ENSPTIG00000011411	Bromodomain	NA
+Panthera_tigris_altaica	PARP14	ENSPTIG00000011462	PARP	NA
+Panthera_tigris_altaica	EZH1	ENSPTIG00000011506	Others	NA
+Panthera_tigris_altaica	NPM2	ENSPTIG00000011553	Nucleoplasmin	NA
+Panthera_tigris_altaica	KAT8	ENSPTIG00000011561	Lysine acetyltransferase	NA
+Panthera_tigris_altaica	PARP15	ENSPTIG00000011576	PARP	NA
+Panthera_tigris_altaica	CNOT8	ENSPTIG00000011584	CCR4-NOT	NA
+Panthera_tigris_altaica	TSG101	ENSPTIG00000011586	Others	NA
+Panthera_tigris_altaica	WWC1	ENSPTIG00000011588	WW	NA
+Panthera_tigris_altaica	ACTL6B	ENSPTIG00000011607	Actin	NA
+Panthera_tigris_altaica	CTR9	ENSPTIG00000011616	Others	NA
+Panthera_tigris_altaica	SUPT5H	ENSPTIG00000011633	SUPT	NA
+Panthera_tigris_altaica	CHD7	ENSPTIG00000011702	CHD	NA
+Panthera_tigris_altaica	VGLL4	ENSPTIG00000011766	Vestigial like	NA
+Panthera_tigris_altaica	GRHPR	ENSPTIG00000011839	Others	NA
+Panthera_tigris_altaica	CAMK2D	ENSPTIG00000011862	CAMK	NA
+Panthera_tigris_altaica	TAF9B	ENSPTIG00000011943	TATA-box	NA
+Panthera_tigris_altaica		ENSPTIG00000011944	Others	NA
+Panthera_tigris_altaica	REXO4	ENSPTIG00000012007	Others	NA
+Panthera_tigris_altaica	HDAC7	ENSPTIG00000012011	Histone deacetylase	NA
+Panthera_tigris_altaica	XIAP	ENSPTIG00000012023	Others	NA
+Panthera_tigris_altaica	RYBP	ENSPTIG00000012035	Others	NA
+Panthera_tigris_altaica	SMYD1	ENSPTIG00000012067	SMYD	NA
+Panthera_tigris_altaica	PML	ENSPTIG00000012076	Others	NA
+Panthera_tigris_altaica	INO80D	ENSPTIG00000012089	INO80 complex	NA
+Panthera_tigris_altaica	PHF21A	ENSPTIG00000012098	PHF	NA
+Panthera_tigris_altaica	FUS	ENSPTIG00000012151	Others	NA
+Panthera_tigris_altaica	ALPK3	ENSPTIG00000012152	Others	NA
+Panthera_tigris_altaica	PRDM7	ENSPTIG00000012171	Others	NA
+Panthera_tigris_altaica	TAF5L	ENSPTIG00000012178	TATA-box	NA
+Panthera_tigris_altaica	SETD6	ENSPTIG00000012197	SET	NA
+Panthera_tigris_altaica	WWP1	ENSPTIG00000012220	WW	NA
+Panthera_tigris_altaica	CNOT7	ENSPTIG00000012243	CCR4-NOT	NA
+Panthera_tigris_altaica	ACTR6	ENSPTIG00000012245	ACTR	NA
+Panthera_tigris_altaica	NFKBIZ	ENSPTIG00000012261	NFKB associated	NA
+Panthera_tigris_altaica	KDM5B	ENSPTIG00000012262	Lysine demethylase	NA
+Panthera_tigris_altaica	SIAH2	ENSPTIG00000012270	Others	NA
+Panthera_tigris_altaica	PICALM	ENSPTIG00000012288	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000012302	Cyclin	NA
+Panthera_tigris_altaica	SRFBP1	ENSPTIG00000012305	Others	NA
+Panthera_tigris_altaica	ELANE	ENSPTIG00000012318	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000012320	RNA binding protein	NA
+Panthera_tigris_altaica	NELFCD	ENSPTIG00000012328	GTF	NA
+Panthera_tigris_altaica	KAT5	ENSPTIG00000012360	Lysine acetyltransferase	NA
+Panthera_tigris_altaica	PHF20	ENSPTIG00000012368	PHF	NA
+Panthera_tigris_altaica	CNOT9	ENSPTIG00000012383	CCR4-NOT	NA
+Panthera_tigris_altaica	ZMYM2	ENSPTIG00000012393	Zinc finger	NA
+Panthera_tigris_altaica	LMCD1	ENSPTIG00000012417	LIM	NA
+Panthera_tigris_altaica		ENSPTIG00000012454	GTF	NA
+Panthera_tigris_altaica	PYCARD	ENSPTIG00000012467	Others	NA
+Panthera_tigris_altaica	PARP9	ENSPTIG00000012502	PARP	NA
+Panthera_tigris_altaica	DEK	ENSPTIG00000012532	Other_CRF	NA
+Panthera_tigris_altaica	ATN1	ENSPTIG00000012538	Others	NA
+Panthera_tigris_altaica	LDB1	ENSPTIG00000012571	LIM	NA
+Panthera_tigris_altaica	CNOT1	ENSPTIG00000012589	CCR4-NOT	NA
+Panthera_tigris_altaica	TLE3	ENSPTIG00000012641	Transducin	NA
+Panthera_tigris_altaica	ASH2L	ENSPTIG00000012651	Others	NA
+Panthera_tigris_altaica	BTAF1	ENSPTIG00000012653	Others	NA
+Panthera_tigris_altaica	BEND3	ENSPTIG00000012683	Others	NA
+Panthera_tigris_altaica	ILK	ENSPTIG00000012693	Others	NA
+Panthera_tigris_altaica	ANKRD2	ENSPTIG00000012729	Ankyrin repeat	NA
+Panthera_tigris_altaica	EED	ENSPTIG00000012760	Others	NA
+Panthera_tigris_altaica	CIDEA	ENSPTIG00000012761	Others	NA
+Panthera_tigris_altaica	CDK5	ENSPTIG00000012765	Cyclin	NA
+Panthera_tigris_altaica	BTN2A1	ENSPTIG00000012788	Others	NA
+Panthera_tigris_altaica	LMO1	ENSPTIG00000012842	LIM	NA
+Panthera_tigris_altaica	NRIP2	ENSPTIG00000012843	Nuclear coactivator	NA
+Panthera_tigris_altaica	DPF1	ENSPTIG00000012923	DPF	NA
+Panthera_tigris_altaica	DSCAM	ENSPTIG00000012935	Others	NA
+Panthera_tigris_altaica	CCDC62	ENSPTIG00000012979	Coiled-coil	NA
+Panthera_tigris_altaica	TCERG1	ENSPTIG00000012997	TEF	NA
+Panthera_tigris_altaica	SUV39H2	ENSPTIG00000013010	Others	NA
+Panthera_tigris_altaica	CBX7	ENSPTIG00000013014	Chromobox	NA
+Panthera_tigris_altaica	HDAC5	ENSPTIG00000013036	Histone deacetylase	NA
+Panthera_tigris_altaica		ENSPTIG00000013037	FGF	NA
+Panthera_tigris_altaica	SLC30A9	ENSPTIG00000013054	SLC	NA
+Panthera_tigris_altaica	ANKAR	ENSPTIG00000013087	Ankyrin repeat	NA
+Panthera_tigris_altaica	LPIN1	ENSPTIG00000013089	LPIN	NA
+Panthera_tigris_altaica	DCC	ENSPTIG00000013104	Others	NA
+Panthera_tigris_altaica	SMARCD3	ENSPTIG00000013138	SWI/SNF	NA
+Panthera_tigris_altaica	WBP2NL	ENSPTIG00000013168	Others	NA
+Panthera_tigris_altaica	SNX5	ENSPTIG00000013211	Others	NA
+Panthera_tigris_altaica	ARHGAP35	ENSPTIG00000013260	Others	NA
+Panthera_tigris_altaica	PCGF2	ENSPTIG00000013278	PCGF	NA
+Panthera_tigris_altaica	NDUFA13	ENSPTIG00000013303	Others	NA
+Panthera_tigris_altaica	SAP30	ENSPTIG00000013339	SAP	NA
+Panthera_tigris_altaica	MED10	ENSPTIG00000013384	Mediator complex	NA
+Panthera_tigris_altaica	MTOR	ENSPTIG00000013400	Others	NA
+Panthera_tigris_altaica	ICE1	ENSPTIG00000013477	Others	NA
+Panthera_tigris_altaica	LOXL2	ENSPTIG00000013484	Others	NA
+Panthera_tigris_altaica	GTF2A1	ENSPTIG00000013493	GTF	NA
+Panthera_tigris_altaica	HTATIP2	ENSPTIG00000013551	Others	NA
+Panthera_tigris_altaica	ICE2	ENSPTIG00000013570	GTF	NA
+Panthera_tigris_altaica	PID1	ENSPTIG00000013591	Others	NA
+Panthera_tigris_altaica	TAF10	ENSPTIG00000013604	TATA-box	NA
+Panthera_tigris_altaica	NEDD8	ENSPTIG00000013617	Others	NA
+Panthera_tigris_altaica	OPTN	ENSPTIG00000013618	Others	NA
+Panthera_tigris_altaica	PAXIP1	ENSPTIG00000013708	Others	NA
+Panthera_tigris_altaica	PPRC1	ENSPTIG00000013709	Others	NA
+Panthera_tigris_altaica	MED28	ENSPTIG00000013729	Mediator complex	NA
+Panthera_tigris_altaica	TGFB1	ENSPTIG00000013742	Others	NA
+Panthera_tigris_altaica	H2AZ1	ENSPTIG00000013766	Others	NA
+Panthera_tigris_altaica	CHCHD2	ENSPTIG00000013774	Coiled-coil	NA
+Panthera_tigris_altaica	PPHLN1	ENSPTIG00000013788	Others	NA
+Panthera_tigris_altaica	KDM5D	ENSPTIG00000013795	Lysine demethylase	NA
+Panthera_tigris_altaica	TRAK2	ENSPTIG00000013824	Others	NA
+Panthera_tigris_altaica	CXXC5	ENSPTIG00000013861	Others	NA
+Panthera_tigris_altaica	RUVBL1	ENSPTIG00000013864	Other_CRF	NA
+Panthera_tigris_altaica	TDG	ENSPTIG00000013882	Others	NA
+Panthera_tigris_altaica	MEAF6	ENSPTIG00000013885	Others	NA
+Panthera_tigris_altaica	TAB3	ENSPTIG00000013905	Others	NA
+Panthera_tigris_altaica	LGALS12	ENSPTIG00000013920	Others	NA
+Panthera_tigris_altaica	CHEK1	ENSPTIG00000013941	Others	NA
+Panthera_tigris_altaica	ORC2	ENSPTIG00000013974	Others	NA
+Panthera_tigris_altaica	NIF3L1	ENSPTIG00000013986	Others	NA
+Panthera_tigris_altaica	BRDT	ENSPTIG00000013997	Bromodomain	NA
+Panthera_tigris_altaica	C6orf89	ENSPTIG00000014042	Other_CRF	NA
+Panthera_tigris_altaica	MED23	ENSPTIG00000014064	Mediator complex	NA
+Panthera_tigris_altaica	LIMD1	ENSPTIG00000014089	LIM	NA
+Panthera_tigris_altaica	NSD1	ENSPTIG00000014101	Nuclear receptor coactivator	NA
+Panthera_tigris_altaica	PCGF3	ENSPTIG00000014106	PCGF	NA
+Panthera_tigris_altaica	SNW1	ENSPTIG00000014124	Others	NA
+Panthera_tigris_altaica	BCAS3	ENSPTIG00000014166	Others	NA
+Panthera_tigris_altaica	RIPK3	ENSPTIG00000014209	Others	NA
+Panthera_tigris_altaica	SND1	ENSPTIG00000014214	Others	NA
+Panthera_tigris_altaica	SNIP1	ENSPTIG00000014216	Others	NA
+Panthera_tigris_altaica	PHF5A	ENSPTIG00000014228	PHF	NA
+Panthera_tigris_altaica	CHCHD3	ENSPTIG00000014267	Coiled-coil	NA
+Panthera_tigris_altaica	PRMT5	ENSPTIG00000014268	Arginine methyltransferase	NA
+Panthera_tigris_altaica	MORF4L1	ENSPTIG00000014288	Other_CRF	NA
+Panthera_tigris_altaica	WNT5B	ENSPTIG00000014303	Others	NA
+Panthera_tigris_altaica	PHF2	ENSPTIG00000014361	PHF	NA
+Panthera_tigris_altaica	CECR2	ENSPTIG00000014364	Other_CRF	NA
+Panthera_tigris_altaica	PRAME	ENSPTIG00000014370	Others	NA
+Panthera_tigris_altaica	TNIP1	ENSPTIG00000014378	Others	NA
+Panthera_tigris_altaica	SGF29	ENSPTIG00000014381	Others	NA
+Panthera_tigris_altaica	CENPU	ENSPTIG00000014388	CENP	NA
+Panthera_tigris_altaica	CD3D	ENSPTIG00000014416	Others	NA
+Panthera_tigris_altaica	AIP	ENSPTIG00000014436	Others	NA
+Panthera_tigris_altaica	MED21	ENSPTIG00000014470	Mediator complex	NA
+Panthera_tigris_altaica		ENSPTIG00000014475	Lysine methyltransferase	NA
+Panthera_tigris_altaica	MED14	ENSPTIG00000014500	Mediator complex	NA
+Panthera_tigris_altaica	TRIP4	ENSPTIG00000014502	Thyroid hormone receptor	NA
+Panthera_tigris_altaica	EAF1	ENSPTIG00000014507	Others	NA
+Panthera_tigris_altaica	PCGF5	ENSPTIG00000014512	PCGF	NA
+Panthera_tigris_altaica	EDF1	ENSPTIG00000014527	Others	NA
+Panthera_tigris_altaica	WDTC1	ENSPTIG00000014587	WD	NA
+Panthera_tigris_altaica	SMURF2	ENSPTIG00000014597	Others	NA
+Panthera_tigris_altaica	DCAF6	ENSPTIG00000014604	Others	NA
+Panthera_tigris_altaica	RUVBL2	ENSPTIG00000014626	Other_CRF	NA
+Panthera_tigris_altaica	TCEA1	ENSPTIG00000014678	TEF	NA
+Panthera_tigris_altaica	PADI4	ENSPTIG00000014682	Others	NA
+Panthera_tigris_altaica	MTDH	ENSPTIG00000014696	Others	NA
+Panthera_tigris_altaica	NOTCH2	ENSPTIG00000014724	Notch	NA
+Panthera_tigris_altaica	SCMH1	ENSPTIG00000014755	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000014778	Transducin	NA
+Panthera_tigris_altaica	ANKRD1	ENSPTIG00000014828	Ankyrin repeat	NA
+Panthera_tigris_altaica	APEX1	ENSPTIG00000014829	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000014842	Others	NA
+Panthera_tigris_altaica	TRIP6	ENSPTIG00000014845	Thyroid hormone receptor	NA
+Panthera_tigris_altaica	SUPT6H	ENSPTIG00000014860	SUPT	NA
+Panthera_tigris_altaica	CBX5	ENSPTIG00000014891	Chromobox	NA
+Panthera_tigris_altaica	DEPDC1	ENSPTIG00000014898	Others	NA
+Panthera_tigris_altaica	GTF2H4	ENSPTIG00000014924	GTF	NA
+Panthera_tigris_altaica	LPXN	ENSPTIG00000014939	Others	NA
+Panthera_tigris_altaica	TAF6L	ENSPTIG00000014940	TATA-box	NA
+Panthera_tigris_altaica	HIF1AN	ENSPTIG00000014946	Others	NA
+Panthera_tigris_altaica	MRTFB	ENSPTIG00000014959	Others	NA
+Panthera_tigris_altaica	NUDT5	ENSPTIG00000014985	Other_CRF	NA
+Panthera_tigris_altaica	SETD2	ENSPTIG00000015030	SET	NA
+Panthera_tigris_altaica	CREBBP	ENSPTIG00000015039	CREB	NA
+Panthera_tigris_altaica	HDGF	ENSPTIG00000015044	Others	NA
+Panthera_tigris_altaica	IKBKB	ENSPTIG00000015081	Others	NA
+Panthera_tigris_altaica	CASK	ENSPTIG00000015082	CAMK	NA
+Panthera_tigris_altaica	HR	ENSPTIG00000015103	Lysine methyltransferase	NA
+Panthera_tigris_altaica	SAFB2	ENSPTIG00000015120	Others	NA
+Panthera_tigris_altaica	BCL10	ENSPTIG00000015138	BCL	NA
+Panthera_tigris_altaica	ANP32B	ENSPTIG00000015191	ANP	NA
+Panthera_tigris_altaica	TOPORS	ENSPTIG00000015198	Others	NA
+Panthera_tigris_altaica	ELL2	ENSPTIG00000015236	GTF	NA
+Panthera_tigris_altaica	TNIP2	ENSPTIG00000015248	Others	NA
+Panthera_tigris_altaica	PSIP1	ENSPTIG00000015257	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000015281	Others	NA
+Panthera_tigris_altaica	DNAJA3	ENSPTIG00000015328	Others	NA
+Panthera_tigris_altaica	GTF2H1	ENSPTIG00000015340	GTF	NA
+Panthera_tigris_altaica	RBBP8	ENSPTIG00000015348	RBBP	NA
+Panthera_tigris_altaica	MAD2L2	ENSPTIG00000015350	Others	NA
+Panthera_tigris_altaica	DVL3	ENSPTIG00000015405	Others	NA
+Panthera_tigris_altaica	SIVA1	ENSPTIG00000015456	Others	NA
+Panthera_tigris_altaica	DNMT3B	ENSPTIG00000015474	DNA_methylase	NA
+Panthera_tigris_altaica	OGT	ENSPTIG00000015486	Others	NA
+Panthera_tigris_altaica	NCOA7	ENSPTIG00000015490	Nuclear receptor coactivator	NA
+Panthera_tigris_altaica	CASP8AP2	ENSPTIG00000015523	Others	NA
+Panthera_tigris_altaica	TRIM37	ENSPTIG00000015536	Tripartite motif	NA
+Panthera_tigris_altaica	DNMT1	ENSPTIG00000015548	DNA_methylase	NA
+Panthera_tigris_altaica		ENSPTIG00000015549	Others	NA
+Panthera_tigris_altaica	NRG1	ENSPTIG00000015564	Others	NA
+Panthera_tigris_altaica	JMJD6	ENSPTIG00000015569	Others	NA
+Panthera_tigris_altaica	SPAG8	ENSPTIG00000015579	Others	NA
+Panthera_tigris_altaica	PFDN5	ENSPTIG00000015595	Others	NA
+Panthera_tigris_altaica	EAF2	ENSPTIG00000015608	Others	NA
+Panthera_tigris_altaica	KDM4A	ENSPTIG00000015673	Lysine demethylase	NA
+Panthera_tigris_altaica	XRN2	ENSPTIG00000015683	Others	NA
+Panthera_tigris_altaica	CNOT6L	ENSPTIG00000015698	CCR4-NOT	NA
+Panthera_tigris_altaica	TNNI1	ENSPTIG00000015711	Others	NA
+Panthera_tigris_altaica	NFKBID	ENSPTIG00000015715	NFKB associated	NA
+Panthera_tigris_altaica	ASCC1	ENSPTIG00000015725	ASCC	NA
+Panthera_tigris_altaica	ATXN7L3	ENSPTIG00000015740	Others	NA
+Panthera_tigris_altaica	SS18L2	ENSPTIG00000015760	SS18	NA
+Panthera_tigris_altaica	CBL	ENSPTIG00000015783	Others	NA
+Panthera_tigris_altaica	KDM5C	ENSPTIG00000015811	Lysine demethylase	NA
+Panthera_tigris_altaica	FHL2	ENSPTIG00000015836	FHL	NA
+Panthera_tigris_altaica	PCGF1	ENSPTIG00000015872	PCGF	NA
+Panthera_tigris_altaica	MED13L	ENSPTIG00000015874	Mediator complex	NA
+Panthera_tigris_altaica	TRIM68	ENSPTIG00000015890	Tripartite motif	NA
+Panthera_tigris_altaica	PADI2	ENSPTIG00000015895	Other_CRF	NA
+Panthera_tigris_altaica	HIPK1	ENSPTIG00000015933	HIPK	NA
+Panthera_tigris_altaica	BCL3	ENSPTIG00000015936	BCL	NA
+Panthera_tigris_altaica	ANKRA2	ENSPTIG00000015943	Ankyrin repeat	NA
+Panthera_tigris_altaica	DTX1	ENSPTIG00000015944	Others	NA
+Panthera_tigris_altaica	EGFR	ENSPTIG00000015949	Others	NA
+Panthera_tigris_altaica	KDM7A	ENSPTIG00000015958	Lysine demethylase	NA
+Panthera_tigris_altaica	RBPMS	ENSPTIG00000015964	RNA binding protein	NA
+Panthera_tigris_altaica	TPR	ENSPTIG00000015970	Others	NA
+Panthera_tigris_altaica	SNAPC2	ENSPTIG00000016014	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000016068	Others	NA
+Panthera_tigris_altaica	ARRB1	ENSPTIG00000016095	Others	NA
+Panthera_tigris_altaica	PHF10	ENSPTIG00000016122	PHF	NA
+Panthera_tigris_altaica	BTF3	ENSPTIG00000016139	Others	NA
+Panthera_tigris_altaica	BLM	ENSPTIG00000016168	Others	NA
+Panthera_tigris_altaica	MACROH2A2	ENSPTIG00000016189	Others	NA
+Panthera_tigris_altaica	SENP1	ENSPTIG00000016220	Others	NA
+Panthera_tigris_altaica	TAF7L	ENSPTIG00000016246	TATA-box	NA
+Panthera_tigris_altaica	CAVIN2	ENSPTIG00000016298	Others	NA
+Panthera_tigris_altaica	TAB1	ENSPTIG00000016309	Others	NA
+Panthera_tigris_altaica	EGLN2	ENSPTIG00000016310	Others	NA
+Panthera_tigris_altaica	PHIP	ENSPTIG00000016313	Others	NA
+Panthera_tigris_altaica	COPRS	ENSPTIG00000016317	Others	NA
+Panthera_tigris_altaica	PIN1	ENSPTIG00000016328	Others	NA
+Panthera_tigris_altaica	PHF12	ENSPTIG00000016400	PHF	NA
+Panthera_tigris_altaica	CRY1	ENSPTIG00000016412	Others	NA
+Panthera_tigris_altaica	TAF15	ENSPTIG00000016445	TATA-box	NA
+Panthera_tigris_altaica	BPTF	ENSPTIG00000016453	Bromodomain	NA
+Panthera_tigris_altaica	EYA1	ENSPTIG00000016454	EYA	NA
+Panthera_tigris_altaica	TXLNG	ENSPTIG00000016487	Others	NA
+Panthera_tigris_altaica	SKAP1	ENSPTIG00000016493	Others	NA
+Panthera_tigris_altaica	RBBP7	ENSPTIG00000016495	RBBP	NA
+Panthera_tigris_altaica	TRAF6	ENSPTIG00000016499	Others	NA
+Panthera_tigris_altaica	CCNA1	ENSPTIG00000016566	Cyclin	NA
+Panthera_tigris_altaica	MED24	ENSPTIG00000016578	Mediator complex	NA
+Panthera_tigris_altaica	KMT5A	ENSPTIG00000016588	Lysine methyltransferase	NA
+Panthera_tigris_altaica	HCLS1	ENSPTIG00000016695	Others	NA
+Panthera_tigris_altaica	MED19	ENSPTIG00000016723	Mediator complex	NA
+Panthera_tigris_altaica	ZMYM5	ENSPTIG00000016752	Zinc finger	NA
+Panthera_tigris_altaica	RBM14	ENSPTIG00000016775	RNA binding protein	NA
+Panthera_tigris_altaica	KDM6A	ENSPTIG00000016776	Lysine demethylase	NA
+Panthera_tigris_altaica	CNOT6	ENSPTIG00000016794	CCR4-NOT	NA
+Panthera_tigris_altaica	CCPG1	ENSPTIG00000016812	Others	NA
+Panthera_tigris_altaica	FGFR1	ENSPTIG00000016849	FGF	NA
+Panthera_tigris_altaica	HTATSF1	ENSPTIG00000016887	Others	NA
+Panthera_tigris_altaica	THRAP3	ENSPTIG00000016888	Thyroid hormone receptor	NA
+Panthera_tigris_altaica	PSPC1	ENSPTIG00000016917	Others	NA
+Panthera_tigris_altaica	MDM2	ENSPTIG00000016929	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000016933	Others	NA
+Panthera_tigris_altaica	JAK2	ENSPTIG00000016939	Others	NA
+Panthera_tigris_altaica	RASD2	ENSPTIG00000016963	Others	NA
+Panthera_tigris_altaica	ERCC3	ENSPTIG00000016969	Others	NA
+Panthera_tigris_altaica	TOP1	ENSPTIG00000017003	Other_CRF	NA
+Panthera_tigris_altaica	MED12L	ENSPTIG00000017099	Mediator complex	NA
+Panthera_tigris_altaica	STK3	ENSPTIG00000017116	Others	NA
+Panthera_tigris_altaica	SMYD3	ENSPTIG00000017118	SMYD	NA
+Panthera_tigris_altaica	MALT1	ENSPTIG00000017119	Others	NA
+Panthera_tigris_altaica	LBH	ENSPTIG00000017137	Others	NA
+Panthera_tigris_altaica	ABRA	ENSPTIG00000017155	Actin	NA
+Panthera_tigris_altaica	RBBP4	ENSPTIG00000017216	RBBP	NA
+Panthera_tigris_altaica	NELFA	ENSPTIG00000017223	GTF	NA
+Panthera_tigris_altaica	SMARCD2	ENSPTIG00000017233	SWI/SNF	NA
+Panthera_tigris_altaica	FRK	ENSPTIG00000017241	Others	NA
+Panthera_tigris_altaica	CXXC1	ENSPTIG00000017258	Others	NA
+Panthera_tigris_altaica	PSEN1	ENSPTIG00000017262	Others	NA
+Panthera_tigris_altaica	LDB2	ENSPTIG00000017280	LIM	NA
+Panthera_tigris_altaica	ENY2	ENSPTIG00000017293	Others	NA
+Panthera_tigris_altaica	TRIB2	ENSPTIG00000017323	Others	NA
+Panthera_tigris_altaica	TCF20	ENSPTIG00000017350	Others	NA
+Panthera_tigris_altaica	BTK	ENSPTIG00000017399	Others	NA
+Panthera_tigris_altaica	KDM4B	ENSPTIG00000017400	Lysine demethylase	NA
+Panthera_tigris_altaica	HEATR1	ENSPTIG00000017413	Others	NA
+Panthera_tigris_altaica	MED11	ENSPTIG00000017423	Mediator complex	NA
+Panthera_tigris_altaica	HDAC2	ENSPTIG00000017437	Histone deacetylase	NA
+Panthera_tigris_altaica	SMARCA4	ENSPTIG00000017447	SWI/SNF	NA
+Panthera_tigris_altaica	CDK7	ENSPTIG00000017478	Cyclin	NA
+Panthera_tigris_altaica	DPF3	ENSPTIG00000017482	DPF	NA
+Panthera_tigris_altaica	MSL3	ENSPTIG00000017508	Others	NA
+Panthera_tigris_altaica	PRMT8	ENSPTIG00000017539	Arginine methyltransferase	NA
+Panthera_tigris_altaica	BCL9L	ENSPTIG00000017579	BCL	NA
+Panthera_tigris_altaica	AXIN1	ENSPTIG00000017588	Others	NA
+Panthera_tigris_altaica	JMJD1C	ENSPTIG00000017593	Other_CRF	NA
+Panthera_tigris_altaica	UXT	ENSPTIG00000017598	Others	NA
+Panthera_tigris_altaica	SS18	ENSPTIG00000017644	SS18	NA
+Panthera_tigris_altaica	DDX39B	ENSPTIG00000017669	RNA helicase	NA
+Panthera_tigris_altaica		ENSPTIG00000017670	HNRNP	NA
+Panthera_tigris_altaica	AURKB	ENSPTIG00000017693	Others	NA
+Panthera_tigris_altaica	LANCL2	ENSPTIG00000017744	Others	NA
+Panthera_tigris_altaica	PLK1	ENSPTIG00000017795	Others	NA
+Panthera_tigris_altaica	MPHOSPH8	ENSPTIG00000017801	Others	NA
+Panthera_tigris_altaica	ILF2	ENSPTIG00000017810	Others	NA
+Panthera_tigris_altaica	SMARCAD1	ENSPTIG00000017868	SWI/SNF	NA
+Panthera_tigris_altaica	CNOT10	ENSPTIG00000017926	CCR4-NOT	NA
+Panthera_tigris_altaica	NIPBL	ENSPTIG00000017937	Others	NA
+Panthera_tigris_altaica	GTF2E1	ENSPTIG00000017960	GTF	NA
+Panthera_tigris_altaica	APBB1	ENSPTIG00000017985	Others	NA
+Panthera_tigris_altaica	NOL11	ENSPTIG00000018044	Nuclear coactivator	NA
+Panthera_tigris_altaica	LZTS1	ENSPTIG00000018077	Others	NA
+Panthera_tigris_altaica	KMT2E	ENSPTIG00000018152	Lysine methyltransferase	NA
+Panthera_tigris_altaica	CTNND1	ENSPTIG00000018189	Casein	NA
+Panthera_tigris_altaica	RBL1	ENSPTIG00000018242	Other_Co-activator/repressors	NA
+Panthera_tigris_altaica	MED6	ENSPTIG00000018243	Mediator complex	NA
+Panthera_tigris_altaica	CCNE1	ENSPTIG00000018249	Cyclin	NA
+Panthera_tigris_altaica		ENSPTIG00000018262	TEF	NA
+Panthera_tigris_altaica	MED8	ENSPTIG00000018265	Mediator complex	NA
+Panthera_tigris_altaica	EAPP	ENSPTIG00000018266	Others	NA
+Panthera_tigris_altaica	KDM2B	ENSPTIG00000018268	Lysine demethylase	NA
+Panthera_tigris_altaica	CLU	ENSPTIG00000018269	Others	NA
+Panthera_tigris_altaica	NCOA4	ENSPTIG00000018294	Nuclear receptor coactivator	NA
+Panthera_tigris_altaica	SETD3	ENSPTIG00000018309	SET	NA
+Panthera_tigris_altaica	MYCBP2	ENSPTIG00000018337	MYC	NA
+Panthera_tigris_altaica	RWDD3	ENSPTIG00000018341	Others	NA
+Panthera_tigris_altaica	NRBF2	ENSPTIG00000018356	Nuclear receptor coactivator	NA
+Panthera_tigris_altaica	EMSY	ENSPTIG00000018392	Others	NA
+Panthera_tigris_altaica	DHX36	ENSPTIG00000018478	RNA helicase	NA
+Panthera_tigris_altaica		ENSPTIG00000018482	Others	NA
+Panthera_tigris_altaica	CTNNB1	ENSPTIG00000018503	Casein	NA
+Panthera_tigris_altaica	HSBP1	ENSPTIG00000018555	Heat shock protein	NA
+Panthera_tigris_altaica	TDP2	ENSPTIG00000018574	Others	NA
+Panthera_tigris_altaica	CDK2	ENSPTIG00000018583	Cyclin	NA
+Panthera_tigris_altaica	PYGO2	ENSPTIG00000018594	Others	NA
+Panthera_tigris_altaica	DR1	ENSPTIG00000018611	Others	NA
+Panthera_tigris_altaica	KCNIP3	ENSPTIG00000018613	Others	NA
+Panthera_tigris_altaica	HAT1	ENSPTIG00000018616	Others	NA
+Panthera_tigris_altaica	RHOA	ENSPTIG00000018631	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000018632	Vestigial like	NA
+Panthera_tigris_altaica	PDLIM1	ENSPTIG00000018643	Others	NA
+Panthera_tigris_altaica	TASOR	ENSPTIG00000018692	FAM	NA
+Panthera_tigris_altaica		ENSPTIG00000018701	TATA-box	NA
+Panthera_tigris_altaica	BRMS1L	ENSPTIG00000018709	Other_CRF	NA
+Panthera_tigris_altaica	RALGAPA1	ENSPTIG00000018730	Others	NA
+Panthera_tigris_altaica	FAM83G	ENSPTIG00000018732	FAM	NA
+Panthera_tigris_altaica	BEND6	ENSPTIG00000018733	Others	NA
+Panthera_tigris_altaica	SAP130	ENSPTIG00000018759	SAP	NA
+Panthera_tigris_altaica	POLR1A	ENSPTIG00000018783	POLR	NA
+Panthera_tigris_altaica	TENM1	ENSPTIG00000018793	Others	NA
+Panthera_tigris_altaica	CHTOP	ENSPTIG00000018801	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000018831	Histone deacetylase	NA
+Panthera_tigris_altaica	STRN3	ENSPTIG00000018841	Others	NA
+Panthera_tigris_altaica	KAT2B	ENSPTIG00000018853	Lysine acetyltransferase	NA
+Panthera_tigris_altaica	DAB2	ENSPTIG00000018885	Others	NA
+Panthera_tigris_altaica	BRF2	ENSPTIG00000019006	GTF	NA
+Panthera_tigris_altaica	GSK3B	ENSPTIG00000019009	Others	NA
+Panthera_tigris_altaica	XRCC6	ENSPTIG00000019026	Others	NA
+Panthera_tigris_altaica	PLK3	ENSPTIG00000019028	Others	NA
+Panthera_tigris_altaica	BRD8	ENSPTIG00000019041	Bromodomain	NA
+Panthera_tigris_altaica	CHEK2	ENSPTIG00000019047	Others	NA
+Panthera_tigris_altaica	ACTN1	ENSPTIG00000019058	Actin	NA
+Panthera_tigris_altaica	SS18L1	ENSPTIG00000019059	SS18	NA
+Panthera_tigris_altaica	TRIM24	ENSPTIG00000019077	Tripartite motif	NA
+Panthera_tigris_altaica		ENSPTIG00000019080	Arginine methyltransferase	NA
+Panthera_tigris_altaica	TLE4	ENSPTIG00000019084	Transducin	NA
+Panthera_tigris_altaica	PQBP1	ENSPTIG00000019101	Others	NA
+Panthera_tigris_altaica	RFXAP	ENSPTIG00000019110	Others	NA
+Panthera_tigris_altaica	CCAR2	ENSPTIG00000019114	Others	NA
+Panthera_tigris_altaica	MYO6	ENSPTIG00000019124	Others	NA
+Panthera_tigris_altaica	KDM1A	ENSPTIG00000019129	Lysine demethylase	NA
+Panthera_tigris_altaica	RBFOX2	ENSPTIG00000019147	Others	NA
+Panthera_tigris_altaica	CCNC	ENSPTIG00000019192	Cyclin	NA
+Panthera_tigris_altaica	PIK3R1	ENSPTIG00000019204	Others	NA
+Panthera_tigris_altaica	HEXIM2	ENSPTIG00000019231	Others	NA
+Panthera_tigris_altaica	YEATS2	ENSPTIG00000019269	Others	NA
+Panthera_tigris_altaica	HSPA8	ENSPTIG00000019278	Heat shock protein	NA
+Panthera_tigris_altaica	PIH1D1	ENSPTIG00000019309	Other_CRF	NA
+Panthera_tigris_altaica	AURKAIP1	ENSPTIG00000019314	Others	NA
+Panthera_tigris_altaica	DNAJB4	ENSPTIG00000019319	Others	NA
+Panthera_tigris_altaica	CBX3	ENSPTIG00000019324	Chromobox	NA
+Panthera_tigris_altaica	SET	ENSPTIG00000019383	SET	NA
+Panthera_tigris_altaica	CDC73	ENSPTIG00000019387	Others	NA
+Panthera_tigris_altaica	RAF1	ENSPTIG00000019431	Others	NA
+Panthera_tigris_altaica	HNRNPD	ENSPTIG00000019434	HNRNP	NA
+Panthera_tigris_altaica	LOXL3	ENSPTIG00000019481	Others	NA
+Panthera_tigris_altaica	TESC	ENSPTIG00000019496	Others	NA
+Panthera_tigris_altaica	PPID	ENSPTIG00000019507	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000019533	Casein	NA
+Panthera_tigris_altaica	COPS5	ENSPTIG00000019563	Others	NA
+Panthera_tigris_altaica	MED9	ENSPTIG00000019572	Mediator complex	NA
+Panthera_tigris_altaica	CCNH	ENSPTIG00000019590	Cyclin	NA
+Panthera_tigris_altaica	KDM2A	ENSPTIG00000019593	Lysine demethylase	NA
+Panthera_tigris_altaica		ENSPTIG00000019618	Others	NA
+Panthera_tigris_altaica	ZNF638	ENSPTIG00000019660	Zinc finger	NA
+Panthera_tigris_altaica	NIBAN2	ENSPTIG00000019663	FAM	NA
+Panthera_tigris_altaica	TAF1D	ENSPTIG00000019674	TATA-box	NA
+Panthera_tigris_altaica	ANP32E	ENSPTIG00000019676	ANP	NA
+Panthera_tigris_altaica	ASH1L	ENSPTIG00000019713	Others	NA
+Panthera_tigris_altaica	DDX54	ENSPTIG00000019728	RNA helicase	NA
+Panthera_tigris_altaica	EPC1	ENSPTIG00000019741	Others	NA
+Panthera_tigris_altaica	HNRNPK	ENSPTIG00000019742	HNRNP	NA
+Panthera_tigris_altaica	ABT1	ENSPTIG00000019779	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000019812	Others	NA
+Panthera_tigris_altaica	CDKN1B	ENSPTIG00000019820	Cyclin	NA
+Panthera_tigris_altaica	CDK1	ENSPTIG00000019837	Cyclin	NA
+Panthera_tigris_altaica		ENSPTIG00000019841	Mediator complex	NA
+Panthera_tigris_altaica	JMY	ENSPTIG00000019858	Others	NA
+Panthera_tigris_altaica	RNF4	ENSPTIG00000019861	Ring finger protein	NA
+Panthera_tigris_altaica	BRCA2	ENSPTIG00000019877	Others	NA
+Panthera_tigris_altaica	CTH	ENSPTIG00000019906	Others	NA
+Panthera_tigris_altaica	PIDD1	ENSPTIG00000019941	Others	NA
+Panthera_tigris_altaica	SMURF1	ENSPTIG00000019948	Others	NA
+Panthera_tigris_altaica	SUFU	ENSPTIG00000019963	Others	NA
+Panthera_tigris_altaica	MED27	ENSPTIG00000019985	Mediator complex	NA
+Panthera_tigris_altaica	KAT6B	ENSPTIG00000020017	Lysine acetyltransferase	NA
+Panthera_tigris_altaica	SAP18	ENSPTIG00000020053	SAP	NA
+Panthera_tigris_altaica	ESF1	ENSPTIG00000020063	Others	NA
+Panthera_tigris_altaica	ANXA4	ENSPTIG00000020077	Others	NA
+Panthera_tigris_altaica	RBBP5	ENSPTIG00000020080	RBBP	NA
+Panthera_tigris_altaica	URI1	ENSPTIG00000020114	Others	NA
+Panthera_tigris_altaica	ING4	ENSPTIG00000020118	ING	NA
+Panthera_tigris_altaica	HDAC11	ENSPTIG00000020186	Histone deacetylase	NA
+Panthera_tigris_altaica	SKIL	ENSPTIG00000020199	SKI	NA
+Panthera_tigris_altaica	RAP2C	ENSPTIG00000020253	Others	NA
+Panthera_tigris_altaica	TBPL2	ENSPTIG00000020278	TATA-box	NA
+Panthera_tigris_altaica	RNF141	ENSPTIG00000020284	Ring finger protein	NA
+Panthera_tigris_altaica		ENSPTIG00000020285	Others	NA
+Panthera_tigris_altaica	PARK7	ENSPTIG00000020289	Others	NA
+Panthera_tigris_altaica	POLR3F	ENSPTIG00000020292	POLR	NA
+Panthera_tigris_altaica	HMOX1	ENSPTIG00000020337	Others	NA
+Panthera_tigris_altaica	HCK	ENSPTIG00000020345	Others	NA
+Panthera_tigris_altaica	HLTF	ENSPTIG00000020394	Others	NA
+Panthera_tigris_altaica	TAF1A	ENSPTIG00000020439	TATA-box	NA
+Panthera_tigris_altaica	DRAP1	ENSPTIG00000020449	Others	NA
+Panthera_tigris_altaica	RNF25	ENSPTIG00000020459	Ring finger protein	NA
+Panthera_tigris_altaica	TRIM8	ENSPTIG00000020475	Tripartite motif	NA
+Panthera_tigris_altaica	TBL1XR1	ENSPTIG00000020477	Transducin	NA
+Panthera_tigris_altaica	EDRF1	ENSPTIG00000020488	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000020555	Others	NA
+Panthera_tigris_altaica	CBFA2T2	ENSPTIG00000020570	Others	NA
+Panthera_tigris_altaica	MYOCD	ENSPTIG00000020572	Others	NA
+Panthera_tigris_altaica	FGF1	ENSPTIG00000020589	FGF	NA
+Panthera_tigris_altaica	RECQL5	ENSPTIG00000020601	Others	NA
+Panthera_tigris_altaica	SMARCD1	ENSPTIG00000020602	SWI/SNF	NA
+Panthera_tigris_altaica	CARM1	ENSPTIG00000020631	Others	NA
+Panthera_tigris_altaica	LRRK2	ENSPTIG00000020651	Other_CRF	NA
+Panthera_tigris_altaica	COPS2	ENSPTIG00000020654	Others	NA
+Panthera_tigris_altaica	ATAD2	ENSPTIG00000020684	Others	NA
+Panthera_tigris_altaica	ACTN2	ENSPTIG00000020701	Actin	NA
+Panthera_tigris_altaica	DAPK2	ENSPTIG00000020724	Others	NA
+Panthera_tigris_altaica	TONSL	ENSPTIG00000020737	Others	NA
+Panthera_tigris_altaica	STK36	ENSPTIG00000020784	Others	NA
+Panthera_tigris_altaica	TAF11	ENSPTIG00000020823	TATA-box	NA
+Panthera_tigris_altaica	RBL2	ENSPTIG00000020870	Other_Co-activator/repressors	NA
+Panthera_tigris_altaica	PIR	ENSPTIG00000020904	Others	NA
+Panthera_tigris_altaica	RAD21	ENSPTIG00000020923	Others	NA
+Panthera_tigris_altaica	CCDC59	ENSPTIG00000020934	Coiled-coil	NA
+Panthera_tigris_altaica	RBX1	ENSPTIG00000020939	Others	NA
+Panthera_tigris_altaica	NLK	ENSPTIG00000020949	Others	NA
+Panthera_tigris_altaica	SMARCA5	ENSPTIG00000020959	SWI/SNF	NA
+Panthera_tigris_altaica	AGO1	ENSPTIG00000020991	Others	NA
+Panthera_tigris_altaica	ENO1	ENSPTIG00000021004	Others	NA
+Panthera_tigris_altaica	ASF1B	ENSPTIG00000021042	Others	NA
+Panthera_tigris_altaica	SAP30BP	ENSPTIG00000021057	SAP	NA
+Panthera_tigris_altaica	DHX9	ENSPTIG00000021059	RNA helicase	NA
+Panthera_tigris_altaica		ENSPTIG00000021061	HNRNP	NA
+Panthera_tigris_altaica	EP300	ENSPTIG00000021151	Others	NA
+Panthera_tigris_altaica	ACTR5	ENSPTIG00000021181	ACTR	NA
+Panthera_tigris_altaica	SIN3A	ENSPTIG00000021185	Other_CRF	NA
+Panthera_tigris_altaica	KDM4D	ENSPTIG00000021192	Lysine demethylase	NA
+Panthera_tigris_altaica	TNKS	ENSPTIG00000021233	Others	NA
+Panthera_tigris_altaica	MED13	ENSPTIG00000021264	Mediator complex	NA
+Panthera_tigris_altaica	NAB2	ENSPTIG00000021268	Others	NA
+Panthera_tigris_altaica	BTRC	ENSPTIG00000021271	Others	NA
+Panthera_tigris_altaica	CDK8	ENSPTIG00000021301	Cyclin	NA
+Panthera_tigris_altaica	SGK1	ENSPTIG00000021344	Others	NA
+Panthera_tigris_altaica	SQSTM1	ENSPTIG00000021366	Others	NA
+Panthera_tigris_altaica	ATRX	ENSPTIG00000021388	Others	NA
+Panthera_tigris_altaica	RITA1	ENSPTIG00000021419	Others	NA
+Panthera_tigris_altaica	MAML1	ENSPTIG00000021443	MAML	NA
+Panthera_tigris_altaica	FBXW11	ENSPTIG00000021490	Others	NA
+Panthera_tigris_altaica	NPM1	ENSPTIG00000021568	Nucleoplasmin	NA
+Panthera_tigris_altaica	MAGED1	ENSPTIG00000021591	MAGE	NA
+Panthera_tigris_altaica	RNF6	ENSPTIG00000021628	Ring finger protein	NA
+Panthera_tigris_altaica	RNF2	ENSPTIG00000021633	Ring finger protein	NA
+Panthera_tigris_altaica	NSD3	ENSPTIG00000021659	Nuclear receptor coactivator	NA
+Panthera_tigris_altaica	ZNF451	ENSPTIG00000021702	Zinc finger	NA
+Panthera_tigris_altaica	NLRP3	ENSPTIG00000021706	Others	NA
+Panthera_tigris_altaica	TP53BP1	ENSPTIG00000021710	Others	NA
+Panthera_tigris_altaica	S100A8	ENSPTIG00000021712	Others	NA
+Panthera_tigris_altaica	ASCC2	ENSPTIG00000021735	ASCC	NA
+Panthera_tigris_altaica	RPAP2	ENSPTIG00000021761	Others	NA
+Panthera_tigris_altaica	EFCAB6	ENSPTIG00000021766	Others	NA
+Panthera_tigris_altaica	MMS19	ENSPTIG00000021793	Others	NA
+Panthera_tigris_altaica	SSBP3	ENSPTIG00000021804	Others	NA
+Panthera_tigris_altaica		ENSPTIG00000021835	Lysine methyltransferase	NA
+Panthera_tigris_altaica	CHD9	ENSPTIG00000021854	CHD	NA
+Panthera_tigris_altaica	BRWD1	ENSPTIG00000021862	Bromodomain	NA
+Panthera_tigris_altaica	ECD	ENSPTIG00000021876	Others	NA
+Panthera_tigris_altaica	S100A9	ENSPTIG00000021881	Others	NA
+Panthera_tigris_altaica	RALY	ENSPTIG00000021910	Others	NA
+Panthera_tigris_altaica	SLTM	ENSPTIG00000021933	Others	NA
+Panthera_tigris_altaica	CHD8	ENSPTIG00000021989	CHD	NA
+Panthera_tigris_altaica	RNF111	ENSPTIG00000022057	Ring finger protein	NA
+Panthera_tigris_altaica	NSMCE4A	ENSPTIG00000022082	EID	NA
+Panthera_tigris_altaica	TENM2	ENSPTIG00000022114	Others	NA

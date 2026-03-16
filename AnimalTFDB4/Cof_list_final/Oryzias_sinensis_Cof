@@ -1,0 +1,674 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Oryzias_sinensis		ENSOSIG00000000005	Zinc finger	NA
+Oryzias_sinensis	ilf2	ENSOSIG00000000030	Others	NA
+Oryzias_sinensis	txnipa	ENSOSIG00000000059	Others	NA
+Oryzias_sinensis	med21	ENSOSIG00000000072	Mediator complex	NA
+Oryzias_sinensis	siah2l	ENSOSIG00000000077	Others	NA
+Oryzias_sinensis	HMOX1	ENSOSIG00000000100	Others	NA
+Oryzias_sinensis	hipk3a	ENSOSIG00000000116	HIPK	NA
+Oryzias_sinensis	SMYD3	ENSOSIG00000000137	SMYD	NA
+Oryzias_sinensis	arl2bp	ENSOSIG00000000160	Others	NA
+Oryzias_sinensis	ldb1b	ENSOSIG00000000167	LIM	NA
+Oryzias_sinensis	ezh2	ENSOSIG00000000170	Others	NA
+Oryzias_sinensis	ddx54	ENSOSIG00000000192	RNA helicase	NA
+Oryzias_sinensis		ENSOSIG00000000202	Others	NA
+Oryzias_sinensis	csrp3	ENSOSIG00000000204	Others	NA
+Oryzias_sinensis	phf5a	ENSOSIG00000000205	PHF	NA
+Oryzias_sinensis	tfb2m	ENSOSIG00000000268	Others	NA
+Oryzias_sinensis	abl1	ENSOSIG00000000316	Others	NA
+Oryzias_sinensis	znf451	ENSOSIG00000000351	Zinc finger	NA
+Oryzias_sinensis	raf1a	ENSOSIG00000000385	Others	NA
+Oryzias_sinensis	PER2	ENSOSIG00000000400	Others	NA
+Oryzias_sinensis	suz12b	ENSOSIG00000000426	Others	NA
+Oryzias_sinensis	tab1	ENSOSIG00000000427	Others	NA
+Oryzias_sinensis	ogt.1	ENSOSIG00000000439	Others	NA
+Oryzias_sinensis	TENM2	ENSOSIG00000000504	Others	NA
+Oryzias_sinensis	kmt5b	ENSOSIG00000000544	Lysine methyltransferase	NA
+Oryzias_sinensis	cbx6a	ENSOSIG00000000575	Chromobox	NA
+Oryzias_sinensis	kat2a	ENSOSIG00000000612	Lysine acetyltransferase	NA
+Oryzias_sinensis	hck	ENSOSIG00000000624	Others	NA
+Oryzias_sinensis	med30	ENSOSIG00000000651	Mediator complex	NA
+Oryzias_sinensis	skor1b	ENSOSIG00000000726	SKI	NA
+Oryzias_sinensis	baz1b	ENSOSIG00000000739	Bromodomain	NA
+Oryzias_sinensis	kdm5ba	ENSOSIG00000000748	Lysine demethylase	NA
+Oryzias_sinensis	tescb	ENSOSIG00000000758	Others	NA
+Oryzias_sinensis	ino80da	ENSOSIG00000000785	INO80 complex	NA
+Oryzias_sinensis	gps2	ENSOSIG00000000788	Others	NA
+Oryzias_sinensis	supt6h	ENSOSIG00000000814	SUPT	NA
+Oryzias_sinensis	sufu	ENSOSIG00000000824	Others	NA
+Oryzias_sinensis	cnot8	ENSOSIG00000000838	CCR4-NOT	NA
+Oryzias_sinensis		ENSOSIG00000000842	RNA helicase	NA
+Oryzias_sinensis	lmo1	ENSOSIG00000000880	LIM	NA
+Oryzias_sinensis	pex14	ENSOSIG00000000906	Others	NA
+Oryzias_sinensis	polr2a	ENSOSIG00000000961	POLR	NA
+Oryzias_sinensis	SRC	ENSOSIG00000000970	Others	NA
+Oryzias_sinensis	taf1a	ENSOSIG00000000981	TATA-box	NA
+Oryzias_sinensis	nipbla	ENSOSIG00000000990	Others	NA
+Oryzias_sinensis	rnf8	ENSOSIG00000001005	Ring finger protein	NA
+Oryzias_sinensis	nelfcd	ENSOSIG00000001011	GTF	NA
+Oryzias_sinensis	morf4l1	ENSOSIG00000001015	Other_CRF	NA
+Oryzias_sinensis	hnrnpc	ENSOSIG00000001039	HNRNP	NA
+Oryzias_sinensis	yeats2	ENSOSIG00000001049	Others	NA
+Oryzias_sinensis	cavin1a	ENSOSIG00000001056	Others	NA
+Oryzias_sinensis	drap1	ENSOSIG00000001059	Others	NA
+Oryzias_sinensis		ENSOSIG00000001070	Others	NA
+Oryzias_sinensis	npm3	ENSOSIG00000001071	Nucleoplasmin	NA
+Oryzias_sinensis	abt1	ENSOSIG00000001102	Others	NA
+Oryzias_sinensis	rnf10	ENSOSIG00000001139	Ring finger protein	NA
+Oryzias_sinensis	hcls1	ENSOSIG00000001178	Others	NA
+Oryzias_sinensis	gsk3bb	ENSOSIG00000001192	Others	NA
+Oryzias_sinensis	ccna2	ENSOSIG00000001202	Cyclin	NA
+Oryzias_sinensis		ENSOSIG00000001218	Thyroid hormone receptor	NA
+Oryzias_sinensis	dvl2	ENSOSIG00000001247	Others	NA
+Oryzias_sinensis	pfdn5	ENSOSIG00000001608	Others	NA
+Oryzias_sinensis	TLE5	ENSOSIG00000001796	Others	NA
+Oryzias_sinensis	loxl2a	ENSOSIG00000001832	Others	NA
+Oryzias_sinensis	taf6	ENSOSIG00000002001	TATA-box	NA
+Oryzias_sinensis	hexim1	ENSOSIG00000002125	Others	NA
+Oryzias_sinensis	fgf2	ENSOSIG00000002371	FGF	NA
+Oryzias_sinensis	prmt1	ENSOSIG00000002431	Arginine methyltransferase	NA
+Oryzias_sinensis	arglu1a	ENSOSIG00000002449	Others	NA
+Oryzias_sinensis	s100s	ENSOSIG00000002515	Others	NA
+Oryzias_sinensis	cidec	ENSOSIG00000002701	Others	NA
+Oryzias_sinensis		ENSOSIG00000002786	Mediator complex	NA
+Oryzias_sinensis		ENSOSIG00000002903	Mediator complex	NA
+Oryzias_sinensis	actn1	ENSOSIG00000002965	Actin	NA
+Oryzias_sinensis	phf12b	ENSOSIG00000002994	PHF	NA
+Oryzias_sinensis	rnf2	ENSOSIG00000003007	Ring finger protein	NA
+Oryzias_sinensis	RBPMS	ENSOSIG00000003091	RNA binding protein	NA
+Oryzias_sinensis	gmnn	ENSOSIG00000003171	Others	NA
+Oryzias_sinensis	tdp2b	ENSOSIG00000003188	Others	NA
+Oryzias_sinensis	chrac1	ENSOSIG00000003251	Other_CRF	NA
+Oryzias_sinensis	lrrc14b	ENSOSIG00000003261	Others	NA
+Oryzias_sinensis		ENSOSIG00000003279	Others	NA
+Oryzias_sinensis	vgll4b	ENSOSIG00000003343	Vestigial like	NA
+Oryzias_sinensis	med20	ENSOSIG00000003408	Mediator complex	NA
+Oryzias_sinensis	rbm15b	ENSOSIG00000003417	RNA binding protein	NA
+Oryzias_sinensis		ENSOSIG00000003472	Others	NA
+Oryzias_sinensis	trim16	ENSOSIG00000003546	Tripartite motif	NA
+Oryzias_sinensis	rptor	ENSOSIG00000003626	Others	NA
+Oryzias_sinensis	bcl10	ENSOSIG00000003656	BCL	NA
+Oryzias_sinensis	chd1	ENSOSIG00000003712	CHD	NA
+Oryzias_sinensis	sgf29	ENSOSIG00000003758	Others	NA
+Oryzias_sinensis		ENSOSIG00000003765	Others	NA
+Oryzias_sinensis	PAK6	ENSOSIG00000003796	Others	NA
+Oryzias_sinensis	arhgap35b	ENSOSIG00000004016	Others	NA
+Oryzias_sinensis	egfra	ENSOSIG00000004087	Others	NA
+Oryzias_sinensis	med4	ENSOSIG00000004115	Mediator complex	NA
+Oryzias_sinensis		ENSOSIG00000004143	Others	NA
+Oryzias_sinensis	grip2a	ENSOSIG00000004184	Others	NA
+Oryzias_sinensis	ehmt2	ENSOSIG00000004263	Histone lysine methyltransferase	NA
+Oryzias_sinensis	DCAF1	ENSOSIG00000004272	Others	NA
+Oryzias_sinensis	rap2c	ENSOSIG00000004277	Others	NA
+Oryzias_sinensis	si:dkey-85a20.4	ENSOSIG00000004409	Others	NA
+Oryzias_sinensis	cry1a	ENSOSIG00000004452	Others	NA
+Oryzias_sinensis	ago1	ENSOSIG00000004462	Others	NA
+Oryzias_sinensis		ENSOSIG00000004519	Transducin	NA
+Oryzias_sinensis	dscaml1	ENSOSIG00000004583	Others	NA
+Oryzias_sinensis	aurkaip1	ENSOSIG00000004602	Others	NA
+Oryzias_sinensis	trip11	ENSOSIG00000004659	Thyroid hormone receptor	NA
+Oryzias_sinensis	niban2a	ENSOSIG00000004699	FAM	NA
+Oryzias_sinensis	picalmb	ENSOSIG00000004762	Others	NA
+Oryzias_sinensis		ENSOSIG00000004828	Others	NA
+Oryzias_sinensis	jade1	ENSOSIG00000004831	Others	NA
+Oryzias_sinensis	macroh2a1	ENSOSIG00000004900	Others	NA
+Oryzias_sinensis	ccne1	ENSOSIG00000005025	Cyclin	NA
+Oryzias_sinensis	rnf14	ENSOSIG00000005149	Ring finger protein	NA
+Oryzias_sinensis	PCBD2	ENSOSIG00000005253	Others	NA
+Oryzias_sinensis	ino80e	ENSOSIG00000005261	INO80 complex	NA
+Oryzias_sinensis	EZH1	ENSOSIG00000005277	Others	NA
+Oryzias_sinensis	cops5	ENSOSIG00000005294	Others	NA
+Oryzias_sinensis	clu	ENSOSIG00000005318	Others	NA
+Oryzias_sinensis	NAA15	ENSOSIG00000005351	Others	NA
+Oryzias_sinensis		ENSOSIG00000005383	Tripartite motif	NA
+Oryzias_sinensis	plrg1	ENSOSIG00000005538	Others	NA
+Oryzias_sinensis	ascc3	ENSOSIG00000005567	ASCC	NA
+Oryzias_sinensis	rpap2	ENSOSIG00000005714	Others	NA
+Oryzias_sinensis	gtf2b	ENSOSIG00000005735	GTF	NA
+Oryzias_sinensis	dcc	ENSOSIG00000005769	Others	NA
+Oryzias_sinensis	runx1t1	ENSOSIG00000005853	Others	NA
+Oryzias_sinensis	med14	ENSOSIG00000005870	Mediator complex	NA
+Oryzias_sinensis	ttf2	ENSOSIG00000005877	Others	NA
+Oryzias_sinensis	zmym2	ENSOSIG00000005894	Zinc finger	NA
+Oryzias_sinensis		ENSOSIG00000005907	Others	NA
+Oryzias_sinensis	sirt7	ENSOSIG00000005960	Sirtuin	NA
+Oryzias_sinensis	kat2b	ENSOSIG00000005983	Lysine acetyltransferase	NA
+Oryzias_sinensis	phf8	ENSOSIG00000005986	PHF	NA
+Oryzias_sinensis	nrip1b	ENSOSIG00000005990	Nuclear receptor coactivator	NA
+Oryzias_sinensis	traf6	ENSOSIG00000006004	Others	NA
+Oryzias_sinensis	TOB2	ENSOSIG00000006090	Others	NA
+Oryzias_sinensis	slc19a2	ENSOSIG00000006113	SLC	NA
+Oryzias_sinensis	trip13	ENSOSIG00000006118	Thyroid hormone receptor	NA
+Oryzias_sinensis	uri1	ENSOSIG00000006206	Others	NA
+Oryzias_sinensis		ENSOSIG00000006238	Others	NA
+Oryzias_sinensis	nlk2	ENSOSIG00000006252	Others	NA
+Oryzias_sinensis	rfxank	ENSOSIG00000006272	Ankyrin repeat	NA
+Oryzias_sinensis	flii	ENSOSIG00000006288	Others	NA
+Oryzias_sinensis	smyd2a	ENSOSIG00000006291	SMYD	NA
+Oryzias_sinensis	trak1a	ENSOSIG00000006294	Others	NA
+Oryzias_sinensis	ctnnb1	ENSOSIG00000006340	Casein	NA
+Oryzias_sinensis	axin1	ENSOSIG00000006361	Others	NA
+Oryzias_sinensis	rbx1	ENSOSIG00000006366	Others	NA
+Oryzias_sinensis	tnip2	ENSOSIG00000006377	Others	NA
+Oryzias_sinensis	aip	ENSOSIG00000006390	Others	NA
+Oryzias_sinensis	ajuba	ENSOSIG00000006418	Others	NA
+Oryzias_sinensis	ncoa4	ENSOSIG00000006459	Nuclear receptor coactivator	NA
+Oryzias_sinensis	ankra2	ENSOSIG00000006464	Others	NA
+Oryzias_sinensis	btf3	ENSOSIG00000006465	Others	NA
+Oryzias_sinensis	rprd1a	ENSOSIG00000006488	Others	NA
+Oryzias_sinensis	gtf2a2	ENSOSIG00000006535	GTF	NA
+Oryzias_sinensis	notch1a	ENSOSIG00000006574	Notch	NA
+Oryzias_sinensis	csnk2a2a	ENSOSIG00000006577	Casein	NA
+Oryzias_sinensis	sirt3	ENSOSIG00000006603	Sirtuin	NA
+Oryzias_sinensis	dmap1	ENSOSIG00000006614	DNA_methylase	NA
+Oryzias_sinensis	SS18L1	ENSOSIG00000006660	SS18	NA
+Oryzias_sinensis	TAF4	ENSOSIG00000006667	TATA-box	NA
+Oryzias_sinensis	kdm8	ENSOSIG00000006734	Lysine demethylase	NA
+Oryzias_sinensis	ELL	ENSOSIG00000006770	GTF	NA
+Oryzias_sinensis	park7	ENSOSIG00000006822	Others	NA
+Oryzias_sinensis	ralgapa2	ENSOSIG00000006886	Others	NA
+Oryzias_sinensis	nck1a	ENSOSIG00000006937	Others	NA
+Oryzias_sinensis	rad21a	ENSOSIG00000006953	Others	NA
+Oryzias_sinensis	nelfb	ENSOSIG00000006968	GTF	NA
+Oryzias_sinensis	brip1	ENSOSIG00000006981	Others	NA
+Oryzias_sinensis		ENSOSIG00000007026	Others	NA
+Oryzias_sinensis	zgc:162255	ENSOSIG00000007048	Other_CRF	NA
+Oryzias_sinensis	ppie	ENSOSIG00000007070	Others	NA
+Oryzias_sinensis	wwox	ENSOSIG00000007078	WW	NA
+Oryzias_sinensis	mnat1	ENSOSIG00000007156	Others	NA
+Oryzias_sinensis	smarcd2	ENSOSIG00000007184	SWI/SNF	NA
+Oryzias_sinensis	setd2	ENSOSIG00000007225	SET	NA
+Oryzias_sinensis	hdac1	ENSOSIG00000007229	Histone deacetylase	NA
+Oryzias_sinensis	SUMO3	ENSOSIG00000007235	Others	NA
+Oryzias_sinensis	eny2	ENSOSIG00000007236	Others	NA
+Oryzias_sinensis	tab3	ENSOSIG00000007295	Others	NA
+Oryzias_sinensis	nudt5	ENSOSIG00000007319	Other_CRF	NA
+Oryzias_sinensis	vgll3	ENSOSIG00000007365	Vestigial like	NA
+Oryzias_sinensis	dot1l	ENSOSIG00000007376	Others	NA
+Oryzias_sinensis	lin9	ENSOSIG00000007379	Others	NA
+Oryzias_sinensis		ENSOSIG00000007393	Others	NA
+Oryzias_sinensis	ssu72	ENSOSIG00000007428	Others	NA
+Oryzias_sinensis	actl6a	ENSOSIG00000007460	Actin	NA
+Oryzias_sinensis	serbp1b	ENSOSIG00000007593	Others	NA
+Oryzias_sinensis	egln2	ENSOSIG00000007615	Others	NA
+Oryzias_sinensis		ENSOSIG00000007627	Others	NA
+Oryzias_sinensis	dnmt1	ENSOSIG00000007652	DNA_methylase	NA
+Oryzias_sinensis	mdm4	ENSOSIG00000007657	Others	NA
+Oryzias_sinensis	nelfa	ENSOSIG00000007661	GTF	NA
+Oryzias_sinensis	TCERG1	ENSOSIG00000007745	TEF	NA
+Oryzias_sinensis	gtf2e1	ENSOSIG00000007786	GTF	NA
+Oryzias_sinensis	fgfr2	ENSOSIG00000007814	FGF	NA
+Oryzias_sinensis	gnl3	ENSOSIG00000007891	Others	NA
+Oryzias_sinensis	pawr	ENSOSIG00000007906	Others	NA
+Oryzias_sinensis	grhpra	ENSOSIG00000007983	Others	NA
+Oryzias_sinensis		ENSOSIG00000008003	Others	NA
+Oryzias_sinensis	orc2	ENSOSIG00000008069	Others	NA
+Oryzias_sinensis	tasorb	ENSOSIG00000008137	FAM	NA
+Oryzias_sinensis	fbxw11a	ENSOSIG00000008158	Others	NA
+Oryzias_sinensis	DDX39A	ENSOSIG00000008187	RNA helicase	NA
+Oryzias_sinensis	ern1	ENSOSIG00000008191	Others	NA
+Oryzias_sinensis	blm	ENSOSIG00000008195	Others	NA
+Oryzias_sinensis	trib2	ENSOSIG00000008356	Others	NA
+Oryzias_sinensis	ccnh	ENSOSIG00000008365	Cyclin	NA
+Oryzias_sinensis	eapp	ENSOSIG00000008414	Others	NA
+Oryzias_sinensis	arhgap5	ENSOSIG00000008432	Others	NA
+Oryzias_sinensis	fhl3a	ENSOSIG00000008444	FHL	NA
+Oryzias_sinensis	kdm2bb	ENSOSIG00000008447	Lysine demethylase	NA
+Oryzias_sinensis	SNIP1	ENSOSIG00000008454	Others	NA
+Oryzias_sinensis	SPEN	ENSOSIG00000008497	Others	NA
+Oryzias_sinensis	rhoab	ENSOSIG00000008528	Others	NA
+Oryzias_sinensis	tdg.1	ENSOSIG00000008548	Others	NA
+Oryzias_sinensis	skap1	ENSOSIG00000008602	Others	NA
+Oryzias_sinensis	med16	ENSOSIG00000008633	Mediator complex	NA
+Oryzias_sinensis	cdk5rap3	ENSOSIG00000008635	Cyclin	NA
+Oryzias_sinensis	cdyl	ENSOSIG00000008693	Chromodomain Y	NA
+Oryzias_sinensis	kdm4ab	ENSOSIG00000008732	Lysine demethylase	NA
+Oryzias_sinensis	cxxc1b	ENSOSIG00000008735	Others	NA
+Oryzias_sinensis	btk	ENSOSIG00000008752	Others	NA
+Oryzias_sinensis	malt3	ENSOSIG00000008798	Others	NA
+Oryzias_sinensis	apex1	ENSOSIG00000008835	Others	NA
+Oryzias_sinensis	ccnd1	ENSOSIG00000008952	Cyclin	NA
+Oryzias_sinensis	ccdc85b	ENSOSIG00000008992	Coiled-coil	NA
+Oryzias_sinensis	ctdsplb	ENSOSIG00000009004	Others	NA
+Oryzias_sinensis	hdac4	ENSOSIG00000009068	Histone deacetylase	NA
+Oryzias_sinensis	tirap	ENSOSIG00000009078	Others	NA
+Oryzias_sinensis	ino80b	ENSOSIG00000009104	INO80 complex	NA
+Oryzias_sinensis	nab1a	ENSOSIG00000009168	Others	NA
+Oryzias_sinensis	prpf6	ENSOSIG00000009267	Others	NA
+Oryzias_sinensis	wdr5	ENSOSIG00000009269	WD	NA
+Oryzias_sinensis	gtf2h4	ENSOSIG00000009327	GTF	NA
+Oryzias_sinensis	PELI1	ENSOSIG00000009346	Others	NA
+Oryzias_sinensis	top1l	ENSOSIG00000009347	Other_CRF	NA
+Oryzias_sinensis	c1d	ENSOSIG00000009385	Other_Co-activator/repressors	NA
+Oryzias_sinensis	nab2	ENSOSIG00000009491	Others	NA
+Oryzias_sinensis	dgkab	ENSOSIG00000009506	Others	NA
+Oryzias_sinensis		ENSOSIG00000009517	Others	NA
+Oryzias_sinensis	ncoa2	ENSOSIG00000009530	Nuclear receptor coactivator	NA
+Oryzias_sinensis	bud31	ENSOSIG00000009569	Others	NA
+Oryzias_sinensis	pih1d1	ENSOSIG00000009573	Other_CRF	NA
+Oryzias_sinensis	eya1	ENSOSIG00000009611	EYA	NA
+Oryzias_sinensis	pir	ENSOSIG00000009655	Others	NA
+Oryzias_sinensis	rexo4	ENSOSIG00000009680	Others	NA
+Oryzias_sinensis	taf10	ENSOSIG00000009813	TATA-box	NA
+Oryzias_sinensis	gtf2f1	ENSOSIG00000009814	GTF	NA
+Oryzias_sinensis	PIK3R1	ENSOSIG00000009836	Others	NA
+Oryzias_sinensis	dpy30	ENSOSIG00000009917	Others	NA
+Oryzias_sinensis	hipk2	ENSOSIG00000009950	HIPK	NA
+Oryzias_sinensis	med17	ENSOSIG00000010006	Mediator complex	NA
+Oryzias_sinensis	creg1	ENSOSIG00000010065	Others	NA
+Oryzias_sinensis	sin3b	ENSOSIG00000010085	Others	NA
+Oryzias_sinensis	cbx3a	ENSOSIG00000010157	Chromobox	NA
+Oryzias_sinensis	phf19	ENSOSIG00000010194	PHF	NA
+Oryzias_sinensis	nrip2	ENSOSIG00000010252	Nuclear coactivator	NA
+Oryzias_sinensis	sin3aa	ENSOSIG00000010290	Other_CRF	NA
+Oryzias_sinensis	smarcd1	ENSOSIG00000010315	SWI/SNF	NA
+Oryzias_sinensis	flnca	ENSOSIG00000010344	Others	NA
+Oryzias_sinensis	crk	ENSOSIG00000010371	Others	NA
+Oryzias_sinensis	med27	ENSOSIG00000010382	Mediator complex	NA
+Oryzias_sinensis	KDM1B	ENSOSIG00000010422	Lysine demethylase	NA
+Oryzias_sinensis		ENSOSIG00000010449	Others	NA
+Oryzias_sinensis	med22	ENSOSIG00000010472	Mediator complex	NA
+Oryzias_sinensis	ing5a	ENSOSIG00000010508	ING	NA
+Oryzias_sinensis	nif3l1	ENSOSIG00000010561	Others	NA
+Oryzias_sinensis	trim8b	ENSOSIG00000010636	Tripartite motif	NA
+Oryzias_sinensis	phf10	ENSOSIG00000010648	PHF	NA
+Oryzias_sinensis	sfr1	ENSOSIG00000010670	Others	NA
+Oryzias_sinensis	hira	ENSOSIG00000010672	Others	NA
+Oryzias_sinensis		ENSOSIG00000010676	Others	NA
+Oryzias_sinensis	tbp	ENSOSIG00000010720	TATA-box	NA
+Oryzias_sinensis	aurkb	ENSOSIG00000010752	Others	NA
+Oryzias_sinensis	HINT1	ENSOSIG00000010811	Others	NA
+Oryzias_sinensis	cbx5	ENSOSIG00000010823	Chromobox	NA
+Oryzias_sinensis	CASK	ENSOSIG00000010947	CAMK	NA
+Oryzias_sinensis	lmcd1	ENSOSIG00000010984	LIM	NA
+Oryzias_sinensis	EPC1	ENSOSIG00000011051	Others	NA
+Oryzias_sinensis	brf2	ENSOSIG00000011109	GTF	NA
+Oryzias_sinensis	si:dkey-21c19.3	ENSOSIG00000011110	Others	NA
+Oryzias_sinensis	wdr61	ENSOSIG00000011114	WD	NA
+Oryzias_sinensis	anxa4	ENSOSIG00000011135	Others	NA
+Oryzias_sinensis	SGK1	ENSOSIG00000011225	Others	NA
+Oryzias_sinensis	RING1	ENSOSIG00000011229	Ring finger protein	NA
+Oryzias_sinensis	rnf40	ENSOSIG00000011268	Ring finger protein	NA
+Oryzias_sinensis	jmjd6	ENSOSIG00000011306	Others	NA
+Oryzias_sinensis	tbpl1	ENSOSIG00000011316	TATA-box	NA
+Oryzias_sinensis	pagr1	ENSOSIG00000011346	Others	NA
+Oryzias_sinensis	supt3h	ENSOSIG00000011398	SUPT	NA
+Oryzias_sinensis	safb	ENSOSIG00000011404	Others	NA
+Oryzias_sinensis	txlng	ENSOSIG00000011431	Others	NA
+Oryzias_sinensis	pidd1	ENSOSIG00000011486	Others	NA
+Oryzias_sinensis	pdlim1	ENSOSIG00000011551	Others	NA
+Oryzias_sinensis	anp32b	ENSOSIG00000011562	ANP	NA
+Oryzias_sinensis	hyal2b	ENSOSIG00000011569	Others	NA
+Oryzias_sinensis	bahcc1a	ENSOSIG00000011577	Others	NA
+Oryzias_sinensis	ctr9	ENSOSIG00000011584	Others	NA
+Oryzias_sinensis	hint2	ENSOSIG00000011782	Others	NA
+Oryzias_sinensis	ing4	ENSOSIG00000011785	ING	NA
+Oryzias_sinensis	cdk5r1b	ENSOSIG00000011787	Cyclin	NA
+Oryzias_sinensis	bcl3	ENSOSIG00000011954	BCL	NA
+Oryzias_sinensis	gtf2h1	ENSOSIG00000011957	GTF	NA
+Oryzias_sinensis		ENSOSIG00000011983	Others	NA
+Oryzias_sinensis		ENSOSIG00000012026	Sirtuin	NA
+Oryzias_sinensis	cnot9	ENSOSIG00000012071	CCR4-NOT	NA
+Oryzias_sinensis	elp4	ENSOSIG00000012186	ELP	NA
+Oryzias_sinensis	ascc2	ENSOSIG00000012219	ASCC	NA
+Oryzias_sinensis	dpf1	ENSOSIG00000012227	DPF	NA
+Oryzias_sinensis	mad2l2	ENSOSIG00000012234	Others	NA
+Oryzias_sinensis	pdcd4a	ENSOSIG00000012297	Others	NA
+Oryzias_sinensis	KCNIP3	ENSOSIG00000012307	Others	NA
+Oryzias_sinensis	pid1	ENSOSIG00000012377	Others	NA
+Oryzias_sinensis	snw1	ENSOSIG00000012537	Others	NA
+Oryzias_sinensis	supt20	ENSOSIG00000012554	SUPT	NA
+Oryzias_sinensis	abraa	ENSOSIG00000012557	Actin	NA
+Oryzias_sinensis	sirt2	ENSOSIG00000012611	Sirtuin	NA
+Oryzias_sinensis	cbfa2t2	ENSOSIG00000012658	Others	NA
+Oryzias_sinensis		ENSOSIG00000012709	Tripartite motif	NA
+Oryzias_sinensis		ENSOSIG00000012714	Others	NA
+Oryzias_sinensis		ENSOSIG00000012716	NFKB associated	NA
+Oryzias_sinensis		ENSOSIG00000012722	Casein	NA
+Oryzias_sinensis	csnk2a1	ENSOSIG00000012728	Casein	NA
+Oryzias_sinensis	depdc1a	ENSOSIG00000012743	Others	NA
+Oryzias_sinensis	hdac10	ENSOSIG00000012926	Histone deacetylase	NA
+Oryzias_sinensis	kdm1a	ENSOSIG00000013011	Lysine demethylase	NA
+Oryzias_sinensis	nsd3	ENSOSIG00000013030	Nuclear receptor coactivator	NA
+Oryzias_sinensis	prmt5	ENSOSIG00000013241	Arginine methyltransferase	NA
+Oryzias_sinensis	ago2	ENSOSIG00000013325	Others	NA
+Oryzias_sinensis	NEDD8	ENSOSIG00000013373	Others	NA
+Oryzias_sinensis	strn3	ENSOSIG00000013379	Others	NA
+Oryzias_sinensis	SCMH1	ENSOSIG00000013478	Others	NA
+Oryzias_sinensis	cnot11	ENSOSIG00000013517	CCR4-NOT	NA
+Oryzias_sinensis	elp3	ENSOSIG00000013540	ELP	NA
+Oryzias_sinensis		ENSOSIG00000013606	Others	NA
+Oryzias_sinensis	hnrnpub	ENSOSIG00000013815	HNRNP	NA
+Oryzias_sinensis	tnni1b	ENSOSIG00000013825	Others	NA
+Oryzias_sinensis	ercc2	ENSOSIG00000013851	Others	NA
+Oryzias_sinensis		ENSOSIG00000013891	CHD	NA
+Oryzias_sinensis	hnrpkl	ENSOSIG00000013931	HNRNP	NA
+Oryzias_sinensis	rbbp4	ENSOSIG00000014080	RBBP	NA
+Oryzias_sinensis		ENSOSIG00000014086	Others	NA
+Oryzias_sinensis	pim1	ENSOSIG00000014123	Others	NA
+Oryzias_sinensis	cbx4	ENSOSIG00000014145	Chromobox	NA
+Oryzias_sinensis	tenm1	ENSOSIG00000014198	Others	NA
+Oryzias_sinensis	dnaja3a	ENSOSIG00000014214	Others	NA
+Oryzias_sinensis	mycbp	ENSOSIG00000014223	MYC	NA
+Oryzias_sinensis	pex2	ENSOSIG00000014306	Others	NA
+Oryzias_sinensis	tbl1x	ENSOSIG00000014322	Transducin	NA
+Oryzias_sinensis	zap70	ENSOSIG00000014334	Others	NA
+Oryzias_sinensis	ifi35	ENSOSIG00000014356	Others	NA
+Oryzias_sinensis	wnt4b	ENSOSIG00000014384	Others	NA
+Oryzias_sinensis		ENSOSIG00000014438	Others	NA
+Oryzias_sinensis	taf3	ENSOSIG00000014441	TATA-box	NA
+Oryzias_sinensis	TGFB1I1	ENSOSIG00000014446	Others	NA
+Oryzias_sinensis	erbb2	ENSOSIG00000014515	Erbb2	NA
+Oryzias_sinensis	LPIN2	ENSOSIG00000014566	LPIN	NA
+Oryzias_sinensis	pa2g4a	ENSOSIG00000014571	Others	NA
+Oryzias_sinensis	brf1a	ENSOSIG00000014654	GTF	NA
+Oryzias_sinensis	hspa8	ENSOSIG00000014737	Heat shock protein	NA
+Oryzias_sinensis	mllt1b	ENSOSIG00000014781	GTF	NA
+Oryzias_sinensis	wwp2	ENSOSIG00000014806	WW	NA
+Oryzias_sinensis	HDAC3	ENSOSIG00000014811	Histone deacetylase	NA
+Oryzias_sinensis	chaf1b	ENSOSIG00000014860	Others	NA
+Oryzias_sinensis	kdm5c	ENSOSIG00000014863	Lysine demethylase	NA
+Oryzias_sinensis	vhl	ENSOSIG00000014912	Others	NA
+Oryzias_sinensis	ruvbl1	ENSOSIG00000014924	Other_CRF	NA
+Oryzias_sinensis	ascc1	ENSOSIG00000014951	ASCC	NA
+Oryzias_sinensis	vgll2b	ENSOSIG00000014991	Vestigial like	NA
+Oryzias_sinensis	ccnt2a	ENSOSIG00000014997	Cyclin	NA
+Oryzias_sinensis	cbx7b	ENSOSIG00000015072	Chromobox	NA
+Oryzias_sinensis	xrcc6	ENSOSIG00000015074	Others	NA
+Oryzias_sinensis	si:dkey-6i22.5	ENSOSIG00000015078	Others	NA
+Oryzias_sinensis	med19a	ENSOSIG00000015079	Mediator complex	NA
+Oryzias_sinensis	ran	ENSOSIG00000015108	Others	NA
+Oryzias_sinensis	kdm2ab	ENSOSIG00000015137	Lysine demethylase	NA
+Oryzias_sinensis	TADA1	ENSOSIG00000015160	Transcriptional adaptor	NA
+Oryzias_sinensis	taf2	ENSOSIG00000015174	TATA-box	NA
+Oryzias_sinensis	skia	ENSOSIG00000015175	SKI	NA
+Oryzias_sinensis	banp	ENSOSIG00000015301	Others	NA
+Oryzias_sinensis	hsbp1b	ENSOSIG00000015313	Heat shock protein	NA
+Oryzias_sinensis	med24	ENSOSIG00000015337	Mediator complex	NA
+Oryzias_sinensis	kat8	ENSOSIG00000015345	Lysine acetyltransferase	NA
+Oryzias_sinensis	med1	ENSOSIG00000015365	Mediator complex	NA
+Oryzias_sinensis	trim32	ENSOSIG00000015377	Tripartite motif	NA
+Oryzias_sinensis	DTX1	ENSOSIG00000015394	Others	NA
+Oryzias_sinensis	actr5	ENSOSIG00000015408	ACTR	NA
+Oryzias_sinensis		ENSOSIG00000015412	Others	NA
+Oryzias_sinensis	taf5	ENSOSIG00000015439	TATA-box	NA
+Oryzias_sinensis	cecr2	ENSOSIG00000015572	Other_CRF	NA
+Oryzias_sinensis	rfxap	ENSOSIG00000015617	Others	NA
+Oryzias_sinensis	ercc3	ENSOSIG00000015632	Others	NA
+Oryzias_sinensis	cdk5	ENSOSIG00000015647	Cyclin	NA
+Oryzias_sinensis	ccnc	ENSOSIG00000015669	Cyclin	NA
+Oryzias_sinensis	nono	ENSOSIG00000015679	Others	NA
+Oryzias_sinensis	tdrd3	ENSOSIG00000015734	Others	NA
+Oryzias_sinensis	btaf1	ENSOSIG00000015758	Others	NA
+Oryzias_sinensis	wnt3	ENSOSIG00000015776	Others	NA
+Oryzias_sinensis	lpxn	ENSOSIG00000015785	Others	NA
+Oryzias_sinensis	bend3	ENSOSIG00000015817	Others	NA
+Oryzias_sinensis	polr3c	ENSOSIG00000015878	POLR	NA
+Oryzias_sinensis	wwc1	ENSOSIG00000015887	WW	NA
+Oryzias_sinensis	ikbkb	ENSOSIG00000015909	Others	NA
+Oryzias_sinensis	actb1	ENSOSIG00000015919	Actin	NA
+Oryzias_sinensis	supt4h1	ENSOSIG00000015952	SUPT	NA
+Oryzias_sinensis	pin1	ENSOSIG00000016011	Others	NA
+Oryzias_sinensis	sap18	ENSOSIG00000016030	SAP	NA
+Oryzias_sinensis	si:ch73-21k16.1	ENSOSIG00000016059	LPIN	NA
+Oryzias_sinensis	pink1	ENSOSIG00000016064	Others	NA
+Oryzias_sinensis	jupa	ENSOSIG00000016174	Others	NA
+Oryzias_sinensis	suv39h1a	ENSOSIG00000016199	Others	NA
+Oryzias_sinensis	mcrs1	ENSOSIG00000016200	Others	NA
+Oryzias_sinensis	timeless	ENSOSIG00000016325	Others	NA
+Oryzias_sinensis	gtf2a1l	ENSOSIG00000016367	GTF	NA
+Oryzias_sinensis	PLK1	ENSOSIG00000016380	Others	NA
+Oryzias_sinensis	CDYL2	ENSOSIG00000016419	Chromodomain Y	NA
+Oryzias_sinensis	phf20a	ENSOSIG00000016438	PHF	NA
+Oryzias_sinensis	cdk2	ENSOSIG00000016449	Cyclin	NA
+Oryzias_sinensis	NCOA7	ENSOSIG00000016507	Nuclear receptor coactivator	NA
+Oryzias_sinensis	ufl1	ENSOSIG00000016528	Others	NA
+Oryzias_sinensis	kank1b	ENSOSIG00000016533	Others	NA
+Oryzias_sinensis	fbp1b	ENSOSIG00000016535	Others	NA
+Oryzias_sinensis	dab2	ENSOSIG00000016543	Others	NA
+Oryzias_sinensis	ncoa3	ENSOSIG00000016560	Nuclear receptor coactivator	NA
+Oryzias_sinensis	trak2	ENSOSIG00000016563	Others	NA
+Oryzias_sinensis	zmynd8	ENSOSIG00000016569	Zinc finger	NA
+Oryzias_sinensis	MED13L	ENSOSIG00000016571	Mediator complex	NA
+Oryzias_sinensis	SAMD4B	ENSOSIG00000016599	Others	NA
+Oryzias_sinensis	cdk13	ENSOSIG00000016601	Cyclin	NA
+Oryzias_sinensis	eloca	ENSOSIG00000016607	Others	NA
+Oryzias_sinensis	paf1	ENSOSIG00000016617	Others	NA
+Oryzias_sinensis	pspc1	ENSOSIG00000016639	Others	NA
+Oryzias_sinensis	ndnl2	ENSOSIG00000016645	MAGE	NA
+Oryzias_sinensis	PUF60	ENSOSIG00000016662	Others	NA
+Oryzias_sinensis	erbin	ENSOSIG00000016717	Erbb2	NA
+Oryzias_sinensis	ice2	ENSOSIG00000016774	GTF	NA
+Oryzias_sinensis	tada3l	ENSOSIG00000016827	Transcriptional adaptor	NA
+Oryzias_sinensis	ELOF1	ENSOSIG00000016858	GTF	NA
+Oryzias_sinensis		ENSOSIG00000016899	WD	NA
+Oryzias_sinensis	tob1a	ENSOSIG00000016941	Others	NA
+Oryzias_sinensis	brd1a	ENSOSIG00000017013	Bromodomain	NA
+Oryzias_sinensis		ENSOSIG00000017049	Others	NA
+Oryzias_sinensis	med31	ENSOSIG00000017107	Mediator complex	NA
+Oryzias_sinensis	ctnnd2a	ENSOSIG00000017119	Casein	NA
+Oryzias_sinensis	suds3	ENSOSIG00000017165	Other_Co-activator/repressors	NA
+Oryzias_sinensis	atad2	ENSOSIG00000017203	Others	NA
+Oryzias_sinensis	nfkbiaa	ENSOSIG00000017241	NFKB associated	NA
+Oryzias_sinensis	brms1lb	ENSOSIG00000017245	Other_CRF	NA
+Oryzias_sinensis		ENSOSIG00000017255	Others	NA
+Oryzias_sinensis	WAC	ENSOSIG00000017279	WW	NA
+Oryzias_sinensis	pcgf5a	ENSOSIG00000017306	PCGF	NA
+Oryzias_sinensis	ankrd1a	ENSOSIG00000017307	Ankyrin repeat	NA
+Oryzias_sinensis	sav1	ENSOSIG00000017317	Others	NA
+Oryzias_sinensis	zmynd11	ENSOSIG00000017318	Zinc finger	NA
+Oryzias_sinensis	chchd2	ENSOSIG00000017330	Coiled-coil	NA
+Oryzias_sinensis	emsy	ENSOSIG00000017380	Others	NA
+Oryzias_sinensis	mak	ENSOSIG00000017393	Others	NA
+Oryzias_sinensis	jak2a	ENSOSIG00000017472	Others	NA
+Oryzias_sinensis		ENSOSIG00000017478	Tripartite motif	NA
+Oryzias_sinensis	tprb	ENSOSIG00000017524	Others	NA
+Oryzias_sinensis	crebbpb	ENSOSIG00000017545	CREB	NA
+Oryzias_sinensis	phf21ab	ENSOSIG00000017627	PHF	NA
+Oryzias_sinensis	FHL2	ENSOSIG00000017665	FHL	NA
+Oryzias_sinensis	sap30l	ENSOSIG00000017768	SAP	NA
+Oryzias_sinensis	recql5	ENSOSIG00000017805	Others	NA
+Oryzias_sinensis	ddx20	ENSOSIG00000017815	RNA helicase	NA
+Oryzias_sinensis	ALYREF	ENSOSIG00000017821	Others	NA
+Oryzias_sinensis		ENSOSIG00000017856	Others	NA
+Oryzias_sinensis	camk2d2	ENSOSIG00000017869	CAMK	NA
+Oryzias_sinensis	sap130a	ENSOSIG00000017881	SAP	NA
+Oryzias_sinensis	wwp1	ENSOSIG00000017886	WW	NA
+Oryzias_sinensis	FAM83G	ENSOSIG00000018063	FAM	NA
+Oryzias_sinensis	irf2bpl	ENSOSIG00000018078	Others	NA
+Oryzias_sinensis		ENSOSIG00000018080	Tripartite motif	NA
+Oryzias_sinensis	DACT1	ENSOSIG00000018120	Others	NA
+Oryzias_sinensis	kdm6al	ENSOSIG00000018130	Lysine demethylase	NA
+Oryzias_sinensis		ENSOSIG00000018132	TATA-box	NA
+Oryzias_sinensis	slc30a9	ENSOSIG00000018176	SLC	NA
+Oryzias_sinensis	wbp2nl	ENSOSIG00000018180	WW	NA
+Oryzias_sinensis	ikbkg	ENSOSIG00000018324	Others	NA
+Oryzias_sinensis	setd7	ENSOSIG00000018340	SET	NA
+Oryzias_sinensis	KMT2A	ENSOSIG00000018371	Lysine methyltransferase	NA
+Oryzias_sinensis	psen1	ENSOSIG00000018379	Others	NA
+Oryzias_sinensis	CBL	ENSOSIG00000018382	Others	NA
+Oryzias_sinensis	cep290	ENSOSIG00000018408	Others	NA
+Oryzias_sinensis	xrn2	ENSOSIG00000018416	Others	NA
+Oryzias_sinensis	ash1l	ENSOSIG00000018425	Others	NA
+Oryzias_sinensis	rnf141	ENSOSIG00000018436	Ring finger protein	NA
+Oryzias_sinensis	gtf2h3	ENSOSIG00000018461	GTF	NA
+Oryzias_sinensis	znf593	ENSOSIG00000018594	Zinc finger	NA
+Oryzias_sinensis	seta	ENSOSIG00000018619	SET	NA
+Oryzias_sinensis	bptf	ENSOSIG00000018638	Bromodomain	NA
+Oryzias_sinensis	arrb2a	ENSOSIG00000018717	Others	NA
+Oryzias_sinensis	mdm2	ENSOSIG00000018726	Others	NA
+Oryzias_sinensis	snd1	ENSOSIG00000018785	Others	NA
+Oryzias_sinensis	kmt5aa	ENSOSIG00000018871	Lysine methyltransferase	NA
+Oryzias_sinensis	cnot1	ENSOSIG00000018890	CCR4-NOT	NA
+Oryzias_sinensis	supt16h	ENSOSIG00000018902	SUPT	NA
+Oryzias_sinensis	DUSP26	ENSOSIG00000018938	Others	NA
+Oryzias_sinensis	ash2l	ENSOSIG00000018958	Others	NA
+Oryzias_sinensis	edrf1	ENSOSIG00000019029	Others	NA
+Oryzias_sinensis	hells	ENSOSIG00000019042	Others	NA
+Oryzias_sinensis	frk	ENSOSIG00000019135	Others	NA
+Oryzias_sinensis	hdac11	ENSOSIG00000019171	Histone deacetylase	NA
+Oryzias_sinensis		ENSOSIG00000019251	Others	NA
+Oryzias_sinensis	rbbp5	ENSOSIG00000019285	RBBP	NA
+Oryzias_sinensis	ILK	ENSOSIG00000019357	Others	NA
+Oryzias_sinensis	birc5a	ENSOSIG00000019403	Others	NA
+Oryzias_sinensis	crym	ENSOSIG00000019419	Others	NA
+Oryzias_sinensis	apbb1	ENSOSIG00000019422	Others	NA
+Oryzias_sinensis	bmi1a	ENSOSIG00000019443	Others	NA
+Oryzias_sinensis	wu:fj64h06	ENSOSIG00000019492	TATA-box	NA
+Oryzias_sinensis	ezrb	ENSOSIG00000019493	Others	NA
+Oryzias_sinensis	hdac7b	ENSOSIG00000019525	Histone deacetylase	NA
+Oryzias_sinensis	mier3b	ENSOSIG00000019606	MIER	NA
+Oryzias_sinensis	TAF1B	ENSOSIG00000019648	TATA-box	NA
+Oryzias_sinensis	plk2b	ENSOSIG00000019681	Others	NA
+Oryzias_sinensis	CNOT2	ENSOSIG00000019734	CCR4-NOT	NA
+Oryzias_sinensis	CTBP1	ENSOSIG00000019737	Others	NA
+Oryzias_sinensis	calr3b	ENSOSIG00000019757	Others	NA
+Oryzias_sinensis	rbmx	ENSOSIG00000019770	RNA binding protein	NA
+Oryzias_sinensis	med8	ENSOSIG00000019785	Mediator complex	NA
+Oryzias_sinensis	mrtfbb	ENSOSIG00000019837	Others	NA
+Oryzias_sinensis	kdm4b	ENSOSIG00000019849	Lysine demethylase	NA
+Oryzias_sinensis	insra	ENSOSIG00000019905	Others	NA
+Oryzias_sinensis	snx5	ENSOSIG00000019917	Others	NA
+Oryzias_sinensis	lancl1	ENSOSIG00000019953	Others	NA
+Oryzias_sinensis	anp32e	ENSOSIG00000020011	ANP	NA
+Oryzias_sinensis		ENSOSIG00000020020	Erbb2	NA
+Oryzias_sinensis	tradd	ENSOSIG00000020040	Others	NA
+Oryzias_sinensis	utp4	ENSOSIG00000020046	Others	NA
+Oryzias_sinensis	brd3a	ENSOSIG00000020064	Bromodomain	NA
+Oryzias_sinensis		ENSOSIG00000020071	Others	NA
+Oryzias_sinensis	ctdp1	ENSOSIG00000020105	Others	NA
+Oryzias_sinensis	SFMBT1	ENSOSIG00000020118	Others	NA
+Oryzias_sinensis	setd6	ENSOSIG00000020137	SET	NA
+Oryzias_sinensis	nsmce4a	ENSOSIG00000020194	EID	NA
+Oryzias_sinensis	itcha	ENSOSIG00000020238	Others	NA
+Oryzias_sinensis		ENSOSIG00000020278	Arginine methyltransferase	NA
+Oryzias_sinensis	nrg2a	ENSOSIG00000020301	Others	NA
+Oryzias_sinensis	thoc5	ENSOSIG00000020318	Others	NA
+Oryzias_sinensis	smarca5	ENSOSIG00000020362	SWI/SNF	NA
+Oryzias_sinensis	ss18	ENSOSIG00000020412	SS18	NA
+Oryzias_sinensis	med29	ENSOSIG00000020443	Mediator complex	NA
+Oryzias_sinensis	smarcd3b	ENSOSIG00000020499	SWI/SNF	NA
+Oryzias_sinensis	cnot3a	ENSOSIG00000020504	CCR4-NOT	NA
+Oryzias_sinensis	sdr16c5a	ENSOSIG00000020597	Others	NA
+Oryzias_sinensis	taf1	ENSOSIG00000020607	TATA-box	NA
+Oryzias_sinensis	eaf1	ENSOSIG00000020608	Others	NA
+Oryzias_sinensis	DDX5	ENSOSIG00000020611	RNA helicase	NA
+Oryzias_sinensis	dyrk1b	ENSOSIG00000020622	Others	NA
+Oryzias_sinensis		ENSOSIG00000020641	Others	NA
+Oryzias_sinensis	scai	ENSOSIG00000020651	Others	NA
+Oryzias_sinensis		ENSOSIG00000020656	PARP	NA
+Oryzias_sinensis	fhod3b	ENSOSIG00000020699	Others	NA
+Oryzias_sinensis	CHUK	ENSOSIG00000020753	Others	NA
+Oryzias_sinensis	gtf2a1	ENSOSIG00000020768	GTF	NA
+Oryzias_sinensis	mbtd1	ENSOSIG00000020812	Others	NA
+Oryzias_sinensis	dhx9	ENSOSIG00000020944	RNA helicase	NA
+Oryzias_sinensis	nrbf2b	ENSOSIG00000020999	Nuclear receptor coactivator	NA
+Oryzias_sinensis	hltf	ENSOSIG00000021043	Others	NA
+Oryzias_sinensis	taf7	ENSOSIG00000021058	TATA-box	NA
+Oryzias_sinensis	kdm5a	ENSOSIG00000021075	Lysine demethylase	NA
+Oryzias_sinensis	KDM7A	ENSOSIG00000021128	Lysine demethylase	NA
+Oryzias_sinensis		ENSOSIG00000021173	Others	NA
+Oryzias_sinensis	tnip1	ENSOSIG00000021227	Others	NA
+Oryzias_sinensis	taf6l	ENSOSIG00000021297	TATA-box	NA
+Oryzias_sinensis	dnmt3bb.1	ENSOSIG00000021320	DNA_methylase	NA
+Oryzias_sinensis	btg1	ENSOSIG00000021344	Others	NA
+Oryzias_sinensis	rb1	ENSOSIG00000021348	Other_Co-activator/repressors	NA
+Oryzias_sinensis	rnf6	ENSOSIG00000021376	Ring finger protein	NA
+Oryzias_sinensis	dr1	ENSOSIG00000021396	Others	NA
+Oryzias_sinensis	cdk8	ENSOSIG00000021415	Cyclin	NA
+Oryzias_sinensis	cnot6b	ENSOSIG00000021427	CCR4-NOT	NA
+Oryzias_sinensis	crtc1b	ENSOSIG00000021514	CREB	NA
+Oryzias_sinensis	cdkn1bb	ENSOSIG00000021545	Cyclin	NA
+Oryzias_sinensis	ehmt1b	ENSOSIG00000021570	Histone lysine methyltransferase	NA
+Oryzias_sinensis	birc2	ENSOSIG00000021579	Others	NA
+Oryzias_sinensis	tcea1	ENSOSIG00000021653	TEF	NA
+Oryzias_sinensis	rbfox2	ENSOSIG00000021663	Others	NA
+Oryzias_sinensis	eya3	ENSOSIG00000021665	EYA	NA
+Oryzias_sinensis	TGFB3	ENSOSIG00000021713	Others	NA
+Oryzias_sinensis	cops2	ENSOSIG00000021739	Others	NA
+Oryzias_sinensis	kdm3b	ENSOSIG00000021774	Lysine demethylase	NA
+Oryzias_sinensis	kat6b	ENSOSIG00000021791	Lysine acetyltransferase	NA
+Oryzias_sinensis	meaf6	ENSOSIG00000021815	Others	NA
+Oryzias_sinensis	mid1ip1l	ENSOSIG00000021816	Others	NA
+Oryzias_sinensis	mybbp1a	ENSOSIG00000021837	MYB	NA
+Oryzias_sinensis	ppid	ENSOSIG00000021857	Others	NA
+Oryzias_sinensis	smyd1b	ENSOSIG00000021897	SMYD	NA
+Oryzias_sinensis	lgals8b	ENSOSIG00000021941	Others	NA
+Oryzias_sinensis	ppargc1b	ENSOSIG00000021944	Others	NA
+Oryzias_sinensis	cdk7	ENSOSIG00000021951	Cyclin	NA
+Oryzias_sinensis	prmt6	ENSOSIG00000021957	Arginine methyltransferase	NA
+Oryzias_sinensis	dnajb1b	ENSOSIG00000021981	Others	NA
+Oryzias_sinensis	elp1	ENSOSIG00000021983	ELP	NA
+Oryzias_sinensis	dhx33	ENSOSIG00000021988	RNA helicase	NA
+Oryzias_sinensis	c1qbp	ENSOSIG00000021992	Others	NA
+Oryzias_sinensis	PCGF3	ENSOSIG00000022035	PCGF	NA
+Oryzias_sinensis		ENSOSIG00000022058	MBD	NA
+Oryzias_sinensis	brwd3	ENSOSIG00000022076	Bromodomain	NA
+Oryzias_sinensis	rbm15	ENSOSIG00000022103	RNA binding protein	NA
+Oryzias_sinensis		ENSOSIG00000022110	Tripartite motif	NA
+Oryzias_sinensis	stk3	ENSOSIG00000022125	Others	NA
+Oryzias_sinensis	ruvbl2	ENSOSIG00000022140	Other_CRF	NA
+Oryzias_sinensis	brdt	ENSOSIG00000022192	Bromodomain	NA
+Oryzias_sinensis	tgfbr3	ENSOSIG00000022198	Others	NA
+Oryzias_sinensis	JMY	ENSOSIG00000022211	Others	NA
+Oryzias_sinensis	si:ch73-60h1.1	ENSOSIG00000022256	CAMK	NA
+Oryzias_sinensis	adrb2a	ENSOSIG00000022258	Others	NA
+Oryzias_sinensis	hif1an	ENSOSIG00000022347	Others	NA
+Oryzias_sinensis		ENSOSIG00000022442	Ring finger protein	NA
+Oryzias_sinensis	snapc5	ENSOSIG00000022501	Others	NA
+Oryzias_sinensis	sltm	ENSOSIG00000022503	Others	NA
+Oryzias_sinensis	leo1	ENSOSIG00000022520	Others	NA
+Oryzias_sinensis	rnf111	ENSOSIG00000022522	Ring finger protein	NA
+Oryzias_sinensis	med13a	ENSOSIG00000022553	Mediator complex	NA
+Oryzias_sinensis	SMARCA4	ENSOSIG00000022566	SWI/SNF	NA
+Oryzias_sinensis	trim37	ENSOSIG00000022601	Tripartite motif	NA
+Oryzias_sinensis	setd5	ENSOSIG00000022648	Lysine methyltransferase	NA
+Oryzias_sinensis	supt7l	ENSOSIG00000022723	SUPT	NA
+Oryzias_sinensis	elp2	ENSOSIG00000022755	ELP	NA
+Oryzias_sinensis	eno1a	ENSOSIG00000022844	Others	NA
+Oryzias_sinensis	trip4	ENSOSIG00000022862	Thyroid hormone receptor	NA
+Oryzias_sinensis	noc2l	ENSOSIG00000022908	Others	NA
+Oryzias_sinensis		ENSOSIG00000022938	Others	NA
+Oryzias_sinensis	ell2	ENSOSIG00000022998	GTF	NA
+Oryzias_sinensis	ctnnbip1	ENSOSIG00000023013	Casein	NA
+Oryzias_sinensis	anp32a	ENSOSIG00000023072	ANP	NA
+Oryzias_sinensis	bcl9l	ENSOSIG00000023080	BCL	NA
+Oryzias_sinensis	sirt5	ENSOSIG00000023103	Sirtuin	NA
+Oryzias_sinensis	hat1	ENSOSIG00000023122	Others	NA
+Oryzias_sinensis	ncl	ENSOSIG00000023123	Others	NA
+Oryzias_sinensis		ENSOSIG00000023144	TATA-box	NA
+Oryzias_sinensis	ss18l2	ENSOSIG00000023154	SS18	NA
+Oryzias_sinensis		ENSOSIG00000023155	Others	NA
+Oryzias_sinensis	auts2a	ENSOSIG00000023215	Others	NA
+Oryzias_sinensis	brd7	ENSOSIG00000023242	Bromodomain	NA
+Oryzias_sinensis	nod2	ENSOSIG00000023253	Others	NA
+Oryzias_sinensis	strap	ENSOSIG00000023289	Others	NA
+Oryzias_sinensis	lzts2a	ENSOSIG00000023306	Others	NA
+Oryzias_sinensis	TLE3	ENSOSIG00000023308	Transducin	NA
+Oryzias_sinensis	ccar1	ENSOSIG00000023348	Others	NA
+Oryzias_sinensis	hnrnpd	ENSOSIG00000023353	HNRNP	NA
+Oryzias_sinensis	tax1bp1b	ENSOSIG00000023368	Others	NA
+Oryzias_sinensis	prdx5	ENSOSIG00000023399	Others	NA
+Oryzias_sinensis	jmjd1cb	ENSOSIG00000023434	Other_CRF	NA
+Oryzias_sinensis	commd1	ENSOSIG00000023456	Others	NA
+Oryzias_sinensis	rbm39b	ENSOSIG00000023463	RNA binding protein	NA
+Oryzias_sinensis	pabpc1l	ENSOSIG00000023475	Other_CRF	NA
+Oryzias_sinensis	ywhabb	ENSOSIG00000023483	Others	NA
+Oryzias_sinensis	CIR1	ENSOSIG00000023510	Other_Co-activator/repressors	NA
+Oryzias_sinensis	fgf16	ENSOSIG00000023511	FGF	NA
+Oryzias_sinensis	ep400	ENSOSIG00000023562	Others	NA
+Oryzias_sinensis	skor2	ENSOSIG00000023576	SKI	NA
+Oryzias_sinensis	taf11	ENSOSIG00000023585	TATA-box	NA
+Oryzias_sinensis	ddx24	ENSOSIG00000023644	RNA helicase	NA
+Oryzias_sinensis	eed	ENSOSIG00000023692	Others	NA
+Oryzias_sinensis	slc25a15b	ENSOSIG00000023708	SLC	NA
+Oryzias_sinensis	fbxw7	ENSOSIG00000023726	Others	NA
+Oryzias_sinensis	actr8	ENSOSIG00000023801	ACTR	NA
+Oryzias_sinensis	med28	ENSOSIG00000023826	Mediator complex	NA
+Oryzias_sinensis	si:ch211-130m23.3	ENSOSIG00000023827	Others	NA
+Oryzias_sinensis	kat5b	ENSOSIG00000023852	Lysine acetyltransferase	NA
+Oryzias_sinensis	dpf2	ENSOSIG00000023890	DPF	NA
+Oryzias_sinensis	yap1	ENSOSIG00000023911	Others	NA
+Oryzias_sinensis	gtf2h5	ENSOSIG00000023925	GTF	NA
+Oryzias_sinensis		ENSOSIG00000023938	Others	NA
+Oryzias_sinensis	slc26a3.2	ENSOSIG00000023997	SLC	NA

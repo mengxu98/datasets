@@ -1,0 +1,771 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Sander_lucioperca	taf1a	ENSSLUG00000000070	TATA-box	116066448
+Sander_lucioperca	hat1	ENSSLUG00000000072	Others	116048538
+Sander_lucioperca	ezrb	ENSSLUG00000000168	Others	116066427
+Sander_lucioperca	cdk5	ENSSLUG00000000174	Cyclin	116045983
+Sander_lucioperca	cbx6a	ENSSLUG00000000175	Chromobox	NA
+Sander_lucioperca	tbl1x	ENSSLUG00000000230	Transducin	116047317
+Sander_lucioperca	frzb	ENSSLUG00000000233	Others	NA
+Sander_lucioperca	mcrs1	ENSSLUG00000000240	Others	NA
+Sander_lucioperca	timeless	ENSSLUG00000000306	Others	116066303
+Sander_lucioperca	DTX1	ENSSLUG00000000315	Others	116050527
+Sander_lucioperca	snapc5	ENSSLUG00000000334	Others	116038322
+Sander_lucioperca	fbxw11a	ENSSLUG00000000335	Others	116052496
+Sander_lucioperca		ENSSLUG00000000340	Others	NA
+Sander_lucioperca	hck	ENSSLUG00000000341	Others	116040767
+Sander_lucioperca	cdk2	ENSSLUG00000000372	Cyclin	NA
+Sander_lucioperca	tab3	ENSSLUG00000000403	Others	116055193
+Sander_lucioperca		ENSSLUG00000000413	Transducin	116058980
+Sander_lucioperca	kdm8	ENSSLUG00000000482	Lysine demethylase	116059279
+Sander_lucioperca	med19a	ENSSLUG00000000493	Mediator complex	116052418
+Sander_lucioperca	si:dkey-6i22.5	ENSSLUG00000000496	Others	116052419
+Sander_lucioperca	cbfa2t2	ENSSLUG00000000510	Others	116051397
+Sander_lucioperca	CASK	ENSSLUG00000000529	CAMK	116050538
+Sander_lucioperca	ino80c	ENSSLUG00000000539	INO80 complex	116049467
+Sander_lucioperca	actl6a	ENSSLUG00000000576	Actin	116055257
+Sander_lucioperca	wwc1	ENSSLUG00000000618	WW	116055884
+Sander_lucioperca	med13a	ENSSLUG00000000621	Mediator complex	NA
+Sander_lucioperca	nelfcd	ENSSLUG00000000784	GTF	116066452
+Sander_lucioperca	trip11	ENSSLUG00000000827	Thyroid hormone receptor	116057399
+Sander_lucioperca		ENSSLUG00000000865	MAML	116048413
+Sander_lucioperca	yap1	ENSSLUG00000000871	Others	116048415
+Sander_lucioperca	ino80	ENSSLUG00000000872	INO80 complex	NA
+Sander_lucioperca	CNOT8	ENSSLUG00000000880	CCR4-NOT	116056090
+Sander_lucioperca	kdm4b	ENSSLUG00000000972	Lysine demethylase	116055295
+Sander_lucioperca	sap30l	ENSSLUG00000000994	SAP	116055952
+Sander_lucioperca	itcha	ENSSLUG00000001012	Others	116051414
+Sander_lucioperca	rtf1	ENSSLUG00000001016	Others	NA
+Sander_lucioperca	PLK1	ENSSLUG00000001032	Others	116042997
+Sander_lucioperca	clu	ENSSLUG00000001068	Others	116065951
+Sander_lucioperca	kdm6a	ENSSLUG00000001195	Lysine demethylase	NA
+Sander_lucioperca	ctnnbip1	ENSSLUG00000001218	Casein	116040880
+Sander_lucioperca	pir	ENSSLUG00000001234	Others	NA
+Sander_lucioperca	actn2b	ENSSLUG00000001264	Actin	NA
+Sander_lucioperca	notch1b	ENSSLUG00000001318	Notch	116054312
+Sander_lucioperca	pin1	ENSSLUG00000001321	Others	116042568
+Sander_lucioperca		ENSSLUG00000001329	Actin	116042675
+Sander_lucioperca	ewsr1b	ENSSLUG00000001330	Others	116056607
+Sander_lucioperca	med6	ENSSLUG00000001372	Mediator complex	116057435
+Sander_lucioperca	med14	ENSSLUG00000001411	Mediator complex	NA
+Sander_lucioperca	supt16h	ENSSLUG00000001431	SUPT	116053257
+Sander_lucioperca		ENSSLUG00000001468	Zinc finger	NA
+Sander_lucioperca	aurkaip1	ENSSLUG00000001478	Others	116043624
+Sander_lucioperca	ilf2	ENSSLUG00000001491	Others	116035537
+Sander_lucioperca	fgf1a	ENSSLUG00000001529	FGF	116064288
+Sander_lucioperca	pih1d1	ENSSLUG00000001543	Other_CRF	116063912
+Sander_lucioperca	med28	ENSSLUG00000001560	Mediator complex	116034358
+Sander_lucioperca	kank1b	ENSSLUG00000001570	Others	116062968
+Sander_lucioperca	fbp1b	ENSSLUG00000001585	Others	116062969
+Sander_lucioperca	chtopa	ENSSLUG00000001586	Others	116035470
+Sander_lucioperca	txnipa	ENSSLUG00000001624	Others	116035467
+Sander_lucioperca	csnk2a4	ENSSLUG00000001635	Casein	116034502
+Sander_lucioperca	dab2	ENSSLUG00000001654	Others	116062930
+Sander_lucioperca	rbx1	ENSSLUG00000001701	Others	116065292
+Sander_lucioperca	ppie	ENSSLUG00000001705	Others	116042467
+Sander_lucioperca	pidd1	ENSSLUG00000001706	Others	116038307
+Sander_lucioperca	alyref	ENSSLUG00000001718	Others	NA
+Sander_lucioperca	recql5	ENSSLUG00000001778	Others	116065496
+Sander_lucioperca	stk3	ENSSLUG00000001823	Others	116047412
+Sander_lucioperca	lpin2	ENSSLUG00000001876	LPIN	116045951
+Sander_lucioperca	txlng	ENSSLUG00000001881	Others	116045208
+Sander_lucioperca	cnot2	ENSSLUG00000001886	CCR4-NOT	116038330
+Sander_lucioperca	ep300b	ENSSLUG00000001890	Others	NA
+Sander_lucioperca		ENSSLUG00000001891	Others	116041046
+Sander_lucioperca	hdac6	ENSSLUG00000001926	Histone deacetylase	NA
+Sander_lucioperca	ssu72	ENSSLUG00000001950	Others	116041624
+Sander_lucioperca	ccdc59	ENSSLUG00000001956	Coiled-coil	116060227
+Sander_lucioperca	mtdha	ENSSLUG00000001961	Others	116047420
+Sander_lucioperca	zgc:55733	ENSSLUG00000001962	HNRNP	116053329
+Sander_lucioperca	HDAC1	ENSSLUG00000001982	Histone deacetylase	116042484
+Sander_lucioperca	mad2l2	ENSSLUG00000002012	Others	NA
+Sander_lucioperca	crebbpb	ENSSLUG00000002061	CREB	116059312
+Sander_lucioperca	plk3	ENSSLUG00000002099	Others	116046120
+Sander_lucioperca	ep400	ENSSLUG00000002108	Others	NA
+Sander_lucioperca	HDGFL3	ENSSLUG00000002126	Others	116045218
+Sander_lucioperca	ctr9	ENSSLUG00000002142	Others	116067717
+Sander_lucioperca	actn1	ENSSLUG00000002222	Actin	116057405
+Sander_lucioperca	ccnt1	ENSSLUG00000002225	Cyclin	NA
+Sander_lucioperca	raf1a	ENSSLUG00000002257	Others	116062082
+Sander_lucioperca	pcbd1	ENSSLUG00000002285	Others	NA
+Sander_lucioperca	ruvbl2	ENSSLUG00000002309	Other_CRF	116058085
+Sander_lucioperca	eno1a	ENSSLUG00000002313	Others	116040736
+Sander_lucioperca	gtf2e1	ENSSLUG00000002352	GTF	116037708
+Sander_lucioperca	pdlim1	ENSSLUG00000002422	Others	116039404
+Sander_lucioperca	gtf2h1	ENSSLUG00000002442	GTF	116038504
+Sander_lucioperca	pawr	ENSSLUG00000002488	Others	116060040
+Sander_lucioperca	cops5	ENSSLUG00000002507	Others	NA
+Sander_lucioperca	serbp1b	ENSSLUG00000002513	Others	116045808
+Sander_lucioperca	rnf2	ENSSLUG00000002516	Ring finger protein	116043986
+Sander_lucioperca	strap	ENSSLUG00000002556	Others	116062251
+Sander_lucioperca	tcea1	ENSSLUG00000002601	TEF	116045957
+Sander_lucioperca	cdc73	ENSSLUG00000002661	Others	116046148
+Sander_lucioperca	crk	ENSSLUG00000002719	Others	116038939
+Sander_lucioperca	trim8b	ENSSLUG00000002728	Tripartite motif	116061123
+Sander_lucioperca	trib2	ENSSLUG00000002730	Others	116041955
+Sander_lucioperca	anp32b	ENSSLUG00000002742	ANP	NA
+Sander_lucioperca	NDUFA13	ENSSLUG00000002790	Others	116037381
+Sander_lucioperca	ago2	ENSSLUG00000002830	Others	NA
+Sander_lucioperca	atad2b	ENSSLUG00000002835	Others	116041993
+Sander_lucioperca	gmnn	ENSSLUG00000002850	Others	NA
+Sander_lucioperca	tdp2b	ENSSLUG00000002868	Others	116047446
+Sander_lucioperca	chrac1	ENSSLUG00000002902	Other_CRF	116047458
+Sander_lucioperca	setd6	ENSSLUG00000002928	SET	116046464
+Sander_lucioperca	lrrc14b	ENSSLUG00000002930	Others	NA
+Sander_lucioperca	rbl2	ENSSLUG00000003084	Other_Co-activator/repressors	NA
+Sander_lucioperca		ENSSLUG00000003101	Tripartite motif	116050935
+Sander_lucioperca	tnip1	ENSSLUG00000003172	Others	116064469
+Sander_lucioperca	med20	ENSSLUG00000003194	Mediator complex	116041617
+Sander_lucioperca	heatr1	ENSSLUG00000003207	Others	NA
+Sander_lucioperca	seta	ENSSLUG00000003221	SET	116054473
+Sander_lucioperca	gtf2h5	ENSSLUG00000003359	GTF	116066240
+Sander_lucioperca	cnot1	ENSSLUG00000003445	CCR4-NOT	NA
+Sander_lucioperca	pcgf5a	ENSSLUG00000003462	PCGF	116056390
+Sander_lucioperca	cnot6l	ENSSLUG00000003517	CCR4-NOT	NA
+Sander_lucioperca	hnrnpd	ENSSLUG00000003534	HNRNP	NA
+Sander_lucioperca	supt5h	ENSSLUG00000003551	SUPT	116062734
+Sander_lucioperca	orc2	ENSSLUG00000003566	Others	116055097
+Sander_lucioperca	cry1a	ENSSLUG00000003675	Others	116060124
+Sander_lucioperca	tnip2	ENSSLUG00000003807	Others	116051758
+Sander_lucioperca	cdyl	ENSSLUG00000003808	Chromodomain Y	NA
+Sander_lucioperca	CHUK	ENSSLUG00000003917	Others	116060936
+Sander_lucioperca	plrg1	ENSSLUG00000003926	Others	116051739
+Sander_lucioperca	ppid	ENSSLUG00000003972	Others	116062489
+Sander_lucioperca	prkcbp1l	ENSSLUG00000004010	Zinc finger	116062015
+Sander_lucioperca	lin54	ENSSLUG00000004104	Others	116051062
+Sander_lucioperca		ENSSLUG00000004170	Others	NA
+Sander_lucioperca	uri1	ENSSLUG00000004364	Others	116038614
+Sander_lucioperca	bud31	ENSSLUG00000004387	Others	116065288
+Sander_lucioperca	mnat1	ENSSLUG00000004405	Others	116035483
+Sander_lucioperca	thrap3b	ENSSLUG00000004422	Thyroid hormone receptor	116047207
+Sander_lucioperca	pex2	ENSSLUG00000004453	Others	116051103
+Sander_lucioperca	BAZ1A	ENSSLUG00000004457	Bromodomain	NA
+Sander_lucioperca	prmt7	ENSSLUG00000004468	Arginine methyltransferase	116040182
+Sander_lucioperca	ldb2a	ENSSLUG00000004503	LIM	NA
+Sander_lucioperca	nab2	ENSSLUG00000004519	Others	NA
+Sander_lucioperca	meaf6	ENSSLUG00000004526	Others	116047210
+Sander_lucioperca	adrb2a	ENSSLUG00000004567	Others	116052070
+Sander_lucioperca	bcl10	ENSSLUG00000004648	BCL	116046240
+Sander_lucioperca	pik3r2	ENSSLUG00000004691	Others	NA
+Sander_lucioperca		ENSSLUG00000004754	Others	NA
+Sander_lucioperca	ecd	ENSSLUG00000004755	Others	116056005
+Sander_lucioperca	arrb2a	ENSSLUG00000004806	Others	116065626
+Sander_lucioperca	WDR77	ENSSLUG00000004858	WD	116041691
+Sander_lucioperca	smurf1	ENSSLUG00000004895	Others	116065242
+Sander_lucioperca	yaf2	ENSSLUG00000004904	Others	116038477
+Sander_lucioperca	wdr5	ENSSLUG00000004911	WD	116034782
+Sander_lucioperca	nup98	ENSSLUG00000004944	Others	NA
+Sander_lucioperca	nck1a	ENSSLUG00000004947	Others	116067141
+Sander_lucioperca	ankrd1a	ENSSLUG00000005037	Ankyrin repeat	NA
+Sander_lucioperca	wwp2	ENSSLUG00000005060	WW	116040253
+Sander_lucioperca	mrtfba	ENSSLUG00000005080	Others	NA
+Sander_lucioperca	phip	ENSSLUG00000005139	Others	NA
+Sander_lucioperca	prpf6	ENSSLUG00000005160	Others	NA
+Sander_lucioperca	cnot3b	ENSSLUG00000005216	CCR4-NOT	NA
+Sander_lucioperca	actr5	ENSSLUG00000005220	ACTR	116041001
+Sander_lucioperca	snip1	ENSSLUG00000005225	Others	116043322
+Sander_lucioperca	fgf20a	ENSSLUG00000005226	FGF	NA
+Sander_lucioperca	siva1	ENSSLUG00000005253	Others	116035831
+Sander_lucioperca	nelfb	ENSSLUG00000005333	GTF	NA
+Sander_lucioperca	prmt5	ENSSLUG00000005387	Arginine methyltransferase	116057961
+Sander_lucioperca	H2AZ1	ENSSLUG00000005390	Others	116049813
+Sander_lucioperca	chd6	ENSSLUG00000005468	CHD	NA
+Sander_lucioperca		ENSSLUG00000005469	Mediator complex	116037341
+Sander_lucioperca	dhx33	ENSSLUG00000005497	RNA helicase	116058081
+Sander_lucioperca	c1qbp	ENSSLUG00000005510	Others	116058266
+Sander_lucioperca		ENSSLUG00000005550	CAMK	116059162
+Sander_lucioperca	bend3	ENSSLUG00000005591	Others	116065711
+Sander_lucioperca	supt4h1	ENSSLUG00000005652	SUPT	116058080
+Sander_lucioperca		ENSSLUG00000005691	Transducin	NA
+Sander_lucioperca	sap130a	ENSSLUG00000005735	SAP	116058999
+Sander_lucioperca	polr3c	ENSSLUG00000005739	POLR	116049575
+Sander_lucioperca	arhgap5	ENSSLUG00000005743	Others	NA
+Sander_lucioperca	ASF1B	ENSSLUG00000005798	Others	116059471
+Sander_lucioperca	edf1	ENSSLUG00000005896	Others	116062945
+Sander_lucioperca	npm1a	ENSSLUG00000005907	Nucleoplasmin	116064933
+Sander_lucioperca	ell2	ENSSLUG00000006011	GTF	NA
+Sander_lucioperca	skap1	ENSSLUG00000006020	Others	NA
+Sander_lucioperca		ENSSLUG00000006059	Bromodomain	NA
+Sander_lucioperca	SMARCB1	ENSSLUG00000006060	SWI/SNF	NA
+Sander_lucioperca	ccnh	ENSSLUG00000006071	Cyclin	116056596
+Sander_lucioperca	siah2l	ENSSLUG00000006073	Others	116065629
+Sander_lucioperca	ago4	ENSSLUG00000006092	Others	116047225
+Sander_lucioperca	apex1	ENSSLUG00000006097	Others	NA
+Sander_lucioperca	cdk5rap3	ENSSLUG00000006108	Cyclin	116061291
+Sander_lucioperca	scai	ENSSLUG00000006150	Others	116041375
+Sander_lucioperca	mycbp2	ENSSLUG00000006160	MYC	NA
+Sander_lucioperca	tbp	ENSSLUG00000006261	TATA-box	116060634
+Sander_lucioperca	phf10	ENSSLUG00000006327	PHF	116060529
+Sander_lucioperca	trip13	ENSSLUG00000006350	Thyroid hormone receptor	116049422
+Sander_lucioperca	ascc1	ENSSLUG00000006404	ASCC	116061442
+Sander_lucioperca	abt1	ENSSLUG00000006557	Others	116045493
+Sander_lucioperca	rbm15	ENSSLUG00000006561	RNA binding protein	116040722
+Sander_lucioperca	rexo4	ENSSLUG00000006606	Others	NA
+Sander_lucioperca		ENSSLUG00000006630	Others	NA
+Sander_lucioperca	ssbp3b	ENSSLUG00000006685	Others	116063414
+Sander_lucioperca	cbfa2t3	ENSSLUG00000006715	Others	NA
+Sander_lucioperca	ccna2	ENSSLUG00000006726	Cyclin	116062532
+Sander_lucioperca	sf1	ENSSLUG00000006826	Others	116043487
+Sander_lucioperca	rnf25	ENSSLUG00000006839	Ring finger protein	116063763
+Sander_lucioperca	loxl2b	ENSSLUG00000006864	Others	116047666
+Sander_lucioperca	kat8	ENSSLUG00000006875	Lysine acetyltransferase	116063762
+Sander_lucioperca	nsd1a	ENSSLUG00000006882	Nuclear receptor coactivator	116064417
+Sander_lucioperca	emsy	ENSSLUG00000006888	Others	NA
+Sander_lucioperca	CCNK	ENSSLUG00000006927	Cyclin	116041990
+Sander_lucioperca	fgfr1a	ENSSLUG00000006965	FGF	NA
+Sander_lucioperca	pcgf1	ENSSLUG00000007015	PCGF	116062539
+Sander_lucioperca	smarca5	ENSSLUG00000007075	SWI/SNF	NA
+Sander_lucioperca	erbin	ENSSLUG00000007087	Erbb2	116062821
+Sander_lucioperca	nrip2	ENSSLUG00000007092	Nuclear coactivator	NA
+Sander_lucioperca	MDFI	ENSSLUG00000007112	Others	NA
+Sander_lucioperca	smarcd1	ENSSLUG00000007148	SWI/SNF	NA
+Sander_lucioperca	PELI1	ENSSLUG00000007153	Others	116061760
+Sander_lucioperca	smyd2a	ENSSLUG00000007281	SMYD	NA
+Sander_lucioperca	CTDSP1	ENSSLUG00000007283	Others	116044436
+Sander_lucioperca	mak	ENSSLUG00000007299	Others	NA
+Sander_lucioperca	rbpms	ENSSLUG00000007372	RNA binding protein	116049006
+Sander_lucioperca	kdm3b	ENSSLUG00000007399	Lysine demethylase	116064303
+Sander_lucioperca	puf60b	ENSSLUG00000007426	Others	116045273
+Sander_lucioperca	sufu	ENSSLUG00000007454	Others	NA
+Sander_lucioperca	npm3	ENSSLUG00000007469	Nucleoplasmin	116053671
+Sander_lucioperca	ILK	ENSSLUG00000007479	Others	NA
+Sander_lucioperca	taf2	ENSSLUG00000007500	TATA-box	NA
+Sander_lucioperca	apbb1	ENSSLUG00000007512	Others	116048456
+Sander_lucioperca	slc25a15b	ENSSLUG00000007516	SLC	116064967
+Sander_lucioperca	eapp	ENSSLUG00000007627	Others	NA
+Sander_lucioperca	NEDD8	ENSSLUG00000007644	Others	116057974
+Sander_lucioperca	taf6	ENSSLUG00000007651	TATA-box	116064961
+Sander_lucioperca	setd2	ENSSLUG00000007755	SET	116049433
+Sander_lucioperca	rprd1a	ENSSLUG00000007758	Others	116066979
+Sander_lucioperca	supt6h	ENSSLUG00000007820	SUPT	116036984
+Sander_lucioperca	ino80da	ENSSLUG00000007824	INO80 complex	116047932
+Sander_lucioperca	epc1a	ENSSLUG00000007896	Others	NA
+Sander_lucioperca	taf5	ENSSLUG00000007908	TATA-box	116042750
+Sander_lucioperca		ENSSLUG00000007948	Others	116045695
+Sander_lucioperca	cdk5r1b	ENSSLUG00000007967	Cyclin	116060970
+Sander_lucioperca	smarcad1a	ENSSLUG00000007968	SWI/SNF	116056730
+Sander_lucioperca	cbx2	ENSSLUG00000007990	Chromobox	116063941
+Sander_lucioperca	c1d	ENSSLUG00000008045	Other_Co-activator/repressors	116061808
+Sander_lucioperca	eaf1	ENSSLUG00000008064	Others	116049117
+Sander_lucioperca	kdm5c	ENSSLUG00000008168	Lysine demethylase	116043572
+Sander_lucioperca	fhod3a	ENSSLUG00000008206	Others	NA
+Sander_lucioperca	mdm2	ENSSLUG00000008233	Others	116047922
+Sander_lucioperca	med22	ENSSLUG00000008311	Mediator complex	116053916
+Sander_lucioperca	rprd1b	ENSSLUG00000008333	Others	116040671
+Sander_lucioperca	park7	ENSSLUG00000008343	Others	116051561
+Sander_lucioperca		ENSSLUG00000008362	Others	NA
+Sander_lucioperca	flii	ENSSLUG00000008405	Others	NA
+Sander_lucioperca	ascc3	ENSSLUG00000008447	ASCC	116035239
+Sander_lucioperca	pik3r1	ENSSLUG00000008463	Others	116062801
+Sander_lucioperca	prmt2	ENSSLUG00000008483	Arginine methyltransferase	116049822
+Sander_lucioperca	ATXN7L3	ENSSLUG00000008615	Others	NA
+Sander_lucioperca	mid1ip1a	ENSSLUG00000008687	Others	116044883
+Sander_lucioperca	ctnnd1	ENSSLUG00000008688	Casein	116039563
+Sander_lucioperca	eya4	ENSSLUG00000008695	EYA	116065963
+Sander_lucioperca	cxxc5a	ENSSLUG00000008753	Others	NA
+Sander_lucioperca	nrg2a	ENSSLUG00000008791	Others	116064727
+Sander_lucioperca	wwox	ENSSLUG00000008838	WW	116045618
+Sander_lucioperca	smarcd2	ENSSLUG00000008881	SWI/SNF	NA
+Sander_lucioperca	sirt3	ENSSLUG00000008911	Sirtuin	116067290
+Sander_lucioperca	dnmt1	ENSSLUG00000008937	DNA_methylase	116059318
+Sander_lucioperca	PCGF3	ENSSLUG00000008977	PCGF	116062520
+Sander_lucioperca	kmt5ab	ENSSLUG00000008984	Lysine methyltransferase	116056808
+Sander_lucioperca	tfb2m	ENSSLUG00000009009	Others	116060490
+Sander_lucioperca	phf19	ENSSLUG00000009014	PHF	NA
+Sander_lucioperca		ENSSLUG00000009037	SMYD	116060495
+Sander_lucioperca	taf10	ENSSLUG00000009044	TATA-box	116041074
+Sander_lucioperca	blm	ENSSLUG00000009054	Others	116038478
+Sander_lucioperca	commd1	ENSSLUG00000009074	Others	116052169
+Sander_lucioperca	wdtc1	ENSSLUG00000009092	WD	116049265
+Sander_lucioperca	egfra	ENSSLUG00000009096	Others	116046206
+Sander_lucioperca	med27	ENSSLUG00000009122	Mediator complex	116056984
+Sander_lucioperca	arl2bp	ENSSLUG00000009135	Others	116053000
+Sander_lucioperca	kat2b	ENSSLUG00000009183	Lysine acetyltransferase	116066838
+Sander_lucioperca	med31	ENSSLUG00000009325	Mediator complex	116054995
+Sander_lucioperca	slc19a1	ENSSLUG00000009343	SLC	NA
+Sander_lucioperca	hint2	ENSSLUG00000009354	Others	116054442
+Sander_lucioperca	malt1	ENSSLUG00000009369	Others	NA
+Sander_lucioperca	pycard	ENSSLUG00000009390	Others	116060125
+Sander_lucioperca	FHL2	ENSSLUG00000009398	FHL	116046165
+Sander_lucioperca	HDAC4	ENSSLUG00000009515	Histone deacetylase	NA
+Sander_lucioperca	snw1	ENSSLUG00000009591	Others	116041964
+Sander_lucioperca	vgll4b	ENSSLUG00000009596	Vestigial like	116051333
+Sander_lucioperca	kat5b	ENSSLUG00000009597	Lysine acetyltransferase	116064905
+Sander_lucioperca	snd1	ENSSLUG00000009620	Others	116060216
+Sander_lucioperca	elp1	ENSSLUG00000009626	ELP	116062456
+Sander_lucioperca	dpf2	ENSSLUG00000009707	DPF	NA
+Sander_lucioperca	lzts1	ENSSLUG00000009779	Others	NA
+Sander_lucioperca	fbrsl1	ENSSLUG00000009784	Others	NA
+Sander_lucioperca	notch2	ENSSLUG00000009804	Notch	116063430
+Sander_lucioperca	chd8	ENSSLUG00000009875	CHD	116055042
+Sander_lucioperca	sirt5	ENSSLUG00000009911	Sirtuin	116038176
+Sander_lucioperca	rbl1	ENSSLUG00000009964	Other_Co-activator/repressors	116034550
+Sander_lucioperca	ela3l	ENSSLUG00000009971	Others	116054425
+Sander_lucioperca	sirt6	ENSSLUG00000010006	Sirtuin	116037426
+Sander_lucioperca	wwp1	ENSSLUG00000010064	WW	116055719
+Sander_lucioperca	grip1	ENSSLUG00000010086	Others	NA
+Sander_lucioperca	runx1t1	ENSSLUG00000010101	Others	116066928
+Sander_lucioperca	jak2b	ENSSLUG00000010126	Others	NA
+Sander_lucioperca	men1	ENSSLUG00000010151	Others	NA
+Sander_lucioperca	med29	ENSSLUG00000010187	Mediator complex	116047954
+Sander_lucioperca	ing4	ENSSLUG00000010189	ING	NA
+Sander_lucioperca	mdm4	ENSSLUG00000010190	Others	116067113
+Sander_lucioperca	rpap2	ENSSLUG00000010213	Others	116048798
+Sander_lucioperca	wnt3	ENSSLUG00000010232	Others	116061533
+Sander_lucioperca	tasorb	ENSSLUG00000010247	FAM	116062056
+Sander_lucioperca	SRC	ENSSLUG00000010249	Others	116051428
+Sander_lucioperca	gtf2b	ENSSLUG00000010273	GTF	116048805
+Sander_lucioperca	SFMBT1	ENSSLUG00000010306	Others	NA
+Sander_lucioperca	nol11	ENSSLUG00000010366	Nuclear coactivator	NA
+Sander_lucioperca	rybpa	ENSSLUG00000010391	Others	116037133
+Sander_lucioperca	rsf1b.1	ENSSLUG00000010413	Others	116056009
+Sander_lucioperca	EZH1	ENSSLUG00000010414	Others	116059672
+Sander_lucioperca	erbb4b	ENSSLUG00000010427	Erbb2	NA
+Sander_lucioperca	tbpl1	ENSSLUG00000010496	TATA-box	116066395
+Sander_lucioperca	SGK1	ENSSLUG00000010560	Others	116066033
+Sander_lucioperca		ENSSLUG00000010816	Others	NA
+Sander_lucioperca	lbh	ENSSLUG00000010826	Others	NA
+Sander_lucioperca	ikbkb	ENSSLUG00000010875	Others	116054000
+Sander_lucioperca	gtf2h3	ENSSLUG00000010891	GTF	116056749
+Sander_lucioperca	chek1	ENSSLUG00000010954	Others	116064872
+Sander_lucioperca	ZNF703	ENSSLUG00000011019	Zinc finger	116062960
+Sander_lucioperca	ldb1b	ENSSLUG00000011064	LIM	116042599
+Sander_lucioperca	phf8	ENSSLUG00000011161	PHF	NA
+Sander_lucioperca	calr	ENSSLUG00000011222	Others	NA
+Sander_lucioperca	cbx3a	ENSSLUG00000011259	Chromobox	116066988
+Sander_lucioperca	niban2b	ENSSLUG00000011260	FAM	116050662
+Sander_lucioperca	BRD2	ENSSLUG00000011362	Bromodomain	116035977
+Sander_lucioperca	depdc1a	ENSSLUG00000011374	Others	116038150
+Sander_lucioperca	slc26a3.2	ENSSLUG00000011420	SLC	116054593
+Sander_lucioperca	gtf2h4	ENSSLUG00000011425	GTF	116035763
+Sander_lucioperca	erbb2	ENSSLUG00000011455	Erbb2	116061112
+Sander_lucioperca	pink1	ENSSLUG00000011518	Others	116043719
+Sander_lucioperca		ENSSLUG00000011551	Others	NA
+Sander_lucioperca	kat6b	ENSSLUG00000011562	Lysine acetyltransferase	NA
+Sander_lucioperca	wu:fj64h06	ENSSLUG00000011563	TATA-box	116034829
+Sander_lucioperca	JMY	ENSSLUG00000011567	Others	NA
+Sander_lucioperca	cnot6b	ENSSLUG00000011666	CCR4-NOT	116064319
+Sander_lucioperca	sin3b	ENSSLUG00000011701	Others	116055278
+Sander_lucioperca	JUP	ENSSLUG00000011733	Others	116052928
+Sander_lucioperca	mllt1b	ENSSLUG00000011759	GTF	NA
+Sander_lucioperca	HDAC3	ENSSLUG00000011799	Histone deacetylase	116036552
+Sander_lucioperca	wnt4	ENSSLUG00000011821	Others	116055531
+Sander_lucioperca	znf593	ENSSLUG00000011841	Zinc finger	116037969
+Sander_lucioperca	rgcc	ENSSLUG00000011843	Others	116050788
+Sander_lucioperca	sirt7	ENSSLUG00000011885	Sirtuin	116042646
+Sander_lucioperca	actr8	ENSSLUG00000011934	ACTR	116040788
+Sander_lucioperca	CDYL2	ENSSLUG00000011968	Chromodomain Y	116060525
+Sander_lucioperca	bcl9l	ENSSLUG00000012105	BCL	116041107
+Sander_lucioperca	chd1	ENSSLUG00000012190	CHD	116037995
+Sander_lucioperca	supt7l	ENSSLUG00000012197	SUPT	116065667
+Sander_lucioperca	hexim1	ENSSLUG00000012210	Others	NA
+Sander_lucioperca	polr3f	ENSSLUG00000012225	POLR	116049152
+Sander_lucioperca	gtf2h2	ENSSLUG00000012236	GTF	116050672
+Sander_lucioperca	cbx8b	ENSSLUG00000012263	Chromobox	116039610
+Sander_lucioperca	ern1	ENSSLUG00000012371	Others	116059300
+Sander_lucioperca	anp32a	ENSSLUG00000012377	ANP	116043385
+Sander_lucioperca	trim25	ENSSLUG00000012399	Tripartite motif	116039606
+Sander_lucioperca	loxl3b	ENSSLUG00000012453	Others	NA
+Sander_lucioperca	fhit	ENSSLUG00000012503	Others	116034535
+Sander_lucioperca	rptor	ENSSLUG00000012586	Others	NA
+Sander_lucioperca	ash1l	ENSSLUG00000012622	Others	NA
+Sander_lucioperca	hipk2	ENSSLUG00000012630	HIPK	116038747
+Sander_lucioperca	hdac10	ENSSLUG00000012634	Histone deacetylase	116038753
+Sander_lucioperca	smurf2	ENSSLUG00000012643	Others	116043036
+Sander_lucioperca	birc2	ENSSLUG00000012655	Others	116064779
+Sander_lucioperca	CBL	ENSSLUG00000012670	Others	116047981
+Sander_lucioperca	ell	ENSSLUG00000012675	GTF	116063321
+Sander_lucioperca	si:dkey-85a20.4	ENSSLUG00000012680	Others	NA
+Sander_lucioperca		ENSSLUG00000012702	Others	NA
+Sander_lucioperca	gtf2a1	ENSSLUG00000012726	GTF	NA
+Sander_lucioperca	dot1l	ENSSLUG00000012762	Others	NA
+Sander_lucioperca	brms1lb	ENSSLUG00000012801	Other_CRF	NA
+Sander_lucioperca	nfkbiaa	ENSSLUG00000012803	NFKB associated	116041969
+Sander_lucioperca	hnrnpub	ENSSLUG00000012886	HNRNP	116046974
+Sander_lucioperca	nrip1b	ENSSLUG00000012909	Nuclear receptor coactivator	NA
+Sander_lucioperca	s100s	ENSSLUG00000012947	Others	116047331
+Sander_lucioperca	trrap	ENSSLUG00000013020	Others	NA
+Sander_lucioperca	MED13L	ENSSLUG00000013022	Mediator complex	116034974
+Sander_lucioperca	ruvbl1	ENSSLUG00000013042	Other_CRF	NA
+Sander_lucioperca	trip4	ENSSLUG00000013123	Thyroid hormone receptor	116043406
+Sander_lucioperca	CIITA	ENSSLUG00000013136	Others	NA
+Sander_lucioperca	smarcd3b	ENSSLUG00000013142	SWI/SNF	116045297
+Sander_lucioperca	ctdp1	ENSSLUG00000013156	Others	NA
+Sander_lucioperca	brf1a	ENSSLUG00000013202	GTF	116036831
+Sander_lucioperca	prmt1	ENSSLUG00000013226	Arginine methyltransferase	116045048
+Sander_lucioperca	htatip2	ENSSLUG00000013292	Others	116067327
+Sander_lucioperca	elp3	ENSSLUG00000013311	ELP	116047001
+Sander_lucioperca	grhpra	ENSSLUG00000013324	Others	NA
+Sander_lucioperca	csrp3	ENSSLUG00000013375	Others	NA
+Sander_lucioperca	dnmt3bb.1	ENSSLUG00000013422	DNA_methylase	NA
+Sander_lucioperca	btg1	ENSSLUG00000013451	Others	116060220
+Sander_lucioperca	gnl3	ENSSLUG00000013454	Others	116067292
+Sander_lucioperca	snx6	ENSSLUG00000013493	Others	NA
+Sander_lucioperca	dvl2	ENSSLUG00000013613	Others	116048988
+Sander_lucioperca	naa15a	ENSSLUG00000013615	Others	116042180
+Sander_lucioperca	ercc2	ENSSLUG00000013628	Others	116053194
+Sander_lucioperca	chchd2	ENSSLUG00000013686	Coiled-coil	116047991
+Sander_lucioperca	ccdc85b	ENSSLUG00000013704	Coiled-coil	NA
+Sander_lucioperca	elp4	ENSSLUG00000013716	ELP	NA
+Sander_lucioperca	hira	ENSSLUG00000013734	Others	116054023
+Sander_lucioperca	nsd3	ENSSLUG00000013768	Nuclear receptor coactivator	NA
+Sander_lucioperca	pex14	ENSSLUG00000013774	Others	116041031
+Sander_lucioperca	abrab	ENSSLUG00000013779	Actin	NA
+Sander_lucioperca	med30	ENSSLUG00000013801	Mediator complex	116047250
+Sander_lucioperca	taf5l	ENSSLUG00000013839	TATA-box	NA
+Sander_lucioperca	rad21b	ENSSLUG00000013857	Others	116047254
+Sander_lucioperca	aip	ENSSLUG00000013907	Others	116052223
+Sander_lucioperca	ncoa2	ENSSLUG00000013911	Nuclear receptor coactivator	116037850
+Sander_lucioperca	kdm2bb	ENSSLUG00000013922	Lysine demethylase	NA
+Sander_lucioperca		ENSSLUG00000013967	Thyroid hormone receptor	116049030
+Sander_lucioperca	supt3h	ENSSLUG00000013970	SUPT	116061707
+Sander_lucioperca	gtf2f1	ENSSLUG00000013973	GTF	NA
+Sander_lucioperca	lmo1	ENSSLUG00000013978	LIM	116034012
+Sander_lucioperca	ascc2	ENSSLUG00000014017	ASCC	116054194
+Sander_lucioperca	DCAF1	ENSSLUG00000014032	Others	116062027
+Sander_lucioperca	ss18	ENSSLUG00000014054	SS18	116046058
+Sander_lucioperca	cdkn1bb	ENSSLUG00000014080	Cyclin	116038763
+Sander_lucioperca	drap1	ENSSLUG00000014110	Others	NA
+Sander_lucioperca	myo6b	ENSSLUG00000014112	Others	116035672
+Sander_lucioperca	sdr16c5a	ENSSLUG00000014121	Others	NA
+Sander_lucioperca	DDX5	ENSSLUG00000014125	RNA helicase	116043037
+Sander_lucioperca	vhl	ENSSLUG00000014158	Others	116041674
+Sander_lucioperca	MED9	ENSSLUG00000014188	Mediator complex	116059687
+Sander_lucioperca	eya1	ENSSLUG00000014195	EYA	116037983
+Sander_lucioperca	DGKQ	ENSSLUG00000014225	Others	NA
+Sander_lucioperca	pa2g4a	ENSSLUG00000014229	Others	116041507
+Sander_lucioperca	znf451	ENSSLUG00000014250	Zinc finger	116052615
+Sander_lucioperca	pnrc2	ENSSLUG00000014265	Others	116060832
+Sander_lucioperca		ENSSLUG00000014277	CHD	116049714
+Sander_lucioperca	fhl3a	ENSSLUG00000014332	FHL	116060949
+Sander_lucioperca	eaf2	ENSSLUG00000014376	Others	116034452
+Sander_lucioperca	ccnt2a	ENSSLUG00000014543	Cyclin	NA
+Sander_lucioperca	ino80b	ENSSLUG00000014672	INO80 complex	116053382
+Sander_lucioperca	arglu1a	ENSSLUG00000014676	Others	116043190
+Sander_lucioperca	rbfox2	ENSSLUG00000014730	Others	116040413
+Sander_lucioperca	gtf2a2	ENSSLUG00000014759	GTF	116056320
+Sander_lucioperca	egln2	ENSSLUG00000014761	Others	116047738
+Sander_lucioperca	mtpn	ENSSLUG00000014767	Others	116060107
+Sander_lucioperca	LRPPRC	ENSSLUG00000014809	Others	116056657
+Sander_lucioperca	cbx4	ENSSLUG00000014812	Chromobox	116059420
+Sander_lucioperca	brf2	ENSSLUG00000014856	GTF	116035116
+Sander_lucioperca	anxa4	ENSSLUG00000014878	Others	116035109
+Sander_lucioperca	dpy30	ENSSLUG00000014894	Others	NA
+Sander_lucioperca	ccnd1	ENSSLUG00000014920	Cyclin	116041081
+Sander_lucioperca	insrb	ENSSLUG00000014921	Others	116055274
+Sander_lucioperca	med1	ENSSLUG00000014932	Mediator complex	116061168
+Sander_lucioperca	ACTN4	ENSSLUG00000014943	Actin	116053189
+Sander_lucioperca	pdcd4b	ENSSLUG00000014954	Others	116042893
+Sander_lucioperca	dscama	ENSSLUG00000014967	Others	NA
+Sander_lucioperca	arrb1	ENSSLUG00000014978	Others	116057889
+Sander_lucioperca		ENSSLUG00000015031	Others	NA
+Sander_lucioperca	ddx54	ENSSLUG00000015044	RNA helicase	NA
+Sander_lucioperca	carm1	ENSSLUG00000015153	Others	NA
+Sander_lucioperca	sav1	ENSSLUG00000015162	Others	116057423
+Sander_lucioperca	med12	ENSSLUG00000015203	Mediator complex	NA
+Sander_lucioperca	ice2	ENSSLUG00000015252	GTF	116038668
+Sander_lucioperca	dhx9	ENSSLUG00000015267	RNA helicase	NA
+Sander_lucioperca	mybbp1a	ENSSLUG00000015365	MYB	116055967
+Sander_lucioperca	btk	ENSSLUG00000015374	Others	NA
+Sander_lucioperca	eloca	ENSSLUG00000015400	Others	116038009
+Sander_lucioperca	tab1	ENSSLUG00000015436	Others	116042689
+Sander_lucioperca	prmt8b	ENSSLUG00000015439	Arginine methyltransferase	116038609
+Sander_lucioperca	sfmbt2	ENSSLUG00000015720	Others	116050341
+Sander_lucioperca	tdg.1	ENSSLUG00000015734	Others	116046812
+Sander_lucioperca	rnf111	ENSSLUG00000015792	Ring finger protein	NA
+Sander_lucioperca	sltm	ENSSLUG00000015815	Others	NA
+Sander_lucioperca	sgf29	ENSSLUG00000015827	Others	116048178
+Sander_lucioperca	cnot9	ENSSLUG00000015860	CCR4-NOT	116053546
+Sander_lucioperca	abl1	ENSSLUG00000015925	Others	116035156
+Sander_lucioperca	xrn2	ENSSLUG00000015942	Others	116045374
+Sander_lucioperca	dcaf6	ENSSLUG00000015972	Others	116046491
+Sander_lucioperca	brwd1	ENSSLUG00000015979	Bromodomain	116043823
+Sander_lucioperca	rap2c	ENSSLUG00000015985	Others	116052360
+Sander_lucioperca	crtc3	ENSSLUG00000015988	CREB	NA
+Sander_lucioperca	jmjd6	ENSSLUG00000015993	Others	116048199
+Sander_lucioperca	dek	ENSSLUG00000016060	Other_CRF	116064583
+Sander_lucioperca	trim32	ENSSLUG00000016064	Tripartite motif	116054849
+Sander_lucioperca	axin1	ENSSLUG00000016116	Others	NA
+Sander_lucioperca	baz1b	ENSSLUG00000016192	Bromodomain	116045580
+Sander_lucioperca	cnot11	ENSSLUG00000016202	CCR4-NOT	116046592
+Sander_lucioperca	ss18l2	ENSSLUG00000016355	SS18	116037580
+Sander_lucioperca	skia	ENSSLUG00000016443	SKI	116058287
+Sander_lucioperca	ehmt2	ENSSLUG00000016446	Histone lysine methyltransferase	116047257
+Sander_lucioperca	nab1a	ENSSLUG00000016524	Others	NA
+Sander_lucioperca	med16	ENSSLUG00000016542	Mediator complex	116060752
+Sander_lucioperca	lgals9l3	ENSSLUG00000016567	Others	116041161
+Sander_lucioperca	nipbla	ENSSLUG00000016675	Others	116056624
+Sander_lucioperca	ctnnb1	ENSSLUG00000016827	Casein	116035276
+Sander_lucioperca	kdm1a	ENSSLUG00000016847	Lysine demethylase	116057633
+Sander_lucioperca	KCNIP3	ENSSLUG00000016877	Others	116054016
+Sander_lucioperca	ddx1	ENSSLUG00000016917	RNA helicase	NA
+Sander_lucioperca	polr2a	ENSSLUG00000016988	POLR	116049011
+Sander_lucioperca	hnrpkl	ENSSLUG00000017016	HNRNP	116062771
+Sander_lucioperca	ogt.1	ENSSLUG00000017060	Others	116064459
+Sander_lucioperca	trim37	ENSSLUG00000017094	Tripartite motif	116055968
+Sander_lucioperca	med24	ENSSLUG00000017095	Mediator complex	116044280
+Sander_lucioperca	taf3	ENSSLUG00000017151	TATA-box	116038481
+Sander_lucioperca	pak7	ENSSLUG00000017260	Others	116057949
+Sander_lucioperca	PCBD2	ENSSLUG00000017269	Others	116056052
+Sander_lucioperca	med17	ENSSLUG00000017389	Mediator complex	116053206
+Sander_lucioperca	chek2	ENSSLUG00000017525	Others	NA
+Sander_lucioperca	KDM5B	ENSSLUG00000017555	Lysine demethylase	116043576
+Sander_lucioperca	cep290	ENSSLUG00000017639	Others	NA
+Sander_lucioperca	taf6l	ENSSLUG00000017640	TATA-box	116043659
+Sander_lucioperca	KDM7A	ENSSLUG00000017653	Lysine demethylase	116060087
+Sander_lucioperca	taf9	ENSSLUG00000017685	TATA-box	116040086
+Sander_lucioperca	kmt2e	ENSSLUG00000017688	Lysine methyltransferase	NA
+Sander_lucioperca	nelfa	ENSSLUG00000017693	GTF	116043268
+Sander_lucioperca	picalma	ENSSLUG00000017750	Others	116058123
+Sander_lucioperca		ENSSLUG00000017758	Others	116043294
+Sander_lucioperca	traf6	ENSSLUG00000017786	Others	116043440
+Sander_lucioperca	smarca4a	ENSSLUG00000017847	SWI/SNF	116065485
+Sander_lucioperca	optn	ENSSLUG00000017927	Others	NA
+Sander_lucioperca		ENSSLUG00000017975	Others	NA
+Sander_lucioperca	fgfr2	ENSSLUG00000017997	FGF	116039340
+Sander_lucioperca	nudt5	ENSSLUG00000018003	Other_CRF	NA
+Sander_lucioperca	dyrk1b	ENSSLUG00000018006	Others	NA
+Sander_lucioperca	TLE3	ENSSLUG00000018010	Transducin	116043495
+Sander_lucioperca	hcls1	ENSSLUG00000018043	Others	116060073
+Sander_lucioperca	cidec	ENSSLUG00000018069	Others	NA
+Sander_lucioperca	si:ch73-21k16.1	ENSSLUG00000018121	LPIN	116066043
+Sander_lucioperca		ENSSLUG00000018147	Others	116034580
+Sander_lucioperca	med7	ENSSLUG00000018216	Mediator complex	NA
+Sander_lucioperca	dcc	ENSSLUG00000018221	Others	NA
+Sander_lucioperca		ENSSLUG00000018241	FAM	NA
+Sander_lucioperca	taf1b	ENSSLUG00000018279	TATA-box	NA
+Sander_lucioperca		ENSSLUG00000018287	Coiled-coil	116051040
+Sander_lucioperca		ENSSLUG00000018309	Casein	NA
+Sander_lucioperca	ehmt1b	ENSSLUG00000018320	Histone lysine methyltransferase	NA
+Sander_lucioperca	ezh2	ENSSLUG00000018338	Others	116053723
+Sander_lucioperca	cnot10	ENSSLUG00000018488	CCR4-NOT	116066627
+Sander_lucioperca	trak1a	ENSSLUG00000018498	Others	116035300
+Sander_lucioperca	tgfbr3	ENSSLUG00000018505	Others	116063307
+Sander_lucioperca	nsmce4a	ENSSLUG00000018542	EID	NA
+Sander_lucioperca	YWHAB	ENSSLUG00000018564	Others	116047774
+Sander_lucioperca		ENSSLUG00000018569	Others	NA
+Sander_lucioperca	phf12b	ENSSLUG00000018608	PHF	116059053
+Sander_lucioperca		ENSSLUG00000018706	Other_CRF	NA
+Sander_lucioperca	nlk2	ENSSLUG00000018737	Others	NA
+Sander_lucioperca	med25	ENSSLUG00000018887	Mediator complex	116063946
+Sander_lucioperca	kmt5c	ENSSLUG00000018976	Lysine methyltransferase	NA
+Sander_lucioperca		ENSSLUG00000019045	Others	NA
+Sander_lucioperca	ccnc	ENSSLUG00000019065	Cyclin	NA
+Sander_lucioperca	dnajb1a	ENSSLUG00000019087	Others	116059459
+Sander_lucioperca	ash2l	ENSSLUG00000019100	Others	116041784
+Sander_lucioperca	lmcd1	ENSSLUG00000019127	LIM	116047785
+Sander_lucioperca	prdx5	ENSSLUG00000019199	Others	116058270
+Sander_lucioperca		ENSSLUG00000019208	Others	116055194
+Sander_lucioperca	sfr1	ENSSLUG00000019282	Others	NA
+Sander_lucioperca	med4	ENSSLUG00000019285	Mediator complex	116067594
+Sander_lucioperca	med23	ENSSLUG00000019287	Mediator complex	116066128
+Sander_lucioperca	dnaja3a	ENSSLUG00000019308	Others	NA
+Sander_lucioperca	tada3l	ENSSLUG00000019358	Transcriptional adaptor	116035509
+Sander_lucioperca	taf4a	ENSSLUG00000019391	TATA-box	NA
+Sander_lucioperca	dmap1	ENSSLUG00000019394	DNA_methylase	116055403
+Sander_lucioperca	rnf10	ENSSLUG00000019446	Ring finger protein	116050579
+Sander_lucioperca	vgll2a	ENSSLUG00000019451	Vestigial like	NA
+Sander_lucioperca	syk	ENSSLUG00000019466	Others	116037999
+Sander_lucioperca	brd3a	ENSSLUG00000019473	Bromodomain	116050514
+Sander_lucioperca	gps2	ENSSLUG00000019476	Others	116049039
+Sander_lucioperca	tnksb	ENSSLUG00000019568	Others	116050620
+Sander_lucioperca	DUSP26	ENSSLUG00000019608	Others	116041866
+Sander_lucioperca	trim16	ENSSLUG00000019618	Tripartite motif	NA
+Sander_lucioperca	brd7	ENSSLUG00000019658	Bromodomain	116037619
+Sander_lucioperca	nod2	ENSSLUG00000019680	Others	116037641
+Sander_lucioperca	wdr61	ENSSLUG00000019689	WD	116062062
+Sander_lucioperca		ENSSLUG00000019696	Tripartite motif	NA
+Sander_lucioperca	pim1	ENSSLUG00000019715	Others	116040887
+Sander_lucioperca	setd1a	ENSSLUG00000019723	SET	116063825
+Sander_lucioperca	tprb	ENSSLUG00000019733	Others	NA
+Sander_lucioperca	TENM2	ENSSLUG00000019737	Others	NA
+Sander_lucioperca	sin3aa	ENSSLUG00000019802	Other_CRF	NA
+Sander_lucioperca		ENSSLUG00000019991	Others	NA
+Sander_lucioperca	rfxap	ENSSLUG00000020021	Others	116037130
+Sander_lucioperca	dpf1	ENSSLUG00000020024	DPF	NA
+Sander_lucioperca	cdk13	ENSSLUG00000020033	Cyclin	116048587
+Sander_lucioperca	HYAL2	ENSSLUG00000020051	Others	116051546
+Sander_lucioperca	rbbp5	ENSSLUG00000020059	RBBP	116047804
+Sander_lucioperca	SMARCA2	ENSSLUG00000020089	SWI/SNF	NA
+Sander_lucioperca	rnf8	ENSSLUG00000020223	Ring finger protein	116066434
+Sander_lucioperca	ddx20	ENSSLUG00000020230	RNA helicase	116062019
+Sander_lucioperca	rrn3	ENSSLUG00000020231	Others	116045038
+Sander_lucioperca	supt20	ENSSLUG00000020244	SUPT	NA
+Sander_lucioperca	psen1	ENSSLUG00000020246	Others	NA
+Sander_lucioperca	ufl1	ENSSLUG00000020261	Others	116040353
+Sander_lucioperca	macroh2a2	ENSSLUG00000020292	Others	116050377
+Sander_lucioperca	frk	ENSSLUG00000020340	Others	116040356
+Sander_lucioperca	cdk9	ENSSLUG00000020382	Cyclin	116041400
+Sander_lucioperca	phf20a	ENSSLUG00000020439	PHF	116035773
+Sander_lucioperca	kdm2ab	ENSSLUG00000020445	Lysine demethylase	116052404
+Sander_lucioperca	atrx	ENSSLUG00000020556	Others	NA
+Sander_lucioperca	phf21ab	ENSSLUG00000020630	PHF	NA
+Sander_lucioperca	TGFB1I1	ENSSLUG00000020631	Others	116061347
+Sander_lucioperca	actr6	ENSSLUG00000020678	ACTR	116059850
+Sander_lucioperca	strn3	ENSSLUG00000020687	Others	NA
+Sander_lucioperca	pabpc1l	ENSSLUG00000020743	Other_CRF	116062209
+Sander_lucioperca	rnf141	ENSSLUG00000020744	Ring finger protein	116046842
+Sander_lucioperca	hdac11	ENSSLUG00000020749	Histone deacetylase	116037079
+Sander_lucioperca	DDX39A	ENSSLUG00000020763	RNA helicase	116046744
+Sander_lucioperca	hspa8b	ENSSLUG00000020839	Heat shock protein	116047557
+Sander_lucioperca	ercc3	ENSSLUG00000020847	Others	116054719
+Sander_lucioperca	bmi1a	ENSSLUG00000020892	Others	NA
+Sander_lucioperca	bcl3	ENSSLUG00000020925	BCL	116042626
+Sander_lucioperca	rnf6	ENSSLUG00000020940	Ring finger protein	NA
+Sander_lucioperca	cdk8	ENSSLUG00000020959	Cyclin	NA
+Sander_lucioperca	rbm39b	ENSSLUG00000020976	RNA binding protein	116062210
+Sander_lucioperca	tdrd3	ENSSLUG00000020979	Others	116054628
+Sander_lucioperca	gsk3bb	ENSSLUG00000020985	Others	116046905
+Sander_lucioperca	pagr1	ENSSLUG00000021044	Others	116061173
+Sander_lucioperca	tonsl	ENSSLUG00000021072	Others	NA
+Sander_lucioperca	ran	ENSSLUG00000021148	Others	116052408
+Sander_lucioperca	taf12	ENSSLUG00000021246	TATA-box	NA
+Sander_lucioperca	dr1	ENSSLUG00000021252	Others	116063426
+Sander_lucioperca	nif3l1	ENSSLUG00000021295	Others	116061560
+Sander_lucioperca	tob1b	ENSSLUG00000021318	Others	116044108
+Sander_lucioperca	SCMH1	ENSSLUG00000021332	Others	116042856
+Sander_lucioperca	med8	ENSSLUG00000021351	Mediator complex	116063446
+Sander_lucioperca	top1l	ENSSLUG00000021371	Other_CRF	116035897
+Sander_lucioperca	aatf	ENSSLUG00000021376	Others	116063213
+Sander_lucioperca	med18	ENSSLUG00000021413	Mediator complex	116042892
+Sander_lucioperca	med11	ENSSLUG00000021424	Mediator complex	116044047
+Sander_lucioperca	cavin1b	ENSSLUG00000021427	Others	116067491
+Sander_lucioperca	pelp1	ENSSLUG00000021431	Others	NA
+Sander_lucioperca	taf8	ENSSLUG00000021442	TATA-box	116043680
+Sander_lucioperca	birc5a	ENSSLUG00000021488	Others	116044330
+Sander_lucioperca		ENSSLUG00000021538	Others	NA
+Sander_lucioperca	zgc:162255	ENSSLUG00000021546	Other_CRF	NA
+Sander_lucioperca	sap30bp	ENSSLUG00000021555	SAP	116044092
+Sander_lucioperca	ing3	ENSSLUG00000021599	ING	116058447
+Sander_lucioperca	ccar1	ENSSLUG00000021681	Others	NA
+Sander_lucioperca	chaf1b	ENSSLUG00000021711	Others	116047189
+Sander_lucioperca	rbbp4	ENSSLUG00000021768	RBBP	116041270
+Sander_lucioperca	tp53bp1	ENSSLUG00000021791	Others	116067265
+Sander_lucioperca		ENSSLUG00000021831	RBBP	116046313
+Sander_lucioperca	hcfc1a	ENSSLUG00000021854	Others	NA
+Sander_lucioperca	jmjd1cb	ENSSLUG00000021886	Other_CRF	116067546
+Sander_lucioperca	waca	ENSSLUG00000021887	WW	NA
+Sander_lucioperca	nrbf2b	ENSSLUG00000021906	Nuclear receptor coactivator	116067441
+Sander_lucioperca		ENSSLUG00000021911	CHD	NA
+Sander_lucioperca	tbpl2	ENSSLUG00000021915	TATA-box	NA
+Sander_lucioperca	lancl2	ENSSLUG00000021934	Others	116064986
+Sander_lucioperca	setd7	ENSSLUG00000021946	SET	116064266
+Sander_lucioperca		ENSSLUG00000021962	Ring finger protein	116060831
+Sander_lucioperca	sqstm1	ENSSLUG00000021965	Others	116060829
+Sander_lucioperca	setd3	ENSSLUG00000021978	SET	NA
+Sander_lucioperca	elp2	ENSSLUG00000021982	ELP	116066975
+Sander_lucioperca	pid1	ENSSLUG00000021989	Others	116045585
+Sander_lucioperca	crym	ENSSLUG00000021990	Others	116044234
+Sander_lucioperca	RING1	ENSSLUG00000022024	Ring finger protein	116051695
+Sander_lucioperca	cxxc1a	ENSSLUG00000022049	Others	116036013
+Sander_lucioperca	eny2	ENSSLUG00000022061	Others	116066613
+Sander_lucioperca	wbp2	ENSSLUG00000022103	WW	116044094
+Sander_lucioperca		ENSSLUG00000022143	Zinc finger	116047102
+Sander_lucioperca	cops2	ENSSLUG00000022151	Others	116054680
+Sander_lucioperca	sirt2	ENSSLUG00000022155	Sirtuin	116038962
+Sander_lucioperca	cdk7	ENSSLUG00000022205	Cyclin	116056873
+Sander_lucioperca	tescb	ENSSLUG00000022213	Others	116035129
+Sander_lucioperca	prmt6	ENSSLUG00000022219	Arginine methyltransferase	NA
+Sander_lucioperca	dact1	ENSSLUG00000022308	Others	NA
+Sander_lucioperca		ENSSLUG00000022378	Zinc finger	NA
+Sander_lucioperca	mycbp	ENSSLUG00000022422	MYC	116047124
+Sander_lucioperca	chchd6a	ENSSLUG00000022471	Coiled-coil	116040752
+Sander_lucioperca	jade1	ENSSLUG00000022478	Others	116036790
+Sander_lucioperca	hdac7a	ENSSLUG00000022517	Histone deacetylase	116040728
+Sander_lucioperca	xiap	ENSSLUG00000022535	Others	116036580
+Sander_lucioperca	rhoab	ENSSLUG00000022648	Others	NA
+Sander_lucioperca	hells	ENSSLUG00000022754	Others	116053602
+Sander_lucioperca	PER2	ENSSLUG00000022765	Others	NA
+Sander_lucioperca	si:ch211-219a4.3	ENSSLUG00000022790	PARP	NA
+Sander_lucioperca	smyd1b	ENSSLUG00000022865	SMYD	116053969
+Sander_lucioperca	CTBP1	ENSSLUG00000022877	Others	116052255
+Sander_lucioperca	banp	ENSSLUG00000022881	Others	116062235
+Sander_lucioperca	tle5	ENSSLUG00000022902	Others	116055442
+Sander_lucioperca	KDM1B	ENSSLUG00000023030	Lysine demethylase	NA
+Sander_lucioperca	ndnl2	ENSSLUG00000023043	MAGE	116060431
+Sander_lucioperca	safb	ENSSLUG00000023053	Others	116055290
+Sander_lucioperca	med21	ENSSLUG00000023056	Mediator complex	116054755
+Sander_lucioperca	SPEN	ENSSLUG00000023079	Others	NA
+Sander_lucioperca	lrrk2	ENSSLUG00000023145	Other_CRF	NA
+Sander_lucioperca	taf7	ENSSLUG00000023166	TATA-box	116052326
+Sander_lucioperca	TADA1	ENSSLUG00000023270	Transcriptional adaptor	NA
+Sander_lucioperca	suds3	ENSSLUG00000023330	Other_Co-activator/repressors	116054085
+Sander_lucioperca	cbx5	ENSSLUG00000023364	Chromobox	116038529
+Sander_lucioperca	rbmx	ENSSLUG00000023393	RNA binding protein	NA
+Sander_lucioperca	calcoco1a	ENSSLUG00000023406	Others	NA
+Sander_lucioperca	cdk1	ENSSLUG00000023513	Cyclin	116053605
+Sander_lucioperca	si:dkey-21c19.3	ENSSLUG00000023531	Others	116038705
+Sander_lucioperca	rasd1	ENSSLUG00000023565	Others	116046885
+Sander_lucioperca	suv39h1a	ENSSLUG00000023570	Others	NA
+Sander_lucioperca	TOB2	ENSSLUG00000023597	Others	116065422
+Sander_lucioperca	oxr1b	ENSSLUG00000023661	Nuclear receptor coactivator	116066531
+Sander_lucioperca	dvl3a	ENSSLUG00000023682	Others	116037244
+Sander_lucioperca		ENSSLUG00000023717	Others	116060552
+Sander_lucioperca	edrf1	ENSSLUG00000023739	Others	116055525
+Sander_lucioperca	pfdn5	ENSSLUG00000023867	Others	116065585
+Sander_lucioperca	tnni1b	ENSSLUG00000023922	Others	NA
+Sander_lucioperca	hdac5	ENSSLUG00000023934	Histone deacetylase	NA
+Sander_lucioperca	med10	ENSSLUG00000023977	Mediator complex	116041307
+Sander_lucioperca		ENSSLUG00000024016	Others	116055553
+Sander_lucioperca	tradd	ENSSLUG00000024044	Others	116060649
+Sander_lucioperca		ENSSLUG00000024082	Sirtuin	116039388
+Sander_lucioperca	tgfb1a	ENSSLUG00000024085	Others	116039943
+Sander_lucioperca	ino80e	ENSSLUG00000024114	INO80 complex	116049749
+Sander_lucioperca	tsg101a	ENSSLUG00000024123	Others	116038739
+Sander_lucioperca	ankra2	ENSSLUG00000024202	Ankyrin repeat	116063051
+Sander_lucioperca	btf3	ENSSLUG00000024208	Others	116063052
+Sander_lucioperca	thoc5	ENSSLUG00000024224	Others	116056654
+Sander_lucioperca	mrgbp	ENSSLUG00000024229	Others	116045509
+Sander_lucioperca	aurkb	ENSSLUG00000024250	Others	116052535
+Sander_lucioperca	slc30a9	ENSSLUG00000024397	SLC	116052583
+Sander_lucioperca	camk2d2	ENSSLUG00000024418	CAMK	116040540
+Sander_lucioperca	lin9	ENSSLUG00000024496	Others	116066259
+Sander_lucioperca	rnf14	ENSSLUG00000024503	Ring finger protein	116036978
+Sander_lucioperca	FLNB	ENSSLUG00000024515	Others	NA
+Sander_lucioperca		ENSSLUG00000024543	Others	116045918
+Sander_lucioperca	ccne1	ENSSLUG00000024577	Cyclin	116043767
+Sander_lucioperca	btaf1	ENSSLUG00000024588	Others	116047859
+Sander_lucioperca	padi2	ENSSLUG00000024676	Other_CRF	116051495
+Sander_lucioperca	vgll3	ENSSLUG00000024734	Vestigial like	116037810
+Sander_lucioperca	HMOX1	ENSSLUG00000024735	Others	116040474
+Sander_lucioperca	kdm5a	ENSSLUG00000024741	Lysine demethylase	NA
+Sander_lucioperca	taf11	ENSSLUG00000024762	TATA-box	116062201
+Sander_lucioperca	skila	ENSSLUG00000024851	SKI	NA
+Sander_lucioperca	hif1an	ENSSLUG00000024867	Others	NA
+Sander_lucioperca	ralyl	ENSSLUG00000024923	Others	116045930
+Sander_lucioperca	uxt	ENSSLUG00000024941	Others	116045516
+Sander_lucioperca	suz12b	ENSSLUG00000024974	Others	NA
+Sander_lucioperca	creg1	ENSSLUG00000024997	Others	116064655
+Sander_lucioperca	tenm1	ENSSLUG00000025030	Others	NA
+Sander_lucioperca	brd1a	ENSSLUG00000025066	Bromodomain	116039831
+Sander_lucioperca		ENSSLUG00000025067	RNA helicase	116057208
+Sander_lucioperca	zmynd11	ENSSLUG00000025156	Zinc finger	NA
+Sander_lucioperca	nono	ENSSLUG00000025191	Others	116057262
+Sander_lucioperca	chd1l	ENSSLUG00000025205	CHD	116058736
+Sander_lucioperca	SAMD4B	ENSSLUG00000025291	Others	116041116
+Sander_lucioperca	utp4	ENSSLUG00000025316	Others	NA
+Sander_lucioperca	paf1	ENSSLUG00000025323	Others	116041134
+Sander_lucioperca	chd7	ENSSLUG00000025341	CHD	NA
+Sander_lucioperca		ENSSLUG00000025379	Others	116045238
+Sander_lucioperca	hsbp1b	ENSSLUG00000025392	Heat shock protein	116053815
+Sander_lucioperca	MSL3	ENSSLUG00000025460	Others	116044638
+Sander_lucioperca	hltf	ENSSLUG00000025474	Others	116057378
+Sander_lucioperca		ENSSLUG00000025497	Others	116042769
+Sander_lucioperca	leo1	ENSSLUG00000025525	Others	NA
+Sander_lucioperca		ENSSLUG00000025548	Others	NA
+Sander_lucioperca	cthl	ENSSLUG00000025621	Others	NA
+Sander_lucioperca	taf1	ENSSLUG00000025647	TATA-box	NA
+Sander_lucioperca	cnot7	ENSSLUG00000025658	CCR4-NOT	116036476
+Sander_lucioperca	bcas3	ENSSLUG00000025663	Others	116040151
+Sander_lucioperca	pspc1	ENSSLUG00000025685	Others	116044579
+Sander_lucioperca	brip1	ENSSLUG00000025703	Others	NA
+Sander_lucioperca	rb1	ENSSLUG00000025730	Other_Co-activator/repressors	NA
+Sander_lucioperca	mtor	ENSSLUG00000025759	Others	116040665
+Sander_lucioperca	mms19	ENSSLUG00000025769	Others	116048719
+Sander_lucioperca	trak2	ENSSLUG00000025815	Others	116044569
+Sander_lucioperca	trim33	ENSSLUG00000025816	Tripartite motif	116040768
+Sander_lucioperca	mrtfab	ENSSLUG00000025895	Others	NA
+Sander_lucioperca	sap18	ENSSLUG00000025904	SAP	116044607
+Sander_lucioperca	xrcc6	ENSSLUG00000025907	Others	116048728
+Sander_lucioperca	phf5a	ENSSLUG00000025933	PHF	116048752
+Sander_lucioperca		ENSSLUG00000026010	NFKB associated	NA
+Sander_lucioperca	CSNK2A2	ENSSLUG00000026027	Casein	116057803

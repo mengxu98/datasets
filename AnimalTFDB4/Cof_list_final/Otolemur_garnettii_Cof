@@ -1,0 +1,913 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Otolemur_garnettii	THRSP	ENSOGAG00000000005	Others	NA
+Otolemur_garnettii	CBX7	ENSOGAG00000000029	Chromobox	NA
+Otolemur_garnettii	TAB1	ENSOGAG00000000035	Others	NA
+Otolemur_garnettii	LPXN	ENSOGAG00000000109	Others	NA
+Otolemur_garnettii	TP53BP1	ENSOGAG00000000130	Others	100942301
+Otolemur_garnettii	EHMT1	ENSOGAG00000000134	Histone lysine methyltransferase	NA
+Otolemur_garnettii	SIN3A	ENSOGAG00000000155	Other_CRF	NA
+Otolemur_garnettii	TXNIP	ENSOGAG00000000199	Others	NA
+Otolemur_garnettii	POLR3C	ENSOGAG00000000209	POLR	100958087
+Otolemur_garnettii	SUDS3	ENSOGAG00000000226	Other_Co-activator/repressors	NA
+Otolemur_garnettii	ELP3	ENSOGAG00000000230	ELP	NA
+Otolemur_garnettii	MYCBP2	ENSOGAG00000000251	MYC	100965082
+Otolemur_garnettii	AIM2	ENSOGAG00000000264	Others	NA
+Otolemur_garnettii	KDM5A	ENSOGAG00000000312	Lysine demethylase	NA
+Otolemur_garnettii	TNIP1	ENSOGAG00000000344	Others	NA
+Otolemur_garnettii	CDC73	ENSOGAG00000000351	Others	NA
+Otolemur_garnettii	ANKRA2	ENSOGAG00000000386	Ankyrin repeat	NA
+Otolemur_garnettii	MBTD1	ENSOGAG00000000409	Others	NA
+Otolemur_garnettii	EP300	ENSOGAG00000000423	Others	NA
+Otolemur_garnettii	L3MBTL2	ENSOGAG00000000428	Others	NA
+Otolemur_garnettii	EZR	ENSOGAG00000000499	Others	NA
+Otolemur_garnettii	SLC30A9	ENSOGAG00000000501	SLC	NA
+Otolemur_garnettii	SDR16C5	ENSOGAG00000000538	Others	NA
+Otolemur_garnettii	SETD6	ENSOGAG00000000542	SET	100952196
+Otolemur_garnettii	CNOT1	ENSOGAG00000000543	CCR4-NOT	100951884
+Otolemur_garnettii	HDAC3	ENSOGAG00000000605	Histone deacetylase	NA
+Otolemur_garnettii	TRRAP	ENSOGAG00000000643	Others	NA
+Otolemur_garnettii	NAB1	ENSOGAG00000000644	Others	NA
+Otolemur_garnettii	NOL11	ENSOGAG00000000668	Nuclear coactivator	100966869
+Otolemur_garnettii	ZNF451	ENSOGAG00000000673	Zinc finger	NA
+Otolemur_garnettii	PAXIP1	ENSOGAG00000000702	Others	NA
+Otolemur_garnettii	GTF2H1	ENSOGAG00000000710	GTF	100944018
+Otolemur_garnettii	ACTN2	ENSOGAG00000000729	Actin	NA
+Otolemur_garnettii	S100A8	ENSOGAG00000000745	Others	NA
+Otolemur_garnettii	CTNND1	ENSOGAG00000000780	Casein	NA
+Otolemur_garnettii	EAF2	ENSOGAG00000000793	Others	NA
+Otolemur_garnettii		ENSOGAG00000000830	Others	NA
+Otolemur_garnettii		ENSOGAG00000000881	Lysine demethylase	NA
+Otolemur_garnettii	CDYL2	ENSOGAG00000000906	Chromodomain Y	NA
+Otolemur_garnettii		ENSOGAG00000000927	Others	NA
+Otolemur_garnettii	DEPDC1	ENSOGAG00000000934	Others	100948990
+Otolemur_garnettii	LRRK2	ENSOGAG00000000943	Other_CRF	100952425
+Otolemur_garnettii	ACTR5	ENSOGAG00000000948	ACTR	NA
+Otolemur_garnettii	BRDT	ENSOGAG00000001001	Bromodomain	NA
+Otolemur_garnettii	PCGF1	ENSOGAG00000001064	PCGF	100966793
+Otolemur_garnettii	XRN2	ENSOGAG00000001068	Others	100942230
+Otolemur_garnettii	CCNC	ENSOGAG00000001116	Cyclin	100953388
+Otolemur_garnettii	CENPF	ENSOGAG00000001123	CENP	100951736
+Otolemur_garnettii		ENSOGAG00000001143	Others	NA
+Otolemur_garnettii	ZNF638	ENSOGAG00000001152	Zinc finger	100956610
+Otolemur_garnettii	KAT6A	ENSOGAG00000001161	Lysine acetyltransferase	NA
+Otolemur_garnettii	KDM4A	ENSOGAG00000001169	Lysine demethylase	NA
+Otolemur_garnettii	SERTAD3	ENSOGAG00000001181	Others	NA
+Otolemur_garnettii	PCGF5	ENSOGAG00000001187	PCGF	NA
+Otolemur_garnettii	RNF168	ENSOGAG00000001195	Ring finger protein	100965522
+Otolemur_garnettii	CRY1	ENSOGAG00000001213	Others	NA
+Otolemur_garnettii	GRIP1	ENSOGAG00000001224	Others	NA
+Otolemur_garnettii	DNMT1	ENSOGAG00000001265	DNA_methylase	NA
+Otolemur_garnettii	EGLN2	ENSOGAG00000001277	Others	NA
+Otolemur_garnettii	LOXL2	ENSOGAG00000001292	Others	NA
+Otolemur_garnettii	MED9	ENSOGAG00000001294	Mediator complex	NA
+Otolemur_garnettii	KCNIP3	ENSOGAG00000001296	Others	NA
+Otolemur_garnettii	RASD1	ENSOGAG00000001297	Others	NA
+Otolemur_garnettii	MED6	ENSOGAG00000001311	Mediator complex	NA
+Otolemur_garnettii	LPIN2	ENSOGAG00000001326	LPIN	NA
+Otolemur_garnettii	RECQL5	ENSOGAG00000001457	Others	NA
+Otolemur_garnettii	SAP30BP	ENSOGAG00000001462	SAP	NA
+Otolemur_garnettii	TCEAL2	ENSOGAG00000001471	TEF	NA
+Otolemur_garnettii	PRMT8	ENSOGAG00000001496	Arginine methyltransferase	NA
+Otolemur_garnettii	PA2G4	ENSOGAG00000001510	Others	NA
+Otolemur_garnettii	DDX17	ENSOGAG00000001539	RNA helicase	100947511
+Otolemur_garnettii	TPR	ENSOGAG00000001609	Others	NA
+Otolemur_garnettii	C1QBP	ENSOGAG00000001610	Others	NA
+Otolemur_garnettii	DHX33	ENSOGAG00000001611	RNA helicase	NA
+Otolemur_garnettii		ENSOGAG00000001653	MBD	100942276
+Otolemur_garnettii	SIRT6	ENSOGAG00000001660	Sirtuin	NA
+Otolemur_garnettii	ACTR6	ENSOGAG00000001741	ACTR	NA
+Otolemur_garnettii	ASCC2	ENSOGAG00000001754	ASCC	NA
+Otolemur_garnettii	RNF141	ENSOGAG00000001765	Ring finger protein	NA
+Otolemur_garnettii	CDK5	ENSOGAG00000001775	Cyclin	NA
+Otolemur_garnettii	PARP9	ENSOGAG00000001801	PARP	NA
+Otolemur_garnettii	PARP15	ENSOGAG00000001802	PARP	NA
+Otolemur_garnettii	EFCAB6	ENSOGAG00000001818	Others	100948044
+Otolemur_garnettii	CHEK1	ENSOGAG00000001845	Others	NA
+Otolemur_garnettii	MED8	ENSOGAG00000001865	Mediator complex	NA
+Otolemur_garnettii	WBP2	ENSOGAG00000001934	WW	NA
+Otolemur_garnettii	AURKB	ENSOGAG00000001967	Others	NA
+Otolemur_garnettii	KANK1	ENSOGAG00000001985	Others	NA
+Otolemur_garnettii	BTAF1	ENSOGAG00000001995	Others	NA
+Otolemur_garnettii	DCAF1	ENSOGAG00000001997	Others	NA
+Otolemur_garnettii	MTDH	ENSOGAG00000002065	Others	100940876
+Otolemur_garnettii	CHD9	ENSOGAG00000002110	CHD	100962791
+Otolemur_garnettii	ERBIN	ENSOGAG00000002131	Erbb2	NA
+Otolemur_garnettii	JMY	ENSOGAG00000002137	Others	NA
+Otolemur_garnettii	PHF8	ENSOGAG00000002148	PHF	NA
+Otolemur_garnettii	SQSTM1	ENSOGAG00000002151	Others	NA
+Otolemur_garnettii	KDM1A	ENSOGAG00000002158	Lysine demethylase	NA
+Otolemur_garnettii	PSIP1	ENSOGAG00000002179	Others	NA
+Otolemur_garnettii		ENSOGAG00000002201	Others	100942670
+Otolemur_garnettii	BAZ1A	ENSOGAG00000002234	Bromodomain	100950424
+Otolemur_garnettii	LEO1	ENSOGAG00000002254	Others	100953305
+Otolemur_garnettii	CREBBP	ENSOGAG00000002312	CREB	NA
+Otolemur_garnettii	BAZ1B	ENSOGAG00000002371	Bromodomain	NA
+Otolemur_garnettii	TARBP1	ENSOGAG00000002379	Others	NA
+Otolemur_garnettii	RWDD3	ENSOGAG00000002405	Others	NA
+Otolemur_garnettii	LPIN3	ENSOGAG00000002422	LPIN	NA
+Otolemur_garnettii	CHD6	ENSOGAG00000002427	CHD	NA
+Otolemur_garnettii	MTF2	ENSOGAG00000002432	Others	NA
+Otolemur_garnettii	LDB2	ENSOGAG00000002455	LIM	NA
+Otolemur_garnettii	RSF1	ENSOGAG00000002473	Others	NA
+Otolemur_garnettii	LIN54	ENSOGAG00000002512	Others	NA
+Otolemur_garnettii		ENSOGAG00000002521	TATA-box	NA
+Otolemur_garnettii		ENSOGAG00000002525	Mediator complex	NA
+Otolemur_garnettii	RRN3	ENSOGAG00000002540	Others	NA
+Otolemur_garnettii	HCFC2	ENSOGAG00000002576	Others	NA
+Otolemur_garnettii	DHX9	ENSOGAG00000002620	RNA helicase	100953959
+Otolemur_garnettii	THRAP3	ENSOGAG00000002648	Thyroid hormone receptor	NA
+Otolemur_garnettii		ENSOGAG00000002709	Casein	NA
+Otolemur_garnettii	EP400	ENSOGAG00000002714	Others	NA
+Otolemur_garnettii	CHD8	ENSOGAG00000002722	CHD	100961087
+Otolemur_garnettii	RFXAP	ENSOGAG00000002740	Others	NA
+Otolemur_garnettii	SUPT20H	ENSOGAG00000002746	SUPT	NA
+Otolemur_garnettii	NMI	ENSOGAG00000002762	Others	NA
+Otolemur_garnettii	APBB1	ENSOGAG00000002781	Others	NA
+Otolemur_garnettii		ENSOGAG00000002870	Others	NA
+Otolemur_garnettii	YAP1	ENSOGAG00000002885	Others	NA
+Otolemur_garnettii	POLR3F	ENSOGAG00000002916	POLR	NA
+Otolemur_garnettii	PHIP	ENSOGAG00000002923	Others	100958840
+Otolemur_garnettii	FAM83G	ENSOGAG00000002938	FAM	100961955
+Otolemur_garnettii	MED12L	ENSOGAG00000002947	Mediator complex	NA
+Otolemur_garnettii	SIAH2	ENSOGAG00000002961	Others	NA
+Otolemur_garnettii	INSR	ENSOGAG00000002968	Others	100962237
+Otolemur_garnettii	TAF1A	ENSOGAG00000003011	TATA-box	NA
+Otolemur_garnettii	PELP1	ENSOGAG00000003019	Others	NA
+Otolemur_garnettii	FBP1	ENSOGAG00000003020	Others	NA
+Otolemur_garnettii		ENSOGAG00000003024	TATA-box	NA
+Otolemur_garnettii		ENSOGAG00000003058	ANP	NA
+Otolemur_garnettii	DCAF6	ENSOGAG00000003131	Others	NA
+Otolemur_garnettii	RAP2C	ENSOGAG00000003141	Others	NA
+Otolemur_garnettii		ENSOGAG00000003142	Others	NA
+Otolemur_garnettii	SS18	ENSOGAG00000003180	SS18	NA
+Otolemur_garnettii	KDM6B	ENSOGAG00000003207	Lysine demethylase	NA
+Otolemur_garnettii	SFMBT2	ENSOGAG00000003211	Others	NA
+Otolemur_garnettii	CHD3	ENSOGAG00000003216	CHD	100961224
+Otolemur_garnettii	MRTFA	ENSOGAG00000003217	Others	NA
+Otolemur_garnettii	RAF1	ENSOGAG00000003256	Others	NA
+Otolemur_garnettii	CSNK2A2	ENSOGAG00000003278	Casein	NA
+Otolemur_garnettii	PIR	ENSOGAG00000003304	Others	NA
+Otolemur_garnettii	PPID	ENSOGAG00000003317	Others	NA
+Otolemur_garnettii	NLK	ENSOGAG00000003321	Others	NA
+Otolemur_garnettii	SETD3	ENSOGAG00000003404	SET	NA
+Otolemur_garnettii	CCNK	ENSOGAG00000003409	Cyclin	NA
+Otolemur_garnettii	H2AZ1	ENSOGAG00000003419	Others	100960197
+Otolemur_garnettii	PDLIM1	ENSOGAG00000003461	Others	NA
+Otolemur_garnettii	ECD	ENSOGAG00000003488	Others	NA
+Otolemur_garnettii	RNF14	ENSOGAG00000003535	Ring finger protein	NA
+Otolemur_garnettii	BCL9	ENSOGAG00000003597	BCL	NA
+Otolemur_garnettii	CALCOCO1	ENSOGAG00000003612	Others	NA
+Otolemur_garnettii	PPIE	ENSOGAG00000003620	Others	NA
+Otolemur_garnettii	TRIM8	ENSOGAG00000003628	Tripartite motif	NA
+Otolemur_garnettii		ENSOGAG00000003651	Lysine demethylase	NA
+Otolemur_garnettii	DOT1L	ENSOGAG00000003711	Others	NA
+Otolemur_garnettii	NFKBIA	ENSOGAG00000003716	NFKB associated	NA
+Otolemur_garnettii	CDKN1B	ENSOGAG00000003749	Cyclin	NA
+Otolemur_garnettii	ERN1	ENSOGAG00000003863	Others	NA
+Otolemur_garnettii	TRIM25	ENSOGAG00000003870	Tripartite motif	NA
+Otolemur_garnettii	KMT5C	ENSOGAG00000003914	Lysine methyltransferase	NA
+Otolemur_garnettii	CHEK2	ENSOGAG00000003966	Others	NA
+Otolemur_garnettii	TONSL	ENSOGAG00000004000	Others	100960341
+Otolemur_garnettii	ENO1	ENSOGAG00000004001	Others	NA
+Otolemur_garnettii		ENSOGAG00000004002	Other_CRF	NA
+Otolemur_garnettii	HNRNPD	ENSOGAG00000004075	HNRNP	NA
+Otolemur_garnettii	GNL3	ENSOGAG00000004101	Others	NA
+Otolemur_garnettii	UFL1	ENSOGAG00000004124	Others	NA
+Otolemur_garnettii	SFMBT1	ENSOGAG00000004126	Others	NA
+Otolemur_garnettii	KMT2B	ENSOGAG00000004157	Lysine methyltransferase	100941061
+Otolemur_garnettii	MED27	ENSOGAG00000004158	Mediator complex	NA
+Otolemur_garnettii	CTDSP1	ENSOGAG00000004159	Others	NA
+Otolemur_garnettii	CNOT9	ENSOGAG00000004173	CCR4-NOT	NA
+Otolemur_garnettii	RNF25	ENSOGAG00000004184	Ring finger protein	100949414
+Otolemur_garnettii	STK36	ENSOGAG00000004188	Others	NA
+Otolemur_garnettii	NFKBID	ENSOGAG00000004193	NFKB associated	NA
+Otolemur_garnettii	DDX54	ENSOGAG00000004210	RNA helicase	NA
+Otolemur_garnettii	ING3	ENSOGAG00000004212	ING	100944192
+Otolemur_garnettii	RITA1	ENSOGAG00000004214	Others	NA
+Otolemur_garnettii		ENSOGAG00000004276	Others	NA
+Otolemur_garnettii	KDM5C	ENSOGAG00000004345	Lysine demethylase	100942672
+Otolemur_garnettii	BEND6	ENSOGAG00000004372	Others	NA
+Otolemur_garnettii	CCDC59	ENSOGAG00000004383	Coiled-coil	NA
+Otolemur_garnettii	DVL2	ENSOGAG00000004386	Others	NA
+Otolemur_garnettii	RLIM	ENSOGAG00000004431	Ring finger protein	NA
+Otolemur_garnettii	MYOCD	ENSOGAG00000004448	Others	NA
+Otolemur_garnettii		ENSOGAG00000004482	Others	NA
+Otolemur_garnettii	MED19	ENSOGAG00000004509	Mediator complex	NA
+Otolemur_garnettii	COPRS	ENSOGAG00000004510	Others	NA
+Otolemur_garnettii	PRNP	ENSOGAG00000004526	Others	NA
+Otolemur_garnettii	TAF7L	ENSOGAG00000004540	TATA-box	NA
+Otolemur_garnettii	BTK	ENSOGAG00000004545	Others	NA
+Otolemur_garnettii	BRD3	ENSOGAG00000004568	Bromodomain	NA
+Otolemur_garnettii	WWP2	ENSOGAG00000004592	WW	NA
+Otolemur_garnettii	PIH1D1	ENSOGAG00000004612	Other_CRF	NA
+Otolemur_garnettii		ENSOGAG00000004662	SWI/SNF	NA
+Otolemur_garnettii	STRN3	ENSOGAG00000004698	Others	NA
+Otolemur_garnettii	DNMT3B	ENSOGAG00000004720	DNA_methylase	NA
+Otolemur_garnettii	SUV39H2	ENSOGAG00000004729	Others	NA
+Otolemur_garnettii	MED16	ENSOGAG00000004749	Mediator complex	100965389
+Otolemur_garnettii	TLE3	ENSOGAG00000004789	Transducin	NA
+Otolemur_garnettii		ENSOGAG00000004792	Others	NA
+Otolemur_garnettii	NONO	ENSOGAG00000004834	Others	NA
+Otolemur_garnettii	SUFU	ENSOGAG00000004840	Others	NA
+Otolemur_garnettii	ANP32E	ENSOGAG00000004841	ANP	NA
+Otolemur_garnettii	CASK	ENSOGAG00000004848	CAMK	NA
+Otolemur_garnettii	CRTC1	ENSOGAG00000004927	CREB	NA
+Otolemur_garnettii	HDAC4	ENSOGAG00000004929	Histone deacetylase	NA
+Otolemur_garnettii	CDK5RAP3	ENSOGAG00000004951	Cyclin	NA
+Otolemur_garnettii		ENSOGAG00000004964	Others	NA
+Otolemur_garnettii		ENSOGAG00000004982	Others	100960730
+Otolemur_garnettii	MSL3	ENSOGAG00000005030	Others	NA
+Otolemur_garnettii	ASF1B	ENSOGAG00000005034	Others	100963766
+Otolemur_garnettii	MACROH2A2	ENSOGAG00000005035	Others	100960020
+Otolemur_garnettii	FGF1	ENSOGAG00000005081	FGF	100966077
+Otolemur_garnettii	PRMT5	ENSOGAG00000005094	Arginine methyltransferase	100958457
+Otolemur_garnettii	MCRS1	ENSOGAG00000005116	Others	NA
+Otolemur_garnettii	JADE1	ENSOGAG00000005157	Others	NA
+Otolemur_garnettii	GTF2A1	ENSOGAG00000005229	GTF	NA
+Otolemur_garnettii		ENSOGAG00000005299	TEF	NA
+Otolemur_garnettii	MED25	ENSOGAG00000005310	Mediator complex	100945219
+Otolemur_garnettii	CREG1	ENSOGAG00000005362	Others	100962958
+Otolemur_garnettii	CTNND2	ENSOGAG00000005411	Casein	NA
+Otolemur_garnettii	HDAC7	ENSOGAG00000005471	Histone deacetylase	NA
+Otolemur_garnettii	MED7	ENSOGAG00000005475	Mediator complex	NA
+Otolemur_garnettii	IKBKB	ENSOGAG00000005496	Others	NA
+Otolemur_garnettii	SENP1	ENSOGAG00000005497	Others	NA
+Otolemur_garnettii	HCK	ENSOGAG00000005498	Others	NA
+Otolemur_garnettii	HTATSF1	ENSOGAG00000005565	Others	NA
+Otolemur_garnettii	VGLL1	ENSOGAG00000005571	Vestigial like	NA
+Otolemur_garnettii	PLK1	ENSOGAG00000005574	Others	NA
+Otolemur_garnettii	ACTL6B	ENSOGAG00000005639	Actin	100941077
+Otolemur_garnettii	SFRP4	ENSOGAG00000005680	Others	NA
+Otolemur_garnettii	BLM	ENSOGAG00000005708	Others	NA
+Otolemur_garnettii	HDAC1	ENSOGAG00000005709	Histone deacetylase	NA
+Otolemur_garnettii	BRF2	ENSOGAG00000005734	GTF	NA
+Otolemur_garnettii	GTF2B	ENSOGAG00000005753	GTF	100958137
+Otolemur_garnettii	INO80D	ENSOGAG00000005756	INO80 complex	NA
+Otolemur_garnettii	CSRP3	ENSOGAG00000005772	Others	NA
+Otolemur_garnettii	HCLS1	ENSOGAG00000005785	Others	NA
+Otolemur_garnettii	NUDT5	ENSOGAG00000005816	Other_CRF	NA
+Otolemur_garnettii	NRBF2	ENSOGAG00000005856	Nuclear receptor coactivator	NA
+Otolemur_garnettii	TDRD3	ENSOGAG00000005898	Others	100960367
+Otolemur_garnettii		ENSOGAG00000005909	Others	NA
+Otolemur_garnettii	NELFB	ENSOGAG00000005937	GTF	NA
+Otolemur_garnettii	DR1	ENSOGAG00000005967	Others	NA
+Otolemur_garnettii	MED10	ENSOGAG00000005988	Mediator complex	NA
+Otolemur_garnettii	GSK3B	ENSOGAG00000006019	Others	NA
+Otolemur_garnettii		ENSOGAG00000006047	Other_CRF	NA
+Otolemur_garnettii	DUSP26	ENSOGAG00000006065	Others	NA
+Otolemur_garnettii	SIN3B	ENSOGAG00000006074	Others	NA
+Otolemur_garnettii	RIPK3	ENSOGAG00000006086	Others	NA
+Otolemur_garnettii	ANP32B	ENSOGAG00000006091	ANP	NA
+Otolemur_garnettii	NIPBL	ENSOGAG00000006135	Others	100943342
+Otolemur_garnettii	CIDEA	ENSOGAG00000006137	Others	NA
+Otolemur_garnettii	CRK	ENSOGAG00000006159	Others	NA
+Otolemur_garnettii	PCBD1	ENSOGAG00000006192	Others	NA
+Otolemur_garnettii	CCNE1	ENSOGAG00000006217	Cyclin	NA
+Otolemur_garnettii	RING1	ENSOGAG00000006220	Ring finger protein	NA
+Otolemur_garnettii	PER2	ENSOGAG00000006245	Others	100950959
+Otolemur_garnettii	PUF60	ENSOGAG00000006259	Others	NA
+Otolemur_garnettii	CNOT7	ENSOGAG00000006324	CCR4-NOT	NA
+Otolemur_garnettii	TENM2	ENSOGAG00000006353	Others	NA
+Otolemur_garnettii	WWC1	ENSOGAG00000006362	WW	NA
+Otolemur_garnettii	CTBP1	ENSOGAG00000006367	Others	NA
+Otolemur_garnettii	EYA4	ENSOGAG00000006398	EYA	NA
+Otolemur_garnettii	TAF6	ENSOGAG00000006415	TATA-box	NA
+Otolemur_garnettii		ENSOGAG00000006418	Others	NA
+Otolemur_garnettii	PARK7	ENSOGAG00000006472	Others	NA
+Otolemur_garnettii	BRD2	ENSOGAG00000006473	Bromodomain	NA
+Otolemur_garnettii	PID1	ENSOGAG00000006565	Others	NA
+Otolemur_garnettii	CDK8	ENSOGAG00000006569	Cyclin	NA
+Otolemur_garnettii	TBPL1	ENSOGAG00000006622	TATA-box	NA
+Otolemur_garnettii	NOTCH3	ENSOGAG00000006680	Notch	100965961
+Otolemur_garnettii	TBL1XR1	ENSOGAG00000006708	Transducin	NA
+Otolemur_garnettii	WDR61	ENSOGAG00000006755	WD	100942466
+Otolemur_garnettii	MEAF6	ENSOGAG00000006773	Others	100946926
+Otolemur_garnettii	SAFB2	ENSOGAG00000006855	Others	NA
+Otolemur_garnettii	SETD5	ENSOGAG00000006870	Lysine methyltransferase	NA
+Otolemur_garnettii	SNRNP200	ENSOGAG00000006879	ASCC	100952873
+Otolemur_garnettii	NFATC2IP	ENSOGAG00000006885	Nuclear coactivator	NA
+Otolemur_garnettii	PLK3	ENSOGAG00000006927	Others	NA
+Otolemur_garnettii	CNOT3	ENSOGAG00000006945	CCR4-NOT	NA
+Otolemur_garnettii	ATN1	ENSOGAG00000006970	Others	NA
+Otolemur_garnettii	ATAD2	ENSOGAG00000006984	Others	100961684
+Otolemur_garnettii	PHF21B	ENSOGAG00000006988	PHF	100946151
+Otolemur_garnettii	TCEA2	ENSOGAG00000007025	TEF	NA
+Otolemur_garnettii	BPTF	ENSOGAG00000007027	Bromodomain	100940597
+Otolemur_garnettii	CDK2	ENSOGAG00000007051	Cyclin	NA
+Otolemur_garnettii	GTF2A2	ENSOGAG00000007061	GTF	NA
+Otolemur_garnettii	PML	ENSOGAG00000007066	Others	100964010
+Otolemur_garnettii	SLC26A3	ENSOGAG00000007084	SLC	100947713
+Otolemur_garnettii	KDM5B	ENSOGAG00000007102	Lysine demethylase	NA
+Otolemur_garnettii	TOP1MT	ENSOGAG00000007165	Other_CRF	100949316
+Otolemur_garnettii	ILK	ENSOGAG00000007187	Others	100958529
+Otolemur_garnettii	NCOA3	ENSOGAG00000007191	Nuclear receptor coactivator	100947872
+Otolemur_garnettii	NRIP1	ENSOGAG00000007232	Nuclear receptor coactivator	NA
+Otolemur_garnettii	HDAC11	ENSOGAG00000007254	Histone deacetylase	NA
+Otolemur_garnettii	CNOT10	ENSOGAG00000007295	CCR4-NOT	NA
+Otolemur_garnettii	CBL	ENSOGAG00000007319	Others	NA
+Otolemur_garnettii	TNKS	ENSOGAG00000007325	Others	NA
+Otolemur_garnettii		ENSOGAG00000007352	Others	NA
+Otolemur_garnettii	ICE2	ENSOGAG00000007354	GTF	100951734
+Otolemur_garnettii	RBBP5	ENSOGAG00000007382	RBBP	NA
+Otolemur_garnettii	AEBP1	ENSOGAG00000007419	Others	NA
+Otolemur_garnettii	SSBP4	ENSOGAG00000007430	Others	NA
+Otolemur_garnettii		ENSOGAG00000007437	GTF	NA
+Otolemur_garnettii	NDUFA13	ENSOGAG00000007445	Others	NA
+Otolemur_garnettii	MED4	ENSOGAG00000007456	Mediator complex	NA
+Otolemur_garnettii	RB1	ENSOGAG00000007461	Other_Co-activator/repressors	NA
+Otolemur_garnettii	NLRP3	ENSOGAG00000007471	Others	NA
+Otolemur_garnettii	HNRNPK	ENSOGAG00000007478	HNRNP	NA
+Otolemur_garnettii	BRIP1	ENSOGAG00000007479	Others	NA
+Otolemur_garnettii	TRAF6	ENSOGAG00000007506	Others	NA
+Otolemur_garnettii	RUVBL2	ENSOGAG00000007519	Other_CRF	NA
+Otolemur_garnettii	OGT	ENSOGAG00000007524	Others	100946588
+Otolemur_garnettii	ABL1	ENSOGAG00000007562	Others	NA
+Otolemur_garnettii	PRPF6	ENSOGAG00000007573	Others	NA
+Otolemur_garnettii		ENSOGAG00000007587	Others	NA
+Otolemur_garnettii	CAMK4	ENSOGAG00000007589	CAMK	NA
+Otolemur_garnettii	TADA1	ENSOGAG00000007621	Transcriptional adaptor	NA
+Otolemur_garnettii		ENSOGAG00000007635	SET	NA
+Otolemur_garnettii	TRIM27	ENSOGAG00000007656	Tripartite motif	NA
+Otolemur_garnettii	KDM7A	ENSOGAG00000007678	Lysine demethylase	100955977
+Otolemur_garnettii	ELL2	ENSOGAG00000007689	GTF	NA
+Otolemur_garnettii	HABP4	ENSOGAG00000007712	Others	NA
+Otolemur_garnettii	KDM1B	ENSOGAG00000007744	Lysine demethylase	NA
+Otolemur_garnettii	DEK	ENSOGAG00000007750	Other_CRF	NA
+Otolemur_garnettii	TFB2M	ENSOGAG00000007823	Others	NA
+Otolemur_garnettii	ERCC2	ENSOGAG00000007834	Others	100959067
+Otolemur_garnettii	RBMX	ENSOGAG00000007839	RNA binding protein	100965599
+Otolemur_garnettii		ENSOGAG00000007908	RBBP	NA
+Otolemur_garnettii	CHRAC1	ENSOGAG00000007931	Other_CRF	NA
+Otolemur_garnettii	AGO2	ENSOGAG00000007933	Others	NA
+Otolemur_garnettii	PHF12	ENSOGAG00000007952	PHF	NA
+Otolemur_garnettii	H1-6	ENSOGAG00000007995	Histone cluster 1 H1	100943761
+Otolemur_garnettii	SNX6	ENSOGAG00000008020	Others	NA
+Otolemur_garnettii	MLLT1	ENSOGAG00000008063	GTF	NA
+Otolemur_garnettii		ENSOGAG00000008070	GTF	NA
+Otolemur_garnettii	CDK9	ENSOGAG00000008105	Cyclin	NA
+Otolemur_garnettii	ENG	ENSOGAG00000008110	Others	NA
+Otolemur_garnettii	LZTS1	ENSOGAG00000008162	Others	100947051
+Otolemur_garnettii	ELP2	ENSOGAG00000008189	ELP	NA
+Otolemur_garnettii	TAB3	ENSOGAG00000008205	Others	NA
+Otolemur_garnettii	FHOD3	ENSOGAG00000008207	Others	NA
+Otolemur_garnettii	ASCC1	ENSOGAG00000008212	ASCC	NA
+Otolemur_garnettii	AIP	ENSOGAG00000008266	Others	100966504
+Otolemur_garnettii	HTATIP2	ENSOGAG00000008274	Others	NA
+Otolemur_garnettii	SIRT2	ENSOGAG00000008283	Sirtuin	NA
+Otolemur_garnettii	NFKBIB	ENSOGAG00000008287	NFKB associated	NA
+Otolemur_garnettii	SMARCD2	ENSOGAG00000008302	SWI/SNF	NA
+Otolemur_garnettii	HLTF	ENSOGAG00000008324	Others	NA
+Otolemur_garnettii		ENSOGAG00000008348	Actin	NA
+Otolemur_garnettii	INO80C	ENSOGAG00000008368	INO80 complex	NA
+Otolemur_garnettii		ENSOGAG00000008391	CCR4-NOT	NA
+Otolemur_garnettii	ANXA4	ENSOGAG00000008405	Others	NA
+Otolemur_garnettii	ASXL1	ENSOGAG00000008413	Others	NA
+Otolemur_garnettii	TOP1	ENSOGAG00000008442	Other_CRF	NA
+Otolemur_garnettii	RNF10	ENSOGAG00000008521	Ring finger protein	NA
+Otolemur_garnettii	TAF11	ENSOGAG00000008522	TATA-box	NA
+Otolemur_garnettii	SCAI	ENSOGAG00000008529	Others	100944059
+Otolemur_garnettii	SKIL	ENSOGAG00000008572	SKI	NA
+Otolemur_garnettii	TRIP11	ENSOGAG00000008597	Thyroid hormone receptor	100951756
+Otolemur_garnettii	SNIP1	ENSOGAG00000008634	Others	NA
+Otolemur_garnettii	TAF5	ENSOGAG00000008680	TATA-box	NA
+Otolemur_garnettii	DDX1	ENSOGAG00000008730	RNA helicase	100955440
+Otolemur_garnettii	SGK1	ENSOGAG00000008732	Others	NA
+Otolemur_garnettii	NCOA7	ENSOGAG00000008760	Nuclear receptor coactivator	NA
+Otolemur_garnettii	CHD1L	ENSOGAG00000008775	CHD	100962379
+Otolemur_garnettii	ANKRD2	ENSOGAG00000008779	Ankyrin repeat	100966446
+Otolemur_garnettii	TRIB1	ENSOGAG00000008784	Others	NA
+Otolemur_garnettii	TRIP13	ENSOGAG00000008813	Thyroid hormone receptor	100964431
+Otolemur_garnettii	XRCC6	ENSOGAG00000008821	Others	NA
+Otolemur_garnettii	TOB2	ENSOGAG00000008831	Others	NA
+Otolemur_garnettii	PYCARD	ENSOGAG00000008846	Others	NA
+Otolemur_garnettii	HINT1	ENSOGAG00000008850	Others	NA
+Otolemur_garnettii	HIPK3	ENSOGAG00000008857	HIPK	NA
+Otolemur_garnettii	PADI2	ENSOGAG00000008859	Other_CRF	NA
+Otolemur_garnettii	EYA1	ENSOGAG00000008889	EYA	NA
+Otolemur_garnettii	TAF6L	ENSOGAG00000008893	TATA-box	100944982
+Otolemur_garnettii		ENSOGAG00000008909	Others	100945575
+Otolemur_garnettii	TIRAP	ENSOGAG00000008935	Others	NA
+Otolemur_garnettii	WDR5	ENSOGAG00000008960	WD	NA
+Otolemur_garnettii	MED12	ENSOGAG00000008978	Mediator complex	NA
+Otolemur_garnettii	MYBBP1A	ENSOGAG00000008993	MYB	NA
+Otolemur_garnettii	TNP1	ENSOGAG00000008996	Other_CRF	NA
+Otolemur_garnettii	INO80	ENSOGAG00000008998	INO80 complex	NA
+Otolemur_garnettii	KDM3B	ENSOGAG00000009007	Lysine demethylase	NA
+Otolemur_garnettii	BDP1	ENSOGAG00000009010	GTF	NA
+Otolemur_garnettii	EPC2	ENSOGAG00000009018	Others	NA
+Otolemur_garnettii	TTF2	ENSOGAG00000009039	Others	NA
+Otolemur_garnettii	ELP1	ENSOGAG00000009065	ELP	NA
+Otolemur_garnettii	EGFR	ENSOGAG00000009092	Others	100950302
+Otolemur_garnettii	LANCL2	ENSOGAG00000009098	Others	NA
+Otolemur_garnettii	ERCC3	ENSOGAG00000009103	Others	NA
+Otolemur_garnettii	FRK	ENSOGAG00000009140	Others	NA
+Otolemur_garnettii	TXN	ENSOGAG00000009165	Others	NA
+Otolemur_garnettii	RBM15	ENSOGAG00000009182	RNA binding protein	NA
+Otolemur_garnettii	GTF2H3	ENSOGAG00000009203	GTF	NA
+Otolemur_garnettii	TRIM11	ENSOGAG00000009216	Tripartite motif	NA
+Otolemur_garnettii	TSG101	ENSOGAG00000009264	Others	100945081
+Otolemur_garnettii	RNF111	ENSOGAG00000009278	Ring finger protein	NA
+Otolemur_garnettii	KDM4C	ENSOGAG00000009288	Lysine demethylase	NA
+Otolemur_garnettii		ENSOGAG00000009294	Mediator complex	NA
+Otolemur_garnettii	HEXIM2	ENSOGAG00000009303	Others	NA
+Otolemur_garnettii	HEXIM1	ENSOGAG00000009304	Others	NA
+Otolemur_garnettii	TAF1C	ENSOGAG00000009329	TATA-box	NA
+Otolemur_garnettii	CD3D	ENSOGAG00000009330	Others	NA
+Otolemur_garnettii		ENSOGAG00000009345	Lysine methyltransferase	NA
+Otolemur_garnettii	SLC25A15	ENSOGAG00000009380	SLC	NA
+Otolemur_garnettii	BRF1	ENSOGAG00000009387	GTF	NA
+Otolemur_garnettii	LGALS12	ENSOGAG00000009408	Others	NA
+Otolemur_garnettii	TRIM33	ENSOGAG00000009419	Tripartite motif	NA
+Otolemur_garnettii	KAT2A	ENSOGAG00000009442	Lysine acetyltransferase	NA
+Otolemur_garnettii		ENSOGAG00000009463	Others	NA
+Otolemur_garnettii	JUP	ENSOGAG00000009523	Others	NA
+Otolemur_garnettii	NIBAN2	ENSOGAG00000009530	FAM	NA
+Otolemur_garnettii	BRWD1	ENSOGAG00000009562	Bromodomain	NA
+Otolemur_garnettii	NELFE	ENSOGAG00000009574	GTF	NA
+Otolemur_garnettii	PQBP1	ENSOGAG00000009606	Others	100958756
+Otolemur_garnettii	ASH1L	ENSOGAG00000009609	Others	NA
+Otolemur_garnettii	TLE4	ENSOGAG00000009689	Transducin	100948361
+Otolemur_garnettii	SMARCA5	ENSOGAG00000009702	SWI/SNF	NA
+Otolemur_garnettii	CBFA2T3	ENSOGAG00000009704	Others	100960424
+Otolemur_garnettii	MAD2L2	ENSOGAG00000009716	Others	NA
+Otolemur_garnettii	PAK6	ENSOGAG00000009799	Others	NA
+Otolemur_garnettii	SMURF1	ENSOGAG00000009903	Others	NA
+Otolemur_garnettii	EZH1	ENSOGAG00000009904	Others	NA
+Otolemur_garnettii	PIDD1	ENSOGAG00000009918	Others	100940692
+Otolemur_garnettii	SMARCB1	ENSOGAG00000009930	SWI/SNF	NA
+Otolemur_garnettii		ENSOGAG00000009963	Cyclin	NA
+Otolemur_garnettii	LMCD1	ENSOGAG00000009965	LIM	NA
+Otolemur_garnettii	LRIF1	ENSOGAG00000009969	Others	100963687
+Otolemur_garnettii	BCL10	ENSOGAG00000009976	BCL	NA
+Otolemur_garnettii	NPM3	ENSOGAG00000010001	Nucleoplasmin	NA
+Otolemur_garnettii		ENSOGAG00000010031	CHD	100955264
+Otolemur_garnettii	ING4	ENSOGAG00000010044	ING	NA
+Otolemur_garnettii	SAP18	ENSOGAG00000010062	SAP	NA
+Otolemur_garnettii		ENSOGAG00000010097	Coiled-coil	NA
+Otolemur_garnettii	MDFI	ENSOGAG00000010114	Others	NA
+Otolemur_garnettii	ACTN1	ENSOGAG00000010137	Actin	NA
+Otolemur_garnettii	NAA15	ENSOGAG00000010139	Others	NA
+Otolemur_garnettii	NOTCH4	ENSOGAG00000010193	Notch	100952404
+Otolemur_garnettii	WNT4	ENSOGAG00000010203	Others	NA
+Otolemur_garnettii	CAMK2D	ENSOGAG00000010231	CAMK	NA
+Otolemur_garnettii	AGO1	ENSOGAG00000010279	Others	NA
+Otolemur_garnettii	DAPK3	ENSOGAG00000010293	Others	NA
+Otolemur_garnettii	SAP30L	ENSOGAG00000010296	SAP	NA
+Otolemur_garnettii	VGLL3	ENSOGAG00000010364	Vestigial like	100944895
+Otolemur_garnettii	CCNA1	ENSOGAG00000010375	Cyclin	NA
+Otolemur_garnettii		ENSOGAG00000010377	Others	NA
+Otolemur_garnettii	EZH2	ENSOGAG00000010387	Others	100961114
+Otolemur_garnettii	ARHGEF5	ENSOGAG00000010408	Others	NA
+Otolemur_garnettii	CCNH	ENSOGAG00000010421	Cyclin	NA
+Otolemur_garnettii	HAT1	ENSOGAG00000010423	Others	100961058
+Otolemur_garnettii	HIF1AN	ENSOGAG00000010425	Others	NA
+Otolemur_garnettii	HDAC5	ENSOGAG00000010496	Histone deacetylase	NA
+Otolemur_garnettii	MYO6	ENSOGAG00000010499	Others	100955895
+Otolemur_garnettii	DDX20	ENSOGAG00000010503	RNA helicase	NA
+Otolemur_garnettii	PAGR1	ENSOGAG00000010507	Others	NA
+Otolemur_garnettii	RPTOR	ENSOGAG00000010520	Others	NA
+Otolemur_garnettii	MED1	ENSOGAG00000010535	Mediator complex	NA
+Otolemur_garnettii	CDK12	ENSOGAG00000010540	Cyclin	100956571
+Otolemur_garnettii	DCC	ENSOGAG00000010546	Others	NA
+Otolemur_garnettii	CCAR2	ENSOGAG00000010578	Others	NA
+Otolemur_garnettii	BRCA2	ENSOGAG00000010588	Others	NA
+Otolemur_garnettii	KDM2A	ENSOGAG00000010623	Lysine demethylase	NA
+Otolemur_garnettii	TRAK2	ENSOGAG00000010739	Others	NA
+Otolemur_garnettii	CDK7	ENSOGAG00000010748	Cyclin	100951646
+Otolemur_garnettii	RNF4	ENSOGAG00000010776	Ring finger protein	NA
+Otolemur_garnettii	CEP290	ENSOGAG00000010791	Others	100950360
+Otolemur_garnettii	ERBB2	ENSOGAG00000010792	Erbb2	NA
+Otolemur_garnettii	DMAP1	ENSOGAG00000010814	DNA_methylase	100944361
+Otolemur_garnettii		ENSOGAG00000010830	Others	100954996
+Otolemur_garnettii	BUD31	ENSOGAG00000010875	Others	NA
+Otolemur_garnettii	EDRF1	ENSOGAG00000010889	Others	NA
+Otolemur_garnettii	MED24	ENSOGAG00000010939	Mediator complex	100951221
+Otolemur_garnettii	HDAC2	ENSOGAG00000011016	Histone deacetylase	NA
+Otolemur_garnettii		ENSOGAG00000011087	Sirtuin	NA
+Otolemur_garnettii	TAF9B	ENSOGAG00000011107	TATA-box	NA
+Otolemur_garnettii	CRYM	ENSOGAG00000011159	Others	NA
+Otolemur_garnettii	PEX14	ENSOGAG00000011175	Others	NA
+Otolemur_garnettii	MRGBP	ENSOGAG00000011183	Others	NA
+Otolemur_garnettii	MED21	ENSOGAG00000011215	Mediator complex	NA
+Otolemur_garnettii	DHX36	ENSOGAG00000011256	RNA helicase	100942841
+Otolemur_garnettii	SERTAD2	ENSOGAG00000011272	Others	NA
+Otolemur_garnettii	C6orf89	ENSOGAG00000011278	Other_CRF	NA
+Otolemur_garnettii	BRD7	ENSOGAG00000011289	Bromodomain	100961007
+Otolemur_garnettii	SLTM	ENSOGAG00000011297	Others	100962641
+Otolemur_garnettii	PLRG1	ENSOGAG00000011310	Others	NA
+Otolemur_garnettii		ENSOGAG00000011389	TATA-box	NA
+Otolemur_garnettii		ENSOGAG00000011398	Transducin	NA
+Otolemur_garnettii	MLLT6	ENSOGAG00000011422	Others	NA
+Otolemur_garnettii	EMSY	ENSOGAG00000011434	Others	NA
+Otolemur_garnettii		ENSOGAG00000011442	Nuclear receptor coactivator	NA
+Otolemur_garnettii	SMARCAD1	ENSOGAG00000011444	SWI/SNF	NA
+Otolemur_garnettii	KDM3A	ENSOGAG00000011445	Lysine demethylase	NA
+Otolemur_garnettii	CCND1	ENSOGAG00000011495	Cyclin	NA
+Otolemur_garnettii	ARRB1	ENSOGAG00000011549	Others	NA
+Otolemur_garnettii	NPM2	ENSOGAG00000011562	Nucleoplasmin	100962690
+Otolemur_garnettii	UXT	ENSOGAG00000011611	Others	100950154
+Otolemur_garnettii		ENSOGAG00000011619	Others	NA
+Otolemur_garnettii	RBBP4	ENSOGAG00000011632	RBBP	NA
+Otolemur_garnettii	INO80E	ENSOGAG00000011649	INO80 complex	NA
+Otolemur_garnettii	MDM4	ENSOGAG00000011679	Others	NA
+Otolemur_garnettii	TAF15	ENSOGAG00000011719	TATA-box	100957643
+Otolemur_garnettii	SYK	ENSOGAG00000011743	Others	NA
+Otolemur_garnettii	CITED1	ENSOGAG00000011810	CITED	NA
+Otolemur_garnettii		ENSOGAG00000011814	Histone deacetylase	NA
+Otolemur_garnettii	TCEAL1	ENSOGAG00000011846	TEF	NA
+Otolemur_garnettii	KDM8	ENSOGAG00000011854	Lysine demethylase	NA
+Otolemur_garnettii	PRMT1	ENSOGAG00000011938	Arginine methyltransferase	NA
+Otolemur_garnettii	FBXW11	ENSOGAG00000011988	Others	NA
+Otolemur_garnettii	SUPT6H	ENSOGAG00000012089	SUPT	100950951
+Otolemur_garnettii	WWP1	ENSOGAG00000012097	WW	100957479
+Otolemur_garnettii	CNOT6L	ENSOGAG00000012122	CCR4-NOT	NA
+Otolemur_garnettii	TRIM37	ENSOGAG00000012158	Tripartite motif	NA
+Otolemur_garnettii	THOC5	ENSOGAG00000012160	Others	100948093
+Otolemur_garnettii	MBD3L1	ENSOGAG00000012194	MBD	NA
+Otolemur_garnettii	FGFR2	ENSOGAG00000012206	FGF	NA
+Otolemur_garnettii	SETD7	ENSOGAG00000012216	SET	NA
+Otolemur_garnettii	JAK2	ENSOGAG00000012246	Others	NA
+Otolemur_garnettii	CALR	ENSOGAG00000012249	Others	NA
+Otolemur_garnettii		ENSOGAG00000012307	Others	NA
+Otolemur_garnettii	ORC2	ENSOGAG00000012329	Others	NA
+Otolemur_garnettii	PRMT7	ENSOGAG00000012351	Arginine methyltransferase	NA
+Otolemur_garnettii	TESC	ENSOGAG00000012373	Others	NA
+Otolemur_garnettii	COPS5	ENSOGAG00000012387	Others	NA
+Otolemur_garnettii	TNIP2	ENSOGAG00000012391	Others	NA
+Otolemur_garnettii	LIMD1	ENSOGAG00000012394	LIM	NA
+Otolemur_garnettii	ALYREF	ENSOGAG00000012409	Others	NA
+Otolemur_garnettii	RUNX1T1	ENSOGAG00000012411	Others	NA
+Otolemur_garnettii	TRIP4	ENSOGAG00000012427	Thyroid hormone receptor	NA
+Otolemur_garnettii	PARP14	ENSOGAG00000012454	PARP	NA
+Otolemur_garnettii	EWSR1	ENSOGAG00000012489	Others	100946202
+Otolemur_garnettii	EAPP	ENSOGAG00000012492	Others	NA
+Otolemur_garnettii		ENSOGAG00000012500	TATA-box	NA
+Otolemur_garnettii	ACTN4	ENSOGAG00000012501	Actin	NA
+Otolemur_garnettii		ENSOGAG00000012543	HNRNP	NA
+Otolemur_garnettii	PHF21A	ENSOGAG00000012563	PHF	NA
+Otolemur_garnettii	TGS1	ENSOGAG00000012572	Others	NA
+Otolemur_garnettii	PDCD4	ENSOGAG00000012583	Others	100947023
+Otolemur_garnettii	SIRT1	ENSOGAG00000012609	Sirtuin	NA
+Otolemur_garnettii	POU2AF1	ENSOGAG00000012629	Others	NA
+Otolemur_garnettii	MPHOSPH8	ENSOGAG00000012635	Others	NA
+Otolemur_garnettii	PSPC1	ENSOGAG00000012643	Others	NA
+Otolemur_garnettii	EYA2	ENSOGAG00000012691	EYA	NA
+Otolemur_garnettii	ZMYND8	ENSOGAG00000012695	Zinc finger	NA
+Otolemur_garnettii	CIITA	ENSOGAG00000012730	Others	NA
+Otolemur_garnettii		ENSOGAG00000012798	Others	100953547
+Otolemur_garnettii	TIMELESS	ENSOGAG00000012808	Others	NA
+Otolemur_garnettii	FLII	ENSOGAG00000012862	Others	100959128
+Otolemur_garnettii	SNAPC2	ENSOGAG00000012870	Others	NA
+Otolemur_garnettii	TENM1	ENSOGAG00000012876	Others	NA
+Otolemur_garnettii	SUPT16H	ENSOGAG00000012898	SUPT	NA
+Otolemur_garnettii	RIPPLY1	ENSOGAG00000012901	Others	NA
+Otolemur_garnettii	TLE1	ENSOGAG00000012917	Transducin	NA
+Otolemur_garnettii	GRHPR	ENSOGAG00000012972	Others	NA
+Otolemur_garnettii	ANKAR	ENSOGAG00000013027	Ankyrin repeat	100958870
+Otolemur_garnettii	PINK1	ENSOGAG00000013125	Others	100955399
+Otolemur_garnettii	TRIM6	ENSOGAG00000013145	Tripartite motif	111725078
+Otolemur_garnettii	PRMT2	ENSOGAG00000013155	Arginine methyltransferase	NA
+Otolemur_garnettii	STRAP	ENSOGAG00000013156	Others	NA
+Otolemur_garnettii	LMO1	ENSOGAG00000013163	LIM	NA
+Otolemur_garnettii	BRD1	ENSOGAG00000013244	Bromodomain	NA
+Otolemur_garnettii	COPS2	ENSOGAG00000013284	Others	NA
+Otolemur_garnettii	CCAR1	ENSOGAG00000013294	Others	100963893
+Otolemur_garnettii		ENSOGAG00000013335	Others	NA
+Otolemur_garnettii	SND1	ENSOGAG00000013356	Others	NA
+Otolemur_garnettii	ABRA	ENSOGAG00000013394	Actin	NA
+Otolemur_garnettii	CHUK	ENSOGAG00000013415	Others	NA
+Otolemur_garnettii	ZMYND11	ENSOGAG00000013448	Zinc finger	NA
+Otolemur_garnettii	CBX5	ENSOGAG00000013464	Chromobox	NA
+Otolemur_garnettii	WNT3A	ENSOGAG00000013493	Others	NA
+Otolemur_garnettii		ENSOGAG00000013494	TATA-box	NA
+Otolemur_garnettii	DPF3	ENSOGAG00000013496	DPF	NA
+Otolemur_garnettii		ENSOGAG00000013616	Nucleoplasmin	100948352
+Otolemur_garnettii	LPIN1	ENSOGAG00000013620	LPIN	100947333
+Otolemur_garnettii	MTOR	ENSOGAG00000013669	Others	100957753
+Otolemur_garnettii	TRIP6	ENSOGAG00000013688	Thyroid hormone receptor	NA
+Otolemur_garnettii	AATF	ENSOGAG00000013792	Others	NA
+Otolemur_garnettii	HDAC6	ENSOGAG00000013860	Histone deacetylase	NA
+Otolemur_garnettii	CECR2	ENSOGAG00000013872	Other_CRF	NA
+Otolemur_garnettii	CTR9	ENSOGAG00000013884	Others	100952544
+Otolemur_garnettii	CHD7	ENSOGAG00000013905	CHD	100955729
+Otolemur_garnettii	SKI	ENSOGAG00000013909	SKI	NA
+Otolemur_garnettii		ENSOGAG00000013918	Others	NA
+Otolemur_garnettii	HIPK1	ENSOGAG00000013919	HIPK	100945274
+Otolemur_garnettii	PICALM	ENSOGAG00000013950	Others	100966818
+Otolemur_garnettii	YEATS2	ENSOGAG00000013954	Others	NA
+Otolemur_garnettii	EAF1	ENSOGAG00000013964	Others	NA
+Otolemur_garnettii	ANKRD1	ENSOGAG00000013966	Ankyrin repeat	NA
+Otolemur_garnettii	PELI1	ENSOGAG00000013984	Others	NA
+Otolemur_garnettii	TBP	ENSOGAG00000013997	TATA-box	NA
+Otolemur_garnettii	DNAJB1	ENSOGAG00000014022	Others	NA
+Otolemur_garnettii	HNRNPU	ENSOGAG00000014024	HNRNP	NA
+Otolemur_garnettii	MED22	ENSOGAG00000014026	Mediator complex	NA
+Otolemur_garnettii	TRAK1	ENSOGAG00000014035	Others	NA
+Otolemur_garnettii	REXO4	ENSOGAG00000014040	Others	NA
+Otolemur_garnettii		ENSOGAG00000014061	SUPT	NA
+Otolemur_garnettii	RGCC	ENSOGAG00000014070	Others	NA
+Otolemur_garnettii	RUVBL1	ENSOGAG00000014081	Other_CRF	NA
+Otolemur_garnettii	MED23	ENSOGAG00000014102	Mediator complex	100954230
+Otolemur_garnettii	KAT5	ENSOGAG00000014123	Lysine acetyltransferase	NA
+Otolemur_garnettii	HDAC10	ENSOGAG00000014163	Histone deacetylase	NA
+Otolemur_garnettii	EHMT2	ENSOGAG00000014177	Histone lysine methyltransferase	100948087
+Otolemur_garnettii	RBL1	ENSOGAG00000014185	Other_Co-activator/repressors	NA
+Otolemur_garnettii	NELFCD	ENSOGAG00000014266	GTF	NA
+Otolemur_garnettii	LMO2	ENSOGAG00000014321	LIM	NA
+Otolemur_garnettii	TAF1B	ENSOGAG00000014337	TATA-box	NA
+Otolemur_garnettii	MED13L	ENSOGAG00000014346	Mediator complex	NA
+Otolemur_garnettii	LBH	ENSOGAG00000014356	Others	NA
+Otolemur_garnettii	JMJD1C	ENSOGAG00000014358	Other_CRF	100942139
+Otolemur_garnettii	PHF10	ENSOGAG00000014391	PHF	100943458
+Otolemur_garnettii	HMOX1	ENSOGAG00000014421	Others	NA
+Otolemur_garnettii	KAT8	ENSOGAG00000014452	Lysine acetyltransferase	100948222
+Otolemur_garnettii	RBL2	ENSOGAG00000014491	Other_Co-activator/repressors	100963426
+Otolemur_garnettii	CNOT11	ENSOGAG00000014506	CCR4-NOT	NA
+Otolemur_garnettii	PADI4	ENSOGAG00000014533	Others	NA
+Otolemur_garnettii	ARL2BP	ENSOGAG00000014535	Others	NA
+Otolemur_garnettii	PPARGC1A	ENSOGAG00000014559	Others	NA
+Otolemur_garnettii	TAF4B	ENSOGAG00000014592	TATA-box	NA
+Otolemur_garnettii	MRTFB	ENSOGAG00000014617	Others	NA
+Otolemur_garnettii	BTRC	ENSOGAG00000014623	Others	NA
+Otolemur_garnettii	NOD2	ENSOGAG00000014655	Others	NA
+Otolemur_garnettii	NSD3	ENSOGAG00000014670	Nuclear receptor coactivator	NA
+Otolemur_garnettii	FGFR1	ENSOGAG00000014695	FGF	NA
+Otolemur_garnettii	DPF2	ENSOGAG00000014697	DPF	NA
+Otolemur_garnettii	AXIN1	ENSOGAG00000014926	Others	NA
+Otolemur_garnettii	PIK3R1	ENSOGAG00000014930	Others	NA
+Otolemur_garnettii	RALGAPA1	ENSOGAG00000014961	Others	NA
+Otolemur_garnettii	TXLNG	ENSOGAG00000014991	Others	100954717
+Otolemur_garnettii	RBBP7	ENSOGAG00000014995	RBBP	NA
+Otolemur_garnettii	CBFA2T2	ENSOGAG00000015051	Others	NA
+Otolemur_garnettii		ENSOGAG00000015055	GTF	100954172
+Otolemur_garnettii	NOTCH2	ENSOGAG00000015075	Notch	NA
+Otolemur_garnettii	WDTC1	ENSOGAG00000015076	WD	NA
+Otolemur_garnettii	HIRA	ENSOGAG00000015079	Others	NA
+Otolemur_garnettii	HCFC1	ENSOGAG00000015100	Others	NA
+Otolemur_garnettii	ASH2L	ENSOGAG00000015154	Others	NA
+Otolemur_garnettii	DNAJA3	ENSOGAG00000015227	Others	NA
+Otolemur_garnettii		ENSOGAG00000015228	Mediator complex	NA
+Otolemur_garnettii	FLNA	ENSOGAG00000015265	Others	100953848
+Otolemur_garnettii	URI1	ENSOGAG00000015310	Others	NA
+Otolemur_garnettii	NRIP2	ENSOGAG00000015327	Nuclear coactivator	NA
+Otolemur_garnettii	ZMYM2	ENSOGAG00000015350	Zinc finger	NA
+Otolemur_garnettii	SMURF2	ENSOGAG00000015369	Others	NA
+Otolemur_garnettii	TRIB3	ENSOGAG00000015385	Others	NA
+Otolemur_garnettii		ENSOGAG00000015386	Nuclear receptor coactivator	NA
+Otolemur_garnettii	SCMH1	ENSOGAG00000015403	Others	NA
+Otolemur_garnettii	KAT6B	ENSOGAG00000015423	Lysine acetyltransferase	NA
+Otolemur_garnettii	HSBP1	ENSOGAG00000015437	Heat shock protein	NA
+Otolemur_garnettii	TGFB1I1	ENSOGAG00000015439	Others	NA
+Otolemur_garnettii	SRC	ENSOGAG00000015510	Others	NA
+Otolemur_garnettii	KDM6A	ENSOGAG00000015535	Lysine demethylase	NA
+Otolemur_garnettii	PHF1	ENSOGAG00000015551	PHF	NA
+Otolemur_garnettii	PCGF3	ENSOGAG00000015569	PCGF	NA
+Otolemur_garnettii	EYA3	ENSOGAG00000015592	EYA	NA
+Otolemur_garnettii	DGKQ	ENSOGAG00000015595	Others	NA
+Otolemur_garnettii	MALT1	ENSOGAG00000015629	Others	NA
+Otolemur_garnettii	DAB2	ENSOGAG00000015730	Others	NA
+Otolemur_garnettii	EID2	ENSOGAG00000015755	EID	NA
+Otolemur_garnettii		ENSOGAG00000015760	Others	NA
+Otolemur_garnettii		ENSOGAG00000015794	Others	NA
+Otolemur_garnettii	RNF20	ENSOGAG00000015800	Ring finger protein	NA
+Otolemur_garnettii	SKAP1	ENSOGAG00000015855	Others	NA
+Otolemur_garnettii	SNAPC5	ENSOGAG00000015881	Others	NA
+Otolemur_garnettii	NOTCH1	ENSOGAG00000015908	Notch	NA
+Otolemur_garnettii		ENSOGAG00000015920	Chromodomain Y	NA
+Otolemur_garnettii	DSCAM	ENSOGAG00000015945	Others	NA
+Otolemur_garnettii	MED18	ENSOGAG00000015975	Mediator complex	NA
+Otolemur_garnettii	PPARGC1B	ENSOGAG00000015983	Others	NA
+Otolemur_garnettii	RNF8	ENSOGAG00000015984	Ring finger protein	NA
+Otolemur_garnettii	PHF20	ENSOGAG00000016016	PHF	NA
+Otolemur_garnettii	CHD1	ENSOGAG00000016061	CHD	NA
+Otolemur_garnettii	MNAT1	ENSOGAG00000016085	Others	NA
+Otolemur_garnettii	CCNA2	ENSOGAG00000016107	Cyclin	NA
+Otolemur_garnettii	DVL3	ENSOGAG00000016139	Others	100940907
+Otolemur_garnettii	TLE2	ENSOGAG00000016146	Transducin	NA
+Otolemur_garnettii	SMARCA4	ENSOGAG00000016148	SWI/SNF	NA
+Otolemur_garnettii	TLE5	ENSOGAG00000016151	Others	NA
+Otolemur_garnettii	CTNNB1	ENSOGAG00000016157	Casein	100966689
+Otolemur_garnettii	VGLL4	ENSOGAG00000016184	Vestigial like	NA
+Otolemur_garnettii	SMYD1	ENSOGAG00000016185	SMYD	NA
+Otolemur_garnettii	SF1	ENSOGAG00000016196	Others	NA
+Otolemur_garnettii	SAP130	ENSOGAG00000016240	SAP	NA
+Otolemur_garnettii	MMS19	ENSOGAG00000016272	Others	NA
+Otolemur_garnettii	ZNF593	ENSOGAG00000016334	Zinc finger	NA
+Otolemur_garnettii	STK3	ENSOGAG00000016347	Others	NA
+Otolemur_garnettii	LDB1	ENSOGAG00000016349	LIM	NA
+Otolemur_garnettii	PPRC1	ENSOGAG00000016354	Others	100964230
+Otolemur_garnettii	UTP4	ENSOGAG00000016381	Others	NA
+Otolemur_garnettii		ENSOGAG00000016411	MAGE	NA
+Otolemur_garnettii	RPRD1A	ENSOGAG00000016416	Others	NA
+Otolemur_garnettii	FHL5	ENSOGAG00000016431	FHL	NA
+Otolemur_garnettii	CBX2	ENSOGAG00000016470	Chromobox	NA
+Otolemur_garnettii	DRAP1	ENSOGAG00000016519	Others	NA
+Otolemur_garnettii	CIR1	ENSOGAG00000016564	Other_Co-activator/repressors	NA
+Otolemur_garnettii	CASP8AP2	ENSOGAG00000016586	Others	NA
+Otolemur_garnettii	SFSWAP	ENSOGAG00000016724	Others	NA
+Otolemur_garnettii	CNOT8	ENSOGAG00000016768	CCR4-NOT	NA
+Otolemur_garnettii	KAT2B	ENSOGAG00000016781	Lysine acetyltransferase	NA
+Otolemur_garnettii	ITCH	ENSOGAG00000016792	Others	NA
+Otolemur_garnettii	CCNT2	ENSOGAG00000016793	Cyclin	NA
+Otolemur_garnettii	CCNT1	ENSOGAG00000016794	Cyclin	NA
+Otolemur_garnettii	SETD2	ENSOGAG00000016827	SET	NA
+Otolemur_garnettii	CARM1	ENSOGAG00000016835	Others	NA
+Otolemur_garnettii		ENSOGAG00000016839	Others	NA
+Otolemur_garnettii	SIVA1	ENSOGAG00000016881	Others	NA
+Otolemur_garnettii	TAF8	ENSOGAG00000016885	TATA-box	NA
+Otolemur_garnettii	ESF1	ENSOGAG00000016912	Others	NA
+Otolemur_garnettii	SUZ12	ENSOGAG00000016923	Others	NA
+Otolemur_garnettii	MED31	ENSOGAG00000016933	Mediator complex	NA
+Otolemur_garnettii	RBX1	ENSOGAG00000016937	Others	100963359
+Otolemur_garnettii	ACTR8	ENSOGAG00000016944	ACTR	100955134
+Otolemur_garnettii	ACTL6A	ENSOGAG00000016951	Actin	NA
+Otolemur_garnettii	BRMS1L	ENSOGAG00000016974	Other_CRF	NA
+Otolemur_garnettii	MTPN	ENSOGAG00000016983	Others	NA
+Otolemur_garnettii	PIN1	ENSOGAG00000017002	Others	NA
+Otolemur_garnettii	TDG	ENSOGAG00000017015	Others	NA
+Otolemur_garnettii		ENSOGAG00000017026	Others	NA
+Otolemur_garnettii	SMYD2	ENSOGAG00000017028	SMYD	100951104
+Otolemur_garnettii	SMARCA2	ENSOGAG00000017053	SWI/SNF	NA
+Otolemur_garnettii	PCGF6	ENSOGAG00000017097	PCGF	100956791
+Otolemur_garnettii	TRIM24	ENSOGAG00000017126	Tripartite motif	NA
+Otolemur_garnettii	HELLS	ENSOGAG00000017145	Others	NA
+Otolemur_garnettii	SAP30	ENSOGAG00000017151	SAP	NA
+Otolemur_garnettii	NPAT	ENSOGAG00000017246	Nuclear coactivator	NA
+Otolemur_garnettii		ENSOGAG00000024205	Others	NA
+Otolemur_garnettii	MAML1	ENSOGAG00000024232	MAML	NA
+Otolemur_garnettii	CXXC5	ENSOGAG00000024233	Others	NA
+Otolemur_garnettii	SSU72	ENSOGAG00000024430	Others	NA
+Otolemur_garnettii		ENSOGAG00000024435	MYC	NA
+Otolemur_garnettii	ATXN7L3	ENSOGAG00000024436	Others	NA
+Otolemur_garnettii	SCAND1	ENSOGAG00000024511	Others	NA
+Otolemur_garnettii	CITED4	ENSOGAG00000024517	CITED	NA
+Otolemur_garnettii	CTNNBIP1	ENSOGAG00000024745	Casein	NA
+Otolemur_garnettii	PNRC2	ENSOGAG00000024747	Others	NA
+Otolemur_garnettii	RNF6	ENSOGAG00000024893	Ring finger protein	NA
+Otolemur_garnettii	IKBKG	ENSOGAG00000024983	Others	100958883
+Otolemur_garnettii	NOC2L	ENSOGAG00000024987	Others	NA
+Otolemur_garnettii	NAB2	ENSOGAG00000025043	Others	NA
+Otolemur_garnettii	RAN	ENSOGAG00000025046	Others	NA
+Otolemur_garnettii	SPEN	ENSOGAG00000025110	Others	100943191
+Otolemur_garnettii	BRMS1	ENSOGAG00000025173	Other_CRF	NA
+Otolemur_garnettii	NFKBIZ	ENSOGAG00000025293	NFKB associated	NA
+Otolemur_garnettii	TDP2	ENSOGAG00000025303	Others	NA
+Otolemur_garnettii	NIF3L1	ENSOGAG00000025311	Others	NA
+Otolemur_garnettii		ENSOGAG00000025336	PHF	NA
+Otolemur_garnettii	MED30	ENSOGAG00000025376	Mediator complex	NA
+Otolemur_garnettii	EID3	ENSOGAG00000025419	EID	NA
+Otolemur_garnettii		ENSOGAG00000025506	Others	NA
+Otolemur_garnettii	KMT5B	ENSOGAG00000025516	Lysine methyltransferase	NA
+Otolemur_garnettii		ENSOGAG00000025545	Others	NA
+Otolemur_garnettii	SRA1	ENSOGAG00000025549	Others	NA
+Otolemur_garnettii	CBX8	ENSOGAG00000025586	Chromobox	NA
+Otolemur_garnettii	EED	ENSOGAG00000025611	Others	NA
+Otolemur_garnettii	TCERG1	ENSOGAG00000025674	TEF	NA
+Otolemur_garnettii	PRDX5	ENSOGAG00000025702	Others	NA
+Otolemur_garnettii	PHF2	ENSOGAG00000025710	PHF	NA
+Otolemur_garnettii	ALPK3	ENSOGAG00000025756	Others	100953218
+Otolemur_garnettii		ENSOGAG00000025771	Chromobox	NA
+Otolemur_garnettii	HYAL2	ENSOGAG00000025776	Others	100963472
+Otolemur_garnettii		ENSOGAG00000025789	Zinc finger	100965466
+Otolemur_garnettii	AURKAIP1	ENSOGAG00000025917	Others	NA
+Otolemur_garnettii	SKOR1	ENSOGAG00000025983	SKI	NA
+Otolemur_garnettii	GTF2E1	ENSOGAG00000026188	GTF	NA
+Otolemur_garnettii	GTF2H4	ENSOGAG00000026192	GTF	100954505
+Otolemur_garnettii	CTDP1	ENSOGAG00000026225	Others	NA
+Otolemur_garnettii	ABT1	ENSOGAG00000026316	Others	NA
+Otolemur_garnettii	EPC1	ENSOGAG00000026425	Others	NA
+Otolemur_garnettii	BTG1	ENSOGAG00000026483	Others	100945627
+Otolemur_garnettii	PIM1	ENSOGAG00000026527	Others	100947981
+Otolemur_garnettii	RDH14	ENSOGAG00000027061	WW	NA
+Otolemur_garnettii		ENSOGAG00000027076	INO80 complex	NA
+Otolemur_garnettii		ENSOGAG00000027149	RNA binding protein	100940703
+Otolemur_garnettii		ENSOGAG00000027188	Others	NA
+Otolemur_garnettii	FHL3	ENSOGAG00000027329	FHL	NA
+Otolemur_garnettii	TAF10	ENSOGAG00000027347	TATA-box	100959366
+Otolemur_garnettii	RPRD1B	ENSOGAG00000027413	Others	NA
+Otolemur_garnettii		ENSOGAG00000027462	Others	NA
+Otolemur_garnettii	DNTTIP2	ENSOGAG00000027537	Others	NA
+Otolemur_garnettii	TNNI2	ENSOGAG00000027546	Others	NA
+Otolemur_garnettii	S100A9	ENSOGAG00000027551	Others	NA
+Otolemur_garnettii	MED29	ENSOGAG00000027557	Mediator complex	NA
+Otolemur_garnettii	PCGF2	ENSOGAG00000027635	PCGF	NA
+Otolemur_garnettii	RHOC	ENSOGAG00000027678	Others	NA
+Otolemur_garnettii	SAFB	ENSOGAG00000027769	Others	100945485
+Otolemur_garnettii	DACT1	ENSOGAG00000027814	Others	NA
+Otolemur_garnettii	PBXIP1	ENSOGAG00000027875	Others	NA
+Otolemur_garnettii		ENSOGAG00000027892	TEF	100941108
+Otolemur_garnettii		ENSOGAG00000027934	Other_Co-activator/repressors	NA
+Otolemur_garnettii	BEND3	ENSOGAG00000027957	Others	NA
+Otolemur_garnettii		ENSOGAG00000028006	SET	100958719
+Otolemur_garnettii	YAF2	ENSOGAG00000028144	Others	NA
+Otolemur_garnettii	MAK	ENSOGAG00000028226	Others	NA
+Otolemur_garnettii	ARRB2	ENSOGAG00000028279	Others	NA
+Otolemur_garnettii	SRSF2	ENSOGAG00000028335	Others	100964129
+Otolemur_garnettii	MAGED1	ENSOGAG00000028412	MAGE	100949004
+Otolemur_garnettii	SMARCD3	ENSOGAG00000028429	SWI/SNF	NA
+Otolemur_garnettii	CCDC85B	ENSOGAG00000028471	Coiled-coil	NA
+Otolemur_garnettii	TSPYL2	ENSOGAG00000028643	Others	NA
+Otolemur_garnettii	ELANE	ENSOGAG00000028785	Others	100965078
+Otolemur_garnettii	DPF1	ENSOGAG00000028834	DPF	NA
+Otolemur_garnettii		ENSOGAG00000028850	RNA helicase	NA
+Otolemur_garnettii	HDGF	ENSOGAG00000028884	Others	NA
+Otolemur_garnettii	ZNF703	ENSOGAG00000029076	Zinc finger	NA
+Otolemur_garnettii	CAVIN1	ENSOGAG00000029167	Others	NA
+Otolemur_garnettii	COMMD1	ENSOGAG00000029292	Others	100942063
+Otolemur_garnettii	CRTC2	ENSOGAG00000029515	CREB	NA
+Otolemur_garnettii	NELFA	ENSOGAG00000029627	GTF	NA
+Otolemur_garnettii	ARHGAP5	ENSOGAG00000029734	Others	NA
+Otolemur_garnettii	TCEA1	ENSOGAG00000029746	TEF	NA
+Otolemur_garnettii	ICE1	ENSOGAG00000029817	Others	NA
+Otolemur_garnettii	SNW1	ENSOGAG00000029825	Others	100962550
+Otolemur_garnettii		ENSOGAG00000029828	Tripartite motif	NA
+Otolemur_garnettii	ATRX	ENSOGAG00000029849	Others	NA
+Otolemur_garnettii	WWTR1	ENSOGAG00000029861	WW	NA
+Otolemur_garnettii	TGFB1	ENSOGAG00000029924	Others	NA
+Otolemur_garnettii	FGF3	ENSOGAG00000029967	FGF	100960938
+Otolemur_garnettii	WAC	ENSOGAG00000030010	WW	NA
+Otolemur_garnettii	SIRT7	ENSOGAG00000030109	Sirtuin	NA
+Otolemur_garnettii	BAHCC1	ENSOGAG00000030207	Others	NA
+Otolemur_garnettii	ENY2	ENSOGAG00000030254	Others	100948034
+Otolemur_garnettii	DTX1	ENSOGAG00000030292	Others	NA
+Otolemur_garnettii	RBPMS	ENSOGAG00000030298	RNA binding protein	NA
+Otolemur_garnettii	TOPORS	ENSOGAG00000030321	Others	NA
+Otolemur_garnettii		ENSOGAG00000030345	Others	NA
+Otolemur_garnettii		ENSOGAG00000030529	Heat shock protein	NA
+Otolemur_garnettii	CLU	ENSOGAG00000030580	Others	NA
+Otolemur_garnettii	TRIM29	ENSOGAG00000030610	Tripartite motif	NA
+Otolemur_garnettii	ADRB1	ENSOGAG00000030680	Others	NA
+Otolemur_garnettii	TBPL2	ENSOGAG00000030735	TATA-box	NA
+Otolemur_garnettii	WDR77	ENSOGAG00000030741	WD	100963632
+Otolemur_garnettii		ENSOGAG00000030762	Other_CRF	NA
+Otolemur_garnettii	HELZ2	ENSOGAG00000031068	Others	NA
+Otolemur_garnettii	KMT5A	ENSOGAG00000031093	Lysine methyltransferase	100940536
+Otolemur_garnettii		ENSOGAG00000031228	Others	111727924
+Otolemur_garnettii	ARGLU1	ENSOGAG00000031253	Others	100940394
+Otolemur_garnettii	BANP	ENSOGAG00000031291	Others	NA
+Otolemur_garnettii	PYGO2	ENSOGAG00000031309	Others	NA
+Otolemur_garnettii		ENSOGAG00000031428	Others	NA
+Otolemur_garnettii	GPS2	ENSOGAG00000031484	Others	NA
+Otolemur_garnettii	BCL3	ENSOGAG00000031500	BCL	NA
+Otolemur_garnettii	VGLL2	ENSOGAG00000031570	Vestigial like	NA
+Otolemur_garnettii	RAI1	ENSOGAG00000031590	Others	NA
+Otolemur_garnettii		ENSOGAG00000031612	EID	NA
+Otolemur_garnettii	TAF2	ENSOGAG00000031614	TATA-box	100941301
+Otolemur_garnettii	NRG2	ENSOGAG00000031618	Others	NA
+Otolemur_garnettii	CITED2	ENSOGAG00000031646	CITED	NA
+Otolemur_garnettii		ENSOGAG00000031898	Others	100966540
+Otolemur_garnettii	NUP62	ENSOGAG00000031905	Others	NA
+Otolemur_garnettii	SUPT4H1	ENSOGAG00000031972	SUPT	NA
+Otolemur_garnettii	GTF2H5	ENSOGAG00000032151	GTF	NA
+Otolemur_garnettii	PEX2	ENSOGAG00000032204	Others	NA
+Otolemur_garnettii	PHF19	ENSOGAG00000032333	PHF	NA
+Otolemur_garnettii	RALY	ENSOGAG00000032337	Others	NA
+Otolemur_garnettii	SLC19A1	ENSOGAG00000032361	SLC	NA
+Otolemur_garnettii	MEN1	ENSOGAG00000032402	Others	NA
+Otolemur_garnettii	SRFBP1	ENSOGAG00000032423	Others	NA
+Otolemur_garnettii	CNOT6	ENSOGAG00000032470	CCR4-NOT	NA
+Otolemur_garnettii	SAMD4B	ENSOGAG00000032553	Others	NA
+Otolemur_garnettii	KDM4D	ENSOGAG00000032607	Lysine demethylase	100953181
+Otolemur_garnettii	SKOR2	ENSOGAG00000032696	SKI	100960965
+Otolemur_garnettii	DYRK1B	ENSOGAG00000032823	Others	100962128
+Otolemur_garnettii	RBM14	ENSOGAG00000032829	RNA binding protein	100946876
+Otolemur_garnettii	PABPC1L	ENSOGAG00000032999	Other_CRF	NA
+Otolemur_garnettii	EGLN1	ENSOGAG00000033024	Others	NA
+Otolemur_garnettii	SUV39H1	ENSOGAG00000033074	Others	NA
+Otolemur_garnettii	TRIM28	ENSOGAG00000033160	Tripartite motif	NA
+Otolemur_garnettii	JMJD6	ENSOGAG00000033219	Others	NA
+Otolemur_garnettii	RBFOX2	ENSOGAG00000033250	Others	NA
+Otolemur_garnettii	PRMT6	ENSOGAG00000033307	Arginine methyltransferase	NA
+Otolemur_garnettii		ENSOGAG00000033330	Others	NA
+Otolemur_garnettii	ARHGAP35	ENSOGAG00000033334	Others	NA
+Otolemur_garnettii	HR	ENSOGAG00000033391	Lysine methyltransferase	NA
+Otolemur_garnettii	MAML3	ENSOGAG00000033459	MAML	NA
+Otolemur_garnettii	POLR2A	ENSOGAG00000033608	POLR	100967092
+Otolemur_garnettii	CXXC1	ENSOGAG00000033715	Others	100957696
+Otolemur_garnettii	PARP10	ENSOGAG00000033747	PARP	100963802
+Otolemur_garnettii	MED28	ENSOGAG00000033835	Mediator complex	NA
+Otolemur_garnettii	SUPT5H	ENSOGAG00000033979	SUPT	100965273
+Otolemur_garnettii	SS18L1	ENSOGAG00000034040	SS18	NA
+Otolemur_garnettii	AJUBA	ENSOGAG00000034052	Others	NA
+Otolemur_garnettii	BIRC5	ENSOGAG00000034095	Others	NA
+Otolemur_garnettii	CGGBP1	ENSOGAG00000034139	Others	NA
+Otolemur_garnettii	LOXL3	ENSOGAG00000034152	Others	NA
+Otolemur_garnettii		ENSOGAG00000034156	TATA-box	NA
+Otolemur_garnettii	DPY30	ENSOGAG00000034197	Others	NA
+Otolemur_garnettii	TADA3	ENSOGAG00000034225	Transcriptional adaptor	NA
+Otolemur_garnettii		ENSOGAG00000034309	SSX	NA
+Otolemur_garnettii	ASF1A	ENSOGAG00000034346	Others	NA
+Otolemur_garnettii	HIPK2	ENSOGAG00000034445	HIPK	NA
+Otolemur_garnettii	TRADD	ENSOGAG00000034457	Others	NA
+Otolemur_garnettii	CHAF1B	ENSOGAG00000034514	Others	NA
+Otolemur_garnettii	SAV1	ENSOGAG00000034521	Others	NA
+Otolemur_garnettii	CDK5R1	ENSOGAG00000034547	Cyclin	100966496
+Otolemur_garnettii	BCL9L	ENSOGAG00000034634	BCL	NA
+Otolemur_garnettii	CENPB	ENSOGAG00000034679	CENP	NA
+Otolemur_garnettii		ENSOGAG00000034739	Others	100941787
+Otolemur_garnettii		ENSOGAG00000034778	Others	100953409
+Otolemur_garnettii		ENSOGAG00000034779	Others	NA
+Otolemur_garnettii	CBX4	ENSOGAG00000034805	Chromobox	NA
+Otolemur_garnettii		ENSOGAG00000034820	Mediator complex	NA
+Otolemur_garnettii	MCIDAS	ENSOGAG00000034851	Others	NA
+Otolemur_garnettii	IRF2BPL	ENSOGAG00000034922	Others	NA

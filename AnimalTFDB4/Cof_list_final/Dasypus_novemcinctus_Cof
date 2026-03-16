@@ -1,0 +1,864 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Dasypus_novemcinctus	SCAI	ENSDNOG00000000007	Others	NA
+Dasypus_novemcinctus	HNRNPK	ENSDNOG00000000026	HNRNP	101415032
+Dasypus_novemcinctus	ZNF451	ENSDNOG00000000074	Zinc finger	NA
+Dasypus_novemcinctus		ENSDNOG00000000130	TATA-box	101447065
+Dasypus_novemcinctus	HNRNPU	ENSDNOG00000000215	HNRNP	NA
+Dasypus_novemcinctus	DACT1	ENSDNOG00000000222	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000000381	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000000439	Others	101418268
+Dasypus_novemcinctus		ENSDNOG00000000446	Others	NA
+Dasypus_novemcinctus	CDYL2	ENSDNOG00000000515	Chromodomain Y	NA
+Dasypus_novemcinctus	JADE1	ENSDNOG00000000548	Others	101418050
+Dasypus_novemcinctus	SIRT2	ENSDNOG00000000567	Sirtuin	NA
+Dasypus_novemcinctus	PAF1	ENSDNOG00000000578	Others	101429236
+Dasypus_novemcinctus	PHF12	ENSDNOG00000000581	PHF	NA
+Dasypus_novemcinctus	PINK1	ENSDNOG00000000596	Others	101424899
+Dasypus_novemcinctus	LMCD1	ENSDNOG00000000622	LIM	NA
+Dasypus_novemcinctus	MED1	ENSDNOG00000000687	Mediator complex	101425935
+Dasypus_novemcinctus	CDK12	ENSDNOG00000000693	Cyclin	101428410
+Dasypus_novemcinctus		ENSDNOG00000000698	Ring finger protein	101420745
+Dasypus_novemcinctus	ELP4	ENSDNOG00000000757	ELP	101437589
+Dasypus_novemcinctus		ENSDNOG00000000806	SWI/SNF	101418991
+Dasypus_novemcinctus	ILK	ENSDNOG00000000813	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000000814	TATA-box	101430140
+Dasypus_novemcinctus	MDM4	ENSDNOG00000000842	Others	101436148
+Dasypus_novemcinctus	ASCC2	ENSDNOG00000000902	ASCC	NA
+Dasypus_novemcinctus	CBL	ENSDNOG00000000905	Others	NA
+Dasypus_novemcinctus	RRN3	ENSDNOG00000000907	Others	101442138
+Dasypus_novemcinctus	LRRK2	ENSDNOG00000000920	Other_CRF	101427687
+Dasypus_novemcinctus	TLE1	ENSDNOG00000000937	Transducin	NA
+Dasypus_novemcinctus	AUTS2	ENSDNOG00000000944	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000001015	Others	101419383
+Dasypus_novemcinctus	GNL3	ENSDNOG00000001037	Others	101436738
+Dasypus_novemcinctus		ENSDNOG00000001134	CHD	101423342
+Dasypus_novemcinctus	MID1IP1	ENSDNOG00000001144	Others	101433282
+Dasypus_novemcinctus	PHF21A	ENSDNOG00000001209	PHF	NA
+Dasypus_novemcinctus	SUPT16H	ENSDNOG00000001227	SUPT	NA
+Dasypus_novemcinctus	WDTC1	ENSDNOG00000001232	WD	NA
+Dasypus_novemcinctus	ANKRD2	ENSDNOG00000001240	Ankyrin repeat	NA
+Dasypus_novemcinctus	SUPT7L	ENSDNOG00000001274	SUPT	101445857
+Dasypus_novemcinctus	VGLL4	ENSDNOG00000001301	Vestigial like	NA
+Dasypus_novemcinctus	SETD2	ENSDNOG00000001337	SET	101433648
+Dasypus_novemcinctus		ENSDNOG00000001340	Others	NA
+Dasypus_novemcinctus	ORC2	ENSDNOG00000001397	Others	NA
+Dasypus_novemcinctus	ING3	ENSDNOG00000001495	ING	101427720
+Dasypus_novemcinctus	PHF8	ENSDNOG00000001516	PHF	NA
+Dasypus_novemcinctus		ENSDNOG00000001629	Others	NA
+Dasypus_novemcinctus	MED30	ENSDNOG00000001636	Mediator complex	NA
+Dasypus_novemcinctus	DHX36	ENSDNOG00000001682	RNA helicase	NA
+Dasypus_novemcinctus	KDM4A	ENSDNOG00000001850	Lysine demethylase	NA
+Dasypus_novemcinctus	XRN2	ENSDNOG00000001895	Others	101429231
+Dasypus_novemcinctus	MRTFB	ENSDNOG00000001899	Others	101432764
+Dasypus_novemcinctus	LOXL3	ENSDNOG00000001934	Others	101424497
+Dasypus_novemcinctus	PPHLN1	ENSDNOG00000002007	Others	105746553
+Dasypus_novemcinctus	TDRD3	ENSDNOG00000002011	Others	NA
+Dasypus_novemcinctus	KDM2A	ENSDNOG00000002051	Lysine demethylase	NA
+Dasypus_novemcinctus	ENO1	ENSDNOG00000002067	Others	NA
+Dasypus_novemcinctus	SLC30A9	ENSDNOG00000002142	SLC	101438036
+Dasypus_novemcinctus	ZNF638	ENSDNOG00000002173	Zinc finger	NA
+Dasypus_novemcinctus	CTR9	ENSDNOG00000002216	Others	101419191
+Dasypus_novemcinctus	BTG1	ENSDNOG00000002220	Others	101444566
+Dasypus_novemcinctus	PRMT6	ENSDNOG00000002236	Arginine methyltransferase	101429234
+Dasypus_novemcinctus	HCFC2	ENSDNOG00000002251	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000002254	Others	101425951
+Dasypus_novemcinctus		ENSDNOG00000002317	Transducin	101413575
+Dasypus_novemcinctus	CNOT10	ENSDNOG00000002358	CCR4-NOT	101410979
+Dasypus_novemcinctus	DSCAM	ENSDNOG00000002369	Others	NA
+Dasypus_novemcinctus	PLRG1	ENSDNOG00000002373	Others	101436466
+Dasypus_novemcinctus	CREG1	ENSDNOG00000002384	Others	101424808
+Dasypus_novemcinctus		ENSDNOG00000002395	Others	101428471
+Dasypus_novemcinctus	REXO4	ENSDNOG00000002429	Others	NA
+Dasypus_novemcinctus	RTF1	ENSDNOG00000002486	Others	NA
+Dasypus_novemcinctus	NLK	ENSDNOG00000002495	Others	NA
+Dasypus_novemcinctus	RNF111	ENSDNOG00000002542	Ring finger protein	NA
+Dasypus_novemcinctus	ALYREF	ENSDNOG00000002563	Others	NA
+Dasypus_novemcinctus	PRMT5	ENSDNOG00000002572	Arginine methyltransferase	101416816
+Dasypus_novemcinctus	HSPA1L	ENSDNOG00000002634	Heat shock protein	101420025
+Dasypus_novemcinctus	NUP98	ENSDNOG00000002694	Others	NA
+Dasypus_novemcinctus	OGT	ENSDNOG00000002746	Others	101419475
+Dasypus_novemcinctus	HDAC6	ENSDNOG00000002754	Histone deacetylase	NA
+Dasypus_novemcinctus	ITGB3BP	ENSDNOG00000002813	Others	101426309
+Dasypus_novemcinctus		ENSDNOG00000002831	Other_CRF	NA
+Dasypus_novemcinctus	TAF8	ENSDNOG00000002853	TATA-box	101426269
+Dasypus_novemcinctus	BTAF1	ENSDNOG00000002856	Others	NA
+Dasypus_novemcinctus	NEO1	ENSDNOG00000002898	Others	101444880
+Dasypus_novemcinctus	MAML3	ENSDNOG00000002937	MAML	NA
+Dasypus_novemcinctus	CAMK2G	ENSDNOG00000002959	CAMK	NA
+Dasypus_novemcinctus	C6orf89	ENSDNOG00000002974	Other_CRF	101422634
+Dasypus_novemcinctus	SLTM	ENSDNOG00000002975	Others	101414025
+Dasypus_novemcinctus	LIN9	ENSDNOG00000003026	Others	NA
+Dasypus_novemcinctus	SMARCD2	ENSDNOG00000003053	SWI/SNF	NA
+Dasypus_novemcinctus	TSPYL2	ENSDNOG00000003105	Others	101438217
+Dasypus_novemcinctus	EZH2	ENSDNOG00000003130	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000003161	HNRNP	101415317
+Dasypus_novemcinctus	GRIP1	ENSDNOG00000003191	Others	101441826
+Dasypus_novemcinctus	BRD8	ENSDNOG00000003203	Bromodomain	NA
+Dasypus_novemcinctus	KDM5B	ENSDNOG00000003205	Lysine demethylase	101439060
+Dasypus_novemcinctus		ENSDNOG00000003227	Others	101411622
+Dasypus_novemcinctus	DNMT1	ENSDNOG00000003313	DNA_methylase	NA
+Dasypus_novemcinctus	MEN1	ENSDNOG00000003348	Others	NA
+Dasypus_novemcinctus	CASP8AP2	ENSDNOG00000003372	Others	101414342
+Dasypus_novemcinctus	ZMYND11	ENSDNOG00000003539	Zinc finger	101422224
+Dasypus_novemcinctus	HR	ENSDNOG00000003547	Lysine methyltransferase	101443365
+Dasypus_novemcinctus		ENSDNOG00000003574	WW	101426539
+Dasypus_novemcinctus	DOT1L	ENSDNOG00000003582	Others	NA
+Dasypus_novemcinctus	COMMD1	ENSDNOG00000003765	Others	101446356
+Dasypus_novemcinctus	TRIP6	ENSDNOG00000003842	Thyroid hormone receptor	101426895
+Dasypus_novemcinctus	DHX9	ENSDNOG00000004038	RNA helicase	NA
+Dasypus_novemcinctus	RNF8	ENSDNOG00000004044	Ring finger protein	101429120
+Dasypus_novemcinctus	CHD6	ENSDNOG00000004176	CHD	NA
+Dasypus_novemcinctus	TSG101	ENSDNOG00000004191	Others	101432193
+Dasypus_novemcinctus	CNOT6L	ENSDNOG00000004229	CCR4-NOT	NA
+Dasypus_novemcinctus	RBFOX2	ENSDNOG00000004372	Others	NA
+Dasypus_novemcinctus	PAK6	ENSDNOG00000004408	Others	NA
+Dasypus_novemcinctus	TIGD3	ENSDNOG00000004634	CENP	101412652
+Dasypus_novemcinctus	TRAK1	ENSDNOG00000004638	Others	101421096
+Dasypus_novemcinctus	PRDX5	ENSDNOG00000004647	Others	101415574
+Dasypus_novemcinctus	JUP	ENSDNOG00000004800	Others	NA
+Dasypus_novemcinctus	RBL2	ENSDNOG00000004897	Other_Co-activator/repressors	101437375
+Dasypus_novemcinctus	BDP1	ENSDNOG00000004929	GTF	101413988
+Dasypus_novemcinctus		ENSDNOG00000004936	Bromodomain	NA
+Dasypus_novemcinctus	HDAC4	ENSDNOG00000004946	Histone deacetylase	NA
+Dasypus_novemcinctus	TRIM28	ENSDNOG00000005022	Tripartite motif	101437949
+Dasypus_novemcinctus		ENSDNOG00000005103	GTF	NA
+Dasypus_novemcinctus	TAF1C	ENSDNOG00000005185	TATA-box	NA
+Dasypus_novemcinctus	TOP1	ENSDNOG00000005358	Other_CRF	NA
+Dasypus_novemcinctus	NRBF2	ENSDNOG00000005441	Nuclear receptor coactivator	101419153
+Dasypus_novemcinctus		ENSDNOG00000005444	Others	NA
+Dasypus_novemcinctus	SLC26A3	ENSDNOG00000005456	SLC	101436434
+Dasypus_novemcinctus	SERTAD2	ENSDNOG00000005514	Others	101413239
+Dasypus_novemcinctus	INO80D	ENSDNOG00000005603	INO80 complex	101419352
+Dasypus_novemcinctus	EPC1	ENSDNOG00000005698	Others	NA
+Dasypus_novemcinctus	SIVA1	ENSDNOG00000005703	Others	101417472
+Dasypus_novemcinctus	KMT2E	ENSDNOG00000005745	Lysine methyltransferase	NA
+Dasypus_novemcinctus	PCGF5	ENSDNOG00000005789	PCGF	101426913
+Dasypus_novemcinctus	SUDS3	ENSDNOG00000005814	Other_Co-activator/repressors	NA
+Dasypus_novemcinctus	CHD8	ENSDNOG00000005838	CHD	101419692
+Dasypus_novemcinctus	BUD31	ENSDNOG00000005929	Others	101440153
+Dasypus_novemcinctus	NLRP3	ENSDNOG00000005939	Others	101435494
+Dasypus_novemcinctus	PPARGC1B	ENSDNOG00000005985	Others	NA
+Dasypus_novemcinctus	EFCAB6	ENSDNOG00000006010	Others	101426970
+Dasypus_novemcinctus	CHD9	ENSDNOG00000006045	CHD	101444985
+Dasypus_novemcinctus	BRD2	ENSDNOG00000006186	Bromodomain	101418918
+Dasypus_novemcinctus	TRIM27	ENSDNOG00000006249	Tripartite motif	NA
+Dasypus_novemcinctus		ENSDNOG00000006250	Chromobox	NA
+Dasypus_novemcinctus	SFMBT1	ENSDNOG00000006278	Others	NA
+Dasypus_novemcinctus	SMARCA2	ENSDNOG00000006402	SWI/SNF	NA
+Dasypus_novemcinctus	LDB2	ENSDNOG00000006403	LIM	101418578
+Dasypus_novemcinctus	DDX17	ENSDNOG00000006499	RNA helicase	101441350
+Dasypus_novemcinctus	NPAT	ENSDNOG00000006503	Nuclear coactivator	NA
+Dasypus_novemcinctus		ENSDNOG00000006533	Tripartite motif	101439577
+Dasypus_novemcinctus	AXIN2	ENSDNOG00000006538	Others	101412476
+Dasypus_novemcinctus	CCNA1	ENSDNOG00000006542	Cyclin	NA
+Dasypus_novemcinctus	ASCC1	ENSDNOG00000006561	ASCC	NA
+Dasypus_novemcinctus	BAZ1B	ENSDNOG00000006581	Bromodomain	NA
+Dasypus_novemcinctus	KDM6B	ENSDNOG00000006586	Lysine demethylase	NA
+Dasypus_novemcinctus	KAT6B	ENSDNOG00000006625	Lysine acetyltransferase	NA
+Dasypus_novemcinctus	ANXA4	ENSDNOG00000006669	Others	101430993
+Dasypus_novemcinctus		ENSDNOG00000006689	Others	NA
+Dasypus_novemcinctus	MMS19	ENSDNOG00000006707	Others	101411887
+Dasypus_novemcinctus	ACTA2	ENSDNOG00000006719	Actin	101411191
+Dasypus_novemcinctus	GSK3B	ENSDNOG00000006774	Others	NA
+Dasypus_novemcinctus	SSBP3	ENSDNOG00000006777	Others	101417610
+Dasypus_novemcinctus	SND1	ENSDNOG00000006795	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000006803	CENP	101442367
+Dasypus_novemcinctus	RNF20	ENSDNOG00000006805	Ring finger protein	101442284
+Dasypus_novemcinctus	ACTN4	ENSDNOG00000006896	Actin	101421870
+Dasypus_novemcinctus	DDX1	ENSDNOG00000006905	RNA helicase	101432401
+Dasypus_novemcinctus	EDRF1	ENSDNOG00000006908	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000006956	TATA-box	101437040
+Dasypus_novemcinctus	MPHOSPH8	ENSDNOG00000007048	Others	101425382
+Dasypus_novemcinctus	TRIM33	ENSDNOG00000007055	Tripartite motif	101411348
+Dasypus_novemcinctus	IKBKB	ENSDNOG00000007108	Others	101411204
+Dasypus_novemcinctus	TRRAP	ENSDNOG00000007163	Others	NA
+Dasypus_novemcinctus	LOXL2	ENSDNOG00000007180	Others	101439224
+Dasypus_novemcinctus	SIRT1	ENSDNOG00000007191	Sirtuin	NA
+Dasypus_novemcinctus	MED23	ENSDNOG00000007197	Mediator complex	101422779
+Dasypus_novemcinctus	CITED1	ENSDNOG00000007349	CITED	101445246
+Dasypus_novemcinctus	PADI4	ENSDNOG00000007419	Others	NA
+Dasypus_novemcinctus	AURKB	ENSDNOG00000007434	Others	101429626
+Dasypus_novemcinctus	CCAR1	ENSDNOG00000007499	Others	101433536
+Dasypus_novemcinctus	PADI2	ENSDNOG00000007503	Other_CRF	NA
+Dasypus_novemcinctus	PHF20	ENSDNOG00000007549	PHF	NA
+Dasypus_novemcinctus	SCAND1	ENSDNOG00000007564	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000007595	Others	NA
+Dasypus_novemcinctus	PKP4	ENSDNOG00000007701	Casein	NA
+Dasypus_novemcinctus	HABP4	ENSDNOG00000007710	Others	NA
+Dasypus_novemcinctus	ARHGAP35	ENSDNOG00000007757	Others	101419952
+Dasypus_novemcinctus		ENSDNOG00000007765	Cyclin	NA
+Dasypus_novemcinctus	TADA3	ENSDNOG00000007768	Transcriptional adaptor	101433530
+Dasypus_novemcinctus	RALGAPA1	ENSDNOG00000007827	Others	101422471
+Dasypus_novemcinctus	TPR	ENSDNOG00000007834	Others	101433665
+Dasypus_novemcinctus	TAF6	ENSDNOG00000007920	TATA-box	101441578
+Dasypus_novemcinctus	CBFA2T2	ENSDNOG00000007950	Others	101443819
+Dasypus_novemcinctus	ERBIN	ENSDNOG00000007997	Erbb2	101418042
+Dasypus_novemcinctus	BRIP1	ENSDNOG00000008034	Others	101431967
+Dasypus_novemcinctus		ENSDNOG00000008069	INO80 complex	101428926
+Dasypus_novemcinctus	AGO1	ENSDNOG00000008077	Others	101430472
+Dasypus_novemcinctus	RBPMS	ENSDNOG00000008126	RNA binding protein	101427995
+Dasypus_novemcinctus	PPID	ENSDNOG00000008158	Others	101440057
+Dasypus_novemcinctus	CXXC5	ENSDNOG00000008161	Others	101414667
+Dasypus_novemcinctus	JAK2	ENSDNOG00000008173	Others	101416389
+Dasypus_novemcinctus	COPS5	ENSDNOG00000008237	Others	101438329
+Dasypus_novemcinctus	HDAC3	ENSDNOG00000008318	Histone deacetylase	NA
+Dasypus_novemcinctus	MAD2L2	ENSDNOG00000008328	Others	NA
+Dasypus_novemcinctus	TGS1	ENSDNOG00000008353	Others	NA
+Dasypus_novemcinctus	FBXW11	ENSDNOG00000008383	Others	NA
+Dasypus_novemcinctus	TCERG1	ENSDNOG00000008452	TEF	101441444
+Dasypus_novemcinctus	LANCL2	ENSDNOG00000008523	Others	101436608
+Dasypus_novemcinctus		ENSDNOG00000008526	Mediator complex	101416390
+Dasypus_novemcinctus	HIRA	ENSDNOG00000008565	Others	NA
+Dasypus_novemcinctus	TARBP1	ENSDNOG00000008637	Others	NA
+Dasypus_novemcinctus	TRIP4	ENSDNOG00000008654	Thyroid hormone receptor	101421299
+Dasypus_novemcinctus		ENSDNOG00000008731	Thyroid hormone receptor	NA
+Dasypus_novemcinctus	UFL1	ENSDNOG00000008795	Others	NA
+Dasypus_novemcinctus	RBBP5	ENSDNOG00000008799	RBBP	NA
+Dasypus_novemcinctus	SMARCD3	ENSDNOG00000008824	SWI/SNF	NA
+Dasypus_novemcinctus	C1QBP	ENSDNOG00000008887	Others	101427933
+Dasypus_novemcinctus		ENSDNOG00000008923	SKI	NA
+Dasypus_novemcinctus		ENSDNOG00000008931	GTF	101436367
+Dasypus_novemcinctus	HEXIM2	ENSDNOG00000008936	Others	NA
+Dasypus_novemcinctus	NCOA7	ENSDNOG00000008942	Nuclear receptor coactivator	NA
+Dasypus_novemcinctus	CHD1	ENSDNOG00000008975	CHD	NA
+Dasypus_novemcinctus	HEATR1	ENSDNOG00000009046	Others	101430478
+Dasypus_novemcinctus	SPAG8	ENSDNOG00000009062	Others	NA
+Dasypus_novemcinctus	SENP1	ENSDNOG00000009135	Others	101430895
+Dasypus_novemcinctus	SMARCA5	ENSDNOG00000009158	SWI/SNF	NA
+Dasypus_novemcinctus	CBX5	ENSDNOG00000009216	Chromobox	101412930
+Dasypus_novemcinctus		ENSDNOG00000009230	Others	NA
+Dasypus_novemcinctus	FBP1	ENSDNOG00000009238	Others	101421191
+Dasypus_novemcinctus	RAF1	ENSDNOG00000009252	Others	101421211
+Dasypus_novemcinctus	UTP4	ENSDNOG00000009307	Others	NA
+Dasypus_novemcinctus	NSD3	ENSDNOG00000009319	Nuclear receptor coactivator	NA
+Dasypus_novemcinctus	ECD	ENSDNOG00000009333	Others	101443484
+Dasypus_novemcinctus		ENSDNOG00000009346	Others	NA
+Dasypus_novemcinctus	FGFR1	ENSDNOG00000009377	FGF	NA
+Dasypus_novemcinctus	ERN1	ENSDNOG00000009467	Others	101435833
+Dasypus_novemcinctus	BIRC3	ENSDNOG00000009485	Others	101427801
+Dasypus_novemcinctus	PDCD4	ENSDNOG00000009494	Others	101445294
+Dasypus_novemcinctus	ELP2	ENSDNOG00000009587	ELP	101436194
+Dasypus_novemcinctus	CDYL	ENSDNOG00000009629	Chromodomain Y	101447525
+Dasypus_novemcinctus	KDM7A	ENSDNOG00000009716	Lysine demethylase	NA
+Dasypus_novemcinctus	ASH2L	ENSDNOG00000009759	Others	101421178
+Dasypus_novemcinctus	MDFI	ENSDNOG00000009771	Others	101433449
+Dasypus_novemcinctus	DR1	ENSDNOG00000009812	Others	101426640
+Dasypus_novemcinctus	MAML1	ENSDNOG00000009919	MAML	NA
+Dasypus_novemcinctus	SSBP2	ENSDNOG00000009927	Others	101438111
+Dasypus_novemcinctus	EYA4	ENSDNOG00000009965	EYA	NA
+Dasypus_novemcinctus	CREBBP	ENSDNOG00000009966	CREB	NA
+Dasypus_novemcinctus	CENPF	ENSDNOG00000010010	CENP	101417960
+Dasypus_novemcinctus		ENSDNOG00000010041	Mediator complex	101418025
+Dasypus_novemcinctus	FRK	ENSDNOG00000010080	Others	101434690
+Dasypus_novemcinctus	MED12	ENSDNOG00000010106	Mediator complex	NA
+Dasypus_novemcinctus	NMI	ENSDNOG00000010133	Others	101438823
+Dasypus_novemcinctus	BLM	ENSDNOG00000010159	Others	NA
+Dasypus_novemcinctus	DCAF6	ENSDNOG00000010184	Others	101418030
+Dasypus_novemcinctus	DDX39B	ENSDNOG00000010215	RNA helicase	101421761
+Dasypus_novemcinctus	INO80	ENSDNOG00000010267	INO80 complex	101427042
+Dasypus_novemcinctus	CDK13	ENSDNOG00000010349	Cyclin	101438603
+Dasypus_novemcinctus	MED9	ENSDNOG00000010354	Mediator complex	101417676
+Dasypus_novemcinctus		ENSDNOG00000010371	Lysine methyltransferase	NA
+Dasypus_novemcinctus	PCGF1	ENSDNOG00000010394	PCGF	101426436
+Dasypus_novemcinctus		ENSDNOG00000010469	Other_CRF	NA
+Dasypus_novemcinctus	NOTCH2	ENSDNOG00000010476	Notch	101438192
+Dasypus_novemcinctus		ENSDNOG00000010571	Others	NA
+Dasypus_novemcinctus	EYA2	ENSDNOG00000010577	EYA	101447350
+Dasypus_novemcinctus	ZMYND8	ENSDNOG00000010604	Zinc finger	101412148
+Dasypus_novemcinctus	CCNA2	ENSDNOG00000010635	Cyclin	105744121
+Dasypus_novemcinctus		ENSDNOG00000010671	TATA-box	NA
+Dasypus_novemcinctus	JMY	ENSDNOG00000010684	Others	101443279
+Dasypus_novemcinctus	PELP1	ENSDNOG00000010696	Others	NA
+Dasypus_novemcinctus	BRD7	ENSDNOG00000010716	Bromodomain	101426767
+Dasypus_novemcinctus	POLR3F	ENSDNOG00000010719	POLR	NA
+Dasypus_novemcinctus	TXLNG	ENSDNOG00000010729	Others	101427568
+Dasypus_novemcinctus	RBBP7	ENSDNOG00000010750	RBBP	101426548
+Dasypus_novemcinctus	IKBKG	ENSDNOG00000010758	Others	101439489
+Dasypus_novemcinctus		ENSDNOG00000010783	Others	101430097
+Dasypus_novemcinctus	MED12L	ENSDNOG00000010799	Mediator complex	NA
+Dasypus_novemcinctus	ITCH	ENSDNOG00000010803	Others	101430618
+Dasypus_novemcinctus	NIPBL	ENSDNOG00000010864	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000010880	Coiled-coil	NA
+Dasypus_novemcinctus	EYA1	ENSDNOG00000010896	EYA	NA
+Dasypus_novemcinctus	ERCC2	ENSDNOG00000010904	Others	NA
+Dasypus_novemcinctus	HTATIP2	ENSDNOG00000010952	Others	101436848
+Dasypus_novemcinctus	NUDT5	ENSDNOG00000010984	Other_CRF	101415921
+Dasypus_novemcinctus	SMARCB1	ENSDNOG00000011019	SWI/SNF	101411384
+Dasypus_novemcinctus	MACROH2A2	ENSDNOG00000011036	Others	101444514
+Dasypus_novemcinctus	SUPT3H	ENSDNOG00000011043	SUPT	NA
+Dasypus_novemcinctus	TIMELESS	ENSDNOG00000011047	Others	NA
+Dasypus_novemcinctus	PSPC1	ENSDNOG00000011078	Others	101426431
+Dasypus_novemcinctus	AATF	ENSDNOG00000011100	Others	NA
+Dasypus_novemcinctus	ABL1	ENSDNOG00000011197	Others	101425834
+Dasypus_novemcinctus	SNRNP200	ENSDNOG00000011227	ASCC	NA
+Dasypus_novemcinctus		ENSDNOG00000011315	TATA-box	101439027
+Dasypus_novemcinctus	TLE4	ENSDNOG00000011349	Transducin	101445025
+Dasypus_novemcinctus	ACTL6A	ENSDNOG00000011367	Actin	101439443
+Dasypus_novemcinctus	CHP1	ENSDNOG00000011434	Others	NA
+Dasypus_novemcinctus	EPC2	ENSDNOG00000011439	Others	NA
+Dasypus_novemcinctus	ARHGAP5	ENSDNOG00000011488	Others	101413147
+Dasypus_novemcinctus		ENSDNOG00000011530	Lysine methyltransferase	NA
+Dasypus_novemcinctus	SCMH1	ENSDNOG00000011593	Others	NA
+Dasypus_novemcinctus	ELP3	ENSDNOG00000011639	ELP	101428613
+Dasypus_novemcinctus		ENSDNOG00000011662	Others	101412336
+Dasypus_novemcinctus	CHD7	ENSDNOG00000011674	CHD	101433519
+Dasypus_novemcinctus	ACTR5	ENSDNOG00000011694	ACTR	101433923
+Dasypus_novemcinctus	CRY1	ENSDNOG00000011730	Others	NA
+Dasypus_novemcinctus	KDM3B	ENSDNOG00000011793	Lysine demethylase	101447752
+Dasypus_novemcinctus		ENSDNOG00000011848	Others	NA
+Dasypus_novemcinctus	TRIM37	ENSDNOG00000011882	Tripartite motif	NA
+Dasypus_novemcinctus	MED6	ENSDNOG00000011940	Mediator complex	NA
+Dasypus_novemcinctus	CNOT11	ENSDNOG00000011948	CCR4-NOT	101420327
+Dasypus_novemcinctus	HIF1AN	ENSDNOG00000011964	Others	101426098
+Dasypus_novemcinctus	CCNT1	ENSDNOG00000011969	Cyclin	101432479
+Dasypus_novemcinctus	CCNC	ENSDNOG00000011999	Cyclin	NA
+Dasypus_novemcinctus	MED13	ENSDNOG00000012049	Mediator complex	NA
+Dasypus_novemcinctus	DCAF1	ENSDNOG00000012082	Others	101444798
+Dasypus_novemcinctus	YEATS2	ENSDNOG00000012083	Others	NA
+Dasypus_novemcinctus	TAF5L	ENSDNOG00000012109	TATA-box	101432052
+Dasypus_novemcinctus	CNOT9	ENSDNOG00000012115	CCR4-NOT	NA
+Dasypus_novemcinctus	KAT6A	ENSDNOG00000012153	Lysine acetyltransferase	NA
+Dasypus_novemcinctus	NRG1	ENSDNOG00000012161	Others	101435719
+Dasypus_novemcinctus		ENSDNOG00000012208	Others	NA
+Dasypus_novemcinctus	MLLT6	ENSDNOG00000012419	Others	NA
+Dasypus_novemcinctus	TAF2	ENSDNOG00000012454	TATA-box	101432283
+Dasypus_novemcinctus	LMO1	ENSDNOG00000012520	LIM	101432944
+Dasypus_novemcinctus	MED18	ENSDNOG00000012531	Mediator complex	101426214
+Dasypus_novemcinctus	NELFCD	ENSDNOG00000012591	GTF	NA
+Dasypus_novemcinctus		ENSDNOG00000012594	Others	101440172
+Dasypus_novemcinctus	SETD3	ENSDNOG00000012617	SET	101422009
+Dasypus_novemcinctus	RNF10	ENSDNOG00000012640	Ring finger protein	101429520
+Dasypus_novemcinctus	TRIM29	ENSDNOG00000012707	Tripartite motif	101440285
+Dasypus_novemcinctus	NFKBIZ	ENSDNOG00000012771	NFKB associated	NA
+Dasypus_novemcinctus	CHAF1B	ENSDNOG00000012819	Others	101413049
+Dasypus_novemcinctus		ENSDNOG00000012825	Others	NA
+Dasypus_novemcinctus	MYCBP2	ENSDNOG00000012839	MYC	NA
+Dasypus_novemcinctus	BCL9L	ENSDNOG00000012924	BCL	NA
+Dasypus_novemcinctus	CDK5R1	ENSDNOG00000012933	Cyclin	101439815
+Dasypus_novemcinctus		ENSDNOG00000012968	Others	NA
+Dasypus_novemcinctus	KDM2B	ENSDNOG00000013082	Lysine demethylase	NA
+Dasypus_novemcinctus	SETD6	ENSDNOG00000013238	SET	101416327
+Dasypus_novemcinctus	STRN3	ENSDNOG00000013247	Others	101439346
+Dasypus_novemcinctus	CNOT1	ENSDNOG00000013250	CCR4-NOT	NA
+Dasypus_novemcinctus	BRDT	ENSDNOG00000013324	Bromodomain	NA
+Dasypus_novemcinctus	RB1	ENSDNOG00000013345	Other_Co-activator/repressors	NA
+Dasypus_novemcinctus	KDM1A	ENSDNOG00000013361	Lysine demethylase	NA
+Dasypus_novemcinctus	LBH	ENSDNOG00000013522	Others	101414754
+Dasypus_novemcinctus	MAK	ENSDNOG00000013545	Others	NA
+Dasypus_novemcinctus	NCOA4	ENSDNOG00000013633	Nuclear receptor coactivator	101441756
+Dasypus_novemcinctus	TDG	ENSDNOG00000013722	Others	101435767
+Dasypus_novemcinctus	HNRNPD	ENSDNOG00000013830	HNRNP	NA
+Dasypus_novemcinctus	NOL11	ENSDNOG00000013861	Nuclear coactivator	NA
+Dasypus_novemcinctus	EZH1	ENSDNOG00000013912	Others	NA
+Dasypus_novemcinctus	BRWD1	ENSDNOG00000014021	Bromodomain	NA
+Dasypus_novemcinctus	SMYD2	ENSDNOG00000014059	SMYD	101417964
+Dasypus_novemcinctus	PNRC1	ENSDNOG00000014060	Others	101443611
+Dasypus_novemcinctus	MORF4L2	ENSDNOG00000014061	Other_CRF	101410830
+Dasypus_novemcinctus	CDK8	ENSDNOG00000014148	Cyclin	101411099
+Dasypus_novemcinctus	LPXN	ENSDNOG00000014262	Others	101444778
+Dasypus_novemcinctus	NOTCH1	ENSDNOG00000014374	Notch	NA
+Dasypus_novemcinctus		ENSDNOG00000014381	Others	101441271
+Dasypus_novemcinctus	KAT2B	ENSDNOG00000014385	Lysine acetyltransferase	NA
+Dasypus_novemcinctus	TASOR	ENSDNOG00000014449	FAM	101429086
+Dasypus_novemcinctus	CASK	ENSDNOG00000014474	CAMK	NA
+Dasypus_novemcinctus		ENSDNOG00000014532	Others	101410810
+Dasypus_novemcinctus	CHUK	ENSDNOG00000014663	Others	101429772
+Dasypus_novemcinctus	MYO6	ENSDNOG00000014711	Others	NA
+Dasypus_novemcinctus	CAMK4	ENSDNOG00000014740	CAMK	NA
+Dasypus_novemcinctus	TENM2	ENSDNOG00000014992	Others	101419721
+Dasypus_novemcinctus	WWC1	ENSDNOG00000015012	WW	101420157
+Dasypus_novemcinctus	TRIP13	ENSDNOG00000015202	Thyroid hormone receptor	101426219
+Dasypus_novemcinctus	EMSY	ENSDNOG00000015215	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000015220	Others	101438277
+Dasypus_novemcinctus	PARP14	ENSDNOG00000015400	PARP	101442989
+Dasypus_novemcinctus	HLTF	ENSDNOG00000015496	Others	101440864
+Dasypus_novemcinctus	KDM5A	ENSDNOG00000015558	Lysine demethylase	101446505
+Dasypus_novemcinctus	PQBP1	ENSDNOG00000015637	Others	101435637
+Dasypus_novemcinctus	KANK1	ENSDNOG00000015638	Others	NA
+Dasypus_novemcinctus	ERBB2	ENSDNOG00000015671	Erbb2	NA
+Dasypus_novemcinctus	SAFB	ENSDNOG00000015746	Others	101433884
+Dasypus_novemcinctus	HIPK1	ENSDNOG00000015792	HIPK	101412933
+Dasypus_novemcinctus	SFRP4	ENSDNOG00000015930	Others	NA
+Dasypus_novemcinctus	EGFR	ENSDNOG00000015935	Others	NA
+Dasypus_novemcinctus	BTK	ENSDNOG00000015948	Others	NA
+Dasypus_novemcinctus	BRCA1	ENSDNOG00000016069	Others	NA
+Dasypus_novemcinctus	PAXIP1	ENSDNOG00000016100	Others	NA
+Dasypus_novemcinctus	LIN54	ENSDNOG00000016114	Others	101439245
+Dasypus_novemcinctus	HIPK2	ENSDNOG00000016129	HIPK	NA
+Dasypus_novemcinctus	CSRP1	ENSDNOG00000016160	Others	NA
+Dasypus_novemcinctus	MED15	ENSDNOG00000016430	Mediator complex	NA
+Dasypus_novemcinctus	TOB2	ENSDNOG00000016431	Others	101440059
+Dasypus_novemcinctus	POLR2A	ENSDNOG00000016482	POLR	NA
+Dasypus_novemcinctus	THOC5	ENSDNOG00000016572	Others	101411614
+Dasypus_novemcinctus	KDM3A	ENSDNOG00000016594	Lysine demethylase	101432750
+Dasypus_novemcinctus	LPIN2	ENSDNOG00000016612	LPIN	101443195
+Dasypus_novemcinctus		ENSDNOG00000016666	Mediator complex	101429057
+Dasypus_novemcinctus	ANKAR	ENSDNOG00000016738	Ankyrin repeat	NA
+Dasypus_novemcinctus	EZR	ENSDNOG00000016769	Others	NA
+Dasypus_novemcinctus	TNKS	ENSDNOG00000016807	Others	NA
+Dasypus_novemcinctus	RUVBL2	ENSDNOG00000016817	Other_CRF	101429973
+Dasypus_novemcinctus	CCNT2	ENSDNOG00000016858	Cyclin	101410756
+Dasypus_novemcinctus	NELFB	ENSDNOG00000016862	GTF	NA
+Dasypus_novemcinctus	DHX33	ENSDNOG00000016865	RNA helicase	101427205
+Dasypus_novemcinctus	FGFR2	ENSDNOG00000016895	FGF	101412269
+Dasypus_novemcinctus	MLLT3	ENSDNOG00000017039	GTF	NA
+Dasypus_novemcinctus		ENSDNOG00000017066	Others	101425506
+Dasypus_novemcinctus	FUS	ENSDNOG00000017091	Others	101412934
+Dasypus_novemcinctus	WAC	ENSDNOG00000017136	WW	NA
+Dasypus_novemcinctus	DMAP1	ENSDNOG00000017165	DNA_methylase	NA
+Dasypus_novemcinctus		ENSDNOG00000017199	RNA binding protein	NA
+Dasypus_novemcinctus	CTNND1	ENSDNOG00000017340	Casein	101442721
+Dasypus_novemcinctus	LEO1	ENSDNOG00000017392	Others	101442190
+Dasypus_novemcinctus	ELP1	ENSDNOG00000017396	ELP	101416266
+Dasypus_novemcinctus		ENSDNOG00000017401	Arginine methyltransferase	NA
+Dasypus_novemcinctus	SGK1	ENSDNOG00000017415	Others	NA
+Dasypus_novemcinctus	RPAP2	ENSDNOG00000017468	Others	NA
+Dasypus_novemcinctus	NSD1	ENSDNOG00000017547	Nuclear receptor coactivator	NA
+Dasypus_novemcinctus	PLK1	ENSDNOG00000017616	Others	101421042
+Dasypus_novemcinctus	RWDD3	ENSDNOG00000017622	Others	101447077
+Dasypus_novemcinctus	CCNE1	ENSDNOG00000017665	Cyclin	101411174
+Dasypus_novemcinctus	CHEK2	ENSDNOG00000017702	Others	101433313
+Dasypus_novemcinctus	SRFBP1	ENSDNOG00000017733	Others	NA
+Dasypus_novemcinctus	ELL3	ENSDNOG00000017756	GTF	NA
+Dasypus_novemcinctus	HELZ2	ENSDNOG00000017809	Others	NA
+Dasypus_novemcinctus	ZMYM5	ENSDNOG00000017909	Zinc finger	101427161
+Dasypus_novemcinctus	HIPK3	ENSDNOG00000018007	HIPK	101429513
+Dasypus_novemcinctus	FGF1	ENSDNOG00000018018	FGF	101425751
+Dasypus_novemcinctus	ZMYM2	ENSDNOG00000018038	Zinc finger	101427609
+Dasypus_novemcinctus		ENSDNOG00000018064	Mediator complex	101443470
+Dasypus_novemcinctus	VGLL1	ENSDNOG00000018136	Vestigial like	NA
+Dasypus_novemcinctus	ATF7IP	ENSDNOG00000018148	Others	101422277
+Dasypus_novemcinctus	MED27	ENSDNOG00000018182	Mediator complex	101432031
+Dasypus_novemcinctus	TAF13	ENSDNOG00000018227	TATA-box	101418218
+Dasypus_novemcinctus	TAF1B	ENSDNOG00000018268	TATA-box	101420343
+Dasypus_novemcinctus	TNP1	ENSDNOG00000018270	Other_CRF	101442860
+Dasypus_novemcinctus	XRCC6	ENSDNOG00000018356	Others	101436235
+Dasypus_novemcinctus	HDAC7	ENSDNOG00000018384	Histone deacetylase	101437800
+Dasypus_novemcinctus	TP53BP1	ENSDNOG00000018435	Others	101421300
+Dasypus_novemcinctus	PIK3R1	ENSDNOG00000018528	Others	101435351
+Dasypus_novemcinctus	PRMT7	ENSDNOG00000018600	Arginine methyltransferase	101420939
+Dasypus_novemcinctus	TADA1	ENSDNOG00000018606	Transcriptional adaptor	101431847
+Dasypus_novemcinctus	NCOA3	ENSDNOG00000018625	Nuclear receptor coactivator	NA
+Dasypus_novemcinctus		ENSDNOG00000018667	Others	101413180
+Dasypus_novemcinctus		ENSDNOG00000018682	Others	101419364
+Dasypus_novemcinctus		ENSDNOG00000018710	Others	NA
+Dasypus_novemcinctus	PHIP	ENSDNOG00000018741	Others	NA
+Dasypus_novemcinctus	SFSWAP	ENSDNOG00000018742	Others	101421328
+Dasypus_novemcinctus	EHMT1	ENSDNOG00000018846	Histone lysine methyltransferase	NA
+Dasypus_novemcinctus	CARM1	ENSDNOG00000018868	Others	101413381
+Dasypus_novemcinctus	HDAC11	ENSDNOG00000018976	Histone deacetylase	NA
+Dasypus_novemcinctus	TENM1	ENSDNOG00000019009	Others	101433185
+Dasypus_novemcinctus	BAZ1A	ENSDNOG00000019071	Bromodomain	NA
+Dasypus_novemcinctus	SUPT20H	ENSDNOG00000019137	SUPT	101436388
+Dasypus_novemcinctus	BTRC	ENSDNOG00000019257	Others	NA
+Dasypus_novemcinctus	TLE3	ENSDNOG00000019320	Transducin	NA
+Dasypus_novemcinctus	FHOD1	ENSDNOG00000019344	Others	NA
+Dasypus_novemcinctus	BRMS1	ENSDNOG00000019369	Other_CRF	NA
+Dasypus_novemcinctus	MED13L	ENSDNOG00000019383	Mediator complex	NA
+Dasypus_novemcinctus	ESF1	ENSDNOG00000019409	Others	101422112
+Dasypus_novemcinctus	CNOT2	ENSDNOG00000019444	CCR4-NOT	NA
+Dasypus_novemcinctus	SUPT6H	ENSDNOG00000019476	SUPT	101433217
+Dasypus_novemcinctus	DNAJA3	ENSDNOG00000019489	Others	101421910
+Dasypus_novemcinctus	CHD1L	ENSDNOG00000019504	CHD	101434390
+Dasypus_novemcinctus	CCAR2	ENSDNOG00000019561	Others	101414656
+Dasypus_novemcinctus	RING1	ENSDNOG00000019606	Ring finger protein	101412665
+Dasypus_novemcinctus	NCK1	ENSDNOG00000019626	Others	NA
+Dasypus_novemcinctus	ACTR8	ENSDNOG00000019728	ACTR	101411188
+Dasypus_novemcinctus	NRIP1	ENSDNOG00000019729	Nuclear receptor coactivator	NA
+Dasypus_novemcinctus	SMYD1	ENSDNOG00000019738	SMYD	NA
+Dasypus_novemcinctus	TERF2IP	ENSDNOG00000019915	Others	101413166
+Dasypus_novemcinctus	DTX4	ENSDNOG00000019924	Others	105744129
+Dasypus_novemcinctus	WWP1	ENSDNOG00000019937	WW	101429327
+Dasypus_novemcinctus	RNF25	ENSDNOG00000020015	Ring finger protein	101427528
+Dasypus_novemcinctus	STK36	ENSDNOG00000020016	Others	101425153
+Dasypus_novemcinctus		ENSDNOG00000023744	TEF	101415351
+Dasypus_novemcinctus	MED31	ENSDNOG00000023932	Mediator complex	101419314
+Dasypus_novemcinctus	PNRC2	ENSDNOG00000023948	Others	101444156
+Dasypus_novemcinctus	DNMT3B	ENSDNOG00000023970	DNA_methylase	NA
+Dasypus_novemcinctus	DVL2	ENSDNOG00000023990	Others	NA
+Dasypus_novemcinctus	JMJD1C	ENSDNOG00000024016	Other_CRF	NA
+Dasypus_novemcinctus		ENSDNOG00000024080	Others	101434076
+Dasypus_novemcinctus	TAF7L	ENSDNOG00000024104	TATA-box	NA
+Dasypus_novemcinctus	NAB1	ENSDNOG00000024257	Others	101435958
+Dasypus_novemcinctus	SUV39H1	ENSDNOG00000024286	Others	101431137
+Dasypus_novemcinctus	GTF2B	ENSDNOG00000024361	GTF	101433529
+Dasypus_novemcinctus	CHRAC1	ENSDNOG00000024378	Other_CRF	NA
+Dasypus_novemcinctus		ENSDNOG00000024576	EID	101413387
+Dasypus_novemcinctus	NIBAN2	ENSDNOG00000024691	FAM	NA
+Dasypus_novemcinctus	BCAS3	ENSDNOG00000024753	Others	NA
+Dasypus_novemcinctus	VGLL3	ENSDNOG00000024804	Vestigial like	NA
+Dasypus_novemcinctus	SFR1	ENSDNOG00000024871	Others	NA
+Dasypus_novemcinctus	MED25	ENSDNOG00000024929	Mediator complex	NA
+Dasypus_novemcinctus	PIR	ENSDNOG00000024952	Others	NA
+Dasypus_novemcinctus	WDR5	ENSDNOG00000025013	WD	NA
+Dasypus_novemcinctus	WWP2	ENSDNOG00000025020	WW	101443738
+Dasypus_novemcinctus	RBM39	ENSDNOG00000025219	RNA binding protein	101447153
+Dasypus_novemcinctus	NUP62	ENSDNOG00000025273	Others	101412185
+Dasypus_novemcinctus	DVL3	ENSDNOG00000025319	Others	101435196
+Dasypus_novemcinctus		ENSDNOG00000025391	Zinc finger	101426238
+Dasypus_novemcinctus	MED11	ENSDNOG00000025444	Mediator complex	NA
+Dasypus_novemcinctus	TRIM16	ENSDNOG00000025675	Tripartite motif	101429714
+Dasypus_novemcinctus	LPIN3	ENSDNOG00000025804	LPIN	NA
+Dasypus_novemcinctus		ENSDNOG00000025865	INO80 complex	101441604
+Dasypus_novemcinctus	CCDC85B	ENSDNOG00000030701	Coiled-coil	101424925
+Dasypus_novemcinctus	TRIM32	ENSDNOG00000030704	Tripartite motif	101437149
+Dasypus_novemcinctus	RUNX1T1	ENSDNOG00000030709	Others	NA
+Dasypus_novemcinctus	CDK5RAP3	ENSDNOG00000030779	Cyclin	NA
+Dasypus_novemcinctus	PSEN1	ENSDNOG00000030820	Others	101438038
+Dasypus_novemcinctus	GTF2H3	ENSDNOG00000030827	GTF	101441007
+Dasypus_novemcinctus	HINT1	ENSDNOG00000030844	Others	101426122
+Dasypus_novemcinctus	DDX20	ENSDNOG00000030865	RNA helicase	101432532
+Dasypus_novemcinctus	BEND6	ENSDNOG00000030905	Others	101418797
+Dasypus_novemcinctus		ENSDNOG00000031004	FHL	101434112
+Dasypus_novemcinctus	RUVBL1	ENSDNOG00000031098	Other_CRF	101437955
+Dasypus_novemcinctus		ENSDNOG00000031121	Transducin	101442817
+Dasypus_novemcinctus		ENSDNOG00000031125	SLC	101425310
+Dasypus_novemcinctus	THRAP3	ENSDNOG00000031470	Thyroid hormone receptor	101434416
+Dasypus_novemcinctus	BRF1	ENSDNOG00000031642	GTF	101425338
+Dasypus_novemcinctus	TAF4B	ENSDNOG00000031698	TATA-box	101443108
+Dasypus_novemcinctus	SERTAD3	ENSDNOG00000031863	Others	101422692
+Dasypus_novemcinctus		ENSDNOG00000031923	Others	101442084
+Dasypus_novemcinctus		ENSDNOG00000032023	Others	NA
+Dasypus_novemcinctus	SMURF2	ENSDNOG00000032050	Others	101439956
+Dasypus_novemcinctus	NFKBIB	ENSDNOG00000032079	NFKB associated	101425701
+Dasypus_novemcinctus	SAP30BP	ENSDNOG00000032103	SAP	NA
+Dasypus_novemcinctus		ENSDNOG00000032158	Ring finger protein	101447192
+Dasypus_novemcinctus	CDK1	ENSDNOG00000032169	Cyclin	101414222
+Dasypus_novemcinctus	CALCOCO1	ENSDNOG00000032227	Others	NA
+Dasypus_novemcinctus	PRMT8	ENSDNOG00000032233	Arginine methyltransferase	101442320
+Dasypus_novemcinctus	SUPT4H1	ENSDNOG00000032349	SUPT	101415557
+Dasypus_novemcinctus	MED29	ENSDNOG00000032402	Mediator complex	NA
+Dasypus_novemcinctus	TAB3	ENSDNOG00000032412	Others	101414179
+Dasypus_novemcinctus	LDB1	ENSDNOG00000032439	LIM	NA
+Dasypus_novemcinctus	MED22	ENSDNOG00000032550	Mediator complex	101434925
+Dasypus_novemcinctus	CRYM	ENSDNOG00000032638	Others	NA
+Dasypus_novemcinctus	RGCC	ENSDNOG00000032695	Others	NA
+Dasypus_novemcinctus	NFATC2IP	ENSDNOG00000032794	Nuclear coactivator	101419348
+Dasypus_novemcinctus	DNAJB1	ENSDNOG00000032800	Others	101437513
+Dasypus_novemcinctus		ENSDNOG00000032821	TEF	101417377
+Dasypus_novemcinctus	KCNIP3	ENSDNOG00000032897	Others	NA
+Dasypus_novemcinctus	WTIP	ENSDNOG00000032907	Others	NA
+Dasypus_novemcinctus	DDX54	ENSDNOG00000032913	RNA helicase	101438394
+Dasypus_novemcinctus	WDR61	ENSDNOG00000032975	WD	NA
+Dasypus_novemcinctus	LMO2	ENSDNOG00000032989	LIM	NA
+Dasypus_novemcinctus	CXXC1	ENSDNOG00000032991	Others	NA
+Dasypus_novemcinctus	CCNK	ENSDNOG00000032994	Cyclin	NA
+Dasypus_novemcinctus	MCIDAS	ENSDNOG00000033139	Others	NA
+Dasypus_novemcinctus	NAB2	ENSDNOG00000033168	Others	101445971
+Dasypus_novemcinctus	BCL9	ENSDNOG00000033213	BCL	NA
+Dasypus_novemcinctus		ENSDNOG00000033222	PCGF	NA
+Dasypus_novemcinctus	SIRT7	ENSDNOG00000033372	Sirtuin	101434803
+Dasypus_novemcinctus	AGO2	ENSDNOG00000033433	Others	NA
+Dasypus_novemcinctus	ARHGEF5	ENSDNOG00000033475	Others	101412924
+Dasypus_novemcinctus	NACA	ENSDNOG00000033528	Others	NA
+Dasypus_novemcinctus	TAB1	ENSDNOG00000033686	Others	101412966
+Dasypus_novemcinctus	RLIM	ENSDNOG00000033904	Ring finger protein	101431667
+Dasypus_novemcinctus	CIR1	ENSDNOG00000033913	Other_Co-activator/repressors	101411153
+Dasypus_novemcinctus	SUPT5H	ENSDNOG00000033920	SUPT	101440179
+Dasypus_novemcinctus	COPS2	ENSDNOG00000034042	Others	NA
+Dasypus_novemcinctus	RYBP	ENSDNOG00000034094	Others	101439966
+Dasypus_novemcinctus		ENSDNOG00000034115	Others	NA
+Dasypus_novemcinctus	JMJD6	ENSDNOG00000034166	Others	101416799
+Dasypus_novemcinctus	PFDN5	ENSDNOG00000034200	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000034291	TATA-box	NA
+Dasypus_novemcinctus	ENY2	ENSDNOG00000034317	Others	101441568
+Dasypus_novemcinctus		ENSDNOG00000034360	Nucleoplasmin	NA
+Dasypus_novemcinctus	PHF5A	ENSDNOG00000034362	PHF	NA
+Dasypus_novemcinctus	ZNF593	ENSDNOG00000034363	Zinc finger	NA
+Dasypus_novemcinctus	RAI1	ENSDNOG00000034407	Others	NA
+Dasypus_novemcinctus	BRD1	ENSDNOG00000034415	Bromodomain	101418133
+Dasypus_novemcinctus	ZNF703	ENSDNOG00000034526	Zinc finger	NA
+Dasypus_novemcinctus		ENSDNOG00000034589	SLC	NA
+Dasypus_novemcinctus	ARGLU1	ENSDNOG00000034591	Others	101413192
+Dasypus_novemcinctus		ENSDNOG00000034609	RBBP	101413729
+Dasypus_novemcinctus	ASH1L	ENSDNOG00000034752	Others	NA
+Dasypus_novemcinctus	SUFU	ENSDNOG00000034755	Others	101445472
+Dasypus_novemcinctus		ENSDNOG00000034773	ANP	101417725
+Dasypus_novemcinctus	HMOX1	ENSDNOG00000034860	Others	101420627
+Dasypus_novemcinctus	ARRB2	ENSDNOG00000034879	Others	101446221
+Dasypus_novemcinctus	HYAL2	ENSDNOG00000034898	Others	101420589
+Dasypus_novemcinctus		ENSDNOG00000034942	Others	101412131
+Dasypus_novemcinctus	MED16	ENSDNOG00000034954	Mediator complex	NA
+Dasypus_novemcinctus	BEND3	ENSDNOG00000035050	Others	101441033
+Dasypus_novemcinctus	ACTL6B	ENSDNOG00000035063	Actin	101427842
+Dasypus_novemcinctus	PCGF3	ENSDNOG00000035111	PCGF	NA
+Dasypus_novemcinctus		ENSDNOG00000035116	Others	NA
+Dasypus_novemcinctus	TFB2M	ENSDNOG00000035182	Others	NA
+Dasypus_novemcinctus	TRIM25	ENSDNOG00000035232	Tripartite motif	101436200
+Dasypus_novemcinctus	SQSTM1	ENSDNOG00000035271	Others	NA
+Dasypus_novemcinctus	TCEA1	ENSDNOG00000035288	TEF	101440443
+Dasypus_novemcinctus	KAT8	ENSDNOG00000035332	Lysine acetyltransferase	NA
+Dasypus_novemcinctus	YAF2	ENSDNOG00000035406	Others	NA
+Dasypus_novemcinctus	CNOT8	ENSDNOG00000035426	CCR4-NOT	101432622
+Dasypus_novemcinctus	BASP1	ENSDNOG00000035443	Others	101422223
+Dasypus_novemcinctus	HDAC2	ENSDNOG00000035453	Histone deacetylase	NA
+Dasypus_novemcinctus	RNF141	ENSDNOG00000035538	Ring finger protein	NA
+Dasypus_novemcinctus	DRAP1	ENSDNOG00000035539	Others	101426577
+Dasypus_novemcinctus	PHF1	ENSDNOG00000035614	PHF	NA
+Dasypus_novemcinctus	MYOCD	ENSDNOG00000035642	Others	NA
+Dasypus_novemcinctus	CTNNB1	ENSDNOG00000035716	Casein	101418767
+Dasypus_novemcinctus	TAF5	ENSDNOG00000035792	TATA-box	101422250
+Dasypus_novemcinctus	BAHCC1	ENSDNOG00000035799	Others	NA
+Dasypus_novemcinctus	PRMT1	ENSDNOG00000035806	Arginine methyltransferase	NA
+Dasypus_novemcinctus		ENSDNOG00000035810	MAGE	101421935
+Dasypus_novemcinctus	CHEK1	ENSDNOG00000036059	Others	101441252
+Dasypus_novemcinctus	URI1	ENSDNOG00000036070	Others	101411625
+Dasypus_novemcinctus	KCTD1	ENSDNOG00000036092	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000036239	SSX	NA
+Dasypus_novemcinctus	APBB1	ENSDNOG00000036259	Others	NA
+Dasypus_novemcinctus	SNAPC2	ENSDNOG00000036458	Others	101421162
+Dasypus_novemcinctus		ENSDNOG00000036459	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000036495	Others	NA
+Dasypus_novemcinctus	HSBP1	ENSDNOG00000036507	Heat shock protein	101447680
+Dasypus_novemcinctus		ENSDNOG00000036529	Others	101425056
+Dasypus_novemcinctus	SDR16C5	ENSDNOG00000036542	Others	101433653
+Dasypus_novemcinctus	HCK	ENSDNOG00000036565	Others	101436877
+Dasypus_novemcinctus	CAVIN1	ENSDNOG00000036590	Others	101445884
+Dasypus_novemcinctus	PYCARD	ENSDNOG00000036598	Others	101413966
+Dasypus_novemcinctus	NRIP2	ENSDNOG00000036625	Nuclear coactivator	NA
+Dasypus_novemcinctus	KDM6A	ENSDNOG00000036711	Lysine demethylase	101439545
+Dasypus_novemcinctus	PDLIM1	ENSDNOG00000036863	Others	101430202
+Dasypus_novemcinctus	CLUL1	ENSDNOG00000037140	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000037146	SET	NA
+Dasypus_novemcinctus	WNT3A	ENSDNOG00000037172	Others	101447314
+Dasypus_novemcinctus	FLNA	ENSDNOG00000037289	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000037294	Mediator complex	NA
+Dasypus_novemcinctus	ELANE	ENSDNOG00000037320	Others	NA
+Dasypus_novemcinctus	RASD2	ENSDNOG00000037424	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000037465	Others	NA
+Dasypus_novemcinctus	NOD2	ENSDNOG00000037559	Others	101444788
+Dasypus_novemcinctus	TCF20	ENSDNOG00000037615	Others	101418253
+Dasypus_novemcinctus	TNNI1	ENSDNOG00000037630	Others	NA
+Dasypus_novemcinctus	NKAP	ENSDNOG00000037645	NFKB associated	101430380
+Dasypus_novemcinctus	NAA15	ENSDNOG00000037740	Others	NA
+Dasypus_novemcinctus	RNF4	ENSDNOG00000037805	Ring finger protein	101422902
+Dasypus_novemcinctus		ENSDNOG00000037867	Bromodomain	NA
+Dasypus_novemcinctus	FAM83G	ENSDNOG00000037875	FAM	NA
+Dasypus_novemcinctus	GRHPR	ENSDNOG00000037952	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000037960	ANP	101446156
+Dasypus_novemcinctus	SETD7	ENSDNOG00000037968	SET	101421633
+Dasypus_novemcinctus	LRIF1	ENSDNOG00000037971	Others	101435850
+Dasypus_novemcinctus		ENSDNOG00000037993	TATA-box	NA
+Dasypus_novemcinctus	GMNN	ENSDNOG00000038040	Others	101433595
+Dasypus_novemcinctus		ENSDNOG00000038062	Others	101444058
+Dasypus_novemcinctus	WWTR1	ENSDNOG00000038178	WW	101427701
+Dasypus_novemcinctus	KDM8	ENSDNOG00000038227	Lysine demethylase	101424092
+Dasypus_novemcinctus	MALT1	ENSDNOG00000038239	Others	101447280
+Dasypus_novemcinctus		ENSDNOG00000038310	Mediator complex	101430927
+Dasypus_novemcinctus	SNX6	ENSDNOG00000038325	Others	101423518
+Dasypus_novemcinctus	INO80C	ENSDNOG00000038430	INO80 complex	101432896
+Dasypus_novemcinctus	MRTFA	ENSDNOG00000038468	Others	101424068
+Dasypus_novemcinctus	PICALM	ENSDNOG00000038474	Others	NA
+Dasypus_novemcinctus	RIPK2	ENSDNOG00000038605	Others	101422988
+Dasypus_novemcinctus	GTF2A2	ENSDNOG00000038655	GTF	101411968
+Dasypus_novemcinctus	HDAC5	ENSDNOG00000038658	Histone deacetylase	101420298
+Dasypus_novemcinctus	RPRD1A	ENSDNOG00000038659	Others	101434051
+Dasypus_novemcinctus	CTBP2	ENSDNOG00000038675	Others	101434905
+Dasypus_novemcinctus	PEX14	ENSDNOG00000038702	Others	101429733
+Dasypus_novemcinctus		ENSDNOG00000038709	BCL	101419972
+Dasypus_novemcinctus	BRCA2	ENSDNOG00000038771	Others	101446376
+Dasypus_novemcinctus	TRIM8	ENSDNOG00000038841	Tripartite motif	101444901
+Dasypus_novemcinctus	BCOR	ENSDNOG00000038847	Other_Co-activator/repressors	101442605
+Dasypus_novemcinctus	FHL5	ENSDNOG00000038915	FHL	101438815
+Dasypus_novemcinctus	MEAF6	ENSDNOG00000038956	Others	101439109
+Dasypus_novemcinctus	BANP	ENSDNOG00000038981	Others	NA
+Dasypus_novemcinctus	CDK5	ENSDNOG00000039046	Cyclin	101436006
+Dasypus_novemcinctus		ENSDNOG00000039062	Heat shock protein	NA
+Dasypus_novemcinctus	ARRDC4	ENSDNOG00000039074	Others	NA
+Dasypus_novemcinctus	CTBP1	ENSDNOG00000039081	Others	NA
+Dasypus_novemcinctus	FGF11	ENSDNOG00000039158	FGF	101441523
+Dasypus_novemcinctus	CHCHD6	ENSDNOG00000039188	Coiled-coil	101412820
+Dasypus_novemcinctus	MBD3L1	ENSDNOG00000039231	MBD	101443813
+Dasypus_novemcinctus		ENSDNOG00000039281	RNA helicase	101415054
+Dasypus_novemcinctus		ENSDNOG00000039283	Others	101440089
+Dasypus_novemcinctus	KDM5C	ENSDNOG00000039467	Lysine demethylase	NA
+Dasypus_novemcinctus	AIM2	ENSDNOG00000039503	Others	101431079
+Dasypus_novemcinctus	LZTS1	ENSDNOG00000039625	Others	101430092
+Dasypus_novemcinctus	NOC2L	ENSDNOG00000039671	Others	NA
+Dasypus_novemcinctus	VEGFA	ENSDNOG00000039695	Other_CRF	NA
+Dasypus_novemcinctus	PYGO2	ENSDNOG00000039841	Others	NA
+Dasypus_novemcinctus	CDK7	ENSDNOG00000039894	Cyclin	NA
+Dasypus_novemcinctus	ACTN2	ENSDNOG00000039914	Actin	101432081
+Dasypus_novemcinctus	KMT5B	ENSDNOG00000039986	Lysine methyltransferase	NA
+Dasypus_novemcinctus	STK3	ENSDNOG00000040284	Others	NA
+Dasypus_novemcinctus	SAV1	ENSDNOG00000040347	Others	NA
+Dasypus_novemcinctus	TAF3	ENSDNOG00000040438	TATA-box	NA
+Dasypus_novemcinctus	DYRK1B	ENSDNOG00000040481	Others	101414296
+Dasypus_novemcinctus	TRIB3	ENSDNOG00000040483	Others	101416448
+Dasypus_novemcinctus	PRPF6	ENSDNOG00000040544	Others	101438328
+Dasypus_novemcinctus	RPTOR	ENSDNOG00000040586	Others	101433259
+Dasypus_novemcinctus	DAPK3	ENSDNOG00000040627	Others	NA
+Dasypus_novemcinctus	ADRB2	ENSDNOG00000040642	Others	101431384
+Dasypus_novemcinctus	RFXAP	ENSDNOG00000040728	Others	NA
+Dasypus_novemcinctus	PPRC1	ENSDNOG00000040730	Others	NA
+Dasypus_novemcinctus	ARRB1	ENSDNOG00000040731	Others	101428693
+Dasypus_novemcinctus	PML	ENSDNOG00000040800	Others	101415116
+Dasypus_novemcinctus		ENSDNOG00000040804	Other_Co-activator/repressors	NA
+Dasypus_novemcinctus	NFKBIE	ENSDNOG00000040817	BCL	NA
+Dasypus_novemcinctus	RIPPLY1	ENSDNOG00000040915	Others	101439026
+Dasypus_novemcinctus	RSF1	ENSDNOG00000040916	Others	101438485
+Dasypus_novemcinctus	MED19	ENSDNOG00000040973	Mediator complex	101440680
+Dasypus_novemcinctus	PLK3	ENSDNOG00000041054	Others	NA
+Dasypus_novemcinctus	CIDEA	ENSDNOG00000041086	Others	101427815
+Dasypus_novemcinctus	PPARGC1A	ENSDNOG00000041106	Others	101441748
+Dasypus_novemcinctus	CCND1	ENSDNOG00000041164	Cyclin	NA
+Dasypus_novemcinctus	SNW1	ENSDNOG00000041233	Others	101410837
+Dasypus_novemcinctus	TAF1D	ENSDNOG00000041284	TATA-box	NA
+Dasypus_novemcinctus		ENSDNOG00000041315	NFKB associated	NA
+Dasypus_novemcinctus	SIRT5	ENSDNOG00000041348	Sirtuin	NA
+Dasypus_novemcinctus	ING4	ENSDNOG00000041413	ING	NA
+Dasypus_novemcinctus		ENSDNOG00000041526	Others	NA
+Dasypus_novemcinctus	CNOT6	ENSDNOG00000041644	CCR4-NOT	101424883
+Dasypus_novemcinctus	H2AZ1	ENSDNOG00000041809	Others	101413518
+Dasypus_novemcinctus		ENSDNOG00000041868	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000041886	GTF	101421179
+Dasypus_novemcinctus	SPEN	ENSDNOG00000041948	Others	101427827
+Dasypus_novemcinctus	NELFA	ENSDNOG00000041985	GTF	NA
+Dasypus_novemcinctus	HEXIM1	ENSDNOG00000042085	Others	101423868
+Dasypus_novemcinctus	DPF2	ENSDNOG00000042153	DPF	101411924
+Dasypus_novemcinctus	CNOT7	ENSDNOG00000042208	CCR4-NOT	101443893
+Dasypus_novemcinctus	APEX1	ENSDNOG00000042234	Others	NA
+Dasypus_novemcinctus	SYK	ENSDNOG00000042290	Others	NA
+Dasypus_novemcinctus	RAP2C	ENSDNOG00000042390	Others	101432626
+Dasypus_novemcinctus	TIRAP	ENSDNOG00000042393	Others	101445854
+Dasypus_novemcinctus	HDAC1	ENSDNOG00000042430	Histone deacetylase	NA
+Dasypus_novemcinctus	TAF1A	ENSDNOG00000042501	TATA-box	101444340
+Dasypus_novemcinctus	EAF2	ENSDNOG00000042536	Others	NA
+Dasypus_novemcinctus	AIP	ENSDNOG00000042576	Others	NA
+Dasypus_novemcinctus	TCEA2	ENSDNOG00000042615	TEF	101435057
+Dasypus_novemcinctus		ENSDNOG00000042758	ANP	101420319
+Dasypus_novemcinctus	CD3D	ENSDNOG00000042782	Others	101413471
+Dasypus_novemcinctus	MTDH	ENSDNOG00000042816	Others	101431949
+Dasypus_novemcinctus	DPF1	ENSDNOG00000042838	DPF	NA
+Dasypus_novemcinctus	CIITA	ENSDNOG00000042865	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000042867	WW	NA
+Dasypus_novemcinctus		ENSDNOG00000042871	Histone cluster 1 H1	101422882
+Dasypus_novemcinctus	MNDA	ENSDNOG00000042941	Others	101429906
+Dasypus_novemcinctus	CRK	ENSDNOG00000042981	Others	101424990
+Dasypus_novemcinctus	NIF3L1	ENSDNOG00000042985	Others	101439268
+Dasypus_novemcinctus	ANKRA2	ENSDNOG00000043151	Ankyrin repeat	NA
+Dasypus_novemcinctus	ABT1	ENSDNOG00000043158	Others	101445829
+Dasypus_novemcinctus	TRADD	ENSDNOG00000043193	Others	101428737
+Dasypus_novemcinctus	RBM14	ENSDNOG00000043225	RNA binding protein	101417316
+Dasypus_novemcinctus		ENSDNOG00000043257	GTF	101422828
+Dasypus_novemcinctus	PUF60	ENSDNOG00000043278	Others	NA
+Dasypus_novemcinctus	SS18L2	ENSDNOG00000043340	SS18	101422766
+Dasypus_novemcinctus	CDK2	ENSDNOG00000043354	Cyclin	101413678
+Dasypus_novemcinctus	MTPN	ENSDNOG00000043388	Others	101424861
+Dasypus_novemcinctus	TRIB1	ENSDNOG00000043518	Others	101424401
+Dasypus_novemcinctus	ASXL1	ENSDNOG00000043546	Others	101439887
+Dasypus_novemcinctus	PBXIP1	ENSDNOG00000043652	Others	NA
+Dasypus_novemcinctus	RNF2	ENSDNOG00000043672	Ring finger protein	101429853
+Dasypus_novemcinctus	RITA1	ENSDNOG00000043757	Others	NA
+Dasypus_novemcinctus	SIAH2	ENSDNOG00000043769	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000043798	Others	NA
+Dasypus_novemcinctus	SSU72	ENSDNOG00000043916	Others	101434933
+Dasypus_novemcinctus		ENSDNOG00000043989	Others	NA
+Dasypus_novemcinctus	CBX6	ENSDNOG00000044015	Chromobox	NA
+Dasypus_novemcinctus	TDP2	ENSDNOG00000044082	Others	NA
+Dasypus_novemcinctus	VGLL2	ENSDNOG00000044127	Vestigial like	NA
+Dasypus_novemcinctus	ATAD2	ENSDNOG00000044383	Others	101445550
+Dasypus_novemcinctus	LGALS12	ENSDNOG00000044389	Others	101411243
+Dasypus_novemcinctus	MBTD1	ENSDNOG00000044478	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000044599	Casein	NA
+Dasypus_novemcinctus		ENSDNOG00000044633	Others	NA
+Dasypus_novemcinctus	PER2	ENSDNOG00000044759	Others	NA
+Dasypus_novemcinctus	MTF2	ENSDNOG00000044769	Others	NA
+Dasypus_novemcinctus	CTDP1	ENSDNOG00000044770	Others	NA
+Dasypus_novemcinctus	KAT2A	ENSDNOG00000044850	Lysine acetyltransferase	101439820
+Dasypus_novemcinctus	CRTC3	ENSDNOG00000044851	CREB	NA
+Dasypus_novemcinctus	EGLN2	ENSDNOG00000044897	Others	101417560
+Dasypus_novemcinctus	GPS2	ENSDNOG00000044904	Others	101436974
+Dasypus_novemcinctus	PCBD2	ENSDNOG00000044959	Others	101440853
+Dasypus_novemcinctus	MLLT1	ENSDNOG00000045050	GTF	NA
+Dasypus_novemcinctus	PRAME	ENSDNOG00000045118	Others	101426405
+Dasypus_novemcinctus	XIAP	ENSDNOG00000045124	Others	101435770
+Dasypus_novemcinctus		ENSDNOG00000045152	Others	NA
+Dasypus_novemcinctus	CTH	ENSDNOG00000045200	Others	101428808
+Dasypus_novemcinctus	ABRA	ENSDNOG00000045203	Actin	NA
+Dasypus_novemcinctus	AJUBA	ENSDNOG00000045223	Others	101415383
+Dasypus_novemcinctus		ENSDNOG00000045233	Histone lysine methyltransferase	NA
+Dasypus_novemcinctus	SRA1	ENSDNOG00000045277	Others	NA
+Dasypus_novemcinctus	CBX7	ENSDNOG00000045319	Chromobox	NA
+Dasypus_novemcinctus	MAGED1	ENSDNOG00000045377	MAGE	101433484
+Dasypus_novemcinctus	PXN	ENSDNOG00000045456	Others	NA
+Dasypus_novemcinctus	SAMD4B	ENSDNOG00000045472	Others	101439318
+Dasypus_novemcinctus	TRAF3	ENSDNOG00000045490	Others	101437632
+Dasypus_novemcinctus	SS18	ENSDNOG00000045501	SS18	101441056
+Dasypus_novemcinctus	RNF168	ENSDNOG00000045513	Ring finger protein	101434919
+Dasypus_novemcinctus	DGKQ	ENSDNOG00000045548	Others	NA
+Dasypus_novemcinctus	DUSP26	ENSDNOG00000045569	Others	101440281
+Dasypus_novemcinctus	SKI	ENSDNOG00000045609	SKI	NA
+Dasypus_novemcinctus	ACTN1	ENSDNOG00000045722	Actin	101438860
+Dasypus_novemcinctus	FHL3	ENSDNOG00000045751	FHL	NA
+Dasypus_novemcinctus	MAML2	ENSDNOG00000045831	MAML	NA
+Dasypus_novemcinctus	TAF12	ENSDNOG00000045864	TATA-box	NA
+Dasypus_novemcinctus		ENSDNOG00000045917	Nucleoplasmin	101432229
+Dasypus_novemcinctus	TOPORS	ENSDNOG00000045930	Others	101447897
+Dasypus_novemcinctus	CNOT3	ENSDNOG00000045972	CCR4-NOT	101439121
+Dasypus_novemcinctus		ENSDNOG00000046052	Others	NA
+Dasypus_novemcinctus	KMT5C	ENSDNOG00000046058	Lysine methyltransferase	101441925
+Dasypus_novemcinctus	ATN1	ENSDNOG00000046087	Others	101440463
+Dasypus_novemcinctus	PARP10	ENSDNOG00000046110	PARP	NA
+Dasypus_novemcinctus	AURKAIP1	ENSDNOG00000046170	Others	101437905
+Dasypus_novemcinctus		ENSDNOG00000046177	WD	101429164
+Dasypus_novemcinctus	CHTOP	ENSDNOG00000046338	Others	101435146
+Dasypus_novemcinctus		ENSDNOG00000046388	TATA-box	NA
+Dasypus_novemcinctus	PIH1D1	ENSDNOG00000046437	Other_CRF	101419755
+Dasypus_novemcinctus	TRIM11	ENSDNOG00000046467	Tripartite motif	NA
+Dasypus_novemcinctus	RBL1	ENSDNOG00000046582	Other_Co-activator/repressors	101420273
+Dasypus_novemcinctus	CALR	ENSDNOG00000046598	Others	101426244
+Dasypus_novemcinctus	EAPP	ENSDNOG00000046713	Others	101446162
+Dasypus_novemcinctus	GTF2E1	ENSDNOG00000046763	GTF	101413377
+Dasypus_novemcinctus	ASF1B	ENSDNOG00000046773	Others	101443489
+Dasypus_novemcinctus	LPIN1	ENSDNOG00000046781	LPIN	101441541
+Dasypus_novemcinctus		ENSDNOG00000046860	Others	NA
+Dasypus_novemcinctus	MDM2	ENSDNOG00000046929	Others	101418463
+Dasypus_novemcinctus	ANKRD1	ENSDNOG00000046981	Ankyrin repeat	NA
+Dasypus_novemcinctus	NSMCE4A	ENSDNOG00000047083	EID	101416241
+Dasypus_novemcinctus	MRGBP	ENSDNOG00000047124	Others	NA
+Dasypus_novemcinctus	PELI1	ENSDNOG00000047280	Others	NA
+Dasypus_novemcinctus	KDM1B	ENSDNOG00000047547	Lysine demethylase	NA
+Dasypus_novemcinctus	MED10	ENSDNOG00000047553	Mediator complex	101418082
+Dasypus_novemcinctus		ENSDNOG00000047639	TEF	101413286
+Dasypus_novemcinctus	WNT4	ENSDNOG00000047719	Others	NA
+Dasypus_novemcinctus	UXT	ENSDNOG00000047834	Others	101446654
+Dasypus_novemcinctus	CHD3	ENSDNOG00000047846	CHD	NA
+Dasypus_novemcinctus	SMURF1	ENSDNOG00000047849	Others	101439273
+Dasypus_novemcinctus	ASF1A	ENSDNOG00000047903	Others	101437480
+Dasypus_novemcinctus	PAGR1	ENSDNOG00000048009	Others	NA
+Dasypus_novemcinctus	EDF1	ENSDNOG00000048040	Others	NA
+Dasypus_novemcinctus	TBPL1	ENSDNOG00000048107	TATA-box	101426177
+Dasypus_novemcinctus		ENSDNOG00000048216	Others	NA
+Dasypus_novemcinctus	CDK9	ENSDNOG00000048225	Cyclin	101430028
+Dasypus_novemcinctus	SGF29	ENSDNOG00000048338	Others	NA
+Dasypus_novemcinctus		ENSDNOG00000048355	Others	101420336
+Dasypus_novemcinctus	SKAP2	ENSDNOG00000048359	Others	101414320
+Dasypus_novemcinctus	SRC	ENSDNOG00000048370	Others	NA
+Dasypus_novemcinctus	INSR	ENSDNOG00000048372	Others	101431970
+Dasypus_novemcinctus		ENSDNOG00000048390	GTF	NA
+Dasypus_novemcinctus	SIRT3	ENSDNOG00000048422	Sirtuin	NA
+Dasypus_novemcinctus	RPRD1B	ENSDNOG00000048446	Others	101430256
+Dasypus_novemcinctus	PABPC1L	ENSDNOG00000048450	Other_CRF	NA
+Dasypus_novemcinctus		ENSDNOG00000048458	Others	NA
+Dasypus_novemcinctus	TOB1	ENSDNOG00000048486	Others	101415156
+Dasypus_novemcinctus	AEBP1	ENSDNOG00000048568	Others	NA
+Dasypus_novemcinctus	ICE1	ENSDNOG00000048762	Others	NA
+Dasypus_novemcinctus	SUZ12	ENSDNOG00000048792	Others	NA
+Dasypus_novemcinctus	TGFB1	ENSDNOG00000048801	Others	NA
+Dasypus_novemcinctus	MYBBP1A	ENSDNOG00000048809	MYB	NA
+Dasypus_novemcinctus	SMARCA4	ENSDNOG00000048847	SWI/SNF	NA
+Dasypus_novemcinctus		ENSDNOG00000048868	Others	NA
+Dasypus_novemcinctus	PEX2	ENSDNOG00000048939	Others	101419941
+Dasypus_novemcinctus	GTF2A1	ENSDNOG00000048954	GTF	101441696
+Dasypus_novemcinctus	MED8	ENSDNOG00000048980	Mediator complex	101431758
+Dasypus_novemcinctus	TRIM21	ENSDNOG00000048992	Tripartite motif	NA
+Dasypus_novemcinctus	NLRP12	ENSDNOG00000049095	Others	101445864
+Dasypus_novemcinctus	POU2AF1	ENSDNOG00000049279	Others	101447025
+Dasypus_novemcinctus		ENSDNOG00000049320	RBBP	101428203
+Dasypus_novemcinctus	CCDC59	ENSDNOG00000049427	Coiled-coil	NA
+Dasypus_novemcinctus	PHF10	ENSDNOG00000049431	PHF	101429875
+Dasypus_novemcinctus	BRF2	ENSDNOG00000049503	GTF	101424708
+Dasypus_novemcinctus	BRMS1L	ENSDNOG00000049614	Other_CRF	101423508
+Dasypus_novemcinctus	FBXW7	ENSDNOG00000049649	Others	NA
+Dasypus_novemcinctus	COPRS	ENSDNOG00000049759	Others	101428114

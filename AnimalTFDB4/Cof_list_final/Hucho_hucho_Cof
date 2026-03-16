@@ -1,0 +1,756 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Hucho_hucho		ENSHHUG00000000121	Others	NA
+Hucho_hucho	HCFC1	ENSHHUG00000000123	Others	NA
+Hucho_hucho	polr2a	ENSHHUG00000000162	POLR	NA
+Hucho_hucho	MED13L	ENSHHUG00000000509	Mediator complex	NA
+Hucho_hucho	trak1a	ENSHHUG00000000580	Others	NA
+Hucho_hucho	wwtr1	ENSHHUG00000000614	WW	NA
+Hucho_hucho	rprd1a	ENSHHUG00000000756	Others	NA
+Hucho_hucho		ENSHHUG00000000763	Other_CRF	NA
+Hucho_hucho	trim8b	ENSHHUG00000000768	Tripartite motif	NA
+Hucho_hucho		ENSHHUG00000000786	Others	NA
+Hucho_hucho	cdk5r1b	ENSHHUG00000000788	Cyclin	NA
+Hucho_hucho	sqstm1	ENSHHUG00000000816	Others	NA
+Hucho_hucho	chchd6b	ENSHHUG00000000889	Coiled-coil	NA
+Hucho_hucho	kmt2bb	ENSHHUG00000000939	Lysine methyltransferase	NA
+Hucho_hucho	skap1	ENSHHUG00000001182	Others	NA
+Hucho_hucho	kdm7ab	ENSHHUG00000001235	Lysine demethylase	NA
+Hucho_hucho	cxxc1b	ENSHHUG00000001362	Others	NA
+Hucho_hucho	hat1	ENSHHUG00000001681	Others	NA
+Hucho_hucho	plk3	ENSHHUG00000001717	Others	NA
+Hucho_hucho	gtf2a1l	ENSHHUG00000001743	GTF	NA
+Hucho_hucho	smarcd2	ENSHHUG00000001776	SWI/SNF	NA
+Hucho_hucho	svild	ENSHHUG00000001857	Others	NA
+Hucho_hucho	vgll3	ENSHHUG00000002042	Vestigial like	NA
+Hucho_hucho	mdm4	ENSHHUG00000002311	Others	NA
+Hucho_hucho	pawr	ENSHHUG00000002332	Others	NA
+Hucho_hucho	tescb	ENSHHUG00000002605	Others	NA
+Hucho_hucho	CHUK	ENSHHUG00000002661	Others	NA
+Hucho_hucho	nelfa	ENSHHUG00000002751	GTF	NA
+Hucho_hucho	serbp1b	ENSHHUG00000002810	Others	NA
+Hucho_hucho	tsg101a	ENSHHUG00000003174	Others	NA
+Hucho_hucho	abl1	ENSHHUG00000003184	Others	NA
+Hucho_hucho	depdc1a	ENSHHUG00000003263	Others	NA
+Hucho_hucho	rbbp8	ENSHHUG00000003640	RBBP	NA
+Hucho_hucho	lyn	ENSHHUG00000003831	Others	NA
+Hucho_hucho	chaf1b	ENSHHUG00000003850	Others	NA
+Hucho_hucho	hck	ENSHHUG00000003899	Others	NA
+Hucho_hucho	kmt5aa	ENSHHUG00000004028	Lysine methyltransferase	NA
+Hucho_hucho		ENSHHUG00000004074	NFKB associated	NA
+Hucho_hucho		ENSHHUG00000004166	Others	NA
+Hucho_hucho	hcfc2	ENSHHUG00000004207	Others	NA
+Hucho_hucho	hdac3	ENSHHUG00000004298	Histone deacetylase	NA
+Hucho_hucho	pim1	ENSHHUG00000004367	Others	NA
+Hucho_hucho	ezh2	ENSHHUG00000004396	Others	NA
+Hucho_hucho	aatf	ENSHHUG00000004443	Others	NA
+Hucho_hucho	lin9	ENSHHUG00000004446	Others	NA
+Hucho_hucho	men1	ENSHHUG00000004451	Others	NA
+Hucho_hucho	hnrnpd	ENSHHUG00000004501	HNRNP	NA
+Hucho_hucho	taf2	ENSHHUG00000004540	TATA-box	NA
+Hucho_hucho	supt4h1	ENSHHUG00000004602	SUPT	NA
+Hucho_hucho	abt1	ENSHHUG00000004632	Others	NA
+Hucho_hucho	npm3	ENSHHUG00000004749	Nucleoplasmin	NA
+Hucho_hucho	sufu	ENSHHUG00000004778	Others	NA
+Hucho_hucho	pex2	ENSHHUG00000004808	Others	NA
+Hucho_hucho	atad2	ENSHHUG00000004985	Others	NA
+Hucho_hucho	chd3	ENSHHUG00000005172	CHD	NA
+Hucho_hucho	polr3c	ENSHHUG00000005217	POLR	NA
+Hucho_hucho	hif1an	ENSHHUG00000005254	Others	NA
+Hucho_hucho	uxt	ENSHHUG00000005290	Others	NA
+Hucho_hucho	snapc5	ENSHHUG00000005370	Others	NA
+Hucho_hucho		ENSHHUG00000005447	HNRNP	NA
+Hucho_hucho	trib2	ENSHHUG00000005503	Others	NA
+Hucho_hucho	wdr5	ENSHHUG00000005551	WD	NA
+Hucho_hucho	rbm39b	ENSHHUG00000005715	RNA binding protein	NA
+Hucho_hucho	kat2b	ENSHHUG00000005870	Lysine acetyltransferase	NA
+Hucho_hucho	pabpc1l	ENSHHUG00000005875	Other_CRF	NA
+Hucho_hucho	kdm5a	ENSHHUG00000005898	Lysine demethylase	NA
+Hucho_hucho		ENSHHUG00000005989	ANP	NA
+Hucho_hucho	hipk3a	ENSHHUG00000005994	HIPK	NA
+Hucho_hucho	anp32a	ENSHHUG00000005998	ANP	NA
+Hucho_hucho	sap18	ENSHHUG00000006043	SAP	NA
+Hucho_hucho	pspc1	ENSHHUG00000006121	Others	NA
+Hucho_hucho	med23	ENSHHUG00000006168	Mediator complex	NA
+Hucho_hucho	edf1	ENSHHUG00000006255	Others	NA
+Hucho_hucho	nsmce4a	ENSHHUG00000006358	EID	NA
+Hucho_hucho	dnaja3b	ENSHHUG00000006373	Others	NA
+Hucho_hucho	mid1ip1a	ENSHHUG00000006474	Others	NA
+Hucho_hucho	sav1	ENSHHUG00000006539	Others	NA
+Hucho_hucho	tbl1x	ENSHHUG00000006595	Transducin	NA
+Hucho_hucho	slc19a1	ENSHHUG00000006655	SLC	NA
+Hucho_hucho	nod2	ENSHHUG00000006687	Others	NA
+Hucho_hucho	PCBD2	ENSHHUG00000006717	Others	NA
+Hucho_hucho	top1	ENSHHUG00000006775	Other_CRF	NA
+Hucho_hucho	si:ch1073-459j12.1	ENSHHUG00000006785	Others	NA
+Hucho_hucho	nono	ENSHHUG00000006979	Others	NA
+Hucho_hucho		ENSHHUG00000007084	Others	NA
+Hucho_hucho	phf8	ENSHHUG00000007161	PHF	NA
+Hucho_hucho	raly	ENSHHUG00000007402	Others	NA
+Hucho_hucho	smarcd1	ENSHHUG00000007432	SWI/SNF	NA
+Hucho_hucho	calcoco1a	ENSHHUG00000007490	Others	NA
+Hucho_hucho		ENSHHUG00000007733	Others	NA
+Hucho_hucho	med20	ENSHHUG00000007756	Mediator complex	NA
+Hucho_hucho	slc25a15b	ENSHHUG00000007851	SLC	NA
+Hucho_hucho	helz2	ENSHHUG00000007955	Others	NA
+Hucho_hucho		ENSHHUG00000007993	Others	NA
+Hucho_hucho	suz12b	ENSHHUG00000008057	Others	NA
+Hucho_hucho	brca2	ENSHHUG00000008384	Others	NA
+Hucho_hucho	btg1	ENSHHUG00000008465	Others	NA
+Hucho_hucho	recql5	ENSHHUG00000008723	Others	NA
+Hucho_hucho	NCOA7	ENSHHUG00000009040	Nuclear receptor coactivator	NA
+Hucho_hucho	ascc2	ENSHHUG00000009106	ASCC	NA
+Hucho_hucho	snw1	ENSHHUG00000009225	Others	NA
+Hucho_hucho	banp	ENSHHUG00000009352	Others	NA
+Hucho_hucho	sfmbt2	ENSHHUG00000009373	Others	NA
+Hucho_hucho	med21	ENSHHUG00000009800	Mediator complex	NA
+Hucho_hucho	wu:fj64h06	ENSHHUG00000010028	TATA-box	NA
+Hucho_hucho	dvl3b	ENSHHUG00000010076	Others	NA
+Hucho_hucho	ppargc1a	ENSHHUG00000010146	Others	NA
+Hucho_hucho	slc30a9	ENSHHUG00000010231	SLC	NA
+Hucho_hucho	gtf2e1	ENSHHUG00000010389	GTF	NA
+Hucho_hucho	si:dkey-6i22.5	ENSHHUG00000010617	Others	NA
+Hucho_hucho	smarcb1b	ENSHHUG00000010627	SWI/SNF	NA
+Hucho_hucho	mycbp2	ENSHHUG00000010762	MYC	NA
+Hucho_hucho	elp3	ENSHHUG00000010801	ELP	NA
+Hucho_hucho	pink1	ENSHHUG00000010829	Others	NA
+Hucho_hucho	gtf2h2	ENSHHUG00000010875	GTF	NA
+Hucho_hucho	ing1	ENSHHUG00000010985	ING	NA
+Hucho_hucho	tasorb	ENSHHUG00000011009	FAM	NA
+Hucho_hucho	ankrd1a	ENSHHUG00000011176	Ankyrin repeat	NA
+Hucho_hucho	gtf2a1	ENSHHUG00000011308	GTF	NA
+Hucho_hucho	ddx54	ENSHHUG00000011390	RNA helicase	NA
+Hucho_hucho	ran	ENSHHUG00000011486	Others	NA
+Hucho_hucho	kdm2ab	ENSHHUG00000011732	Lysine demethylase	NA
+Hucho_hucho	cbx3a	ENSHHUG00000011830	Chromobox	NA
+Hucho_hucho	chd7	ENSHHUG00000012049	CHD	NA
+Hucho_hucho	bud31	ENSHHUG00000012262	Others	NA
+Hucho_hucho	mad2l2	ENSHHUG00000012551	Others	NA
+Hucho_hucho	brd2a	ENSHHUG00000012576	Bromodomain	NA
+Hucho_hucho	ddx20	ENSHHUG00000012589	RNA helicase	NA
+Hucho_hucho	apex1	ENSHHUG00000012714	Others	NA
+Hucho_hucho	chrac1	ENSHHUG00000012772	Other_CRF	NA
+Hucho_hucho	pex14	ENSHHUG00000012928	Others	NA
+Hucho_hucho	kdm8	ENSHHUG00000013085	Lysine demethylase	NA
+Hucho_hucho	rbl2	ENSHHUG00000013126	Other_Co-activator/repressors	NA
+Hucho_hucho	axin1	ENSHHUG00000013294	Others	NA
+Hucho_hucho	epc2	ENSHHUG00000013333	Others	NA
+Hucho_hucho	lmcd1	ENSHHUG00000013420	LIM	NA
+Hucho_hucho	rbbp5	ENSHHUG00000013426	RBBP	NA
+Hucho_hucho	htatip2	ENSHHUG00000013679	Others	NA
+Hucho_hucho		ENSHHUG00000013835	Others	NA
+Hucho_hucho	rasd1	ENSHHUG00000013903	Others	NA
+Hucho_hucho	supt3h	ENSHHUG00000014114	SUPT	NA
+Hucho_hucho	dhx9	ENSHHUG00000014194	RNA helicase	NA
+Hucho_hucho	meaf6	ENSHHUG00000014538	Others	NA
+Hucho_hucho	ccna1	ENSHHUG00000014655	Cyclin	NA
+Hucho_hucho	rfxap	ENSHHUG00000014660	Others	NA
+Hucho_hucho	ing3	ENSHHUG00000014692	ING	NA
+Hucho_hucho	med29	ENSHHUG00000014716	Mediator complex	NA
+Hucho_hucho	eaf1	ENSHHUG00000014722	Others	NA
+Hucho_hucho	pik3r1	ENSHHUG00000014754	Others	NA
+Hucho_hucho	KDM1B	ENSHHUG00000014890	Lysine demethylase	NA
+Hucho_hucho	erbin	ENSHHUG00000014912	Erbb2	NA
+Hucho_hucho	s100a10b	ENSHHUG00000014922	Others	NA
+Hucho_hucho	sirt7	ENSHHUG00000015057	Sirtuin	NA
+Hucho_hucho	src	ENSHHUG00000015183	Others	NA
+Hucho_hucho	setd6	ENSHHUG00000015464	SET	NA
+Hucho_hucho	sra1	ENSHHUG00000015631	Others	NA
+Hucho_hucho	tab3	ENSHHUG00000015813	Others	NA
+Hucho_hucho	med18	ENSHHUG00000015827	Mediator complex	NA
+Hucho_hucho	HYAL2	ENSHHUG00000015842	Others	NA
+Hucho_hucho	ago2	ENSHHUG00000015896	Others	NA
+Hucho_hucho	PELI1	ENSHHUG00000015953	Others	NA
+Hucho_hucho	xiap	ENSHHUG00000016077	Others	NA
+Hucho_hucho	med22	ENSHHUG00000016092	Mediator complex	NA
+Hucho_hucho	siah2l	ENSHHUG00000016136	Others	NA
+Hucho_hucho	taf9	ENSHHUG00000016153	TATA-box	NA
+Hucho_hucho		ENSHHUG00000016161	Thyroid hormone receptor	NA
+Hucho_hucho	ehmt1b	ENSHHUG00000016165	Histone lysine methyltransferase	NA
+Hucho_hucho	smarcad1a	ENSHHUG00000016183	SWI/SNF	NA
+Hucho_hucho	dvl2	ENSHHUG00000016309	Others	NA
+Hucho_hucho	tenm1	ENSHHUG00000016311	Others	NA
+Hucho_hucho	zmynd11	ENSHHUG00000016352	Zinc finger	NA
+Hucho_hucho	SCMH1	ENSHHUG00000016543	Others	NA
+Hucho_hucho	edrf1	ENSHHUG00000016670	Others	NA
+Hucho_hucho	nup98	ENSHHUG00000016857	Others	NA
+Hucho_hucho	lmo1	ENSHHUG00000017047	LIM	NA
+Hucho_hucho	jade2	ENSHHUG00000017098	Others	NA
+Hucho_hucho	dscama	ENSHHUG00000017128	Others	NA
+Hucho_hucho	ctnnbip1	ENSHHUG00000017147	Casein	NA
+Hucho_hucho		ENSHHUG00000017324	Others	NA
+Hucho_hucho	carm1	ENSHHUG00000017569	Others	NA
+Hucho_hucho	nrip1b	ENSHHUG00000017591	Nuclear receptor coactivator	NA
+Hucho_hucho		ENSHHUG00000017923	Others	NA
+Hucho_hucho	smyd1b	ENSHHUG00000018108	SMYD	NA
+Hucho_hucho	prmt1	ENSHHUG00000018309	Arginine methyltransferase	NA
+Hucho_hucho	auts2a	ENSHHUG00000018637	Others	NA
+Hucho_hucho	brip1	ENSHHUG00000018760	Others	NA
+Hucho_hucho	kdm3b	ENSHHUG00000018800	Lysine demethylase	NA
+Hucho_hucho	cdk2	ENSHHUG00000018828	Cyclin	NA
+Hucho_hucho		ENSHHUG00000018929	Casein	NA
+Hucho_hucho	nrip2	ENSHHUG00000018932	Nuclear coactivator	NA
+Hucho_hucho	brwd3	ENSHHUG00000018982	Others	NA
+Hucho_hucho	creg1	ENSHHUG00000019135	Others	NA
+Hucho_hucho	tfb2m	ENSHHUG00000019219	Others	NA
+Hucho_hucho	polr3f	ENSHHUG00000019237	POLR	NA
+Hucho_hucho	trrap	ENSHHUG00000019348	Others	NA
+Hucho_hucho	supt7l	ENSHHUG00000019500	SUPT	NA
+Hucho_hucho	trim33	ENSHHUG00000019655	Tripartite motif	NA
+Hucho_hucho		ENSHHUG00000019815	Others	NA
+Hucho_hucho	brd7	ENSHHUG00000019863	Bromodomain	NA
+Hucho_hucho	ARGLU1	ENSHHUG00000019910	Others	NA
+Hucho_hucho	mybbp1a	ENSHHUG00000020046	MYB	NA
+Hucho_hucho	atad1a	ENSHHUG00000020080	Thyroid hormone receptor	NA
+Hucho_hucho	ino80e	ENSHHUG00000020135	INO80 complex	NA
+Hucho_hucho	thoc5	ENSHHUG00000020201	Others	NA
+Hucho_hucho	tnksb	ENSHHUG00000020285	Others	NA
+Hucho_hucho	adrb2a	ENSHHUG00000020313	Others	NA
+Hucho_hucho	dmap1	ENSHHUG00000020318	DNA_methylase	NA
+Hucho_hucho	actr6	ENSHHUG00000020432	ACTR	NA
+Hucho_hucho	pcgf1	ENSHHUG00000020490	PCGF	NA
+Hucho_hucho		ENSHHUG00000020594	PARP	NA
+Hucho_hucho		ENSHHUG00000020677	Others	NA
+Hucho_hucho	dpf1	ENSHHUG00000020695	DPF	NA
+Hucho_hucho	rtf1	ENSHHUG00000020731	Others	NA
+Hucho_hucho	pfdn5	ENSHHUG00000020962	Others	NA
+Hucho_hucho	wwp1	ENSHHUG00000021000	WW	NA
+Hucho_hucho	erbb2	ENSHHUG00000021020	Erbb2	NA
+Hucho_hucho	wwox	ENSHHUG00000021129	WW	NA
+Hucho_hucho	sap130b	ENSHHUG00000021215	SAP	NA
+Hucho_hucho	lancl2	ENSHHUG00000021458	Others	NA
+Hucho_hucho	anxa4	ENSHHUG00000021537	Others	NA
+Hucho_hucho	brf2	ENSHHUG00000021589	GTF	NA
+Hucho_hucho	tradd	ENSHHUG00000021603	Others	NA
+Hucho_hucho	DDX17	ENSHHUG00000021786	RNA helicase	NA
+Hucho_hucho	znf593	ENSHHUG00000021817	Zinc finger	NA
+Hucho_hucho	pcgf5b	ENSHHUG00000021851	PCGF	NA
+Hucho_hucho	txnipa	ENSHHUG00000021907	Others	NA
+Hucho_hucho		ENSHHUG00000021908	Others	NA
+Hucho_hucho	ikbkb	ENSHHUG00000022121	Others	NA
+Hucho_hucho	cnot8	ENSHHUG00000022127	CCR4-NOT	NA
+Hucho_hucho	padi2	ENSHHUG00000022274	Other_CRF	NA
+Hucho_hucho	heatr1	ENSHHUG00000022390	Others	NA
+Hucho_hucho	ago1	ENSHHUG00000022508	Others	NA
+Hucho_hucho	med10	ENSHHUG00000022547	Mediator complex	NA
+Hucho_hucho	pagr1	ENSHHUG00000022633	Others	NA
+Hucho_hucho	mms19	ENSHHUG00000022699	Others	NA
+Hucho_hucho	fbp1b	ENSHHUG00000022760	Others	NA
+Hucho_hucho	kdm5c	ENSHHUG00000022846	Lysine demethylase	NA
+Hucho_hucho	eya2	ENSHHUG00000022945	EYA	NA
+Hucho_hucho	med12	ENSHHUG00000023020	Mediator complex	NA
+Hucho_hucho	rbl1	ENSHHUG00000023039	Other_Co-activator/repressors	NA
+Hucho_hucho	JMY	ENSHHUG00000023068	Others	NA
+Hucho_hucho	gnl3	ENSHHUG00000023072	Others	NA
+Hucho_hucho	ddx39b	ENSHHUG00000023152	RNA helicase	NA
+Hucho_hucho	trip4	ENSHHUG00000023168	Thyroid hormone receptor	NA
+Hucho_hucho	taf6l	ENSHHUG00000023337	TATA-box	NA
+Hucho_hucho	kat2a	ENSHHUG00000023378	Lysine acetyltransferase	NA
+Hucho_hucho	ccar2	ENSHHUG00000023468	Others	NA
+Hucho_hucho	ccna2	ENSHHUG00000023572	Cyclin	NA
+Hucho_hucho		ENSHHUG00000023574	GTF	NA
+Hucho_hucho	txlng	ENSHHUG00000023616	Others	NA
+Hucho_hucho	wwp2	ENSHHUG00000023667	WW	NA
+Hucho_hucho		ENSHHUG00000023735	Others	NA
+Hucho_hucho	CTBP1	ENSHHUG00000023759	Others	NA
+Hucho_hucho	ash2l	ENSHHUG00000023867	Others	NA
+Hucho_hucho	hnrnpua	ENSHHUG00000023887	HNRNP	NA
+Hucho_hucho		ENSHHUG00000023970	Notch	NA
+Hucho_hucho	prmt7	ENSHHUG00000024058	Arginine methyltransferase	NA
+Hucho_hucho	taf1b	ENSHHUG00000024093	TATA-box	NA
+Hucho_hucho	ezrb	ENSHHUG00000024123	Others	NA
+Hucho_hucho	HINT1	ENSHHUG00000024267	Others	NA
+Hucho_hucho	fhl3a	ENSHHUG00000024316	FHL	NA
+Hucho_hucho	ankrd2	ENSHHUG00000024382	Ankyrin repeat	NA
+Hucho_hucho	hdac8	ENSHHUG00000024639	Histone deacetylase	NA
+Hucho_hucho	cited1	ENSHHUG00000024651	CITED	NA
+Hucho_hucho	wnt3	ENSHHUG00000024661	Others	NA
+Hucho_hucho	fgfr2	ENSHHUG00000024663	FGF	NA
+Hucho_hucho	pnrc2	ENSHHUG00000024723	Others	NA
+Hucho_hucho		ENSHHUG00000024793	Others	NA
+Hucho_hucho	xrn2	ENSHHUG00000024838	Others	NA
+Hucho_hucho		ENSHHUG00000024844	Others	NA
+Hucho_hucho		ENSHHUG00000024867	Heat shock protein	NA
+Hucho_hucho	cxxc5a	ENSHHUG00000024890	Others	NA
+Hucho_hucho	commd1	ENSHHUG00000024944	Others	NA
+Hucho_hucho	brms1la	ENSHHUG00000025091	Other_CRF	NA
+Hucho_hucho	mbtd1	ENSHHUG00000025264	Others	NA
+Hucho_hucho	bptf	ENSHHUG00000025454	Bromodomain	NA
+Hucho_hucho	CTNNB1	ENSHHUG00000025502	Casein	NA
+Hucho_hucho	SPEN	ENSHHUG00000025547	Others	NA
+Hucho_hucho	prdx5	ENSHHUG00000025619	Others	NA
+Hucho_hucho	csnk2a2b	ENSHHUG00000025958	Casein	NA
+Hucho_hucho	baz1a	ENSHHUG00000026005	Bromodomain	NA
+Hucho_hucho	snx6	ENSHHUG00000026024	Others	NA
+Hucho_hucho	egfra	ENSHHUG00000026026	Others	NA
+Hucho_hucho	zmym2	ENSHHUG00000026118	Zinc finger	NA
+Hucho_hucho	ripk3	ENSHHUG00000026214	Others	NA
+Hucho_hucho	nol11	ENSHHUG00000026234	Nuclear coactivator	NA
+Hucho_hucho	RAF1	ENSHHUG00000026305	Others	NA
+Hucho_hucho	sfr1	ENSHHUG00000026325	Others	NA
+Hucho_hucho	dab2	ENSHHUG00000026331	Others	NA
+Hucho_hucho	pycard	ENSHHUG00000026364	Others	NA
+Hucho_hucho	jupb	ENSHHUG00000026374	Others	NA
+Hucho_hucho	eapp	ENSHHUG00000026393	Others	NA
+Hucho_hucho	cops5	ENSHHUG00000026448	Others	NA
+Hucho_hucho	arhgap5	ENSHHUG00000026454	Others	NA
+Hucho_hucho	vgll4a	ENSHHUG00000026623	Vestigial like	NA
+Hucho_hucho	strn3	ENSHHUG00000026639	Others	NA
+Hucho_hucho	dpy30	ENSHHUG00000026651	Others	NA
+Hucho_hucho	psen2	ENSHHUG00000026668	Others	NA
+Hucho_hucho	CRTC2	ENSHHUG00000026681	CREB	NA
+Hucho_hucho	suds3	ENSHHUG00000026691	Other_Co-activator/repressors	NA
+Hucho_hucho	hdac1	ENSHHUG00000026737	Histone deacetylase	NA
+Hucho_hucho	RBFOX3	ENSHHUG00000026772	Others	NA
+Hucho_hucho	vgll2a	ENSHHUG00000026942	Vestigial like	NA
+Hucho_hucho	DCAF1	ENSHHUG00000026997	Others	NA
+Hucho_hucho	kmt2d	ENSHHUG00000027035	Lysine methyltransferase	NA
+Hucho_hucho		ENSHHUG00000027050	Lysine acetyltransferase	NA
+Hucho_hucho	zgc:86598	ENSHHUG00000027057	Casein	NA
+Hucho_hucho	safb	ENSHHUG00000027081	Others	NA
+Hucho_hucho	gtf2h3	ENSHHUG00000027123	GTF	NA
+Hucho_hucho	ruvbl2	ENSHHUG00000027170	Other_CRF	NA
+Hucho_hucho	rnf8	ENSHHUG00000027208	Ring finger protein	NA
+Hucho_hucho	sumo1	ENSHHUG00000027271	Others	NA
+Hucho_hucho	GSK3B	ENSHHUG00000027328	Others	NA
+Hucho_hucho	kdm2bb	ENSHHUG00000027334	Lysine demethylase	NA
+Hucho_hucho	TCERG1	ENSHHUG00000027337	TEF	NA
+Hucho_hucho	CALR3	ENSHHUG00000027410	Others	NA
+Hucho_hucho	bcl9	ENSHHUG00000027505	BCL	NA
+Hucho_hucho	SS18L1	ENSHHUG00000027543	SS18	NA
+Hucho_hucho	cep290	ENSHHUG00000027565	Others	NA
+Hucho_hucho	optn	ENSHHUG00000027628	Others	NA
+Hucho_hucho	PHF12	ENSHHUG00000027648	PHF	NA
+Hucho_hucho	tnni2a.1	ENSHHUG00000027733	Others	NA
+Hucho_hucho	cdk5	ENSHHUG00000027887	Cyclin	NA
+Hucho_hucho	RNF14	ENSHHUG00000027912	Ring finger protein	NA
+Hucho_hucho	prkcbp1l	ENSHHUG00000028336	Zinc finger	NA
+Hucho_hucho		ENSHHUG00000028374	Tripartite motif	NA
+Hucho_hucho	frk	ENSHHUG00000028396	Others	NA
+Hucho_hucho	rb1	ENSHHUG00000028402	Other_Co-activator/repressors	NA
+Hucho_hucho	blm	ENSHHUG00000028406	Others	NA
+Hucho_hucho	ufl1	ENSHHUG00000028438	Others	NA
+Hucho_hucho	supt16h	ENSHHUG00000028462	SUPT	NA
+Hucho_hucho		ENSHHUG00000028470	CHD	NA
+Hucho_hucho	cnot10	ENSHHUG00000028586	CCR4-NOT	NA
+Hucho_hucho	phf20a	ENSHHUG00000028609	PHF	NA
+Hucho_hucho	BRD3	ENSHHUG00000028615	Bromodomain	NA
+Hucho_hucho	med16	ENSHHUG00000028623	Mediator complex	NA
+Hucho_hucho	nfkbiaa	ENSHHUG00000028656	NFKB associated	NA
+Hucho_hucho	ldb2a	ENSHHUG00000028700	LIM	NA
+Hucho_hucho	HDGF	ENSHHUG00000028814	Others	NA
+Hucho_hucho	setd7	ENSHHUG00000028988	SET	NA
+Hucho_hucho	taf11	ENSHHUG00000029034	TATA-box	NA
+Hucho_hucho	nif3l1	ENSHHUG00000029101	Others	NA
+Hucho_hucho	med19a	ENSHHUG00000029139	Mediator complex	NA
+Hucho_hucho	skia	ENSHHUG00000029186	SKI	NA
+Hucho_hucho	CTNND1	ENSHHUG00000029195	Casein	NA
+Hucho_hucho	frzb	ENSHHUG00000029202	Others	NA
+Hucho_hucho	cnot9	ENSHHUG00000029264	CCR4-NOT	NA
+Hucho_hucho	mycbp	ENSHHUG00000029287	MYC	NA
+Hucho_hucho	ppargc1b	ENSHHUG00000029315	Others	NA
+Hucho_hucho	ppid	ENSHHUG00000029365	Others	NA
+Hucho_hucho	nrg1	ENSHHUG00000029390	Others	NA
+Hucho_hucho	pid1	ENSHHUG00000029418	Others	NA
+Hucho_hucho	rprd1b	ENSHHUG00000029612	Others	NA
+Hucho_hucho	suv39h1a	ENSHHUG00000029664	Others	NA
+Hucho_hucho	med31	ENSHHUG00000029667	Mediator complex	NA
+Hucho_hucho	sdr16c5a	ENSHHUG00000029691	Others	NA
+Hucho_hucho	pnrc1	ENSHHUG00000029706	Others	NA
+Hucho_hucho	med13a	ENSHHUG00000029764	Mediator complex	NA
+Hucho_hucho	arrb2a	ENSHHUG00000029825	Others	NA
+Hucho_hucho	mak	ENSHHUG00000029887	Others	NA
+Hucho_hucho	camk2g2	ENSHHUG00000030148	CAMK	NA
+Hucho_hucho	kank1b	ENSHHUG00000030169	Others	NA
+Hucho_hucho	brd1a	ENSHHUG00000030233	Bromodomain	NA
+Hucho_hucho	rap2c	ENSHHUG00000030306	Others	NA
+Hucho_hucho	KDM5B	ENSHHUG00000030309	Lysine demethylase	NA
+Hucho_hucho	noc2l	ENSHHUG00000030377	Others	NA
+Hucho_hucho	dek	ENSHHUG00000030412	Other_CRF	NA
+Hucho_hucho	puf60b	ENSHHUG00000030471	Others	NA
+Hucho_hucho	CCDC85B	ENSHHUG00000030497	Coiled-coil	NA
+Hucho_hucho	strap	ENSHHUG00000030554	Others	NA
+Hucho_hucho	tirap	ENSHHUG00000030574	Others	NA
+Hucho_hucho	tprb	ENSHHUG00000030688	Others	NA
+Hucho_hucho	actr5	ENSHHUG00000030894	ACTR	NA
+Hucho_hucho	ss18	ENSHHUG00000031014	SS18	NA
+Hucho_hucho	plrg1	ENSHHUG00000031027	Others	NA
+Hucho_hucho	pqbp1	ENSHHUG00000031047	Others	NA
+Hucho_hucho	nab1a	ENSHHUG00000031061	Others	NA
+Hucho_hucho	wnt4	ENSHHUG00000031084	Others	NA
+Hucho_hucho	SFMBT1	ENSHHUG00000031208	Others	NA
+Hucho_hucho	chd1	ENSHHUG00000031247	CHD	NA
+Hucho_hucho	med17	ENSHHUG00000031354	Mediator complex	NA
+Hucho_hucho		ENSHHUG00000031401	CAMK	NA
+Hucho_hucho	dot1l	ENSHHUG00000031418	Others	NA
+Hucho_hucho	med30	ENSHHUG00000031498	Mediator complex	NA
+Hucho_hucho	hdac4	ENSHHUG00000031501	Histone deacetylase	NA
+Hucho_hucho	nelfcd	ENSHHUG00000031516	GTF	NA
+Hucho_hucho	rad21b	ENSHHUG00000031523	Others	NA
+Hucho_hucho	med4	ENSHHUG00000031560	Mediator complex	NA
+Hucho_hucho	ehmt2	ENSHHUG00000031576	Histone lysine methyltransferase	NA
+Hucho_hucho	bcas3	ENSHHUG00000031619	Others	NA
+Hucho_hucho	cited2	ENSHHUG00000031679	CITED	NA
+Hucho_hucho	cnot11	ENSHHUG00000031715	CCR4-NOT	NA
+Hucho_hucho	pdlim1	ENSHHUG00000031723	Others	NA
+Hucho_hucho	nlk2	ENSHHUG00000031738	Others	NA
+Hucho_hucho	pcbd1	ENSHHUG00000031750	Others	NA
+Hucho_hucho	btk	ENSHHUG00000031776	Others	NA
+Hucho_hucho	rpap2	ENSHHUG00000031889	Others	NA
+Hucho_hucho	LPIN2	ENSHHUG00000031922	LPIN	NA
+Hucho_hucho	nelfe	ENSHHUG00000031949	GTF	NA
+Hucho_hucho		ENSHHUG00000032017	Transducin	NA
+Hucho_hucho	pa2g4a	ENSHHUG00000032021	Others	NA
+Hucho_hucho	ank1b	ENSHHUG00000032076	Others	NA
+Hucho_hucho	taf5	ENSHHUG00000032095	TATA-box	NA
+Hucho_hucho	vhl	ENSHHUG00000032124	Others	NA
+Hucho_hucho		ENSHHUG00000032130	Sirtuin	NA
+Hucho_hucho	cdc73	ENSHHUG00000032151	Others	NA
+Hucho_hucho	nab2	ENSHHUG00000032160	Others	NA
+Hucho_hucho	rbm15b	ENSHHUG00000032201	RNA binding protein	NA
+Hucho_hucho	ecd	ENSHHUG00000032232	Others	NA
+Hucho_hucho	hmox1a	ENSHHUG00000032325	Others	NA
+Hucho_hucho	rnf141	ENSHHUG00000032358	Ring finger protein	NA
+Hucho_hucho	LRPPRC	ENSHHUG00000032380	Others	NA
+Hucho_hucho	chd4a	ENSHHUG00000032400	CHD	NA
+Hucho_hucho	ruvbl1	ENSHHUG00000032442	Other_CRF	NA
+Hucho_hucho	cavin1b	ENSHHUG00000032461	Others	NA
+Hucho_hucho	ctdp1	ENSHHUG00000032492	Others	NA
+Hucho_hucho	SMARCA5	ENSHHUG00000032503	SWI/SNF	NA
+Hucho_hucho	ela3l	ENSHHUG00000032511	Others	NA
+Hucho_hucho	ccnd1	ENSHHUG00000032532	Cyclin	NA
+Hucho_hucho	lzts1	ENSHHUG00000032537	Others	NA
+Hucho_hucho	nfkbib	ENSHHUG00000032647	NFKB associated	NA
+Hucho_hucho	irf2bp1	ENSHHUG00000032681	Others	NA
+Hucho_hucho	med1	ENSHHUG00000032708	Mediator complex	NA
+Hucho_hucho	trim37	ENSHHUG00000032836	Tripartite motif	NA
+Hucho_hucho	med14	ENSHHUG00000032862	Mediator complex	NA
+Hucho_hucho	prmt2	ENSHHUG00000032943	Arginine methyltransferase	NA
+Hucho_hucho	ankar	ENSHHUG00000032980	Ankyrin repeat	NA
+Hucho_hucho	pxna	ENSHHUG00000033006	Others	NA
+Hucho_hucho	phf21aa	ENSHHUG00000033373	PHF	NA
+Hucho_hucho	arl2bp	ENSHHUG00000033375	Others	NA
+Hucho_hucho		ENSHHUG00000033582	Others	NA
+Hucho_hucho	dyrk1b	ENSHHUG00000033670	Others	NA
+Hucho_hucho	smarcd3b	ENSHHUG00000033731	SWI/SNF	NA
+Hucho_hucho	pcgf6	ENSHHUG00000033799	PCGF	NA
+Hucho_hucho	taf1a	ENSHHUG00000033849	TATA-box	NA
+Hucho_hucho	ash1l	ENSHHUG00000033874	Others	NA
+Hucho_hucho		ENSHHUG00000033965	PARP	NA
+Hucho_hucho	rptor	ENSHHUG00000034073	Others	NA
+Hucho_hucho	cnot2	ENSHHUG00000034126	CCR4-NOT	NA
+Hucho_hucho	PCGF3	ENSHHUG00000034132	PCGF	NA
+Hucho_hucho	ewsr1a	ENSHHUG00000034145	Others	NA
+Hucho_hucho		ENSHHUG00000034167	Zinc finger	NA
+Hucho_hucho	elp1	ENSHHUG00000034171	ELP	NA
+Hucho_hucho	ncoa3	ENSHHUG00000034193	Nuclear receptor coactivator	NA
+Hucho_hucho	lrrk2	ENSHHUG00000034212	Other_CRF	NA
+Hucho_hucho	dr1	ENSHHUG00000034312	Others	NA
+Hucho_hucho	prmt6	ENSHHUG00000034346	Arginine methyltransferase	NA
+Hucho_hucho	chchd2	ENSHHUG00000034369	Coiled-coil	NA
+Hucho_hucho	dhx33	ENSHHUG00000034376	RNA helicase	NA
+Hucho_hucho	CBL	ENSHHUG00000034469	Others	NA
+Hucho_hucho	jmjd6	ENSHHUG00000034497	Others	NA
+Hucho_hucho	taf1	ENSHHUG00000034566	TATA-box	NA
+Hucho_hucho	med25	ENSHHUG00000034633	Mediator complex	NA
+Hucho_hucho	dhx36	ENSHHUG00000034705	RNA helicase	NA
+Hucho_hucho		ENSHHUG00000034715	Others	NA
+Hucho_hucho	rnf6	ENSHHUG00000034718	Ring finger protein	NA
+Hucho_hucho	ino80da	ENSHHUG00000034725	INO80 complex	NA
+Hucho_hucho	brdt	ENSHHUG00000034899	Bromodomain	NA
+Hucho_hucho	birc5a	ENSHHUG00000034945	Others	NA
+Hucho_hucho	kat8	ENSHHUG00000034994	Lysine acetyltransferase	NA
+Hucho_hucho	rnf25	ENSHHUG00000035036	Ring finger protein	NA
+Hucho_hucho	EZH1	ENSHHUG00000035188	Others	NA
+Hucho_hucho	ncoa4	ENSHHUG00000035199	Nuclear receptor coactivator	NA
+Hucho_hucho	taf3	ENSHHUG00000035242	TATA-box	NA
+Hucho_hucho	CNOT6	ENSHHUG00000035254	CCR4-NOT	NA
+Hucho_hucho	ccnc	ENSHHUG00000035257	Cyclin	NA
+Hucho_hucho	CDYL2	ENSHHUG00000035448	Chromodomain Y	NA
+Hucho_hucho	actn2b	ENSHHUG00000035461	Actin	NA
+Hucho_hucho	rbmx	ENSHHUG00000035474	RNA binding protein	NA
+Hucho_hucho		ENSHHUG00000035523	Transcriptional adaptor	NA
+Hucho_hucho	gtf2h4	ENSHHUG00000035609	GTF	NA
+Hucho_hucho	hnrpkl	ENSHHUG00000035651	HNRNP	NA
+Hucho_hucho	nelfb	ENSHHUG00000035705	GTF	NA
+Hucho_hucho	sirt6	ENSHHUG00000035804	Sirtuin	NA
+Hucho_hucho	loxl2b	ENSHHUG00000035849	Others	NA
+Hucho_hucho	ccnk	ENSHHUG00000035887	Cyclin	NA
+Hucho_hucho	DTX1	ENSHHUG00000035897	Others	NA
+Hucho_hucho	taf10	ENSHHUG00000036004	TATA-box	NA
+Hucho_hucho	lbh	ENSHHUG00000036059	Others	NA
+Hucho_hucho	sgf29	ENSHHUG00000036064	Others	NA
+Hucho_hucho	phf1	ENSHHUG00000036212	PHF	NA
+Hucho_hucho		ENSHHUG00000036292	Others	NA
+Hucho_hucho	kdm4b	ENSHHUG00000036349	Lysine demethylase	NA
+Hucho_hucho	si:dkey-21c19.3	ENSHHUG00000036352	Others	NA
+Hucho_hucho	lin54	ENSHHUG00000036430	Others	NA
+Hucho_hucho	wwc1	ENSHHUG00000036453	WW	NA
+Hucho_hucho	sertad2b	ENSHHUG00000036469	Others	NA
+Hucho_hucho	trib3	ENSHHUG00000036491	Others	NA
+Hucho_hucho	NCOA2	ENSHHUG00000036612	Nuclear receptor coactivator	NA
+Hucho_hucho	CTDSP1	ENSHHUG00000036630	Others	NA
+Hucho_hucho		ENSHHUG00000036885	Others	NA
+Hucho_hucho	hexim1	ENSHHUG00000036996	Others	NA
+Hucho_hucho	GPS2	ENSHHUG00000037021	Others	NA
+Hucho_hucho	utp4	ENSHHUG00000037029	Others	NA
+Hucho_hucho	brf1a	ENSHHUG00000037069	GTF	NA
+Hucho_hucho	HSBP1	ENSHHUG00000037084	Heat shock protein	NA
+Hucho_hucho		ENSHHUG00000037088	Others	NA
+Hucho_hucho	znf451	ENSHHUG00000037122	Zinc finger	NA
+Hucho_hucho		ENSHHUG00000037162	Others	NA
+Hucho_hucho		ENSHHUG00000037164	CENP	NA
+Hucho_hucho	nsd3	ENSHHUG00000037265	Nuclear receptor coactivator	NA
+Hucho_hucho	tdp2b	ENSHHUG00000037401	Others	NA
+Hucho_hucho	kdm6al	ENSHHUG00000037491	Lysine demethylase	NA
+Hucho_hucho	tonsl	ENSHHUG00000037497	Others	NA
+Hucho_hucho	ywhaba	ENSHHUG00000037520	Others	NA
+Hucho_hucho	tnip1	ENSHHUG00000037534	Others	NA
+Hucho_hucho		ENSHHUG00000037595	Others	NA
+Hucho_hucho	tada3l	ENSHHUG00000037644	Transcriptional adaptor	NA
+Hucho_hucho	cnot7	ENSHHUG00000037694	CCR4-NOT	NA
+Hucho_hucho	sltm	ENSHHUG00000037731	Others	NA
+Hucho_hucho	rnf111	ENSHHUG00000037753	Ring finger protein	NA
+Hucho_hucho	SMARCA4	ENSHHUG00000037774	SWI/SNF	NA
+Hucho_hucho	crtc1b	ENSHHUG00000037806	CREB	NA
+Hucho_hucho	rexo4	ENSHHUG00000037810	Others	NA
+Hucho_hucho	hdac7a	ENSHHUG00000037812	Histone deacetylase	NA
+Hucho_hucho	cdk1	ENSHHUG00000037885	Cyclin	NA
+Hucho_hucho	rbm15	ENSHHUG00000037910	RNA binding protein	NA
+Hucho_hucho	skor1a	ENSHHUG00000037935	SKI	NA
+Hucho_hucho	NCK2	ENSHHUG00000037947	Others	NA
+Hucho_hucho	SAP30L	ENSHHUG00000037988	SAP	NA
+Hucho_hucho	tdg.2	ENSHHUG00000038031	Others	NA
+Hucho_hucho	OGT	ENSHHUG00000038230	Others	NA
+Hucho_hucho	arhgap35a	ENSHHUG00000038246	Others	NA
+Hucho_hucho	gtf2f1	ENSHHUG00000038339	GTF	NA
+Hucho_hucho	gtf2h1	ENSHHUG00000038343	GTF	NA
+Hucho_hucho		ENSHHUG00000038385	Mediator complex	NA
+Hucho_hucho	hdac5	ENSHHUG00000038429	Histone deacetylase	NA
+Hucho_hucho	bend3	ENSHHUG00000038484	Others	NA
+Hucho_hucho	ING4	ENSHHUG00000038606	ING	NA
+Hucho_hucho	dcaf6	ENSHHUG00000038794	Others	NA
+Hucho_hucho	ELOF1	ENSHHUG00000038820	GTF	NA
+Hucho_hucho	ppie	ENSHHUG00000038839	Others	NA
+Hucho_hucho	cnot3b	ENSHHUG00000038982	CCR4-NOT	NA
+Hucho_hucho	ctr9	ENSHHUG00000039029	Others	NA
+Hucho_hucho	fgf1b	ENSHHUG00000039041	FGF	NA
+Hucho_hucho	bcl10	ENSHHUG00000039067	BCL	NA
+Hucho_hucho	cbfa2t2	ENSHHUG00000039107	Others	NA
+Hucho_hucho	pdcd4b	ENSHHUG00000039146	Others	NA
+Hucho_hucho	traf6	ENSHHUG00000039223	Others	NA
+Hucho_hucho	cdk5rap3	ENSHHUG00000039313	Cyclin	NA
+Hucho_hucho	thrap3a	ENSHHUG00000039505	Thyroid hormone receptor	NA
+Hucho_hucho	cidea	ENSHHUG00000039536	Others	NA
+Hucho_hucho	actr8	ENSHHUG00000039693	ACTR	NA
+Hucho_hucho	nipblb	ENSHHUG00000039753	Others	NA
+Hucho_hucho	SNIP1	ENSHHUG00000039761	Others	NA
+Hucho_hucho	rbbp4	ENSHHUG00000039764	RBBP	NA
+Hucho_hucho	cbx5	ENSHHUG00000039792	Chromobox	NA
+Hucho_hucho	med7	ENSHHUG00000039947	Mediator complex	NA
+Hucho_hucho	yaf2	ENSHHUG00000040015	Others	NA
+Hucho_hucho	wbp2	ENSHHUG00000040188	WW	NA
+Hucho_hucho	cnot6l	ENSHHUG00000040200	CCR4-NOT	NA
+Hucho_hucho	wdr61	ENSHHUG00000040265	WD	NA
+Hucho_hucho	cdk7	ENSHHUG00000040295	Cyclin	NA
+Hucho_hucho	kat6b	ENSHHUG00000040296	Lysine acetyltransferase	NA
+Hucho_hucho	setd1a	ENSHHUG00000040324	SET	NA
+Hucho_hucho		ENSHHUG00000040366	Others	NA
+Hucho_hucho	sin3aa	ENSHHUG00000040513	Other_CRF	NA
+Hucho_hucho	cdkn1bb	ENSHHUG00000040657	Cyclin	NA
+Hucho_hucho	niban2b	ENSHHUG00000040704	FAM	NA
+Hucho_hucho	ccne1	ENSHHUG00000040711	Cyclin	NA
+Hucho_hucho	cdk8	ENSHHUG00000040724	Cyclin	NA
+Hucho_hucho	nudt5	ENSHHUG00000040797	Other_CRF	NA
+Hucho_hucho	tob1a	ENSHHUG00000040918	Others	NA
+Hucho_hucho	eno1a	ENSHHUG00000040964	Others	NA
+Hucho_hucho	trim32	ENSHHUG00000040998	Tripartite motif	NA
+Hucho_hucho	stk36	ENSHHUG00000041039	Others	NA
+Hucho_hucho	eny2	ENSHHUG00000041099	Others	NA
+Hucho_hucho	ascc1	ENSHHUG00000041154	ASCC	NA
+Hucho_hucho	dnmt3bb.1	ENSHHUG00000041169	DNA_methylase	NA
+Hucho_hucho	abraa	ENSHHUG00000041290	Actin	NA
+Hucho_hucho	mier3a	ENSHHUG00000041399	MIER	NA
+Hucho_hucho	psip1a	ENSHHUG00000041560	Others	NA
+Hucho_hucho	APBB1	ENSHHUG00000041588	Others	NA
+Hucho_hucho	ILK	ENSHHUG00000041597	Others	NA
+Hucho_hucho	sin3b	ENSHHUG00000041668	Others	NA
+Hucho_hucho	FHL2	ENSHHUG00000041678	FHL	NA
+Hucho_hucho	cdyl	ENSHHUG00000041701	Chromodomain Y	NA
+Hucho_hucho	si:ch1073-296d18.1	ENSHHUG00000041871	PARP	NA
+Hucho_hucho	si:ch211-195b13.1	ENSHHUG00000041901	Others	NA
+Hucho_hucho	MSL3	ENSHHUG00000041911	Others	NA
+Hucho_hucho	eya3	ENSHHUG00000041916	EYA	NA
+Hucho_hucho	EPC1	ENSHHUG00000041959	Others	NA
+Hucho_hucho	hcls1	ENSHHUG00000041981	Others	NA
+Hucho_hucho	med27	ENSHHUG00000042090	Mediator complex	NA
+Hucho_hucho	dpf2	ENSHHUG00000042204	DPF	NA
+Hucho_hucho	fbxw7	ENSHHUG00000042229	Others	NA
+Hucho_hucho	camk4	ENSHHUG00000042231	CAMK	NA
+Hucho_hucho	chek2	ENSHHUG00000042422	Others	NA
+Hucho_hucho	sirt5	ENSHHUG00000042432	Sirtuin	NA
+Hucho_hucho	grip2a	ENSHHUG00000042529	Others	NA
+Hucho_hucho	ripply1	ENSHHUG00000042588	Others	NA
+Hucho_hucho	ANP32E	ENSHHUG00000042621	ANP	NA
+Hucho_hucho	pir	ENSHHUG00000042664	Others	NA
+Hucho_hucho	cbx7b	ENSHHUG00000042715	Chromobox	NA
+Hucho_hucho	kctd1	ENSHHUG00000042719	Others	NA
+Hucho_hucho	ell	ENSHHUG00000042721	GTF	NA
+Hucho_hucho	ino80c	ENSHHUG00000042767	INO80 complex	NA
+Hucho_hucho	ssbp4	ENSHHUG00000042772	Others	NA
+Hucho_hucho	drap1	ENSHHUG00000042882	Others	NA
+Hucho_hucho	dnmt1	ENSHHUG00000043023	DNA_methylase	NA
+Hucho_hucho	esf1	ENSHHUG00000043060	Others	NA
+Hucho_hucho	ino80b	ENSHHUG00000043074	INO80 complex	NA
+Hucho_hucho	WDR77	ENSHHUG00000043093	WD	NA
+Hucho_hucho	med6	ENSHHUG00000043095	Mediator complex	NA
+Hucho_hucho	npm1a	ENSHHUG00000043217	Nucleoplasmin	NA
+Hucho_hucho		ENSHHUG00000043327	Others	NA
+Hucho_hucho	taf4a	ENSHHUG00000043348	TATA-box	NA
+Hucho_hucho		ENSHHUG00000043602	Others	NA
+Hucho_hucho	RWDD3	ENSHHUG00000043834	Others	NA
+Hucho_hucho		ENSHHUG00000043944	Others	NA
+Hucho_hucho	csrp3	ENSHHUG00000044035	Others	NA
+Hucho_hucho	PRMT8	ENSHHUG00000044037	Arginine methyltransferase	NA
+Hucho_hucho	MORF4L1	ENSHHUG00000044066	Other_CRF	NA
+Hucho_hucho	sirt3	ENSHHUG00000044206	Sirtuin	NA
+Hucho_hucho	RBPMS2	ENSHHUG00000044318	RNA binding protein	NA
+Hucho_hucho		ENSHHUG00000044424	Other_Co-activator/repressors	NA
+Hucho_hucho		ENSHHUG00000044426	Others	NA
+Hucho_hucho	smurf2	ENSHHUG00000044531	Others	NA
+Hucho_hucho	notch1b	ENSHHUG00000044684	Notch	NA
+Hucho_hucho		ENSHHUG00000044711	Actin	NA
+Hucho_hucho	cdk13	ENSHHUG00000044774	Cyclin	NA
+Hucho_hucho	per2	ENSHHUG00000044882	Others	NA
+Hucho_hucho	rnf4	ENSHHUG00000044909	Ring finger protein	NA
+Hucho_hucho	crym	ENSHHUG00000044946	Others	NA
+Hucho_hucho	ccar1	ENSHHUG00000045040	Others	NA
+Hucho_hucho	rrn3	ENSHHUG00000045174	Others	NA
+Hucho_hucho	SAMD4B	ENSHHUG00000045258	Others	NA
+Hucho_hucho	ldb1a	ENSHHUG00000045322	LIM	NA
+Hucho_hucho	paf1	ENSHHUG00000045328	Others	NA
+Hucho_hucho	taf8	ENSHHUG00000045397	TATA-box	NA
+Hucho_hucho	aip	ENSHHUG00000045467	Others	NA
+Hucho_hucho	CBX4	ENSHHUG00000045521	Chromobox	NA
+Hucho_hucho	btaf1	ENSHHUG00000045577	Others	NA
+Hucho_hucho	lpin1	ENSHHUG00000045629	LPIN	NA
+Hucho_hucho	jak2b	ENSHHUG00000045676	Others	NA
+Hucho_hucho	ern1	ENSHHUG00000045760	Others	NA
+Hucho_hucho		ENSHHUG00000045821	SET	NA
+Hucho_hucho	baz1b	ENSHHUG00000045889	Bromodomain	NA
+Hucho_hucho	tnip2	ENSHHUG00000046018	Others	NA
+Hucho_hucho		ENSHHUG00000046052	Others	NA
+Hucho_hucho	malt1	ENSHHUG00000046091	Others	NA
+Hucho_hucho	actl6a	ENSHHUG00000046135	Actin	NA
+Hucho_hucho	ercc2	ENSHHUG00000046317	Others	NA
+Hucho_hucho	MYOCD	ENSHHUG00000046368	Others	NA
+Hucho_hucho	pak4	ENSHHUG00000046410	Others	NA
+Hucho_hucho	sap30bp	ENSHHUG00000046460	SAP	NA
+Hucho_hucho	ptenb	ENSHHUG00000046540	Others	NA
+Hucho_hucho	actn4	ENSHHUG00000046636	Actin	NA
+Hucho_hucho	aurkaip1	ENSHHUG00000046762	Others	NA
+Hucho_hucho	med8	ENSHHUG00000046787	Mediator complex	NA
+Hucho_hucho	flncb	ENSHHUG00000046792	Others	NA
+Hucho_hucho	med24	ENSHHUG00000046812	Mediator complex	NA
+Hucho_hucho	xrcc6	ENSHHUG00000046863	Others	NA
+Hucho_hucho	cdk9	ENSHHUG00000046901	Cyclin	NA
+Hucho_hucho	ilf2	ENSHHUG00000046930	Others	NA
+Hucho_hucho	anp32b	ENSHHUG00000047068	ANP	NA
+Hucho_hucho	sirt2	ENSHHUG00000047080	Sirtuin	NA
+Hucho_hucho	phf5a	ENSHHUG00000047108	PHF	NA
+Hucho_hucho	H2AZ1	ENSHHUG00000047138	Others	NA
+Hucho_hucho	ccnt1	ENSHHUG00000047155	Cyclin	NA
+Hucho_hucho	rnf10	ENSHHUG00000047239	Ring finger protein	NA
+Hucho_hucho	leo1	ENSHHUG00000047283	Others	NA
+Hucho_hucho	mtor	ENSHHUG00000047291	Others	NA
+Hucho_hucho	prpf6	ENSHHUG00000047310	Others	NA
+Hucho_hucho	crebbpb	ENSHHUG00000047389	CREB	NA
+Hucho_hucho	atxn7l3	ENSHHUG00000047416	Others	NA
+Hucho_hucho		ENSHHUG00000047466	Transducin	NA
+Hucho_hucho	c1qbp	ENSHHUG00000047477	Others	NA
+Hucho_hucho	fgfr1a	ENSHHUG00000047584	FGF	NA
+Hucho_hucho	setd3	ENSHHUG00000047623	SET	NA
+Hucho_hucho	uri1	ENSHHUG00000047850	Others	NA
+Hucho_hucho	ajuba	ENSHHUG00000047956	Others	NA
+Hucho_hucho	slc26a3.2	ENSHHUG00000047960	SLC	NA
+Hucho_hucho	mtf2	ENSHHUG00000047971	Others	NA
+Hucho_hucho	NEDD8	ENSHHUG00000048007	Others	NA
+Hucho_hucho		ENSHHUG00000048033	Others	NA
+Hucho_hucho	si:ch211-130m23.3	ENSHHUG00000048088	Others	NA
+Hucho_hucho	emsy	ENSHHUG00000048162	Others	NA
+Hucho_hucho	trim16	ENSHHUG00000048252	Tripartite motif	NA
+Hucho_hucho	dact1	ENSHHUG00000048442	Others	NA
+Hucho_hucho	macroh2a2	ENSHHUG00000048480	Others	NA
+Hucho_hucho	hells	ENSHHUG00000048559	Others	NA
+Hucho_hucho	waca	ENSHHUG00000048570	WW	NA
+Hucho_hucho	clu	ENSHHUG00000048573	Others	NA
+Hucho_hucho		ENSHHUG00000048576	Others	NA
+Hucho_hucho	CTH	ENSHHUG00000048618	Others	NA
+Hucho_hucho	hipk2	ENSHHUG00000048644	HIPK	NA
+Hucho_hucho	snd1	ENSHHUG00000048668	Others	NA
+Hucho_hucho	taf7	ENSHHUG00000048774	TATA-box	NA
+Hucho_hucho	tgfb1b	ENSHHUG00000048856	Others	NA
+Hucho_hucho	cry1b	ENSHHUG00000048951	Others	NA
+Hucho_hucho	supt5h	ENSHHUG00000049015	SUPT	NA
+Hucho_hucho	phf19	ENSHHUG00000049074	PHF	NA
+Hucho_hucho	ccdc59	ENSHHUG00000049196	Coiled-coil	NA
+Hucho_hucho	eed	ENSHHUG00000049291	Others	NA
+Hucho_hucho	DUSP26	ENSHHUG00000049336	Others	NA
+Hucho_hucho	ascc3	ENSHHUG00000049364	ASCC	NA
+Hucho_hucho		ENSHHUG00000049412	Tripartite motif	NA
+Hucho_hucho	zgc:162255	ENSHHUG00000049480	Other_CRF	NA
+Hucho_hucho	mnat1	ENSHHUG00000049515	Others	NA
+Hucho_hucho	scai	ENSHHUG00000049577	Others	NA
+Hucho_hucho	mtpn	ENSHHUG00000049582	Others	NA
+Hucho_hucho	btf3	ENSHHUG00000049730	Others	NA
+Hucho_hucho	skila	ENSHHUG00000049776	SKI	NA
+Hucho_hucho	ankra2	ENSHHUG00000049781	Ankyrin repeat	NA
+Hucho_hucho	sf1	ENSHHUG00000049792	Others	NA
+Hucho_hucho	ASF1B	ENSHHUG00000049897	Others	NA
+Hucho_hucho	SUPT6H	ENSHHUG00000049971	SUPT	NA
+Hucho_hucho	dnajb1a	ENSHHUG00000050050	Others	NA
+Hucho_hucho	dapk3	ENSHHUG00000050062	Others	NA
+Hucho_hucho	grhpra	ENSHHUG00000050162	Others	NA
+Hucho_hucho	insra	ENSHHUG00000050183	Others	NA
+Hucho_hucho	syk	ENSHHUG00000050260	Others	NA
+Hucho_hucho	DDX5	ENSHHUG00000050273	RNA helicase	NA
+Hucho_hucho	SMYD2	ENSHHUG00000050311	SMYD	NA
+Hucho_hucho	lmo4a	ENSHHUG00000050413	LIM	NA
+Hucho_hucho		ENSHHUG00000050440	Mediator complex	NA
+Hucho_hucho	trim25	ENSHHUG00000050465	Tripartite motif	NA
+Hucho_hucho	ccnh	ENSHHUG00000050628	Cyclin	NA
+Hucho_hucho	ssu72	ENSHHUG00000050703	Others	NA
+Hucho_hucho	kdm1a	ENSHHUG00000050720	Lysine demethylase	NA
+Hucho_hucho		ENSHHUG00000050855	Others	NA
+Hucho_hucho	DGKQ	ENSHHUG00000050940	Others	NA
+Hucho_hucho	cbx2	ENSHHUG00000050943	Chromobox	NA
+Hucho_hucho	mrgbp	ENSHHUG00000050952	Others	NA
+Hucho_hucho	fbxw11a	ENSHHUG00000051036	Others	NA
+Hucho_hucho	naa15a	ENSHHUG00000051128	Others	NA
+Hucho_hucho	park7	ENSHHUG00000051468	Others	NA
+Hucho_hucho	hira	ENSHHUG00000051594	Others	NA
+Hucho_hucho	cbx6a	ENSHHUG00000051753	Chromobox	NA
+Hucho_hucho	NDUFA13	ENSHHUG00000051766	Others	NA
+Hucho_hucho		ENSHHUG00000051987	Others	NA
+Hucho_hucho	wdtc1	ENSHHUG00000051992	WD	NA
+Hucho_hucho	ccnt2a	ENSHHUG00000052026	Cyclin	NA
+Hucho_hucho	chd8	ENSHHUG00000052047	CHD	NA
+Hucho_hucho		ENSHHUG00000052065	Others	NA
+Hucho_hucho	prmt5	ENSHHUG00000052165	Arginine methyltransferase	NA
+Hucho_hucho	setd2	ENSHHUG00000052224	SET	NA
+Hucho_hucho		ENSHHUG00000052264	Others	NA
+Hucho_hucho	mcrs1	ENSHHUG00000052278	Others	NA
+Hucho_hucho	timeless	ENSHHUG00000052301	Others	NA
+Hucho_hucho	aurkb	ENSHHUG00000052321	Others	NA
+Hucho_hucho	c1d	ENSHHUG00000052344	Other_Co-activator/repressors	NA
+Hucho_hucho	TAF6	ENSHHUG00000052352	TATA-box	NA
+Hucho_hucho	FGF3	ENSHHUG00000052403	FGF	NA
+Hucho_hucho	gtf2b	ENSHHUG00000052458	GTF	NA
+Hucho_hucho	taf5l	ENSHHUG00000052519	TATA-box	NA
+Hucho_hucho	RING1	ENSHHUG00000052676	Ring finger protein	NA
+Hucho_hucho	ep300b	ENSHHUG00000052694	Others	NA
+Hucho_hucho	rbx1	ENSHHUG00000052707	Others	NA
+Hucho_hucho	tbp	ENSHHUG00000052725	TATA-box	NA
+Hucho_hucho	phf10	ENSHHUG00000052733	PHF	NA
+Hucho_hucho	TOB2	ENSHHUG00000052757	Others	NA
+Hucho_hucho	ss18l2	ENSHHUG00000052791	SS18	NA
+Hucho_hucho	picalma	ENSHHUG00000052924	Others	NA

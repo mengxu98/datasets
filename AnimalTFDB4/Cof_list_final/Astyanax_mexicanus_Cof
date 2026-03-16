@@ -1,0 +1,758 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Astyanax_mexicanus	cnot10	ENSAMXG00000000165	CCR4-NOT	103034473
+Astyanax_mexicanus	ctnnb1	ENSAMXG00000000198	Casein	103035854
+Astyanax_mexicanus	erbb2	ENSAMXG00000000253	Erbb2	103042851
+Astyanax_mexicanus		ENSAMXG00000000297	Others	103037257
+Astyanax_mexicanus	tbpl2	ENSAMXG00000000325	TATA-box	NA
+Astyanax_mexicanus	ep400	ENSAMXG00000000356	Others	NA
+Astyanax_mexicanus	hdac5	ENSAMXG00000000390	Histone deacetylase	NA
+Astyanax_mexicanus	ice2	ENSAMXG00000000395	GTF	103025165
+Astyanax_mexicanus	RWDD3	ENSAMXG00000000400	Others	103030839
+Astyanax_mexicanus	rnf20	ENSAMXG00000000408	Ring finger protein	103034820
+Astyanax_mexicanus		ENSAMXG00000000443	Others	103037620
+Astyanax_mexicanus	eya1	ENSAMXG00000000492	EYA	NA
+Astyanax_mexicanus	CRTC2	ENSAMXG00000000498	CREB	103023525
+Astyanax_mexicanus	ncoa2	ENSAMXG00000000511	Nuclear receptor coactivator	103038623
+Astyanax_mexicanus	tle3a	ENSAMXG00000000547	Transducin	NA
+Astyanax_mexicanus	cops2	ENSAMXG00000000599	Others	103027287
+Astyanax_mexicanus	actn4	ENSAMXG00000000780	Actin	103022122
+Astyanax_mexicanus	cbfa2t2	ENSAMXG00000000928	Others	NA
+Astyanax_mexicanus	ern1	ENSAMXG00000000944	Others	NA
+Astyanax_mexicanus	med13a	ENSAMXG00000000955	Mediator complex	103047243
+Astyanax_mexicanus	cnot2	ENSAMXG00000000972	CCR4-NOT	103043396
+Astyanax_mexicanus	hipk2	ENSAMXG00000001029	HIPK	103040439
+Astyanax_mexicanus	raf1a	ENSAMXG00000001055	Others	NA
+Astyanax_mexicanus	rprd1b	ENSAMXG00000001081	Others	103023095
+Astyanax_mexicanus	esf1	ENSAMXG00000001172	Others	NA
+Astyanax_mexicanus	tfb2m	ENSAMXG00000001243	Others	NA
+Astyanax_mexicanus	src	ENSAMXG00000001275	Others	103038924
+Astyanax_mexicanus	plrg1	ENSAMXG00000001360	Others	103042237
+Astyanax_mexicanus	cbl	ENSAMXG00000001367	Others	103032411
+Astyanax_mexicanus	ccar1	ENSAMXG00000001383	Others	NA
+Astyanax_mexicanus	ascc3	ENSAMXG00000001395	ASCC	NA
+Astyanax_mexicanus	per2	ENSAMXG00000001431	Others	103039742
+Astyanax_mexicanus	hnrnpd	ENSAMXG00000001477	HNRNP	103022948
+Astyanax_mexicanus	bcas3	ENSAMXG00000001487	Others	NA
+Astyanax_mexicanus	brip1	ENSAMXG00000001555	Others	NA
+Astyanax_mexicanus	nfkbib	ENSAMXG00000001646	NFKB associated	103027564
+Astyanax_mexicanus	ncl	ENSAMXG00000001647	Others	NA
+Astyanax_mexicanus	insra	ENSAMXG00000001680	Others	103039445
+Astyanax_mexicanus		ENSAMXG00000001825	Others	103028396
+Astyanax_mexicanus	prpf6	ENSAMXG00000001929	Others	103027632
+Astyanax_mexicanus	dpf2	ENSAMXG00000001974	DPF	NA
+Astyanax_mexicanus	cdc73	ENSAMXG00000002012	Others	NA
+Astyanax_mexicanus	macroh2a2	ENSAMXG00000002015	Others	103028519
+Astyanax_mexicanus	chaf1b	ENSAMXG00000002087	Others	103033721
+Astyanax_mexicanus	hells	ENSAMXG00000002088	Others	NA
+Astyanax_mexicanus	ppid	ENSAMXG00000002090	Others	NA
+Astyanax_mexicanus	ddx1	ENSAMXG00000002100	RNA helicase	103034403
+Astyanax_mexicanus	plk3	ENSAMXG00000002125	Others	103024965
+Astyanax_mexicanus	phf20b	ENSAMXG00000002136	PHF	103029094
+Astyanax_mexicanus	vhl	ENSAMXG00000002179	Others	103026553
+Astyanax_mexicanus	ankrd2	ENSAMXG00000002218	Ankyrin repeat	103042132
+Astyanax_mexicanus	ruvbl1	ENSAMXG00000002262	Other_CRF	103040048
+Astyanax_mexicanus	btk	ENSAMXG00000002336	Others	NA
+Astyanax_mexicanus	kdm6a	ENSAMXG00000002456	Lysine demethylase	NA
+Astyanax_mexicanus	ppargc1a	ENSAMXG00000002461	Others	103037640
+Astyanax_mexicanus	med14	ENSAMXG00000002581	Mediator complex	103040641
+Astyanax_mexicanus	dpy30	ENSAMXG00000002700	Others	103036540
+Astyanax_mexicanus	rrn3	ENSAMXG00000002704	Others	103040275
+Astyanax_mexicanus	morf4l1	ENSAMXG00000002753	Other_CRF	103024642
+Astyanax_mexicanus	snx6	ENSAMXG00000002762	Others	103040510
+Astyanax_mexicanus	skor1b	ENSAMXG00000002804	SKI	103029280
+Astyanax_mexicanus	baz1a	ENSAMXG00000002816	Bromodomain	NA
+Astyanax_mexicanus	TAF4	ENSAMXG00000002886	TATA-box	NA
+Astyanax_mexicanus	ccne1	ENSAMXG00000002929	Cyclin	103042001
+Astyanax_mexicanus	hspa8	ENSAMXG00000003027	Heat shock protein	103043364
+Astyanax_mexicanus	mms19	ENSAMXG00000003029	Others	NA
+Astyanax_mexicanus	sav1	ENSAMXG00000003247	Others	103025171
+Astyanax_mexicanus	CDYL2	ENSAMXG00000003261	Chromodomain Y	103036561
+Astyanax_mexicanus	DGKQ	ENSAMXG00000003289	Others	NA
+Astyanax_mexicanus	picalma	ENSAMXG00000003309	Others	103035859
+Astyanax_mexicanus	nfatc2ip	ENSAMXG00000003379	Nuclear coactivator	NA
+Astyanax_mexicanus	sgf29	ENSAMXG00000003395	Others	103036506
+Astyanax_mexicanus	elp2	ENSAMXG00000003453	ELP	NA
+Astyanax_mexicanus	eaf2	ENSAMXG00000003472	Others	103036057
+Astyanax_mexicanus	sf1	ENSAMXG00000003630	Others	NA
+Astyanax_mexicanus		ENSAMXG00000003731	Sirtuin	NA
+Astyanax_mexicanus	chek2	ENSAMXG00000003794	Others	103034962
+Astyanax_mexicanus	fgfr2	ENSAMXG00000003805	FGF	NA
+Astyanax_mexicanus	cideb	ENSAMXG00000003822	Others	103021842
+Astyanax_mexicanus	park7	ENSAMXG00000003825	Others	103030353
+Astyanax_mexicanus	axin1	ENSAMXG00000003827	Others	103045152
+Astyanax_mexicanus	aurkb	ENSAMXG00000003849	Others	103024192
+Astyanax_mexicanus	ajuba	ENSAMXG00000003875	Others	103024444
+Astyanax_mexicanus		ENSAMXG00000003901	Others	NA
+Astyanax_mexicanus	kdm8	ENSAMXG00000003921	Lysine demethylase	103044249
+Astyanax_mexicanus	chek1	ENSAMXG00000004009	Others	103021956
+Astyanax_mexicanus	slc26a3.2	ENSAMXG00000004041	SLC	NA
+Astyanax_mexicanus	lmcd1	ENSAMXG00000004086	LIM	103040443
+Astyanax_mexicanus	terf2ip	ENSAMXG00000004094	Others	NA
+Astyanax_mexicanus	eya4	ENSAMXG00000004355	EYA	NA
+Astyanax_mexicanus	phip	ENSAMXG00000004407	Others	NA
+Astyanax_mexicanus	ddx5	ENSAMXG00000004466	RNA helicase	103024726
+Astyanax_mexicanus	pdcd4b	ENSAMXG00000004515	Others	103035054
+Astyanax_mexicanus	bptf	ENSAMXG00000004516	Bromodomain	103026062
+Astyanax_mexicanus	eaf1	ENSAMXG00000004558	Others	103024354
+Astyanax_mexicanus	smarcd1	ENSAMXG00000004577	SWI/SNF	103047592
+Astyanax_mexicanus	pdlim1	ENSAMXG00000004659	Others	103027512
+Astyanax_mexicanus	sap130a	ENSAMXG00000004665	SAP	103025807
+Astyanax_mexicanus	bcor	ENSAMXG00000004699	Other_Co-activator/repressors	NA
+Astyanax_mexicanus	wwtr1	ENSAMXG00000004716	WW	NA
+Astyanax_mexicanus	chuk	ENSAMXG00000004769	Others	103033415
+Astyanax_mexicanus	taf1b	ENSAMXG00000004793	TATA-box	103042628
+Astyanax_mexicanus	kat6b	ENSAMXG00000004803	Lysine acetyltransferase	103034382
+Astyanax_mexicanus	ccnk	ENSAMXG00000004860	Cyclin	103046138
+Astyanax_mexicanus	gtf2h2	ENSAMXG00000004923	GTF	103032811
+Astyanax_mexicanus	nelfa	ENSAMXG00000004974	GTF	103037320
+Astyanax_mexicanus	med29	ENSAMXG00000005149	Mediator complex	103026371
+Astyanax_mexicanus	cbx2	ENSAMXG00000005167	Chromobox	103045429
+Astyanax_mexicanus	dmap1	ENSAMXG00000005195	DNA_methylase	NA
+Astyanax_mexicanus	nlk2	ENSAMXG00000005240	Others	NA
+Astyanax_mexicanus	zmynd11	ENSAMXG00000005242	Zinc finger	103040052
+Astyanax_mexicanus	naa15b	ENSAMXG00000005342	Others	103035563
+Astyanax_mexicanus	rb1	ENSAMXG00000005363	Other_Co-activator/repressors	NA
+Astyanax_mexicanus	maml3	ENSAMXG00000005387	MAML	NA
+Astyanax_mexicanus	si:ch1073-459j12.1	ENSAMXG00000005403	Others	103043923
+Astyanax_mexicanus	cry1a	ENSAMXG00000005406	Others	NA
+Astyanax_mexicanus	zmym2	ENSAMXG00000005469	Zinc finger	103047518
+Astyanax_mexicanus	cxxc5a	ENSAMXG00000005579	Others	103023308
+Astyanax_mexicanus	rnf2	ENSAMXG00000005594	Ring finger protein	103033289
+Astyanax_mexicanus	chd9	ENSAMXG00000005652	CHD	103046352
+Astyanax_mexicanus	smarca5	ENSAMXG00000005709	SWI/SNF	103021645
+Astyanax_mexicanus	mllt1b	ENSAMXG00000005765	GTF	NA
+Astyanax_mexicanus	pcgf1	ENSAMXG00000005832	PCGF	103047474
+Astyanax_mexicanus		ENSAMXG00000005894	Others	NA
+Astyanax_mexicanus	fhod1	ENSAMXG00000005952	Others	103022245
+Astyanax_mexicanus	timeless	ENSAMXG00000005979	Others	103032261
+Astyanax_mexicanus	supt6h	ENSAMXG00000006025	SUPT	103045879
+Astyanax_mexicanus	mak	ENSAMXG00000006037	Others	103025131
+Astyanax_mexicanus	hcls1	ENSAMXG00000006045	Others	103037311
+Astyanax_mexicanus	taf6l	ENSAMXG00000006055	TATA-box	103030381
+Astyanax_mexicanus	anp32a	ENSAMXG00000006129	ANP	NA
+Astyanax_mexicanus	trim25	ENSAMXG00000006132	Tripartite motif	NA
+Astyanax_mexicanus	chd7	ENSAMXG00000006180	CHD	NA
+Astyanax_mexicanus	cbx5	ENSAMXG00000006302	Chromobox	103047453
+Astyanax_mexicanus	lin9	ENSAMXG00000006464	Others	103022377
+Astyanax_mexicanus	men1	ENSAMXG00000006468	Others	103032489
+Astyanax_mexicanus	hcfc1b	ENSAMXG00000006488	Others	103044501
+Astyanax_mexicanus	rptor	ENSAMXG00000006530	Others	NA
+Astyanax_mexicanus	jmjd6	ENSAMXG00000006635	Others	103029547
+Astyanax_mexicanus	hnrpkl	ENSAMXG00000006660	HNRNP	103043638
+Astyanax_mexicanus	mtf2	ENSAMXG00000006703	Others	103032496
+Astyanax_mexicanus	phf12a	ENSAMXG00000006728	PHF	103023675
+Astyanax_mexicanus	nelfcd	ENSAMXG00000006740	GTF	103035082
+Astyanax_mexicanus	wwc1	ENSAMXG00000006817	WW	103026399
+Astyanax_mexicanus	tdrd3	ENSAMXG00000006847	Others	103034277
+Astyanax_mexicanus	zmynd8	ENSAMXG00000006882	Zinc finger	103045549
+Astyanax_mexicanus	sirt7	ENSAMXG00000006892	Sirtuin	103035964
+Astyanax_mexicanus	ncoa3	ENSAMXG00000006902	Nuclear receptor coactivator	NA
+Astyanax_mexicanus	scai	ENSAMXG00000006940	Others	NA
+Astyanax_mexicanus	smarcd3b	ENSAMXG00000006986	SWI/SNF	NA
+Astyanax_mexicanus	siah2l	ENSAMXG00000007046	Others	103031489
+Astyanax_mexicanus	GPS2	ENSAMXG00000007130	Others	NA
+Astyanax_mexicanus	sirt3	ENSAMXG00000007187	Sirtuin	103044645
+Astyanax_mexicanus	trip4	ENSAMXG00000007270	Thyroid hormone receptor	103030791
+Astyanax_mexicanus	aatf	ENSAMXG00000007276	Others	NA
+Astyanax_mexicanus	taf2	ENSAMXG00000007296	TATA-box	103035672
+Astyanax_mexicanus	pttg1	ENSAMXG00000007324	Others	NA
+Astyanax_mexicanus	alyref	ENSAMXG00000007359	Others	103044901
+Astyanax_mexicanus	chd2	ENSAMXG00000007404	CHD	103032281
+Astyanax_mexicanus		ENSAMXG00000007417	Others	NA
+Astyanax_mexicanus	TENM2	ENSAMXG00000007446	Others	103041438
+Astyanax_mexicanus	cbx7b	ENSAMXG00000007494	Chromobox	103045301
+Astyanax_mexicanus	xrcc6	ENSAMXG00000007545	Others	103046410
+Astyanax_mexicanus	traf6	ENSAMXG00000007558	Others	103021325
+Astyanax_mexicanus	taf1	ENSAMXG00000007593	TATA-box	NA
+Astyanax_mexicanus	mrtfab	ENSAMXG00000007612	Others	103047336
+Astyanax_mexicanus	dpf1	ENSAMXG00000007613	DPF	NA
+Astyanax_mexicanus	ctnnd2a	ENSAMXG00000007719	Casein	103040763
+Astyanax_mexicanus	edf1	ENSAMXG00000007737	Others	103021498
+Astyanax_mexicanus	BRD3	ENSAMXG00000007739	Bromodomain	103046549
+Astyanax_mexicanus	MSL3	ENSAMXG00000007892	Others	NA
+Astyanax_mexicanus	wdtc1	ENSAMXG00000007911	WD	103028417
+Astyanax_mexicanus	trrap	ENSAMXG00000008037	Others	NA
+Astyanax_mexicanus	tonsl	ENSAMXG00000008066	Others	103023933
+Astyanax_mexicanus	cnot7	ENSAMXG00000008075	CCR4-NOT	103042639
+Astyanax_mexicanus	fbp1b	ENSAMXG00000008165	Others	103029226
+Astyanax_mexicanus	polr3c	ENSAMXG00000008273	POLR	103022840
+Astyanax_mexicanus		ENSAMXG00000008304	PHF	103022241
+Astyanax_mexicanus	cdk7	ENSAMXG00000008454	Cyclin	103042052
+Astyanax_mexicanus	pir	ENSAMXG00000008593	Others	103025957
+Astyanax_mexicanus	sin3aa	ENSAMXG00000008726	Other_CRF	NA
+Astyanax_mexicanus	YTHDC2	ENSAMXG00000008735	RNA helicase	103038486
+Astyanax_mexicanus	wdr61	ENSAMXG00000008741	WD	103037178
+Astyanax_mexicanus	ehmt1b	ENSAMXG00000008776	Histone lysine methyltransferase	103025689
+Astyanax_mexicanus	ilk	ENSAMXG00000008797	Others	103042782
+Astyanax_mexicanus	med20	ENSAMXG00000008812	Mediator complex	103046394
+Astyanax_mexicanus	emsy	ENSAMXG00000008821	Others	NA
+Astyanax_mexicanus	gsk3ba	ENSAMXG00000008836	Others	103021870
+Astyanax_mexicanus	dyrk1aa	ENSAMXG00000008849	Others	NA
+Astyanax_mexicanus	zgc:162255	ENSAMXG00000008865	Other_CRF	103021886
+Astyanax_mexicanus	rbbp5	ENSAMXG00000008879	RBBP	NA
+Astyanax_mexicanus	crym	ENSAMXG00000008929	Others	103034376
+Astyanax_mexicanus	cnot6l	ENSAMXG00000008943	CCR4-NOT	NA
+Astyanax_mexicanus	skap1	ENSAMXG00000009045	Others	103031148
+Astyanax_mexicanus	pcgf5a	ENSAMXG00000009046	PCGF	103025860
+Astyanax_mexicanus	ercc2	ENSAMXG00000009052	Others	103044920
+Astyanax_mexicanus	kat5b	ENSAMXG00000009091	Lysine acetyltransferase	NA
+Astyanax_mexicanus	supt5h	ENSAMXG00000009128	SUPT	103023906
+Astyanax_mexicanus	snw1	ENSAMXG00000009141	Others	103039376
+Astyanax_mexicanus	tada3l	ENSAMXG00000009165	Transcriptional adaptor	103021557
+Astyanax_mexicanus	ddx54	ENSAMXG00000009189	RNA helicase	103046998
+Astyanax_mexicanus	recql5	ENSAMXG00000009293	Others	103031687
+Astyanax_mexicanus	ctnnd1	ENSAMXG00000009385	Casein	103033760
+Astyanax_mexicanus	taf6	ENSAMXG00000009394	TATA-box	NA
+Astyanax_mexicanus	csnk2a2b	ENSAMXG00000009396	Casein	103042119
+Astyanax_mexicanus	actr6	ENSAMXG00000009440	ACTR	103044090
+Astyanax_mexicanus	cnot3b	ENSAMXG00000009447	CCR4-NOT	103026153
+Astyanax_mexicanus	tab3	ENSAMXG00000009461	Others	103035047
+Astyanax_mexicanus	gtf2a1	ENSAMXG00000009482	GTF	103036178
+Astyanax_mexicanus	suz12b	ENSAMXG00000009503	Others	103037652
+Astyanax_mexicanus	rbl1	ENSAMXG00000009565	Other_Co-activator/repressors	103024081
+Astyanax_mexicanus	chd6	ENSAMXG00000009576	CHD	NA
+Astyanax_mexicanus	kat8	ENSAMXG00000009619	Lysine acetyltransferase	103040440
+Astyanax_mexicanus	rnf25	ENSAMXG00000009683	Ring finger protein	103041275
+Astyanax_mexicanus	med19b	ENSAMXG00000009699	Mediator complex	103047628
+Astyanax_mexicanus	elp3	ENSAMXG00000009723	ELP	103039785
+Astyanax_mexicanus	kdm2aa	ENSAMXG00000009823	Lysine demethylase	103024695
+Astyanax_mexicanus	ankra2	ENSAMXG00000009909	Ankyrin repeat	103023767
+Astyanax_mexicanus	ash1l	ENSAMXG00000009994	Others	103022779
+Astyanax_mexicanus	lmo1	ENSAMXG00000010024	LIM	NA
+Astyanax_mexicanus	smurf1	ENSAMXG00000010087	Others	103027089
+Astyanax_mexicanus	MAML2	ENSAMXG00000010093	MAML	NA
+Astyanax_mexicanus	rnf168	ENSAMXG00000010126	Ring finger protein	NA
+Astyanax_mexicanus	flncb	ENSAMXG00000010152	Others	NA
+Astyanax_mexicanus	ctr9	ENSAMXG00000010162	Others	103042616
+Astyanax_mexicanus	bud31	ENSAMXG00000010164	Others	103025586
+Astyanax_mexicanus	flii	ENSAMXG00000010194	Others	103034676
+Astyanax_mexicanus		ENSAMXG00000010209	PARP	NA
+Astyanax_mexicanus	tprb	ENSAMXG00000010256	Others	NA
+Astyanax_mexicanus	ccnt2a	ENSAMXG00000010280	Cyclin	103023729
+Astyanax_mexicanus	arrb1	ENSAMXG00000010282	Others	NA
+Astyanax_mexicanus	ago4	ENSAMXG00000010318	Others	103043810
+Astyanax_mexicanus	prmt1	ENSAMXG00000010374	Arginine methyltransferase	103022674
+Astyanax_mexicanus	cdk5r1b	ENSAMXG00000010409	Cyclin	103047129
+Astyanax_mexicanus	pih1d1	ENSAMXG00000010538	Other_CRF	103026325
+Astyanax_mexicanus	cdk5rap3	ENSAMXG00000010548	Cyclin	103043154
+Astyanax_mexicanus	med23	ENSAMXG00000010598	Mediator complex	NA
+Astyanax_mexicanus	gtf2f1	ENSAMXG00000010803	GTF	NA
+Astyanax_mexicanus	nck1b	ENSAMXG00000010892	Others	103027024
+Astyanax_mexicanus	ilf2	ENSAMXG00000010896	Others	103034788
+Astyanax_mexicanus	loxl3b	ENSAMXG00000010914	Others	103043058
+Astyanax_mexicanus	ecd	ENSAMXG00000011090	Others	103023275
+Astyanax_mexicanus	gmnn	ENSAMXG00000011115	Others	103044515
+Astyanax_mexicanus	actn2b	ENSAMXG00000011135	Actin	103024106
+Astyanax_mexicanus	grip1	ENSAMXG00000011215	Others	NA
+Astyanax_mexicanus	SMARCA4	ENSAMXG00000011238	SWI/SNF	NA
+Astyanax_mexicanus	arrb2a	ENSAMXG00000011240	Others	103028079
+Astyanax_mexicanus	taf11	ENSAMXG00000011327	TATA-box	103035816
+Astyanax_mexicanus		ENSAMXG00000011421	Others	103022889
+Astyanax_mexicanus	hat1	ENSAMXG00000011428	Others	103031739
+Astyanax_mexicanus	rbfox2	ENSAMXG00000011451	Others	103024777
+Astyanax_mexicanus	runx1t1	ENSAMXG00000011474	Others	NA
+Astyanax_mexicanus	peli1b	ENSAMXG00000011500	Others	103032233
+Astyanax_mexicanus	sqstm1	ENSAMXG00000011526	Others	NA
+Astyanax_mexicanus	med12	ENSAMXG00000011603	Mediator complex	NA
+Astyanax_mexicanus	mbtd1	ENSAMXG00000011666	Others	103045049
+Astyanax_mexicanus	arhgap5	ENSAMXG00000011695	Others	103036605
+Astyanax_mexicanus	ascc1	ENSAMXG00000011705	ASCC	103022564
+Astyanax_mexicanus	cep290	ENSAMXG00000011708	Others	NA
+Astyanax_mexicanus	tdp2b	ENSAMXG00000011775	Others	103042690
+Astyanax_mexicanus	actl6a	ENSAMXG00000011893	Actin	103041398
+Astyanax_mexicanus	pin1	ENSAMXG00000011958	Others	103047339
+Astyanax_mexicanus	pik3r1	ENSAMXG00000011959	Others	103046618
+Astyanax_mexicanus	jmjd1cb	ENSAMXG00000011988	Other_CRF	NA
+Astyanax_mexicanus	ldb1b	ENSAMXG00000012067	LIM	103035624
+Astyanax_mexicanus	camk2b1	ENSAMXG00000012075	CAMK	103043420
+Astyanax_mexicanus	nsmce4a	ENSAMXG00000012091	EID	103041355
+Astyanax_mexicanus	smarcd2	ENSAMXG00000012109	SWI/SNF	NA
+Astyanax_mexicanus	med24	ENSAMXG00000012180	Mediator complex	NA
+Astyanax_mexicanus	dnmt1	ENSAMXG00000012182	DNA_methylase	NA
+Astyanax_mexicanus	pak6b	ENSAMXG00000012204	Others	103030407
+Astyanax_mexicanus	brwd1	ENSAMXG00000012221	Bromodomain	103045111
+Astyanax_mexicanus	trim33	ENSAMXG00000012262	Tripartite motif	103043724
+Astyanax_mexicanus	chd1l	ENSAMXG00000012367	CHD	NA
+Astyanax_mexicanus	smarca2	ENSAMXG00000012404	SWI/SNF	103043671
+Astyanax_mexicanus	sltm	ENSAMXG00000012409	Others	NA
+Astyanax_mexicanus	rnf111	ENSAMXG00000012431	Ring finger protein	NA
+Astyanax_mexicanus	trak2	ENSAMXG00000012437	Others	NA
+Astyanax_mexicanus	phf19	ENSAMXG00000012448	PHF	NA
+Astyanax_mexicanus	egfra	ENSAMXG00000012474	Others	103031629
+Astyanax_mexicanus	spen	ENSAMXG00000012485	Others	103025061
+Astyanax_mexicanus	kank1a	ENSAMXG00000012523	Others	103041518
+Astyanax_mexicanus	waca	ENSAMXG00000012591	WW	103037241
+Astyanax_mexicanus	parp9	ENSAMXG00000012659	PARP	103025643
+Astyanax_mexicanus	EZH1	ENSAMXG00000012662	Others	NA
+Astyanax_mexicanus	kdm5c	ENSAMXG00000012757	Lysine demethylase	103035157
+Astyanax_mexicanus	NCOA7	ENSAMXG00000012761	Nuclear receptor coactivator	103031567
+Astyanax_mexicanus	epc1a	ENSAMXG00000012778	Others	103036715
+Astyanax_mexicanus	cnot11	ENSAMXG00000012843	CCR4-NOT	103041302
+Astyanax_mexicanus	ndnl2	ENSAMXG00000012845	MAGE	NA
+Astyanax_mexicanus	epc2	ENSAMXG00000012850	Others	103033520
+Astyanax_mexicanus	prmt7	ENSAMXG00000012862	Arginine methyltransferase	111195751
+Astyanax_mexicanus	noc2l	ENSAMXG00000012865	Others	103036253
+Astyanax_mexicanus	phf8	ENSAMXG00000012939	PHF	103038657
+Astyanax_mexicanus	kmt2d	ENSAMXG00000013022	Lysine methyltransferase	103042576
+Astyanax_mexicanus	hipk3a	ENSAMXG00000013024	HIPK	103046977
+Astyanax_mexicanus	brca2	ENSAMXG00000013027	Others	NA
+Astyanax_mexicanus	med8	ENSAMXG00000013038	Mediator complex	103028217
+Astyanax_mexicanus	ikbkb	ENSAMXG00000013072	Others	NA
+Astyanax_mexicanus	ccna2	ENSAMXG00000013073	Cyclin	103035499
+Astyanax_mexicanus	dvl2	ENSAMXG00000013102	Others	103045219
+Astyanax_mexicanus	ldb2a	ENSAMXG00000013104	LIM	NA
+Astyanax_mexicanus	kdm7ab	ENSAMXG00000013160	Lysine demethylase	103031714
+Astyanax_mexicanus	cnot1	ENSAMXG00000013170	CCR4-NOT	103032033
+Astyanax_mexicanus	setd6	ENSAMXG00000013199	SET	103036579
+Astyanax_mexicanus	hdac8	ENSAMXG00000013212	Histone deacetylase	NA
+Astyanax_mexicanus	cdk5	ENSAMXG00000013249	Cyclin	103032107
+Astyanax_mexicanus	rexo4	ENSAMXG00000013291	Others	103042424
+Astyanax_mexicanus	aurkaip1	ENSAMXG00000013317	Others	103035422
+Astyanax_mexicanus	cdk9	ENSAMXG00000013366	Cyclin	NA
+Astyanax_mexicanus	TENM1	ENSAMXG00000013379	Others	NA
+Astyanax_mexicanus	caskb	ENSAMXG00000013382	CAMK	NA
+Astyanax_mexicanus	taf1a	ENSAMXG00000013438	TATA-box	103040584
+Astyanax_mexicanus	pabpc1l	ENSAMXG00000013552	Other_CRF	103022532
+Astyanax_mexicanus	slc19a1	ENSAMXG00000013567	SLC	103024217
+Astyanax_mexicanus	ino80b	ENSAMXG00000013592	INO80 complex	103041315
+Astyanax_mexicanus	ep300b	ENSAMXG00000013602	Others	103032522
+Astyanax_mexicanus	gtf2h3	ENSAMXG00000013629	GTF	103021468
+Astyanax_mexicanus	suds3	ENSAMXG00000013637	Other_Co-activator/repressors	NA
+Astyanax_mexicanus	HNRNPUL1	ENSAMXG00000013644	HNRNP	NA
+Astyanax_mexicanus	cnot9	ENSAMXG00000013778	CCR4-NOT	103024649
+Astyanax_mexicanus	rbm39a	ENSAMXG00000013781	RNA binding protein	103042624
+Astyanax_mexicanus	slc30a9	ENSAMXG00000013803	SLC	103025827
+Astyanax_mexicanus	psen1	ENSAMXG00000013813	Others	103047839
+Astyanax_mexicanus	wwox	ENSAMXG00000013856	WW	NA
+Astyanax_mexicanus	DAB2	ENSAMXG00000013962	Others	103024390
+Astyanax_mexicanus	atrx	ENSAMXG00000013991	Others	NA
+Astyanax_mexicanus	brd2a	ENSAMXG00000014032	Bromodomain	103023197
+Astyanax_mexicanus	dvl3b	ENSAMXG00000014040	Others	NA
+Astyanax_mexicanus	lyn	ENSAMXG00000014086	Others	NA
+Astyanax_mexicanus	skia	ENSAMXG00000014091	SKI	103046211
+Astyanax_mexicanus	vgll4b	ENSAMXG00000014114	Vestigial like	103036361
+Astyanax_mexicanus	notch1b	ENSAMXG00000014174	Notch	103025197
+Astyanax_mexicanus	mcrs1	ENSAMXG00000014205	Others	103046973
+Astyanax_mexicanus	thoc5	ENSAMXG00000014235	Others	103039894
+Astyanax_mexicanus	nab2	ENSAMXG00000014270	Others	NA
+Astyanax_mexicanus	dcc	ENSAMXG00000014271	Others	NA
+Astyanax_mexicanus	HDAC2	ENSAMXG00000014325	Histone deacetylase	103028934
+Astyanax_mexicanus	tgfb3	ENSAMXG00000014435	Others	103032923
+Astyanax_mexicanus	btaf1	ENSAMXG00000014437	Others	103037828
+Astyanax_mexicanus	si:dkey-6i22.5	ENSAMXG00000014458	Others	103038082
+Astyanax_mexicanus	ogt.1	ENSAMXG00000014461	Others	103028765
+Astyanax_mexicanus	mtor	ENSAMXG00000014520	Others	103042377
+Astyanax_mexicanus	CDK8	ENSAMXG00000014535	Cyclin	NA
+Astyanax_mexicanus	ago2	ENSAMXG00000014587	Others	103030212
+Astyanax_mexicanus	chrac1	ENSAMXG00000014633	Other_CRF	103031563
+Astyanax_mexicanus	sin3b	ENSAMXG00000014639	Others	NA
+Astyanax_mexicanus	ccnh	ENSAMXG00000014644	Cyclin	103036394
+Astyanax_mexicanus	dscamb	ENSAMXG00000014775	Others	103044167
+Astyanax_mexicanus	yeats2	ENSAMXG00000014837	Others	NA
+Astyanax_mexicanus	actr8	ENSAMXG00000014954	ACTR	103039035
+Astyanax_mexicanus	znf451	ENSAMXG00000014956	Zinc finger	103033500
+Astyanax_mexicanus	kat2b	ENSAMXG00000015004	Lysine acetyltransferase	103026885
+Astyanax_mexicanus	yap1	ENSAMXG00000015263	Others	NA
+Astyanax_mexicanus	nol11	ENSAMXG00000015289	Nuclear coactivator	103029826
+Astyanax_mexicanus	phf10	ENSAMXG00000015307	PHF	103043400
+Astyanax_mexicanus	SMURF2	ENSAMXG00000015460	Others	103046280
+Astyanax_mexicanus	tasorb	ENSAMXG00000015505	FAM	103032451
+Astyanax_mexicanus	hdac10	ENSAMXG00000015539	Histone deacetylase	103023019
+Astyanax_mexicanus	fgfr1a	ENSAMXG00000015547	FGF	NA
+Astyanax_mexicanus	niban2b	ENSAMXG00000015591	FAM	103021421
+Astyanax_mexicanus	ncoa4	ENSAMXG00000015735	Nuclear receptor coactivator	103025066
+Astyanax_mexicanus	fbxw11a	ENSAMXG00000015774	Others	103028966
+Astyanax_mexicanus	ruvbl2	ENSAMXG00000015833	Other_CRF	103024854
+Astyanax_mexicanus	setd3	ENSAMXG00000015854	SET	103046172
+Astyanax_mexicanus	dhx33	ENSAMXG00000015875	RNA helicase	NA
+Astyanax_mexicanus	nfkbiz	ENSAMXG00000015888	NFKB associated	103037637
+Astyanax_mexicanus	eed	ENSAMXG00000015898	Others	103041188
+Astyanax_mexicanus	malt1	ENSAMXG00000016033	Others	103041361
+Astyanax_mexicanus	nelfb	ENSAMXG00000016049	GTF	103024451
+Astyanax_mexicanus	JMY	ENSAMXG00000016059	Others	103047814
+Astyanax_mexicanus	ccna1	ENSAMXG00000016061	Cyclin	NA
+Astyanax_mexicanus	c1qbp	ENSAMXG00000016100	Others	103043346
+Astyanax_mexicanus	pidd1	ENSAMXG00000016252	Others	103029535
+Astyanax_mexicanus	setd5	ENSAMXG00000016290	Lysine methyltransferase	103025313
+Astyanax_mexicanus	snd1	ENSAMXG00000016318	Others	103026608
+Astyanax_mexicanus	atad2	ENSAMXG00000016325	Others	103046236
+Astyanax_mexicanus	ascc2	ENSAMXG00000016326	ASCC	NA
+Astyanax_mexicanus	fhit	ENSAMXG00000016351	Others	NA
+Astyanax_mexicanus	SFMBT1	ENSAMXG00000016363	Others	103036664
+Astyanax_mexicanus	supt20	ENSAMXG00000016400	SUPT	103022261
+Astyanax_mexicanus	elp1	ENSAMXG00000016402	ELP	NA
+Astyanax_mexicanus	jak2a	ENSAMXG00000016504	Others	103042604
+Astyanax_mexicanus	tsg101a	ENSAMXG00000016510	Others	103047482
+Astyanax_mexicanus	lpxn	ENSAMXG00000016590	Others	103047683
+Astyanax_mexicanus	med17	ENSAMXG00000016638	Mediator complex	NA
+Astyanax_mexicanus	ttf2	ENSAMXG00000016683	Others	NA
+Astyanax_mexicanus	brdt	ENSAMXG00000016727	Bromodomain	103040769
+Astyanax_mexicanus	itchb	ENSAMXG00000016876	Others	103022206
+Astyanax_mexicanus	trim8a	ENSAMXG00000016929	Tripartite motif	NA
+Astyanax_mexicanus	cxxc1a	ENSAMXG00000016944	Others	103028330
+Astyanax_mexicanus	mycbp2	ENSAMXG00000016952	MYC	NA
+Astyanax_mexicanus	sufu	ENSAMXG00000016961	Others	103033984
+Astyanax_mexicanus	blm	ENSAMXG00000016970	Others	103043866
+Astyanax_mexicanus	brms1la	ENSAMXG00000016988	Other_CRF	103038856
+Astyanax_mexicanus	myo6b	ENSAMXG00000017107	Others	NA
+Astyanax_mexicanus	hdac6	ENSAMXG00000017118	Histone deacetylase	NA
+Astyanax_mexicanus	tnni2a.3	ENSAMXG00000017131	Others	NA
+Astyanax_mexicanus	tnip2	ENSAMXG00000017148	Others	103041288
+Astyanax_mexicanus	banp	ENSAMXG00000017170	Others	NA
+Astyanax_mexicanus	asf1ba	ENSAMXG00000017225	Others	103026007
+Astyanax_mexicanus	hsbp1a	ENSAMXG00000017234	Heat shock protein	103023435
+Astyanax_mexicanus	dhx36	ENSAMXG00000017365	RNA helicase	NA
+Astyanax_mexicanus	eya3	ENSAMXG00000017407	EYA	103037529
+Astyanax_mexicanus	brd1a	ENSAMXG00000017417	Bromodomain	103044756
+Astyanax_mexicanus	tab1	ENSAMXG00000017426	Others	NA
+Astyanax_mexicanus	helz2	ENSAMXG00000017465	Others	103025927
+Astyanax_mexicanus	baz1b	ENSAMXG00000017565	Bromodomain	103028381
+Astyanax_mexicanus	phf21ab	ENSAMXG00000017642	PHF	103036608
+Astyanax_mexicanus	rbl2	ENSAMXG00000017704	Other_Co-activator/repressors	103033933
+Astyanax_mexicanus	ell	ENSAMXG00000017724	GTF	103024059
+Astyanax_mexicanus	lrrk2	ENSAMXG00000017727	Other_CRF	NA
+Astyanax_mexicanus	jade1	ENSAMXG00000017786	Others	NA
+Astyanax_mexicanus	kdm5a	ENSAMXG00000017813	Lysine demethylase	NA
+Astyanax_mexicanus	ikbkg	ENSAMXG00000017836	Others	103043929
+Astyanax_mexicanus	ddx39b	ENSAMXG00000017837	RNA helicase	103042292
+Astyanax_mexicanus	gtf2h4	ENSAMXG00000017868	GTF	103042913
+Astyanax_mexicanus	vgll2a	ENSAMXG00000017904	Vestigial like	NA
+Astyanax_mexicanus	lpin2	ENSAMXG00000018088	LPIN	103030941
+Astyanax_mexicanus	clu	ENSAMXG00000018116	Others	103026346
+Astyanax_mexicanus	hcfc2	ENSAMXG00000018152	Others	103047617
+Astyanax_mexicanus	safb	ENSAMXG00000018154	Others	103042131
+Astyanax_mexicanus	tcea1	ENSAMXG00000018211	TEF	103034860
+Astyanax_mexicanus	hdac4	ENSAMXG00000018271	Histone deacetylase	NA
+Astyanax_mexicanus	xrn2	ENSAMXG00000018301	Others	103036099
+Astyanax_mexicanus	jupa	ENSAMXG00000018337	Others	103045821
+Astyanax_mexicanus	plk1	ENSAMXG00000018353	Others	103034005
+Astyanax_mexicanus	carm1	ENSAMXG00000018518	Others	NA
+Astyanax_mexicanus	nab1b	ENSAMXG00000018542	Others	103023089
+Astyanax_mexicanus		ENSAMXG00000018554	Others	NA
+Astyanax_mexicanus	txlng	ENSAMXG00000018555	Others	103024303
+Astyanax_mexicanus		ENSAMXG00000018577	Others	103024869
+Astyanax_mexicanus	nod2	ENSAMXG00000018642	Others	103045336
+Astyanax_mexicanus	kdm5bb	ENSAMXG00000018648	Lysine demethylase	103026437
+Astyanax_mexicanus	gtf2h1	ENSAMXG00000018708	GTF	103045288
+Astyanax_mexicanus	ppie	ENSAMXG00000018767	Others	NA
+Astyanax_mexicanus	dnaja3a	ENSAMXG00000018821	Others	103029110
+Astyanax_mexicanus	med16	ENSAMXG00000018838	Mediator complex	103029251
+Astyanax_mexicanus	brd7	ENSAMXG00000018848	Bromodomain	103045632
+Astyanax_mexicanus	erbb4b	ENSAMXG00000018917	Erbb2	NA
+Astyanax_mexicanus	KDM1B	ENSAMXG00000019002	Lysine demethylase	103045768
+Astyanax_mexicanus		ENSAMXG00000019031	Others	103047438
+Astyanax_mexicanus	wwp1	ENSAMXG00000019034	WW	103040182
+Astyanax_mexicanus	cdk13	ENSAMXG00000019085	Cyclin	103043281
+Astyanax_mexicanus	smarcad1b	ENSAMXG00000019130	SWI/SNF	103041701
+Astyanax_mexicanus	cnot6a	ENSAMXG00000019140	CCR4-NOT	103025554
+Astyanax_mexicanus	ripk2	ENSAMXG00000019153	Others	NA
+Astyanax_mexicanus	nup98	ENSAMXG00000019286	Others	103032416
+Astyanax_mexicanus	rnf10	ENSAMXG00000019487	Ring finger protein	NA
+Astyanax_mexicanus	prmt8b	ENSAMXG00000019502	Arginine methyltransferase	103024775
+Astyanax_mexicanus	dnmt3bb.1	ENSAMXG00000019567	DNA_methylase	NA
+Astyanax_mexicanus	bcl9l	ENSAMXG00000019584	BCL	103046933
+Astyanax_mexicanus	utp4	ENSAMXG00000019690	Others	103033628
+Astyanax_mexicanus	zgc:173742	ENSAMXG00000019814	Other_CRF	103027608
+Astyanax_mexicanus	chd4a	ENSAMXG00000019969	CHD	NA
+Astyanax_mexicanus	rbmx	ENSAMXG00000019990	RNA binding protein	103022315
+Astyanax_mexicanus	polr2a	ENSAMXG00000020046	POLR	103029187
+Astyanax_mexicanus	trip13	ENSAMXG00000020078	Thyroid hormone receptor	NA
+Astyanax_mexicanus	rnf14	ENSAMXG00000020091	Ring finger protein	103046046
+Astyanax_mexicanus		ENSAMXG00000020331	Others	103022018
+Astyanax_mexicanus	cdk1	ENSAMXG00000020354	Cyclin	103047431
+Astyanax_mexicanus	kdm1a	ENSAMXG00000020390	Lysine demethylase	103023119
+Astyanax_mexicanus	brf1b	ENSAMXG00000020489	GTF	103030783
+Astyanax_mexicanus	anp32e	ENSAMXG00000020504	ANP	103027189
+Astyanax_mexicanus	nsd3	ENSAMXG00000020550	Nuclear receptor coactivator	NA
+Astyanax_mexicanus	nsd1a	ENSAMXG00000020564	Nuclear receptor coactivator	NA
+Astyanax_mexicanus	anxa4	ENSAMXG00000020597	Others	103027730
+Astyanax_mexicanus	tnip1	ENSAMXG00000020623	Others	NA
+Astyanax_mexicanus	lin54	ENSAMXG00000020682	Others	103038067
+Astyanax_mexicanus	lrrc14b	ENSAMXG00000020693	Others	103021391
+Astyanax_mexicanus	rad21b	ENSAMXG00000020698	Others	103023059
+Astyanax_mexicanus	erbin	ENSAMXG00000020815	Erbb2	NA
+Astyanax_mexicanus	orc2	ENSAMXG00000020816	Others	103036654
+Astyanax_mexicanus	nif3l1	ENSAMXG00000020876	Others	NA
+Astyanax_mexicanus	thrap3b	ENSAMXG00000020877	Thyroid hormone receptor	103026351
+Astyanax_mexicanus	gnl3	ENSAMXG00000020880	Others	103035717
+Astyanax_mexicanus	SAMD4B	ENSAMXG00000020905	Others	103031230
+Astyanax_mexicanus	paf1	ENSAMXG00000020925	Others	103033554
+Astyanax_mexicanus	rtf1	ENSAMXG00000021006	Others	NA
+Astyanax_mexicanus	ino80c	ENSAMXG00000021012	INO80 complex	103029933
+Astyanax_mexicanus	trip11	ENSAMXG00000021047	Thyroid hormone receptor	NA
+Astyanax_mexicanus	prmt5	ENSAMXG00000021165	Arginine methyltransferase	103045296
+Astyanax_mexicanus	med30	ENSAMXG00000021203	Mediator complex	103030752
+Astyanax_mexicanus	bend3	ENSAMXG00000021225	Others	NA
+Astyanax_mexicanus	med6	ENSAMXG00000021470	Mediator complex	103030122
+Astyanax_mexicanus	ezh2	ENSAMXG00000021485	Others	103027230
+Astyanax_mexicanus	taf7	ENSAMXG00000021515	TATA-box	103026206
+Astyanax_mexicanus	pid1	ENSAMXG00000021550	Others	103047593
+Astyanax_mexicanus	kdm4b	ENSAMXG00000021589	Lysine demethylase	NA
+Astyanax_mexicanus	STRN	ENSAMXG00000021609	Others	103029182
+Astyanax_mexicanus	supt16h	ENSAMXG00000021797	SUPT	103045056
+Astyanax_mexicanus	loxl2b	ENSAMXG00000024252	Others	103031258
+Astyanax_mexicanus	rnf8	ENSAMXG00000024530	Ring finger protein	103022192
+Astyanax_mexicanus	phf1	ENSAMXG00000024614	PHF	103024937
+Astyanax_mexicanus	eno1a	ENSAMXG00000024777	Others	103038459
+Astyanax_mexicanus	pnrc2	ENSAMXG00000024879	Others	103037843
+Astyanax_mexicanus	cited2	ENSAMXG00000025526	CITED	103044228
+Astyanax_mexicanus	nrip1b	ENSAMXG00000025737	Nuclear receptor coactivator	103043914
+Astyanax_mexicanus	sertad2b	ENSAMXG00000025807	Others	103035540
+Astyanax_mexicanus	adrb2b	ENSAMXG00000025830	Others	103035250
+Astyanax_mexicanus	ccdc85b	ENSAMXG00000025894	Coiled-coil	103046408
+Astyanax_mexicanus	MID1IP1	ENSAMXG00000025966	Others	NA
+Astyanax_mexicanus	prmt6	ENSAMXG00000025997	Arginine methyltransferase	NA
+Astyanax_mexicanus	tob1a	ENSAMXG00000025998	Others	NA
+Astyanax_mexicanus	rbm15	ENSAMXG00000026103	RNA binding protein	103043033
+Astyanax_mexicanus	hspa1b	ENSAMXG00000026104	Heat shock protein	NA
+Astyanax_mexicanus	tdg.1	ENSAMXG00000029149	Others	103043944
+Astyanax_mexicanus	fgf3	ENSAMXG00000029164	FGF	NA
+Astyanax_mexicanus	mnat1	ENSAMXG00000029183	Others	NA
+Astyanax_mexicanus	egln2	ENSAMXG00000029242	Others	103047661
+Astyanax_mexicanus	supt3h	ENSAMXG00000029250	SUPT	103042287
+Astyanax_mexicanus	sap18	ENSAMXG00000029277	SAP	103025825
+Astyanax_mexicanus	hyal2a	ENSAMXG00000029279	Others	103039131
+Astyanax_mexicanus	lbh	ENSAMXG00000029299	Others	NA
+Astyanax_mexicanus		ENSAMXG00000029398	Others	103042331
+Astyanax_mexicanus	trak1a	ENSAMXG00000029426	Others	103035336
+Astyanax_mexicanus	WDR77	ENSAMXG00000029461	WD	111195390
+Astyanax_mexicanus	stk3	ENSAMXG00000029517	Others	103027492
+Astyanax_mexicanus	abrab	ENSAMXG00000029693	Actin	103032741
+Astyanax_mexicanus	camk4	ENSAMXG00000029776	CAMK	103044753
+Astyanax_mexicanus	dact1	ENSAMXG00000029795	Others	103034055
+Astyanax_mexicanus	rhoab	ENSAMXG00000029831	Others	103027457
+Astyanax_mexicanus	mdm4	ENSAMXG00000029959	Others	103041451
+Astyanax_mexicanus	suv39h1b	ENSAMXG00000029969	Others	NA
+Astyanax_mexicanus	si:dkey-21c19.3	ENSAMXG00000030203	Others	103046525
+Astyanax_mexicanus	mier3a	ENSAMXG00000030241	MIER	103037500
+Astyanax_mexicanus		ENSAMXG00000030443	Tripartite motif	NA
+Astyanax_mexicanus	sap30bp	ENSAMXG00000030444	SAP	103047331
+Astyanax_mexicanus	meaf6	ENSAMXG00000030458	Others	NA
+Astyanax_mexicanus	hira	ENSAMXG00000030536	Others	NA
+Astyanax_mexicanus	rbx1	ENSAMXG00000030622	Others	NA
+Astyanax_mexicanus	bcl10	ENSAMXG00000030685	BCL	NA
+Astyanax_mexicanus	mycbp	ENSAMXG00000030728	MYC	111197019
+Astyanax_mexicanus	cdk2	ENSAMXG00000030741	Cyclin	103028318
+Astyanax_mexicanus	med10	ENSAMXG00000030808	Mediator complex	103037742
+Astyanax_mexicanus	gtf2e1	ENSAMXG00000030823	GTF	103033262
+Astyanax_mexicanus	dr1	ENSAMXG00000030883	Others	NA
+Astyanax_mexicanus		ENSAMXG00000030975	Others	103047365
+Astyanax_mexicanus	TXN	ENSAMXG00000031017	Others	103040975
+Astyanax_mexicanus	TOB2	ENSAMXG00000031031	Others	NA
+Astyanax_mexicanus	rnf141	ENSAMXG00000031273	Ring finger protein	103025388
+Astyanax_mexicanus	padi2	ENSAMXG00000031334	Other_CRF	103030266
+Astyanax_mexicanus	ufl1	ENSAMXG00000031423	Others	NA
+Astyanax_mexicanus	pelp1	ENSAMXG00000031516	Others	103024638
+Astyanax_mexicanus	sap30l	ENSAMXG00000031524	SAP	103022301
+Astyanax_mexicanus	ino80e	ENSAMXG00000031687	INO80 complex	103033110
+Astyanax_mexicanus	wnt3a	ENSAMXG00000031704	Others	NA
+Astyanax_mexicanus	maml1	ENSAMXG00000031783	MAML	103033896
+Astyanax_mexicanus	cbx6b	ENSAMXG00000031801	Chromobox	NA
+Astyanax_mexicanus	wdr5	ENSAMXG00000031828	WD	103033424
+Astyanax_mexicanus		ENSAMXG00000031852	PARP	NA
+Astyanax_mexicanus	tbl1xr1b	ENSAMXG00000031857	Transducin	103032574
+Astyanax_mexicanus	taf9	ENSAMXG00000031868	TATA-box	103030866
+Astyanax_mexicanus	uri1	ENSAMXG00000031880	Others	103038981
+Astyanax_mexicanus	supt7l	ENSAMXG00000032199	SUPT	103041257
+Astyanax_mexicanus	gtf2h5	ENSAMXG00000032201	GTF	103044855
+Astyanax_mexicanus	nrg1	ENSAMXG00000032216	Others	103034938
+Astyanax_mexicanus	cdkn1bb	ENSAMXG00000032230	Cyclin	103025923
+Astyanax_mexicanus	brf2	ENSAMXG00000032308	GTF	103028366
+Astyanax_mexicanus	rgcc	ENSAMXG00000032394	Others	103024977
+Astyanax_mexicanus	nrbf2b	ENSAMXG00000032436	Nuclear receptor coactivator	103046810
+Astyanax_mexicanus	wnt4	ENSAMXG00000032545	Others	NA
+Astyanax_mexicanus		ENSAMXG00000032653	Others	103032381
+Astyanax_mexicanus	prmt2	ENSAMXG00000032742	Arginine methyltransferase	NA
+Astyanax_mexicanus	si:ch73-21k16.1	ENSAMXG00000032749	LPIN	103043587
+Astyanax_mexicanus	sra1	ENSAMXG00000032750	Others	103023985
+Astyanax_mexicanus	med31	ENSAMXG00000032790	Mediator complex	103037885
+Astyanax_mexicanus	cops5	ENSAMXG00000032825	Others	103038559
+Astyanax_mexicanus	wbp2nl	ENSAMXG00000032890	WW	103035995
+Astyanax_mexicanus	eapp	ENSAMXG00000032957	Others	103040194
+Astyanax_mexicanus	med4	ENSAMXG00000033017	Mediator complex	103043445
+Astyanax_mexicanus	pfdn5	ENSAMXG00000033056	Others	103047000
+Astyanax_mexicanus	gtf2a2	ENSAMXG00000033092	GTF	NA
+Astyanax_mexicanus	ccnq	ENSAMXG00000033281	Cyclin	103022361
+Astyanax_mexicanus	kmt5b	ENSAMXG00000033316	Lysine methyltransferase	103035158
+Astyanax_mexicanus	nedd8	ENSAMXG00000033413	Others	103040682
+Astyanax_mexicanus	rbpms	ENSAMXG00000033491	RNA binding protein	103026653
+Astyanax_mexicanus	tesca	ENSAMXG00000033668	Others	NA
+Astyanax_mexicanus	lzts1	ENSAMXG00000033716	Others	103027812
+Astyanax_mexicanus	prdx5	ENSAMXG00000033793	Others	103025987
+Astyanax_mexicanus	calcoco1a	ENSAMXG00000033922	Others	111194074
+Astyanax_mexicanus	nono	ENSAMXG00000033933	Others	103047741
+Astyanax_mexicanus	bmi1a	ENSAMXG00000034022	Others	103025408
+Astyanax_mexicanus	siva1	ENSAMXG00000034113	Others	103032042
+Astyanax_mexicanus		ENSAMXG00000034152	Zinc finger	NA
+Astyanax_mexicanus	apbb1	ENSAMXG00000034207	Others	103037961
+Astyanax_mexicanus	abl1	ENSAMXG00000034241	Others	103046185
+Astyanax_mexicanus	drap1	ENSAMXG00000034535	Others	103031620
+Astyanax_mexicanus	hdac11	ENSAMXG00000034575	Histone deacetylase	103032385
+Astyanax_mexicanus	rybpb	ENSAMXG00000034604	Others	103037585
+Astyanax_mexicanus	apex1	ENSAMXG00000034699	Others	103034265
+Astyanax_mexicanus	PCBD2	ENSAMXG00000034760	Others	103039248
+Astyanax_mexicanus	sfr1	ENSAMXG00000034781	Others	103039502
+Astyanax_mexicanus	mdm2	ENSAMXG00000034801	Others	NA
+Astyanax_mexicanus	crk	ENSAMXG00000034821	Others	103035530
+Astyanax_mexicanus	sdr16c5b	ENSAMXG00000034835	Others	103045570
+Astyanax_mexicanus		ENSAMXG00000034893	Others	103046962
+Astyanax_mexicanus	trib3	ENSAMXG00000034904	Others	103040019
+Astyanax_mexicanus	zgc:55733	ENSAMXG00000034915	HNRNP	NA
+Astyanax_mexicanus	SNIP1	ENSAMXG00000035134	Others	103022573
+Astyanax_mexicanus	CIR1	ENSAMXG00000035213	Other_Co-activator/repressors	103030182
+Astyanax_mexicanus	DTX1	ENSAMXG00000035252	Others	103028694
+Astyanax_mexicanus	med28	ENSAMXG00000035280	Mediator complex	103037366
+Astyanax_mexicanus	slc25a15a	ENSAMXG00000035361	SLC	103032405
+Astyanax_mexicanus	kmt5aa	ENSAMXG00000035373	Lysine methyltransferase	103046457
+Astyanax_mexicanus	phf5a	ENSAMXG00000035422	PHF	103029494
+Astyanax_mexicanus	DUSP26	ENSAMXG00000035424	Others	103042694
+Astyanax_mexicanus	irf2bpl	ENSAMXG00000035489	Others	NA
+Astyanax_mexicanus	eny2	ENSAMXG00000035549	Others	103039940
+Astyanax_mexicanus	ash2l	ENSAMXG00000035570	Others	103033518
+Astyanax_mexicanus	csnk2a4	ENSAMXG00000035689	Casein	103042686
+Astyanax_mexicanus	snapc5	ENSAMXG00000035746	Others	NA
+Astyanax_mexicanus	ing4	ENSAMXG00000035816	ING	NA
+Astyanax_mexicanus	nrip2	ENSAMXG00000035836	Nuclear coactivator	103031228
+Astyanax_mexicanus	frzb	ENSAMXG00000035841	Others	103031488
+Astyanax_mexicanus	cbx4	ENSAMXG00000035979	Chromobox	103031044
+Astyanax_mexicanus	polr3f	ENSAMXG00000036020	POLR	103029648
+Astyanax_mexicanus	taf5	ENSAMXG00000036058	TATA-box	103038729
+Astyanax_mexicanus	yaf2	ENSAMXG00000036088	Others	103021606
+Astyanax_mexicanus	taf8	ENSAMXG00000036100	TATA-box	103034851
+Astyanax_mexicanus	cavin1b	ENSAMXG00000036102	Others	103029568
+Astyanax_mexicanus	hck	ENSAMXG00000036151	Others	103036768
+Astyanax_mexicanus		ENSAMXG00000036209	Thyroid hormone receptor	103041331
+Astyanax_mexicanus		ENSAMXG00000036212	Others	103037193
+Astyanax_mexicanus	rbbp4	ENSAMXG00000036215	RBBP	103039809
+Astyanax_mexicanus	MYOCD	ENSAMXG00000036216	Others	103041209
+Astyanax_mexicanus	ccdc59	ENSAMXG00000036253	Coiled-coil	103025398
+Astyanax_mexicanus	pim1	ENSAMXG00000036419	Others	103031835
+Astyanax_mexicanus	H2AZ1	ENSAMXG00000036471	Others	103038819
+Astyanax_mexicanus	puf60a	ENSAMXG00000036570	Others	103042138
+Astyanax_mexicanus	vgll3	ENSAMXG00000036621	Vestigial like	103032668
+Astyanax_mexicanus	s100z	ENSAMXG00000036740	Others	103033716
+Astyanax_mexicanus	txnipa	ENSAMXG00000036748	Others	103026839
+Astyanax_mexicanus	pspc1	ENSAMXG00000036881	Others	103036301
+Astyanax_mexicanus	pnrc1	ENSAMXG00000036943	Others	103021342
+Astyanax_mexicanus	ercc3	ENSAMXG00000036947	Others	103032561
+Astyanax_mexicanus	trim32	ENSAMXG00000036952	Tripartite motif	NA
+Astyanax_mexicanus	syk	ENSAMXG00000036960	Others	NA
+Astyanax_mexicanus	tnksb	ENSAMXG00000036982	Others	103045612
+Astyanax_mexicanus	si:ch211-195b13.1	ENSAMXG00000036994	Others	103036792
+Astyanax_mexicanus	ctnnbip1	ENSAMXG00000037045	Casein	103034248
+Astyanax_mexicanus	dnajb1a	ENSAMXG00000037130	Others	103024650
+Astyanax_mexicanus	tradd	ENSAMXG00000037146	Others	NA
+Astyanax_mexicanus	pa2g4a	ENSAMXG00000037224	Others	103027720
+Astyanax_mexicanus	actb2	ENSAMXG00000037226	Actin	103030443
+Astyanax_mexicanus	PCGF3	ENSAMXG00000037410	PCGF	103041260
+Astyanax_mexicanus		ENSAMXG00000037441	Others	NA
+Astyanax_mexicanus	med21	ENSAMXG00000037449	Mediator complex	103026743
+Astyanax_mexicanus	chchd2	ENSAMXG00000037488	Coiled-coil	103041679
+Astyanax_mexicanus	lmo3	ENSAMXG00000037505	LIM	103033888
+Astyanax_mexicanus	TGFB1I1	ENSAMXG00000037517	Others	103032500
+Astyanax_mexicanus	ssu72	ENSAMXG00000037534	Others	103043050
+Astyanax_mexicanus	grhpra	ENSAMXG00000037725	Others	103046658
+Astyanax_mexicanus	TCERG1L	ENSAMXG00000037905	TEF	103035068
+Astyanax_mexicanus		ENSAMXG00000037975	Others	NA
+Astyanax_mexicanus	atxn7l3	ENSAMXG00000038051	Others	103034754
+Astyanax_mexicanus	med11	ENSAMXG00000038061	Mediator complex	103027136
+Astyanax_mexicanus	pink1	ENSAMXG00000038123	Others	103044294
+Astyanax_mexicanus	snapc2	ENSAMXG00000038205	Others	103039292
+Astyanax_mexicanus	anp32b	ENSAMXG00000038285	ANP	NA
+Astyanax_mexicanus	FAM83G	ENSAMXG00000038328	FAM	103021584
+Astyanax_mexicanus	fhl2a	ENSAMXG00000038356	FHL	103031012
+Astyanax_mexicanus	cdyl	ENSAMXG00000038382	Chromodomain Y	103043536
+Astyanax_mexicanus	npm2b	ENSAMXG00000038475	Nucleoplasmin	107197383
+Astyanax_mexicanus	smarcb1b	ENSAMXG00000038492	SWI/SNF	103037407
+Astyanax_mexicanus	fbxw7	ENSAMXG00000038524	Others	103046885
+Astyanax_mexicanus	rprd1a	ENSAMXG00000038604	Others	NA
+Astyanax_mexicanus	ino80db	ENSAMXG00000038619	INO80 complex	103033535
+Astyanax_mexicanus	NDUFA13	ENSAMXG00000038688	Others	103047340
+Astyanax_mexicanus	chchd6a	ENSAMXG00000038765	Coiled-coil	103044854
+Astyanax_mexicanus	smyd2a	ENSAMXG00000038767	SMYD	103040106
+Astyanax_mexicanus		ENSAMXG00000038780	Others	103036513
+Astyanax_mexicanus	arglu1b	ENSAMXG00000038793	Others	103047012
+Astyanax_mexicanus	taf5l	ENSAMXG00000038854	TATA-box	103041723
+Astyanax_mexicanus	cdk12	ENSAMXG00000038884	Cyclin	103040863
+Astyanax_mexicanus	hdac7a	ENSAMXG00000038892	Histone deacetylase	NA
+Astyanax_mexicanus	elocb	ENSAMXG00000038898	Others	103029683
+Astyanax_mexicanus	skila	ENSAMXG00000039107	SKI	103032490
+Astyanax_mexicanus	rap2c	ENSAMXG00000039137	Others	103024801
+Astyanax_mexicanus	creg1	ENSAMXG00000039279	Others	103044863
+Astyanax_mexicanus	HINT1	ENSAMXG00000039321	Others	103038374
+Astyanax_mexicanus	arl2bp	ENSAMXG00000039327	Others	103031924
+Astyanax_mexicanus	pawr	ENSAMXG00000039462	Others	103044857
+Astyanax_mexicanus	commd1	ENSAMXG00000039464	Others	103038628
+Astyanax_mexicanus	uxt	ENSAMXG00000039548	Others	103033924
+Astyanax_mexicanus	ssbp4	ENSAMXG00000039554	Others	103024563
+Astyanax_mexicanus	med18	ENSAMXG00000039594	Mediator complex	103024537
+Astyanax_mexicanus	setb	ENSAMXG00000039614	SET	NA
+Astyanax_mexicanus	nfkbiab	ENSAMXG00000039617	NFKB associated	103043190
+Astyanax_mexicanus	cthl	ENSAMXG00000039643	Others	103034904
+Astyanax_mexicanus	znf593	ENSAMXG00000039647	Zinc finger	103022338
+Astyanax_mexicanus	ZNF703	ENSAMXG00000039718	Zinc finger	103032894
+Astyanax_mexicanus	npm3	ENSAMXG00000039828	Nucleoplasmin	NA
+Astyanax_mexicanus	taf10	ENSAMXG00000039831	TATA-box	103041079
+Astyanax_mexicanus	actn1	ENSAMXG00000039868	Actin	103031817
+Astyanax_mexicanus	heatr1	ENSAMXG00000040261	Others	NA
+Astyanax_mexicanus	ywhabb	ENSAMXG00000040342	Others	103023259
+Astyanax_mexicanus		ENSAMXG00000040439	Others	103038916
+Astyanax_mexicanus		ENSAMXG00000040451	Lysine demethylase	NA
+Astyanax_mexicanus	fgf2	ENSAMXG00000040546	FGF	103037892
+Astyanax_mexicanus	pex2	ENSAMXG00000040579	Others	103035941
+Astyanax_mexicanus	ing3	ENSAMXG00000040580	ING	103046788
+Astyanax_mexicanus	ddx20	ENSAMXG00000040738	RNA helicase	103046705
+Astyanax_mexicanus	TADA1	ENSAMXG00000040759	Transcriptional adaptor	103039049
+Astyanax_mexicanus	strap	ENSAMXG00000040833	Others	111193019
+Astyanax_mexicanus	ran	ENSAMXG00000041090	Others	103033763
+Astyanax_mexicanus	cnot8	ENSAMXG00000041098	CCR4-NOT	103026084
+Astyanax_mexicanus	kat2a	ENSAMXG00000041137	Lysine acetyltransferase	103044670
+Astyanax_mexicanus	lancl2	ENSAMXG00000041138	Others	103034499
+Astyanax_mexicanus	ripply1	ENSAMXG00000041207	Others	NA
+Astyanax_mexicanus	sirt5	ENSAMXG00000041238	Sirtuin	103031700
+Astyanax_mexicanus	supt4h1	ENSAMXG00000041272	SUPT	103021993
+Astyanax_mexicanus	stk36	ENSAMXG00000041287	Others	103030945
+Astyanax_mexicanus	frk	ENSAMXG00000041389	Others	103029663
+Astyanax_mexicanus	ralgapa1	ENSAMXG00000041401	Others	NA
+Astyanax_mexicanus	med1	ENSAMXG00000041580	Mediator complex	103024802
+Astyanax_mexicanus	htatip2	ENSAMXG00000041635	Others	103036213
+Astyanax_mexicanus		ENSAMXG00000041698	Mediator complex	NA
+Astyanax_mexicanus		ENSAMXG00000041768	Tripartite motif	103025950
+Astyanax_mexicanus	setd7	ENSAMXG00000041773	SET	103021629
+Astyanax_mexicanus	aip	ENSAMXG00000041837	Others	103034758
+Astyanax_mexicanus	mtpn	ENSAMXG00000041978	Others	103038825
+Astyanax_mexicanus	CTBP1	ENSAMXG00000042011	Others	NA
+Astyanax_mexicanus	crebbpa	ENSAMXG00000042085	CREB	NA
+Astyanax_mexicanus	npm1b	ENSAMXG00000042148	Nucleoplasmin	103046444
+Astyanax_mexicanus	fhl3a	ENSAMXG00000042221	FHL	103023824
+Astyanax_mexicanus	mad2l2	ENSAMXG00000042226	Others	NA
+Astyanax_mexicanus	MED26	ENSAMXG00000042246	Mediator complex	103044961
+Astyanax_mexicanus	rnf6	ENSAMXG00000042264	Ring finger protein	103037065
+Astyanax_mexicanus	ankrd1a	ENSAMXG00000042314	Ankyrin repeat	103026375
+Astyanax_mexicanus	bahcc1a	ENSAMXG00000042322	Others	NA
+Astyanax_mexicanus	pagr1	ENSAMXG00000042357	Others	103046667
+Astyanax_mexicanus	pex14	ENSAMXG00000042447	Others	103044131
+Astyanax_mexicanus	rpap2	ENSAMXG00000042520	Others	NA
+Astyanax_mexicanus	btg1	ENSAMXG00000042550	Others	103030063
+Astyanax_mexicanus	sirt6	ENSAMXG00000042716	Sirtuin	111194539
+Astyanax_mexicanus		ENSAMXG00000042722	Others	103022485
+Astyanax_mexicanus	mrgbp	ENSAMXG00000042859	Others	103045075
+Astyanax_mexicanus		ENSAMXG00000042868	Others	103024226
+Astyanax_mexicanus	HDAC3	ENSAMXG00000042915	Histone deacetylase	NA
+Astyanax_mexicanus	birc5a	ENSAMXG00000042974	Others	103025428
+Astyanax_mexicanus	birc2	ENSAMXG00000043147	Others	103025481
+Astyanax_mexicanus	pycard	ENSAMXG00000043202	Others	NA
+Astyanax_mexicanus	c1d	ENSAMXG00000043212	Other_Co-activator/repressors	103040635
+Astyanax_mexicanus	cbx3a	ENSAMXG00000043340	Chromobox	103046426
+Astyanax_mexicanus		ENSAMXG00000043353	Others	NA
+Astyanax_mexicanus	ss18	ENSAMXG00000043355	SS18	103027121
+Astyanax_mexicanus	leo1	ENSAMXG00000043403	Others	NA
+Astyanax_mexicanus	trib1	ENSAMXG00000043443	Others	103033932
+Astyanax_mexicanus	btf3	ENSAMXG00000043535	Others	103023438
+Astyanax_mexicanus	hif1an	ENSAMXG00000043545	Others	103021617
+Astyanax_mexicanus	rfxap	ENSAMXG00000043549	Others	NA
+Astyanax_mexicanus	ccnd1	ENSAMXG00000043726	Cyclin	103031956
+Astyanax_mexicanus	ss18l2	ENSAMXG00000043890	SS18	103043527
+Astyanax_mexicanus	smyd1b	ENSAMXG00000043896	SMYD	103044252
+Astyanax_mexicanus	abt1	ENSAMXG00000043918	Others	103024745
+Astyanax_mexicanus	sirt2	ENSAMXG00000044113	Sirtuin	103038996

@@ -1,0 +1,799 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Chelonoidis_abingdonii		ENSCABG00000000041	Lysine demethylase	NA
+Chelonoidis_abingdonii	CCPG1	ENSCABG00000000064	Others	NA
+Chelonoidis_abingdonii	APBB2	ENSCABG00000000069	Others	NA
+Chelonoidis_abingdonii	TASOR	ENSCABG00000000128	FAM	NA
+Chelonoidis_abingdonii	CBX3	ENSCABG00000000136	Chromobox	NA
+Chelonoidis_abingdonii	KMT5C	ENSCABG00000000173	Lysine methyltransferase	NA
+Chelonoidis_abingdonii	PYGO2	ENSCABG00000000209	Others	NA
+Chelonoidis_abingdonii	SIRT3	ENSCABG00000000235	Sirtuin	NA
+Chelonoidis_abingdonii	SMYD1	ENSCABG00000000236	SMYD	NA
+Chelonoidis_abingdonii		ENSCABG00000000280	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000000289	BCL	NA
+Chelonoidis_abingdonii	EDF1	ENSCABG00000000317	Others	NA
+Chelonoidis_abingdonii	RLIM	ENSCABG00000000340	Ring finger protein	NA
+Chelonoidis_abingdonii	TES	ENSCABG00000000346	LIM	NA
+Chelonoidis_abingdonii	EZH1	ENSCABG00000000395	Others	NA
+Chelonoidis_abingdonii	CDK13	ENSCABG00000000422	Cyclin	NA
+Chelonoidis_abingdonii	CHRAC1	ENSCABG00000000454	Other_CRF	NA
+Chelonoidis_abingdonii	AGO2	ENSCABG00000000467	Others	NA
+Chelonoidis_abingdonii	AURKAIP1	ENSCABG00000000496	Others	NA
+Chelonoidis_abingdonii	PHF1	ENSCABG00000000512	PHF	NA
+Chelonoidis_abingdonii	PRDX5	ENSCABG00000000537	Others	NA
+Chelonoidis_abingdonii	SSU72	ENSCABG00000000579	Others	NA
+Chelonoidis_abingdonii	JAK2	ENSCABG00000000622	Others	NA
+Chelonoidis_abingdonii	RAD21	ENSCABG00000000633	Others	NA
+Chelonoidis_abingdonii	CDK8	ENSCABG00000000659	Cyclin	NA
+Chelonoidis_abingdonii	ANKRD2	ENSCABG00000000702	Ankyrin repeat	NA
+Chelonoidis_abingdonii	MMS19	ENSCABG00000000709	Others	NA
+Chelonoidis_abingdonii	MLLT1	ENSCABG00000000749	GTF	NA
+Chelonoidis_abingdonii	PIH1D1	ENSCABG00000000768	Other_CRF	NA
+Chelonoidis_abingdonii	RGCC	ENSCABG00000000793	Others	NA
+Chelonoidis_abingdonii	LGALS12	ENSCABG00000000816	Others	NA
+Chelonoidis_abingdonii	AIP	ENSCABG00000000827	Others	NA
+Chelonoidis_abingdonii	PRPF6	ENSCABG00000000848	Others	NA
+Chelonoidis_abingdonii	TCEA2	ENSCABG00000000852	TEF	NA
+Chelonoidis_abingdonii	DHX36	ENSCABG00000000855	RNA helicase	NA
+Chelonoidis_abingdonii	SCAI	ENSCABG00000000867	Others	NA
+Chelonoidis_abingdonii	DAXX	ENSCABG00000000926	Other_CRF	NA
+Chelonoidis_abingdonii		ENSCABG00000000973	MYC	NA
+Chelonoidis_abingdonii	NELFA	ENSCABG00000001029	GTF	NA
+Chelonoidis_abingdonii	PLRG1	ENSCABG00000001030	Others	NA
+Chelonoidis_abingdonii	H2AZ1	ENSCABG00000001050	Others	NA
+Chelonoidis_abingdonii	PCBD2	ENSCABG00000001064	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000001165	Others	NA
+Chelonoidis_abingdonii	RING1	ENSCABG00000001217	Ring finger protein	NA
+Chelonoidis_abingdonii	RSF1	ENSCABG00000001219	Others	NA
+Chelonoidis_abingdonii	LIN9	ENSCABG00000001228	Others	NA
+Chelonoidis_abingdonii	LANCL2	ENSCABG00000001233	Others	NA
+Chelonoidis_abingdonii	ASCC1	ENSCABG00000001250	ASCC	NA
+Chelonoidis_abingdonii		ENSCABG00000001281	CITED	NA
+Chelonoidis_abingdonii	CRYM	ENSCABG00000001287	Others	NA
+Chelonoidis_abingdonii	KDM5A	ENSCABG00000001297	Lysine demethylase	NA
+Chelonoidis_abingdonii	PCGF1	ENSCABG00000001330	PCGF	NA
+Chelonoidis_abingdonii	PDCD4	ENSCABG00000001420	Others	NA
+Chelonoidis_abingdonii	CAVIN1	ENSCABG00000001423	Others	NA
+Chelonoidis_abingdonii	CIDEA	ENSCABG00000001429	Others	NA
+Chelonoidis_abingdonii	SUDS3	ENSCABG00000001474	Other_Co-activator/repressors	NA
+Chelonoidis_abingdonii	TESC	ENSCABG00000001541	Others	NA
+Chelonoidis_abingdonii	SIRT5	ENSCABG00000001550	Sirtuin	NA
+Chelonoidis_abingdonii	S100P	ENSCABG00000001581	Others	NA
+Chelonoidis_abingdonii	IKBKG	ENSCABG00000001611	Others	NA
+Chelonoidis_abingdonii	DPF2	ENSCABG00000001614	DPF	NA
+Chelonoidis_abingdonii	MED13L	ENSCABG00000001733	Mediator complex	NA
+Chelonoidis_abingdonii	SIRT6	ENSCABG00000001750	Sirtuin	NA
+Chelonoidis_abingdonii	SETD5	ENSCABG00000001785	Lysine methyltransferase	NA
+Chelonoidis_abingdonii	CDK9	ENSCABG00000001804	Cyclin	NA
+Chelonoidis_abingdonii	SMARCA5	ENSCABG00000001865	SWI/SNF	NA
+Chelonoidis_abingdonii	KDM4C	ENSCABG00000001872	Lysine demethylase	NA
+Chelonoidis_abingdonii	NEO1	ENSCABG00000001922	Others	NA
+Chelonoidis_abingdonii	PAWR	ENSCABG00000001926	Others	NA
+Chelonoidis_abingdonii	CTDSPL	ENSCABG00000001944	Others	NA
+Chelonoidis_abingdonii	PNRC2	ENSCABG00000001975	Others	NA
+Chelonoidis_abingdonii	PHF19	ENSCABG00000002028	PHF	NA
+Chelonoidis_abingdonii	PPIE	ENSCABG00000002061	Others	NA
+Chelonoidis_abingdonii	KDM1B	ENSCABG00000002093	Lysine demethylase	NA
+Chelonoidis_abingdonii	WAC	ENSCABG00000002118	WW	NA
+Chelonoidis_abingdonii	RBBP5	ENSCABG00000002190	RBBP	NA
+Chelonoidis_abingdonii	SAP30	ENSCABG00000002238	SAP	NA
+Chelonoidis_abingdonii	SET	ENSCABG00000002240	SET	NA
+Chelonoidis_abingdonii	DAPK2	ENSCABG00000002298	Others	NA
+Chelonoidis_abingdonii	KDM4B	ENSCABG00000002336	Lysine demethylase	NA
+Chelonoidis_abingdonii	TPR	ENSCABG00000002347	Others	NA
+Chelonoidis_abingdonii	WDR61	ENSCABG00000002348	WD	NA
+Chelonoidis_abingdonii	NPM3	ENSCABG00000002436	Nucleoplasmin	NA
+Chelonoidis_abingdonii	ARHGAP35	ENSCABG00000002479	Others	NA
+Chelonoidis_abingdonii	C1D	ENSCABG00000002499	Other_Co-activator/repressors	NA
+Chelonoidis_abingdonii	NSMCE3	ENSCABG00000002506	MAGE	NA
+Chelonoidis_abingdonii	WNT3	ENSCABG00000002517	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000002524	Others	NA
+Chelonoidis_abingdonii	DEK	ENSCABG00000002525	Other_CRF	NA
+Chelonoidis_abingdonii	CALR	ENSCABG00000002592	Others	NA
+Chelonoidis_abingdonii	PCGF2	ENSCABG00000002613	PCGF	NA
+Chelonoidis_abingdonii	MLLT6	ENSCABG00000002618	Others	NA
+Chelonoidis_abingdonii	CDK5RAP3	ENSCABG00000002680	Cyclin	NA
+Chelonoidis_abingdonii	KCTD1	ENSCABG00000002706	Others	NA
+Chelonoidis_abingdonii	TAF4B	ENSCABG00000002710	TATA-box	NA
+Chelonoidis_abingdonii	SKAP1	ENSCABG00000002721	Others	NA
+Chelonoidis_abingdonii	TGS1	ENSCABG00000002723	Others	NA
+Chelonoidis_abingdonii	SS18	ENSCABG00000002796	SS18	NA
+Chelonoidis_abingdonii	FHOD1	ENSCABG00000002823	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000002868	Others	NA
+Chelonoidis_abingdonii	RNF2	ENSCABG00000002881	Ring finger protein	NA
+Chelonoidis_abingdonii	CHTOP	ENSCABG00000002900	Others	NA
+Chelonoidis_abingdonii	PPID	ENSCABG00000002907	Others	NA
+Chelonoidis_abingdonii	TNIP2	ENSCABG00000002913	Others	NA
+Chelonoidis_abingdonii	ILF2	ENSCABG00000002915	Others	NA
+Chelonoidis_abingdonii	RBM39	ENSCABG00000002946	RNA binding protein	NA
+Chelonoidis_abingdonii	MAML3	ENSCABG00000002989	MAML	NA
+Chelonoidis_abingdonii	SETD7	ENSCABG00000002996	SET	NA
+Chelonoidis_abingdonii	NAA15	ENSCABG00000003004	Others	NA
+Chelonoidis_abingdonii	ELOF1	ENSCABG00000003032	GTF	NA
+Chelonoidis_abingdonii	INO80D	ENSCABG00000003095	INO80 complex	NA
+Chelonoidis_abingdonii	SFRP4	ENSCABG00000003105	Others	NA
+Chelonoidis_abingdonii	SYK	ENSCABG00000003174	Others	NA
+Chelonoidis_abingdonii	ERCC3	ENSCABG00000003231	Others	NA
+Chelonoidis_abingdonii	CCNE1	ENSCABG00000003232	Cyclin	NA
+Chelonoidis_abingdonii	URI1	ENSCABG00000003239	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000003252	Transducin	NA
+Chelonoidis_abingdonii	TGFB1I1	ENSCABG00000003375	Others	NA
+Chelonoidis_abingdonii	RNF141	ENSCABG00000003376	Ring finger protein	NA
+Chelonoidis_abingdonii	BTRC	ENSCABG00000003380	Others	NA
+Chelonoidis_abingdonii	RNF4	ENSCABG00000003382	Ring finger protein	NA
+Chelonoidis_abingdonii	CTR9	ENSCABG00000003395	Others	NA
+Chelonoidis_abingdonii	TOPORS	ENSCABG00000003415	Others	NA
+Chelonoidis_abingdonii	MED16	ENSCABG00000003433	Mediator complex	NA
+Chelonoidis_abingdonii	EPC1	ENSCABG00000003476	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000003545	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000003598	Erbb2	NA
+Chelonoidis_abingdonii	MED13	ENSCABG00000003780	Mediator complex	NA
+Chelonoidis_abingdonii		ENSCABG00000003790	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000003815	CAMK	NA
+Chelonoidis_abingdonii	BRD8	ENSCABG00000003945	Bromodomain	NA
+Chelonoidis_abingdonii		ENSCABG00000003950	DNA_methylase	NA
+Chelonoidis_abingdonii	CBFA2T3	ENSCABG00000003991	Others	NA
+Chelonoidis_abingdonii	NRG1	ENSCABG00000004015	Others	NA
+Chelonoidis_abingdonii	NFKBIZ	ENSCABG00000004067	NFKB associated	NA
+Chelonoidis_abingdonii	BCL9L	ENSCABG00000004072	BCL	NA
+Chelonoidis_abingdonii		ENSCABG00000004182	Lysine methyltransferase	NA
+Chelonoidis_abingdonii		ENSCABG00000004226	Others	NA
+Chelonoidis_abingdonii	GTF2F1	ENSCABG00000004243	GTF	NA
+Chelonoidis_abingdonii		ENSCABG00000004244	Others	NA
+Chelonoidis_abingdonii	SMARCA4	ENSCABG00000004334	SWI/SNF	NA
+Chelonoidis_abingdonii	BRIP1	ENSCABG00000004335	Others	NA
+Chelonoidis_abingdonii	TRIM33	ENSCABG00000004346	Tripartite motif	NA
+Chelonoidis_abingdonii	SUFU	ENSCABG00000004347	Others	NA
+Chelonoidis_abingdonii	CARM1	ENSCABG00000004353	Others	NA
+Chelonoidis_abingdonii	BCAS3	ENSCABG00000004372	Others	NA
+Chelonoidis_abingdonii	HNRNPD	ENSCABG00000004380	HNRNP	NA
+Chelonoidis_abingdonii	RPRD1B	ENSCABG00000004382	Others	NA
+Chelonoidis_abingdonii	MRGBP	ENSCABG00000004395	Others	NA
+Chelonoidis_abingdonii	NOTCH1	ENSCABG00000004418	Notch	NA
+Chelonoidis_abingdonii	TRIM8	ENSCABG00000004423	Tripartite motif	NA
+Chelonoidis_abingdonii	MID1IP1	ENSCABG00000004431	Others	NA
+Chelonoidis_abingdonii	BCOR	ENSCABG00000004434	Other_Co-activator/repressors	NA
+Chelonoidis_abingdonii	TAF2	ENSCABG00000004448	TATA-box	NA
+Chelonoidis_abingdonii	MED14	ENSCABG00000004450	Mediator complex	NA
+Chelonoidis_abingdonii	HSPA8	ENSCABG00000004474	Heat shock protein	NA
+Chelonoidis_abingdonii	SMURF2	ENSCABG00000004546	Others	NA
+Chelonoidis_abingdonii	DDX5	ENSCABG00000004562	RNA helicase	NA
+Chelonoidis_abingdonii	WDR5B	ENSCABG00000004566	WD	NA
+Chelonoidis_abingdonii	BRD3	ENSCABG00000004569	Bromodomain	NA
+Chelonoidis_abingdonii		ENSCABG00000004631	RBBP	NA
+Chelonoidis_abingdonii	HDAC5	ENSCABG00000004644	Histone deacetylase	NA
+Chelonoidis_abingdonii	CBX5	ENSCABG00000004657	Chromobox	NA
+Chelonoidis_abingdonii	ERN1	ENSCABG00000004684	Others	NA
+Chelonoidis_abingdonii	CALCOCO1	ENSCABG00000004690	Others	NA
+Chelonoidis_abingdonii	ABL1	ENSCABG00000004751	Others	NA
+Chelonoidis_abingdonii	BANP	ENSCABG00000004797	Others	NA
+Chelonoidis_abingdonii	SUZ12	ENSCABG00000004805	Others	NA
+Chelonoidis_abingdonii	REXO4	ENSCABG00000004810	Others	NA
+Chelonoidis_abingdonii	PRMT7	ENSCABG00000004835	Arginine methyltransferase	NA
+Chelonoidis_abingdonii	SENP1	ENSCABG00000004838	Others	NA
+Chelonoidis_abingdonii	ZNF703	ENSCABG00000004948	Zinc finger	NA
+Chelonoidis_abingdonii	CCNC	ENSCABG00000005087	Cyclin	NA
+Chelonoidis_abingdonii	ASCC3	ENSCABG00000005112	ASCC	NA
+Chelonoidis_abingdonii	TAF1A	ENSCABG00000005171	TATA-box	NA
+Chelonoidis_abingdonii	NAB2	ENSCABG00000005187	Others	NA
+Chelonoidis_abingdonii	NEDD8	ENSCABG00000005189	Others	NA
+Chelonoidis_abingdonii	SDR16C5	ENSCABG00000005226	Others	NA
+Chelonoidis_abingdonii	TRIM25	ENSCABG00000005236	Tripartite motif	NA
+Chelonoidis_abingdonii	ATXN7L3	ENSCABG00000005269	Others	NA
+Chelonoidis_abingdonii	CNOT6L	ENSCABG00000005335	CCR4-NOT	NA
+Chelonoidis_abingdonii	CHAF1B	ENSCABG00000005409	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000005477	Others	NA
+Chelonoidis_abingdonii	ARL2BP	ENSCABG00000005529	Others	NA
+Chelonoidis_abingdonii	UFL1	ENSCABG00000005541	Others	NA
+Chelonoidis_abingdonii	ENY2	ENSCABG00000005585	Others	NA
+Chelonoidis_abingdonii	FBXW11	ENSCABG00000005626	Others	NA
+Chelonoidis_abingdonii	HIPK1	ENSCABG00000005660	HIPK	NA
+Chelonoidis_abingdonii	FHL5	ENSCABG00000005716	FHL	NA
+Chelonoidis_abingdonii	KMT2B	ENSCABG00000005746	Lysine methyltransferase	NA
+Chelonoidis_abingdonii	FHL2	ENSCABG00000005787	FHL	NA
+Chelonoidis_abingdonii	OGT	ENSCABG00000005825	Others	NA
+Chelonoidis_abingdonii	ACTB	ENSCABG00000005869	Actin	NA
+Chelonoidis_abingdonii	TIMELESS	ENSCABG00000005900	Others	NA
+Chelonoidis_abingdonii	CNOT11	ENSCABG00000005930	CCR4-NOT	NA
+Chelonoidis_abingdonii	TGFBR3	ENSCABG00000005997	Others	NA
+Chelonoidis_abingdonii	RPAP2	ENSCABG00000006034	Others	NA
+Chelonoidis_abingdonii	EAF1	ENSCABG00000006040	Others	NA
+Chelonoidis_abingdonii	ELP2	ENSCABG00000006063	ELP	NA
+Chelonoidis_abingdonii	GTF2H1	ENSCABG00000006106	GTF	NA
+Chelonoidis_abingdonii	MTF2	ENSCABG00000006114	Others	NA
+Chelonoidis_abingdonii	WTIP	ENSCABG00000006141	Others	NA
+Chelonoidis_abingdonii	SS18L2	ENSCABG00000006148	SS18	NA
+Chelonoidis_abingdonii	TSG101	ENSCABG00000006156	Others	NA
+Chelonoidis_abingdonii	SMARCAD1	ENSCABG00000006227	SWI/SNF	NA
+Chelonoidis_abingdonii	DR1	ENSCABG00000006228	Others	NA
+Chelonoidis_abingdonii	TARBP1	ENSCABG00000006231	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000006292	Nucleoplasmin	NA
+Chelonoidis_abingdonii		ENSCABG00000006355	TATA-box	NA
+Chelonoidis_abingdonii	RBM15	ENSCABG00000006376	RNA binding protein	NA
+Chelonoidis_abingdonii	AATF	ENSCABG00000006427	Others	NA
+Chelonoidis_abingdonii	TRIP13	ENSCABG00000006445	Thyroid hormone receptor	NA
+Chelonoidis_abingdonii	RWDD3	ENSCABG00000006453	Others	NA
+Chelonoidis_abingdonii	DMAP1	ENSCABG00000006459	DNA_methylase	NA
+Chelonoidis_abingdonii	MED6	ENSCABG00000006471	Mediator complex	NA
+Chelonoidis_abingdonii	MED12	ENSCABG00000006491	Mediator complex	NA
+Chelonoidis_abingdonii	ACTR6	ENSCABG00000006494	ACTR	NA
+Chelonoidis_abingdonii	TRIM16	ENSCABG00000006504	Tripartite motif	NA
+Chelonoidis_abingdonii	HIPK3	ENSCABG00000006521	HIPK	NA
+Chelonoidis_abingdonii	ZMYM3	ENSCABG00000006558	Zinc finger	NA
+Chelonoidis_abingdonii		ENSCABG00000006564	Others	NA
+Chelonoidis_abingdonii	SKI	ENSCABG00000006601	SKI	NA
+Chelonoidis_abingdonii		ENSCABG00000006612	TATA-box	NA
+Chelonoidis_abingdonii	PCGF5	ENSCABG00000006677	PCGF	NA
+Chelonoidis_abingdonii	ANKRD1	ENSCABG00000006679	Ankyrin repeat	NA
+Chelonoidis_abingdonii		ENSCABG00000006691	Others	NA
+Chelonoidis_abingdonii	DNAJB4	ENSCABG00000006708	Others	NA
+Chelonoidis_abingdonii	CSRP3	ENSCABG00000006722	Others	NA
+Chelonoidis_abingdonii	HIF1AN	ENSCABG00000006752	Others	NA
+Chelonoidis_abingdonii	SIVA1	ENSCABG00000006764	Others	NA
+Chelonoidis_abingdonii	CCND1	ENSCABG00000006765	Cyclin	NA
+Chelonoidis_abingdonii	XIAP	ENSCABG00000006789	Others	NA
+Chelonoidis_abingdonii	WNT4	ENSCABG00000006807	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000006850	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000006886	Histone cluster 1 H1	NA
+Chelonoidis_abingdonii	LOXL3	ENSCABG00000006891	Others	NA
+Chelonoidis_abingdonii	PEX2	ENSCABG00000006910	Others	NA
+Chelonoidis_abingdonii	ADRB2	ENSCABG00000006953	Others	NA
+Chelonoidis_abingdonii	CDK2	ENSCABG00000006959	Cyclin	NA
+Chelonoidis_abingdonii	RNF6	ENSCABG00000006976	Ring finger protein	NA
+Chelonoidis_abingdonii	MTDH	ENSCABG00000006980	Others	NA
+Chelonoidis_abingdonii	SKOR1	ENSCABG00000007009	SKI	NA
+Chelonoidis_abingdonii	HAT1	ENSCABG00000007022	Others	NA
+Chelonoidis_abingdonii	C6orf89	ENSCABG00000007031	Other_CRF	NA
+Chelonoidis_abingdonii	SGF29	ENSCABG00000007032	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000007077	ANP	NA
+Chelonoidis_abingdonii	DNTTIP2	ENSCABG00000007084	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000007099	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000007151	Others	NA
+Chelonoidis_abingdonii	TLE3	ENSCABG00000007160	Transducin	NA
+Chelonoidis_abingdonii	MCRS1	ENSCABG00000007172	Others	NA
+Chelonoidis_abingdonii	PAGR1	ENSCABG00000007212	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000007217	INO80 complex	NA
+Chelonoidis_abingdonii	MORF4L1	ENSCABG00000007226	Other_CRF	NA
+Chelonoidis_abingdonii	MED27	ENSCABG00000007235	Mediator complex	NA
+Chelonoidis_abingdonii	CCNT1	ENSCABG00000007341	Cyclin	NA
+Chelonoidis_abingdonii		ENSCABG00000007425	PARP	NA
+Chelonoidis_abingdonii		ENSCABG00000007439	PARP	NA
+Chelonoidis_abingdonii	SLTM	ENSCABG00000007446	Others	NA
+Chelonoidis_abingdonii	SUPT4H1	ENSCABG00000007493	SUPT	NA
+Chelonoidis_abingdonii	ELOC	ENSCABG00000007521	Others	NA
+Chelonoidis_abingdonii	MED7	ENSCABG00000007528	Mediator complex	NA
+Chelonoidis_abingdonii	DPY30	ENSCABG00000007658	Others	NA
+Chelonoidis_abingdonii	ATAD2B	ENSCABG00000007697	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000007704	Lysine methyltransferase	NA
+Chelonoidis_abingdonii		ENSCABG00000007771	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000007865	Other_CRF	NA
+Chelonoidis_abingdonii	HEATR1	ENSCABG00000007877	Others	NA
+Chelonoidis_abingdonii	BIRC5	ENSCABG00000007923	Others	NA
+Chelonoidis_abingdonii	POLR3F	ENSCABG00000007942	POLR	NA
+Chelonoidis_abingdonii	SUPT5H	ENSCABG00000008012	SUPT	NA
+Chelonoidis_abingdonii	ERCC2	ENSCABG00000008035	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000008049	Others	NA
+Chelonoidis_abingdonii	NCK2	ENSCABG00000008060	Others	NA
+Chelonoidis_abingdonii	VGLL2	ENSCABG00000008069	Vestigial like	NA
+Chelonoidis_abingdonii	ERBB4	ENSCABG00000008098	Erbb2	NA
+Chelonoidis_abingdonii	PAF1	ENSCABG00000008106	Others	NA
+Chelonoidis_abingdonii	CREG1	ENSCABG00000008119	Others	NA
+Chelonoidis_abingdonii	SAMD4B	ENSCABG00000008142	Others	NA
+Chelonoidis_abingdonii	NFKBIB	ENSCABG00000008200	NFKB associated	NA
+Chelonoidis_abingdonii	SIRT2	ENSCABG00000008204	Sirtuin	NA
+Chelonoidis_abingdonii	SAP18	ENSCABG00000008226	SAP	NA
+Chelonoidis_abingdonii	CCDC59	ENSCABG00000008262	Coiled-coil	NA
+Chelonoidis_abingdonii		ENSCABG00000008266	Others	NA
+Chelonoidis_abingdonii	RYBP	ENSCABG00000008286	Others	NA
+Chelonoidis_abingdonii	CDK5R1	ENSCABG00000008297	Cyclin	NA
+Chelonoidis_abingdonii	TRIM37	ENSCABG00000008303	Tripartite motif	NA
+Chelonoidis_abingdonii	SUPT6H	ENSCABG00000008305	SUPT	NA
+Chelonoidis_abingdonii		ENSCABG00000008317	Others	NA
+Chelonoidis_abingdonii	STRAP	ENSCABG00000008318	Others	NA
+Chelonoidis_abingdonii	PHF12	ENSCABG00000008333	PHF	NA
+Chelonoidis_abingdonii	ACTN4	ENSCABG00000008363	Actin	NA
+Chelonoidis_abingdonii	JMJD1C	ENSCABG00000008381	Other_CRF	NA
+Chelonoidis_abingdonii		ENSCABG00000008383	Mediator complex	NA
+Chelonoidis_abingdonii	STRN3	ENSCABG00000008415	Others	NA
+Chelonoidis_abingdonii	TAF9	ENSCABG00000008420	TATA-box	NA
+Chelonoidis_abingdonii	VGLL4	ENSCABG00000008431	Vestigial like	NA
+Chelonoidis_abingdonii	RNF111	ENSCABG00000008433	Ring finger protein	NA
+Chelonoidis_abingdonii	PHIP	ENSCABG00000008476	Others	NA
+Chelonoidis_abingdonii	CDK1	ENSCABG00000008502	Cyclin	NA
+Chelonoidis_abingdonii		ENSCABG00000008572	Others	NA
+Chelonoidis_abingdonii	JMJD6	ENSCABG00000008577	Others	NA
+Chelonoidis_abingdonii	PHF10	ENSCABG00000008590	PHF	NA
+Chelonoidis_abingdonii	ARGLU1	ENSCABG00000008623	Others	NA
+Chelonoidis_abingdonii	DSCAML1	ENSCABG00000008643	Others	NA
+Chelonoidis_abingdonii	NRBF2	ENSCABG00000008653	Nuclear receptor coactivator	NA
+Chelonoidis_abingdonii	HDAC2	ENSCABG00000008705	Histone deacetylase	NA
+Chelonoidis_abingdonii	TENM3	ENSCABG00000008706	Others	NA
+Chelonoidis_abingdonii	CCNA1	ENSCABG00000008727	Cyclin	NA
+Chelonoidis_abingdonii	MTPN	ENSCABG00000008809	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000008859	WD	NA
+Chelonoidis_abingdonii	SKIL	ENSCABG00000008947	SKI	NA
+Chelonoidis_abingdonii	RUVBL1	ENSCABG00000008989	Other_CRF	NA
+Chelonoidis_abingdonii	APEX1	ENSCABG00000008998	Others	NA
+Chelonoidis_abingdonii	EYA4	ENSCABG00000009044	EYA	NA
+Chelonoidis_abingdonii	MALT1	ENSCABG00000009045	Others	NA
+Chelonoidis_abingdonii	CTTN	ENSCABG00000009096	Others	NA
+Chelonoidis_abingdonii	CRY1	ENSCABG00000009148	Others	NA
+Chelonoidis_abingdonii	TLE4	ENSCABG00000009164	Transducin	NA
+Chelonoidis_abingdonii	NUP62	ENSCABG00000009256	Others	NA
+Chelonoidis_abingdonii	LIN54	ENSCABG00000009279	Others	NA
+Chelonoidis_abingdonii	BTK	ENSCABG00000009282	Others	NA
+Chelonoidis_abingdonii	TAF7	ENSCABG00000009293	TATA-box	NA
+Chelonoidis_abingdonii	WBP2	ENSCABG00000009332	WW	NA
+Chelonoidis_abingdonii	HDAC4	ENSCABG00000009394	Histone deacetylase	NA
+Chelonoidis_abingdonii	SMYD2	ENSCABG00000009461	SMYD	NA
+Chelonoidis_abingdonii	MCIDAS	ENSCABG00000009517	Others	NA
+Chelonoidis_abingdonii	TRADD	ENSCABG00000009535	Others	NA
+Chelonoidis_abingdonii	INO80	ENSCABG00000009551	INO80 complex	NA
+Chelonoidis_abingdonii	COMMD1	ENSCABG00000009556	Others	NA
+Chelonoidis_abingdonii	TAF10	ENSCABG00000009565	TATA-box	NA
+Chelonoidis_abingdonii	FBXW7	ENSCABG00000009573	Others	NA
+Chelonoidis_abingdonii	MDM4	ENSCABG00000009580	Others	NA
+Chelonoidis_abingdonii	ILK	ENSCABG00000009595	Others	NA
+Chelonoidis_abingdonii	CNOT9	ENSCABG00000009625	CCR4-NOT	NA
+Chelonoidis_abingdonii		ENSCABG00000009655	Others	NA
+Chelonoidis_abingdonii	TRIM29	ENSCABG00000009665	Tripartite motif	NA
+Chelonoidis_abingdonii	SAP30BP	ENSCABG00000009689	SAP	NA
+Chelonoidis_abingdonii	RECQL5	ENSCABG00000009692	Others	NA
+Chelonoidis_abingdonii	TAF12	ENSCABG00000009693	TATA-box	NA
+Chelonoidis_abingdonii	JADE1	ENSCABG00000009712	Others	NA
+Chelonoidis_abingdonii	MED18	ENSCABG00000009739	Mediator complex	NA
+Chelonoidis_abingdonii	SIRT7	ENSCABG00000009752	Sirtuin	NA
+Chelonoidis_abingdonii	CBL	ENSCABG00000009759	Others	NA
+Chelonoidis_abingdonii	BRD1	ENSCABG00000009834	Bromodomain	NA
+Chelonoidis_abingdonii	COPS5	ENSCABG00000009861	Others	NA
+Chelonoidis_abingdonii	WDTC1	ENSCABG00000009862	WD	NA
+Chelonoidis_abingdonii	POU2AF1	ENSCABG00000009925	Others	NA
+Chelonoidis_abingdonii	VGLL1	ENSCABG00000009984	Vestigial like	NA
+Chelonoidis_abingdonii		ENSCABG00000010005	RNA binding protein	NA
+Chelonoidis_abingdonii	ITCH	ENSCABG00000010017	Others	NA
+Chelonoidis_abingdonii	RALY	ENSCABG00000010023	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000010094	CHD	NA
+Chelonoidis_abingdonii	WWOX	ENSCABG00000010105	WW	NA
+Chelonoidis_abingdonii	FGF1	ENSCABG00000010142	FGF	NA
+Chelonoidis_abingdonii	RNF14	ENSCABG00000010151	Ring finger protein	NA
+Chelonoidis_abingdonii	PARP10	ENSCABG00000010207	PARP	NA
+Chelonoidis_abingdonii	ING3	ENSCABG00000010272	ING	NA
+Chelonoidis_abingdonii	NAB1	ENSCABG00000010320	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000010322	Others	NA
+Chelonoidis_abingdonii	KAT8	ENSCABG00000010325	Lysine acetyltransferase	NA
+Chelonoidis_abingdonii	SLC19A1	ENSCABG00000010338	SLC	NA
+Chelonoidis_abingdonii	ZNF451	ENSCABG00000010339	Zinc finger	NA
+Chelonoidis_abingdonii	BEND6	ENSCABG00000010368	Others	NA
+Chelonoidis_abingdonii	FGF3	ENSCABG00000010514	FGF	NA
+Chelonoidis_abingdonii	GRIP1	ENSCABG00000010532	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000010543	Tripartite motif	NA
+Chelonoidis_abingdonii	PELI1	ENSCABG00000010573	Others	NA
+Chelonoidis_abingdonii	SERTAD2	ENSCABG00000010584	Others	NA
+Chelonoidis_abingdonii	ZNF593	ENSCABG00000010585	Zinc finger	NA
+Chelonoidis_abingdonii		ENSCABG00000010595	CAMK	NA
+Chelonoidis_abingdonii	CDKN1B	ENSCABG00000010607	Cyclin	NA
+Chelonoidis_abingdonii	LRRC61	ENSCABG00000010637	ANP	NA
+Chelonoidis_abingdonii	TNNI2	ENSCABG00000010717	Others	NA
+Chelonoidis_abingdonii	MYBBP1A	ENSCABG00000010735	MYB	NA
+Chelonoidis_abingdonii	TRIM28	ENSCABG00000010756	Tripartite motif	NA
+Chelonoidis_abingdonii		ENSCABG00000010838	Others	NA
+Chelonoidis_abingdonii	KDM2A	ENSCABG00000010947	Lysine demethylase	NA
+Chelonoidis_abingdonii	RBBP7	ENSCABG00000011016	RBBP	NA
+Chelonoidis_abingdonii	TXLNG	ENSCABG00000011020	Others	NA
+Chelonoidis_abingdonii	NMI	ENSCABG00000011058	Others	NA
+Chelonoidis_abingdonii	CHD8	ENSCABG00000011087	CHD	NA
+Chelonoidis_abingdonii	RHOA	ENSCABG00000011108	Others	NA
+Chelonoidis_abingdonii	SUPT7L	ENSCABG00000011151	SUPT	NA
+Chelonoidis_abingdonii	MED24	ENSCABG00000011183	Mediator complex	NA
+Chelonoidis_abingdonii	SMARCD1	ENSCABG00000011252	SWI/SNF	NA
+Chelonoidis_abingdonii	CBX7	ENSCABG00000011261	Chromobox	NA
+Chelonoidis_abingdonii	CBX6	ENSCABG00000011264	Chromobox	NA
+Chelonoidis_abingdonii	ASCC2	ENSCABG00000011291	ASCC	NA
+Chelonoidis_abingdonii	ACTR5	ENSCABG00000011326	ACTR	NA
+Chelonoidis_abingdonii	DHX35	ENSCABG00000011353	RNA helicase	NA
+Chelonoidis_abingdonii	CNOT3	ENSCABG00000011396	CCR4-NOT	NA
+Chelonoidis_abingdonii	BCL9	ENSCABG00000011435	BCL	NA
+Chelonoidis_abingdonii	SFMBT1	ENSCABG00000011462	Others	NA
+Chelonoidis_abingdonii	TDG	ENSCABG00000011516	Others	NA
+Chelonoidis_abingdonii	HCFC2	ENSCABG00000011523	Others	NA
+Chelonoidis_abingdonii	TCF20	ENSCABG00000011544	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000011547	Others	NA
+Chelonoidis_abingdonii	CHCHD2	ENSCABG00000011555	Coiled-coil	NA
+Chelonoidis_abingdonii		ENSCABG00000011653	Mediator complex	NA
+Chelonoidis_abingdonii	JUP	ENSCABG00000011670	Others	NA
+Chelonoidis_abingdonii	MED31	ENSCABG00000011706	Mediator complex	NA
+Chelonoidis_abingdonii	CHD1L	ENSCABG00000011754	CHD	NA
+Chelonoidis_abingdonii	ING4	ENSCABG00000011761	ING	NA
+Chelonoidis_abingdonii	ACTR8	ENSCABG00000011786	ACTR	NA
+Chelonoidis_abingdonii	HSBP1	ENSCABG00000011859	Heat shock protein	NA
+Chelonoidis_abingdonii	LIMD1	ENSCABG00000011865	LIM	NA
+Chelonoidis_abingdonii		ENSCABG00000011867	Others	NA
+Chelonoidis_abingdonii	TOB1	ENSCABG00000011959	Others	NA
+Chelonoidis_abingdonii	JMY	ENSCABG00000011971	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000011979	Zinc finger	NA
+Chelonoidis_abingdonii		ENSCABG00000012014	Others	NA
+Chelonoidis_abingdonii	TLE1	ENSCABG00000012019	Transducin	NA
+Chelonoidis_abingdonii	LEO1	ENSCABG00000012064	Others	NA
+Chelonoidis_abingdonii	TRAK2	ENSCABG00000012129	Others	NA
+Chelonoidis_abingdonii	CITED2	ENSCABG00000012149	CITED	NA
+Chelonoidis_abingdonii	SUPT16H	ENSCABG00000012173	SUPT	NA
+Chelonoidis_abingdonii	NRIP2	ENSCABG00000012291	Nuclear coactivator	NA
+Chelonoidis_abingdonii	PPARGC1B	ENSCABG00000012296	Others	NA
+Chelonoidis_abingdonii	CTNNB1	ENSCABG00000012327	Casein	NA
+Chelonoidis_abingdonii	TRAK1	ENSCABG00000012337	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000012338	Arginine methyltransferase	NA
+Chelonoidis_abingdonii	ORC2	ENSCABG00000012349	Others	NA
+Chelonoidis_abingdonii	NIF3L1	ENSCABG00000012350	Others	NA
+Chelonoidis_abingdonii	ECD	ENSCABG00000012355	Others	NA
+Chelonoidis_abingdonii	CNOT2	ENSCABG00000012391	CCR4-NOT	NA
+Chelonoidis_abingdonii	TDP2	ENSCABG00000012474	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000012518	Transducin	NA
+Chelonoidis_abingdonii	LPIN2	ENSCABG00000012539	LPIN	NA
+Chelonoidis_abingdonii	SAP30L	ENSCABG00000012560	SAP	NA
+Chelonoidis_abingdonii	NCOA2	ENSCABG00000012566	Nuclear receptor coactivator	NA
+Chelonoidis_abingdonii		ENSCABG00000012576	HNRNP	NA
+Chelonoidis_abingdonii	NSMCE4A	ENSCABG00000012609	EID	NA
+Chelonoidis_abingdonii	PCGF6	ENSCABG00000012625	PCGF	NA
+Chelonoidis_abingdonii	TAF5	ENSCABG00000012628	TATA-box	NA
+Chelonoidis_abingdonii	DPF3	ENSCABG00000012629	DPF	NA
+Chelonoidis_abingdonii	FGFR2	ENSCABG00000012635	FGF	NA
+Chelonoidis_abingdonii	MBTD1	ENSCABG00000012718	Others	NA
+Chelonoidis_abingdonii	SGK1	ENSCABG00000012729	Others	NA
+Chelonoidis_abingdonii	DVL3	ENSCABG00000012746	Others	NA
+Chelonoidis_abingdonii	TBPL1	ENSCABG00000012768	TATA-box	NA
+Chelonoidis_abingdonii	GRHPR	ENSCABG00000012780	Others	NA
+Chelonoidis_abingdonii	KDM3B	ENSCABG00000012820	Lysine demethylase	NA
+Chelonoidis_abingdonii	NELFCD	ENSCABG00000012962	GTF	NA
+Chelonoidis_abingdonii	BAHCC1	ENSCABG00000012995	Others	NA
+Chelonoidis_abingdonii	MEAF6	ENSCABG00000013023	Others	NA
+Chelonoidis_abingdonii	SNIP1	ENSCABG00000013027	Others	NA
+Chelonoidis_abingdonii	TAB3	ENSCABG00000013034	Others	NA
+Chelonoidis_abingdonii	KAT6A	ENSCABG00000013045	Lysine acetyltransferase	NA
+Chelonoidis_abingdonii	TNIP1	ENSCABG00000013054	Others	NA
+Chelonoidis_abingdonii	FHL3	ENSCABG00000013093	FHL	NA
+Chelonoidis_abingdonii	RPTOR	ENSCABG00000013112	Others	NA
+Chelonoidis_abingdonii	ABRA	ENSCABG00000013137	Actin	NA
+Chelonoidis_abingdonii	TAF5L	ENSCABG00000013175	TATA-box	NA
+Chelonoidis_abingdonii		ENSCABG00000013195	Others	NA
+Chelonoidis_abingdonii	EYA1	ENSCABG00000013273	EYA	NA
+Chelonoidis_abingdonii	SQSTM1	ENSCABG00000013281	Others	NA
+Chelonoidis_abingdonii	LRPPRC	ENSCABG00000013291	Others	NA
+Chelonoidis_abingdonii	MAML1	ENSCABG00000013344	MAML	NA
+Chelonoidis_abingdonii	TONSL	ENSCABG00000013362	Others	NA
+Chelonoidis_abingdonii	KAT2B	ENSCABG00000013369	Lysine acetyltransferase	NA
+Chelonoidis_abingdonii	ELP1	ENSCABG00000013396	ELP	NA
+Chelonoidis_abingdonii	AGO1	ENSCABG00000013412	Others	NA
+Chelonoidis_abingdonii	SFMBT2	ENSCABG00000013450	Others	NA
+Chelonoidis_abingdonii	NOL11	ENSCABG00000013461	Nuclear coactivator	NA
+Chelonoidis_abingdonii	UTP4	ENSCABG00000013467	Others	NA
+Chelonoidis_abingdonii	CNOT6	ENSCABG00000013496	CCR4-NOT	NA
+Chelonoidis_abingdonii		ENSCABG00000013514	Bromodomain	NA
+Chelonoidis_abingdonii	BPTF	ENSCABG00000013515	Bromodomain	NA
+Chelonoidis_abingdonii	GPS2	ENSCABG00000013541	Others	NA
+Chelonoidis_abingdonii	POLR2A	ENSCABG00000013561	POLR	NA
+Chelonoidis_abingdonii	CHEK1	ENSCABG00000013578	Others	NA
+Chelonoidis_abingdonii	TAF3	ENSCABG00000013596	TATA-box	NA
+Chelonoidis_abingdonii	NOTCH3	ENSCABG00000013600	Notch	NA
+Chelonoidis_abingdonii	PHF21A	ENSCABG00000013619	PHF	NA
+Chelonoidis_abingdonii	TIRAP	ENSCABG00000013640	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000013704	Histone deacetylase	NA
+Chelonoidis_abingdonii	CITED1	ENSCABG00000013744	CITED	NA
+Chelonoidis_abingdonii	SNX6	ENSCABG00000013779	Others	NA
+Chelonoidis_abingdonii	TRIB2	ENSCABG00000013844	Others	NA
+Chelonoidis_abingdonii	CNOT7	ENSCABG00000013898	CCR4-NOT	NA
+Chelonoidis_abingdonii	CBX4	ENSCABG00000014130	Chromobox	NA
+Chelonoidis_abingdonii	CBX8	ENSCABG00000014134	Chromobox	NA
+Chelonoidis_abingdonii	TERF2IP	ENSCABG00000014142	Others	NA
+Chelonoidis_abingdonii	CBX2	ENSCABG00000014148	Chromobox	NA
+Chelonoidis_abingdonii	EWSR1	ENSCABG00000014149	Others	NA
+Chelonoidis_abingdonii	FGFR1	ENSCABG00000014235	FGF	NA
+Chelonoidis_abingdonii	THOC5	ENSCABG00000014272	Others	NA
+Chelonoidis_abingdonii	NSD3	ENSCABG00000014276	Nuclear receptor coactivator	NA
+Chelonoidis_abingdonii	CHD1	ENSCABG00000014281	CHD	NA
+Chelonoidis_abingdonii	TENM1	ENSCABG00000014306	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000014349	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000014404	Tripartite motif	NA
+Chelonoidis_abingdonii	RBPMS	ENSCABG00000014468	RNA binding protein	NA
+Chelonoidis_abingdonii	PQBP1	ENSCABG00000014524	Others	NA
+Chelonoidis_abingdonii	PADI2	ENSCABG00000014526	Other_CRF	NA
+Chelonoidis_abingdonii	RAP2A	ENSCABG00000014546	Others	NA
+Chelonoidis_abingdonii	SPEN	ENSCABG00000014561	Others	NA
+Chelonoidis_abingdonii	TRAF6	ENSCABG00000014612	Others	NA
+Chelonoidis_abingdonii	CHUK	ENSCABG00000014637	Others	NA
+Chelonoidis_abingdonii	FBP1	ENSCABG00000014668	Others	NA
+Chelonoidis_abingdonii	VGLL3	ENSCABG00000014679	Vestigial like	NA
+Chelonoidis_abingdonii	KAT2A	ENSCABG00000014692	Lysine acetyltransferase	NA
+Chelonoidis_abingdonii	ASH2L	ENSCABG00000014696	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000014724	Zinc finger	NA
+Chelonoidis_abingdonii	KDM5B	ENSCABG00000014738	Lysine demethylase	NA
+Chelonoidis_abingdonii	CCNH	ENSCABG00000014765	Cyclin	NA
+Chelonoidis_abingdonii	MED10	ENSCABG00000014817	Mediator complex	NA
+Chelonoidis_abingdonii		ENSCABG00000014909	GTF	NA
+Chelonoidis_abingdonii	MYOCD	ENSCABG00000014911	Others	NA
+Chelonoidis_abingdonii	KMT5B	ENSCABG00000014933	Lysine methyltransferase	NA
+Chelonoidis_abingdonii	CGGBP1	ENSCABG00000014998	Others	NA
+Chelonoidis_abingdonii	PSEN1	ENSCABG00000015000	Others	NA
+Chelonoidis_abingdonii	HDAC7	ENSCABG00000015071	Histone deacetylase	NA
+Chelonoidis_abingdonii	PIDD1	ENSCABG00000015151	Others	NA
+Chelonoidis_abingdonii	ATF7IP	ENSCABG00000015193	Others	NA
+Chelonoidis_abingdonii	THRAP3	ENSCABG00000015214	Thyroid hormone receptor	NA
+Chelonoidis_abingdonii	TAF6	ENSCABG00000015271	TATA-box	NA
+Chelonoidis_abingdonii		ENSCABG00000015278	Others	NA
+Chelonoidis_abingdonii	DDX39A	ENSCABG00000015309	RNA helicase	NA
+Chelonoidis_abingdonii	ASF1B	ENSCABG00000015331	Others	NA
+Chelonoidis_abingdonii	TIGD4	ENSCABG00000015382	CENP	NA
+Chelonoidis_abingdonii	BRD7	ENSCABG00000015409	Bromodomain	NA
+Chelonoidis_abingdonii	KCNIP3	ENSCABG00000015449	Others	NA
+Chelonoidis_abingdonii	ARHGAP5	ENSCABG00000015502	Others	NA
+Chelonoidis_abingdonii	PSIP1	ENSCABG00000015532	Others	NA
+Chelonoidis_abingdonii	GTF2A1L	ENSCABG00000015547	GTF	NA
+Chelonoidis_abingdonii	DNMT1	ENSCABG00000015603	DNA_methylase	NA
+Chelonoidis_abingdonii	NOD1	ENSCABG00000015616	Others	NA
+Chelonoidis_abingdonii	BRD2	ENSCABG00000015628	Bromodomain	NA
+Chelonoidis_abingdonii		ENSCABG00000015795	SUPT	NA
+Chelonoidis_abingdonii		ENSCABG00000015845	Others	NA
+Chelonoidis_abingdonii	EYA3	ENSCABG00000015942	EYA	NA
+Chelonoidis_abingdonii		ENSCABG00000015978	Nuclear receptor coactivator	NA
+Chelonoidis_abingdonii	CNOT10	ENSCABG00000015997	CCR4-NOT	NA
+Chelonoidis_abingdonii	RAN	ENSCABG00000016007	Others	NA
+Chelonoidis_abingdonii	SFSWAP	ENSCABG00000016036	Others	NA
+Chelonoidis_abingdonii	FLNA	ENSCABG00000016076	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000016078	Others	NA
+Chelonoidis_abingdonii	TCEA1	ENSCABG00000016113	TEF	NA
+Chelonoidis_abingdonii	SNAPC5	ENSCABG00000016133	Others	NA
+Chelonoidis_abingdonii	CASP8AP2	ENSCABG00000016146	Others	NA
+Chelonoidis_abingdonii	DDX1	ENSCABG00000016171	RNA helicase	NA
+Chelonoidis_abingdonii	GTF2A1	ENSCABG00000016219	GTF	NA
+Chelonoidis_abingdonii	PID1	ENSCABG00000016229	Others	NA
+Chelonoidis_abingdonii	SUV39H1	ENSCABG00000016244	Others	NA
+Chelonoidis_abingdonii	CRTC1	ENSCABG00000016260	CREB	NA
+Chelonoidis_abingdonii	ELL	ENSCABG00000016281	GTF	NA
+Chelonoidis_abingdonii	NCOA4	ENSCABG00000016287	Nuclear receptor coactivator	NA
+Chelonoidis_abingdonii	SSBP3	ENSCABG00000016289	Others	NA
+Chelonoidis_abingdonii	MYCBP2	ENSCABG00000016312	MYC	NA
+Chelonoidis_abingdonii	MNAT1	ENSCABG00000016316	Others	NA
+Chelonoidis_abingdonii	KDM8	ENSCABG00000016347	Lysine demethylase	NA
+Chelonoidis_abingdonii	DDX54	ENSCABG00000016362	RNA helicase	NA
+Chelonoidis_abingdonii	ATRX	ENSCABG00000016367	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000016368	Others	NA
+Chelonoidis_abingdonii	TCERG1L	ENSCABG00000016390	TEF	NA
+Chelonoidis_abingdonii	INSR	ENSCABG00000016421	Others	NA
+Chelonoidis_abingdonii	CXXC1	ENSCABG00000016437	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000016478	Others	NA
+Chelonoidis_abingdonii	PSPC1	ENSCABG00000016498	Others	NA
+Chelonoidis_abingdonii	MPHOSPH8	ENSCABG00000016502	Others	NA
+Chelonoidis_abingdonii	AXIN1	ENSCABG00000016542	Others	NA
+Chelonoidis_abingdonii	PHF20	ENSCABG00000016545	PHF	NA
+Chelonoidis_abingdonii	LRRK2	ENSCABG00000016574	Other_CRF	NA
+Chelonoidis_abingdonii	LDB1	ENSCABG00000016577	LIM	NA
+Chelonoidis_abingdonii	CCNK	ENSCABG00000016581	Cyclin	NA
+Chelonoidis_abingdonii	SETD3	ENSCABG00000016605	SET	NA
+Chelonoidis_abingdonii	LRIF1	ENSCABG00000016645	Others	NA
+Chelonoidis_abingdonii	SLC26A3	ENSCABG00000016664	SLC	NA
+Chelonoidis_abingdonii	PICALM	ENSCABG00000016670	Others	NA
+Chelonoidis_abingdonii	CHD6	ENSCABG00000016684	CHD	NA
+Chelonoidis_abingdonii	MED23	ENSCABG00000016755	Mediator complex	NA
+Chelonoidis_abingdonii	HNRNPK	ENSCABG00000016769	HNRNP	NA
+Chelonoidis_abingdonii	HCK	ENSCABG00000016834	Others	NA
+Chelonoidis_abingdonii	NIBAN2	ENSCABG00000016852	FAM	NA
+Chelonoidis_abingdonii	TBL1XR1	ENSCABG00000016872	Transducin	NA
+Chelonoidis_abingdonii	TRIB3	ENSCABG00000016896	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000016920	Casein	NA
+Chelonoidis_abingdonii	CREBBP	ENSCABG00000016952	CREB	NA
+Chelonoidis_abingdonii	TADA1	ENSCABG00000016954	Transcriptional adaptor	NA
+Chelonoidis_abingdonii	ACTN1	ENSCABG00000016977	Actin	NA
+Chelonoidis_abingdonii	DNAJA3	ENSCABG00000016988	Others	NA
+Chelonoidis_abingdonii	TRIM32	ENSCABG00000017081	Tripartite motif	NA
+Chelonoidis_abingdonii	LZTS1	ENSCABG00000017176	Others	NA
+Chelonoidis_abingdonii	DTX1	ENSCABG00000017209	Others	NA
+Chelonoidis_abingdonii	DUSP26	ENSCABG00000017242	Others	NA
+Chelonoidis_abingdonii	MAD2L2	ENSCABG00000017265	Others	NA
+Chelonoidis_abingdonii	RBL1	ENSCABG00000017303	Other_Co-activator/repressors	NA
+Chelonoidis_abingdonii	MTOR	ENSCABG00000017346	Others	NA
+Chelonoidis_abingdonii	RBFOX2	ENSCABG00000017359	Others	NA
+Chelonoidis_abingdonii	HMOX1	ENSCABG00000017375	Others	NA
+Chelonoidis_abingdonii	SMARCD2	ENSCABG00000017418	SWI/SNF	NA
+Chelonoidis_abingdonii	PEX14	ENSCABG00000017445	Others	NA
+Chelonoidis_abingdonii	DGKQ	ENSCABG00000017536	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000017563	RNA helicase	NA
+Chelonoidis_abingdonii	LMO1	ENSCABG00000017565	LIM	NA
+Chelonoidis_abingdonii	PCGF3	ENSCABG00000017578	PCGF	NA
+Chelonoidis_abingdonii	EAF2	ENSCABG00000017583	Others	NA
+Chelonoidis_abingdonii	CTNNBIP1	ENSCABG00000017594	Casein	NA
+Chelonoidis_abingdonii	CCDC85B	ENSCABG00000017602	Coiled-coil	NA
+Chelonoidis_abingdonii	LDB2	ENSCABG00000017610	LIM	NA
+Chelonoidis_abingdonii	NUP98	ENSCABG00000017637	Others	NA
+Chelonoidis_abingdonii	PARK7	ENSCABG00000017641	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000017685	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000017688	Others	NA
+Chelonoidis_abingdonii	DRAP1	ENSCABG00000017702	Others	NA
+Chelonoidis_abingdonii	LOXL2	ENSCABG00000017703	Others	NA
+Chelonoidis_abingdonii	KAT5	ENSCABG00000017713	Lysine acetyltransferase	NA
+Chelonoidis_abingdonii	HDGF	ENSCABG00000017740	Others	NA
+Chelonoidis_abingdonii	CCAR2	ENSCABG00000017817	Others	NA
+Chelonoidis_abingdonii	SIN3A	ENSCABG00000017823	Other_CRF	NA
+Chelonoidis_abingdonii	RUNX1T1	ENSCABG00000017841	Others	NA
+Chelonoidis_abingdonii	HR	ENSCABG00000017872	Lysine methyltransferase	NA
+Chelonoidis_abingdonii	NPM2	ENSCABG00000017877	Nucleoplasmin	NA
+Chelonoidis_abingdonii	ASH1L	ENSCABG00000017918	Others	NA
+Chelonoidis_abingdonii	RNF168	ENSCABG00000017960	Ring finger protein	NA
+Chelonoidis_abingdonii	PDLIM1	ENSCABG00000017972	Others	NA
+Chelonoidis_abingdonii	HELLS	ENSCABG00000017982	Others	NA
+Chelonoidis_abingdonii	TNKS	ENSCABG00000017993	Others	NA
+Chelonoidis_abingdonii	RNF20	ENSCABG00000018041	Ring finger protein	NA
+Chelonoidis_abingdonii		ENSCABG00000018150	Others	NA
+Chelonoidis_abingdonii	POLR3C	ENSCABG00000018302	POLR	NA
+Chelonoidis_abingdonii	SIN3B	ENSCABG00000018314	Others	NA
+Chelonoidis_abingdonii	TXNIP	ENSCABG00000018325	Others	NA
+Chelonoidis_abingdonii	GSK3B	ENSCABG00000018385	Others	NA
+Chelonoidis_abingdonii	LBH	ENSCABG00000018399	Others	NA
+Chelonoidis_abingdonii	EZR	ENSCABG00000018427	Others	NA
+Chelonoidis_abingdonii	GTF2H5	ENSCABG00000018455	GTF	NA
+Chelonoidis_abingdonii	TBPL2	ENSCABG00000018464	TATA-box	NA
+Chelonoidis_abingdonii	ANP32E	ENSCABG00000018473	ANP	NA
+Chelonoidis_abingdonii		ENSCABG00000018476	Lysine demethylase	NA
+Chelonoidis_abingdonii		ENSCABG00000018480	Cyclin	NA
+Chelonoidis_abingdonii		ENSCABG00000018494	Others	NA
+Chelonoidis_abingdonii	DACT1	ENSCABG00000018545	Others	NA
+Chelonoidis_abingdonii	CASK	ENSCABG00000018660	CAMK	NA
+Chelonoidis_abingdonii	PNRC1	ENSCABG00000018714	Others	NA
+Chelonoidis_abingdonii	RBBP4	ENSCABG00000018785	RBBP	NA
+Chelonoidis_abingdonii	NRIP1	ENSCABG00000018837	Nuclear receptor coactivator	NA
+Chelonoidis_abingdonii		ENSCABG00000018852	Others	NA
+Chelonoidis_abingdonii	HDAC1	ENSCABG00000018853	Histone deacetylase	NA
+Chelonoidis_abingdonii	NLK	ENSCABG00000018863	Others	NA
+Chelonoidis_abingdonii	GTF2H4	ENSCABG00000018923	GTF	NA
+Chelonoidis_abingdonii	RNF10	ENSCABG00000018946	Ring finger protein	NA
+Chelonoidis_abingdonii	SRA1	ENSCABG00000018965	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000018978	GTF	NA
+Chelonoidis_abingdonii	PIR	ENSCABG00000019032	Others	NA
+Chelonoidis_abingdonii	DHX9	ENSCABG00000019045	RNA helicase	NA
+Chelonoidis_abingdonii		ENSCABG00000019083	INO80 complex	NA
+Chelonoidis_abingdonii	MED30	ENSCABG00000019090	Mediator complex	NA
+Chelonoidis_abingdonii	TFB2M	ENSCABG00000019111	Others	NA
+Chelonoidis_abingdonii	HNRNPU	ENSCABG00000019135	HNRNP	NA
+Chelonoidis_abingdonii	SMARCB1	ENSCABG00000019158	SWI/SNF	NA
+Chelonoidis_abingdonii	SAP130	ENSCABG00000019164	SAP	NA
+Chelonoidis_abingdonii	ACTL6A	ENSCABG00000019237	Actin	NA
+Chelonoidis_abingdonii	KDM1A	ENSCABG00000019239	Lysine demethylase	NA
+Chelonoidis_abingdonii	SAV1	ENSCABG00000019345	Others	NA
+Chelonoidis_abingdonii	MED8	ENSCABG00000019385	Mediator complex	NA
+Chelonoidis_abingdonii	YEATS2	ENSCABG00000019490	Others	NA
+Chelonoidis_abingdonii	NUDT5	ENSCABG00000019542	Other_CRF	NA
+Chelonoidis_abingdonii	ZYX	ENSCABG00000019544	Thyroid hormone receptor	NA
+Chelonoidis_abingdonii		ENSCABG00000019565	Zinc finger	NA
+Chelonoidis_abingdonii	EED	ENSCABG00000019569	Others	NA
+Chelonoidis_abingdonii	HABP4	ENSCABG00000019581	Others	NA
+Chelonoidis_abingdonii	IKBKB	ENSCABG00000019600	Others	NA
+Chelonoidis_abingdonii	HLTF	ENSCABG00000019643	Others	NA
+Chelonoidis_abingdonii	MED21	ENSCABG00000019646	Mediator complex	NA
+Chelonoidis_abingdonii	SMARCA2	ENSCABG00000019732	SWI/SNF	NA
+Chelonoidis_abingdonii	ZMYND8	ENSCABG00000019806	Zinc finger	NA
+Chelonoidis_abingdonii	CILK1	ENSCABG00000019810	Others	NA
+Chelonoidis_abingdonii	EYA2	ENSCABG00000019833	EYA	NA
+Chelonoidis_abingdonii	MED4	ENSCABG00000019837	Mediator complex	NA
+Chelonoidis_abingdonii	COPS2	ENSCABG00000019848	Others	NA
+Chelonoidis_abingdonii	SCMH1	ENSCABG00000019861	Others	NA
+Chelonoidis_abingdonii	RB1	ENSCABG00000019865	Other_Co-activator/repressors	NA
+Chelonoidis_abingdonii	WWTR1	ENSCABG00000019874	WW	NA
+Chelonoidis_abingdonii	BUD31	ENSCABG00000019878	Others	NA
+Chelonoidis_abingdonii	SIAH2	ENSCABG00000019949	Others	NA
+Chelonoidis_abingdonii	RPRD1A	ENSCABG00000019971	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000020030	Bromodomain	NA
+Chelonoidis_abingdonii	NPAT	ENSCABG00000020060	Nuclear coactivator	NA
+Chelonoidis_abingdonii	YWHAB	ENSCABG00000020070	Others	NA
+Chelonoidis_abingdonii	STK4	ENSCABG00000020080	Others	NA
+Chelonoidis_abingdonii	SRC	ENSCABG00000020125	Others	NA
+Chelonoidis_abingdonii	HIPK2	ENSCABG00000020149	HIPK	NA
+Chelonoidis_abingdonii	LPIN3	ENSCABG00000020152	LPIN	NA
+Chelonoidis_abingdonii	TRIM24	ENSCABG00000020171	Tripartite motif	NA
+Chelonoidis_abingdonii	ZMYND11	ENSCABG00000020265	Zinc finger	NA
+Chelonoidis_abingdonii	PINK1	ENSCABG00000020302	Others	NA
+Chelonoidis_abingdonii	SRFBP1	ENSCABG00000020324	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000020329	Others	NA
+Chelonoidis_abingdonii	BEND3	ENSCABG00000020335	Others	NA
+Chelonoidis_abingdonii	PRMT8	ENSCABG00000020410	Arginine methyltransferase	NA
+Chelonoidis_abingdonii	TXN	ENSCABG00000020412	Others	NA
+Chelonoidis_abingdonii	XRN2	ENSCABG00000020495	Others	NA
+Chelonoidis_abingdonii	MED19	ENSCABG00000020510	Mediator complex	NA
+Chelonoidis_abingdonii	CTNND1	ENSCABG00000020536	Casein	NA
+Chelonoidis_abingdonii		ENSCABG00000020537	Other_CRF	NA
+Chelonoidis_abingdonii	LPXN	ENSCABG00000020541	Others	NA
+Chelonoidis_abingdonii	MED11	ENSCABG00000020557	Mediator complex	NA
+Chelonoidis_abingdonii	EAPP	ENSCABG00000020590	Others	NA
+Chelonoidis_abingdonii	SNAPC2	ENSCABG00000020606	Others	NA
+Chelonoidis_abingdonii	ELP3	ENSCABG00000020647	ELP	NA
+Chelonoidis_abingdonii	GTF2A2	ENSCABG00000020705	GTF	NA
+Chelonoidis_abingdonii	ICE2	ENSCABG00000020715	GTF	NA
+Chelonoidis_abingdonii	SLC30A9	ENSCABG00000020716	SLC	NA
+Chelonoidis_abingdonii	CRK	ENSCABG00000020723	Others	NA
+Chelonoidis_abingdonii	CTNND2	ENSCABG00000020757	Casein	NA
+Chelonoidis_abingdonii	CDK7	ENSCABG00000020808	Cyclin	NA
+Chelonoidis_abingdonii	AUTS2	ENSCABG00000020809	Others	NA
+Chelonoidis_abingdonii	TDRD3	ENSCABG00000020833	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000020844	Others	NA
+Chelonoidis_abingdonii	HIRA	ENSCABG00000020900	Others	NA
+Chelonoidis_abingdonii	TRIP11	ENSCABG00000020972	Thyroid hormone receptor	NA
+Chelonoidis_abingdonii	CLU	ENSCABG00000021069	Others	NA
+Chelonoidis_abingdonii	CDC73	ENSCABG00000021097	Others	NA
+Chelonoidis_abingdonii	FAM83G	ENSCABG00000021170	FAM	NA
+Chelonoidis_abingdonii	CSNK2A2	ENSCABG00000021184	Casein	NA
+Chelonoidis_abingdonii	WWP2	ENSCABG00000021186	WW	NA
+Chelonoidis_abingdonii	SETD6	ENSCABG00000021206	SET	NA
+Chelonoidis_abingdonii	RBL2	ENSCABG00000021217	Other_Co-activator/repressors	NA
+Chelonoidis_abingdonii	CNOT1	ENSCABG00000021278	CCR4-NOT	NA
+Chelonoidis_abingdonii	MRTFB	ENSCABG00000021288	Others	NA
+Chelonoidis_abingdonii	CHD9	ENSCABG00000021297	CHD	NA
+Chelonoidis_abingdonii	PIN1	ENSCABG00000021350	Others	NA
+Chelonoidis_abingdonii	GTF2B	ENSCABG00000021367	GTF	NA
+Chelonoidis_abingdonii	TAF1B	ENSCABG00000021394	TATA-box	NA
+Chelonoidis_abingdonii	EZH2	ENSCABG00000021426	Others	NA
+Chelonoidis_abingdonii	ELL2	ENSCABG00000021462	GTF	NA
+Chelonoidis_abingdonii	MSL3	ENSCABG00000021486	Others	NA
+Chelonoidis_abingdonii	SF1	ENSCABG00000021488	Others	NA
+Chelonoidis_abingdonii	MEN1	ENSCABG00000021491	Others	NA
+Chelonoidis_abingdonii	FLII	ENSCABG00000021529	Others	NA
+Chelonoidis_abingdonii	DOT1L	ENSCABG00000021544	Others	NA
+Chelonoidis_abingdonii	TRIP4	ENSCABG00000021575	Thyroid hormone receptor	NA
+Chelonoidis_abingdonii	CDYL2	ENSCABG00000021598	Chromodomain Y	NA
+Chelonoidis_abingdonii	SETD2	ENSCABG00000021612	SET	NA
+Chelonoidis_abingdonii	RBM14	ENSCABG00000021623	RNA binding protein	NA
+Chelonoidis_abingdonii	RAI1	ENSCABG00000021665	Others	NA
+Chelonoidis_abingdonii	RASD1	ENSCABG00000021674	Others	NA
+Chelonoidis_abingdonii	MED9	ENSCABG00000021676	Mediator complex	NA
+Chelonoidis_abingdonii	BAZ1A	ENSCABG00000021733	Bromodomain	NA
+Chelonoidis_abingdonii	HDAC11	ENSCABG00000021739	Histone deacetylase	NA
+Chelonoidis_abingdonii		ENSCABG00000021755	NFKB associated	NA
+Chelonoidis_abingdonii	ACTN3	ENSCABG00000021783	Actin	NA
+Chelonoidis_abingdonii	TAF6L	ENSCABG00000021814	TATA-box	NA
+Chelonoidis_abingdonii	RALGAPA1	ENSCABG00000021867	Others	NA
+Chelonoidis_abingdonii	PHF2	ENSCABG00000021927	PHF	NA
+Chelonoidis_abingdonii	RNF25	ENSCABG00000021947	Ring finger protein	NA
+Chelonoidis_abingdonii	STK36	ENSCABG00000021948	Others	NA
+Chelonoidis_abingdonii	TAB1	ENSCABG00000021955	Others	NA
+Chelonoidis_abingdonii	HDAC3	ENSCABG00000022023	Histone deacetylase	NA
+Chelonoidis_abingdonii	EHMT1	ENSCABG00000022041	Histone lysine methyltransferase	NA
+Chelonoidis_abingdonii	NOC2L	ENSCABG00000022049	Others	NA
+Chelonoidis_abingdonii	CNOT8	ENSCABG00000022070	CCR4-NOT	NA
+Chelonoidis_abingdonii	ANXA4	ENSCABG00000022076	Others	NA
+Chelonoidis_abingdonii	RAF1	ENSCABG00000022083	Others	NA
+Chelonoidis_abingdonii	BTG1	ENSCABG00000022090	Others	NA
+Chelonoidis_abingdonii	BTF3	ENSCABG00000022095	Others	NA
+Chelonoidis_abingdonii	ANKRA2	ENSCABG00000022096	Ankyrin repeat	NA
+Chelonoidis_abingdonii	NELFB	ENSCABG00000022112	GTF	NA
+Chelonoidis_abingdonii		ENSCABG00000022136	Others	NA
+Chelonoidis_abingdonii	KDM7A	ENSCABG00000022196	Lysine demethylase	NA
+Chelonoidis_abingdonii	CDK12	ENSCABG00000022220	Cyclin	NA
+Chelonoidis_abingdonii	MED1	ENSCABG00000022240	Mediator complex	NA
+Chelonoidis_abingdonii	CHEK2	ENSCABG00000022252	Others	NA
+Chelonoidis_abingdonii	DYRK1B	ENSCABG00000022277	Others	NA
+Chelonoidis_abingdonii	CBFA2T2	ENSCABG00000022375	Others	NA
+Chelonoidis_abingdonii	PLK3	ENSCABG00000022416	Others	NA
+Chelonoidis_abingdonii	BRMS1L	ENSCABG00000022485	Other_CRF	NA
+Chelonoidis_abingdonii	MAML2	ENSCABG00000022488	MAML	NA
+Chelonoidis_abingdonii	RRN3	ENSCABG00000022538	Others	NA
+Chelonoidis_abingdonii	YAP1	ENSCABG00000022544	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000022549	Others	NA
+Chelonoidis_abingdonii	WWP1	ENSCABG00000022595	WW	NA
+Chelonoidis_abingdonii	PUF60	ENSCABG00000022598	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000022642	Others	NA
+Chelonoidis_abingdonii	SLC25A15	ENSCABG00000022723	SLC	NA
+Chelonoidis_abingdonii	BRCA1	ENSCABG00000022750	Others	NA
+Chelonoidis_abingdonii	IRF2BPL	ENSCABG00000022794	Others	NA
+Chelonoidis_abingdonii	SNW1	ENSCABG00000022824	Others	NA
+Chelonoidis_abingdonii	CTBP1	ENSCABG00000022831	Others	NA
+Chelonoidis_abingdonii	SUPT3H	ENSCABG00000022861	SUPT	NA
+Chelonoidis_abingdonii	XRCC6	ENSCABG00000022888	Others	NA
+Chelonoidis_abingdonii	PHF5A	ENSCABG00000022898	PHF	NA
+Chelonoidis_abingdonii	TOB2	ENSCABG00000022899	Others	NA
+Chelonoidis_abingdonii	L3MBTL2	ENSCABG00000022907	Others	NA
+Chelonoidis_abingdonii	MACROH2A2	ENSCABG00000022911	Others	NA
+Chelonoidis_abingdonii	EP300	ENSCABG00000022920	Others	NA
+Chelonoidis_abingdonii	CCAR1	ENSCABG00000022929	Others	NA
+Chelonoidis_abingdonii	RBX1	ENSCABG00000022939	Others	NA
+Chelonoidis_abingdonii		ENSCABG00000022942	Sirtuin	NA
+Chelonoidis_abingdonii		ENSCABG00000022954	Others	NA
+Chelonoidis_abingdonii	CTDP1	ENSCABG00000022997	Others	NA
+Chelonoidis_abingdonii	ACVR2B	ENSCABG00000023035	Others	NA
+Chelonoidis_abingdonii	HINT1	ENSCABG00000023105	Others	NA
+Chelonoidis_abingdonii	PPARGC1A	ENSCABG00000023141	Others	NA
+Chelonoidis_abingdonii	TGFB1	ENSCABG00000023199	Others	NA

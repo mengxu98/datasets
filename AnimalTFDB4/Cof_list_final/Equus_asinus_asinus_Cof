@@ -1,0 +1,919 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Equus_asinus_asinus	TASOR	ENSEASG00005000102	FAM	NA
+Equus_asinus_asinus	ENY2	ENSEASG00005000116	Others	NA
+Equus_asinus_asinus	PSPC1	ENSEASG00005000119	Others	NA
+Equus_asinus_asinus		ENSEASG00005000121	Others	NA
+Equus_asinus_asinus	MPHOSPH8	ENSEASG00005000147	Others	NA
+Equus_asinus_asinus	PYGO2	ENSEASG00005000238	Others	NA
+Equus_asinus_asinus	TARBP1	ENSEASG00005000252	Others	NA
+Equus_asinus_asinus	PBXIP1	ENSEASG00005000264	Others	NA
+Equus_asinus_asinus	RAP2C	ENSEASG00005000309	Others	NA
+Equus_asinus_asinus	BANP	ENSEASG00005000313	Others	NA
+Equus_asinus_asinus		ENSEASG00005000316	Tripartite motif	NA
+Equus_asinus_asinus	RPRD1B	ENSEASG00005000365	Others	NA
+Equus_asinus_asinus	CCNT1	ENSEASG00005000368	Cyclin	NA
+Equus_asinus_asinus		ENSEASG00005000460	Mediator complex	NA
+Equus_asinus_asinus	PIR	ENSEASG00005000495	Others	NA
+Equus_asinus_asinus	SIN3B	ENSEASG00005000531	Others	NA
+Equus_asinus_asinus	SRC	ENSEASG00005000578	Others	NA
+Equus_asinus_asinus	PHF10	ENSEASG00005000584	PHF	NA
+Equus_asinus_asinus	SKAP1	ENSEASG00005000601	Others	NA
+Equus_asinus_asinus		ENSEASG00005000612	Others	NA
+Equus_asinus_asinus	LRRK2	ENSEASG00005000631	Other_CRF	NA
+Equus_asinus_asinus	CDK5RAP3	ENSEASG00005000658	Cyclin	NA
+Equus_asinus_asinus	GRHPR	ENSEASG00005000668	Others	NA
+Equus_asinus_asinus	RECQL5	ENSEASG00005000704	Others	NA
+Equus_asinus_asinus	SAP30BP	ENSEASG00005000720	SAP	NA
+Equus_asinus_asinus	NUP98	ENSEASG00005000732	Others	NA
+Equus_asinus_asinus	CRTC2	ENSEASG00005000736	CREB	NA
+Equus_asinus_asinus	RBBP7	ENSEASG00005000767	RBBP	NA
+Equus_asinus_asinus	CBFA2T3	ENSEASG00005000800	Others	NA
+Equus_asinus_asinus	TCF20	ENSEASG00005000835	Others	NA
+Equus_asinus_asinus	DNAJA3	ENSEASG00005000859	Others	NA
+Equus_asinus_asinus	ILF2	ENSEASG00005000879	Others	NA
+Equus_asinus_asinus	TBP	ENSEASG00005000938	TATA-box	NA
+Equus_asinus_asinus	MED7	ENSEASG00005000944	Mediator complex	NA
+Equus_asinus_asinus	CREBBP	ENSEASG00005000963	CREB	NA
+Equus_asinus_asinus		ENSEASG00005000976	Others	NA
+Equus_asinus_asinus	NCOA2	ENSEASG00005001030	Nuclear receptor coactivator	NA
+Equus_asinus_asinus		ENSEASG00005001036	Others	NA
+Equus_asinus_asinus	CNOT8	ENSEASG00005001043	CCR4-NOT	NA
+Equus_asinus_asinus	SAP30L	ENSEASG00005001094	SAP	NA
+Equus_asinus_asinus	ABRA	ENSEASG00005001097	Actin	NA
+Equus_asinus_asinus	CITED4	ENSEASG00005001107	CITED	NA
+Equus_asinus_asinus	TAF13	ENSEASG00005001116	TATA-box	NA
+Equus_asinus_asinus	SCMH1	ENSEASG00005001142	Others	NA
+Equus_asinus_asinus	STRN3	ENSEASG00005001153	Others	NA
+Equus_asinus_asinus	CENPB	ENSEASG00005001170	CENP	NA
+Equus_asinus_asinus	KMT2B	ENSEASG00005001189	Lysine methyltransferase	NA
+Equus_asinus_asinus	MCRS1	ENSEASG00005001200	Others	NA
+Equus_asinus_asinus	COPS5	ENSEASG00005001239	Others	NA
+Equus_asinus_asinus	PRNP	ENSEASG00005001268	Others	NA
+Equus_asinus_asinus	TRIM6	ENSEASG00005001398	Tripartite motif	NA
+Equus_asinus_asinus	NIF3L1	ENSEASG00005001400	Others	NA
+Equus_asinus_asinus	ORC2	ENSEASG00005001457	Others	NA
+Equus_asinus_asinus		ENSEASG00005001511	Tripartite motif	NA
+Equus_asinus_asinus	XRCC6	ENSEASG00005001514	Others	NA
+Equus_asinus_asinus	TRIM22	ENSEASG00005001517	Tripartite motif	NA
+Equus_asinus_asinus	MED8	ENSEASG00005001522	Mediator complex	NA
+Equus_asinus_asinus	ANP32E	ENSEASG00005001530	ANP	NA
+Equus_asinus_asinus	PHF5A	ENSEASG00005001560	PHF	NA
+Equus_asinus_asinus	TOB2	ENSEASG00005001564	Others	NA
+Equus_asinus_asinus	L3MBTL2	ENSEASG00005001665	Others	NA
+Equus_asinus_asinus	APBB1	ENSEASG00005001670	Others	NA
+Equus_asinus_asinus	EP300	ENSEASG00005001674	Others	NA
+Equus_asinus_asinus	KDM3A	ENSEASG00005001676	Lysine demethylase	NA
+Equus_asinus_asinus	RBX1	ENSEASG00005001697	Others	NA
+Equus_asinus_asinus	KDM4A	ENSEASG00005001717	Lysine demethylase	NA
+Equus_asinus_asinus	SMYD1	ENSEASG00005001764	SMYD	NA
+Equus_asinus_asinus	MLLT6	ENSEASG00005001776	Others	NA
+Equus_asinus_asinus	ESF1	ENSEASG00005001777	Others	NA
+Equus_asinus_asinus	BAZ1A	ENSEASG00005001804	Bromodomain	NA
+Equus_asinus_asinus	ILK	ENSEASG00005001817	Others	NA
+Equus_asinus_asinus	PCGF2	ENSEASG00005001858	PCGF	NA
+Equus_asinus_asinus	SMARCA5	ENSEASG00005001866	SWI/SNF	NA
+Equus_asinus_asinus	LPXN	ENSEASG00005001873	Others	NA
+Equus_asinus_asinus	CHEK1	ENSEASG00005001909	Others	NA
+Equus_asinus_asinus	HSBP1L1	ENSEASG00005001945	Heat shock protein	NA
+Equus_asinus_asinus	CTNND1	ENSEASG00005001961	Casein	NA
+Equus_asinus_asinus	CTDP1	ENSEASG00005001965	Others	NA
+Equus_asinus_asinus	DMAP1	ENSEASG00005001966	DNA_methylase	NA
+Equus_asinus_asinus	SNX5	ENSEASG00005001975	Others	NA
+Equus_asinus_asinus	JMY	ENSEASG00005001982	Others	NA
+Equus_asinus_asinus	MED19	ENSEASG00005001991	Mediator complex	NA
+Equus_asinus_asinus	TNIP1	ENSEASG00005002006	Others	NA
+Equus_asinus_asinus	MED1	ENSEASG00005002009	Mediator complex	NA
+Equus_asinus_asinus	MRTFA	ENSEASG00005002011	Others	NA
+Equus_asinus_asinus	POLR3F	ENSEASG00005002022	POLR	NA
+Equus_asinus_asinus	SMARCD3	ENSEASG00005002024	SWI/SNF	NA
+Equus_asinus_asinus	TRAK2	ENSEASG00005002035	Others	NA
+Equus_asinus_asinus	AATF	ENSEASG00005002109	Others	NA
+Equus_asinus_asinus	SMURF1	ENSEASG00005002115	Others	NA
+Equus_asinus_asinus	CDK12	ENSEASG00005002143	Cyclin	NA
+Equus_asinus_asinus		ENSEASG00005002157	MBD	NA
+Equus_asinus_asinus	BCAS3	ENSEASG00005002183	Others	NA
+Equus_asinus_asinus	ERBB2	ENSEASG00005002185	Erbb2	NA
+Equus_asinus_asinus	RYBP	ENSEASG00005002228	Others	NA
+Equus_asinus_asinus	BRIP1	ENSEASG00005002238	Others	NA
+Equus_asinus_asinus	TAF10	ENSEASG00005002262	TATA-box	NA
+Equus_asinus_asinus	CIDEA	ENSEASG00005002269	Others	NA
+Equus_asinus_asinus	MED13	ENSEASG00005002274	Mediator complex	NA
+Equus_asinus_asinus	RBBP8	ENSEASG00005002384	RBBP	NA
+Equus_asinus_asinus	KCNIP3	ENSEASG00005002426	Others	NA
+Equus_asinus_asinus	DPF1	ENSEASG00005002472	DPF	NA
+Equus_asinus_asinus	BUD31	ENSEASG00005002474	Others	NA
+Equus_asinus_asinus	XRN2	ENSEASG00005002484	Others	NA
+Equus_asinus_asinus	RALGAPA1	ENSEASG00005002495	Others	NA
+Equus_asinus_asinus	TCEAL1	ENSEASG00005002520	TEF	NA
+Equus_asinus_asinus	MORF4L2	ENSEASG00005002526	Other_CRF	NA
+Equus_asinus_asinus	HSPA8	ENSEASG00005002578	Heat shock protein	NA
+Equus_asinus_asinus	WBP2	ENSEASG00005002597	WW	NA
+Equus_asinus_asinus	TRIM37	ENSEASG00005002615	Tripartite motif	NA
+Equus_asinus_asinus	GTF2A1L	ENSEASG00005002630	GTF	NA
+Equus_asinus_asinus	PLK3	ENSEASG00005002638	Others	NA
+Equus_asinus_asinus	PRMT2	ENSEASG00005002664	Arginine methyltransferase	NA
+Equus_asinus_asinus	MALT1	ENSEASG00005002711	Others	NA
+Equus_asinus_asinus	SUPT4H1	ENSEASG00005002787	SUPT	NA
+Equus_asinus_asinus	PABPC1	ENSEASG00005002810	Other_CRF	NA
+Equus_asinus_asinus	CDK2	ENSEASG00005002820	Cyclin	NA
+Equus_asinus_asinus	PPARGC1B	ENSEASG00005002826	Others	NA
+Equus_asinus_asinus	INO80D	ENSEASG00005002880	INO80 complex	NA
+Equus_asinus_asinus	SMYD2	ENSEASG00005002894	SMYD	NA
+Equus_asinus_asinus	ADRB2	ENSEASG00005002934	Others	NA
+Equus_asinus_asinus		ENSEASG00005002978	Others	NA
+Equus_asinus_asinus	HNRNPU	ENSEASG00005003017	HNRNP	NA
+Equus_asinus_asinus	MDFI	ENSEASG00005003031	Others	NA
+Equus_asinus_asinus		ENSEASG00005003058	Mediator complex	NA
+Equus_asinus_asinus	TAF8	ENSEASG00005003063	TATA-box	NA
+Equus_asinus_asinus	STK3	ENSEASG00005003082	Others	NA
+Equus_asinus_asinus	NOTCH3	ENSEASG00005003135	Notch	NA
+Equus_asinus_asinus	CENPF	ENSEASG00005003253	CENP	NA
+Equus_asinus_asinus	LMO1	ENSEASG00005003264	LIM	NA
+Equus_asinus_asinus	MTDH	ENSEASG00005003279	Others	NA
+Equus_asinus_asinus	AIM2	ENSEASG00005003291	Others	NA
+Equus_asinus_asinus	RBL1	ENSEASG00005003296	Other_Co-activator/repressors	NA
+Equus_asinus_asinus	MNDA	ENSEASG00005003327	Others	NA
+Equus_asinus_asinus	CDC73	ENSEASG00005003377	Others	NA
+Equus_asinus_asinus	RBMX	ENSEASG00005003390	RNA binding protein	NA
+Equus_asinus_asinus	ACTN2	ENSEASG00005003395	Actin	NA
+Equus_asinus_asinus	VGLL1	ENSEASG00005003434	Vestigial like	NA
+Equus_asinus_asinus	HTATSF1	ENSEASG00005003440	Others	NA
+Equus_asinus_asinus	BEND6	ENSEASG00005003455	Others	NA
+Equus_asinus_asinus	ZNF451	ENSEASG00005003471	Zinc finger	NA
+Equus_asinus_asinus	VEGFA	ENSEASG00005003487	Other_CRF	NA
+Equus_asinus_asinus		ENSEASG00005003542	Bromodomain	NA
+Equus_asinus_asinus	DCC	ENSEASG00005003571	Others	NA
+Equus_asinus_asinus		ENSEASG00005003579	LPIN	NA
+Equus_asinus_asinus		ENSEASG00005003615	Casein	NA
+Equus_asinus_asinus	TRIB3	ENSEASG00005003623	Others	NA
+Equus_asinus_asinus	LRPPRC	ENSEASG00005003715	Others	NA
+Equus_asinus_asinus	HCK	ENSEASG00005003725	Others	NA
+Equus_asinus_asinus	SUPT3H	ENSEASG00005003753	SUPT	NA
+Equus_asinus_asinus	SNAPC2	ENSEASG00005003809	Others	NA
+Equus_asinus_asinus	NCK1	ENSEASG00005003816	Others	NA
+Equus_asinus_asinus	CXXC1	ENSEASG00005003826	Others	NA
+Equus_asinus_asinus	ASXL1	ENSEASG00005003865	Others	NA
+Equus_asinus_asinus	SCAND1	ENSEASG00005003885	Others	NA
+Equus_asinus_asinus	PHF20	ENSEASG00005003889	PHF	NA
+Equus_asinus_asinus	TRIM29	ENSEASG00005003906	Tripartite motif	NA
+Equus_asinus_asinus	RBM39	ENSEASG00005003936	RNA binding protein	NA
+Equus_asinus_asinus	CBL	ENSEASG00005003938	Others	NA
+Equus_asinus_asinus	ZNF593	ENSEASG00005004029	Zinc finger	NA
+Equus_asinus_asinus	MED6	ENSEASG00005004056	Mediator complex	NA
+Equus_asinus_asinus	ARHGAP35	ENSEASG00005004087	Others	NA
+Equus_asinus_asinus	CALR	ENSEASG00005004089	Others	NA
+Equus_asinus_asinus	CDK5	ENSEASG00005004101	Cyclin	NA
+Equus_asinus_asinus	SSBP2	ENSEASG00005004112	Others	NA
+Equus_asinus_asinus		ENSEASG00005004247	TATA-box	NA
+Equus_asinus_asinus	SMARCD1	ENSEASG00005004268	SWI/SNF	NA
+Equus_asinus_asinus	KAT5	ENSEASG00005004292	Lysine acetyltransferase	NA
+Equus_asinus_asinus	JMJD6	ENSEASG00005004303	Others	NA
+Equus_asinus_asinus	SRSF2	ENSEASG00005004319	Others	NA
+Equus_asinus_asinus	PNRC2	ENSEASG00005004353	Others	NA
+Equus_asinus_asinus	SIVA1	ENSEASG00005004404	Others	NA
+Equus_asinus_asinus	CCDC85B	ENSEASG00005004426	Coiled-coil	NA
+Equus_asinus_asinus	DRAP1	ENSEASG00005004446	Others	NA
+Equus_asinus_asinus	ELOF1	ENSEASG00005004534	GTF	NA
+Equus_asinus_asinus	BRF1	ENSEASG00005004538	GTF	NA
+Equus_asinus_asinus	TOPORS	ENSEASG00005004584	Others	NA
+Equus_asinus_asinus	RNF10	ENSEASG00005004717	Ring finger protein	NA
+Equus_asinus_asinus	DPF3	ENSEASG00005004725	DPF	NA
+Equus_asinus_asinus	PSEN1	ENSEASG00005004749	Others	NA
+Equus_asinus_asinus	UXT	ENSEASG00005004768	Others	NA
+Equus_asinus_asinus	TAF1B	ENSEASG00005004803	TATA-box	NA
+Equus_asinus_asinus	ELL3	ENSEASG00005004866	GTF	NA
+Equus_asinus_asinus	RUVBL2	ENSEASG00005004893	Other_CRF	NA
+Equus_asinus_asinus		ENSEASG00005004940	Others	NA
+Equus_asinus_asinus	BCL9L	ENSEASG00005004956	BCL	NA
+Equus_asinus_asinus	BRMS1	ENSEASG00005004974	Other_CRF	NA
+Equus_asinus_asinus	PIH1D1	ENSEASG00005004996	Other_CRF	NA
+Equus_asinus_asinus		ENSEASG00005005004	Lysine methyltransferase	NA
+Equus_asinus_asinus	H1-3	ENSEASG00005005031	Histone cluster 1 H1	NA
+Equus_asinus_asinus	TLE4	ENSEASG00005005032	Transducin	NA
+Equus_asinus_asinus	TLE1	ENSEASG00005005051	Transducin	NA
+Equus_asinus_asinus	RBM14	ENSEASG00005005062	RNA binding protein	NA
+Equus_asinus_asinus	CBX2	ENSEASG00005005069	Chromobox	NA
+Equus_asinus_asinus	CBX8	ENSEASG00005005074	Chromobox	NA
+Equus_asinus_asinus	CBX4	ENSEASG00005005076	Chromobox	NA
+Equus_asinus_asinus	CD3D	ENSEASG00005005079	Others	NA
+Equus_asinus_asinus	SS18	ENSEASG00005005139	SS18	NA
+Equus_asinus_asinus	H1-4	ENSEASG00005005147	Histone cluster 1 H1	NA
+Equus_asinus_asinus	PML	ENSEASG00005005165	Others	NA
+Equus_asinus_asinus	EGLN2	ENSEASG00005005243	Others	NA
+Equus_asinus_asinus	TAF4B	ENSEASG00005005256	TATA-box	NA
+Equus_asinus_asinus	KCTD1	ENSEASG00005005261	Others	NA
+Equus_asinus_asinus	PRMT1	ENSEASG00005005297	Arginine methyltransferase	NA
+Equus_asinus_asinus	RBM15	ENSEASG00005005359	RNA binding protein	NA
+Equus_asinus_asinus	CECR2	ENSEASG00005005371	Other_CRF	NA
+Equus_asinus_asinus	ARL2BP	ENSEASG00005005372	Others	NA
+Equus_asinus_asinus	KDM1A	ENSEASG00005005392	Lysine demethylase	NA
+Equus_asinus_asinus	LRIF1	ENSEASG00005005401	Others	NA
+Equus_asinus_asinus	WDR77	ENSEASG00005005441	WD	NA
+Equus_asinus_asinus	DDX20	ENSEASG00005005454	RNA helicase	NA
+Equus_asinus_asinus	TPR	ENSEASG00005005475	Others	NA
+Equus_asinus_asinus	CSNK2A2	ENSEASG00005005494	Casein	NA
+Equus_asinus_asinus	TLE3	ENSEASG00005005509	Transducin	NA
+Equus_asinus_asinus	SETD6	ENSEASG00005005524	SET	NA
+Equus_asinus_asinus	RPTOR	ENSEASG00005005534	Others	NA
+Equus_asinus_asinus	LDB2	ENSEASG00005005549	LIM	NA
+Equus_asinus_asinus	MED28	ENSEASG00005005557	Mediator complex	NA
+Equus_asinus_asinus	HIPK1	ENSEASG00005005568	HIPK	NA
+Equus_asinus_asinus	TIMELESS	ENSEASG00005005617	Others	NA
+Equus_asinus_asinus	TRIM33	ENSEASG00005005657	Tripartite motif	NA
+Equus_asinus_asinus	PNRC1	ENSEASG00005005685	Others	NA
+Equus_asinus_asinus	RNF2	ENSEASG00005005698	Ring finger protein	NA
+Equus_asinus_asinus	ARHGAP5	ENSEASG00005005703	Others	NA
+Equus_asinus_asinus	BAHCC1	ENSEASG00005005710	Others	NA
+Equus_asinus_asinus	TFB2M	ENSEASG00005005729	Others	NA
+Equus_asinus_asinus	ACTG1	ENSEASG00005005734	Actin	NA
+Equus_asinus_asinus	CNOT1	ENSEASG00005005819	CCR4-NOT	NA
+Equus_asinus_asinus	ALYREF	ENSEASG00005005824	Others	NA
+Equus_asinus_asinus	SIRT7	ENSEASG00005005837	Sirtuin	NA
+Equus_asinus_asinus	KDM2A	ENSEASG00005005843	Lysine demethylase	NA
+Equus_asinus_asinus	KAT2B	ENSEASG00005005848	Lysine acetyltransferase	NA
+Equus_asinus_asinus	RNF141	ENSEASG00005005870	Ring finger protein	NA
+Equus_asinus_asinus	CTR9	ENSEASG00005005878	Others	NA
+Equus_asinus_asinus	AIP	ENSEASG00005005936	Others	NA
+Equus_asinus_asinus	KMT5B	ENSEASG00005006021	Lysine methyltransferase	NA
+Equus_asinus_asinus	CASP8AP2	ENSEASG00005006023	Others	NA
+Equus_asinus_asinus		ENSEASG00005006025	Others	NA
+Equus_asinus_asinus	DSCAM	ENSEASG00005006046	Others	NA
+Equus_asinus_asinus	UFL1	ENSEASG00005006057	Others	NA
+Equus_asinus_asinus	FHL5	ENSEASG00005006061	FHL	NA
+Equus_asinus_asinus	BRWD1	ENSEASG00005006066	Bromodomain	NA
+Equus_asinus_asinus	CHAF1B	ENSEASG00005006101	Others	NA
+Equus_asinus_asinus	SMARCA4	ENSEASG00005006167	SWI/SNF	NA
+Equus_asinus_asinus	CNOT10	ENSEASG00005006189	CCR4-NOT	NA
+Equus_asinus_asinus		ENSEASG00005006243	ANP	NA
+Equus_asinus_asinus	ELL	ENSEASG00005006252	GTF	NA
+Equus_asinus_asinus	SKOR1	ENSEASG00005006277	SKI	NA
+Equus_asinus_asinus	CRTC1	ENSEASG00005006280	CREB	NA
+Equus_asinus_asinus	CCNC	ENSEASG00005006285	Cyclin	NA
+Equus_asinus_asinus		ENSEASG00005006302	Others	NA
+Equus_asinus_asinus	ASCC3	ENSEASG00005006324	ASCC	NA
+Equus_asinus_asinus	TGFB1	ENSEASG00005006336	Others	NA
+Equus_asinus_asinus	NAB2	ENSEASG00005006368	Others	NA
+Equus_asinus_asinus	RBBP5	ENSEASG00005006372	RBBP	NA
+Equus_asinus_asinus		ENSEASG00005006374	Others	NA
+Equus_asinus_asinus	SNAPC5	ENSEASG00005006384	Others	NA
+Equus_asinus_asinus	NOTCH2	ENSEASG00005006436	Notch	NA
+Equus_asinus_asinus	BEND3	ENSEASG00005006441	Others	NA
+Equus_asinus_asinus	TAF9B	ENSEASG00005006471	TATA-box	NA
+Equus_asinus_asinus	TRIP4	ENSEASG00005006538	Thyroid hormone receptor	NA
+Equus_asinus_asinus	DHX9	ENSEASG00005006589	RNA helicase	NA
+Equus_asinus_asinus	NDUFA13	ENSEASG00005006610	Others	NA
+Equus_asinus_asinus	MED21	ENSEASG00005006670	Mediator complex	NA
+Equus_asinus_asinus	JUP	ENSEASG00005006685	Others	NA
+Equus_asinus_asinus	ICE2	ENSEASG00005006725	GTF	NA
+Equus_asinus_asinus	BLM	ENSEASG00005006727	Others	NA
+Equus_asinus_asinus	RNF168	ENSEASG00005006733	Ring finger protein	NA
+Equus_asinus_asinus	GTF2A2	ENSEASG00005006771	GTF	NA
+Equus_asinus_asinus	CDK7	ENSEASG00005006775	Cyclin	NA
+Equus_asinus_asinus	RUVBL1	ENSEASG00005006781	Other_CRF	NA
+Equus_asinus_asinus	RNF111	ENSEASG00005006789	Ring finger protein	NA
+Equus_asinus_asinus	SLTM	ENSEASG00005006792	Others	NA
+Equus_asinus_asinus	PIK3R1	ENSEASG00005006796	Others	NA
+Equus_asinus_asinus	ERBIN	ENSEASG00005006839	Erbb2	NA
+Equus_asinus_asinus	ALPK3	ENSEASG00005006923	Others	NA
+Equus_asinus_asinus		ENSEASG00005006972	Others	NA
+Equus_asinus_asinus	SLC19A1	ENSEASG00005007070	SLC	NA
+Equus_asinus_asinus	SAP130	ENSEASG00005007077	SAP	NA
+Equus_asinus_asinus		ENSEASG00005007153	SET	NA
+Equus_asinus_asinus	CRYM	ENSEASG00005007183	Others	NA
+Equus_asinus_asinus	WAC	ENSEASG00005007207	WW	NA
+Equus_asinus_asinus	COMMD1	ENSEASG00005007231	Others	NA
+Equus_asinus_asinus	WNT4	ENSEASG00005007274	Others	NA
+Equus_asinus_asinus	PELI1	ENSEASG00005007279	Others	NA
+Equus_asinus_asinus	SERTAD2	ENSEASG00005007294	Others	NA
+Equus_asinus_asinus	C1D	ENSEASG00005007307	Other_Co-activator/repressors	NA
+Equus_asinus_asinus	CHD1L	ENSEASG00005007364	CHD	NA
+Equus_asinus_asinus	ANXA4	ENSEASG00005007367	Others	NA
+Equus_asinus_asinus	BCL9	ENSEASG00005007373	BCL	NA
+Equus_asinus_asinus	PER2	ENSEASG00005007415	Others	NA
+Equus_asinus_asinus	POLR3C	ENSEASG00005007417	POLR	NA
+Equus_asinus_asinus	HDAC4	ENSEASG00005007428	Histone deacetylase	NA
+Equus_asinus_asinus	CCNT2	ENSEASG00005007433	Cyclin	NA
+Equus_asinus_asinus	PIDD1	ENSEASG00005007441	Others	NA
+Equus_asinus_asinus	ITCH	ENSEASG00005007446	Others	NA
+Equus_asinus_asinus	TXNIP	ENSEASG00005007477	Others	NA
+Equus_asinus_asinus	CARM1	ENSEASG00005007536	Others	NA
+Equus_asinus_asinus	MED25	ENSEASG00005007549	Mediator complex	NA
+Equus_asinus_asinus	BRMS1L	ENSEASG00005007558	Other_CRF	NA
+Equus_asinus_asinus	PPRC1	ENSEASG00005007583	Others	NA
+Equus_asinus_asinus	LDB1	ENSEASG00005007592	LIM	NA
+Equus_asinus_asinus	ZNF638	ENSEASG00005007611	Zinc finger	NA
+Equus_asinus_asinus	CTNNB1	ENSEASG00005007634	Casein	NA
+Equus_asinus_asinus	GMNN	ENSEASG00005007649	Others	NA
+Equus_asinus_asinus	TDP2	ENSEASG00005007656	Others	NA
+Equus_asinus_asinus	TRAK1	ENSEASG00005007734	Others	NA
+Equus_asinus_asinus	CCND1	ENSEASG00005007754	Cyclin	NA
+Equus_asinus_asinus	FGF3	ENSEASG00005007766	FGF	NA
+Equus_asinus_asinus	CTH	ENSEASG00005007840	Others	NA
+Equus_asinus_asinus	MAML3	ENSEASG00005007858	MAML	NA
+Equus_asinus_asinus	DEPDC1	ENSEASG00005007861	Others	NA
+Equus_asinus_asinus	SETD7	ENSEASG00005007862	SET	NA
+Equus_asinus_asinus	NAA15	ENSEASG00005007865	Others	NA
+Equus_asinus_asinus	SS18L2	ENSEASG00005007911	SS18	NA
+Equus_asinus_asinus	GRIP1	ENSEASG00005007974	Others	NA
+Equus_asinus_asinus	PPARGC1A	ENSEASG00005007984	Others	NA
+Equus_asinus_asinus	MDM2	ENSEASG00005008055	Others	NA
+Equus_asinus_asinus	LIMD1	ENSEASG00005008060	LIM	NA
+Equus_asinus_asinus	CNOT2	ENSEASG00005008113	CCR4-NOT	NA
+Equus_asinus_asinus	SETD2	ENSEASG00005008173	SET	NA
+Equus_asinus_asinus	ITGB3BP	ENSEASG00005008189	Others	NA
+Equus_asinus_asinus	LPIN1	ENSEASG00005008245	LPIN	NA
+Equus_asinus_asinus	SAV1	ENSEASG00005008294	Others	NA
+Equus_asinus_asinus		ENSEASG00005008327	SSX	NA
+Equus_asinus_asinus	DPY30	ENSEASG00005008344	Others	NA
+Equus_asinus_asinus	HDAC2	ENSEASG00005008358	Histone deacetylase	NA
+Equus_asinus_asinus	FRK	ENSEASG00005008367	Others	NA
+Equus_asinus_asinus	ABL1	ENSEASG00005008482	Others	NA
+Equus_asinus_asinus	NCL	ENSEASG00005008488	Others	NA
+Equus_asinus_asinus	SLC30A9	ENSEASG00005008496	SLC	NA
+Equus_asinus_asinus	RALY	ENSEASG00005008501	Others	NA
+Equus_asinus_asinus	SND1	ENSEASG00005008513	Others	NA
+Equus_asinus_asinus	CBFA2T2	ENSEASG00005008552	Others	NA
+Equus_asinus_asinus	LBH	ENSEASG00005008659	Others	NA
+Equus_asinus_asinus	ANKRD2	ENSEASG00005008671	Ankyrin repeat	NA
+Equus_asinus_asinus	MMS19	ENSEASG00005008675	Others	NA
+Equus_asinus_asinus	WDTC1	ENSEASG00005008688	WD	NA
+Equus_asinus_asinus	SUDS3	ENSEASG00005008761	Other_Co-activator/repressors	NA
+Equus_asinus_asinus	AUTS2	ENSEASG00005008787	Others	NA
+Equus_asinus_asinus	NPM3	ENSEASG00005008834	Nucleoplasmin	NA
+Equus_asinus_asinus	CHCHD2	ENSEASG00005008851	Coiled-coil	NA
+Equus_asinus_asinus	BTRC	ENSEASG00005008887	Others	NA
+Equus_asinus_asinus	ING3	ENSEASG00005008942	ING	NA
+Equus_asinus_asinus	TGFB1I1	ENSEASG00005008944	Others	NA
+Equus_asinus_asinus	HIF1AN	ENSEASG00005008969	Others	NA
+Equus_asinus_asinus	EZH2	ENSEASG00005009027	Others	NA
+Equus_asinus_asinus		ENSEASG00005009042	CAMK	NA
+Equus_asinus_asinus	SUPT7L	ENSEASG00005009076	SUPT	NA
+Equus_asinus_asinus	VGLL2	ENSEASG00005009087	Vestigial like	NA
+Equus_asinus_asinus	TAB1	ENSEASG00005009125	Others	NA
+Equus_asinus_asinus	ARHGEF5	ENSEASG00005009148	Others	NA
+Equus_asinus_asinus	ASF1A	ENSEASG00005009179	Others	NA
+Equus_asinus_asinus	KAT2A	ENSEASG00005009207	Lysine acetyltransferase	NA
+Equus_asinus_asinus	DEK	ENSEASG00005009263	Other_CRF	NA
+Equus_asinus_asinus	CHUK	ENSEASG00005009284	Others	NA
+Equus_asinus_asinus	KDM1B	ENSEASG00005009294	Lysine demethylase	NA
+Equus_asinus_asinus	TESC	ENSEASG00005009332	Others	NA
+Equus_asinus_asinus	DDX1	ENSEASG00005009335	RNA helicase	NA
+Equus_asinus_asinus	ACTN1	ENSEASG00005009340	Actin	NA
+Equus_asinus_asinus		ENSEASG00005009367	Others	NA
+Equus_asinus_asinus	NCOA7	ENSEASG00005009391	Nuclear receptor coactivator	NA
+Equus_asinus_asinus	MED13L	ENSEASG00005009404	Mediator complex	NA
+Equus_asinus_asinus	RITA1	ENSEASG00005009495	Others	NA
+Equus_asinus_asinus	DDX54	ENSEASG00005009501	RNA helicase	NA
+Equus_asinus_asinus	DTX1	ENSEASG00005009513	Others	NA
+Equus_asinus_asinus	EYA3	ENSEASG00005009517	EYA	NA
+Equus_asinus_asinus	CITED2	ENSEASG00005009541	CITED	NA
+Equus_asinus_asinus	TOP1MT	ENSEASG00005009563	Other_CRF	NA
+Equus_asinus_asinus	CRK	ENSEASG00005009612	Others	NA
+Equus_asinus_asinus	PUF60	ENSEASG00005009695	Others	NA
+Equus_asinus_asinus	PARP10	ENSEASG00005009729	PARP	NA
+Equus_asinus_asinus	MED23	ENSEASG00005009748	Mediator complex	NA
+Equus_asinus_asinus	MED27	ENSEASG00005009807	Mediator complex	NA
+Equus_asinus_asinus	PHF12	ENSEASG00005009854	PHF	NA
+Equus_asinus_asinus		ENSEASG00005009875	CAMK	NA
+Equus_asinus_asinus	MED22	ENSEASG00005009889	Mediator complex	NA
+Equus_asinus_asinus	SUPT6H	ENSEASG00005009905	SUPT	NA
+Equus_asinus_asinus	KDM7A	ENSEASG00005009924	Lysine demethylase	NA
+Equus_asinus_asinus	HIPK2	ENSEASG00005009930	HIPK	NA
+Equus_asinus_asinus	CHEK2	ENSEASG00005009943	Others	NA
+Equus_asinus_asinus	PFDN5	ENSEASG00005009949	Others	NA
+Equus_asinus_asinus	CAVIN1	ENSEASG00005009963	Others	NA
+Equus_asinus_asinus	TP53BP1	ENSEASG00005009977	Others	NA
+Equus_asinus_asinus	NLK	ENSEASG00005009990	Others	NA
+Equus_asinus_asinus	LEO1	ENSEASG00005010002	Others	NA
+Equus_asinus_asinus	EZH1	ENSEASG00005010032	Others	NA
+Equus_asinus_asinus	MED18	ENSEASG00005010034	Mediator complex	NA
+Equus_asinus_asinus	EWSR1	ENSEASG00005010055	Others	NA
+Equus_asinus_asinus	THOC5	ENSEASG00005010083	Others	NA
+Equus_asinus_asinus	POU2AF1	ENSEASG00005010084	Others	NA
+Equus_asinus_asinus	CALCOCO1	ENSEASG00005010125	Others	NA
+Equus_asinus_asinus	TAF12	ENSEASG00005010142	TATA-box	NA
+Equus_asinus_asinus	HDAC5	ENSEASG00005010164	Histone deacetylase	NA
+Equus_asinus_asinus	CBX5	ENSEASG00005010165	Chromobox	NA
+Equus_asinus_asinus	ATXN7L3	ENSEASG00005010185	Others	NA
+Equus_asinus_asinus	ASCC2	ENSEASG00005010196	ASCC	NA
+Equus_asinus_asinus	EPC1	ENSEASG00005010243	Others	NA
+Equus_asinus_asinus	KANK1	ENSEASG00005010292	Others	NA
+Equus_asinus_asinus	SMARCA2	ENSEASG00005010312	SWI/SNF	NA
+Equus_asinus_asinus		ENSEASG00005010335	Zinc finger	NA
+Equus_asinus_asinus		ENSEASG00005010413	HNRNP	NA
+Equus_asinus_asinus	HEXIM1	ENSEASG00005010424	Others	NA
+Equus_asinus_asinus	HEXIM2	ENSEASG00005010425	Others	NA
+Equus_asinus_asinus	SUPT16H	ENSEASG00005010478	SUPT	NA
+Equus_asinus_asinus	HIRA	ENSEASG00005010492	Others	NA
+Equus_asinus_asinus	DNMT1	ENSEASG00005010561	DNA_methylase	NA
+Equus_asinus_asinus		ENSEASG00005010602	INO80 complex	NA
+Equus_asinus_asinus	PIN1	ENSEASG00005010611	Others	NA
+Equus_asinus_asinus		ENSEASG00005010617	Others	NA
+Equus_asinus_asinus	PCGF1	ENSEASG00005010644	PCGF	NA
+Equus_asinus_asinus	JAK2	ENSEASG00005010656	Others	NA
+Equus_asinus_asinus	BRD3	ENSEASG00005010664	Bromodomain	NA
+Equus_asinus_asinus	WDR5	ENSEASG00005010670	WD	NA
+Equus_asinus_asinus	LOXL3	ENSEASG00005010672	Others	NA
+Equus_asinus_asinus	DNMT3A	ENSEASG00005010712	DNA_methylase	NA
+Equus_asinus_asinus	KDM4C	ENSEASG00005010714	Lysine demethylase	NA
+Equus_asinus_asinus	NPAT	ENSEASG00005010737	Nuclear coactivator	NA
+Equus_asinus_asinus	CITED1	ENSEASG00005010784	CITED	NA
+Equus_asinus_asinus	TONSL	ENSEASG00005010791	Others	NA
+Equus_asinus_asinus	PHF8	ENSEASG00005010838	PHF	NA
+Equus_asinus_asinus	SMARCB1	ENSEASG00005010845	SWI/SNF	NA
+Equus_asinus_asinus	COPRS	ENSEASG00005010869	Others	NA
+Equus_asinus_asinus	SUZ12	ENSEASG00005010872	Others	NA
+Equus_asinus_asinus	CHD8	ENSEASG00005010882	CHD	NA
+Equus_asinus_asinus	CDK5R1	ENSEASG00005010912	Cyclin	NA
+Equus_asinus_asinus	TRADD	ENSEASG00005011002	Others	NA
+Equus_asinus_asinus	ANKRD1	ENSEASG00005011051	Ankyrin repeat	NA
+Equus_asinus_asinus	PCGF5	ENSEASG00005011054	PCGF	NA
+Equus_asinus_asinus	PYCARD	ENSEASG00005011068	Others	NA
+Equus_asinus_asinus	BTAF1	ENSEASG00005011085	Others	NA
+Equus_asinus_asinus	EYA4	ENSEASG00005011112	EYA	NA
+Equus_asinus_asinus	KAT8	ENSEASG00005011119	Lysine acetyltransferase	NA
+Equus_asinus_asinus	SGK1	ENSEASG00005011126	Others	NA
+Equus_asinus_asinus	BIRC2	ENSEASG00005011141	Others	NA
+Equus_asinus_asinus	YAP1	ENSEASG00005011146	Others	NA
+Equus_asinus_asinus		ENSEASG00005011195	SET	NA
+Equus_asinus_asinus	TAF15	ENSEASG00005011235	TATA-box	NA
+Equus_asinus_asinus	NFKBIZ	ENSEASG00005011239	NFKB associated	NA
+Equus_asinus_asinus		ENSEASG00005011274	Lysine demethylase	NA
+Equus_asinus_asinus	DPPA2	ENSEASG00005011338	Others	NA
+Equus_asinus_asinus	TAF6L	ENSEASG00005011361	TATA-box	NA
+Equus_asinus_asinus	RRN3	ENSEASG00005011372	Others	NA
+Equus_asinus_asinus	MRTFB	ENSEASG00005011411	Others	NA
+Equus_asinus_asinus	MDM4	ENSEASG00005011431	Others	NA
+Equus_asinus_asinus	MED14	ENSEASG00005011439	Mediator complex	NA
+Equus_asinus_asinus		ENSEASG00005011454	Other_Co-activator/repressors	NA
+Equus_asinus_asinus		ENSEASG00005011477	Others	NA
+Equus_asinus_asinus	TRIM24	ENSEASG00005011500	Tripartite motif	NA
+Equus_asinus_asinus	CIITA	ENSEASG00005011531	Others	NA
+Equus_asinus_asinus	SERTAD3	ENSEASG00005011540	Others	NA
+Equus_asinus_asinus	PRMT5	ENSEASG00005011697	Arginine methyltransferase	NA
+Equus_asinus_asinus	AJUBA	ENSEASG00005011699	Others	NA
+Equus_asinus_asinus	HDAC1	ENSEASG00005011737	Histone deacetylase	NA
+Equus_asinus_asinus	RBBP4	ENSEASG00005011751	RBBP	NA
+Equus_asinus_asinus	HELLS	ENSEASG00005011764	Others	NA
+Equus_asinus_asinus	DYRK1B	ENSEASG00005011791	Others	NA
+Equus_asinus_asinus	EID2	ENSEASG00005011797	EID	NA
+Equus_asinus_asinus	SIRT5	ENSEASG00005011847	Sirtuin	NA
+Equus_asinus_asinus	SUPT5H	ENSEASG00005011861	SUPT	NA
+Equus_asinus_asinus	MAK	ENSEASG00005011893	Others	NA
+Equus_asinus_asinus	NPM1	ENSEASG00005011903	Nucleoplasmin	NA
+Equus_asinus_asinus	FBXW11	ENSEASG00005011915	Others	NA
+Equus_asinus_asinus	NEDD8	ENSEASG00005011977	Others	NA
+Equus_asinus_asinus	TAF5L	ENSEASG00005012053	TATA-box	NA
+Equus_asinus_asinus	AGO1	ENSEASG00005012086	Others	NA
+Equus_asinus_asinus	NKAPL	ENSEASG00005012099	NFKB associated	NA
+Equus_asinus_asinus		ENSEASG00005012117	Chromodomain Y	NA
+Equus_asinus_asinus	TRIM27	ENSEASG00005012145	Tripartite motif	NA
+Equus_asinus_asinus	THRAP3	ENSEASG00005012182	Thyroid hormone receptor	NA
+Equus_asinus_asinus	MEAF6	ENSEASG00005012221	Others	NA
+Equus_asinus_asinus	SNIP1	ENSEASG00005012223	Others	NA
+Equus_asinus_asinus	STK36	ENSEASG00005012230	Others	NA
+Equus_asinus_asinus	RIPK3	ENSEASG00005012243	Others	NA
+Equus_asinus_asinus		ENSEASG00005012254	Mediator complex	NA
+Equus_asinus_asinus	RNF25	ENSEASG00005012269	Ring finger protein	NA
+Equus_asinus_asinus	TENM2	ENSEASG00005012271	Others	NA
+Equus_asinus_asinus	NSD1	ENSEASG00005012272	Nuclear receptor coactivator	NA
+Equus_asinus_asinus	TAF1D	ENSEASG00005012293	TATA-box	NA
+Equus_asinus_asinus	CNOT9	ENSEASG00005012317	CCR4-NOT	NA
+Equus_asinus_asinus	KDM2B	ENSEASG00005012330	Lysine demethylase	NA
+Equus_asinus_asinus	CTDSP1	ENSEASG00005012367	Others	NA
+Equus_asinus_asinus	SETD1B	ENSEASG00005012369	SET	NA
+Equus_asinus_asinus		ENSEASG00005012374	Others	NA
+Equus_asinus_asinus	SMARCAD1	ENSEASG00005012382	SWI/SNF	NA
+Equus_asinus_asinus	SRFBP1	ENSEASG00005012421	Others	NA
+Equus_asinus_asinus	WWC1	ENSEASG00005012502	WW	NA
+Equus_asinus_asinus	GSK3B	ENSEASG00005012514	Others	NA
+Equus_asinus_asinus	CCDC62	ENSEASG00005012519	Coiled-coil	NA
+Equus_asinus_asinus	GTF2E1	ENSEASG00005012545	GTF	NA
+Equus_asinus_asinus	KAT6A	ENSEASG00005012547	Lysine acetyltransferase	NA
+Equus_asinus_asinus	FHOD1	ENSEASG00005012549	Others	NA
+Equus_asinus_asinus	IKBKB	ENSEASG00005012552	Others	NA
+Equus_asinus_asinus	TNP1	ENSEASG00005012563	Other_CRF	NA
+Equus_asinus_asinus	KMT5A	ENSEASG00005012603	Lysine methyltransferase	NA
+Equus_asinus_asinus	MAML1	ENSEASG00005012652	MAML	NA
+Equus_asinus_asinus	SQSTM1	ENSEASG00005012658	Others	NA
+Equus_asinus_asinus	EED	ENSEASG00005012683	Others	NA
+Equus_asinus_asinus	PICALM	ENSEASG00005012685	Others	NA
+Equus_asinus_asinus	GTF2H3	ENSEASG00005012773	GTF	NA
+Equus_asinus_asinus		ENSEASG00005012794	CCR4-NOT	NA
+Equus_asinus_asinus	MED29	ENSEASG00005012803	Mediator complex	NA
+Equus_asinus_asinus		ENSEASG00005012805	Others	NA
+Equus_asinus_asinus	SAMD4B	ENSEASG00005012808	Others	NA
+Equus_asinus_asinus		ENSEASG00005012830	Others	NA
+Equus_asinus_asinus	RBM15B	ENSEASG00005012861	RNA binding protein	NA
+Equus_asinus_asinus	DCAF1	ENSEASG00005012863	Others	NA
+Equus_asinus_asinus	KDM6A	ENSEASG00005012884	Lysine demethylase	NA
+Equus_asinus_asinus	GTF2H1	ENSEASG00005012908	GTF	NA
+Equus_asinus_asinus	TSG101	ENSEASG00005012943	Others	NA
+Equus_asinus_asinus	TAB3	ENSEASG00005012955	Others	NA
+Equus_asinus_asinus	ACTN4	ENSEASG00005013002	Actin	NA
+Equus_asinus_asinus	CSRP3	ENSEASG00005013022	Others	NA
+Equus_asinus_asinus	HTATIP2	ENSEASG00005013040	Others	NA
+Equus_asinus_asinus	PAGR1	ENSEASG00005013181	Others	NA
+Equus_asinus_asinus	PDLIM1	ENSEASG00005013189	Others	NA
+Equus_asinus_asinus	RAN	ENSEASG00005013202	Others	NA
+Equus_asinus_asinus	GTF2B	ENSEASG00005013218	GTF	NA
+Equus_asinus_asinus	FHL3	ENSEASG00005013273	FHL	NA
+Equus_asinus_asinus		ENSEASG00005013282	MYC	NA
+Equus_asinus_asinus	LIN9	ENSEASG00005013290	Others	NA
+Equus_asinus_asinus	MCIDAS	ENSEASG00005013298	Others	NA
+Equus_asinus_asinus	LMCD1	ENSEASG00005013302	LIM	NA
+Equus_asinus_asinus	CGGBP1	ENSEASG00005013379	Others	NA
+Equus_asinus_asinus	ERBB4	ENSEASG00005013381	Erbb2	NA
+Equus_asinus_asinus	VGLL3	ENSEASG00005013392	Vestigial like	NA
+Equus_asinus_asinus	LIN54	ENSEASG00005013413	Others	NA
+Equus_asinus_asinus	ELP4	ENSEASG00005013447	ELP	NA
+Equus_asinus_asinus	TERF2IP	ENSEASG00005013503	Others	NA
+Equus_asinus_asinus	TRAF6	ENSEASG00005013534	Others	NA
+Equus_asinus_asinus	WWOX	ENSEASG00005013576	WW	NA
+Equus_asinus_asinus	CDYL2	ENSEASG00005013589	Chromodomain Y	NA
+Equus_asinus_asinus	NRIP1	ENSEASG00005013646	Nuclear receptor coactivator	NA
+Equus_asinus_asinus	BCL3	ENSEASG00005013684	BCL	NA
+Equus_asinus_asinus	HSBP1	ENSEASG00005013696	Heat shock protein	NA
+Equus_asinus_asinus	TAF1C	ENSEASG00005013733	TATA-box	NA
+Equus_asinus_asinus	INSR	ENSEASG00005013740	Others	NA
+Equus_asinus_asinus	ERCC2	ENSEASG00005013856	Others	NA
+Equus_asinus_asinus	PHF2	ENSEASG00005013862	PHF	NA
+Equus_asinus_asinus	THRSP	ENSEASG00005013876	Others	NA
+Equus_asinus_asinus	RSF1	ENSEASG00005013881	Others	NA
+Equus_asinus_asinus	DAB2	ENSEASG00005013938	Others	NA
+Equus_asinus_asinus	SMARCD2	ENSEASG00005013940	SWI/SNF	NA
+Equus_asinus_asinus	MYCBP2	ENSEASG00005013947	MYC	NA
+Equus_asinus_asinus	SYK	ENSEASG00005013986	Others	NA
+Equus_asinus_asinus	EDRF1	ENSEASG00005014012	Others	NA
+Equus_asinus_asinus	SPAG8	ENSEASG00005014039	Others	NA
+Equus_asinus_asinus	HINT2	ENSEASG00005014042	Others	NA
+Equus_asinus_asinus	CDKN1C	ENSEASG00005014083	Cyclin	NA
+Equus_asinus_asinus		ENSEASG00005014118	Others	NA
+Equus_asinus_asinus	EMSY	ENSEASG00005014219	Others	NA
+Equus_asinus_asinus	MYBBP1A	ENSEASG00005014231	MYB	NA
+Equus_asinus_asinus	ARRB1	ENSEASG00005014253	Others	NA
+Equus_asinus_asinus	MTPN	ENSEASG00005014260	Others	NA
+Equus_asinus_asinus	NOTCH4	ENSEASG00005014269	Notch	NA
+Equus_asinus_asinus		ENSEASG00005014284	Others	NA
+Equus_asinus_asinus	NIPBL	ENSEASG00005014299	Others	NA
+Equus_asinus_asinus	VGLL4	ENSEASG00005014301	Vestigial like	NA
+Equus_asinus_asinus	DVL3	ENSEASG00005014334	Others	NA
+Equus_asinus_asinus	HCLS1	ENSEASG00005014348	Others	NA
+Equus_asinus_asinus	NSMCE4A	ENSEASG00005014412	EID	NA
+Equus_asinus_asinus	ERN1	ENSEASG00005014413	Others	NA
+Equus_asinus_asinus	SKI	ENSEASG00005014420	SKI	NA
+Equus_asinus_asinus	FGFR2	ENSEASG00005014428	FGF	NA
+Equus_asinus_asinus	SSU72	ENSEASG00005014497	Others	NA
+Equus_asinus_asinus	AURKAIP1	ENSEASG00005014521	Others	NA
+Equus_asinus_asinus	BRD7	ENSEASG00005014566	Bromodomain	NA
+Equus_asinus_asinus	NOD2	ENSEASG00005014576	Others	NA
+Equus_asinus_asinus	SSBP3	ENSEASG00005014580	Others	NA
+Equus_asinus_asinus	STRAP	ENSEASG00005014608	Others	NA
+Equus_asinus_asinus	INO80E	ENSEASG00005014612	INO80 complex	NA
+Equus_asinus_asinus	ATF7IP	ENSEASG00005014635	Others	NA
+Equus_asinus_asinus	GNL3	ENSEASG00005014636	Others	NA
+Equus_asinus_asinus	CDKN1B	ENSEASG00005014659	Cyclin	NA
+Equus_asinus_asinus	MED12	ENSEASG00005014678	Mediator complex	NA
+Equus_asinus_asinus	DDX5	ENSEASG00005014694	RNA helicase	NA
+Equus_asinus_asinus	SGF29	ENSEASG00005014751	Others	NA
+Equus_asinus_asinus	CHCHD3	ENSEASG00005014756	Coiled-coil	NA
+Equus_asinus_asinus	RAF1	ENSEASG00005014777	Others	NA
+Equus_asinus_asinus	CHD9	ENSEASG00005014832	CHD	NA
+Equus_asinus_asinus	PINK1	ENSEASG00005014843	Others	NA
+Equus_asinus_asinus	SFMBT1	ENSEASG00005014896	Others	NA
+Equus_asinus_asinus	PDCD4	ENSEASG00005014903	Others	NA
+Equus_asinus_asinus	PHF21A	ENSEASG00005014943	PHF	NA
+Equus_asinus_asinus	TCERG1L	ENSEASG00005014950	TEF	NA
+Equus_asinus_asinus	CDK1	ENSEASG00005015011	Cyclin	NA
+Equus_asinus_asinus	NRBF2	ENSEASG00005015053	Nuclear receptor coactivator	NA
+Equus_asinus_asinus	JMJD1C	ENSEASG00005015055	Other_CRF	NA
+Equus_asinus_asinus	SFR1	ENSEASG00005015065	Others	NA
+Equus_asinus_asinus		ENSEASG00005015070	Others	NA
+Equus_asinus_asinus		ENSEASG00005015086	HNRNP	NA
+Equus_asinus_asinus	NOC2L	ENSEASG00005015108	Others	NA
+Equus_asinus_asinus	EAF2	ENSEASG00005015156	Others	NA
+Equus_asinus_asinus	PCGF6	ENSEASG00005015173	PCGF	NA
+Equus_asinus_asinus	TRIM8	ENSEASG00005015212	Tripartite motif	NA
+Equus_asinus_asinus	SUFU	ENSEASG00005015216	Others	NA
+Equus_asinus_asinus	DNAJB1	ENSEASG00005015239	Others	NA
+Equus_asinus_asinus	YEATS2	ENSEASG00005015265	Others	NA
+Equus_asinus_asinus	ASF1B	ENSEASG00005015285	Others	NA
+Equus_asinus_asinus	MED31	ENSEASG00005015325	Mediator complex	NA
+Equus_asinus_asinus	DHX33	ENSEASG00005015338	RNA helicase	NA
+Equus_asinus_asinus	SIRT1	ENSEASG00005015345	Sirtuin	NA
+Equus_asinus_asinus	AEN	ENSEASG00005015361	Others	NA
+Equus_asinus_asinus	C1QBP	ENSEASG00005015362	Others	NA
+Equus_asinus_asinus	SIRT3	ENSEASG00005015385	Sirtuin	NA
+Equus_asinus_asinus	HDAC11	ENSEASG00005015454	Histone deacetylase	NA
+Equus_asinus_asinus	RPAP2	ENSEASG00005015507	Others	NA
+Equus_asinus_asinus	MORF4L1	ENSEASG00005015513	Other_CRF	NA
+Equus_asinus_asinus	MTF2	ENSEASG00005015530	Others	NA
+Equus_asinus_asinus	NELFE	ENSEASG00005015538	GTF	NA
+Equus_asinus_asinus	TDRD3	ENSEASG00005015575	Others	NA
+Equus_asinus_asinus	CAMK4	ENSEASG00005015581	CAMK	NA
+Equus_asinus_asinus	ACTR8	ENSEASG00005015582	ACTR	NA
+Equus_asinus_asinus	DR1	ENSEASG00005015585	Others	NA
+Equus_asinus_asinus	DNTTIP2	ENSEASG00005015594	Others	NA
+Equus_asinus_asinus	WDR61	ENSEASG00005015618	WD	NA
+Equus_asinus_asinus	EHMT2	ENSEASG00005015655	Histone lysine methyltransferase	NA
+Equus_asinus_asinus		ENSEASG00005015667	Heat shock protein	NA
+Equus_asinus_asinus	RWDD3	ENSEASG00005015716	Others	NA
+Equus_asinus_asinus	SIN3A	ENSEASG00005015722	Other_CRF	NA
+Equus_asinus_asinus	SMURF2	ENSEASG00005015750	Others	NA
+Equus_asinus_asinus	PADI4	ENSEASG00005015765	Others	NA
+Equus_asinus_asinus	PADI2	ENSEASG00005015774	Other_CRF	NA
+Equus_asinus_asinus	PLRG1	ENSEASG00005015833	Others	NA
+Equus_asinus_asinus	BPTF	ENSEASG00005015848	Bromodomain	NA
+Equus_asinus_asinus	FBXW7	ENSEASG00005015861	Others	NA
+Equus_asinus_asinus	NOL11	ENSEASG00005015876	Nuclear coactivator	NA
+Equus_asinus_asinus	SPEN	ENSEASG00005015911	Others	NA
+Equus_asinus_asinus		ENSEASG00005015973	MAGE	NA
+Equus_asinus_asinus	BAZ1B	ENSEASG00005015994	Bromodomain	NA
+Equus_asinus_asinus	MACROH2A2	ENSEASG00005016040	Others	NA
+Equus_asinus_asinus	NELFB	ENSEASG00005016044	GTF	NA
+Equus_asinus_asinus	ATN1	ENSEASG00005016064	Others	NA
+Equus_asinus_asinus	PCBD1	ENSEASG00005016090	Others	NA
+Equus_asinus_asinus	SKOR2	ENSEASG00005016101	SKI	NA
+Equus_asinus_asinus	CHD1	ENSEASG00005016110	CHD	NA
+Equus_asinus_asinus	MNAT1	ENSEASG00005016125	Others	NA
+Equus_asinus_asinus	ING4	ENSEASG00005016144	ING	NA
+Equus_asinus_asinus	KDM5C	ENSEASG00005016149	Lysine demethylase	NA
+Equus_asinus_asinus		ENSEASG00005016150	CHD	NA
+Equus_asinus_asinus	RGCC	ENSEASG00005016169	Others	NA
+Equus_asinus_asinus	DACT1	ENSEASG00005016185	Others	NA
+Equus_asinus_asinus	CHD7	ENSEASG00005016258	CHD	NA
+Equus_asinus_asinus	HNRNPD	ENSEASG00005016278	HNRNP	NA
+Equus_asinus_asinus	CLU	ENSEASG00005016294	Others	NA
+Equus_asinus_asinus	RUNX1T1	ENSEASG00005016311	Others	NA
+Equus_asinus_asinus	ELP3	ENSEASG00005016324	ELP	NA
+Equus_asinus_asinus	SDR16C5	ENSEASG00005016356	Others	NA
+Equus_asinus_asinus	TGS1	ENSEASG00005016371	Others	NA
+Equus_asinus_asinus	RTF1	ENSEASG00005016378	Others	NA
+Equus_asinus_asinus	INO80	ENSEASG00005016405	INO80 complex	NA
+Equus_asinus_asinus	CNOT6L	ENSEASG00005016429	CCR4-NOT	NA
+Equus_asinus_asinus	SFSWAP	ENSEASG00005016502	Others	NA
+Equus_asinus_asinus	PARP9	ENSEASG00005016538	PARP	NA
+Equus_asinus_asinus	ASCC1	ENSEASG00005016551	ASCC	NA
+Equus_asinus_asinus	PARP14	ENSEASG00005016553	PARP	NA
+Equus_asinus_asinus		ENSEASG00005016567	Others	NA
+Equus_asinus_asinus	PAK6	ENSEASG00005016572	Others	NA
+Equus_asinus_asinus	ELP2	ENSEASG00005016579	ELP	NA
+Equus_asinus_asinus	RPRD1A	ENSEASG00005016585	Others	NA
+Equus_asinus_asinus	INO80C	ENSEASG00005016596	INO80 complex	NA
+Equus_asinus_asinus	FGFR1	ENSEASG00005016646	FGF	NA
+Equus_asinus_asinus	COPS2	ENSEASG00005016680	Others	NA
+Equus_asinus_asinus	ASH2L	ENSEASG00005016686	Others	NA
+Equus_asinus_asinus	BRF2	ENSEASG00005016697	GTF	NA
+Equus_asinus_asinus	ZNF703	ENSEASG00005016710	Zinc finger	NA
+Equus_asinus_asinus	DUSP26	ENSEASG00005016741	Others	NA
+Equus_asinus_asinus	NRG1	ENSEASG00005016767	Others	NA
+Equus_asinus_asinus		ENSEASG00005016810	EID	NA
+Equus_asinus_asinus	MYOCD	ENSEASG00005016841	Others	NA
+Equus_asinus_asinus	ACTL6A	ENSEASG00005016862	Actin	NA
+Equus_asinus_asinus	MBTD1	ENSEASG00005016892	Others	NA
+Equus_asinus_asinus	TBL1XR1	ENSEASG00005016897	Transducin	NA
+Equus_asinus_asinus	TOB1	ENSEASG00005016934	Others	NA
+Equus_asinus_asinus	RBPMS	ENSEASG00005016962	RNA binding protein	NA
+Equus_asinus_asinus	TRIP6	ENSEASG00005016963	Thyroid hormone receptor	NA
+Equus_asinus_asinus	TNKS	ENSEASG00005016972	Others	NA
+Equus_asinus_asinus	ACTL6B	ENSEASG00005017006	Actin	NA
+Equus_asinus_asinus	ECD	ENSEASG00005017058	Others	NA
+Equus_asinus_asinus	CNOT7	ENSEASG00005017092	CCR4-NOT	NA
+Equus_asinus_asinus	PRMT8	ENSEASG00005017101	Arginine methyltransferase	NA
+Equus_asinus_asinus	NRIP2	ENSEASG00005017133	Nuclear coactivator	NA
+Equus_asinus_asinus	DDX39B	ENSEASG00005017156	RNA helicase	NA
+Equus_asinus_asinus	MED4	ENSEASG00005017159	Mediator complex	NA
+Equus_asinus_asinus	RB1	ENSEASG00005017186	Other_Co-activator/repressors	NA
+Equus_asinus_asinus	SKIL	ENSEASG00005017221	SKI	NA
+Equus_asinus_asinus	TRIM16	ENSEASG00005017256	Tripartite motif	NA
+Equus_asinus_asinus	PHIP	ENSEASG00005017280	Others	NA
+Equus_asinus_asinus	KDM8	ENSEASG00005017358	Lysine demethylase	NA
+Equus_asinus_asinus	KMT2E	ENSEASG00005017369	Lysine methyltransferase	NA
+Equus_asinus_asinus	XIAP	ENSEASG00005017393	Others	NA
+Equus_asinus_asinus	EDF1	ENSEASG00005017476	Others	NA
+Equus_asinus_asinus	SRA1	ENSEASG00005017485	Others	NA
+Equus_asinus_asinus	SLC26A3	ENSEASG00005017515	SLC	NA
+Equus_asinus_asinus	WNT3A	ENSEASG00005017532	Others	NA
+Equus_asinus_asinus	SFRP4	ENSEASG00005017559	Others	NA
+Equus_asinus_asinus	FAM83G	ENSEASG00005017609	FAM	NA
+Equus_asinus_asinus	FLII	ENSEASG00005017621	Others	NA
+Equus_asinus_asinus	CDK13	ENSEASG00005017623	Cyclin	NA
+Equus_asinus_asinus	PLK1	ENSEASG00005017636	Others	NA
+Equus_asinus_asinus	RAI1	ENSEASG00005017670	Others	NA
+Equus_asinus_asinus	RASD1	ENSEASG00005017676	Others	NA
+Equus_asinus_asinus	AEBP1	ENSEASG00005017728	Others	NA
+Equus_asinus_asinus	FHL2	ENSEASG00005017793	FHL	NA
+Equus_asinus_asinus	MED11	ENSEASG00005017877	Mediator complex	NA
+Equus_asinus_asinus	ARRB2	ENSEASG00005017883	Others	NA
+Equus_asinus_asinus	PELP1	ENSEASG00005017890	Others	NA
+Equus_asinus_asinus		ENSEASG00005017936	Others	NA
+Equus_asinus_asinus	TRIM11	ENSEASG00005017954	Tripartite motif	NA
+Equus_asinus_asinus	DPF2	ENSEASG00005017960	DPF	NA
+Equus_asinus_asinus	NLRP3	ENSEASG00005017967	Others	NA
+Equus_asinus_asinus		ENSEASG00005017997	GTF	NA
+Equus_asinus_asinus	BDP1	ENSEASG00005018008	GTF	NA
+Equus_asinus_asinus	RBL2	ENSEASG00005018036	Other_Co-activator/repressors	NA
+Equus_asinus_asinus	MTOR	ENSEASG00005018049	Others	NA
+Equus_asinus_asinus	JADE1	ENSEASG00005018071	Others	NA
+Equus_asinus_asinus	EGFR	ENSEASG00005018099	Others	NA
+Equus_asinus_asinus	BTF3	ENSEASG00005018103	Others	NA
+Equus_asinus_asinus	ANKRA2	ENSEASG00005018107	Ankyrin repeat	NA
+Equus_asinus_asinus	PRAME	ENSEASG00005018113	Others	NA
+Equus_asinus_asinus	LANCL2	ENSEASG00005018115	Others	NA
+Equus_asinus_asinus	SLC25A2	ENSEASG00005018129	SLC	NA
+Equus_asinus_asinus	TAF7	ENSEASG00005018132	TATA-box	NA
+Equus_asinus_asinus	AXIN1	ENSEASG00005018173	Others	NA
+Equus_asinus_asinus	TRIP13	ENSEASG00005018251	Thyroid hormone receptor	NA
+Equus_asinus_asinus	MEN1	ENSEASG00005018258	Others	NA
+Equus_asinus_asinus	HDGF	ENSEASG00005018264	Others	NA
+Equus_asinus_asinus	CNOT11	ENSEASG00005018296	CCR4-NOT	NA
+Equus_asinus_asinus	CCNA2	ENSEASG00005018324	Cyclin	NA
+Equus_asinus_asinus	CENPU	ENSEASG00005018407	CENP	NA
+Equus_asinus_asinus	NOTCH1	ENSEASG00005018445	Notch	NA
+Equus_asinus_asinus	KDM5A	ENSEASG00005018467	Lysine demethylase	NA
+Equus_asinus_asinus	H2AZ1	ENSEASG00005018510	Others	NA
+Equus_asinus_asinus	MAGED1	ENSEASG00005018541	MAGE	NA
+Equus_asinus_asinus		ENSEASG00005018571	Others	NA
+Equus_asinus_asinus	MED10	ENSEASG00005018576	Mediator complex	NA
+Equus_asinus_asinus	FLNA	ENSEASG00005018577	Others	NA
+Equus_asinus_asinus		ENSEASG00005018588	Zinc finger	NA
+Equus_asinus_asinus	CTNND2	ENSEASG00005018602	Casein	NA
+Equus_asinus_asinus	MYO6	ENSEASG00005018621	Others	NA
+Equus_asinus_asinus	CBX6	ENSEASG00005018645	Chromobox	NA
+Equus_asinus_asinus	DVL2	ENSEASG00005018657	Others	NA
+Equus_asinus_asinus	WWP1	ENSEASG00005018714	WW	NA
+Equus_asinus_asinus	DDX17	ENSEASG00005018767	RNA helicase	NA
+Equus_asinus_asinus	LOXL2	ENSEASG00005018781	Others	NA
+Equus_asinus_asinus	CCAR2	ENSEASG00005018793	Others	NA
+Equus_asinus_asinus		ENSEASG00005018816	Histone deacetylase	NA
+Equus_asinus_asinus	HR	ENSEASG00005018840	Lysine methyltransferase	NA
+Equus_asinus_asinus	NPM2	ENSEASG00005018856	Nucleoplasmin	NA
+Equus_asinus_asinus	LZTS1	ENSEASG00005018865	Others	NA
+Equus_asinus_asinus	GTF2H5	ENSEASG00005018910	GTF	NA
+Equus_asinus_asinus	RBFOX2	ENSEASG00005018920	Others	NA
+Equus_asinus_asinus		ENSEASG00005018941	Others	NA
+Equus_asinus_asinus	TAF6	ENSEASG00005018943	TATA-box	NA
+Equus_asinus_asinus	HMOX1	ENSEASG00005018950	Others	NA
+Equus_asinus_asinus	EZR	ENSEASG00005018988	Others	NA
+Equus_asinus_asinus	PEX14	ENSEASG00005019064	Others	NA
+Equus_asinus_asinus	DCAF6	ENSEASG00005019085	Others	NA
+Equus_asinus_asinus	CREG1	ENSEASG00005019111	Others	NA
+Equus_asinus_asinus	POLR2A	ENSEASG00005019114	POLR	NA
+Equus_asinus_asinus	TADA1	ENSEASG00005019172	Transcriptional adaptor	NA
+Equus_asinus_asinus	ASH1L	ENSEASG00005019185	Others	NA
+Equus_asinus_asinus	MLLT3	ENSEASG00005019193	GTF	NA
+Equus_asinus_asinus	CRY1	ENSEASG00005019194	Others	NA
+Equus_asinus_asinus	SFMBT2	ENSEASG00005019227	Others	NA
+Equus_asinus_asinus	HCFC1	ENSEASG00005019244	Others	NA
+Equus_asinus_asinus	CEP290	ENSEASG00005019245	Others	NA
+Equus_asinus_asinus	NCOA4	ENSEASG00005019254	Nuclear receptor coactivator	NA
+Equus_asinus_asinus	TAF3	ENSEASG00005019255	TATA-box	NA
+Equus_asinus_asinus	NUDT5	ENSEASG00005019284	Other_CRF	NA
+Equus_asinus_asinus	HDAC6	ENSEASG00005019298	Histone deacetylase	NA
+Equus_asinus_asinus	OPTN	ENSEASG00005019299	Others	NA
+Equus_asinus_asinus	BTG1	ENSEASG00005019340	Others	NA
+Equus_asinus_asinus	KDM6B	ENSEASG00005019348	Lysine demethylase	NA
+Equus_asinus_asinus	CHD3	ENSEASG00005019360	CHD	NA
+Equus_asinus_asinus	SUV39H2	ENSEASG00005019394	Others	NA
+Equus_asinus_asinus	ELL2	ENSEASG00005019439	GTF	NA
+Equus_asinus_asinus	AURKB	ENSEASG00005019512	Others	NA
+Equus_asinus_asinus	SIRT2	ENSEASG00005019549	Sirtuin	NA
+Equus_asinus_asinus	BTK	ENSEASG00005019599	Others	NA
+Equus_asinus_asinus	CCNH	ENSEASG00005019665	Cyclin	NA
+Equus_asinus_asinus	KDM5B	ENSEASG00005019690	Lysine demethylase	NA
+Equus_asinus_asinus	NFKBIB	ENSEASG00005019706	NFKB associated	NA
+Equus_asinus_asinus		ENSEASG00005019756	Others	NA
+Equus_asinus_asinus	RIPPLY1	ENSEASG00005019761	Others	NA
+Equus_asinus_asinus	SUPT20H	ENSEASG00005019825	SUPT	NA
+Equus_asinus_asinus	RFXAP	ENSEASG00005019840	Others	NA
+Equus_asinus_asinus	CCNA1	ENSEASG00005019850	Cyclin	NA
+Equus_asinus_asinus	HIPK3	ENSEASG00005019865	HIPK	NA
+Equus_asinus_asinus	GTF2H4	ENSEASG00005019866	GTF	NA
+Equus_asinus_asinus	ACTR6	ENSEASG00005019911	ACTR	NA
+Equus_asinus_asinus	HABP4	ENSEASG00005020009	Others	NA
+Equus_asinus_asinus	IRF2BPL	ENSEASG00005020031	Others	NA
+Equus_asinus_asinus	EYA1	ENSEASG00005020085	EYA	NA
+Equus_asinus_asinus	FBP1	ENSEASG00005020124	Others	NA
+Equus_asinus_asinus	TRIM28	ENSEASG00005020161	Tripartite motif	NA
+Equus_asinus_asinus	LMO2	ENSEASG00005020188	LIM	NA
+Equus_asinus_asinus	ELOC	ENSEASG00005020194	Others	NA
+Equus_asinus_asinus	SNW1	ENSEASG00005020199	Others	NA
+Equus_asinus_asinus	GTF2A1	ENSEASG00005020297	GTF	NA
+Equus_asinus_asinus	TCEA1	ENSEASG00005020313	TEF	NA
+Equus_asinus_asinus	RLIM	ENSEASG00005020336	Ring finger protein	NA
+Equus_asinus_asinus	OGT	ENSEASG00005020382	Others	NA
+Equus_asinus_asinus	ENG	ENSEASG00005020442	Others	NA
+Equus_asinus_asinus	CDK9	ENSEASG00005020449	Cyclin	NA
+Equus_asinus_asinus	NIBAN2	ENSEASG00005020488	FAM	NA
+Equus_asinus_asinus	RNF14	ENSEASG00005020505	Ring finger protein	NA
+Equus_asinus_asinus	FGF1	ENSEASG00005020521	FGF	NA
+Equus_asinus_asinus	PEX2	ENSEASG00005020554	Others	NA
+Equus_asinus_asinus	TCERG1	ENSEASG00005020617	TEF	NA
+Equus_asinus_asinus	BRD8	ENSEASG00005020657	Bromodomain	NA
+Equus_asinus_asinus	SCAI	ENSEASG00005020664	Others	NA
+Equus_asinus_asinus	DHX36	ENSEASG00005020682	RNA helicase	NA
+Equus_asinus_asinus	TRIP11	ENSEASG00005020749	Thyroid hormone receptor	NA
+Equus_asinus_asinus	PRMT7	ENSEASG00005020753	Arginine methyltransferase	NA
+Equus_asinus_asinus	KDM3B	ENSEASG00005020793	Lysine demethylase	NA
+Equus_asinus_asinus	KMT5C	ENSEASG00005020797	Lysine methyltransferase	NA
+Equus_asinus_asinus	RING1	ENSEASG00005020805	Ring finger protein	NA
+Equus_asinus_asinus	TDG	ENSEASG00005020816	Others	NA
+Equus_asinus_asinus	HCFC2	ENSEASG00005020832	Others	NA
+Equus_asinus_asinus	DAXX	ENSEASG00005020852	Other_CRF	NA
+Equus_asinus_asinus	PHF1	ENSEASG00005020866	PHF	NA
+Equus_asinus_asinus	MSL3	ENSEASG00005020884	Others	NA
+Equus_asinus_asinus	CXXC5	ENSEASG00005020891	Others	NA
+Equus_asinus_asinus	SAP30	ENSEASG00005020956	SAP	NA
+Equus_asinus_asinus	CCNE1	ENSEASG00005020958	Cyclin	NA
+Equus_asinus_asinus	URI1	ENSEASG00005020967	Others	NA
+Equus_asinus_asinus	NAB1	ENSEASG00005020993	Others	NA
+Equus_asinus_asinus	MED12L	ENSEASG00005021003	Mediator complex	NA
+Equus_asinus_asinus	TAF11	ENSEASG00005021020	TATA-box	NA
+Equus_asinus_asinus	ANKAR	ENSEASG00005021070	Ankyrin repeat	NA
+Equus_asinus_asinus		ENSEASG00005021146	Others	NA
+Equus_asinus_asinus	CTNNBIP1	ENSEASG00005021151	Casein	NA
+Equus_asinus_asinus	BRCA2	ENSEASG00005021183	Others	NA
+Equus_asinus_asinus	ENO1	ENSEASG00005021194	Others	NA
+Equus_asinus_asinus	PARK7	ENSEASG00005021213	Others	NA
+Equus_asinus_asinus	CCDC59	ENSEASG00005021237	Coiled-coil	NA
+Equus_asinus_asinus	UTP4	ENSEASG00005021288	Others	NA
+Equus_asinus_asinus	HDAC10	ENSEASG00005021310	Histone deacetylase	NA
+Equus_asinus_asinus	WTIP	ENSEASG00005021357	Others	NA
+Equus_asinus_asinus	C6orf89	ENSEASG00005021359	Other_CRF	NA
+Equus_asinus_asinus	WWP2	ENSEASG00005021363	WW	NA
+Equus_asinus_asinus	PAWR	ENSEASG00005021371	Others	NA
+Equus_asinus_asinus	SIAH2	ENSEASG00005021384	Others	NA
+Equus_asinus_asinus	PIM1	ENSEASG00005021403	Others	NA
+Equus_asinus_asinus	WWTR1	ENSEASG00005021415	WW	NA
+Equus_asinus_asinus	RNF8	ENSEASG00005021429	Ring finger protein	NA
+Equus_asinus_asinus	BRD1	ENSEASG00005021463	Bromodomain	NA
+Equus_asinus_asinus	ELANE	ENSEASG00005021547	Others	NA
+Equus_asinus_asinus	SETD3	ENSEASG00005021568	SET	NA
+Equus_asinus_asinus	DGKB	ENSEASG00005021585	Others	NA
+Equus_asinus_asinus	CNOT3	ENSEASG00005021591	CCR4-NOT	NA
+Equus_asinus_asinus	NLRP12	ENSEASG00005021633	Others	NA
+Equus_asinus_asinus	PHF21B	ENSEASG00005021785	PHF	NA
+Equus_asinus_asinus	HLTF	ENSEASG00005021834	Others	NA
+Equus_asinus_asinus	EFCAB6	ENSEASG00005021875	Others	NA
+Equus_asinus_asinus	AGO2	ENSEASG00005021922	Others	NA
+Equus_asinus_asinus	DOT1L	ENSEASG00005021961	Others	NA
+Equus_asinus_asinus	PHF19	ENSEASG00005021973	PHF	NA
+Equus_asinus_asinus	ARGLU1	ENSEASG00005022080	Others	NA
+Equus_asinus_asinus	TLE2	ENSEASG00005022082	Transducin	NA
+Equus_asinus_asinus	TLE5	ENSEASG00005022089	Others	NA
+Equus_asinus_asinus		ENSEASG00005022119	Chromobox	NA
+Equus_asinus_asinus		ENSEASG00005022163	TATA-box	NA
+Equus_asinus_asinus	PPID	ENSEASG00005022233	Others	NA
+Equus_asinus_asinus	DAPK3	ENSEASG00005022305	Others	NA
+Equus_asinus_asinus	SIRT6	ENSEASG00005022360	Sirtuin	NA
+Equus_asinus_asinus	TRIB1	ENSEASG00005022371	Others	NA
+Equus_asinus_asinus	ERCC3	ENSEASG00005022466	Others	NA
+Equus_asinus_asinus	CDK8	ENSEASG00005022522	Cyclin	NA
+Equus_asinus_asinus	ATAD2	ENSEASG00005022524	Others	NA
+Equus_asinus_asinus	RNF6	ENSEASG00005022526	Ring finger protein	NA
+Equus_asinus_asinus	KDM4B	ENSEASG00005022572	Lysine demethylase	NA
+Equus_asinus_asinus	PCGF3	ENSEASG00005022593	PCGF	NA
+Equus_asinus_asinus	CIR1	ENSEASG00005022598	Other_Co-activator/repressors	NA
+Equus_asinus_asinus	PRMT6	ENSEASG00005022613	Arginine methyltransferase	NA
+Equus_asinus_asinus	TRIM32	ENSEASG00005022616	Tripartite motif	NA
+Equus_asinus_asinus	HAT1	ENSEASG00005022647	Others	NA
+Equus_asinus_asinus	CTBP1	ENSEASG00005022682	Others	NA
+Equus_asinus_asinus		ENSEASG00005022688	Transducin	NA
+Equus_asinus_asinus	NELFA	ENSEASG00005022732	GTF	NA
+Equus_asinus_asinus	RNF4	ENSEASG00005022770	Ring finger protein	NA
+Equus_asinus_asinus	SAP18	ENSEASG00005022798	SAP	NA
+Equus_asinus_asinus	ANP32B	ENSEASG00005022813	ANP	NA
+Equus_asinus_asinus	ZMYM2	ENSEASG00005022823	Zinc finger	NA
+Equus_asinus_asinus	RNF20	ENSEASG00005022908	Ring finger protein	NA
+Equus_asinus_asinus	TAF2	ENSEASG00005022933	TATA-box	NA
+Equus_asinus_asinus	SAFB2	ENSEASG00005022952	Others	NA
+Equus_asinus_asinus		ENSEASG00005022978	Others	NA
+Equus_asinus_asinus	KAT6B	ENSEASG00005022987	Lysine acetyltransferase	NA
+Equus_asinus_asinus	SAFB	ENSEASG00005023019	Others	NA
+Equus_asinus_asinus	ELP1	ENSEASG00005023037	ELP	NA
+Equus_asinus_asinus		ENSEASG00005023051	Histone deacetylase	NA
+Equus_asinus_asinus	TXN	ENSEASG00005023073	Others	NA
+Equus_asinus_asinus	TCEA2	ENSEASG00005023089	TEF	NA
+Equus_asinus_asinus	MLLT1	ENSEASG00005023105	GTF	NA
+Equus_asinus_asinus	GTF2F1	ENSEASG00005023112	GTF	NA
+Equus_asinus_asinus	PRPF6	ENSEASG00005023115	Others	NA
+Equus_asinus_asinus	MED30	ENSEASG00005023136	Mediator complex	NA
+Equus_asinus_asinus	RAD21	ENSEASG00005023139	Others	NA
+Equus_asinus_asinus	HELZ2	ENSEASG00005023168	Others	NA
+Equus_asinus_asinus	MRGBP	ENSEASG00005023197	Others	NA
+Equus_asinus_asinus	SS18L1	ENSEASG00005023216	SS18	NA
+Equus_asinus_asinus	NELFCD	ENSEASG00005023236	GTF	NA
+Equus_asinus_asinus	NCOA3	ENSEASG00005023352	Nuclear receptor coactivator	NA
+Equus_asinus_asinus	ZMYND8	ENSEASG00005023353	Zinc finger	NA
+Equus_asinus_asinus	EYA2	ENSEASG00005023354	EYA	NA
+Equus_asinus_asinus	YWHAB	ENSEASG00005023409	Others	NA
+Equus_asinus_asinus	CHD6	ENSEASG00005023433	CHD	NA
+Equus_asinus_asinus	LPIN3	ENSEASG00005023437	LPIN	NA
+Equus_asinus_asinus	NMI	ENSEASG00005023440	Others	NA
+Equus_asinus_asinus	EPC2	ENSEASG00005023449	Others	NA
+Equus_asinus_asinus	TOP1	ENSEASG00005023454	Other_CRF	NA
+Equus_asinus_asinus	ACTR5	ENSEASG00005023474	ACTR	NA
+Equus_asinus_asinus	YAF2	ENSEASG00005023490	Others	NA
+Equus_asinus_asinus	PPHLN1	ENSEASG00005023492	Others	NA
+Equus_asinus_asinus	HDAC7	ENSEASG00005023514	Histone deacetylase	NA
+Equus_asinus_asinus	SENP1	ENSEASG00005023518	Others	NA

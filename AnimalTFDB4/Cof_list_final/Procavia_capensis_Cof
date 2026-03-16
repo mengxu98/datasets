@@ -1,0 +1,824 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Procavia_capensis	CDK19	ENSPCAG00000000072	Cyclin	NA
+Procavia_capensis		ENSPCAG00000000083	DPF	NA
+Procavia_capensis	CD3D	ENSPCAG00000000091	Others	NA
+Procavia_capensis	PPID	ENSPCAG00000000106	Others	NA
+Procavia_capensis	HDAC11	ENSPCAG00000000133	Histone deacetylase	NA
+Procavia_capensis	TGS1	ENSPCAG00000000143	Others	NA
+Procavia_capensis	KDM4A	ENSPCAG00000000155	Lysine demethylase	NA
+Procavia_capensis		ENSPCAG00000000160	Others	NA
+Procavia_capensis	DCC	ENSPCAG00000000173	Others	NA
+Procavia_capensis	TCERG1L	ENSPCAG00000000193	TEF	NA
+Procavia_capensis	CHD7	ENSPCAG00000000227	CHD	NA
+Procavia_capensis	MED8	ENSPCAG00000000256	Mediator complex	NA
+Procavia_capensis	KDM5A	ENSPCAG00000000277	Lysine demethylase	NA
+Procavia_capensis	PSEN1	ENSPCAG00000000289	Others	NA
+Procavia_capensis	EPC1	ENSPCAG00000000329	Others	NA
+Procavia_capensis	MED13	ENSPCAG00000000376	Mediator complex	NA
+Procavia_capensis		ENSPCAG00000000379	Others	NA
+Procavia_capensis		ENSPCAG00000000384	Others	NA
+Procavia_capensis	TSPYL2	ENSPCAG00000000430	Others	NA
+Procavia_capensis	PAK6	ENSPCAG00000000463	Others	NA
+Procavia_capensis	HDAC9	ENSPCAG00000000477	Histone deacetylase	NA
+Procavia_capensis	COPRS	ENSPCAG00000000482	Others	NA
+Procavia_capensis	RAP2B	ENSPCAG00000000485	Others	NA
+Procavia_capensis	SSBP2	ENSPCAG00000000601	Others	NA
+Procavia_capensis	NOD2	ENSPCAG00000000604	Others	NA
+Procavia_capensis	SNAPC5	ENSPCAG00000000608	Others	NA
+Procavia_capensis	DPF1	ENSPCAG00000000611	DPF	NA
+Procavia_capensis	EHMT2	ENSPCAG00000000623	Histone lysine methyltransferase	NA
+Procavia_capensis	SUPT7L	ENSPCAG00000000672	SUPT	NA
+Procavia_capensis	SUV39H2	ENSPCAG00000000673	Others	NA
+Procavia_capensis	CCDC59	ENSPCAG00000000679	Coiled-coil	NA
+Procavia_capensis	KAT2B	ENSPCAG00000000687	Lysine acetyltransferase	NA
+Procavia_capensis	ARHGAP35	ENSPCAG00000000715	Others	NA
+Procavia_capensis	TES	ENSPCAG00000000774	LIM	NA
+Procavia_capensis	DOT1L	ENSPCAG00000000791	Others	NA
+Procavia_capensis	DNMT3B	ENSPCAG00000000810	DNA_methylase	NA
+Procavia_capensis	KDM7A	ENSPCAG00000000824	Lysine demethylase	NA
+Procavia_capensis	ACTG1	ENSPCAG00000000854	Actin	NA
+Procavia_capensis	DGKQ	ENSPCAG00000000857	Others	NA
+Procavia_capensis	CDYL2	ENSPCAG00000000869	Chromodomain Y	NA
+Procavia_capensis		ENSPCAG00000000911	Others	NA
+Procavia_capensis	CNOT2	ENSPCAG00000000962	CCR4-NOT	NA
+Procavia_capensis	TLE1	ENSPCAG00000000967	Transducin	NA
+Procavia_capensis	CARM1	ENSPCAG00000000974	Others	NA
+Procavia_capensis	JMJD6	ENSPCAG00000000994	Others	NA
+Procavia_capensis	CCND1	ENSPCAG00000001048	Cyclin	NA
+Procavia_capensis	TDG	ENSPCAG00000001067	Others	NA
+Procavia_capensis	HELZ2	ENSPCAG00000001068	Others	NA
+Procavia_capensis	PARP10	ENSPCAG00000001115	PARP	NA
+Procavia_capensis	TAB3	ENSPCAG00000001132	Others	NA
+Procavia_capensis	BTF3	ENSPCAG00000001161	Others	NA
+Procavia_capensis		ENSPCAG00000001183	ANP	NA
+Procavia_capensis		ENSPCAG00000001211	Casein	NA
+Procavia_capensis	CXXC5	ENSPCAG00000001216	Others	NA
+Procavia_capensis	MED19	ENSPCAG00000001260	Mediator complex	NA
+Procavia_capensis	ABT1	ENSPCAG00000001305	Others	NA
+Procavia_capensis	ABL2	ENSPCAG00000001319	Others	NA
+Procavia_capensis	EFCAB6	ENSPCAG00000001339	Others	NA
+Procavia_capensis	TBPL1	ENSPCAG00000001342	TATA-box	NA
+Procavia_capensis	SS18L1	ENSPCAG00000001344	SS18	NA
+Procavia_capensis	EED	ENSPCAG00000001369	Others	NA
+Procavia_capensis	CTNND1	ENSPCAG00000001403	Casein	NA
+Procavia_capensis	TCEA1	ENSPCAG00000001417	TEF	NA
+Procavia_capensis		ENSPCAG00000001430	Others	NA
+Procavia_capensis	HDAC10	ENSPCAG00000001466	Histone deacetylase	NA
+Procavia_capensis		ENSPCAG00000001468	Bromodomain	NA
+Procavia_capensis	DDX1	ENSPCAG00000001491	RNA helicase	NA
+Procavia_capensis		ENSPCAG00000001499	Mediator complex	NA
+Procavia_capensis	EYA3	ENSPCAG00000001511	EYA	NA
+Procavia_capensis	TGFB1I1	ENSPCAG00000001537	Others	NA
+Procavia_capensis	HIF1AN	ENSPCAG00000001544	Others	NA
+Procavia_capensis		ENSPCAG00000001558	Others	NA
+Procavia_capensis	DSCAM	ENSPCAG00000001568	Others	NA
+Procavia_capensis	TRIP6	ENSPCAG00000001586	Thyroid hormone receptor	NA
+Procavia_capensis	ASF1B	ENSPCAG00000001640	Others	NA
+Procavia_capensis	GTF2A1	ENSPCAG00000001668	GTF	NA
+Procavia_capensis	HR	ENSPCAG00000001677	Lysine methyltransferase	NA
+Procavia_capensis		ENSPCAG00000001713	Others	NA
+Procavia_capensis		ENSPCAG00000001773	Others	NA
+Procavia_capensis	TRAK2	ENSPCAG00000001793	Others	NA
+Procavia_capensis	TCERG1	ENSPCAG00000001825	TEF	NA
+Procavia_capensis	BUD31	ENSPCAG00000001837	Others	NA
+Procavia_capensis	CBX5	ENSPCAG00000001871	Chromobox	NA
+Procavia_capensis	PHF10	ENSPCAG00000001918	PHF	NA
+Procavia_capensis		ENSPCAG00000001921	Others	NA
+Procavia_capensis		ENSPCAG00000001923	TATA-box	NA
+Procavia_capensis	SDR16C5	ENSPCAG00000001934	Others	NA
+Procavia_capensis	GNL3	ENSPCAG00000002006	Others	NA
+Procavia_capensis		ENSPCAG00000002033	Others	NA
+Procavia_capensis	ACTR6	ENSPCAG00000002048	ACTR	NA
+Procavia_capensis	HNRNPD	ENSPCAG00000002182	HNRNP	NA
+Procavia_capensis	EAPP	ENSPCAG00000002226	Others	NA
+Procavia_capensis		ENSPCAG00000002237	Bromodomain	NA
+Procavia_capensis	CDK5RAP3	ENSPCAG00000002257	Cyclin	NA
+Procavia_capensis	ACTN2	ENSPCAG00000002280	Actin	NA
+Procavia_capensis	KDM3A	ENSPCAG00000002291	Lysine demethylase	NA
+Procavia_capensis	KANK1	ENSPCAG00000002348	Others	NA
+Procavia_capensis	MYCBP2	ENSPCAG00000002414	MYC	NA
+Procavia_capensis	SQSTM1	ENSPCAG00000002436	Others	NA
+Procavia_capensis	MLLT1	ENSPCAG00000002453	GTF	NA
+Procavia_capensis	NLRP9	ENSPCAG00000002498	Others	NA
+Procavia_capensis	NONO	ENSPCAG00000002541	Others	NA
+Procavia_capensis	CDK7	ENSPCAG00000002566	Cyclin	NA
+Procavia_capensis	CIDEB	ENSPCAG00000002601	Others	NA
+Procavia_capensis	RNF20	ENSPCAG00000002634	Ring finger protein	NA
+Procavia_capensis	NOTCH2	ENSPCAG00000002647	Notch	NA
+Procavia_capensis	TADA1	ENSPCAG00000002748	Transcriptional adaptor	NA
+Procavia_capensis		ENSPCAG00000002752	Others	NA
+Procavia_capensis	ENY2	ENSPCAG00000002764	Others	NA
+Procavia_capensis	RPRD1B	ENSPCAG00000002778	Others	NA
+Procavia_capensis	IKBKB	ENSPCAG00000002780	Others	NA
+Procavia_capensis	CNOT8	ENSPCAG00000002811	CCR4-NOT	NA
+Procavia_capensis		ENSPCAG00000002813	Others	NA
+Procavia_capensis	CBFA2T3	ENSPCAG00000002849	Others	NA
+Procavia_capensis	PRMT7	ENSPCAG00000002862	Arginine methyltransferase	NA
+Procavia_capensis	AGO2	ENSPCAG00000002880	Others	NA
+Procavia_capensis	MED25	ENSPCAG00000002890	Mediator complex	NA
+Procavia_capensis		ENSPCAG00000002900	Others	NA
+Procavia_capensis	BRMS1L	ENSPCAG00000002911	Other_CRF	NA
+Procavia_capensis		ENSPCAG00000002918	MYC	NA
+Procavia_capensis	CAVIN1	ENSPCAG00000002994	Others	NA
+Procavia_capensis	THOC5	ENSPCAG00000003002	Others	NA
+Procavia_capensis	EID1	ENSPCAG00000003012	EID	NA
+Procavia_capensis		ENSPCAG00000003025	HNRNP	NA
+Procavia_capensis	CRTC2	ENSPCAG00000003055	CREB	NA
+Procavia_capensis	CHCHD2	ENSPCAG00000003068	Coiled-coil	NA
+Procavia_capensis	RNF14	ENSPCAG00000003069	Ring finger protein	NA
+Procavia_capensis	MED12	ENSPCAG00000003073	Mediator complex	NA
+Procavia_capensis	CTH	ENSPCAG00000003096	Others	NA
+Procavia_capensis	TAB1	ENSPCAG00000003108	Others	NA
+Procavia_capensis	SETD6	ENSPCAG00000003187	SET	NA
+Procavia_capensis	BTK	ENSPCAG00000003196	Others	NA
+Procavia_capensis	NAA15	ENSPCAG00000003197	Others	NA
+Procavia_capensis	CNOT1	ENSPCAG00000003241	CCR4-NOT	NA
+Procavia_capensis	NUP62	ENSPCAG00000003242	Others	NA
+Procavia_capensis	RBM14	ENSPCAG00000003334	RNA binding protein	NA
+Procavia_capensis	PABPC4	ENSPCAG00000003341	Other_CRF	NA
+Procavia_capensis	TAF9	ENSPCAG00000003362	TATA-box	NA
+Procavia_capensis	TLE2	ENSPCAG00000003390	Transducin	NA
+Procavia_capensis	PHIP	ENSPCAG00000003391	Others	NA
+Procavia_capensis	RAD21	ENSPCAG00000003395	Others	NA
+Procavia_capensis	TDP2	ENSPCAG00000003458	Others	NA
+Procavia_capensis	HDAC6	ENSPCAG00000003465	Histone deacetylase	NA
+Procavia_capensis	GTF2B	ENSPCAG00000003473	GTF	NA
+Procavia_capensis	CITED4	ENSPCAG00000003498	CITED	NA
+Procavia_capensis		ENSPCAG00000003505	Others	NA
+Procavia_capensis	NSMCE4A	ENSPCAG00000003506	EID	NA
+Procavia_capensis	CBX6	ENSPCAG00000003595	Chromobox	NA
+Procavia_capensis	MED14	ENSPCAG00000003627	Mediator complex	NA
+Procavia_capensis	TPR	ENSPCAG00000003656	Others	NA
+Procavia_capensis	MTDH	ENSPCAG00000003688	Others	NA
+Procavia_capensis	SNX6	ENSPCAG00000003769	Others	NA
+Procavia_capensis	MED31	ENSPCAG00000003776	Mediator complex	NA
+Procavia_capensis	POU2AF1	ENSPCAG00000003780	Others	NA
+Procavia_capensis		ENSPCAG00000003797	TATA-box	NA
+Procavia_capensis	KAT6B	ENSPCAG00000003798	Lysine acetyltransferase	NA
+Procavia_capensis	CHUK	ENSPCAG00000003819	Others	NA
+Procavia_capensis	CCNT2	ENSPCAG00000003841	Cyclin	NA
+Procavia_capensis	PIH1D1	ENSPCAG00000003860	Other_CRF	NA
+Procavia_capensis	GPS2	ENSPCAG00000003861	Others	NA
+Procavia_capensis	RECQL5	ENSPCAG00000003894	Others	NA
+Procavia_capensis	SLC26A3	ENSPCAG00000003927	SLC	NA
+Procavia_capensis	CSRP3	ENSPCAG00000003975	Others	NA
+Procavia_capensis	BRF2	ENSPCAG00000004002	GTF	NA
+Procavia_capensis	SAP30BP	ENSPCAG00000004075	SAP	NA
+Procavia_capensis	NELFE	ENSPCAG00000004108	GTF	NA
+Procavia_capensis	CTNNB1	ENSPCAG00000004118	Casein	NA
+Procavia_capensis	ANXA4	ENSPCAG00000004125	Others	NA
+Procavia_capensis	LPIN1	ENSPCAG00000004165	LPIN	NA
+Procavia_capensis	HABP4	ENSPCAG00000004204	Others	NA
+Procavia_capensis		ENSPCAG00000004228	Others	NA
+Procavia_capensis	RALGAPA1	ENSPCAG00000004259	Others	NA
+Procavia_capensis	KDM4C	ENSPCAG00000004261	Lysine demethylase	NA
+Procavia_capensis		ENSPCAG00000004270	MBD	NA
+Procavia_capensis	PIK3R1	ENSPCAG00000004305	Others	NA
+Procavia_capensis	ELP1	ENSPCAG00000004316	ELP	NA
+Procavia_capensis	SNW1	ENSPCAG00000004320	Others	NA
+Procavia_capensis	BCOR	ENSPCAG00000004323	Other_Co-activator/repressors	NA
+Procavia_capensis		ENSPCAG00000004324	Histone deacetylase	NA
+Procavia_capensis	CHD3	ENSPCAG00000004350	CHD	NA
+Procavia_capensis	TENM1	ENSPCAG00000004392	Others	NA
+Procavia_capensis	SMYD1	ENSPCAG00000004400	SMYD	NA
+Procavia_capensis	PHF21B	ENSPCAG00000004414	PHF	NA
+Procavia_capensis	PHF19	ENSPCAG00000004438	PHF	NA
+Procavia_capensis	RNF4	ENSPCAG00000004528	Ring finger protein	NA
+Procavia_capensis		ENSPCAG00000004554	Mediator complex	NA
+Procavia_capensis	KMT2B	ENSPCAG00000004566	Lysine methyltransferase	NA
+Procavia_capensis	TXLNA	ENSPCAG00000004582	Others	NA
+Procavia_capensis		ENSPCAG00000004586	Others	NA
+Procavia_capensis	CNOT11	ENSPCAG00000004690	CCR4-NOT	NA
+Procavia_capensis	BTRC	ENSPCAG00000004714	Others	NA
+Procavia_capensis	RNF10	ENSPCAG00000004719	Ring finger protein	NA
+Procavia_capensis	RPAP2	ENSPCAG00000004722	Others	NA
+Procavia_capensis	HINT1	ENSPCAG00000004737	Others	NA
+Procavia_capensis	WBP2	ENSPCAG00000004747	WW	NA
+Procavia_capensis	RLIM	ENSPCAG00000004768	Ring finger protein	NA
+Procavia_capensis	RBBP7	ENSPCAG00000004780	RBBP	NA
+Procavia_capensis	TARBP1	ENSPCAG00000004808	Others	NA
+Procavia_capensis	OGT	ENSPCAG00000004818	Others	NA
+Procavia_capensis	ICE2	ENSPCAG00000004826	GTF	NA
+Procavia_capensis		ENSPCAG00000004844	Tripartite motif	NA
+Procavia_capensis	NCOA7	ENSPCAG00000004847	Nuclear receptor coactivator	NA
+Procavia_capensis		ENSPCAG00000004857	Others	NA
+Procavia_capensis	MRTFA	ENSPCAG00000004864	Others	NA
+Procavia_capensis		ENSPCAG00000004878	SWI/SNF	NA
+Procavia_capensis	POLR3F	ENSPCAG00000004893	POLR	NA
+Procavia_capensis	HSBP1	ENSPCAG00000004899	Heat shock protein	NA
+Procavia_capensis	CBX3	ENSPCAG00000004904	Chromobox	NA
+Procavia_capensis		ENSPCAG00000004977	Others	NA
+Procavia_capensis	PSIP1	ENSPCAG00000005028	Others	NA
+Procavia_capensis	TAF3	ENSPCAG00000005034	TATA-box	NA
+Procavia_capensis	WDR61	ENSPCAG00000005049	WD	NA
+Procavia_capensis	PML	ENSPCAG00000005059	Others	NA
+Procavia_capensis		ENSPCAG00000005064	ELP	NA
+Procavia_capensis	PYCARD	ENSPCAG00000005073	Others	NA
+Procavia_capensis	ENO1	ENSPCAG00000005075	Others	NA
+Procavia_capensis	TCEAL1	ENSPCAG00000005091	TEF	NA
+Procavia_capensis	INSR	ENSPCAG00000005113	Others	NA
+Procavia_capensis	TRIM25	ENSPCAG00000005130	Tripartite motif	NA
+Procavia_capensis	PCBD2	ENSPCAG00000005156	Others	NA
+Procavia_capensis	SUPT3H	ENSPCAG00000005181	SUPT	NA
+Procavia_capensis	HCLS1	ENSPCAG00000005184	Others	NA
+Procavia_capensis		ENSPCAG00000005200	Others	NA
+Procavia_capensis	NUP98	ENSPCAG00000005249	Others	NA
+Procavia_capensis	ARRB1	ENSPCAG00000005279	Others	NA
+Procavia_capensis		ENSPCAG00000005322	Lysine methyltransferase	NA
+Procavia_capensis	MSL3	ENSPCAG00000005332	Others	NA
+Procavia_capensis	ZNF593	ENSPCAG00000005336	Zinc finger	NA
+Procavia_capensis		ENSPCAG00000005343	Others	NA
+Procavia_capensis	RTF1	ENSPCAG00000005364	Others	NA
+Procavia_capensis	TRIB2	ENSPCAG00000005372	Others	NA
+Procavia_capensis	BRIP1	ENSPCAG00000005409	Others	NA
+Procavia_capensis	KDM3B	ENSPCAG00000005418	Lysine demethylase	NA
+Procavia_capensis	RBBP5	ENSPCAG00000005452	RBBP	NA
+Procavia_capensis	NAB1	ENSPCAG00000005465	Others	NA
+Procavia_capensis	MED30	ENSPCAG00000005469	Mediator complex	NA
+Procavia_capensis		ENSPCAG00000005509	Others	NA
+Procavia_capensis	PID1	ENSPCAG00000005543	Others	NA
+Procavia_capensis		ENSPCAG00000005599	CCR4-NOT	NA
+Procavia_capensis		ENSPCAG00000005664	Others	NA
+Procavia_capensis	MDFI	ENSPCAG00000005671	Others	NA
+Procavia_capensis	RBL2	ENSPCAG00000005685	Other_Co-activator/repressors	NA
+Procavia_capensis	SRC	ENSPCAG00000005712	Others	NA
+Procavia_capensis	DNAJB1	ENSPCAG00000005721	Others	NA
+Procavia_capensis	SUZ12	ENSPCAG00000005764	Others	NA
+Procavia_capensis	DDX39A	ENSPCAG00000005768	RNA helicase	NA
+Procavia_capensis	TAF13	ENSPCAG00000005773	TATA-box	NA
+Procavia_capensis	MED13L	ENSPCAG00000005778	Mediator complex	NA
+Procavia_capensis	BTNL9	ENSPCAG00000005790	Others	NA
+Procavia_capensis		ENSPCAG00000005805	PARP	NA
+Procavia_capensis	NIF3L1	ENSPCAG00000005810	Others	NA
+Procavia_capensis	RNF168	ENSPCAG00000005829	Ring finger protein	NA
+Procavia_capensis	BRWD1	ENSPCAG00000005846	Bromodomain	NA
+Procavia_capensis	ORC2	ENSPCAG00000005851	Others	NA
+Procavia_capensis	CRYM	ENSPCAG00000005857	Others	NA
+Procavia_capensis	SIAH2	ENSPCAG00000005860	Others	NA
+Procavia_capensis	PELI1	ENSPCAG00000005890	Others	NA
+Procavia_capensis	CHD1L	ENSPCAG00000005959	CHD	NA
+Procavia_capensis	SLC30A9	ENSPCAG00000005977	SLC	NA
+Procavia_capensis	HDAC1	ENSPCAG00000005995	Histone deacetylase	NA
+Procavia_capensis	CILK1	ENSPCAG00000005997	Others	NA
+Procavia_capensis	CECR2	ENSPCAG00000006026	Other_CRF	NA
+Procavia_capensis	FGFR1	ENSPCAG00000006043	FGF	NA
+Procavia_capensis	UXT	ENSPCAG00000006059	Others	NA
+Procavia_capensis	WWC1	ENSPCAG00000006131	WW	NA
+Procavia_capensis	NPAT	ENSPCAG00000006132	Nuclear coactivator	NA
+Procavia_capensis	C1QBP	ENSPCAG00000006148	Others	NA
+Procavia_capensis	ZMYND8	ENSPCAG00000006149	Zinc finger	NA
+Procavia_capensis	DHX33	ENSPCAG00000006190	RNA helicase	NA
+Procavia_capensis	AURKB	ENSPCAG00000006204	Others	NA
+Procavia_capensis		ENSPCAG00000006205	Others	NA
+Procavia_capensis	SETD2	ENSPCAG00000006230	SET	NA
+Procavia_capensis	UTP4	ENSPCAG00000006251	Others	NA
+Procavia_capensis	CEP290	ENSPCAG00000006277	Others	NA
+Procavia_capensis	EGFR	ENSPCAG00000006282	Others	NA
+Procavia_capensis	AATF	ENSPCAG00000006324	Others	NA
+Procavia_capensis		ENSPCAG00000006326	Other_CRF	NA
+Procavia_capensis	RBM15	ENSPCAG00000006329	RNA binding protein	NA
+Procavia_capensis	SAFB2	ENSPCAG00000006352	Others	NA
+Procavia_capensis	CTBP2	ENSPCAG00000006358	Others	NA
+Procavia_capensis	MED18	ENSPCAG00000006359	Mediator complex	NA
+Procavia_capensis	LANCL2	ENSPCAG00000006370	Others	NA
+Procavia_capensis	SKAP1	ENSPCAG00000006396	Others	NA
+Procavia_capensis	MYOCD	ENSPCAG00000006406	Others	NA
+Procavia_capensis	ERBB2	ENSPCAG00000006412	Erbb2	NA
+Procavia_capensis	MALT1	ENSPCAG00000006449	Others	NA
+Procavia_capensis	BRD8	ENSPCAG00000006455	Bromodomain	NA
+Procavia_capensis	HYAL2	ENSPCAG00000006458	Others	NA
+Procavia_capensis	ACTL6B	ENSPCAG00000006466	Actin	NA
+Procavia_capensis	SAFB	ENSPCAG00000006475	Others	NA
+Procavia_capensis	PRMT2	ENSPCAG00000006496	Arginine methyltransferase	NA
+Procavia_capensis	TXNIP	ENSPCAG00000006503	Others	NA
+Procavia_capensis	PRPF6	ENSPCAG00000006536	Others	NA
+Procavia_capensis		ENSPCAG00000006549	GTF	NA
+Procavia_capensis	NPM1	ENSPCAG00000006555	Nucleoplasmin	NA
+Procavia_capensis	ERCC2	ENSPCAG00000006556	Others	NA
+Procavia_capensis	MNAT1	ENSPCAG00000006586	Others	NA
+Procavia_capensis	ABRA	ENSPCAG00000006631	Actin	NA
+Procavia_capensis	NELFA	ENSPCAG00000006671	GTF	NA
+Procavia_capensis	PRMT5	ENSPCAG00000006770	Arginine methyltransferase	NA
+Procavia_capensis	WWTR1	ENSPCAG00000006773	WW	NA
+Procavia_capensis	MCRS1	ENSPCAG00000006827	Others	NA
+Procavia_capensis	SUMO1	ENSPCAG00000006870	Others	NA
+Procavia_capensis	GTF2H4	ENSPCAG00000006874	GTF	NA
+Procavia_capensis	ESF1	ENSPCAG00000006881	Others	NA
+Procavia_capensis	BPTF	ENSPCAG00000006901	Bromodomain	NA
+Procavia_capensis	TNIP1	ENSPCAG00000006909	Others	NA
+Procavia_capensis	MED23	ENSPCAG00000006923	Mediator complex	NA
+Procavia_capensis	CDK5R1	ENSPCAG00000006931	Cyclin	NA
+Procavia_capensis	IKBKG	ENSPCAG00000006932	Others	NA
+Procavia_capensis	KDM5B	ENSPCAG00000006935	Lysine demethylase	NA
+Procavia_capensis		ENSPCAG00000006948	SSX	NA
+Procavia_capensis	POLR2A	ENSPCAG00000006951	POLR	NA
+Procavia_capensis	CHD6	ENSPCAG00000006967	CHD	NA
+Procavia_capensis	TOP1	ENSPCAG00000006995	Other_CRF	NA
+Procavia_capensis	SCMH1	ENSPCAG00000007003	Others	NA
+Procavia_capensis	MDM4	ENSPCAG00000007019	Others	NA
+Procavia_capensis		ENSPCAG00000007036	Others	NA
+Procavia_capensis	THRSP	ENSPCAG00000007037	Others	NA
+Procavia_capensis		ENSPCAG00000007067	Others	NA
+Procavia_capensis	CHD8	ENSPCAG00000007099	CHD	NA
+Procavia_capensis	ZMYM2	ENSPCAG00000007109	Zinc finger	NA
+Procavia_capensis	DDX5	ENSPCAG00000007111	RNA helicase	NA
+Procavia_capensis	TLE3	ENSPCAG00000007116	Transducin	NA
+Procavia_capensis		ENSPCAG00000007120	CHD	NA
+Procavia_capensis	SPAG8	ENSPCAG00000007122	Others	NA
+Procavia_capensis	CNOT10	ENSPCAG00000007134	CCR4-NOT	NA
+Procavia_capensis	TRIM28	ENSPCAG00000007149	Tripartite motif	NA
+Procavia_capensis	PHF2	ENSPCAG00000007162	PHF	NA
+Procavia_capensis	SAP18	ENSPCAG00000007175	SAP	NA
+Procavia_capensis	PCBD1	ENSPCAG00000007201	Others	NA
+Procavia_capensis	VGLL2	ENSPCAG00000007220	Vestigial like	NA
+Procavia_capensis	MTF2	ENSPCAG00000007225	Others	NA
+Procavia_capensis	ANP32E	ENSPCAG00000007239	ANP	NA
+Procavia_capensis	SUDS3	ENSPCAG00000007240	Other_Co-activator/repressors	NA
+Procavia_capensis	RGCC	ENSPCAG00000007269	Others	NA
+Procavia_capensis	SMURF2	ENSPCAG00000007298	Others	NA
+Procavia_capensis	ACTN4	ENSPCAG00000007306	Actin	NA
+Procavia_capensis	MTPN	ENSPCAG00000007313	Others	NA
+Procavia_capensis	CDK5	ENSPCAG00000007347	Cyclin	NA
+Procavia_capensis	ELP3	ENSPCAG00000007350	ELP	NA
+Procavia_capensis	CCAR2	ENSPCAG00000007376	Others	NA
+Procavia_capensis	KDM2B	ENSPCAG00000007401	Lysine demethylase	NA
+Procavia_capensis	TGFB2	ENSPCAG00000007413	Others	NA
+Procavia_capensis	CBX8	ENSPCAG00000007452	Chromobox	NA
+Procavia_capensis	ATAD2	ENSPCAG00000007465	Others	NA
+Procavia_capensis	CBX4	ENSPCAG00000007489	Chromobox	NA
+Procavia_capensis	MLLT6	ENSPCAG00000007494	Others	NA
+Procavia_capensis	NIPBL	ENSPCAG00000007497	Others	NA
+Procavia_capensis	PHF12	ENSPCAG00000007511	PHF	NA
+Procavia_capensis	CCNH	ENSPCAG00000007538	Cyclin	NA
+Procavia_capensis	YEATS2	ENSPCAG00000007539	Others	NA
+Procavia_capensis	C6orf89	ENSPCAG00000007553	Other_CRF	NA
+Procavia_capensis	CHD9	ENSPCAG00000007564	CHD	NA
+Procavia_capensis	KAT8	ENSPCAG00000007568	Lysine acetyltransferase	NA
+Procavia_capensis	WDTC1	ENSPCAG00000007569	WD	NA
+Procavia_capensis	HDAC7	ENSPCAG00000007570	Histone deacetylase	NA
+Procavia_capensis	PCGF2	ENSPCAG00000007585	PCGF	NA
+Procavia_capensis	PQBP1	ENSPCAG00000007589	Others	NA
+Procavia_capensis	NIBAN2	ENSPCAG00000007602	FAM	NA
+Procavia_capensis	SUPT16H	ENSPCAG00000007603	SUPT	NA
+Procavia_capensis	IRF2BPL	ENSPCAG00000007621	Others	NA
+Procavia_capensis		ENSPCAG00000007622	Cyclin	NA
+Procavia_capensis		ENSPCAG00000007655	Others	NA
+Procavia_capensis	PIM2	ENSPCAG00000007662	Others	NA
+Procavia_capensis	HIRA	ENSPCAG00000007722	Others	NA
+Procavia_capensis	MEAF6	ENSPCAG00000007732	Others	NA
+Procavia_capensis	EZR	ENSPCAG00000007759	Others	NA
+Procavia_capensis		ENSPCAG00000007763	Others	NA
+Procavia_capensis	CLU	ENSPCAG00000007764	Others	NA
+Procavia_capensis	DVL3	ENSPCAG00000007771	Others	NA
+Procavia_capensis		ENSPCAG00000007787	Lysine acetyltransferase	NA
+Procavia_capensis		ENSPCAG00000007794	Histone deacetylase	NA
+Procavia_capensis	DPPA2	ENSPCAG00000007797	Others	NA
+Procavia_capensis	XIAP	ENSPCAG00000007811	Others	NA
+Procavia_capensis	MKNK2	ENSPCAG00000007847	Others	NA
+Procavia_capensis	PCGF5	ENSPCAG00000007871	PCGF	NA
+Procavia_capensis	CDC73	ENSPCAG00000007886	Others	NA
+Procavia_capensis		ENSPCAG00000007888	Sirtuin	NA
+Procavia_capensis	CBX2	ENSPCAG00000007893	Chromobox	NA
+Procavia_capensis	LPXN	ENSPCAG00000007934	Others	NA
+Procavia_capensis	CRTC1	ENSPCAG00000007997	CREB	NA
+Procavia_capensis	NOTCH1	ENSPCAG00000008013	Notch	NA
+Procavia_capensis	KCNIP3	ENSPCAG00000008014	Others	NA
+Procavia_capensis	BCAS3	ENSPCAG00000008037	Others	NA
+Procavia_capensis		ENSPCAG00000008048	Mediator complex	NA
+Procavia_capensis	TRIM33	ENSPCAG00000008080	Tripartite motif	NA
+Procavia_capensis	ASXL1	ENSPCAG00000008084	Others	NA
+Procavia_capensis	NLK	ENSPCAG00000008178	Others	NA
+Procavia_capensis	TRIM27	ENSPCAG00000008191	Tripartite motif	NA
+Procavia_capensis	RNF2	ENSPCAG00000008228	Ring finger protein	NA
+Procavia_capensis		ENSPCAG00000008252	MAGE	NA
+Procavia_capensis	PPRC1	ENSPCAG00000008277	Others	NA
+Procavia_capensis	DTX1	ENSPCAG00000008278	Others	NA
+Procavia_capensis	S100A9	ENSPCAG00000008303	Others	NA
+Procavia_capensis		ENSPCAG00000008311	Others	NA
+Procavia_capensis		ENSPCAG00000008314	Others	NA
+Procavia_capensis	SLC19A1	ENSPCAG00000008351	SLC	NA
+Procavia_capensis	STRN3	ENSPCAG00000008359	Others	NA
+Procavia_capensis	COPS2	ENSPCAG00000008385	Others	NA
+Procavia_capensis	TCF20	ENSPCAG00000008437	Others	NA
+Procavia_capensis	DDX54	ENSPCAG00000008462	RNA helicase	NA
+Procavia_capensis	DACT1	ENSPCAG00000008508	Others	NA
+Procavia_capensis	SENP1	ENSPCAG00000008511	Others	NA
+Procavia_capensis	PHF1	ENSPCAG00000008534	PHF	NA
+Procavia_capensis	HDAC2	ENSPCAG00000008543	Histone deacetylase	NA
+Procavia_capensis	WWP1	ENSPCAG00000008583	WW	NA
+Procavia_capensis	TRIM11	ENSPCAG00000008592	Tripartite motif	NA
+Procavia_capensis	RITA1	ENSPCAG00000008603	Others	NA
+Procavia_capensis	TRIP13	ENSPCAG00000008639	Thyroid hormone receptor	NA
+Procavia_capensis	CENPB	ENSPCAG00000008643	CENP	NA
+Procavia_capensis	SUV39H1	ENSPCAG00000008651	Others	NA
+Procavia_capensis	CALCOCO1	ENSPCAG00000008721	Others	NA
+Procavia_capensis	PRMT1	ENSPCAG00000008724	Arginine methyltransferase	NA
+Procavia_capensis	TNKS	ENSPCAG00000008732	Others	NA
+Procavia_capensis	TLE4	ENSPCAG00000008745	Transducin	NA
+Procavia_capensis	PDLIM1	ENSPCAG00000008755	Others	NA
+Procavia_capensis	RBM39	ENSPCAG00000008764	RNA binding protein	NA
+Procavia_capensis	HAT1	ENSPCAG00000008781	Others	NA
+Procavia_capensis		ENSPCAG00000008799	Nucleoplasmin	NA
+Procavia_capensis	AIP	ENSPCAG00000008812	Others	NA
+Procavia_capensis	HDAC5	ENSPCAG00000008825	Histone deacetylase	NA
+Procavia_capensis	ASCC3	ENSPCAG00000008834	ASCC	NA
+Procavia_capensis	CDK9	ENSPCAG00000008878	Cyclin	NA
+Procavia_capensis		ENSPCAG00000008904	Others	NA
+Procavia_capensis	RUVBL1	ENSPCAG00000008907	Other_CRF	NA
+Procavia_capensis		ENSPCAG00000008940	Others	NA
+Procavia_capensis	KDM8	ENSPCAG00000008947	Lysine demethylase	NA
+Procavia_capensis	MDM2	ENSPCAG00000008949	Others	NA
+Procavia_capensis	THRAP3	ENSPCAG00000008951	Thyroid hormone receptor	NA
+Procavia_capensis	SMARCAD1	ENSPCAG00000008957	SWI/SNF	NA
+Procavia_capensis	BLM	ENSPCAG00000008960	Others	NA
+Procavia_capensis		ENSPCAG00000009000	Tripartite motif	NA
+Procavia_capensis	PIN1	ENSPCAG00000009036	Others	NA
+Procavia_capensis	VGLL3	ENSPCAG00000009063	Vestigial like	NA
+Procavia_capensis	HIPK1	ENSPCAG00000009064	HIPK	NA
+Procavia_capensis	BRD2	ENSPCAG00000009077	Bromodomain	NA
+Procavia_capensis	TRIM24	ENSPCAG00000009082	Tripartite motif	NA
+Procavia_capensis		ENSPCAG00000009111	Others	NA
+Procavia_capensis	DCAF6	ENSPCAG00000009114	Others	NA
+Procavia_capensis		ENSPCAG00000009123	SS18	NA
+Procavia_capensis	CHD1	ENSPCAG00000009194	CHD	NA
+Procavia_capensis	EMSY	ENSPCAG00000009210	Others	NA
+Procavia_capensis	NOL11	ENSPCAG00000009216	Nuclear coactivator	NA
+Procavia_capensis	MMS19	ENSPCAG00000009244	Others	NA
+Procavia_capensis	NELFCD	ENSPCAG00000009268	GTF	NA
+Procavia_capensis	GTF2F1	ENSPCAG00000009358	GTF	NA
+Procavia_capensis	NAB2	ENSPCAG00000009378	Others	NA
+Procavia_capensis	ANKRD2	ENSPCAG00000009434	Ankyrin repeat	NA
+Procavia_capensis	LIN9	ENSPCAG00000009447	Others	NA
+Procavia_capensis	CBL	ENSPCAG00000009460	Others	NA
+Procavia_capensis	HIPK3	ENSPCAG00000009467	HIPK	NA
+Procavia_capensis	TAF1B	ENSPCAG00000009491	TATA-box	NA
+Procavia_capensis	TNNI2	ENSPCAG00000009502	Others	NA
+Procavia_capensis	MRGBP	ENSPCAG00000009518	Others	NA
+Procavia_capensis	SPEN	ENSPCAG00000009543	Others	NA
+Procavia_capensis	MED12L	ENSPCAG00000009562	Mediator complex	NA
+Procavia_capensis	BCL10	ENSPCAG00000009572	BCL	NA
+Procavia_capensis	TAF15	ENSPCAG00000009582	TATA-box	NA
+Procavia_capensis	BAZ1A	ENSPCAG00000009595	Bromodomain	NA
+Procavia_capensis	LDB1	ENSPCAG00000009603	LIM	NA
+Procavia_capensis	MTOR	ENSPCAG00000009617	Others	NA
+Procavia_capensis		ENSPCAG00000009650	Others	NA
+Procavia_capensis	PADI2	ENSPCAG00000009671	Other_CRF	NA
+Procavia_capensis	RHOA	ENSPCAG00000009699	Others	NA
+Procavia_capensis	PHF5A	ENSPCAG00000009709	PHF	NA
+Procavia_capensis	TRIM2	ENSPCAG00000009748	Tripartite motif	NA
+Procavia_capensis	CREG1	ENSPCAG00000009754	Others	NA
+Procavia_capensis	EDF1	ENSPCAG00000009758	Others	NA
+Procavia_capensis	RUNX1T1	ENSPCAG00000009770	Others	NA
+Procavia_capensis	NRBF2	ENSPCAG00000009806	Nuclear receptor coactivator	NA
+Procavia_capensis		ENSPCAG00000009827	Others	NA
+Procavia_capensis	STK3	ENSPCAG00000009832	Others	NA
+Procavia_capensis	JMJD1C	ENSPCAG00000009840	Other_CRF	NA
+Procavia_capensis	DAB2	ENSPCAG00000009874	Others	NA
+Procavia_capensis	CTDSP1	ENSPCAG00000009909	Others	NA
+Procavia_capensis	EYA4	ENSPCAG00000009914	EYA	NA
+Procavia_capensis	SIN3A	ENSPCAG00000009934	Other_CRF	NA
+Procavia_capensis	CDK12	ENSPCAG00000009976	Cyclin	NA
+Procavia_capensis	CCAR1	ENSPCAG00000010028	Others	NA
+Procavia_capensis	SETD7	ENSPCAG00000010043	SET	NA
+Procavia_capensis	PHF20	ENSPCAG00000010049	PHF	NA
+Procavia_capensis	BEND3	ENSPCAG00000010069	Others	NA
+Procavia_capensis	FBP1	ENSPCAG00000010075	Others	NA
+Procavia_capensis	C1D	ENSPCAG00000010088	Other_Co-activator/repressors	NA
+Procavia_capensis	CHEK1	ENSPCAG00000010102	Others	NA
+Procavia_capensis	MED27	ENSPCAG00000010113	Mediator complex	NA
+Procavia_capensis	SGK1	ENSPCAG00000010146	Others	NA
+Procavia_capensis	SCAND1	ENSPCAG00000010173	Others	NA
+Procavia_capensis	TRAF3	ENSPCAG00000010219	Others	NA
+Procavia_capensis	BRD7	ENSPCAG00000010225	Bromodomain	NA
+Procavia_capensis	TSG101	ENSPCAG00000010234	Others	NA
+Procavia_capensis	CTBP1	ENSPCAG00000010241	Others	NA
+Procavia_capensis	TAF2	ENSPCAG00000010248	TATA-box	NA
+Procavia_capensis	SAMD4B	ENSPCAG00000010263	Others	NA
+Procavia_capensis	TAF7	ENSPCAG00000010266	TATA-box	NA
+Procavia_capensis		ENSPCAG00000010318	GTF	NA
+Procavia_capensis	PLK3	ENSPCAG00000010321	Others	NA
+Procavia_capensis	SFMBT2	ENSPCAG00000010329	Others	NA
+Procavia_capensis	NSD1	ENSPCAG00000010330	Nuclear receptor coactivator	NA
+Procavia_capensis	PAF1	ENSPCAG00000010374	Others	NA
+Procavia_capensis	APEX1	ENSPCAG00000010376	Others	NA
+Procavia_capensis	TAF6	ENSPCAG00000010417	TATA-box	NA
+Procavia_capensis	CDK2	ENSPCAG00000010422	Cyclin	NA
+Procavia_capensis	BTG1	ENSPCAG00000010429	Others	NA
+Procavia_capensis	ANKAR	ENSPCAG00000010465	Ankyrin repeat	NA
+Procavia_capensis	MED29	ENSPCAG00000010470	Mediator complex	NA
+Procavia_capensis	POLR3C	ENSPCAG00000010501	POLR	NA
+Procavia_capensis	DPPA4	ENSPCAG00000010521	Others	NA
+Procavia_capensis	TP53BP1	ENSPCAG00000010574	Others	NA
+Procavia_capensis		ENSPCAG00000010575	Sirtuin	NA
+Procavia_capensis	HTATSF1	ENSPCAG00000010576	Others	NA
+Procavia_capensis	RASD2	ENSPCAG00000010580	Others	NA
+Procavia_capensis	REXO4	ENSPCAG00000010581	Others	NA
+Procavia_capensis	MACROH2A2	ENSPCAG00000010582	Others	NA
+Procavia_capensis	JMY	ENSPCAG00000010660	Others	NA
+Procavia_capensis	NFKBIB	ENSPCAG00000010665	NFKB associated	NA
+Procavia_capensis	RING1	ENSPCAG00000010684	Ring finger protein	NA
+Procavia_capensis		ENSPCAG00000010696	TATA-box	NA
+Procavia_capensis	PAGR1	ENSPCAG00000010705	Others	NA
+Procavia_capensis		ENSPCAG00000010731	Chromodomain Y	NA
+Procavia_capensis	PRDX5	ENSPCAG00000010811	Others	NA
+Procavia_capensis	HDAC3	ENSPCAG00000010817	Histone deacetylase	NA
+Procavia_capensis	CIITA	ENSPCAG00000010818	Others	NA
+Procavia_capensis	SUPT5H	ENSPCAG00000010830	SUPT	NA
+Procavia_capensis	ASH2L	ENSPCAG00000010844	Others	NA
+Procavia_capensis	SMYD2	ENSPCAG00000010850	SMYD	NA
+Procavia_capensis	TERF2IP	ENSPCAG00000010868	Others	NA
+Procavia_capensis	EWSR1	ENSPCAG00000010966	Others	NA
+Procavia_capensis	DNMT1	ENSPCAG00000011023	DNA_methylase	NA
+Procavia_capensis	CCDC85B	ENSPCAG00000011024	Coiled-coil	NA
+Procavia_capensis	KDM1A	ENSPCAG00000011027	Lysine demethylase	NA
+Procavia_capensis	RBBP4	ENSPCAG00000011030	RBBP	NA
+Procavia_capensis	GTF2H5	ENSPCAG00000011036	GTF	NA
+Procavia_capensis	WDR77	ENSPCAG00000011038	WD	NA
+Procavia_capensis	DHX9	ENSPCAG00000011042	RNA helicase	NA
+Procavia_capensis		ENSPCAG00000011062	GTF	NA
+Procavia_capensis	PCGF3	ENSPCAG00000011093	PCGF	NA
+Procavia_capensis	DRAP1	ENSPCAG00000011105	Others	NA
+Procavia_capensis	ING3	ENSPCAG00000011162	ING	NA
+Procavia_capensis	TBL1XR1	ENSPCAG00000011163	Transducin	NA
+Procavia_capensis	KDM2A	ENSPCAG00000011177	Lysine demethylase	NA
+Procavia_capensis	ARGLU1	ENSPCAG00000011188	Others	NA
+Procavia_capensis	XRN2	ENSPCAG00000011191	Others	NA
+Procavia_capensis	LIMD1	ENSPCAG00000011206	LIM	NA
+Procavia_capensis	PIDD1	ENSPCAG00000011210	Others	NA
+Procavia_capensis	KDM4B	ENSPCAG00000011223	Lysine demethylase	NA
+Procavia_capensis	ING1	ENSPCAG00000011267	ING	NA
+Procavia_capensis	CRY1	ENSPCAG00000011277	Others	NA
+Procavia_capensis	SND1	ENSPCAG00000011305	Others	NA
+Procavia_capensis	FGFR2	ENSPCAG00000011330	FGF	NA
+Procavia_capensis	WNT4	ENSPCAG00000011380	Others	NA
+Procavia_capensis	KMT5A	ENSPCAG00000011383	Lysine methyltransferase	NA
+Procavia_capensis	CCNA2	ENSPCAG00000011389	Cyclin	NA
+Procavia_capensis	AXIN1	ENSPCAG00000011402	Others	NA
+Procavia_capensis	DCAF1	ENSPCAG00000011406	Others	NA
+Procavia_capensis	FLII	ENSPCAG00000011407	Others	NA
+Procavia_capensis	CTNND2	ENSPCAG00000011419	Casein	NA
+Procavia_capensis	DYRK1B	ENSPCAG00000011445	Others	NA
+Procavia_capensis	PELP1	ENSPCAG00000011476	Others	NA
+Procavia_capensis	PCGF6	ENSPCAG00000011491	PCGF	NA
+Procavia_capensis	CASK	ENSPCAG00000011513	CAMK	NA
+Procavia_capensis	RRN3	ENSPCAG00000011528	Others	NA
+Procavia_capensis	PHF8	ENSPCAG00000011553	PHF	NA
+Procavia_capensis	WNT3	ENSPCAG00000011566	Others	NA
+Procavia_capensis	SAV1	ENSPCAG00000011605	Others	NA
+Procavia_capensis	LMO1	ENSPCAG00000011608	LIM	NA
+Procavia_capensis	MORF4L1	ENSPCAG00000011627	Other_CRF	NA
+Procavia_capensis	PLRG1	ENSPCAG00000011633	Others	NA
+Procavia_capensis	ARRB2	ENSPCAG00000011635	Others	NA
+Procavia_capensis	DDX17	ENSPCAG00000011672	RNA helicase	NA
+Procavia_capensis	SUFU	ENSPCAG00000011673	Others	NA
+Procavia_capensis	TNP1	ENSPCAG00000011702	Other_CRF	NA
+Procavia_capensis	RNF25	ENSPCAG00000011708	Ring finger protein	NA
+Procavia_capensis	PRMT6	ENSPCAG00000011732	Arginine methyltransferase	NA
+Procavia_capensis	YWHAB	ENSPCAG00000011743	Others	NA
+Procavia_capensis	SMARCD1	ENSPCAG00000011757	SWI/SNF	NA
+Procavia_capensis	TRIM8	ENSPCAG00000011770	Tripartite motif	NA
+Procavia_capensis	STK36	ENSPCAG00000011771	Others	NA
+Procavia_capensis	BDP1	ENSPCAG00000011818	GTF	NA
+Procavia_capensis	KDM1B	ENSPCAG00000011833	Lysine demethylase	NA
+Procavia_capensis	MLLT3	ENSPCAG00000011841	GTF	NA
+Procavia_capensis	H1-3	ENSPCAG00000011864	Histone cluster 1 H1	NA
+Procavia_capensis	GRIP1	ENSPCAG00000011880	Others	NA
+Procavia_capensis	SIN3B	ENSPCAG00000011901	Others	NA
+Procavia_capensis	JUP	ENSPCAG00000011945	Others	NA
+Procavia_capensis	PIR	ENSPCAG00000011953	Others	NA
+Procavia_capensis	STRAP	ENSPCAG00000011961	Others	NA
+Procavia_capensis	DEK	ENSPCAG00000011986	Other_CRF	NA
+Procavia_capensis		ENSPCAG00000011997	Others	NA
+Procavia_capensis	CNOT3	ENSPCAG00000011999	CCR4-NOT	NA
+Procavia_capensis	ATN1	ENSPCAG00000012030	Others	NA
+Procavia_capensis	EP300	ENSPCAG00000012051	Others	NA
+Procavia_capensis	ZNF703	ENSPCAG00000012052	Zinc finger	NA
+Procavia_capensis	SFMBT1	ENSPCAG00000012057	Others	NA
+Procavia_capensis	BCL9L	ENSPCAG00000012068	BCL	NA
+Procavia_capensis	CCDC62	ENSPCAG00000012100	Coiled-coil	NA
+Procavia_capensis	LPIN3	ENSPCAG00000012116	LPIN	NA
+Procavia_capensis	SKOR1	ENSPCAG00000012126	SKI	NA
+Procavia_capensis	PPARGC1B	ENSPCAG00000012171	Others	NA
+Procavia_capensis	NFKBIZ	ENSPCAG00000012200	NFKB associated	NA
+Procavia_capensis	ACTR8	ENSPCAG00000012206	ACTR	NA
+Procavia_capensis	KDM5C	ENSPCAG00000012216	Lysine demethylase	NA
+Procavia_capensis	ASCC1	ENSPCAG00000012317	ASCC	NA
+Procavia_capensis	LOXL2	ENSPCAG00000012327	Others	NA
+Procavia_capensis	SET	ENSPCAG00000012349	SET	NA
+Procavia_capensis	KMT5B	ENSPCAG00000012410	Lysine methyltransferase	NA
+Procavia_capensis	PFDN5	ENSPCAG00000012413	Others	NA
+Procavia_capensis	KAT6A	ENSPCAG00000012464	Lysine acetyltransferase	NA
+Procavia_capensis	AEBP1	ENSPCAG00000012471	Others	NA
+Procavia_capensis	SMARCD3	ENSPCAG00000012516	SWI/SNF	NA
+Procavia_capensis	KMT5C	ENSPCAG00000012517	Lysine methyltransferase	NA
+Procavia_capensis	PICALM	ENSPCAG00000012552	Others	NA
+Procavia_capensis		ENSPCAG00000012645	Others	NA
+Procavia_capensis		ENSPCAG00000012691	Others	NA
+Procavia_capensis	NOTCH4	ENSPCAG00000012737	Notch	NA
+Procavia_capensis	HCFC2	ENSPCAG00000012745	Others	NA
+Procavia_capensis	RBX1	ENSPCAG00000012770	Others	NA
+Procavia_capensis	CIR1	ENSPCAG00000012790	Other_Co-activator/repressors	NA
+Procavia_capensis	ANKRA2	ENSPCAG00000012824	Ankyrin repeat	NA
+Procavia_capensis	HCK	ENSPCAG00000012866	Others	NA
+Procavia_capensis		ENSPCAG00000012867	ING	NA
+Procavia_capensis	LRRK2	ENSPCAG00000012894	Other_CRF	NA
+Procavia_capensis	ALPK3	ENSPCAG00000012900	Others	NA
+Procavia_capensis	MED9	ENSPCAG00000012943	Mediator complex	NA
+Procavia_capensis	ELL3	ENSPCAG00000012971	GTF	NA
+Procavia_capensis	TRADD	ENSPCAG00000012975	Others	NA
+Procavia_capensis	FLNA	ENSPCAG00000012976	Others	NA
+Procavia_capensis	MPHOSPH8	ENSPCAG00000013008	Others	NA
+Procavia_capensis	LDB2	ENSPCAG00000013010	LIM	NA
+Procavia_capensis	PARK7	ENSPCAG00000013013	Others	NA
+Procavia_capensis	NRIP2	ENSPCAG00000013029	Nuclear coactivator	NA
+Procavia_capensis	AUTS2	ENSPCAG00000013041	Others	NA
+Procavia_capensis	MED16	ENSPCAG00000013084	Mediator complex	NA
+Procavia_capensis	ACTN1	ENSPCAG00000013105	Actin	NA
+Procavia_capensis	ALYREF	ENSPCAG00000013162	Others	NA
+Procavia_capensis	SAP130	ENSPCAG00000013191	SAP	NA
+Procavia_capensis	ELANE	ENSPCAG00000013224	Others	NA
+Procavia_capensis	TENM2	ENSPCAG00000013281	Others	NA
+Procavia_capensis	HIPK2	ENSPCAG00000013294	HIPK	NA
+Procavia_capensis	GTF2H1	ENSPCAG00000013302	GTF	NA
+Procavia_capensis	RUVBL2	ENSPCAG00000013326	Other_CRF	NA
+Procavia_capensis	NOC2L	ENSPCAG00000013364	Others	NA
+Procavia_capensis		ENSPCAG00000013385	Others	NA
+Procavia_capensis	YAP1	ENSPCAG00000013389	Others	NA
+Procavia_capensis	TAF5L	ENSPCAG00000013401	TATA-box	NA
+Procavia_capensis	HNRNPUL1	ENSPCAG00000013414	HNRNP	NA
+Procavia_capensis	KDM6B	ENSPCAG00000013429	Lysine demethylase	NA
+Procavia_capensis	SIRT1	ENSPCAG00000013475	Sirtuin	NA
+Procavia_capensis	WDR5	ENSPCAG00000013476	WD	NA
+Procavia_capensis	SLTM	ENSPCAG00000013482	Others	NA
+Procavia_capensis	CAMK1	ENSPCAG00000013492	CAMK	NA
+Procavia_capensis		ENSPCAG00000013499	GTF	NA
+Procavia_capensis	FHOD1	ENSPCAG00000013507	Others	NA
+Procavia_capensis	NCK1	ENSPCAG00000013520	Others	NA
+Procavia_capensis	TADA3	ENSPCAG00000013554	Transcriptional adaptor	NA
+Procavia_capensis	HELLS	ENSPCAG00000013618	Others	NA
+Procavia_capensis	SLC25A47	ENSPCAG00000013661	SLC	NA
+Procavia_capensis	TRAK1	ENSPCAG00000013698	Others	NA
+Procavia_capensis		ENSPCAG00000013706	WW	NA
+Procavia_capensis		ENSPCAG00000013779	Others	NA
+Procavia_capensis	JADE1	ENSPCAG00000013780	Others	NA
+Procavia_capensis		ENSPCAG00000013837	Heat shock protein	NA
+Procavia_capensis	MEN1	ENSPCAG00000013903	Others	NA
+Procavia_capensis	LPIN2	ENSPCAG00000013932	LPIN	NA
+Procavia_capensis	SIRT7	ENSPCAG00000013934	Sirtuin	NA
+Procavia_capensis	ADRB2	ENSPCAG00000013986	Others	NA
+Procavia_capensis	KMT2E	ENSPCAG00000013993	Lysine methyltransferase	NA
+Procavia_capensis	DAPK3	ENSPCAG00000014006	Others	NA
+Procavia_capensis	TXN	ENSPCAG00000014011	Others	NA
+Procavia_capensis		ENSPCAG00000014020	TATA-box	NA
+Procavia_capensis	SMARCA4	ENSPCAG00000014054	SWI/SNF	NA
+Procavia_capensis	HEATR1	ENSPCAG00000014086	Others	NA
+Procavia_capensis	SCAI	ENSPCAG00000014089	Others	NA
+Procavia_capensis	PDCD4	ENSPCAG00000014164	Others	NA
+Procavia_capensis	WWP2	ENSPCAG00000014193	WW	NA
+Procavia_capensis	SMARCA5	ENSPCAG00000014230	SWI/SNF	NA
+Procavia_capensis	CRK	ENSPCAG00000014253	Others	NA
+Procavia_capensis	GTF2H3	ENSPCAG00000014280	GTF	NA
+Procavia_capensis	NOTCH3	ENSPCAG00000014289	Notch	NA
+Procavia_capensis	ZNF638	ENSPCAG00000014342	Zinc finger	NA
+Procavia_capensis		ENSPCAG00000014351	SET	NA
+Procavia_capensis	EHMT1	ENSPCAG00000014363	Histone lysine methyltransferase	NA
+Procavia_capensis	CREBBP	ENSPCAG00000014379	CREB	NA
+Procavia_capensis	PBXIP1	ENSPCAG00000014387	Others	NA
+Procavia_capensis	MED22	ENSPCAG00000014398	Mediator complex	NA
+Procavia_capensis	PINK1	ENSPCAG00000014415	Others	NA
+Procavia_capensis	PRMT8	ENSPCAG00000014451	Arginine methyltransferase	NA
+Procavia_capensis	PYGO2	ENSPCAG00000014453	Others	NA
+Procavia_capensis	EGLN2	ENSPCAG00000014463	Others	NA
+Procavia_capensis		ENSPCAG00000014492	Others	NA
+Procavia_capensis	SMYD3	ENSPCAG00000014500	SMYD	NA
+Procavia_capensis	NCOA2	ENSPCAG00000014506	Nuclear receptor coactivator	NA
+Procavia_capensis	MYBBP1A	ENSPCAG00000014516	MYB	NA
+Procavia_capensis	TFB2M	ENSPCAG00000014525	Others	NA
+Procavia_capensis	ASH1L	ENSPCAG00000014526	Others	NA
+Procavia_capensis		ENSPCAG00000014536	Others	NA
+Procavia_capensis	CCNC	ENSPCAG00000014552	Cyclin	NA
+Procavia_capensis	TAF8	ENSPCAG00000014570	TATA-box	NA
+Procavia_capensis		ENSPCAG00000014623	RBBP	NA
+Procavia_capensis	BIRC5	ENSPCAG00000014629	Others	NA
+Procavia_capensis	FRK	ENSPCAG00000014643	Others	NA
+Procavia_capensis	CCNE1	ENSPCAG00000014694	Cyclin	NA
+Procavia_capensis	ACTR5	ENSPCAG00000014740	ACTR	NA
+Procavia_capensis	NCOA3	ENSPCAG00000014753	Nuclear receptor coactivator	NA
+Procavia_capensis	ELL2	ENSPCAG00000014766	GTF	NA
+Procavia_capensis	EDRF1	ENSPCAG00000014774	Others	NA
+Procavia_capensis	LGALS12	ENSPCAG00000014784	Others	NA
+Procavia_capensis	ATF7IP	ENSPCAG00000014793	Others	NA
+Procavia_capensis	ZMYND11	ENSPCAG00000014823	Zinc finger	NA
+Procavia_capensis	RAI1	ENSPCAG00000014848	Others	NA
+Procavia_capensis	ELP2	ENSPCAG00000014855	ELP	NA
+Procavia_capensis	RYBP	ENSPCAG00000014954	Others	NA
+Procavia_capensis	APBB2	ENSPCAG00000014955	Others	NA
+Procavia_capensis	TDRD3	ENSPCAG00000014959	Others	NA
+Procavia_capensis	XRCC6	ENSPCAG00000014962	Others	NA
+Procavia_capensis	MED28	ENSPCAG00000014964	Mediator complex	NA
+Procavia_capensis	EPC2	ENSPCAG00000015001	Others	NA
+Procavia_capensis	TRIP11	ENSPCAG00000015002	Thyroid hormone receptor	NA
+Procavia_capensis	RWDD3	ENSPCAG00000015010	Others	NA
+Procavia_capensis	MED24	ENSPCAG00000015031	Mediator complex	NA
+Procavia_capensis	SUPT20H	ENSPCAG00000015033	SUPT	NA
+Procavia_capensis	INO80	ENSPCAG00000015046	INO80 complex	NA
+Procavia_capensis	RPRD1A	ENSPCAG00000015048	Others	NA
+Procavia_capensis	L3MBTL2	ENSPCAG00000015064	Others	NA
+Procavia_capensis	DNTTIP2	ENSPCAG00000015069	Others	NA
+Procavia_capensis	VEGFA	ENSPCAG00000015071	Other_CRF	NA
+Procavia_capensis		ENSPCAG00000015105	Lysine demethylase	NA
+Procavia_capensis	ITCH	ENSPCAG00000015214	Others	NA
+Procavia_capensis	TOB1	ENSPCAG00000015304	Others	NA
+Procavia_capensis	BTAF1	ENSPCAG00000015400	Others	NA
+Procavia_capensis	PEX14	ENSPCAG00000015409	Others	NA
+Procavia_capensis	PAWR	ENSPCAG00000015418	Others	NA
+Procavia_capensis	MED1	ENSPCAG00000015440	Mediator complex	NA
+Procavia_capensis		ENSPCAG00000015441	Others	NA
+Procavia_capensis	ERBIN	ENSPCAG00000015469	Erbb2	NA
+Procavia_capensis	MAD2L2	ENSPCAG00000015477	Others	NA
+Procavia_capensis	UFL1	ENSPCAG00000015517	Others	NA
+Procavia_capensis	CHAF1B	ENSPCAG00000015571	Others	NA
+Procavia_capensis	BEX5	ENSPCAG00000015595	Others	NA
+Procavia_capensis	CBFA2T2	ENSPCAG00000015597	Others	NA
+Procavia_capensis	MAML2	ENSPCAG00000015600	MAML	NA
+Procavia_capensis	FHL5	ENSPCAG00000015635	FHL	NA
+Procavia_capensis		ENSPCAG00000015643	TATA-box	NA
+Procavia_capensis	TCEA2	ENSPCAG00000015678	TEF	NA
+Procavia_capensis	CDK13	ENSPCAG00000015684	Cyclin	NA
+Procavia_capensis	SNIP1	ENSPCAG00000015695	Others	NA
+Procavia_capensis	HLTF	ENSPCAG00000015708	Others	NA
+Procavia_capensis		ENSPCAG00000015715	Others	NA
+Procavia_capensis	HEXIM1	ENSPCAG00000015764	Others	NA
+Procavia_capensis	MYO6	ENSPCAG00000015766	Others	NA
+Procavia_capensis	CALR	ENSPCAG00000015789	Others	NA
+Procavia_capensis		ENSPCAG00000015793	Nuclear coactivator	NA
+Procavia_capensis	RBPMS2	ENSPCAG00000015797	RNA binding protein	NA
+Procavia_capensis	HEXIM2	ENSPCAG00000015843	Others	NA
+Procavia_capensis	BRMS1	ENSPCAG00000015853	Other_CRF	NA
+Procavia_capensis	NCOA4	ENSPCAG00000015863	Nuclear receptor coactivator	NA
+Procavia_capensis		ENSPCAG00000015864	Others	NA
+Procavia_capensis	MAML3	ENSPCAG00000015901	MAML	NA
+Procavia_capensis	TAF1A	ENSPCAG00000015938	TATA-box	NA
+Procavia_capensis	RNF8	ENSPCAG00000015971	Ring finger protein	NA
+Procavia_capensis	NEDD8	ENSPCAG00000016036	Others	NA
+Procavia_capensis	GMNN	ENSPCAG00000016042	Others	NA
+Procavia_capensis	TRIM37	ENSPCAG00000016058	Tripartite motif	NA
+Procavia_capensis	RAF1	ENSPCAG00000016080	Others	NA
+Procavia_capensis	DNAJA3	ENSPCAG00000016150	Others	NA
+Procavia_capensis	EZH2	ENSPCAG00000016179	Others	NA
+Procavia_capensis	HNRNPK	ENSPCAG00000016196	HNRNP	NA
+Procavia_capensis	ILK	ENSPCAG00000016226	Others	NA
+Procavia_capensis	LBH	ENSPCAG00000016249	Others	NA
+Procavia_capensis	RNF111	ENSPCAG00000016268	Ring finger protein	NA
+Procavia_capensis	ERN1	ENSPCAG00000016275	Others	NA
+Procavia_capensis	PPARGC1A	ENSPCAG00000016308	Others	NA
+Procavia_capensis		ENSPCAG00000016309	Others	NA
+Procavia_capensis	TRIP4	ENSPCAG00000016310	Thyroid hormone receptor	NA
+Procavia_capensis	KAT2A	ENSPCAG00000016322	Lysine acetyltransferase	NA
+Procavia_capensis	RIPPLY1	ENSPCAG00000016346	Others	NA
+Procavia_capensis	FHL2	ENSPCAG00000016364	FHL	NA
+Procavia_capensis	ANP32B	ENSPCAG00000016369	ANP	NA
+Procavia_capensis	MED11	ENSPCAG00000016382	Mediator complex	NA
+Procavia_capensis	SSBP3	ENSPCAG00000016403	Others	NA
+Procavia_capensis		ENSPCAG00000016405	Tripartite motif	NA
+Procavia_capensis	RBL1	ENSPCAG00000016413	Other_Co-activator/repressors	NA
+Procavia_capensis	MORF4L2	ENSPCAG00000016434	Other_CRF	NA
+Procavia_capensis	ACTL6A	ENSPCAG00000016438	Actin	NA
+Procavia_capensis		ENSPCAG00000016449	Cyclin	NA
+Procavia_capensis	TAF6L	ENSPCAG00000016453	TATA-box	NA
+Procavia_capensis	ASCC2	ENSPCAG00000016491	ASCC	NA
+Procavia_capensis	LZTS1	ENSPCAG00000016564	Others	NA
+Procavia_capensis	SIRT6	ENSPCAG00000016609	Sirtuin	NA
+Procavia_capensis	CNOT6L	ENSPCAG00000016617	CCR4-NOT	NA
+Procavia_capensis		ENSPCAG00000016626	Others	NA
+Procavia_capensis	NSD3	ENSPCAG00000016629	Nuclear receptor coactivator	NA
+Procavia_capensis	HMOX1	ENSPCAG00000016672	Others	NA
+Procavia_capensis	RB1	ENSPCAG00000016702	Other_Co-activator/repressors	NA
+Procavia_capensis		ENSPCAG00000016707	CENP	NA
+Procavia_capensis	CAMK2B	ENSPCAG00000016738	CAMK	NA
+Procavia_capensis		ENSPCAG00000016792	INO80 complex	NA
+Procavia_capensis		ENSPCAG00000016795	Zinc finger	NA
+Procavia_capensis		ENSPCAG00000016806	Others	NA
+Procavia_capensis		ENSPCAG00000016807	Others	NA
+Procavia_capensis	EZH1	ENSPCAG00000016840	Others	NA
+Procavia_capensis	RALY	ENSPCAG00000016867	Others	NA
+Procavia_capensis	EAF1	ENSPCAG00000016872	Others	NA
+Procavia_capensis	SYK	ENSPCAG00000016893	Others	NA
+Procavia_capensis	RNF6	ENSPCAG00000016912	Ring finger protein	NA
+Procavia_capensis	ERBB4	ENSPCAG00000016918	Erbb2	NA
+Procavia_capensis	PCGF1	ENSPCAG00000016929	PCGF	NA
+Procavia_capensis	EYA1	ENSPCAG00000016932	EYA	NA
+Procavia_capensis	CITED1	ENSPCAG00000016934	CITED	NA
+Procavia_capensis	ANKRD1	ENSPCAG00000016940	Ankyrin repeat	NA
+Procavia_capensis	SUPT6H	ENSPCAG00000016954	SUPT	NA
+Procavia_capensis		ENSPCAG00000016967	Others	NA
+Procavia_capensis	SMARCA2	ENSPCAG00000016969	SWI/SNF	NA
+Procavia_capensis	JAK2	ENSPCAG00000016976	Others	NA
+Procavia_capensis	LOXL3	ENSPCAG00000016983	Others	NA
+Procavia_capensis	TRRAP	ENSPCAG00000016985	Others	NA
+Procavia_capensis	ARHGAP5	ENSPCAG00000017039	Others	NA
+Procavia_capensis	TESC	ENSPCAG00000017063	Others	NA
+Procavia_capensis	HCFC1	ENSPCAG00000017085	Others	NA
+Procavia_capensis	FAM83G	ENSPCAG00000017093	FAM	NA
+Procavia_capensis	PER2	ENSPCAG00000017101	Others	NA
+Procavia_capensis		ENSPCAG00000018788	Others	NA

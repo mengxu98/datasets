@@ -1,0 +1,939 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Mus_pahari	Egln2	MGP_PahariEiJ_G0012635	Others	110321385
+Mus_pahari	Sertad3	MGP_PahariEiJ_G0012650	Others	110332988
+Mus_pahari	Dyrk1b	MGP_PahariEiJ_G0012671	Others	110316458
+Mus_pahari	Eid2	MGP_PahariEiJ_G0012672	EID	110332115
+Mus_pahari	Supt5	MGP_PahariEiJ_G0012677	SUPT	110334059
+Mus_pahari	Med29	MGP_PahariEiJ_G0012681	Mediator complex	110333160
+Mus_pahari	Paf1	MGP_PahariEiJ_G0012682	Others	110330646
+Mus_pahari	Pak4	MGP_PahariEiJ_G0012683	Others	110323245
+Mus_pahari	Nfkbib	MGP_PahariEiJ_G0012694	NFKB associated	110325994
+Mus_pahari	Sirt2	MGP_PahariEiJ_G0012695	Sirtuin	110319971
+Mus_pahari	Actn4	MGP_PahariEiJ_G0012702	Actin	110338744
+Mus_pahari	Dpf1	MGP_PahariEiJ_G0012716	DPF	110318397
+Mus_pahari	Kmt2b	MGP_PahariEiJ_G0012765	Lysine methyltransferase	110338314
+Mus_pahari	Wtip	MGP_PahariEiJ_G0012803	Others	110328413
+Mus_pahari	Uri1	MGP_PahariEiJ_G0012830	Others	110320575
+Mus_pahari	Ccne1	MGP_PahariEiJ_G0012831	Cyclin	110324083
+Mus_pahari	Med25	MGP_PahariEiJ_G0012906	Mediator complex	110320672
+Mus_pahari	Prmt1	MGP_PahariEiJ_G0012911	Arginine methyltransferase	110318685
+Mus_pahari	Pih1d1	MGP_PahariEiJ_G0012926	Other_CRF	110314878
+Mus_pahari	Ruvbl2	MGP_PahariEiJ_G0012943	Other_CRF	110332462
+Mus_pahari	Gtf2h1	MGP_PahariEiJ_G0012995	GTF	110318153
+Mus_pahari	Tsg101	MGP_PahariEiJ_G0012998	Others	110319501
+Mus_pahari	Csrp3	MGP_PahariEiJ_G0013010	Others	110335716
+Mus_pahari	Htatip2	MGP_PahariEiJ_G0013014	Others	110328327
+Mus_pahari	Lrrk1	MGP_PahariEiJ_G0013066	Other_CRF	110326793
+Mus_pahari	Blm	MGP_PahariEiJ_G0013129	Others	110318609
+Mus_pahari	Alpk3	MGP_PahariEiJ_G0013137	Others	110337121
+Mus_pahari	Eed	MGP_PahariEiJ_G0013199	Others	110319262
+Mus_pahari	Picalm	MGP_PahariEiJ_G0013201	Others	110329865
+Mus_pahari	Thrsp	MGP_PahariEiJ_G0013223	Others	110338878
+Mus_pahari	Rsf1	MGP_PahariEiJ_G0013227	Others	110324450
+Mus_pahari	Emsy	MGP_PahariEiJ_G0013240	Others	110318990
+Mus_pahari	Arrb1	MGP_PahariEiJ_G0013251	Others	110315912
+Mus_pahari		MGP_PahariEiJ_G0013303	Others	110338561
+Mus_pahari	Trim6	MGP_PahariEiJ_G0013400	Tripartite motif	110320460
+Mus_pahari	Ilk	MGP_PahariEiJ_G0013452	Others	110335784
+Mus_pahari	Taf10	MGP_PahariEiJ_G0013453	TATA-box	110335804
+Mus_pahari	Lmo1	MGP_PahariEiJ_G0013518	LIM	110321738
+Mus_pahari	Rnf141	MGP_PahariEiJ_G0013538	Ring finger protein	110329229
+Mus_pahari	Ctr9	MGP_PahariEiJ_G0013541	Others	110318559
+Mus_pahari	Crym	MGP_PahariEiJ_G0013603	Others	110326647
+Mus_pahari	Plk1	MGP_PahariEiJ_G0013629	Others	110319327
+Mus_pahari	Kdm8	MGP_PahariEiJ_G0013642	Lysine demethylase	110332709
+Mus_pahari	Nfatc2ip	MGP_PahariEiJ_G0013653	Nuclear coactivator	NA
+Mus_pahari	Sgf29	MGP_PahariEiJ_G0013666	Others	110325694
+Mus_pahari		MGP_PahariEiJ_G0013680	INO80 complex	NA
+Mus_pahari		MGP_PahariEiJ_G0013691	Others	110330170
+Mus_pahari		MGP_PahariEiJ_G0013714	Others	110325755
+Mus_pahari		MGP_PahariEiJ_G0013726	SET	110317687
+Mus_pahari	Kat8	MGP_PahariEiJ_G0013737	Lysine acetyltransferase	NA
+Mus_pahari	Fus	MGP_PahariEiJ_G0013740	Others	110320507
+Mus_pahari	Pycard	MGP_PahariEiJ_G0013741	Others	110333045
+Mus_pahari		MGP_PahariEiJ_G0013750	Others	110316429
+Mus_pahari	Fgfr2	MGP_PahariEiJ_G0013762	FGF	110326449
+Mus_pahari	Nsmce4a	MGP_PahariEiJ_G0013764	EID	110326514
+Mus_pahari	Ctbp2	MGP_PahariEiJ_G0013791	Others	110328533
+Mus_pahari	Edrf1	MGP_PahariEiJ_G0013793	Others	110323359
+Mus_pahari	Tcerg1l	MGP_PahariEiJ_G0013813	TEF	110330327
+Mus_pahari	Utf1	MGP_PahariEiJ_G0013827	Others	110337292
+Mus_pahari	Pidd1	MGP_PahariEiJ_G0013896	Others	110323236
+Mus_pahari	Tnni2	MGP_PahariEiJ_G0013919	Others	110329477
+Mus_pahari	Ccnd1	MGP_PahariEiJ_G0013956	Cyclin	110322378
+Mus_pahari	Kmt5b	MGP_PahariEiJ_G0013968	Lysine methyltransferase	110334213
+Mus_pahari	Aip	MGP_PahariEiJ_G0013986	Others	110338350
+Mus_pahari	Kdm2a	MGP_PahariEiJ_G0014001	Lysine demethylase	110337427
+Mus_pahari	Rbm14	MGP_PahariEiJ_G0014014	RNA binding protein	110336245
+Mus_pahari	Brms1	MGP_PahariEiJ_G0014027	Other_CRF	110316689
+Mus_pahari	Drap1	MGP_PahariEiJ_G0014044	Others	110331354
+Mus_pahari	Ccdc85b	MGP_PahariEiJ_G0014047	Coiled-coil	110329839
+Mus_pahari	Kat5	MGP_PahariEiJ_G0014058	Lysine acetyltransferase	110312918
+Mus_pahari	Dpf2	MGP_PahariEiJ_G0014072	DPF	110314485
+Mus_pahari	Men1	MGP_PahariEiJ_G0014099	Others	110320933
+Mus_pahari	Sf1	MGP_PahariEiJ_G0014101	Others	110329574
+Mus_pahari	Lgals12	MGP_PahariEiJ_G0014136	Others	110335248
+Mus_pahari	Taf6l	MGP_PahariEiJ_G0014147	TATA-box	110320108
+Mus_pahari	Lpxn	MGP_PahariEiJ_G0014254	Others	110328640
+Mus_pahari	Tle4	MGP_PahariEiJ_G0014287	Transducin	110326031
+Mus_pahari	Kank1	MGP_PahariEiJ_G0014330	Others	110319900
+Mus_pahari	Smarca2	MGP_PahariEiJ_G0014334	SWI/SNF	110336025
+Mus_pahari	Jak2	MGP_PahariEiJ_G0014347	Others	110316808
+Mus_pahari	Ankrd1	MGP_PahariEiJ_G0014398	Ankyrin repeat	110328971
+Mus_pahari	Pcgf5	MGP_PahariEiJ_G0014399	PCGF	110325720
+Mus_pahari	Btaf1	MGP_PahariEiJ_G0014404	Others	110319069
+Mus_pahari	Hells	MGP_PahariEiJ_G0014423	Others	NA
+Mus_pahari	Pdlim1	MGP_PahariEiJ_G0014428	Others	110327176
+Mus_pahari	Mms19	MGP_PahariEiJ_G0014451	Others	110317673
+Mus_pahari	Ankrd2	MGP_PahariEiJ_G0014453	Ankyrin repeat	110331966
+Mus_pahari	Chuk	MGP_PahariEiJ_G0014481	Others	110334538
+Mus_pahari	Hif1an	MGP_PahariEiJ_G0014493	Others	110324633
+Mus_pahari	Btrc	MGP_PahariEiJ_G0014505	Others	110337956
+Mus_pahari	Npm3	MGP_PahariEiJ_G0014510	Nucleoplasmin	110332933
+Mus_pahari	Ldb1	MGP_PahariEiJ_G0014515	LIM	110319365
+Mus_pahari	Pprc1	MGP_PahariEiJ_G0014516	Others	110328469
+Mus_pahari	Sufu	MGP_PahariEiJ_G0014527	Others	110318082
+Mus_pahari	Trim8	MGP_PahariEiJ_G0014528	Tripartite motif	110326892
+Mus_pahari	Pcgf6	MGP_PahariEiJ_G0014538	PCGF	110326290
+Mus_pahari	Taf5	MGP_PahariEiJ_G0014539	TATA-box	110316753
+Mus_pahari		MGP_PahariEiJ_G0014544	Histone cluster 1 H1	NA
+Mus_pahari	Pdcd4	MGP_PahariEiJ_G0014564	Others	110313385
+Mus_pahari	Birc3	MGP_PahariEiJ_G0014640	Others	110328081
+Mus_pahari	Yap1	MGP_PahariEiJ_G0014641	Others	110327706
+Mus_pahari	Kdm4d	MGP_PahariEiJ_G0014657	Lysine demethylase	110328486
+Mus_pahari	Med17	MGP_PahariEiJ_G0014670	Mediator complex	110327418
+Mus_pahari		MGP_PahariEiJ_G0014672	TATA-box	NA
+Mus_pahari	Mbd3l2	MGP_PahariEiJ_G0014682	MBD	110328558
+Mus_pahari	Mbd3l1	MGP_PahariEiJ_G0014684	MBD	110328601
+Mus_pahari	Pin1	MGP_PahariEiJ_G0014710	Others	110327888
+Mus_pahari	Dnmt1	MGP_PahariEiJ_G0014718	DNA_methylase	110327329
+Mus_pahari	Carm1	MGP_PahariEiJ_G0014742	Others	110327290
+Mus_pahari	Smarca4	MGP_PahariEiJ_G0014745	SWI/SNF	110327497
+Mus_pahari	Tirap	MGP_PahariEiJ_G0014815	Others	NA
+Mus_pahari	Chek1	MGP_PahariEiJ_G0014836	Others	110327308
+Mus_pahari	Trim29	MGP_PahariEiJ_G0014961	Tripartite motif	110327693
+Mus_pahari	Cbl	MGP_PahariEiJ_G0014971	Others	110327640
+Mus_pahari	Bcl9l	MGP_PahariEiJ_G0014989	BCL	110327275
+Mus_pahari	Kmt2a	MGP_PahariEiJ_G0014998	Lysine methyltransferase	110327485
+Mus_pahari	Cd3d	MGP_PahariEiJ_G0015002	Others	110328514
+Mus_pahari	Pou2af1	MGP_PahariEiJ_G0015072	Others	110328263
+Mus_pahari	Npat	MGP_PahariEiJ_G0015085	Nuclear coactivator	110327859
+Mus_pahari	Wdr61	MGP_PahariEiJ_G0015101	WD	110327462
+Mus_pahari	Sin3a	MGP_PahariEiJ_G0015128	Other_CRF	110328718
+Mus_pahari		MGP_PahariEiJ_G0015156	Others	NA
+Mus_pahari	Tle3	MGP_PahariEiJ_G0015183	Transducin	110327637
+Mus_pahari	Anp32a	MGP_PahariEiJ_G0015189	ANP	110327364
+Mus_pahari	Skor1	MGP_PahariEiJ_G0015196	SKI	110327469
+Mus_pahari	Snapc5	MGP_PahariEiJ_G0015206	Others	110328545
+Mus_pahari	Trip4	MGP_PahariEiJ_G0015235	Thyroid hormone receptor	110327448
+Mus_pahari	Ice2	MGP_PahariEiJ_G0015258	GTF	110327513
+Mus_pahari	Gtf2a2	MGP_PahariEiJ_G0015262	GTF	110313037
+Mus_pahari	Rnf111	MGP_PahariEiJ_G0015267	Ring finger protein	110327428
+Mus_pahari	Sltm	MGP_PahariEiJ_G0015268	Others	110327447
+Mus_pahari	Leo1	MGP_PahariEiJ_G0015307	Others	110327505
+Mus_pahari	Myo6	MGP_PahariEiJ_G0015345	Others	110327425
+Mus_pahari	Phip	MGP_PahariEiJ_G0015350	Others	110327623
+Mus_pahari	Morf4l1	MGP_PahariEiJ_G0015384	Other_CRF	110328234
+Mus_pahari	Nck1	MGP_PahariEiJ_G0015439	Others	110327568
+Mus_pahari	Dcaf1	MGP_PahariEiJ_G0015503	Others	NA
+Mus_pahari	Rbm15b	MGP_PahariEiJ_G0015504	RNA binding protein	NA
+Mus_pahari	Hyal2	MGP_PahariEiJ_G0015518	Others	110327750
+Mus_pahari	Rhoa	MGP_PahariEiJ_G0015551	Others	NA
+Mus_pahari	Setd2	MGP_PahariEiJ_G0015601	SET	110328077
+Mus_pahari	Cnot10	MGP_PahariEiJ_G0015640	CCR4-NOT	110327358
+Mus_pahari	Ctnnb1	MGP_PahariEiJ_G0015687	Casein	110328516
+Mus_pahari	Trak1	MGP_PahariEiJ_G0015689	Others	110327400
+Mus_pahari		MGP_PahariEiJ_G0015694	SS18	110328546
+Mus_pahari	Limd1	MGP_PahariEiJ_G0015725	LIM	110327504
+Mus_pahari		MGP_PahariEiJ_G0015774	Mediator complex	110329123
+Mus_pahari	Ice1	MGP_PahariEiJ_G0015775	Others	110328961
+Mus_pahari	Trip13	MGP_PahariEiJ_G0015791	Thyroid hormone receptor	110328939
+Mus_pahari	Ell2	MGP_PahariEiJ_G0015807	GTF	110328975
+Mus_pahari	Ccnh	MGP_PahariEiJ_G0015829	Cyclin	110328945
+Mus_pahari	Ssbp2	MGP_PahariEiJ_G0015841	Others	110328782
+Mus_pahari	Jmy	MGP_PahariEiJ_G0015858	Others	110328955
+Mus_pahari	Ankra2	MGP_PahariEiJ_G0015894	Ankyrin repeat	110328951
+Mus_pahari	Btf3	MGP_PahariEiJ_G0015896	Others	110328979
+Mus_pahari	Bdp1	MGP_PahariEiJ_G0015909	GTF	110329048
+Mus_pahari	Gtf2h2	MGP_PahariEiJ_G0015913	GTF	110328940
+Mus_pahari		MGP_PahariEiJ_G0015917	TATA-box	110328835
+Mus_pahari	Cdk7	MGP_PahariEiJ_G0015919	Cyclin	110328829
+Mus_pahari	Pik3r1	MGP_PahariEiJ_G0015924	Others	110328811
+Mus_pahari	Erbin	MGP_PahariEiJ_G0015928	Erbb2	110329046
+Mus_pahari	Mcidas	MGP_PahariEiJ_G0015970	Others	110329270
+Mus_pahari	Dab2	MGP_PahariEiJ_G0016020	Others	110328812
+Mus_pahari	Nipbl	MGP_PahariEiJ_G0016031	Others	110328825
+Mus_pahari	Ctnnd2	MGP_PahariEiJ_G0016082	Casein	110328824
+Mus_pahari	Crebbp	MGP_PahariEiJ_G0016106	CREB	110330048
+Mus_pahari	Dnaja3	MGP_PahariEiJ_G0016114	Others	110329983
+Mus_pahari	Ciita	MGP_PahariEiJ_G0016151	Others	110329620
+Mus_pahari	Mrtfb	MGP_PahariEiJ_G0016171	Others	110329502
+Mus_pahari	Rrn3	MGP_PahariEiJ_G0016176	Others	110329656
+Mus_pahari	Med15	MGP_PahariEiJ_G0016229	Mediator complex	110329581
+Mus_pahari	Hira	MGP_PahariEiJ_G0016263	Others	110330006
+Mus_pahari	Yeats2	MGP_PahariEiJ_G0016275	Others	110329615
+Mus_pahari	Dvl3	MGP_PahariEiJ_G0016281	Others	110329595
+Mus_pahari	Rnf168	MGP_PahariEiJ_G0016372	Ring finger protein	110329797
+Mus_pahari	Parp14	MGP_PahariEiJ_G0016409	PARP	110329684
+Mus_pahari		MGP_PahariEiJ_G0016411	PARP	110329635
+Mus_pahari	Eaf2	MGP_PahariEiJ_G0016421	Others	110330058
+Mus_pahari	Hcls1	MGP_PahariEiJ_G0016424	Others	NA
+Mus_pahari	Gtf2e1	MGP_PahariEiJ_G0016428	GTF	110329578
+Mus_pahari	Gsk3b	MGP_PahariEiJ_G0016436	Others	110329614
+Mus_pahari	Nfkbiz	MGP_PahariEiJ_G0016506	NFKB associated	110329589
+Mus_pahari	Cggbp1	MGP_PahariEiJ_G0016568	Others	110329869
+Mus_pahari	Vgll3	MGP_PahariEiJ_G0016572	Vestigial like	110329445
+Mus_pahari	Nrip1	MGP_PahariEiJ_G0016581	Nuclear receptor coactivator	110329749
+Mus_pahari	Chaf1b	MGP_PahariEiJ_G0016689	Others	110329733
+Mus_pahari		MGP_PahariEiJ_G0016703	Bromodomain	NA
+Mus_pahari	Dscam	MGP_PahariEiJ_G0016712	Others	110329475
+Mus_pahari		MGP_PahariEiJ_G0016758	Others	NA
+Mus_pahari	Peli1	MGP_PahariEiJ_G0016769	Others	110330521
+Mus_pahari	Sertad2	MGP_PahariEiJ_G0016773	Others	110330510
+Mus_pahari	C1d	MGP_PahariEiJ_G0016781	Other_Co-activator/repressors	110330723
+Mus_pahari	Egfr	MGP_PahariEiJ_G0016788	Others	110330480
+Mus_pahari	Aebp1	MGP_PahariEiJ_G0016831	Others	110330968
+Mus_pahari	Ewsr1	MGP_PahariEiJ_G0016844	Others	NA
+Mus_pahari	Thoc5	MGP_PahariEiJ_G0016849	Others	110330386
+Mus_pahari	Ascc2	MGP_PahariEiJ_G0016855	ASCC	110330443
+Mus_pahari	Ctbp1	MGP_PahariEiJ_G0016895	Others	110330365
+Mus_pahari	Nelfa	MGP_PahariEiJ_G0016907	GTF	110330239
+Mus_pahari		MGP_PahariEiJ_G0016915	Ring finger protein	110330663
+Mus_pahari	Tnip2	MGP_PahariEiJ_G0016917	Others	110330768
+Mus_pahari	Ldb2	MGP_PahariEiJ_G0016982	LIM	110330380
+Mus_pahari	Med28	MGP_PahariEiJ_G0016986	Mediator complex	110330678
+Mus_pahari	Ppargc1a	MGP_PahariEiJ_G0016995	Others	110330452
+Mus_pahari	Apbb2	MGP_PahariEiJ_G0017042	Others	110330367
+Mus_pahari	Slc30a9	MGP_PahariEiJ_G0017047	SLC	110330240
+Mus_pahari	Cnot6l	MGP_PahariEiJ_G0017207	CCR4-NOT	110330454
+Mus_pahari	Hnrnpd	MGP_PahariEiJ_G0017224	HNRNP	110330404
+Mus_pahari	Lin54	MGP_PahariEiJ_G0017230	Others	110330370
+Mus_pahari	Brdt	MGP_PahariEiJ_G0017271	Bromodomain	110330519
+Mus_pahari	Rpap2	MGP_PahariEiJ_G0017279	Others	110330533
+Mus_pahari	Mtf2	MGP_PahariEiJ_G0017286	Others	110330232
+Mus_pahari	Dr1	MGP_PahariEiJ_G0017289	Others	110330432
+Mus_pahari	Pcgf3	MGP_PahariEiJ_G0017294	PCGF	110330617
+Mus_pahari	Dgkq	MGP_PahariEiJ_G0017298	Others	110330508
+Mus_pahari	Fbxw11	MGP_PahariEiJ_G0017325	Others	110331061
+Mus_pahari	Npm1	MGP_PahariEiJ_G0017328	Nucleoplasmin	NA
+Mus_pahari	Wwc1	MGP_PahariEiJ_G0017345	WW	110331237
+Mus_pahari	Tenm2	MGP_PahariEiJ_G0017346	Others	110332651
+Mus_pahari	Pttg1	MGP_PahariEiJ_G0017357	Others	110332496
+Mus_pahari	Med7	MGP_PahariEiJ_G0017380	Mediator complex	110331930
+Mus_pahari	Cnot6	MGP_PahariEiJ_G0017413	CCR4-NOT	110331230
+Mus_pahari	Sqstm1	MGP_PahariEiJ_G0017420	Others	110331598
+Mus_pahari	Maml1	MGP_PahariEiJ_G0017423	MAML	110332276
+Mus_pahari	Hint1	MGP_PahariEiJ_G0017497	Others	110332278
+Mus_pahari	Tnip1	MGP_PahariEiJ_G0017499	Others	110331411
+Mus_pahari	Sap30l	MGP_PahariEiJ_G0017516	SAP	110332035
+Mus_pahari	Cnot8	MGP_PahariEiJ_G0017519	CCR4-NOT	110332600
+Mus_pahari	Trim11	MGP_PahariEiJ_G0017554	Tripartite motif	110331278
+Mus_pahari	Wnt3a	MGP_PahariEiJ_G0017562	Others	110331285
+Mus_pahari		MGP_PahariEiJ_G0017569	Others	110332320
+Mus_pahari	Med9	MGP_PahariEiJ_G0017577	Mediator complex	110331994
+Mus_pahari	Rasd1	MGP_PahariEiJ_G0017578	Others	110331993
+Mus_pahari	Rai1	MGP_PahariEiJ_G0017580	Others	110331725
+Mus_pahari	Flii	MGP_PahariEiJ_G0017590	Others	110331763
+Mus_pahari	Fam83g	MGP_PahariEiJ_G0017613	FAM	110331406
+Mus_pahari	Trim16	MGP_PahariEiJ_G0017628	Tripartite motif	NA
+Mus_pahari	Myocd	MGP_PahariEiJ_G0017641	Others	110332182
+Mus_pahari	Aurkb	MGP_PahariEiJ_G0017681	Others	110331779
+Mus_pahari	Chd3	MGP_PahariEiJ_G0017695	CHD	110331973
+Mus_pahari	Kdm6b	MGP_PahariEiJ_G0017701	Lysine demethylase	110331384
+Mus_pahari	Polr2a	MGP_PahariEiJ_G0017718	POLR	110332723
+Mus_pahari	Fgf11	MGP_PahariEiJ_G0017722	FGF	110331519
+Mus_pahari	Gps2	MGP_PahariEiJ_G0017735	Others	110331188
+Mus_pahari	Dvl2	MGP_PahariEiJ_G0017744	Others	110331183
+Mus_pahari	Pelp1	MGP_PahariEiJ_G0017760	Others	110331418
+Mus_pahari	Arrb2	MGP_PahariEiJ_G0017761	Others	110332625
+Mus_pahari	Med11	MGP_PahariEiJ_G0017762	Mediator complex	110332427
+Mus_pahari	C1qbp	MGP_PahariEiJ_G0017787	Others	NA
+Mus_pahari	Dhx33	MGP_PahariEiJ_G0017788	RNA helicase	110331388
+Mus_pahari	Med31	MGP_PahariEiJ_G0017800	Mediator complex	110332372
+Mus_pahari	Mybbp1a	MGP_PahariEiJ_G0017807	MYB	110332480
+Mus_pahari	Crk	MGP_PahariEiJ_G0017884	Others	110331717
+Mus_pahari	Phf12	MGP_PahariEiJ_G0017922	PHF	110332756
+Mus_pahari	Supt6	MGP_PahariEiJ_G0017933	SUPT	110331824
+Mus_pahari	Nlk	MGP_PahariEiJ_G0017952	Others	NA
+Mus_pahari	Lgals9	MGP_PahariEiJ_G0017956	Others	110332141
+Mus_pahari	Suz12	MGP_PahariEiJ_G0017966	Others	110331496
+Mus_pahari	Cdk5r1	MGP_PahariEiJ_G0017977	Cyclin	110332117
+Mus_pahari	Taf15	MGP_PahariEiJ_G0018007	TATA-box	110331837
+Mus_pahari	Aatf	MGP_PahariEiJ_G0018024	Others	110332059
+Mus_pahari	Bcas3	MGP_PahariEiJ_G0018037	Others	110332299
+Mus_pahari	Brip1	MGP_PahariEiJ_G0018041	Others	110331928
+Mus_pahari	Med13	MGP_PahariEiJ_G0018043	Mediator complex	110332689
+Mus_pahari	Trim37	MGP_PahariEiJ_G0018055	Tripartite motif	110331513
+Mus_pahari	Supt4a	MGP_PahariEiJ_G0018064	SUPT	110332188
+Mus_pahari		MGP_PahariEiJ_G0018082	Others	NA
+Mus_pahari	Trim25	MGP_PahariEiJ_G0018084	Tripartite motif	110332510
+Mus_pahari	Mbtd1	MGP_PahariEiJ_G0018100	Others	110331378
+Mus_pahari	Tob1	MGP_PahariEiJ_G0018105	Others	110331935
+Mus_pahari	Skap1	MGP_PahariEiJ_G0018163	Others	110332209
+Mus_pahari	Cbx1	MGP_PahariEiJ_G0018165	Chromobox	110331529
+Mus_pahari	Cdk5rap3	MGP_PahariEiJ_G0018169	Cyclin	110331480
+Mus_pahari	Mllt6	MGP_PahariEiJ_G0018188	Others	110331646
+Mus_pahari	Pcgf2	MGP_PahariEiJ_G0018190	PCGF	110331474
+Mus_pahari	Med1	MGP_PahariEiJ_G0018205	Mediator complex	110332702
+Mus_pahari	Cdk12	MGP_PahariEiJ_G0018206	Cyclin	110331479
+Mus_pahari	Erbb2	MGP_PahariEiJ_G0018213	Erbb2	110331339
+Mus_pahari	Med24	MGP_PahariEiJ_G0018224	Mediator complex	110332040
+Mus_pahari	Jup	MGP_PahariEiJ_G0018299	Others	110331174
+Mus_pahari	Kat2a	MGP_PahariEiJ_G0018312	Lysine acetyltransferase	110331092
+Mus_pahari	Cavin1	MGP_PahariEiJ_G0018321	Others	110331573
+Mus_pahari	Ezh1	MGP_PahariEiJ_G0018334	Others	NA
+Mus_pahari	Brca1	MGP_PahariEiJ_G0018353	Others	110331180
+Mus_pahari	Hdac5	MGP_PahariEiJ_G0018373	Histone deacetylase	110332270
+Mus_pahari	Atxn7l3	MGP_PahariEiJ_G0018377	Others	110332695
+Mus_pahari	Hexim1	MGP_PahariEiJ_G0018403	Others	110331549
+Mus_pahari	Hexim2	MGP_PahariEiJ_G0018404	Others	110332447
+Mus_pahari	Smarcd2	MGP_PahariEiJ_G0018447	SWI/SNF	110331326
+Mus_pahari	Ern1	MGP_PahariEiJ_G0018454	Others	110331346
+Mus_pahari	Smurf2	MGP_PahariEiJ_G0018461	Others	110331264
+Mus_pahari	Bptf	MGP_PahariEiJ_G0018463	Bromodomain	110332321
+Mus_pahari	Recql5	MGP_PahariEiJ_G0018550	Others	110331740
+Mus_pahari	Sap30bp	MGP_PahariEiJ_G0018552	SAP	110332160
+Mus_pahari	Wbp2	MGP_PahariEiJ_G0018558	WW	110331602
+Mus_pahari	Jmjd6	MGP_PahariEiJ_G0018585	Others	110331516
+Mus_pahari	Srsf2	MGP_PahariEiJ_G0018587	Others	110332774
+Mus_pahari	Birc5	MGP_PahariEiJ_G0018600	Others	110332414
+Mus_pahari	Cbx2	MGP_PahariEiJ_G0018616	Chromobox	110331999
+Mus_pahari	Cbx8	MGP_PahariEiJ_G0018617	Chromobox	110332200
+Mus_pahari	Cbx4	MGP_PahariEiJ_G0018618	Chromobox	110332199
+Mus_pahari	Rptor	MGP_PahariEiJ_G0018629	Others	110331504
+Mus_pahari	Bahcc1	MGP_PahariEiJ_G0018636	Others	110332430
+Mus_pahari		MGP_PahariEiJ_G0018655	Others	110331971
+Mus_pahari	Sirt7	MGP_PahariEiJ_G0018660	Sirtuin	110331620
+Mus_pahari	Epc1	MGP_PahariEiJ_G0018714	Others	110332923
+Mus_pahari	Wac	MGP_PahariEiJ_G0018720	WW	NA
+Mus_pahari	Rbbp8	MGP_PahariEiJ_G0018736	RBBP	110333054
+Mus_pahari	Ss18	MGP_PahariEiJ_G0018750	SS18	110332916
+Mus_pahari	Taf4b	MGP_PahariEiJ_G0018752	TATA-box	NA
+Mus_pahari	Kctd1	MGP_PahariEiJ_G0018753	Others	110333012
+Mus_pahari	Ino80c	MGP_PahariEiJ_G0018781	INO80 complex	110333360
+Mus_pahari	Elp2	MGP_PahariEiJ_G0018786	ELP	110332844
+Mus_pahari	Sap130	MGP_PahariEiJ_G0018798	SAP	NA
+Mus_pahari	Ercc3	MGP_PahariEiJ_G0018809	Others	110332872
+Mus_pahari	Camk4	MGP_PahariEiJ_G0018814	CAMK	110333240
+Mus_pahari	Brd8	MGP_PahariEiJ_G0018827	Bromodomain	110333209
+Mus_pahari	Kdm3b	MGP_PahariEiJ_G0018833	Lysine demethylase	110333384
+Mus_pahari	Cxxc5	MGP_PahariEiJ_G0018853	Others	110333120
+Mus_pahari	Taf7	MGP_PahariEiJ_G0018914	TATA-box	110333186
+Mus_pahari	Hdac3	MGP_PahariEiJ_G0018936	Histone deacetylase	110333513
+Mus_pahari	Rnf14	MGP_PahariEiJ_G0018943	Ring finger protein	110332892
+Mus_pahari	Fgf1	MGP_PahariEiJ_G0018948	FGF	110333309
+Mus_pahari	Tcerg1	MGP_PahariEiJ_G0018961	TEF	110332858
+Mus_pahari	Ythdc2	MGP_PahariEiJ_G0018981	RNA helicase	110332914
+Mus_pahari	Srfbp1	MGP_PahariEiJ_G0019004	Others	110333308
+Mus_pahari	Ppargc1b	MGP_PahariEiJ_G0019053	Others	110333350
+Mus_pahari	Adrb2	MGP_PahariEiJ_G0019062	Others	110333506
+Mus_pahari	Malt1	MGP_PahariEiJ_G0019081	Others	110333194
+Mus_pahari	Cidea	MGP_PahariEiJ_G0019095	Others	110333511
+Mus_pahari	Dcc	MGP_PahariEiJ_G0019118	Others	110333548
+Mus_pahari	Cxxc1	MGP_PahariEiJ_G0019127	Others	110332883
+Mus_pahari	Skor2	MGP_PahariEiJ_G0019140	SKI	110333157
+Mus_pahari	Hsbp1l1	MGP_PahariEiJ_G0019164	Heat shock protein	110333551
+Mus_pahari	Ctdp1	MGP_PahariEiJ_G0019167	Others	110333025
+Mus_pahari	Suv39h2	MGP_PahariEiJ_G0019198	Others	110333642
+Mus_pahari	Nudt5	MGP_PahariEiJ_G0019213	Other_CRF	110333951
+Mus_pahari	Taf3	MGP_PahariEiJ_G0019225	TATA-box	110333653
+Mus_pahari	Sfmbt2	MGP_PahariEiJ_G0019230	Others	110333841
+Mus_pahari	Actn2	MGP_PahariEiJ_G0019272	Actin	110333671
+Mus_pahari	Heatr1	MGP_PahariEiJ_G0019273	Others	110333777
+Mus_pahari	Cdk13	MGP_PahariEiJ_G0019296	Cyclin	110334205
+Mus_pahari	Sfrp4	MGP_PahariEiJ_G0019304	Others	110333968
+Mus_pahari	Trim27	MGP_PahariEiJ_G0019314	Tripartite motif	110333654
+Mus_pahari	Abt1	MGP_PahariEiJ_G0019376	Others	110334082
+Mus_pahari	Btn1a1	MGP_PahariEiJ_G0019377	Others	110334154
+Mus_pahari	H1f2	MGP_PahariEiJ_G0019394	Histone cluster 1 H1	110333932
+Mus_pahari	Gmnn	MGP_PahariEiJ_G0019414	Others	110334019
+Mus_pahari	Tdp2	MGP_PahariEiJ_G0019417	Others	110333855
+Mus_pahari	Cdyl	MGP_PahariEiJ_G0019496	Chromodomain Y	110333666
+Mus_pahari	Mak	MGP_PahariEiJ_G0019521	Others	110333948
+Mus_pahari	Sirt5	MGP_PahariEiJ_G0019536	Sirtuin	110333965
+Mus_pahari	Kdm1b	MGP_PahariEiJ_G0019555	Lysine demethylase	110333728
+Mus_pahari	Dek	MGP_PahariEiJ_G0019556	Other_CRF	110333730
+Mus_pahari	Syk	MGP_PahariEiJ_G0019589	Others	110333852
+Mus_pahari	Nsd1	MGP_PahariEiJ_G0019619	Nuclear receptor coactivator	110334011
+Mus_pahari	Pcbd2	MGP_PahariEiJ_G0019641	Others	110334146
+Mus_pahari	Hnrnpk	MGP_PahariEiJ_G0019663	HNRNP	110333964
+Mus_pahari	Fbp1	MGP_PahariEiJ_G0019695	Others	110333910
+Mus_pahari	Habp4	MGP_PahariEiJ_G0019703	Others	110333886
+Mus_pahari	Mtdh	MGP_PahariEiJ_G0019728	Others	110334611
+Mus_pahari	Stk3	MGP_PahariEiJ_G0019738	Others	110334720
+Mus_pahari	Abra	MGP_PahariEiJ_G0019774	Actin	110335259
+Mus_pahari	Eny2	MGP_PahariEiJ_G0019782	Others	110334637
+Mus_pahari	Rad21	MGP_PahariEiJ_G0019792	Others	110334800
+Mus_pahari	Med30	MGP_PahariEiJ_G0019795	Mediator complex	110335037
+Mus_pahari	Taf2	MGP_PahariEiJ_G0019804	TATA-box	NA
+Mus_pahari	Atad2	MGP_PahariEiJ_G0019821	Others	NA
+Mus_pahari	Trib1	MGP_PahariEiJ_G0019837	Others	110334810
+Mus_pahari	Chrac1	MGP_PahariEiJ_G0019866	Other_CRF	110335182
+Mus_pahari	Ago2	MGP_PahariEiJ_G0019867	Others	110334592
+Mus_pahari	Top1mt	MGP_PahariEiJ_G0019902	Other_CRF	110334931
+Mus_pahari	Puf60	MGP_PahariEiJ_G0019920	Others	110334622
+Mus_pahari	Parp10	MGP_PahariEiJ_G0019924	PARP	110335193
+Mus_pahari	Tonsl	MGP_PahariEiJ_G0019948	Others	110334586
+Mus_pahari	Rbfox2	MGP_PahariEiJ_G0019967	Others	110334929
+Mus_pahari	Ddx17	MGP_PahariEiJ_G0020019	RNA helicase	110334917
+Mus_pahari	Cbx6	MGP_PahariEiJ_G0020030	Chromobox	110334580
+Mus_pahari	Cbx7	MGP_PahariEiJ_G0020032	Chromobox	110335316
+Mus_pahari	Tab1	MGP_PahariEiJ_G0020036	Others	110334874
+Mus_pahari	Mrtfa	MGP_PahariEiJ_G0020049	Others	110334712
+Mus_pahari	Rbx1	MGP_PahariEiJ_G0020055	Others	110334961
+Mus_pahari	Ep300	MGP_PahariEiJ_G0020056	Others	NA
+Mus_pahari	L3mbtl2	MGP_PahariEiJ_G0020057	Others	110334462
+Mus_pahari	Tob2	MGP_PahariEiJ_G0020062	Others	110334911
+Mus_pahari	Phf5a	MGP_PahariEiJ_G0020063	PHF	110334967
+Mus_pahari	Xrcc6	MGP_PahariEiJ_G0020069	Others	110334768
+Mus_pahari	Wbp2nl	MGP_PahariEiJ_G0020081	Others	110335311
+Mus_pahari	Tcf20	MGP_PahariEiJ_G0020096	Others	110334442
+Mus_pahari	Efcab6	MGP_PahariEiJ_G0020112	Others	110335064
+Mus_pahari	Phf21b	MGP_PahariEiJ_G0020123	PHF	110334859
+Mus_pahari	Brd1	MGP_PahariEiJ_G0020146	Bromodomain	110334617
+Mus_pahari	Hdac10	MGP_PahariEiJ_G0020158	Histone deacetylase	110334826
+Mus_pahari	Yaf2	MGP_PahariEiJ_G0020194	Others	110334763
+Mus_pahari	Pphln1	MGP_PahariEiJ_G0020196	Others	110334663
+Mus_pahari	Hdac7	MGP_PahariEiJ_G0020219	Histone deacetylase	110334845
+Mus_pahari	Senp1	MGP_PahariEiJ_G0020223	Others	110334757
+Mus_pahari	Ccnt1	MGP_PahariEiJ_G0020239	Cyclin	110334717
+Mus_pahari	Mcrs1	MGP_PahariEiJ_G0020264	Others	110335241
+Mus_pahari	Smarcd1	MGP_PahariEiJ_G0020278	SWI/SNF	110334820
+Mus_pahari	Pfdn5	MGP_PahariEiJ_G0020345	Others	110334945
+Mus_pahari	Calcoco1	MGP_PahariEiJ_G0020360	Others	110334736
+Mus_pahari	Cbx5	MGP_PahariEiJ_G0020371	Chromobox	110334614
+Mus_pahari	Notch3	MGP_PahariEiJ_G0020384	Notch	NA
+Mus_pahari	Brd4	MGP_PahariEiJ_G0020386	Bromodomain	110335769
+Mus_pahari	Daxx	MGP_PahariEiJ_G0020426	Other_CRF	110335556
+Mus_pahari	Ring1	MGP_PahariEiJ_G0020434	Ring finger protein	110335598
+Mus_pahari	Brd2	MGP_PahariEiJ_G0020440	Bromodomain	110335910
+Mus_pahari	Notch4	MGP_PahariEiJ_G0020456	Notch	110335523
+Mus_pahari	Ehmt2	MGP_PahariEiJ_G0020478	Histone lysine methyltransferase	110335935
+Mus_pahari	Hspa1l	MGP_PahariEiJ_G0020484	Heat shock protein	110335695
+Mus_pahari	Ddx39b	MGP_PahariEiJ_G0020513	RNA helicase	110335531
+Mus_pahari	Gtf2h4	MGP_PahariEiJ_G0020524	GTF	110335539
+Mus_pahari	Supt3	MGP_PahariEiJ_G0020632	SUPT	110335451
+Mus_pahari	Vegfa	MGP_PahariEiJ_G0020647	Other_CRF	110335444
+Mus_pahari	Taf8	MGP_PahariEiJ_G0020691	TATA-box	110335797
+Mus_pahari	Med20	MGP_PahariEiJ_G0020694	Mediator complex	110335685
+Mus_pahari	Mdfi	MGP_PahariEiJ_G0020703	Others	110335653
+Mus_pahari	Kat2b	MGP_PahariEiJ_G0020732	Lysine acetyltransferase	110335447
+Mus_pahari	Kdm4b	MGP_PahariEiJ_G0020765	Lysine demethylase	110335468
+Mus_pahari	Safb2	MGP_PahariEiJ_G0020768	Others	110335670
+Mus_pahari	Safb	MGP_PahariEiJ_G0020769	Others	110335594
+Mus_pahari	Mllt1	MGP_PahariEiJ_G0020783	GTF	110335624
+Mus_pahari	Gtf2f1	MGP_PahariEiJ_G0020788	GTF	110335661
+Mus_pahari	Lpin2	MGP_PahariEiJ_G0020842	LPIN	110335439
+Mus_pahari	Lbh	MGP_PahariEiJ_G0020853	Others	110335779
+Mus_pahari	Dpy30	MGP_PahariEiJ_G0020861	Others	110335724
+Mus_pahari	Lrpprc	MGP_PahariEiJ_G0020917	Others	110335543
+Mus_pahari		MGP_PahariEiJ_G0020946	GTF	110335590
+Mus_pahari	Nlrp12	MGP_PahariEiJ_G0020954	Others	110336984
+Mus_pahari	Cnot3	MGP_PahariEiJ_G0020964	CCR4-NOT	110336743
+Mus_pahari	Kmt5c	MGP_PahariEiJ_G0020993	Lysine methyltransferase	110336454
+Mus_pahari	Trim28	MGP_PahariEiJ_G0021060	Tripartite motif	110336494
+Mus_pahari	Arhgap35	MGP_PahariEiJ_G0021092	Others	110336309
+Mus_pahari	Ercc2	MGP_PahariEiJ_G0021147	Others	110336347
+Mus_pahari	Bcl3	MGP_PahariEiJ_G0021170	BCL	110337049
+Mus_pahari	Tgfb1	MGP_PahariEiJ_G0021232	Others	110336543
+Mus_pahari	Insr	MGP_PahariEiJ_G0021238	Others	110336317
+Mus_pahari	Arglu1	MGP_PahariEiJ_G0021268	Others	110336542
+Mus_pahari	Coprs	MGP_PahariEiJ_G0021313	Others	110336985
+Mus_pahari	Tpte	MGP_PahariEiJ_G0021362	Others	110336731
+Mus_pahari	Slc25a15	MGP_PahariEiJ_G0021363	SLC	110336829
+Mus_pahari	Ikbkb	MGP_PahariEiJ_G0021370	Others	110336182
+Mus_pahari	Kat6a	MGP_PahariEiJ_G0021373	Lysine acetyltransferase	110336821
+Mus_pahari	Fgfr1	MGP_PahariEiJ_G0021393	FGF	110336809
+Mus_pahari	Nsd3	MGP_PahariEiJ_G0021395	Nuclear receptor coactivator	110337154
+Mus_pahari	Ash2l	MGP_PahariEiJ_G0021402	Others	110336212
+Mus_pahari	Zfp703	MGP_PahariEiJ_G0021410	Zinc finger	110336718
+Mus_pahari	Brf2	MGP_PahariEiJ_G0021414	GTF	110336222
+Mus_pahari	Dusp26	MGP_PahariEiJ_G0021423	Others	110336722
+Mus_pahari		MGP_PahariEiJ_G0021428	Others	110337182
+Mus_pahari	Rbpms	MGP_PahariEiJ_G0021439	RNA binding protein	110336551
+Mus_pahari	Tnks	MGP_PahariEiJ_G0021445	Others	110336306
+Mus_pahari	Cnot7	MGP_PahariEiJ_G0021462	CCR4-NOT	110336174
+Mus_pahari	Cenpu	MGP_PahariEiJ_G0021501	CENP	110336582
+Mus_pahari	Sap30	MGP_PahariEiJ_G0021532	SAP	110336684
+Mus_pahari	Lzts1	MGP_PahariEiJ_G0021574	Others	110336591
+Mus_pahari	Ndufa13	MGP_PahariEiJ_G0021587	Others	110336643
+Mus_pahari	Crtc1	MGP_PahariEiJ_G0021609	CREB	110336689
+Mus_pahari	Ell	MGP_PahariEiJ_G0021617	GTF	110336492
+Mus_pahari	Pik3r2	MGP_PahariEiJ_G0021631	Others	110336420
+Mus_pahari	Med26	MGP_PahariEiJ_G0021687	Mediator complex	110336480
+Mus_pahari	Sin3b	MGP_PahariEiJ_G0021691	Others	110336460
+Mus_pahari	Hmox1	MGP_PahariEiJ_G0021697	Others	110336229
+Mus_pahari	Kmt2e	MGP_PahariEiJ_G0021769	Lysine methyltransferase	110313856
+Mus_pahari	Cdk5	MGP_PahariEiJ_G0021783	Cyclin	110315989
+Mus_pahari	Smarcd3	MGP_PahariEiJ_G0021793	SWI/SNF	110317300
+Mus_pahari	Ing3	MGP_PahariEiJ_G0021885	ING	110315969
+Mus_pahari	Snd1	MGP_PahariEiJ_G0021917	Others	110316626
+Mus_pahari	Chchd3	MGP_PahariEiJ_G0021958	Coiled-coil	110316547
+Mus_pahari	Mtpn	MGP_PahariEiJ_G0021978	Others	110316181
+Mus_pahari	Trim24	MGP_PahariEiJ_G0021984	Tripartite motif	110317326
+Mus_pahari	Kdm7a	MGP_PahariEiJ_G0022001	Lysine demethylase	110316394
+Mus_pahari	Arhgef5	MGP_PahariEiJ_G0022077	Others	110316344
+Mus_pahari	Ezh2	MGP_PahariEiJ_G0022082	Others	110315211
+Mus_pahari	Lancl2	MGP_PahariEiJ_G0022184	Others	110315956
+Mus_pahari	Smarcad1	MGP_PahariEiJ_G0022198	SWI/SNF	110316116
+Mus_pahari	Smyd1	MGP_PahariEiJ_G0022218	SMYD	110316349
+Mus_pahari	Kdm3a	MGP_PahariEiJ_G0022225	Lysine demethylase	110314829
+Mus_pahari	Loxl3	MGP_PahariEiJ_G0022270	Others	110317281
+Mus_pahari	Pcgf1	MGP_PahariEiJ_G0022275	PCGF	110316667
+Mus_pahari	Ino80b	MGP_PahariEiJ_G0022282	INO80 complex	110316616
+Mus_pahari	Zfp638	MGP_PahariEiJ_G0022303	Zinc finger	110314164
+Mus_pahari	Anxa4	MGP_PahariEiJ_G0022340	Others	110316233
+Mus_pahari	Ruvbl1	MGP_PahariEiJ_G0022367	Other_CRF	110316087
+Mus_pahari	Hdac11	MGP_PahariEiJ_G0022396	Histone deacetylase	110316304
+Mus_pahari	Rybp	MGP_PahariEiJ_G0022439	Others	110316363
+Mus_pahari	Lmcd1	MGP_PahariEiJ_G0022459	LIM	110316443
+Mus_pahari	Tada3	MGP_PahariEiJ_G0022473	Transcriptional adaptor	110316113
+Mus_pahari	Vhl	MGP_PahariEiJ_G0022487	Others	110316548
+Mus_pahari	Vgll4	MGP_PahariEiJ_G0022497	Vestigial like	110317243
+Mus_pahari	Raf1	MGP_PahariEiJ_G0022506	Others	110314893
+Mus_pahari	Kdm5a	MGP_PahariEiJ_G0022557	Lysine demethylase	110316599
+Mus_pahari	Cecr2	MGP_PahariEiJ_G0022561	Other_CRF	110316611
+Mus_pahari		MGP_PahariEiJ_G0022609	Others	110316180
+Mus_pahari	Ing4	MGP_PahariEiJ_G0022626	ING	110315971
+Mus_pahari	Chd4	MGP_PahariEiJ_G0022629	CHD	NA
+Mus_pahari	Prmt8	MGP_PahariEiJ_G0022660	Arginine methyltransferase	110316299
+Mus_pahari		MGP_PahariEiJ_G0022672	Nuclear coactivator	110317158
+Mus_pahari	Cdkn1b	MGP_PahariEiJ_G0022746	Cyclin	110316560
+Mus_pahari		MGP_PahariEiJ_G0022758	Others	110316194
+Mus_pahari	Strap	MGP_PahariEiJ_G0022773	Others	NA
+Mus_pahari	Med21	MGP_PahariEiJ_G0022819	Mediator complex	110316648
+Mus_pahari	Smarca5	MGP_PahariEiJ_G0022862	SWI/SNF	110337190
+Mus_pahari	Dnajb1	MGP_PahariEiJ_G0022879	Others	110337241
+Mus_pahari	Asf1b	MGP_PahariEiJ_G0022887	Others	110337322
+Mus_pahari	Calr	MGP_PahariEiJ_G0022916	Others	110337259
+Mus_pahari	Brd7	MGP_PahariEiJ_G0022956	Bromodomain	110337277
+Mus_pahari	Nod2	MGP_PahariEiJ_G0022959	Others	110337641
+Mus_pahari	Chd9	MGP_PahariEiJ_G0022964	CHD	NA
+Mus_pahari	Rbl2	MGP_PahariEiJ_G0022965	Other_Co-activator/repressors	110337191
+Mus_pahari	Arl2bp	MGP_PahariEiJ_G0023000	Others	110337486
+Mus_pahari	Csnk2a2	MGP_PahariEiJ_G0023022	Casein	110337286
+Mus_pahari	Setd6	MGP_PahariEiJ_G0023027	SET	110337578
+Mus_pahari	Cnot1	MGP_PahariEiJ_G0023028	CCR4-NOT	110337318
+Mus_pahari	Tradd	MGP_PahariEiJ_G0023067	Others	110337608
+Mus_pahari	Prmt7	MGP_PahariEiJ_G0023116	Arginine methyltransferase	110337323
+Mus_pahari	Utp4	MGP_PahariEiJ_G0023125	Others	110337666
+Mus_pahari	Wwp2	MGP_PahariEiJ_G0023137	WW	110337633
+Mus_pahari	Terf2ip	MGP_PahariEiJ_G0023187	Others	110337470
+Mus_pahari	Wwox	MGP_PahariEiJ_G0023195	WW	110337406
+Mus_pahari	Cdyl2	MGP_PahariEiJ_G0023198	Chromodomain Y	110337541
+Mus_pahari	Hsbp1	MGP_PahariEiJ_G0023213	Heat shock protein	110329673
+Mus_pahari		MGP_PahariEiJ_G0023221	TATA-box	NA
+Mus_pahari	Banp	MGP_PahariEiJ_G0023253	Others	110337291
+Mus_pahari	Cbfa2t3	MGP_PahariEiJ_G0023269	Others	110337274
+Mus_pahari	Taf5l	MGP_PahariEiJ_G0023299	TATA-box	110337324
+Mus_pahari	Tarbp1	MGP_PahariEiJ_G0023326	Others	110337547
+Mus_pahari	Gtf2h5	MGP_PahariEiJ_G0023346	GTF	110338311
+Mus_pahari	Ezr	MGP_PahariEiJ_G0023350	Others	110338525
+Mus_pahari	Phf10	MGP_PahariEiJ_G0023404	PHF	110337905
+Mus_pahari	Tbp	MGP_PahariEiJ_G0023411	TATA-box	110338047
+Mus_pahari		MGP_PahariEiJ_G0023413	Others	NA
+Mus_pahari	Chd1	MGP_PahariEiJ_G0023414	CHD	110337931
+Mus_pahari	Axin1	MGP_PahariEiJ_G0023592	Others	110338127
+Mus_pahari	Phf1	MGP_PahariEiJ_G0023607	PHF	110337949
+Mus_pahari	Taf11	MGP_PahariEiJ_G0023628	TATA-box	110338242
+Mus_pahari	BC004004	MGP_PahariEiJ_G0023659	Other_CRF	110338131
+Mus_pahari	Pim1	MGP_PahariEiJ_G0023663	Others	110338042
+Mus_pahari		MGP_PahariEiJ_G0023667	Ring finger protein	110337842
+Mus_pahari	Cited2	MGP_PahariEiJ_G0023753	CITED	110338027
+Mus_pahari	Sgk1	MGP_PahariEiJ_G0023786	Others	110338537
+Mus_pahari	Tbpl1	MGP_PahariEiJ_G0023788	TATA-box	110338035
+Mus_pahari	Eya4	MGP_PahariEiJ_G0023790	EYA	110338399
+Mus_pahari	Med23	MGP_PahariEiJ_G0023813	Mediator complex	110337925
+Mus_pahari	Ncoa7	MGP_PahariEiJ_G0023836	Nuclear receptor coactivator	110337908
+Mus_pahari	Eya1	MGP_PahariEiJ_G0023861	EYA	110338633
+Mus_pahari	Ncoa2	MGP_PahariEiJ_G0023865	Nuclear receptor coactivator	110338922
+Mus_pahari	Cops5	MGP_PahariEiJ_G0023874	Others	NA
+Mus_pahari	Tcea1	MGP_PahariEiJ_G0023893	TEF	110338784
+Mus_pahari		MGP_PahariEiJ_G0023901	Others	110338689
+Mus_pahari	Sdr16c5	MGP_PahariEiJ_G0023908	Others	NA
+Mus_pahari	Chd7	MGP_PahariEiJ_G0023920	CHD	110338932
+Mus_pahari	Runx1t1	MGP_PahariEiJ_G0023942	Others	110338627
+Mus_pahari	Wwp1	MGP_PahariEiJ_G0023960	WW	110338628
+Mus_pahari	Ccnc	MGP_PahariEiJ_G0023967	Cyclin	110338622
+Mus_pahari	Fhl5	MGP_PahariEiJ_G0023979	FHL	110338924
+Mus_pahari	Ufl1	MGP_PahariEiJ_G0023980	Others	110338638
+Mus_pahari	Casp8ap2	MGP_PahariEiJ_G0023987	Others	110338738
+Mus_pahari	Pnrc1	MGP_PahariEiJ_G0023997	Others	110338809
+Mus_pahari	Topors	MGP_PahariEiJ_G0024017	Others	110338674
+Mus_pahari	Spag8	MGP_PahariEiJ_G0024092	Others	110338740
+Mus_pahari	Grhpr	MGP_PahariEiJ_G0024112	Others	110338833
+Mus_pahari	Ep400	MGP_PahariEiJ_G0024132	Others	110313002
+Mus_pahari	Chek2	MGP_PahariEiJ_G0024136	Others	110312870
+Mus_pahari	Rnf10	MGP_PahariEiJ_G0024199	Ring finger protein	110339102
+Mus_pahari	Suds3	MGP_PahariEiJ_G0024220	Other_Co-activator/repressors	110339195
+Mus_pahari	Tesc	MGP_PahariEiJ_G0024229	Others	110312965
+Mus_pahari	Med13l	MGP_PahariEiJ_G0024234	Mediator complex	110339034
+Mus_pahari	Rita1	MGP_PahariEiJ_G0024246	Others	110313106
+Mus_pahari	Ddx54	MGP_PahariEiJ_G0024247	RNA helicase	110312750
+Mus_pahari	Dtx1	MGP_PahariEiJ_G0024250	Others	110312924
+Mus_pahari	Kdm2b	MGP_PahariEiJ_G0024295	Lysine demethylase	110339091
+Mus_pahari	Ccdc62	MGP_PahariEiJ_G0024319	Coiled-coil	110313206
+Mus_pahari	Kmt5a	MGP_PahariEiJ_G0024330	Lysine methyltransferase	110312821
+Mus_pahari	Gtf2h3	MGP_PahariEiJ_G0024337	GTF	110312951
+Mus_pahari	Ran	MGP_PahariEiJ_G0024358	Others	110339045
+Mus_pahari	Sfswap	MGP_PahariEiJ_G0024360	Others	110339178
+Mus_pahari		MGP_PahariEiJ_G0024379	Others	NA
+Mus_pahari	Baz1b	MGP_PahariEiJ_G0024411	Bromodomain	110339072
+Mus_pahari	Trip6	MGP_PahariEiJ_G0024457	Thyroid hormone receptor	110312849
+Mus_pahari	Taf6	MGP_PahariEiJ_G0024480	TATA-box	110339114
+Mus_pahari		MGP_PahariEiJ_G0024540	Actin	110313074
+Mus_pahari	Trrap	MGP_PahariEiJ_G0024573	Others	110339153
+Mus_pahari	Smurf1	MGP_PahariEiJ_G0024574	Others	110339179
+Mus_pahari	Bud31	MGP_PahariEiJ_G0024579	Others	110313221
+Mus_pahari	Rnf6	MGP_PahariEiJ_G0024590	Ring finger protein	110312824
+Mus_pahari	Cdk8	MGP_PahariEiJ_G0024591	Cyclin	110312762
+Mus_pahari		MGP_PahariEiJ_G0024626	Others	NA
+Mus_pahari	Bmi1	MGP_PahariEiJ_G0024663	Others	110317823
+Mus_pahari	Ehmt1	MGP_PahariEiJ_G0024698	Histone lysine methyltransferase	110317691
+Mus_pahari	Nelfb	MGP_PahariEiJ_G0024709	GTF	110317722
+Mus_pahari	Notch1	MGP_PahariEiJ_G0024775	Notch	110318758
+Mus_pahari	Med22	MGP_PahariEiJ_G0024783	Mediator complex	110318189
+Mus_pahari	Rexo4	MGP_PahariEiJ_G0024789	Others	110318555
+Mus_pahari	Brd3	MGP_PahariEiJ_G0024799	Bromodomain	110317737
+Mus_pahari	Wdr5	MGP_PahariEiJ_G0024800	WD	110318087
+Mus_pahari	Med27	MGP_PahariEiJ_G0024823	Mediator complex	110318213
+Mus_pahari		MGP_PahariEiJ_G0024835	SET	110317789
+Mus_pahari	Abl1	MGP_PahariEiJ_G0024873	Others	110318646
+Mus_pahari	Eng	MGP_PahariEiJ_G0024900	Others	110317851
+Mus_pahari	Cdk9	MGP_PahariEiJ_G0024902	Cyclin	NA
+Mus_pahari	Niban2	MGP_PahariEiJ_G0024910	FAM	110318206
+Mus_pahari	Phf19	MGP_PahariEiJ_G0024929	PHF	110318915
+Mus_pahari	Scai	MGP_PahariEiJ_G0024986	Others	110318198
+Mus_pahari	Epc2	MGP_PahariEiJ_G0024996	Others	110317754
+Mus_pahari	Nmi	MGP_PahariEiJ_G0025004	Others	110318598
+Mus_pahari	Hat1	MGP_PahariEiJ_G0025096	Others	NA
+Mus_pahari		MGP_PahariEiJ_G0025170	Casein	110318468
+Mus_pahari	Med19	MGP_PahariEiJ_G0025175	Mediator complex	110318727
+Mus_pahari	Phf21a	MGP_PahariEiJ_G0025412	PHF	110317763
+Mus_pahari	Traf6	MGP_PahariEiJ_G0025439	Others	110318382
+Mus_pahari	Lmo2	MGP_PahariEiJ_G0025456	LIM	110318330
+Mus_pahari	Hipk3	MGP_PahariEiJ_G0025463	HIPK	110319573
+Mus_pahari	Elp4	MGP_PahariEiJ_G0025476	ELP	110318444
+Mus_pahari	Pak6	MGP_PahariEiJ_G0025562	Others	110317852
+Mus_pahari	Ino80	MGP_PahariEiJ_G0025587	INO80 complex	110317830
+Mus_pahari	Rtf1	MGP_PahariEiJ_G0025592	Others	110318183
+Mus_pahari	Trp53bp1	MGP_PahariEiJ_G0025628	Others	110318133
+Mus_pahari	Ell3	MGP_PahariEiJ_G0025635	GTF	110319242
+Mus_pahari	Eid1	MGP_PahariEiJ_G0025676	EID	110318127
+Mus_pahari	Cops2	MGP_PahariEiJ_G0025678	Others	110317592
+Mus_pahari	Kcnip3	MGP_PahariEiJ_G0025704	Others	110317680
+Mus_pahari	Cenpb	MGP_PahariEiJ_G0025768	CENP	110319021
+Mus_pahari	Prnp	MGP_PahariEiJ_G0025777	Others	110318145
+Mus_pahari	Esf1	MGP_PahariEiJ_G0025810	Others	110318203
+Mus_pahari	Polr3f	MGP_PahariEiJ_G0025829	POLR	110318496
+Mus_pahari	Xrn2	MGP_PahariEiJ_G0025843	Others	110318322
+Mus_pahari	Csnk2a1	MGP_PahariEiJ_G0025892	Casein	110317612
+Mus_pahari	Trib3	MGP_PahariEiJ_G0025895	Others	110318783
+Mus_pahari	Hck	MGP_PahariEiJ_G0025925	Others	NA
+Mus_pahari	Asxl1	MGP_PahariEiJ_G0025931	Others	110317718
+Mus_pahari		MGP_PahariEiJ_G0025934	DNA_methylase	NA
+Mus_pahari	Cbfa2t2	MGP_PahariEiJ_G0025953	Others	110318408
+Mus_pahari	Raly	MGP_PahariEiJ_G0025963	Others	110318182
+Mus_pahari	Itch	MGP_PahariEiJ_G0025968	Others	110317579
+Mus_pahari	Rbm39	MGP_PahariEiJ_G0025999	RNA binding protein	NA
+Mus_pahari	Phf20	MGP_PahariEiJ_G0026000	PHF	110318476
+Mus_pahari	Scand1	MGP_PahariEiJ_G0026001	Others	110318379
+Mus_pahari	Rbl1	MGP_PahariEiJ_G0026015	Other_Co-activator/repressors	110318208
+Mus_pahari	Src	MGP_PahariEiJ_G0026020	Others	110317793
+Mus_pahari	Rprd1b	MGP_PahariEiJ_G0026026	Others	110317549
+Mus_pahari	Actr5	MGP_PahariEiJ_G0026036	ACTR	110318638
+Mus_pahari	Top1	MGP_PahariEiJ_G0026043	Other_CRF	110317638
+Mus_pahari	Lpin3	MGP_PahariEiJ_G0026046	LPIN	110318226
+Mus_pahari	Chd6	MGP_PahariEiJ_G0026048	CHD	110318690
+Mus_pahari	Ywhab	MGP_PahariEiJ_G0026070	Others	110318313
+Mus_pahari	Pabpc1l	MGP_PahariEiJ_G0026071	Other_CRF	110318873
+Mus_pahari		MGP_PahariEiJ_G0026135	Zinc finger	NA
+Mus_pahari	Ncoa3	MGP_PahariEiJ_G0026136	Nuclear receptor coactivator	110318560
+Mus_pahari	Ss18l1	MGP_PahariEiJ_G0026216	SS18	110319569
+Mus_pahari	Mrgbp	MGP_PahariEiJ_G0026229	Others	110318497
+Mus_pahari	Helz2	MGP_PahariEiJ_G0026249	Others	110319071
+Mus_pahari	Prpf6	MGP_PahariEiJ_G0026262	Others	110317847
+Mus_pahari	Tcea2	MGP_PahariEiJ_G0026265	TEF	110318626
+Mus_pahari	Pex2	MGP_PahariEiJ_G0026274	Others	110320436
+Mus_pahari	Hltf	MGP_PahariEiJ_G0026323	Others	110319924
+Mus_pahari	Tbl1xr1	MGP_PahariEiJ_G0026328	Transducin	NA
+Mus_pahari	Skil	MGP_PahariEiJ_G0026355	SKI	110319926
+Mus_pahari	Actl6a	MGP_PahariEiJ_G0026365	Actin	110319822
+Mus_pahari	Ccna2	MGP_PahariEiJ_G0026380	Cyclin	110320068
+Mus_pahari	Jade1	MGP_PahariEiJ_G0026405	Others	110319968
+Mus_pahari	Naa15	MGP_PahariEiJ_G0026416	Others	110319813
+Mus_pahari	Setd7	MGP_PahariEiJ_G0026418	SET	110320364
+Mus_pahari	Maml3	MGP_PahariEiJ_G0026420	MAML	110320275
+Mus_pahari	Supt20	MGP_PahariEiJ_G0026431	SUPT	110319864
+Mus_pahari	Rfxap	MGP_PahariEiJ_G0026436	Others	110320546
+Mus_pahari	Ccna1	MGP_PahariEiJ_G0026438	Cyclin	110320587
+Mus_pahari	Siah2	MGP_PahariEiJ_G0026456	Others	110320321
+Mus_pahari	Med12l	MGP_PahariEiJ_G0026458	Mediator complex	110319872
+Mus_pahari	Dhx36	MGP_PahariEiJ_G0026476	RNA helicase	110320069
+Mus_pahari		MGP_PahariEiJ_G0026528	Others	NA
+Mus_pahari	Plrg1	MGP_PahariEiJ_G0026549	Others	110320812
+Mus_pahari	Fbxw7	MGP_PahariEiJ_G0026562	Others	110319986
+Mus_pahari	Hdgf	MGP_PahariEiJ_G0026587	Others	110320165
+Mus_pahari	Pmf1	MGP_PahariEiJ_G0026611	Others	110320642
+Mus_pahari	Ash1l	MGP_PahariEiJ_G0026627	Others	110320636
+Mus_pahari	Muc1	MGP_PahariEiJ_G0026639	Others	110320564
+Mus_pahari	Pygo2	MGP_PahariEiJ_G0026655	Others	110320013
+Mus_pahari	Pbxip1	MGP_PahariEiJ_G0026656	Others	110320109
+Mus_pahari	Crtc2	MGP_PahariEiJ_G0026675	CREB	110320038
+Mus_pahari	Ilf2	MGP_PahariEiJ_G0026681	Others	110319956
+Mus_pahari	Chtop	MGP_PahariEiJ_G0026683	Others	NA
+Mus_pahari	S100a8	MGP_PahariEiJ_G0026695	Others	110321024
+Mus_pahari	S100a9	MGP_PahariEiJ_G0026696	Others	110320988
+Mus_pahari		MGP_PahariEiJ_G0026804	ANP	NA
+Mus_pahari	Txnip	MGP_PahariEiJ_G0026823	Others	110319943
+Mus_pahari	Polr3c	MGP_PahariEiJ_G0026835	POLR	110320240
+Mus_pahari	Bcl9	MGP_PahariEiJ_G0026843	BCL	110319754
+Mus_pahari	Chd1l	MGP_PahariEiJ_G0026845	CHD	110320098
+Mus_pahari	Notch2	MGP_PahariEiJ_G0026851	Notch	110319730
+Mus_pahari	Ttf2	MGP_PahariEiJ_G0026871	Others	110320288
+Mus_pahari	Trim33	MGP_PahariEiJ_G0026893	Tripartite motif	110319987
+Mus_pahari	Hipk1	MGP_PahariEiJ_G0026897	HIPK	110320427
+Mus_pahari	Ddx20	MGP_PahariEiJ_G0026919	RNA helicase	110320090
+Mus_pahari	Wdr77	MGP_PahariEiJ_G0026926	WD	110319852
+Mus_pahari	Lrif1	MGP_PahariEiJ_G0026936	Others	110320431
+Mus_pahari	Rbm15	MGP_PahariEiJ_G0026947	RNA binding protein	110319955
+Mus_pahari	Taf13	MGP_PahariEiJ_G0026981	TATA-box	110320584
+Mus_pahari	Prmt6	MGP_PahariEiJ_G0026996	Arginine methyltransferase	110320173
+Mus_pahari	Dnttip2	MGP_PahariEiJ_G0027039	Others	110320882
+Mus_pahari	Camk2d	MGP_PahariEiJ_G0027058	CAMK	110320932
+Mus_pahari		MGP_PahariEiJ_G0027117	Others	110319859
+Mus_pahari	Gtf2b	MGP_PahariEiJ_G0027148	GTF	110320153
+Mus_pahari	Bcl10	MGP_PahariEiJ_G0027166	BCL	110320606
+Mus_pahari	Cth	MGP_PahariEiJ_G0027215	Others	110320651
+Mus_pahari	Depdc1a	MGP_PahariEiJ_G0027220	Others	110319905
+Mus_pahari	Zfp451	MGP_PahariEiJ_G0027263	Zinc finger	110321161
+Mus_pahari	Bend6	MGP_PahariEiJ_G0027264	Others	110322253
+Mus_pahari	Cnot11	MGP_PahariEiJ_G0027318	CCR4-NOT	NA
+Mus_pahari	Fhl2	MGP_PahariEiJ_G0027337	FHL	110321740
+Mus_pahari	Nab1	MGP_PahariEiJ_G0027362	Others	110321493
+Mus_pahari	Nif3l1	MGP_PahariEiJ_G0027403	Others	110322692
+Mus_pahari	Orc2	MGP_PahariEiJ_G0027404	Others	NA
+Mus_pahari	Trak2	MGP_PahariEiJ_G0027409	Others	110321809
+Mus_pahari	Ino80d	MGP_PahariEiJ_G0027434	INO80 complex	110321465
+Mus_pahari	Erbb4	MGP_PahariEiJ_G0027470	Erbb2	110321248
+Mus_pahari	Ankar	MGP_PahariEiJ_G0027484	Ankyrin repeat	110322095
+Mus_pahari	Tnp1	MGP_PahariEiJ_G0027488	Other_CRF	110322653
+Mus_pahari	Ctdsp1	MGP_PahariEiJ_G0027500	Others	110321490
+Mus_pahari	Cnot9	MGP_PahariEiJ_G0027503	CCR4-NOT	110321411
+Mus_pahari	Rnf25	MGP_PahariEiJ_G0027507	Ring finger protein	110321209
+Mus_pahari	Stk36	MGP_PahariEiJ_G0027508	Others	NA
+Mus_pahari	Pid1	MGP_PahariEiJ_G0027574	Others	110321470
+Mus_pahari	Ncl	MGP_PahariEiJ_G0027599	Others	NA
+Mus_pahari	Per2	MGP_PahariEiJ_G0027660	Others	110321613
+Mus_pahari	Hdac4	MGP_PahariEiJ_G0027664	Histone deacetylase	NA
+Mus_pahari	Ccnt2	MGP_PahariEiJ_G0027775	Cyclin	110321164
+Mus_pahari	Rbbp5	MGP_PahariEiJ_G0027824	RBBP	NA
+Mus_pahari	Mdm4	MGP_PahariEiJ_G0027829	Others	110321327
+Mus_pahari	Kdm5b	MGP_PahariEiJ_G0027862	Lysine demethylase	110322297
+Mus_pahari	Cdc73	MGP_PahariEiJ_G0027909	Others	110321862
+Mus_pahari	Tpr	MGP_PahariEiJ_G0027924	Others	110321533
+Mus_pahari	Rnf2	MGP_PahariEiJ_G0027930	Ring finger protein	NA
+Mus_pahari	Dcaf6	MGP_PahariEiJ_G0028041	Others	NA
+Mus_pahari	Creg1	MGP_PahariEiJ_G0028046	Others	110321783
+Mus_pahari	Tada1	MGP_PahariEiJ_G0028053	Transcriptional adaptor	110321792
+Mus_pahari		MGP_PahariEiJ_G0028158	Others	NA
+Mus_pahari		MGP_PahariEiJ_G0028193	HNRNP	NA
+Mus_pahari	Smyd3	MGP_PahariEiJ_G0028196	SMYD	NA
+Mus_pahari		MGP_PahariEiJ_G0028197	Others	110322201
+Mus_pahari	Lin9	MGP_PahariEiJ_G0028210	Others	110321578
+Mus_pahari		MGP_PahariEiJ_G0028243	TATA-box	NA
+Mus_pahari	Cenpf	MGP_PahariEiJ_G0028267	CENP	110321254
+Mus_pahari	Anp32b	MGP_PahariEiJ_G0028323	ANP	NA
+Mus_pahari	Rnf20	MGP_PahariEiJ_G0028351	Ring finger protein	NA
+Mus_pahari	Elp1	MGP_PahariEiJ_G0028375	ELP	NA
+Mus_pahari	Txn1	MGP_PahariEiJ_G0028386	Others	NA
+Mus_pahari	Trim32	MGP_PahariEiJ_G0028440	Tripartite motif	110323957
+Mus_pahari	Tle1	MGP_PahariEiJ_G0028446	Transducin	NA
+Mus_pahari	Kdm4c	MGP_PahariEiJ_G0028450	Lysine demethylase	110322808
+Mus_pahari	Psip1	MGP_PahariEiJ_G0028462	Others	110322924
+Mus_pahari	Mllt3	MGP_PahariEiJ_G0028476	GTF	110322843
+Mus_pahari	Itgb3bp	MGP_PahariEiJ_G0028532	Others	NA
+Mus_pahari	Ssbp3	MGP_PahariEiJ_G0028575	Others	110322730
+Mus_pahari	Plk3	MGP_PahariEiJ_G0028684	Others	NA
+Mus_pahari	Dmap1	MGP_PahariEiJ_G0028690	DNA_methylase	110322931
+Mus_pahari	Kdm4a	MGP_PahariEiJ_G0028701	Lysine demethylase	NA
+Mus_pahari	Med8	MGP_PahariEiJ_G0028704	Mediator complex	NA
+Mus_pahari	Scmh1	MGP_PahariEiJ_G0028738	Others	110323097
+Mus_pahari	Cited4	MGP_PahariEiJ_G0028742	CITED	110323724
+Mus_pahari	Ppie	MGP_PahariEiJ_G0028761	Others	110322867
+Mus_pahari	Fhl3	MGP_PahariEiJ_G0028779	FHL	NA
+Mus_pahari	Snip1	MGP_PahariEiJ_G0028791	Others	110323296
+Mus_pahari	Meaf6	MGP_PahariEiJ_G0028792	Others	NA
+Mus_pahari		MGP_PahariEiJ_G0028802	Thyroid hormone receptor	NA
+Mus_pahari	Ago1	MGP_PahariEiJ_G0028809	Others	110323159
+Mus_pahari	Rbbp4	MGP_PahariEiJ_G0028847	RBBP	NA
+Mus_pahari	Hdac1	MGP_PahariEiJ_G0028855	Histone deacetylase	110322864
+Mus_pahari	Taf12	MGP_PahariEiJ_G0028894	TATA-box	NA
+Mus_pahari	Med18	MGP_PahariEiJ_G0028899	Mediator complex	110323657
+Mus_pahari	Eya3	MGP_PahariEiJ_G0028904	EYA	110322850
+Mus_pahari	Wdtc1	MGP_PahariEiJ_G0028920	WD	110323248
+Mus_pahari	Zfp593	MGP_PahariEiJ_G0028946	Zinc finger	NA
+Mus_pahari	Pnrc2	MGP_PahariEiJ_G0028979	Others	NA
+Mus_pahari	Kdm1a	MGP_PahariEiJ_G0028997	Lysine demethylase	110322979
+Mus_pahari	Wnt4	MGP_PahariEiJ_G0029006	Others	NA
+Mus_pahari	Pink1	MGP_PahariEiJ_G0029020	Others	NA
+Mus_pahari	Padi4	MGP_PahariEiJ_G0029055	Others	110323394
+Mus_pahari	Padi2	MGP_PahariEiJ_G0029058	Other_CRF	110323090
+Mus_pahari	Spen	MGP_PahariEiJ_G0029076	Others	110323944
+Mus_pahari	Pramel13	MGP_PahariEiJ_G0029117	Others	110323756
+Mus_pahari	Mad2l2	MGP_PahariEiJ_G0029142	Others	NA
+Mus_pahari	Mtor	MGP_PahariEiJ_G0029148	Others	110323363
+Mus_pahari	Pex14	MGP_PahariEiJ_G0029156	Others	110323164
+Mus_pahari	Ctnnbip1	MGP_PahariEiJ_G0029166	Casein	110323239
+Mus_pahari		MGP_PahariEiJ_G0029177	Others	110323736
+Mus_pahari	Park7	MGP_PahariEiJ_G0029181	Others	110323526
+Mus_pahari	Ski	MGP_PahariEiJ_G0029233	SKI	NA
+Mus_pahari	Ssu72	MGP_PahariEiJ_G0029246	Others	110323073
+Mus_pahari	Aurkaip1	MGP_PahariEiJ_G0029254	Others	110323512
+Mus_pahari	Noc2l	MGP_PahariEiJ_G0029275	Others	110323114
+Mus_pahari	Supt7l	MGP_PahariEiJ_G0029285	SUPT	NA
+Mus_pahari	Ddx1	MGP_PahariEiJ_G0029378	RNA helicase	110324932
+Mus_pahari	Lpin1	MGP_PahariEiJ_G0029382	LPIN	110324147
+Mus_pahari	Slc26a3	MGP_PahariEiJ_G0029434	SLC	110324765
+Mus_pahari	Strn3	MGP_PahariEiJ_G0029492	Others	110324917
+Mus_pahari	Arhgap5	MGP_PahariEiJ_G0029499	Others	NA
+Mus_pahari	Eapp	MGP_PahariEiJ_G0029504	Others	NA
+Mus_pahari	Snx6	MGP_PahariEiJ_G0029505	Others	110324256
+Mus_pahari	Baz1a	MGP_PahariEiJ_G0029507	Bromodomain	110324499
+Mus_pahari	Nfkbia	MGP_PahariEiJ_G0029516	NFKB associated	110324484
+Mus_pahari		MGP_PahariEiJ_G0029519	Others	110324170
+Mus_pahari	Brms1l	MGP_PahariEiJ_G0029520	Other_CRF	110324172
+Mus_pahari	Sav1	MGP_PahariEiJ_G0029571	Others	110324307
+Mus_pahari	Dact1	MGP_PahariEiJ_G0029584	Others	110324511
+Mus_pahari	Mnat1	MGP_PahariEiJ_G0029600	Others	NA
+Mus_pahari	Hspa2	MGP_PahariEiJ_G0029622	Heat shock protein	110324477
+Mus_pahari	Actn1	MGP_PahariEiJ_G0029650	Actin	110324934
+Mus_pahari	Med6	MGP_PahariEiJ_G0029668	Mediator complex	110324464
+Mus_pahari	Dpf3	MGP_PahariEiJ_G0029674	DPF	NA
+Mus_pahari	Psen1	MGP_PahariEiJ_G0029678	Others	NA
+Mus_pahari	Irf2bpl	MGP_PahariEiJ_G0029739	Others	110324308
+Mus_pahari	Snw1	MGP_PahariEiJ_G0029755	Others	NA
+Mus_pahari		MGP_PahariEiJ_G0029761	GTF	NA
+Mus_pahari	Trip11	MGP_PahariEiJ_G0029789	Thyroid hormone receptor	NA
+Mus_pahari		MGP_PahariEiJ_G0029854	SET	NA
+Mus_pahari	Ccnk	MGP_PahariEiJ_G0029855	Cyclin	110324180
+Mus_pahari		MGP_PahariEiJ_G0029911	Others	110324548
+Mus_pahari	Brf1	MGP_PahariEiJ_G0029923	GTF	NA
+Mus_pahari	Ecd	MGP_PahariEiJ_G0029998	Others	NA
+Mus_pahari		MGP_PahariEiJ_G0030019	Lysine acetyltransferase	NA
+Mus_pahari	Tasor	MGP_PahariEiJ_G0030056	FAM	NA
+Mus_pahari	Actr8	MGP_PahariEiJ_G0030063	ACTR	110325378
+Mus_pahari	Sfmbt1	MGP_PahariEiJ_G0030071	Others	110325293
+Mus_pahari	Gnl3	MGP_PahariEiJ_G0030080	Others	110325207
+Mus_pahari	Eaf1	MGP_PahariEiJ_G0030094	Others	NA
+Mus_pahari		MGP_PahariEiJ_G0030104	Nuclear receptor coactivator	NA
+Mus_pahari	Apex1	MGP_PahariEiJ_G0030232	Others	NA
+Mus_pahari	Hnrnpc	MGP_PahariEiJ_G0030256	HNRNP	NA
+Mus_pahari	Chd8	MGP_PahariEiJ_G0030258	CHD	110325662
+Mus_pahari	Prmt5	MGP_PahariEiJ_G0030277	Arginine methyltransferase	NA
+Mus_pahari	Ajuba	MGP_PahariEiJ_G0030279	Others	110325431
+Mus_pahari	Nedd8	MGP_PahariEiJ_G0030326	Others	NA
+Mus_pahari	Ripk3	MGP_PahariEiJ_G0030337	Others	110325658
+Mus_pahari	Mphosph8	MGP_PahariEiJ_G0030358	Others	110325353
+Mus_pahari	Pspc1	MGP_PahariEiJ_G0030359	Others	110325221
+Mus_pahari	Zmym5	MGP_PahariEiJ_G0030360	Zinc finger	NA
+Mus_pahari	Zmym2	MGP_PahariEiJ_G0030361	Zinc finger	NA
+Mus_pahari	Sap18b	MGP_PahariEiJ_G0030372	SAP	NA
+Mus_pahari	Elp3	MGP_PahariEiJ_G0030443	ELP	110325213
+Mus_pahari	Clu	MGP_PahariEiJ_G0030450	Others	110325498
+Mus_pahari	Loxl2	MGP_PahariEiJ_G0030483	Others	NA
+Mus_pahari	Ccar2	MGP_PahariEiJ_G0030491	Others	110326038
+Mus_pahari	Hr	MGP_PahariEiJ_G0030504	Lysine methyltransferase	NA
+Mus_pahari	Npm2	MGP_PahariEiJ_G0030509	Nucleoplasmin	110325867
+Mus_pahari	Rb1	MGP_PahariEiJ_G0030516	Other_Co-activator/repressors	110325233
+Mus_pahari	Med4	MGP_PahariEiJ_G0030519	Mediator complex	110325589
+Mus_pahari	Rgcc	MGP_PahariEiJ_G0030555	Others	110325631
+Mus_pahari	Tdrd3	MGP_PahariEiJ_G0030569	Others	110325194
+Mus_pahari	Mycbp2	MGP_PahariEiJ_G0030591	MYC	110325255
+Mus_pahari	Frk	MGP_PahariEiJ_G0030654	Others	110326363
+Mus_pahari	Hdac2	MGP_PahariEiJ_G0030656	Histone deacetylase	110326229
+Mus_pahari	Bend3	MGP_PahariEiJ_G0030705	Others	110326883
+Mus_pahari	Ascc3	MGP_PahariEiJ_G0030719	ASCC	NA
+Mus_pahari		MGP_PahariEiJ_G0030726	Others	NA
+Mus_pahari	Vgll2	MGP_PahariEiJ_G0030727	Vestigial like	110326797
+Mus_pahari	Asf1a	MGP_PahariEiJ_G0030738	Others	110326487
+Mus_pahari	Ascc1	MGP_PahariEiJ_G0030767	ASCC	110326412
+Mus_pahari	Pcbd1	MGP_PahariEiJ_G0030776	Others	110326908
+Mus_pahari	Macroh2a2	MGP_PahariEiJ_G0030791	Others	110326259
+Mus_pahari	Ccar1	MGP_PahariEiJ_G0030807	Others	110326193
+Mus_pahari	Sirt1	MGP_PahariEiJ_G0030817	Sirtuin	110326468
+Mus_pahari	Jmjd1c	MGP_PahariEiJ_G0030823	Other_CRF	110326452
+Mus_pahari	Nrbf2	MGP_PahariEiJ_G0030824	Nuclear receptor coactivator	NA
+Mus_pahari	Cdk1	MGP_PahariEiJ_G0030835	Cyclin	NA
+Mus_pahari	Smarcb1	MGP_PahariEiJ_G0030871	SWI/SNF	110326275
+Mus_pahari	Chchd10	MGP_PahariEiJ_G0030873	Coiled-coil	110326945
+Mus_pahari	Prmt2	MGP_PahariEiJ_G0030877	Arginine methyltransferase	110326223
+Mus_pahari	Slc19a1	MGP_PahariEiJ_G0030891	SLC	110326577
+Mus_pahari	Mier2	MGP_PahariEiJ_G0030940	MIER	110326451
+Mus_pahari	Elane	MGP_PahariEiJ_G0030961	Others	110326943
+Mus_pahari	Med16	MGP_PahariEiJ_G0030963	Mediator complex	110326474
+Mus_pahari	Dot1l	MGP_PahariEiJ_G0031013	Others	110326191
+Mus_pahari	Dapk3	MGP_PahariEiJ_G0031037	Others	NA
+Mus_pahari	Sirt6	MGP_PahariEiJ_G0031065	Sirtuin	110326146
+Mus_pahari	Cdk2	MGP_PahariEiJ_G0031134	Cyclin	110327130
+Mus_pahari	Pa2g4	MGP_PahariEiJ_G0031140	Others	NA
+Mus_pahari	Timeless	MGP_PahariEiJ_G0031159	Others	110327060
+Mus_pahari	Naca	MGP_PahariEiJ_G0031167	Others	110326219
+Mus_pahari	Nab2	MGP_PahariEiJ_G0031182	Others	110326352
+Mus_pahari	Grip1	MGP_PahariEiJ_G0031242	Others	110327061
+Mus_pahari	Mdm2	MGP_PahariEiJ_G0031251	Others	NA
+Mus_pahari	Cnot2	MGP_PahariEiJ_G0031265	CCR4-NOT	110327124
+Mus_pahari	Pawr	MGP_PahariEiJ_G0031297	Others	NA
+Mus_pahari	Ccdc59	MGP_PahariEiJ_G0031306	Coiled-coil	NA
+Mus_pahari	Cep290	MGP_PahariEiJ_G0031317	Others	110326361
+Mus_pahari	Btg1	MGP_PahariEiJ_G0031332	Others	NA
+Mus_pahari	Actr6	MGP_PahariEiJ_G0031365	ACTR	NA
+Mus_pahari	Cry1	MGP_PahariEiJ_G0031401	Others	NA
+Mus_pahari	Hcfc2	MGP_PahariEiJ_G0031420	Others	110326139
+Mus_pahari	Tdg	MGP_PahariEiJ_G0031422	Others	NA
+Mus_pahari	Pqbp1	MGP_PahariEiJ_G0031451	Others	110313646
+Mus_pahari	Hdac6	MGP_PahariEiJ_G0031457	Histone deacetylase	110313282
+Mus_pahari	Suv39h1	MGP_PahariEiJ_G0031460	Others	110313347
+Mus_pahari	Bcor	MGP_PahariEiJ_G0031482	Other_Co-activator/repressors	110313832
+Mus_pahari	Med14	MGP_PahariEiJ_G0031485	Mediator complex	110313320
+Mus_pahari	Cask	MGP_PahariEiJ_G0031489	CAMK	110313896
+Mus_pahari	Kdm6a	MGP_PahariEiJ_G0031498	Lysine demethylase	110313380
+Mus_pahari	Uxt	MGP_PahariEiJ_G0031515	Others	NA
+Mus_pahari	Zcchc12	MGP_PahariEiJ_G0031529	Zinc finger	110313608
+Mus_pahari	Nkap	MGP_PahariEiJ_G0031544	NFKB associated	110313530
+Mus_pahari	Xiap	MGP_PahariEiJ_G0031570	Others	NA
+Mus_pahari	Tenm1	MGP_PahariEiJ_G0031574	Others	110314560
+Mus_pahari	Rap2c	MGP_PahariEiJ_G0031605	Others	110313655
+Mus_pahari		MGP_PahariEiJ_G0031636	Others	NA
+Mus_pahari	Vgll1	MGP_PahariEiJ_G0031637	Vestigial like	NA
+Mus_pahari	Rbmx	MGP_PahariEiJ_G0031641	RNA binding protein	NA
+Mus_pahari	Magea10	MGP_PahariEiJ_G0031681	MAGE	110314087
+Mus_pahari	Hcfc1	MGP_PahariEiJ_G0031711	Others	110313981
+Mus_pahari	Flna	MGP_PahariEiJ_G0031717	Others	110314123
+Mus_pahari	Ikbkg	MGP_PahariEiJ_G0031730	Others	NA
+Mus_pahari	Tbl1x	MGP_PahariEiJ_G0031746	Transducin	NA
+Mus_pahari		MGP_PahariEiJ_G0031758	Others	NA
+Mus_pahari	Maged1	MGP_PahariEiJ_G0031779	MAGE	110313495
+Mus_pahari	Med12	MGP_PahariEiJ_G0031822	Mediator complex	110314042
+Mus_pahari	Nono	MGP_PahariEiJ_G0031826	Others	NA
+Mus_pahari	Ogt	MGP_PahariEiJ_G0031829	Others	110313595
+Mus_pahari	Cited1	MGP_PahariEiJ_G0031837	CITED	110313983
+Mus_pahari	Hdac8	MGP_PahariEiJ_G0031838	Histone deacetylase	110313451
+Mus_pahari	Rlim	MGP_PahariEiJ_G0031850	Ring finger protein	110313914
+Mus_pahari	Atrx	MGP_PahariEiJ_G0031859	Others	NA
+Mus_pahari	Taf9b	MGP_PahariEiJ_G0031865	TATA-box	NA
+Mus_pahari	Taf7l	MGP_PahariEiJ_G0031931	TATA-box	110314036
+Mus_pahari	Btk	MGP_PahariEiJ_G0031933	Others	110313310
+Mus_pahari	Bex2	MGP_PahariEiJ_G0031954	Others	110313942
+Mus_pahari	Tceal5	MGP_PahariEiJ_G0031957	TEF	110313922
+Mus_pahari	Tceal1	MGP_PahariEiJ_G0031963	TEF	NA
+Mus_pahari	Morf4l2	MGP_PahariEiJ_G0031964	Other_CRF	NA
+Mus_pahari	Ripply1	MGP_PahariEiJ_G0031983	Others	NA
+Mus_pahari	Phf8	MGP_PahariEiJ_G0032033	PHF	110313305
+Mus_pahari	Kdm5c	MGP_PahariEiJ_G0032039	Lysine demethylase	110313472
+Mus_pahari	Tspyl2	MGP_PahariEiJ_G0032040	Others	110313541
+Mus_pahari	Rbbp7	MGP_PahariEiJ_G0032086	RBBP	NA
+Mus_pahari	Txlng	MGP_PahariEiJ_G0032087	Others	NA
+Mus_pahari	Pir	MGP_PahariEiJ_G0032100	Others	NA
+Mus_pahari	Trappc2	MGP_PahariEiJ_G0032111	Others	NA
+Mus_pahari	Msl3	MGP_PahariEiJ_G0032120	Others	NA

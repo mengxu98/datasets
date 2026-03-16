@@ -1,0 +1,942 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Catagonus_wagneri	SKAP1	ENSCWAG00000000046	Others	NA
+Catagonus_wagneri	INO80	ENSCWAG00000000094	INO80 complex	NA
+Catagonus_wagneri	SLTM	ENSCWAG00000000113	Others	NA
+Catagonus_wagneri	SS18L1	ENSCWAG00000000125	SS18	NA
+Catagonus_wagneri		ENSCWAG00000000135	Others	NA
+Catagonus_wagneri	IKBKG	ENSCWAG00000000145	Others	NA
+Catagonus_wagneri	RNF111	ENSCWAG00000000151	Ring finger protein	NA
+Catagonus_wagneri	SAP30L	ENSCWAG00000000208	SAP	NA
+Catagonus_wagneri	ICE1	ENSCWAG00000000224	Others	NA
+Catagonus_wagneri	WDR77	ENSCWAG00000000242	WD	NA
+Catagonus_wagneri	TAF4	ENSCWAG00000000252	TATA-box	NA
+Catagonus_wagneri	SQSTM1	ENSCWAG00000000263	Others	NA
+Catagonus_wagneri	ERCC3	ENSCWAG00000000269	Others	NA
+Catagonus_wagneri		ENSCWAG00000000294	GTF	NA
+Catagonus_wagneri	DHX33	ENSCWAG00000000295	RNA helicase	NA
+Catagonus_wagneri		ENSCWAG00000000333	Chromobox	NA
+Catagonus_wagneri	C1QBP	ENSCWAG00000000334	Others	NA
+Catagonus_wagneri	MAML1	ENSCWAG00000000338	MAML	NA
+Catagonus_wagneri	RTF1	ENSCWAG00000000345	Others	NA
+Catagonus_wagneri	BIRC2	ENSCWAG00000000357	Others	NA
+Catagonus_wagneri	CDK5RAP3	ENSCWAG00000000377	Cyclin	NA
+Catagonus_wagneri	ICE2	ENSCWAG00000000380	GTF	NA
+Catagonus_wagneri	RGCC	ENSCWAG00000000406	Others	NA
+Catagonus_wagneri	YAP1	ENSCWAG00000000439	Others	NA
+Catagonus_wagneri	NUP98	ENSCWAG00000000443	Others	NA
+Catagonus_wagneri	WTIP	ENSCWAG00000000518	Others	NA
+Catagonus_wagneri	PSIP1	ENSCWAG00000000604	Others	NA
+Catagonus_wagneri	THRSP	ENSCWAG00000000643	Others	NA
+Catagonus_wagneri	CAMK4	ENSCWAG00000000690	CAMK	NA
+Catagonus_wagneri	MED23	ENSCWAG00000000713	Mediator complex	NA
+Catagonus_wagneri	NOC2L	ENSCWAG00000000743	Others	NA
+Catagonus_wagneri	MCIDAS	ENSCWAG00000000761	Others	NA
+Catagonus_wagneri	RSF1	ENSCWAG00000000803	Others	NA
+Catagonus_wagneri	ING3	ENSCWAG00000000811	ING	NA
+Catagonus_wagneri	CALR	ENSCWAG00000000858	Others	NA
+Catagonus_wagneri	TIRAP	ENSCWAG00000000862	Others	NA
+Catagonus_wagneri	FBXW11	ENSCWAG00000000944	Others	NA
+Catagonus_wagneri		ENSCWAG00000000962	Others	NA
+Catagonus_wagneri		ENSCWAG00000001019	Zinc finger	NA
+Catagonus_wagneri	BRD8	ENSCWAG00000001028	Bromodomain	NA
+Catagonus_wagneri	PYGO2	ENSCWAG00000001036	Others	NA
+Catagonus_wagneri	PBXIP1	ENSCWAG00000001057	Others	NA
+Catagonus_wagneri	NPM1	ENSCWAG00000001072	Nucleoplasmin	NA
+Catagonus_wagneri	LRIF1	ENSCWAG00000001206	Others	NA
+Catagonus_wagneri	MLLT6	ENSCWAG00000001240	Others	NA
+Catagonus_wagneri	PCGF2	ENSCWAG00000001317	PCGF	NA
+Catagonus_wagneri	LANCL2	ENSCWAG00000001326	Others	NA
+Catagonus_wagneri	CHEK1	ENSCWAG00000001382	Others	NA
+Catagonus_wagneri	SYK	ENSCWAG00000001400	Others	NA
+Catagonus_wagneri	PPIE	ENSCWAG00000001412	Others	NA
+Catagonus_wagneri	KDM3B	ENSCWAG00000001434	Lysine demethylase	NA
+Catagonus_wagneri	TRIM6	ENSCWAG00000001442	Tripartite motif	NA
+Catagonus_wagneri	NKAP	ENSCWAG00000001471	NFKB associated	NA
+Catagonus_wagneri	EMSY	ENSCWAG00000001547	Others	NA
+Catagonus_wagneri	PCBD2	ENSCWAG00000001617	Others	NA
+Catagonus_wagneri	CNOT11	ENSCWAG00000001646	CCR4-NOT	NA
+Catagonus_wagneri	RBM15	ENSCWAG00000001648	RNA binding protein	NA
+Catagonus_wagneri	HSPA8	ENSCWAG00000001662	Heat shock protein	NA
+Catagonus_wagneri	URI1	ENSCWAG00000001670	Others	NA
+Catagonus_wagneri	CCNE1	ENSCWAG00000001690	Cyclin	NA
+Catagonus_wagneri	MAML2	ENSCWAG00000001702	MAML	NA
+Catagonus_wagneri	MED1	ENSCWAG00000001731	Mediator complex	NA
+Catagonus_wagneri	NSD1	ENSCWAG00000001737	Nuclear receptor coactivator	NA
+Catagonus_wagneri		ENSCWAG00000001751	GTF	NA
+Catagonus_wagneri	CDK12	ENSCWAG00000001764	Cyclin	NA
+Catagonus_wagneri	CITED2	ENSCWAG00000001775	CITED	NA
+Catagonus_wagneri	TAF9B	ENSCWAG00000001780	TATA-box	NA
+Catagonus_wagneri	MED4	ENSCWAG00000001822	Mediator complex	NA
+Catagonus_wagneri		ENSCWAG00000001831	Lysine demethylase	NA
+Catagonus_wagneri	MED11	ENSCWAG00000001856	Mediator complex	NA
+Catagonus_wagneri	ARRB2	ENSCWAG00000001885	Others	NA
+Catagonus_wagneri	RB1	ENSCWAG00000001887	Other_Co-activator/repressors	NA
+Catagonus_wagneri	XIAP	ENSCWAG00000001956	Others	NA
+Catagonus_wagneri	WWC1	ENSCWAG00000001963	WW	NA
+Catagonus_wagneri	ARRB1	ENSCWAG00000001998	Others	NA
+Catagonus_wagneri	SRFBP1	ENSCWAG00000002002	Others	NA
+Catagonus_wagneri	ERBB2	ENSCWAG00000002005	Erbb2	NA
+Catagonus_wagneri	PELP1	ENSCWAG00000002013	Others	NA
+Catagonus_wagneri	ATRX	ENSCWAG00000002015	Others	NA
+Catagonus_wagneri	CRK	ENSCWAG00000002046	Others	NA
+Catagonus_wagneri	TRIP4	ENSCWAG00000002078	Thyroid hormone receptor	NA
+Catagonus_wagneri	NOTCH2	ENSCWAG00000002118	Notch	NA
+Catagonus_wagneri	TENM2	ENSCWAG00000002140	Others	NA
+Catagonus_wagneri	CDK7	ENSCWAG00000002159	Cyclin	NA
+Catagonus_wagneri	SUV39H2	ENSCWAG00000002178	Others	NA
+Catagonus_wagneri	TENM1	ENSCWAG00000002189	Others	NA
+Catagonus_wagneri		ENSCWAG00000002193	Mediator complex	NA
+Catagonus_wagneri	PLK1	ENSCWAG00000002218	Others	NA
+Catagonus_wagneri	HNRNPU	ENSCWAG00000002240	HNRNP	NA
+Catagonus_wagneri	TAF1D	ENSCWAG00000002303	TATA-box	NA
+Catagonus_wagneri	SIRT3	ENSCWAG00000002341	Sirtuin	NA
+Catagonus_wagneri	NIPBL	ENSCWAG00000002371	Others	NA
+Catagonus_wagneri	PIK3R1	ENSCWAG00000002387	Others	NA
+Catagonus_wagneri	FHL2	ENSCWAG00000002424	FHL	NA
+Catagonus_wagneri	SMYD3	ENSCWAG00000002432	SMYD	NA
+Catagonus_wagneri	ELANE	ENSCWAG00000002454	Others	NA
+Catagonus_wagneri	TFB2M	ENSCWAG00000002455	Others	NA
+Catagonus_wagneri	CRTC2	ENSCWAG00000002471	CREB	NA
+Catagonus_wagneri	MED16	ENSCWAG00000002492	Mediator complex	NA
+Catagonus_wagneri	HDAC9	ENSCWAG00000002543	Histone deacetylase	NA
+Catagonus_wagneri	TERF2IP	ENSCWAG00000002579	Others	NA
+Catagonus_wagneri	ERBIN	ENSCWAG00000002593	Erbb2	NA
+Catagonus_wagneri	SERTAD3	ENSCWAG00000002604	Others	NA
+Catagonus_wagneri	TAF13	ENSCWAG00000002612	TATA-box	NA
+Catagonus_wagneri	MED24	ENSCWAG00000002626	Mediator complex	NA
+Catagonus_wagneri	ILF2	ENSCWAG00000002649	Others	NA
+Catagonus_wagneri	BTF3	ENSCWAG00000002679	Others	NA
+Catagonus_wagneri	ANKRA2	ENSCWAG00000002689	Ankyrin repeat	NA
+Catagonus_wagneri	CHTOP	ENSCWAG00000002694	Others	NA
+Catagonus_wagneri	TTF2	ENSCWAG00000002699	Others	NA
+Catagonus_wagneri	TRIM33	ENSCWAG00000002700	Tripartite motif	NA
+Catagonus_wagneri	RLIM	ENSCWAG00000002752	Ring finger protein	NA
+Catagonus_wagneri	HIPK1	ENSCWAG00000002810	HIPK	NA
+Catagonus_wagneri	S100A8	ENSCWAG00000002831	Others	NA
+Catagonus_wagneri	DPF1	ENSCWAG00000002845	DPF	NA
+Catagonus_wagneri	S100A9	ENSCWAG00000002846	Others	NA
+Catagonus_wagneri	NOD2	ENSCWAG00000002862	Others	NA
+Catagonus_wagneri	CENPU	ENSCWAG00000002898	CENP	NA
+Catagonus_wagneri	HELLS	ENSCWAG00000003005	Others	NA
+Catagonus_wagneri	CHD9	ENSCWAG00000003020	CHD	NA
+Catagonus_wagneri	LIN9	ENSCWAG00000003026	Others	NA
+Catagonus_wagneri		ENSCWAG00000003037	Histone deacetylase	NA
+Catagonus_wagneri	DVL2	ENSCWAG00000003040	Others	NA
+Catagonus_wagneri	CITED1	ENSCWAG00000003068	CITED	NA
+Catagonus_wagneri	WWOX	ENSCWAG00000003182	WW	NA
+Catagonus_wagneri	RBL2	ENSCWAG00000003187	Other_Co-activator/repressors	NA
+Catagonus_wagneri	TP53BP1	ENSCWAG00000003204	Others	NA
+Catagonus_wagneri	OGT	ENSCWAG00000003205	Others	NA
+Catagonus_wagneri	HINT1	ENSCWAG00000003250	Others	NA
+Catagonus_wagneri	EZR	ENSCWAG00000003256	Others	NA
+Catagonus_wagneri	PPHLN1	ENSCWAG00000003261	Others	NA
+Catagonus_wagneri		ENSCWAG00000003266	TATA-box	NA
+Catagonus_wagneri	PRMT6	ENSCWAG00000003299	Arginine methyltransferase	NA
+Catagonus_wagneri		ENSCWAG00000003311	Others	NA
+Catagonus_wagneri	CDYL2	ENSCWAG00000003341	Chromodomain Y	NA
+Catagonus_wagneri		ENSCWAG00000003355	Others	NA
+Catagonus_wagneri	YAF2	ENSCWAG00000003384	Others	NA
+Catagonus_wagneri	NONO	ENSCWAG00000003409	Others	NA
+Catagonus_wagneri	EGLN2	ENSCWAG00000003413	Others	NA
+Catagonus_wagneri	DAB2	ENSCWAG00000003433	Others	NA
+Catagonus_wagneri	UTP4	ENSCWAG00000003453	Others	NA
+Catagonus_wagneri	ELL3	ENSCWAG00000003479	GTF	NA
+Catagonus_wagneri	PRPF6	ENSCWAG00000003484	Others	NA
+Catagonus_wagneri	TCEA2	ENSCWAG00000003511	TEF	NA
+Catagonus_wagneri	NFKBID	ENSCWAG00000003530	NFKB associated	NA
+Catagonus_wagneri	MED12	ENSCWAG00000003532	Mediator complex	NA
+Catagonus_wagneri	SND1	ENSCWAG00000003558	Others	NA
+Catagonus_wagneri		ENSCWAG00000003578	GTF	NA
+Catagonus_wagneri	PLK3	ENSCWAG00000003596	Others	NA
+Catagonus_wagneri	RAP2C	ENSCWAG00000003653	Others	NA
+Catagonus_wagneri	TGFB1	ENSCWAG00000003658	Others	NA
+Catagonus_wagneri	PHF12	ENSCWAG00000003661	PHF	NA
+Catagonus_wagneri	WWP2	ENSCWAG00000003667	WW	NA
+Catagonus_wagneri	TAF8	ENSCWAG00000003752	TATA-box	NA
+Catagonus_wagneri	POLR2A	ENSCWAG00000003754	POLR	NA
+Catagonus_wagneri	SETD3	ENSCWAG00000003834	SET	NA
+Catagonus_wagneri		ENSCWAG00000003856	Others	NA
+Catagonus_wagneri	CCNK	ENSCWAG00000003917	Cyclin	NA
+Catagonus_wagneri	PNRC2	ENSCWAG00000003934	Others	NA
+Catagonus_wagneri	DMAP1	ENSCWAG00000003949	DNA_methylase	NA
+Catagonus_wagneri	PARK7	ENSCWAG00000003958	Others	NA
+Catagonus_wagneri		ENSCWAG00000003967	Mediator complex	NA
+Catagonus_wagneri	POU2AF1	ENSCWAG00000003996	Others	NA
+Catagonus_wagneri	SPAG8	ENSCWAG00000004016	Others	NA
+Catagonus_wagneri	PHF8	ENSCWAG00000004040	PHF	NA
+Catagonus_wagneri	MED9	ENSCWAG00000004094	Mediator complex	NA
+Catagonus_wagneri	NCL	ENSCWAG00000004103	Others	NA
+Catagonus_wagneri		ENSCWAG00000004123	Others	NA
+Catagonus_wagneri	DNAJA3	ENSCWAG00000004193	Others	NA
+Catagonus_wagneri	MNAT1	ENSCWAG00000004194	Others	NA
+Catagonus_wagneri	PCGF3	ENSCWAG00000004201	PCGF	NA
+Catagonus_wagneri	CRYM	ENSCWAG00000004204	Others	NA
+Catagonus_wagneri		ENSCWAG00000004236	Others	NA
+Catagonus_wagneri	MDFI	ENSCWAG00000004292	Others	NA
+Catagonus_wagneri	NCOA7	ENSCWAG00000004394	Nuclear receptor coactivator	NA
+Catagonus_wagneri	DDX20	ENSCWAG00000004423	RNA helicase	NA
+Catagonus_wagneri	ADRB2	ENSCWAG00000004475	Others	NA
+Catagonus_wagneri	RAN	ENSCWAG00000004499	Others	NA
+Catagonus_wagneri	RUVBL2	ENSCWAG00000004519	Other_CRF	NA
+Catagonus_wagneri	LMO1	ENSCWAG00000004528	LIM	NA
+Catagonus_wagneri	CREBBP	ENSCWAG00000004552	CREB	NA
+Catagonus_wagneri		ENSCWAG00000004554	SET	NA
+Catagonus_wagneri	CTDSP1	ENSCWAG00000004574	Others	NA
+Catagonus_wagneri	DNMT1	ENSCWAG00000004600	DNA_methylase	NA
+Catagonus_wagneri	DGKQ	ENSCWAG00000004609	Others	NA
+Catagonus_wagneri		ENSCWAG00000004618	Others	NA
+Catagonus_wagneri	HIRA	ENSCWAG00000004646	Others	NA
+Catagonus_wagneri	PADI2	ENSCWAG00000004702	Other_CRF	NA
+Catagonus_wagneri	GTF2A1L	ENSCWAG00000004721	GTF	NA
+Catagonus_wagneri	BTAF1	ENSCWAG00000004722	Others	NA
+Catagonus_wagneri	ZNF638	ENSCWAG00000004725	Zinc finger	NA
+Catagonus_wagneri		ENSCWAG00000004754	Transducin	NA
+Catagonus_wagneri	CHD8	ENSCWAG00000004765	CHD	NA
+Catagonus_wagneri	RAI1	ENSCWAG00000004800	Others	NA
+Catagonus_wagneri	KAT8	ENSCWAG00000004845	Lysine acetyltransferase	NA
+Catagonus_wagneri	BEND3	ENSCWAG00000004892	Others	NA
+Catagonus_wagneri	CTNNBIP1	ENSCWAG00000004922	Casein	NA
+Catagonus_wagneri	TNIP1	ENSCWAG00000004930	Others	NA
+Catagonus_wagneri	PADI4	ENSCWAG00000004951	Others	NA
+Catagonus_wagneri	SFSWAP	ENSCWAG00000004962	Others	NA
+Catagonus_wagneri	EED	ENSCWAG00000004971	Others	NA
+Catagonus_wagneri	PABPC1L	ENSCWAG00000004972	Other_CRF	NA
+Catagonus_wagneri	KMT2B	ENSCWAG00000004975	Lysine methyltransferase	NA
+Catagonus_wagneri	TIMELESS	ENSCWAG00000004988	Others	NA
+Catagonus_wagneri	NPAT	ENSCWAG00000004989	Nuclear coactivator	NA
+Catagonus_wagneri	FUS	ENSCWAG00000005025	Others	NA
+Catagonus_wagneri	MED15	ENSCWAG00000005041	Mediator complex	NA
+Catagonus_wagneri	PYCARD	ENSCWAG00000005051	Others	NA
+Catagonus_wagneri	SUPT16H	ENSCWAG00000005074	SUPT	NA
+Catagonus_wagneri	YWHAB	ENSCWAG00000005075	Others	NA
+Catagonus_wagneri	BRF1	ENSCWAG00000005076	GTF	NA
+Catagonus_wagneri	PICALM	ENSCWAG00000005113	Others	NA
+Catagonus_wagneri	PCGF5	ENSCWAG00000005162	PCGF	NA
+Catagonus_wagneri	ATN1	ENSCWAG00000005185	Others	NA
+Catagonus_wagneri	ELP4	ENSCWAG00000005199	ELP	NA
+Catagonus_wagneri	FGF3	ENSCWAG00000005211	FGF	NA
+Catagonus_wagneri	ANKRD1	ENSCWAG00000005259	Ankyrin repeat	NA
+Catagonus_wagneri	CCND1	ENSCWAG00000005332	Cyclin	NA
+Catagonus_wagneri	KDM5C	ENSCWAG00000005398	Lysine demethylase	NA
+Catagonus_wagneri	FAM83G	ENSCWAG00000005413	FAM	NA
+Catagonus_wagneri	SLC25A15	ENSCWAG00000005416	SLC	NA
+Catagonus_wagneri	FGFR1	ENSCWAG00000005457	FGF	NA
+Catagonus_wagneri	GTF2A1	ENSCWAG00000005472	GTF	NA
+Catagonus_wagneri	LPXN	ENSCWAG00000005500	Others	NA
+Catagonus_wagneri	SGK1	ENSCWAG00000005577	Others	NA
+Catagonus_wagneri	KDM3A	ENSCWAG00000005579	Lysine demethylase	NA
+Catagonus_wagneri	DDX39B	ENSCWAG00000005601	RNA helicase	NA
+Catagonus_wagneri	EP400	ENSCWAG00000005658	Others	NA
+Catagonus_wagneri	TGFB1I1	ENSCWAG00000005666	Others	NA
+Catagonus_wagneri	DACT1	ENSCWAG00000005675	Others	NA
+Catagonus_wagneri	TSPYL2	ENSCWAG00000005702	Others	NA
+Catagonus_wagneri	PEX14	ENSCWAG00000005741	Others	NA
+Catagonus_wagneri	RBBP8	ENSCWAG00000005756	RBBP	NA
+Catagonus_wagneri		ENSCWAG00000005813	HNRNP	NA
+Catagonus_wagneri	CTNND1	ENSCWAG00000005842	Casein	NA
+Catagonus_wagneri	PML	ENSCWAG00000005849	Others	NA
+Catagonus_wagneri	TBPL1	ENSCWAG00000005859	TATA-box	NA
+Catagonus_wagneri	MAGED1	ENSCWAG00000005875	MAGE	NA
+Catagonus_wagneri	MED10	ENSCWAG00000005876	Mediator complex	NA
+Catagonus_wagneri	PPARGC1B	ENSCWAG00000005883	Others	NA
+Catagonus_wagneri	PIH1D1	ENSCWAG00000005886	Other_CRF	NA
+Catagonus_wagneri	KCNIP3	ENSCWAG00000005898	Others	NA
+Catagonus_wagneri	HEXIM1	ENSCWAG00000005909	Others	NA
+Catagonus_wagneri	HEXIM2	ENSCWAG00000005917	Others	NA
+Catagonus_wagneri	SUPT6H	ENSCWAG00000005991	SUPT	NA
+Catagonus_wagneri	EYA4	ENSCWAG00000006003	EYA	NA
+Catagonus_wagneri	FHL3	ENSCWAG00000006016	FHL	NA
+Catagonus_wagneri	SMYD1	ENSCWAG00000006017	SMYD	NA
+Catagonus_wagneri	KDM6B	ENSCWAG00000006048	Lysine demethylase	NA
+Catagonus_wagneri	MTOR	ENSCWAG00000006062	Others	NA
+Catagonus_wagneri	ITCH	ENSCWAG00000006169	Others	NA
+Catagonus_wagneri	PID1	ENSCWAG00000006185	Others	NA
+Catagonus_wagneri	SIVA1	ENSCWAG00000006189	Others	NA
+Catagonus_wagneri	PHF1	ENSCWAG00000006199	PHF	NA
+Catagonus_wagneri	BCL3	ENSCWAG00000006208	BCL	NA
+Catagonus_wagneri	KMT5B	ENSCWAG00000006216	Lysine methyltransferase	NA
+Catagonus_wagneri	MED27	ENSCWAG00000006239	Mediator complex	NA
+Catagonus_wagneri	CHCHD2	ENSCWAG00000006262	Coiled-coil	NA
+Catagonus_wagneri		ENSCWAG00000006270	Others	NA
+Catagonus_wagneri	CHD3	ENSCWAG00000006298	CHD	NA
+Catagonus_wagneri	MED19	ENSCWAG00000006308	Mediator complex	NA
+Catagonus_wagneri	CD3D	ENSCWAG00000006312	Others	NA
+Catagonus_wagneri	GTF2H4	ENSCWAG00000006325	GTF	NA
+Catagonus_wagneri	DAXX	ENSCWAG00000006331	Other_CRF	NA
+Catagonus_wagneri	AEBP1	ENSCWAG00000006341	Others	NA
+Catagonus_wagneri	MAD2L2	ENSCWAG00000006389	Others	NA
+Catagonus_wagneri	RALY	ENSCWAG00000006424	Others	NA
+Catagonus_wagneri	NCOA3	ENSCWAG00000006435	Nuclear receptor coactivator	NA
+Catagonus_wagneri	TNP1	ENSCWAG00000006457	Other_CRF	NA
+Catagonus_wagneri	MED7	ENSCWAG00000006465	Mediator complex	NA
+Catagonus_wagneri		ENSCWAG00000006472	Others	NA
+Catagonus_wagneri	ASF1A	ENSCWAG00000006542	Others	NA
+Catagonus_wagneri	MALT1	ENSCWAG00000006556	Others	NA
+Catagonus_wagneri	ZMYND8	ENSCWAG00000006593	Zinc finger	NA
+Catagonus_wagneri	PIM1	ENSCWAG00000006611	Others	NA
+Catagonus_wagneri		ENSCWAG00000006639	Lysine methyltransferase	NA
+Catagonus_wagneri	ASF1B	ENSCWAG00000006659	Others	NA
+Catagonus_wagneri	APEX1	ENSCWAG00000006672	Others	NA
+Catagonus_wagneri	ZNF593	ENSCWAG00000006675	Zinc finger	NA
+Catagonus_wagneri	ZMYM2	ENSCWAG00000006700	Zinc finger	NA
+Catagonus_wagneri	ARGLU1	ENSCWAG00000006725	Others	NA
+Catagonus_wagneri	CXXC5	ENSCWAG00000006726	Others	NA
+Catagonus_wagneri	PRMT1	ENSCWAG00000006728	Arginine methyltransferase	NA
+Catagonus_wagneri	SMARCB1	ENSCWAG00000006732	SWI/SNF	NA
+Catagonus_wagneri	C6orf89	ENSCWAG00000006749	Other_CRF	NA
+Catagonus_wagneri	CBFA2T2	ENSCWAG00000006761	Others	NA
+Catagonus_wagneri	TAF10	ENSCWAG00000006764	TATA-box	NA
+Catagonus_wagneri	HTATSF1	ENSCWAG00000006769	Others	NA
+Catagonus_wagneri	VGLL1	ENSCWAG00000006803	Vestigial like	NA
+Catagonus_wagneri	ILK	ENSCWAG00000006809	Others	NA
+Catagonus_wagneri	CDK2	ENSCWAG00000006872	Cyclin	NA
+Catagonus_wagneri	CTH	ENSCWAG00000006977	Others	NA
+Catagonus_wagneri	PSPC1	ENSCWAG00000007026	Others	NA
+Catagonus_wagneri	CNOT8	ENSCWAG00000007035	CCR4-NOT	NA
+Catagonus_wagneri	MPHOSPH8	ENSCWAG00000007061	Others	NA
+Catagonus_wagneri	RBMX	ENSCWAG00000007084	RNA binding protein	NA
+Catagonus_wagneri	SNIP1	ENSCWAG00000007114	Others	NA
+Catagonus_wagneri	NLK	ENSCWAG00000007121	Others	NA
+Catagonus_wagneri	PRNP	ENSCWAG00000007148	Others	NA
+Catagonus_wagneri	MEAF6	ENSCWAG00000007151	Others	NA
+Catagonus_wagneri	PIN1	ENSCWAG00000007164	Others	NA
+Catagonus_wagneri	AIP	ENSCWAG00000007192	Others	NA
+Catagonus_wagneri	DNAJB1	ENSCWAG00000007194	Others	NA
+Catagonus_wagneri	CDK13	ENSCWAG00000007203	Cyclin	NA
+Catagonus_wagneri	MED25	ENSCWAG00000007240	Mediator complex	NA
+Catagonus_wagneri	APBB1	ENSCWAG00000007254	Others	NA
+Catagonus_wagneri	ABL1	ENSCWAG00000007338	Others	NA
+Catagonus_wagneri	TRIM27	ENSCWAG00000007360	Tripartite motif	NA
+Catagonus_wagneri	ERCC2	ENSCWAG00000007442	Others	NA
+Catagonus_wagneri	PAWR	ENSCWAG00000007454	Others	NA
+Catagonus_wagneri	EYA2	ENSCWAG00000007492	EYA	NA
+Catagonus_wagneri	TAF15	ENSCWAG00000007501	TATA-box	NA
+Catagonus_wagneri	VGLL2	ENSCWAG00000007519	Vestigial like	NA
+Catagonus_wagneri	SUDS3	ENSCWAG00000007535	Other_Co-activator/repressors	NA
+Catagonus_wagneri	H2AZ1	ENSCWAG00000007658	Others	NA
+Catagonus_wagneri	PINK1	ENSCWAG00000007688	Others	NA
+Catagonus_wagneri	LPIN2	ENSCWAG00000007732	LPIN	NA
+Catagonus_wagneri	DNMT3B	ENSCWAG00000007767	DNA_methylase	NA
+Catagonus_wagneri	RWDD3	ENSCWAG00000007768	Others	NA
+Catagonus_wagneri	NSD3	ENSCWAG00000007807	Nuclear receptor coactivator	NA
+Catagonus_wagneri	KDM2A	ENSCWAG00000007851	Lysine demethylase	NA
+Catagonus_wagneri	TAF1C	ENSCWAG00000007882	TATA-box	NA
+Catagonus_wagneri	KDM4A	ENSCWAG00000007909	Lysine demethylase	NA
+Catagonus_wagneri	LBH	ENSCWAG00000007938	Others	NA
+Catagonus_wagneri	SUPT20H	ENSCWAG00000008003	SUPT	NA
+Catagonus_wagneri	PEX2	ENSCWAG00000008018	Others	NA
+Catagonus_wagneri	KDM5B	ENSCWAG00000008019	Lysine demethylase	NA
+Catagonus_wagneri		ENSCWAG00000008031	TEF	NA
+Catagonus_wagneri		ENSCWAG00000008070	Others	NA
+Catagonus_wagneri	ELP3	ENSCWAG00000008132	ELP	NA
+Catagonus_wagneri	THRAP3	ENSCWAG00000008133	Thyroid hormone receptor	NA
+Catagonus_wagneri		ENSCWAG00000008156	TEF	NA
+Catagonus_wagneri	CHCHD3	ENSCWAG00000008180	Coiled-coil	NA
+Catagonus_wagneri	XRN2	ENSCWAG00000008201	Others	NA
+Catagonus_wagneri	HTATIP2	ENSCWAG00000008210	Others	NA
+Catagonus_wagneri	DEPDC1	ENSCWAG00000008223	Others	NA
+Catagonus_wagneri	CHAF1B	ENSCWAG00000008229	Others	NA
+Catagonus_wagneri	TCEAL1	ENSCWAG00000008269	TEF	NA
+Catagonus_wagneri	TGS1	ENSCWAG00000008274	Others	NA
+Catagonus_wagneri	MORF4L2	ENSCWAG00000008298	Other_CRF	NA
+Catagonus_wagneri	ASH2L	ENSCWAG00000008424	Others	NA
+Catagonus_wagneri	TRIB3	ENSCWAG00000008438	Others	NA
+Catagonus_wagneri	RFXAP	ENSCWAG00000008462	Others	NA
+Catagonus_wagneri	MED22	ENSCWAG00000008475	Mediator complex	NA
+Catagonus_wagneri	PRDM7	ENSCWAG00000008502	Others	NA
+Catagonus_wagneri	CCNA1	ENSCWAG00000008505	Cyclin	NA
+Catagonus_wagneri	TLE2	ENSCWAG00000008524	Transducin	NA
+Catagonus_wagneri	HDAC2	ENSCWAG00000008651	Histone deacetylase	NA
+Catagonus_wagneri	SKOR2	ENSCWAG00000008664	SKI	NA
+Catagonus_wagneri	TNNI2	ENSCWAG00000008704	Others	NA
+Catagonus_wagneri	TRIM25	ENSCWAG00000008708	Tripartite motif	NA
+Catagonus_wagneri	MED8	ENSCWAG00000008719	Mediator complex	NA
+Catagonus_wagneri		ENSCWAG00000008745	Casein	NA
+Catagonus_wagneri	FRK	ENSCWAG00000008748	Others	NA
+Catagonus_wagneri	FBP1	ENSCWAG00000008767	Others	NA
+Catagonus_wagneri	SDR16C5	ENSCWAG00000008786	Others	NA
+Catagonus_wagneri	NOTCH3	ENSCWAG00000008816	Notch	NA
+Catagonus_wagneri	NDUFA13	ENSCWAG00000008819	Others	NA
+Catagonus_wagneri	ABRA	ENSCWAG00000008840	Actin	NA
+Catagonus_wagneri	CHD6	ENSCWAG00000008842	CHD	NA
+Catagonus_wagneri	SIN3A	ENSCWAG00000008860	Other_CRF	NA
+Catagonus_wagneri	BRF2	ENSCWAG00000008908	GTF	NA
+Catagonus_wagneri	ABT1	ENSCWAG00000008984	Others	NA
+Catagonus_wagneri	CCDC85B	ENSCWAG00000009004	Coiled-coil	NA
+Catagonus_wagneri	AGO1	ENSCWAG00000009026	Others	NA
+Catagonus_wagneri	BTN1A1	ENSCWAG00000009048	Others	NA
+Catagonus_wagneri	SMARCD2	ENSCWAG00000009051	SWI/SNF	NA
+Catagonus_wagneri	REXO4	ENSCWAG00000009058	Others	NA
+Catagonus_wagneri	PUF60	ENSCWAG00000009070	Others	NA
+Catagonus_wagneri	ASXL1	ENSCWAG00000009073	Others	NA
+Catagonus_wagneri	CHRAC1	ENSCWAG00000009130	Other_CRF	NA
+Catagonus_wagneri	AGO2	ENSCWAG00000009168	Others	NA
+Catagonus_wagneri	LPIN3	ENSCWAG00000009197	LPIN	NA
+Catagonus_wagneri	ZNF703	ENSCWAG00000009220	Zinc finger	NA
+Catagonus_wagneri	SRA1	ENSCWAG00000009227	Others	NA
+Catagonus_wagneri	RUNX1T1	ENSCWAG00000009249	Others	NA
+Catagonus_wagneri	WDTC1	ENSCWAG00000009263	WD	NA
+Catagonus_wagneri	RBFOX2	ENSCWAG00000009279	Others	NA
+Catagonus_wagneri	DPY30	ENSCWAG00000009343	Others	NA
+Catagonus_wagneri	HCFC1	ENSCWAG00000009363	Others	NA
+Catagonus_wagneri	BANP	ENSCWAG00000009371	Others	NA
+Catagonus_wagneri	PRMT7	ENSCWAG00000009418	Arginine methyltransferase	NA
+Catagonus_wagneri	INO80E	ENSCWAG00000009445	INO80 complex	NA
+Catagonus_wagneri		ENSCWAG00000009485	Others	NA
+Catagonus_wagneri	CLU	ENSCWAG00000009499	Others	NA
+Catagonus_wagneri	SMARCA5	ENSCWAG00000009513	SWI/SNF	NA
+Catagonus_wagneri	ANP32E	ENSCWAG00000009540	ANP	NA
+Catagonus_wagneri	HAT1	ENSCWAG00000009603	Others	NA
+Catagonus_wagneri	COPRS	ENSCWAG00000009678	Others	NA
+Catagonus_wagneri	H1-6	ENSCWAG00000009687	Histone cluster 1 H1	NA
+Catagonus_wagneri	ENY2	ENSCWAG00000009688	Others	NA
+Catagonus_wagneri	TLE3	ENSCWAG00000009720	Transducin	NA
+Catagonus_wagneri	BRD1	ENSCWAG00000009734	Bromodomain	NA
+Catagonus_wagneri	SUZ12	ENSCWAG00000009809	Others	NA
+Catagonus_wagneri	MYOCD	ENSCWAG00000009825	Others	NA
+Catagonus_wagneri	TRIP11	ENSCWAG00000009826	Thyroid hormone receptor	NA
+Catagonus_wagneri	HCK	ENSCWAG00000009856	Others	NA
+Catagonus_wagneri	TOP1	ENSCWAG00000009868	Other_CRF	NA
+Catagonus_wagneri	TBPL2	ENSCWAG00000009986	TATA-box	NA
+Catagonus_wagneri	CDYL	ENSCWAG00000010005	Chromodomain Y	NA
+Catagonus_wagneri		ENSCWAG00000010054	Mediator complex	NA
+Catagonus_wagneri	KAT5	ENSCWAG00000010074	Lysine acetyltransferase	NA
+Catagonus_wagneri	BRD3	ENSCWAG00000010084	Bromodomain	NA
+Catagonus_wagneri	WDR5	ENSCWAG00000010129	WD	NA
+Catagonus_wagneri		ENSCWAG00000010194	POLR	NA
+Catagonus_wagneri	DNTTIP2	ENSCWAG00000010220	Others	NA
+Catagonus_wagneri	HDAC10	ENSCWAG00000010224	Histone deacetylase	NA
+Catagonus_wagneri	DCAF6	ENSCWAG00000010253	Others	NA
+Catagonus_wagneri	PRMT2	ENSCWAG00000010323	Arginine methyltransferase	NA
+Catagonus_wagneri	TOP1MT	ENSCWAG00000010360	Other_CRF	NA
+Catagonus_wagneri	RIPPLY1	ENSCWAG00000010380	Others	NA
+Catagonus_wagneri	ANKAR	ENSCWAG00000010390	Ankyrin repeat	NA
+Catagonus_wagneri	PRAME	ENSCWAG00000010406	Others	NA
+Catagonus_wagneri	SFR1	ENSCWAG00000010419	Others	NA
+Catagonus_wagneri	DR1	ENSCWAG00000010484	Others	NA
+Catagonus_wagneri	NIF3L1	ENSCWAG00000010511	Others	NA
+Catagonus_wagneri	IKBKB	ENSCWAG00000010536	Others	NA
+Catagonus_wagneri	RBM14	ENSCWAG00000010544	RNA binding protein	NA
+Catagonus_wagneri	NAB2	ENSCWAG00000010548	Others	NA
+Catagonus_wagneri	MBTD1	ENSCWAG00000010559	Others	NA
+Catagonus_wagneri	ORC2	ENSCWAG00000010595	Others	NA
+Catagonus_wagneri	MTF2	ENSCWAG00000010620	Others	NA
+Catagonus_wagneri	SIN3B	ENSCWAG00000010640	Others	NA
+Catagonus_wagneri	KDM6A	ENSCWAG00000010666	Lysine demethylase	NA
+Catagonus_wagneri	BRWD1	ENSCWAG00000010679	Bromodomain	NA
+Catagonus_wagneri	TBP	ENSCWAG00000010691	TATA-box	NA
+Catagonus_wagneri	ARHGAP35	ENSCWAG00000010834	Others	NA
+Catagonus_wagneri	CDC73	ENSCWAG00000010865	Others	NA
+Catagonus_wagneri	KAT6A	ENSCWAG00000010879	Lysine acetyltransferase	NA
+Catagonus_wagneri	TXNIP	ENSCWAG00000010902	Others	NA
+Catagonus_wagneri	ACTR5	ENSCWAG00000010910	ACTR	NA
+Catagonus_wagneri	BEND6	ENSCWAG00000010920	Others	NA
+Catagonus_wagneri	ERBB4	ENSCWAG00000010989	Erbb2	NA
+Catagonus_wagneri	JMY	ENSCWAG00000010992	Others	NA
+Catagonus_wagneri	ZNF451	ENSCWAG00000010999	Zinc finger	NA
+Catagonus_wagneri	PHF10	ENSCWAG00000011002	PHF	NA
+Catagonus_wagneri	DSCAM	ENSCWAG00000011010	Others	NA
+Catagonus_wagneri	TRIP13	ENSCWAG00000011017	Thyroid hormone receptor	NA
+Catagonus_wagneri	KDM5A	ENSCWAG00000011028	Lysine demethylase	NA
+Catagonus_wagneri		ENSCWAG00000011064	SKI	NA
+Catagonus_wagneri	BRD9	ENSCWAG00000011077	Bromodomain	NA
+Catagonus_wagneri	PNRC1	ENSCWAG00000011089	Others	NA
+Catagonus_wagneri	MTPN	ENSCWAG00000011095	Others	NA
+Catagonus_wagneri	NCK1	ENSCWAG00000011096	Others	NA
+Catagonus_wagneri	LRRK2	ENSCWAG00000011114	Other_CRF	NA
+Catagonus_wagneri		ENSCWAG00000011134	SET	NA
+Catagonus_wagneri	TRAK2	ENSCWAG00000011203	Others	NA
+Catagonus_wagneri	EYA3	ENSCWAG00000011224	EYA	NA
+Catagonus_wagneri	RNF14	ENSCWAG00000011240	Ring finger protein	NA
+Catagonus_wagneri	CREG1	ENSCWAG00000011245	Others	NA
+Catagonus_wagneri	GMNN	ENSCWAG00000011269	Others	NA
+Catagonus_wagneri	EZH2	ENSCWAG00000011279	Others	NA
+Catagonus_wagneri	DUSP26	ENSCWAG00000011282	Others	NA
+Catagonus_wagneri	RPAP2	ENSCWAG00000011301	Others	NA
+Catagonus_wagneri	SCMH1	ENSCWAG00000011323	Others	NA
+Catagonus_wagneri		ENSCWAG00000011334	Others	NA
+Catagonus_wagneri	NAB1	ENSCWAG00000011340	Others	NA
+Catagonus_wagneri		ENSCWAG00000011348	MBD	NA
+Catagonus_wagneri	TLE1	ENSCWAG00000011385	Transducin	NA
+Catagonus_wagneri	SKIL	ENSCWAG00000011403	SKI	NA
+Catagonus_wagneri	TOB1	ENSCWAG00000011408	Others	NA
+Catagonus_wagneri	PAGR1	ENSCWAG00000011416	Others	NA
+Catagonus_wagneri	EHMT1	ENSCWAG00000011420	Histone lysine methyltransferase	NA
+Catagonus_wagneri	INSR	ENSCWAG00000011448	Others	NA
+Catagonus_wagneri	TAF1B	ENSCWAG00000011471	TATA-box	NA
+Catagonus_wagneri	TDP2	ENSCWAG00000011476	Others	NA
+Catagonus_wagneri	HDGF	ENSCWAG00000011493	Others	NA
+Catagonus_wagneri	SPEN	ENSCWAG00000011530	Others	NA
+Catagonus_wagneri	TRRAP	ENSCWAG00000011543	Others	NA
+Catagonus_wagneri	NLRP3	ENSCWAG00000011583	Others	NA
+Catagonus_wagneri	XRCC6	ENSCWAG00000011601	Others	NA
+Catagonus_wagneri	CDK9	ENSCWAG00000011622	Cyclin	NA
+Catagonus_wagneri	PQBP1	ENSCWAG00000011665	Others	NA
+Catagonus_wagneri	NRG1	ENSCWAG00000011679	Others	NA
+Catagonus_wagneri	TRIM16	ENSCWAG00000011711	Tripartite motif	NA
+Catagonus_wagneri	AATF	ENSCWAG00000011715	Others	NA
+Catagonus_wagneri	SMURF1	ENSCWAG00000011777	Others	NA
+Catagonus_wagneri	BRCA2	ENSCWAG00000011814	Others	NA
+Catagonus_wagneri	HDAC6	ENSCWAG00000011826	Histone deacetylase	NA
+Catagonus_wagneri	MED18	ENSCWAG00000011863	Mediator complex	NA
+Catagonus_wagneri	CITED4	ENSCWAG00000011903	CITED	NA
+Catagonus_wagneri	FHIT	ENSCWAG00000011930	Others	NA
+Catagonus_wagneri	WDR61	ENSCWAG00000011937	WD	NA
+Catagonus_wagneri	RBBP4	ENSCWAG00000011964	RBBP	NA
+Catagonus_wagneri	KDM2B	ENSCWAG00000011968	Lysine demethylase	NA
+Catagonus_wagneri	LIN54	ENSCWAG00000011977	Others	NA
+Catagonus_wagneri	TAF11	ENSCWAG00000011982	TATA-box	NA
+Catagonus_wagneri	SUV39H1	ENSCWAG00000012092	Others	NA
+Catagonus_wagneri	TAF5	ENSCWAG00000012095	TATA-box	NA
+Catagonus_wagneri	PHF5A	ENSCWAG00000012101	PHF	NA
+Catagonus_wagneri	CASK	ENSCWAG00000012127	CAMK	NA
+Catagonus_wagneri	TOB2	ENSCWAG00000012139	Others	NA
+Catagonus_wagneri	BRDT	ENSCWAG00000012178	Bromodomain	NA
+Catagonus_wagneri	AXIN1	ENSCWAG00000012182	Others	NA
+Catagonus_wagneri	BLM	ENSCWAG00000012194	Others	NA
+Catagonus_wagneri	RPRD1B	ENSCWAG00000012209	Others	NA
+Catagonus_wagneri	PCGF6	ENSCWAG00000012211	PCGF	NA
+Catagonus_wagneri	MYCBP2	ENSCWAG00000012264	MYC	NA
+Catagonus_wagneri	HDAC3	ENSCWAG00000012311	Histone deacetylase	NA
+Catagonus_wagneri	ZMYND11	ENSCWAG00000012333	Zinc finger	NA
+Catagonus_wagneri	CDKN1B	ENSCWAG00000012351	Cyclin	NA
+Catagonus_wagneri	POLR3C	ENSCWAG00000012364	POLR	NA
+Catagonus_wagneri	BRMS1	ENSCWAG00000012367	Other_CRF	NA
+Catagonus_wagneri	TADA1	ENSCWAG00000012410	Transcriptional adaptor	NA
+Catagonus_wagneri	L3MBTL2	ENSCWAG00000012412	Others	NA
+Catagonus_wagneri	EP300	ENSCWAG00000012442	Others	NA
+Catagonus_wagneri	RBBP5	ENSCWAG00000012451	RBBP	NA
+Catagonus_wagneri	YEATS2	ENSCWAG00000012459	Others	NA
+Catagonus_wagneri	MLLT3	ENSCWAG00000012463	GTF	NA
+Catagonus_wagneri	BUD31	ENSCWAG00000012494	Others	NA
+Catagonus_wagneri	JUP	ENSCWAG00000012556	Others	NA
+Catagonus_wagneri	RRN3	ENSCWAG00000012582	Others	NA
+Catagonus_wagneri	SRC	ENSCWAG00000012607	Others	NA
+Catagonus_wagneri	DAPK3	ENSCWAG00000012640	Others	NA
+Catagonus_wagneri	ASCC1	ENSCWAG00000012712	ASCC	NA
+Catagonus_wagneri	HDAC1	ENSCWAG00000012738	Histone deacetylase	NA
+Catagonus_wagneri		ENSCWAG00000012757	Nuclear coactivator	NA
+Catagonus_wagneri	AURKAIP1	ENSCWAG00000012776	Others	NA
+Catagonus_wagneri	SETD1B	ENSCWAG00000012777	SET	NA
+Catagonus_wagneri	RBX1	ENSCWAG00000012787	Others	NA
+Catagonus_wagneri	RAD21	ENSCWAG00000012835	Others	NA
+Catagonus_wagneri	BCAS3	ENSCWAG00000012838	Others	NA
+Catagonus_wagneri	BCL9	ENSCWAG00000012850	BCL	NA
+Catagonus_wagneri	RBL1	ENSCWAG00000012873	Other_Co-activator/repressors	NA
+Catagonus_wagneri		ENSCWAG00000012876	ANP	NA
+Catagonus_wagneri	HNRNPK	ENSCWAG00000012887	HNRNP	NA
+Catagonus_wagneri	MORF4L1	ENSCWAG00000012914	Other_CRF	NA
+Catagonus_wagneri	MED6	ENSCWAG00000012933	Mediator complex	NA
+Catagonus_wagneri		ENSCWAG00000012946	SSX	NA
+Catagonus_wagneri		ENSCWAG00000012992	MAGE	NA
+Catagonus_wagneri	CHD1L	ENSCWAG00000012998	CHD	NA
+Catagonus_wagneri	ANKRD2	ENSCWAG00000013015	Ankyrin repeat	NA
+Catagonus_wagneri	WWP1	ENSCWAG00000013019	WW	NA
+Catagonus_wagneri		ENSCWAG00000013052	MBD	NA
+Catagonus_wagneri	DPF2	ENSCWAG00000013089	DPF	NA
+Catagonus_wagneri	CCDC59	ENSCWAG00000013098	Coiled-coil	NA
+Catagonus_wagneri	MED30	ENSCWAG00000013119	Mediator complex	NA
+Catagonus_wagneri	SIRT6	ENSCWAG00000013156	Sirtuin	NA
+Catagonus_wagneri	PHIP	ENSCWAG00000013192	Others	NA
+Catagonus_wagneri	ESF1	ENSCWAG00000013203	Others	NA
+Catagonus_wagneri	NIBAN2	ENSCWAG00000013205	FAM	NA
+Catagonus_wagneri	MTDH	ENSCWAG00000013207	Others	NA
+Catagonus_wagneri	TRIM8	ENSCWAG00000013236	Tripartite motif	NA
+Catagonus_wagneri	SUPT3H	ENSCWAG00000013262	SUPT	NA
+Catagonus_wagneri	SUFU	ENSCWAG00000013266	Others	NA
+Catagonus_wagneri	NSMCE4A	ENSCWAG00000013284	EID	NA
+Catagonus_wagneri	SSU72	ENSCWAG00000013287	Others	NA
+Catagonus_wagneri	MRTFA	ENSCWAG00000013293	Others	NA
+Catagonus_wagneri	TAF5L	ENSCWAG00000013335	TATA-box	NA
+Catagonus_wagneri	DVL3	ENSCWAG00000013425	Others	NA
+Catagonus_wagneri	CSRP3	ENSCWAG00000013430	Others	NA
+Catagonus_wagneri	RBBP7	ENSCWAG00000013432	RBBP	NA
+Catagonus_wagneri	ATF7IP	ENSCWAG00000013438	Others	NA
+Catagonus_wagneri	DEK	ENSCWAG00000013444	Other_CRF	NA
+Catagonus_wagneri	TRIM24	ENSCWAG00000013445	Tripartite motif	NA
+Catagonus_wagneri	MMS19	ENSCWAG00000013469	Others	NA
+Catagonus_wagneri	UXT	ENSCWAG00000013487	Others	NA
+Catagonus_wagneri	TBL1XR1	ENSCWAG00000013528	Transducin	NA
+Catagonus_wagneri	RING1	ENSCWAG00000013538	Ring finger protein	NA
+Catagonus_wagneri	ASCC2	ENSCWAG00000013565	ASCC	NA
+Catagonus_wagneri	KDM1B	ENSCWAG00000013571	Lysine demethylase	NA
+Catagonus_wagneri	RNF20	ENSCWAG00000013613	Ring finger protein	NA
+Catagonus_wagneri		ENSCWAG00000013614	EID	NA
+Catagonus_wagneri	CTNNB1	ENSCWAG00000013651	Casein	NA
+Catagonus_wagneri	TXLNG	ENSCWAG00000013662	Others	NA
+Catagonus_wagneri	SKOR1	ENSCWAG00000013676	SKI	NA
+Catagonus_wagneri	MDM4	ENSCWAG00000013721	Others	NA
+Catagonus_wagneri	RNF10	ENSCWAG00000013724	Ring finger protein	NA
+Catagonus_wagneri	HNRNPD	ENSCWAG00000013762	HNRNP	NA
+Catagonus_wagneri	COPS2	ENSCWAG00000013767	Others	NA
+Catagonus_wagneri	FGFR2	ENSCWAG00000013844	FGF	NA
+Catagonus_wagneri	BCL9L	ENSCWAG00000013904	BCL	NA
+Catagonus_wagneri		ENSCWAG00000013913	Others	NA
+Catagonus_wagneri	KAT2A	ENSCWAG00000013951	Lysine acetyltransferase	NA
+Catagonus_wagneri	TRAK1	ENSCWAG00000013964	Others	NA
+Catagonus_wagneri	SLC26A3	ENSCWAG00000013965	SLC	NA
+Catagonus_wagneri	MED14	ENSCWAG00000013978	Mediator complex	NA
+Catagonus_wagneri	PHF19	ENSCWAG00000013993	PHF	NA
+Catagonus_wagneri	WNT4	ENSCWAG00000014008	Others	NA
+Catagonus_wagneri	FHOD3	ENSCWAG00000014019	Others	NA
+Catagonus_wagneri	STK3	ENSCWAG00000014054	Others	NA
+Catagonus_wagneri	HABP4	ENSCWAG00000014055	Others	NA
+Catagonus_wagneri	AURKB	ENSCWAG00000014058	Others	NA
+Catagonus_wagneri	DRAP1	ENSCWAG00000014068	Others	NA
+Catagonus_wagneri	MYO6	ENSCWAG00000014070	Others	NA
+Catagonus_wagneri	CASP8AP2	ENSCWAG00000014135	Others	NA
+Catagonus_wagneri	ACTL6A	ENSCWAG00000014148	Actin	NA
+Catagonus_wagneri	GTF2E1	ENSCWAG00000014156	GTF	NA
+Catagonus_wagneri	EGFR	ENSCWAG00000014158	Others	NA
+Catagonus_wagneri	TAF1A	ENSCWAG00000014216	TATA-box	NA
+Catagonus_wagneri	CDK5R1	ENSCWAG00000014253	Cyclin	NA
+Catagonus_wagneri	NELFB	ENSCWAG00000014267	GTF	NA
+Catagonus_wagneri	KAT2B	ENSCWAG00000014268	Lysine acetyltransferase	NA
+Catagonus_wagneri	ELP2	ENSCWAG00000014334	ELP	NA
+Catagonus_wagneri	CTR9	ENSCWAG00000014356	Others	NA
+Catagonus_wagneri	KDM8	ENSCWAG00000014383	Lysine demethylase	NA
+Catagonus_wagneri	ARL2BP	ENSCWAG00000014396	Others	NA
+Catagonus_wagneri	RBPMS	ENSCWAG00000014417	RNA binding protein	NA
+Catagonus_wagneri	FBXW7	ENSCWAG00000014450	Others	NA
+Catagonus_wagneri	SAV1	ENSCWAG00000014463	Others	NA
+Catagonus_wagneri	TAF2	ENSCWAG00000014485	TATA-box	NA
+Catagonus_wagneri	MED13	ENSCWAG00000014509	Mediator complex	NA
+Catagonus_wagneri	EPC1	ENSCWAG00000014516	Others	NA
+Catagonus_wagneri	LPIN1	ENSCWAG00000014537	LPIN	NA
+Catagonus_wagneri	TSG101	ENSCWAG00000014545	Others	NA
+Catagonus_wagneri	CEP290	ENSCWAG00000014556	Others	NA
+Catagonus_wagneri	CAVIN1	ENSCWAG00000014599	Others	NA
+Catagonus_wagneri	RPRD1A	ENSCWAG00000014615	Others	NA
+Catagonus_wagneri	CBX5	ENSCWAG00000014634	Chromobox	NA
+Catagonus_wagneri	GTF2B	ENSCWAG00000014637	GTF	NA
+Catagonus_wagneri	UFL1	ENSCWAG00000014651	Others	NA
+Catagonus_wagneri	THOC5	ENSCWAG00000014685	Others	NA
+Catagonus_wagneri	FHL5	ENSCWAG00000014715	FHL	NA
+Catagonus_wagneri	BCOR	ENSCWAG00000014765	Other_Co-activator/repressors	NA
+Catagonus_wagneri	GSK3B	ENSCWAG00000014772	Others	NA
+Catagonus_wagneri	TNKS	ENSCWAG00000014789	Others	NA
+Catagonus_wagneri	INO80C	ENSCWAG00000014796	INO80 complex	NA
+Catagonus_wagneri	KDM1A	ENSCWAG00000014847	Lysine demethylase	NA
+Catagonus_wagneri	RNF141	ENSCWAG00000014908	Ring finger protein	NA
+Catagonus_wagneri	COPS5	ENSCWAG00000014912	Others	NA
+Catagonus_wagneri	CCDC62	ENSCWAG00000014921	Coiled-coil	NA
+Catagonus_wagneri	DYRK1B	ENSCWAG00000014960	Others	NA
+Catagonus_wagneri	CALCOCO1	ENSCWAG00000014985	Others	NA
+Catagonus_wagneri	PCBD1	ENSCWAG00000014992	Others	NA
+Catagonus_wagneri	LDB1	ENSCWAG00000015033	LIM	NA
+Catagonus_wagneri	SS18L2	ENSCWAG00000015052	SS18	NA
+Catagonus_wagneri	LOXL2	ENSCWAG00000015127	Others	NA
+Catagonus_wagneri	KDM4B	ENSCWAG00000015136	Lysine demethylase	NA
+Catagonus_wagneri	EID2	ENSCWAG00000015148	EID	NA
+Catagonus_wagneri	TAB1	ENSCWAG00000015165	Others	NA
+Catagonus_wagneri	TAF6	ENSCWAG00000015179	TATA-box	NA
+Catagonus_wagneri	MEN1	ENSCWAG00000015193	Others	NA
+Catagonus_wagneri	GTF2H1	ENSCWAG00000015209	GTF	NA
+Catagonus_wagneri	CBX4	ENSCWAG00000015222	Chromobox	NA
+Catagonus_wagneri		ENSCWAG00000015231	Others	NA
+Catagonus_wagneri	EWSR1	ENSCWAG00000015239	Others	NA
+Catagonus_wagneri	TRIM32	ENSCWAG00000015252	Tripartite motif	NA
+Catagonus_wagneri	CBX8	ENSCWAG00000015262	Chromobox	NA
+Catagonus_wagneri	VEGFA	ENSCWAG00000015280	Other_CRF	NA
+Catagonus_wagneri	CIR1	ENSCWAG00000015285	Other_Co-activator/repressors	NA
+Catagonus_wagneri	CBX2	ENSCWAG00000015289	Chromobox	NA
+Catagonus_wagneri		ENSCWAG00000015320	Others	NA
+Catagonus_wagneri	SNAPC2	ENSCWAG00000015331	Others	NA
+Catagonus_wagneri	CECR2	ENSCWAG00000015357	Other_CRF	NA
+Catagonus_wagneri	SUPT5H	ENSCWAG00000015358	SUPT	NA
+Catagonus_wagneri	SUPT7L	ENSCWAG00000015389	SUPT	NA
+Catagonus_wagneri	NLRP12	ENSCWAG00000015441	Others	NA
+Catagonus_wagneri	SNAPC5	ENSCWAG00000015485	Others	NA
+Catagonus_wagneri	BTG1	ENSCWAG00000015489	Others	NA
+Catagonus_wagneri	HIPK2	ENSCWAG00000015491	HIPK	NA
+Catagonus_wagneri	CBX7	ENSCWAG00000015534	Chromobox	NA
+Catagonus_wagneri	SMARCAD1	ENSCWAG00000015555	SWI/SNF	NA
+Catagonus_wagneri	NOTCH1	ENSCWAG00000015574	Notch	NA
+Catagonus_wagneri	SAFB2	ENSCWAG00000015621	Others	NA
+Catagonus_wagneri	PELI1	ENSCWAG00000015638	Others	NA
+Catagonus_wagneri	TCERG1L	ENSCWAG00000015640	TEF	NA
+Catagonus_wagneri	CBX6	ENSCWAG00000015646	Chromobox	NA
+Catagonus_wagneri	DDX1	ENSCWAG00000015647	RNA helicase	NA
+Catagonus_wagneri	SAFB	ENSCWAG00000015662	Others	NA
+Catagonus_wagneri	NELFCD	ENSCWAG00000015709	GTF	NA
+Catagonus_wagneri	STRAP	ENSCWAG00000015715	Others	NA
+Catagonus_wagneri	CENPB	ENSCWAG00000015731	CENP	NA
+Catagonus_wagneri	CCAR2	ENSCWAG00000015750	Others	NA
+Catagonus_wagneri	HLTF	ENSCWAG00000015763	Others	NA
+Catagonus_wagneri	PLRG1	ENSCWAG00000015781	Others	NA
+Catagonus_wagneri	PPID	ENSCWAG00000015810	Others	NA
+Catagonus_wagneri	SERTAD2	ENSCWAG00000015818	Others	NA
+Catagonus_wagneri	CBL	ENSCWAG00000015827	Others	NA
+Catagonus_wagneri	NFATC2IP	ENSCWAG00000015842	Nuclear coactivator	NA
+Catagonus_wagneri	SCAI	ENSCWAG00000015880	Others	NA
+Catagonus_wagneri	EZH1	ENSCWAG00000015888	Others	NA
+Catagonus_wagneri	MED29	ENSCWAG00000015904	Mediator complex	NA
+Catagonus_wagneri	BRD2	ENSCWAG00000015939	Bromodomain	NA
+Catagonus_wagneri	PAF1	ENSCWAG00000015941	Others	NA
+Catagonus_wagneri	CNOT6L	ENSCWAG00000015985	CCR4-NOT	NA
+Catagonus_wagneri	TRIM37	ENSCWAG00000016012	Tripartite motif	NA
+Catagonus_wagneri	MACROH2A2	ENSCWAG00000016038	Others	NA
+Catagonus_wagneri	SAMD4B	ENSCWAG00000016071	Others	NA
+Catagonus_wagneri	PAK6	ENSCWAG00000016076	Others	NA
+Catagonus_wagneri		ENSCWAG00000016101	Heat shock protein	NA
+Catagonus_wagneri	MNDA	ENSCWAG00000016119	Others	NA
+Catagonus_wagneri	GNL3	ENSCWAG00000016120	Others	NA
+Catagonus_wagneri	SCAND1	ENSCWAG00000016211	Others	NA
+Catagonus_wagneri	KDM7A	ENSCWAG00000016230	Lysine demethylase	NA
+Catagonus_wagneri	PHF20	ENSCWAG00000016232	PHF	NA
+Catagonus_wagneri	TRIP6	ENSCWAG00000016286	Thyroid hormone receptor	NA
+Catagonus_wagneri	TAF7L	ENSCWAG00000016287	TATA-box	NA
+Catagonus_wagneri	RBM39	ENSCWAG00000016297	RNA binding protein	NA
+Catagonus_wagneri	CAMK2D	ENSCWAG00000016305	CAMK	NA
+Catagonus_wagneri	SAP130	ENSCWAG00000016344	SAP	NA
+Catagonus_wagneri	CHEK2	ENSCWAG00000016352	Others	NA
+Catagonus_wagneri	TCEA1	ENSCWAG00000016391	TEF	NA
+Catagonus_wagneri	PHF21B	ENSCWAG00000016407	PHF	NA
+Catagonus_wagneri	ANP32B	ENSCWAG00000016420	ANP	NA
+Catagonus_wagneri	WWTR1	ENSCWAG00000016424	WW	NA
+Catagonus_wagneri	PHF2	ENSCWAG00000016488	PHF	NA
+Catagonus_wagneri	NCOA2	ENSCWAG00000016493	Nuclear receptor coactivator	NA
+Catagonus_wagneri	ATAD2	ENSCWAG00000016495	Others	NA
+Catagonus_wagneri	PFDN5	ENSCWAG00000016508	Others	NA
+Catagonus_wagneri	BAZ1B	ENSCWAG00000016517	Bromodomain	NA
+Catagonus_wagneri	DDX17	ENSCWAG00000016555	RNA helicase	NA
+Catagonus_wagneri	CIDEA	ENSCWAG00000016594	Others	NA
+Catagonus_wagneri	TRIM29	ENSCWAG00000016598	Tripartite motif	NA
+Catagonus_wagneri	BTK	ENSCWAG00000016611	Others	NA
+Catagonus_wagneri	DOT1L	ENSCWAG00000016639	Others	NA
+Catagonus_wagneri	RIPK3	ENSCWAG00000016748	Others	NA
+Catagonus_wagneri	VGLL4	ENSCWAG00000016758	Vestigial like	NA
+Catagonus_wagneri	CGGBP1	ENSCWAG00000016805	Others	NA
+Catagonus_wagneri	SAP30	ENSCWAG00000016859	SAP	NA
+Catagonus_wagneri	NPM3	ENSCWAG00000016863	Nucleoplasmin	NA
+Catagonus_wagneri	EYA1	ENSCWAG00000016910	EYA	NA
+Catagonus_wagneri	PRMT8	ENSCWAG00000016914	Arginine methyltransferase	NA
+Catagonus_wagneri	BCL10	ENSCWAG00000016929	BCL	NA
+Catagonus_wagneri	CCNC	ENSCWAG00000016964	Cyclin	NA
+Catagonus_wagneri	SIRT5	ENSCWAG00000016966	Sirtuin	NA
+Catagonus_wagneri	LGALS12	ENSCWAG00000017018	Others	NA
+Catagonus_wagneri	VGLL3	ENSCWAG00000017053	Vestigial like	NA
+Catagonus_wagneri	EDRF1	ENSCWAG00000017083	Others	NA
+Catagonus_wagneri	C1D	ENSCWAG00000017088	Other_Co-activator/repressors	NA
+Catagonus_wagneri		ENSCWAG00000017120	INO80 complex	NA
+Catagonus_wagneri	SIAH2	ENSCWAG00000017132	Others	NA
+Catagonus_wagneri	DCC	ENSCWAG00000017136	Others	NA
+Catagonus_wagneri	KMT5A	ENSCWAG00000017159	Lysine methyltransferase	NA
+Catagonus_wagneri	CSNK2A2	ENSCWAG00000017172	Casein	NA
+Catagonus_wagneri	ACTL6B	ENSCWAG00000017193	Actin	NA
+Catagonus_wagneri	CTBP2	ENSCWAG00000017203	Others	NA
+Catagonus_wagneri	MLLT1	ENSCWAG00000017206	GTF	NA
+Catagonus_wagneri	EDF1	ENSCWAG00000017223	Others	NA
+Catagonus_wagneri	BRCA1	ENSCWAG00000017235	Others	NA
+Catagonus_wagneri	SMARCD1	ENSCWAG00000017243	SWI/SNF	NA
+Catagonus_wagneri	ASCC3	ENSCWAG00000017256	ASCC	NA
+Catagonus_wagneri	HR	ENSCWAG00000017341	Lysine methyltransferase	NA
+Catagonus_wagneri	MED12L	ENSCWAG00000017345	Mediator complex	NA
+Catagonus_wagneri	SSBP3	ENSCWAG00000017365	Others	NA
+Catagonus_wagneri	TDRD3	ENSCWAG00000017371	Others	NA
+Catagonus_wagneri	BIRC5	ENSCWAG00000017410	Others	NA
+Catagonus_wagneri	GTF2F1	ENSCWAG00000017421	GTF	NA
+Catagonus_wagneri	TRIM28	ENSCWAG00000017430	Tripartite motif	NA
+Catagonus_wagneri	BTRC	ENSCWAG00000017438	Others	NA
+Catagonus_wagneri	NOTCH4	ENSCWAG00000017439	Notch	NA
+Catagonus_wagneri	NFKBIB	ENSCWAG00000017454	NFKB associated	NA
+Catagonus_wagneri	SFMBT1	ENSCWAG00000017463	Others	NA
+Catagonus_wagneri	CNOT7	ENSCWAG00000017490	CCR4-NOT	NA
+Catagonus_wagneri	GTF2H3	ENSCWAG00000017499	GTF	NA
+Catagonus_wagneri	SIRT2	ENSCWAG00000017509	Sirtuin	NA
+Catagonus_wagneri	LEO1	ENSCWAG00000017512	Others	NA
+Catagonus_wagneri		ENSCWAG00000017529	Others	NA
+Catagonus_wagneri	CNOT3	ENSCWAG00000017547	CCR4-NOT	NA
+Catagonus_wagneri	SSBP2	ENSCWAG00000017558	Others	NA
+Catagonus_wagneri	LIMD1	ENSCWAG00000017594	LIM	NA
+Catagonus_wagneri	PCGF1	ENSCWAG00000017625	PCGF	NA
+Catagonus_wagneri	NPM2	ENSCWAG00000017693	Nucleoplasmin	NA
+Catagonus_wagneri	NMI	ENSCWAG00000017794	Others	NA
+Catagonus_wagneri	SETD6	ENSCWAG00000017806	SET	NA
+Catagonus_wagneri	GRHPR	ENSCWAG00000017856	Others	NA
+Catagonus_wagneri		ENSCWAG00000017861	Others	NA
+Catagonus_wagneri	CNOT1	ENSCWAG00000017878	CCR4-NOT	NA
+Catagonus_wagneri	RAF1	ENSCWAG00000017888	Others	NA
+Catagonus_wagneri	MAK	ENSCWAG00000017925	Others	NA
+Catagonus_wagneri	LOXL3	ENSCWAG00000017949	Others	NA
+Catagonus_wagneri	SGF29	ENSCWAG00000018029	Others	NA
+Catagonus_wagneri	MDM2	ENSCWAG00000018051	Others	NA
+Catagonus_wagneri	ACTN4	ENSCWAG00000018098	Actin	NA
+Catagonus_wagneri	TARBP1	ENSCWAG00000018105	Others	NA
+Catagonus_wagneri	TRIB1	ENSCWAG00000018120	Others	NA
+Catagonus_wagneri	TOPORS	ENSCWAG00000018135	Others	NA
+Catagonus_wagneri	ANXA4	ENSCWAG00000018140	Others	NA
+Catagonus_wagneri	EPC2	ENSCWAG00000018158	Others	NA
+Catagonus_wagneri	RITA1	ENSCWAG00000018231	Others	NA
+Catagonus_wagneri	CXXC1	ENSCWAG00000018259	Others	NA
+Catagonus_wagneri	DDX54	ENSCWAG00000018290	RNA helicase	NA
+Catagonus_wagneri	RHOA	ENSCWAG00000018291	Others	NA
+Catagonus_wagneri	HDAC11	ENSCWAG00000018292	Histone deacetylase	NA
+Catagonus_wagneri	HIF1AN	ENSCWAG00000018322	Others	NA
+Catagonus_wagneri	SUPT4H1	ENSCWAG00000018391	SUPT	NA
+Catagonus_wagneri	LZTS1	ENSCWAG00000018404	Others	NA
+Catagonus_wagneri	MCRS1	ENSCWAG00000018437	Others	NA
+Catagonus_wagneri	TCF20	ENSCWAG00000018440	Others	NA
+Catagonus_wagneri	CIITA	ENSCWAG00000018447	Others	NA
+Catagonus_wagneri	TAF6L	ENSCWAG00000018470	TATA-box	NA
+Catagonus_wagneri	DTX1	ENSCWAG00000018496	Others	NA
+Catagonus_wagneri	ENG	ENSCWAG00000018546	Others	NA
+Catagonus_wagneri	PDLIM1	ENSCWAG00000018559	Others	NA
+Catagonus_wagneri	CCNA2	ENSCWAG00000018594	Cyclin	NA
+Catagonus_wagneri	CCNH	ENSCWAG00000018608	Cyclin	NA
+Catagonus_wagneri	LRPPRC	ENSCWAG00000018644	Others	NA
+Catagonus_wagneri	CDK8	ENSCWAG00000018646	Cyclin	NA
+Catagonus_wagneri	SFRP4	ENSCWAG00000018654	Others	NA
+Catagonus_wagneri	KMT2E	ENSCWAG00000018678	Lysine methyltransferase	NA
+Catagonus_wagneri	WBP2NL	ENSCWAG00000018697	Others	NA
+Catagonus_wagneri	ELL	ENSCWAG00000018746	GTF	NA
+Catagonus_wagneri	CHUK	ENSCWAG00000018766	Others	NA
+Catagonus_wagneri	RNF6	ENSCWAG00000018783	Ring finger protein	NA
+Catagonus_wagneri	ACTR6	ENSCWAG00000018845	ACTR	NA
+Catagonus_wagneri	ATF7IP2	ENSCWAG00000018854	Others	NA
+Catagonus_wagneri	SLC30A9	ENSCWAG00000018928	SLC	NA
+Catagonus_wagneri	MED13L	ENSCWAG00000018938	Mediator complex	NA
+Catagonus_wagneri	MSL3	ENSCWAG00000018961	Others	NA
+Catagonus_wagneri	WAC	ENSCWAG00000019006	WW	NA
+Catagonus_wagneri	CRTC1	ENSCWAG00000019030	CREB	NA
+Catagonus_wagneri	CDK5	ENSCWAG00000019064	Cyclin	NA
+Catagonus_wagneri	LGALS8	ENSCWAG00000019096	Others	NA
+Catagonus_wagneri	NRIP1	ENSCWAG00000019097	Nuclear receptor coactivator	NA
+Catagonus_wagneri	TLE4	ENSCWAG00000019130	Transducin	NA
+Catagonus_wagneri	FGF2	ENSCWAG00000019141	FGF	NA
+Catagonus_wagneri	DHX36	ENSCWAG00000019200	RNA helicase	NA
+Catagonus_wagneri	HEATR1	ENSCWAG00000019211	Others	NA
+Catagonus_wagneri	SETD2	ENSCWAG00000019221	SET	NA
+Catagonus_wagneri	CTDP1	ENSCWAG00000019223	Others	NA
+Catagonus_wagneri	CNOT2	ENSCWAG00000019248	CCR4-NOT	NA
+Catagonus_wagneri	TESC	ENSCWAG00000019322	Others	NA
+Catagonus_wagneri	ACTN2	ENSCWAG00000019345	Actin	NA
+Catagonus_wagneri	SMARCA4	ENSCWAG00000019349	SWI/SNF	NA
+Catagonus_wagneri	DHX9	ENSCWAG00000019370	RNA helicase	NA
+Catagonus_wagneri	CARM1	ENSCWAG00000019487	Others	NA
+Catagonus_wagneri	ACTR8	ENSCWAG00000019499	ACTR	NA
+Catagonus_wagneri	DPF3	ENSCWAG00000019522	DPF	NA
+Catagonus_wagneri	RUVBL1	ENSCWAG00000019553	Other_CRF	NA
+Catagonus_wagneri	PER2	ENSCWAG00000019566	Others	NA
+Catagonus_wagneri	CNOT10	ENSCWAG00000019594	CCR4-NOT	NA
+Catagonus_wagneri	KCTD1	ENSCWAG00000019661	Others	NA
+Catagonus_wagneri	NOL11	ENSCWAG00000019668	Nuclear coactivator	NA
+Catagonus_wagneri	TAF4B	ENSCWAG00000019686	TATA-box	NA
+Catagonus_wagneri	BPTF	ENSCWAG00000019710	Bromodomain	NA
+Catagonus_wagneri	ACTG1	ENSCWAG00000019722	Actin	NA
+Catagonus_wagneri	SAP18	ENSCWAG00000019746	SAP	NA
+Catagonus_wagneri	BAHCC1	ENSCWAG00000019765	Others	NA
+Catagonus_wagneri	NELFE	ENSCWAG00000019802	GTF	NA
+Catagonus_wagneri	SS18	ENSCWAG00000019844	SS18	NA
+Catagonus_wagneri	PSEN1	ENSCWAG00000019883	Others	NA
+Catagonus_wagneri	ELOC	ENSCWAG00000019912	Others	NA
+Catagonus_wagneri	RNF4	ENSCWAG00000019952	Ring finger protein	NA
+Catagonus_wagneri	DPPA2	ENSCWAG00000019989	Others	NA
+Catagonus_wagneri		ENSCWAG00000020000	CHD	NA
+Catagonus_wagneri	SMARCD3	ENSCWAG00000020043	SWI/SNF	NA
+Catagonus_wagneri	SMURF2	ENSCWAG00000020052	Others	NA
+Catagonus_wagneri	STK36	ENSCWAG00000020071	Others	NA
+Catagonus_wagneri	SRSF2	ENSCWAG00000020081	Others	NA
+Catagonus_wagneri	RNF25	ENSCWAG00000020094	Ring finger protein	NA
+Catagonus_wagneri	JMJD6	ENSCWAG00000020105	Others	NA
+Catagonus_wagneri	HDAC5	ENSCWAG00000020122	Histone deacetylase	NA
+Catagonus_wagneri	CCNT1	ENSCWAG00000020191	Cyclin	NA
+Catagonus_wagneri	DDX5	ENSCWAG00000020196	RNA helicase	NA
+Catagonus_wagneri	ING4	ENSCWAG00000020218	ING	NA
+Catagonus_wagneri	TASOR	ENSCWAG00000020246	FAM	NA
+Catagonus_wagneri	EHMT2	ENSCWAG00000020250	Histone lysine methyltransferase	NA
+Catagonus_wagneri	TNIP2	ENSCWAG00000020259	Others	NA
+Catagonus_wagneri	SIRT7	ENSCWAG00000020288	Sirtuin	NA
+Catagonus_wagneri	KANK1	ENSCWAG00000020332	Others	NA
+Catagonus_wagneri	STRN3	ENSCWAG00000020364	Others	NA
+Catagonus_wagneri	TRADD	ENSCWAG00000020373	Others	NA
+Catagonus_wagneri	RNF168	ENSCWAG00000020386	Ring finger protein	NA
+Catagonus_wagneri	TXN	ENSCWAG00000020414	Others	NA
+Catagonus_wagneri	ATXN7L3	ENSCWAG00000020425	Others	NA
+Catagonus_wagneri	ALYREF	ENSCWAG00000020454	Others	NA
+Catagonus_wagneri	RNF2	ENSCWAG00000020489	Ring finger protein	NA
+Catagonus_wagneri	ERN1	ENSCWAG00000020491	Others	NA
+Catagonus_wagneri	AJUBA	ENSCWAG00000020496	Others	NA
+Catagonus_wagneri	HYAL2	ENSCWAG00000020509	Others	NA
+Catagonus_wagneri	SMARCA2	ENSCWAG00000020512	SWI/SNF	NA
+Catagonus_wagneri	EAF1	ENSCWAG00000020521	Others	NA
+Catagonus_wagneri	CRY1	ENSCWAG00000020554	Others	NA
+Catagonus_wagneri	PRMT5	ENSCWAG00000020565	Arginine methyltransferase	NA
+Catagonus_wagneri	WNT3A	ENSCWAG00000020576	Others	NA
+Catagonus_wagneri	MED21	ENSCWAG00000020588	Mediator complex	NA
+Catagonus_wagneri	SFMBT2	ENSCWAG00000020598	Others	NA
+Catagonus_wagneri	CCNT2	ENSCWAG00000020610	Cyclin	NA
+Catagonus_wagneri	INO80D	ENSCWAG00000020612	INO80 complex	NA
+Catagonus_wagneri	NFKBIZ	ENSCWAG00000020625	NFKB associated	NA
+Catagonus_wagneri		ENSCWAG00000020668	Heat shock protein	NA
+Catagonus_wagneri	CTNND2	ENSCWAG00000020670	Casein	NA
+Catagonus_wagneri	ARHGAP5	ENSCWAG00000020683	Others	NA
+Catagonus_wagneri	ASH1L	ENSCWAG00000020727	Others	NA
+Catagonus_wagneri	KMT5C	ENSCWAG00000020772	Lysine methyltransferase	NA
+Catagonus_wagneri	TAF3	ENSCWAG00000020773	TATA-box	NA
+Catagonus_wagneri	TRIM11	ENSCWAG00000020837	Tripartite motif	NA
+Catagonus_wagneri	LDB2	ENSCWAG00000020873	LIM	NA
+Catagonus_wagneri	ELP1	ENSCWAG00000020879	ELP	NA
+Catagonus_wagneri	RYBP	ENSCWAG00000020884	Others	NA
+Catagonus_wagneri	ELL2	ENSCWAG00000020897	GTF	NA
+Catagonus_wagneri	JAK2	ENSCWAG00000020930	Others	NA
+Catagonus_wagneri	MED28	ENSCWAG00000020976	Mediator complex	NA
+Catagonus_wagneri	GRIP1	ENSCWAG00000020998	Others	NA
+Catagonus_wagneri	JADE1	ENSCWAG00000021004	Others	NA
+Catagonus_wagneri	HMOX1	ENSCWAG00000021021	Others	NA
+Catagonus_wagneri	TPR	ENSCWAG00000021028	Others	NA
+Catagonus_wagneri	RASD2	ENSCWAG00000021044	Others	NA
+Catagonus_wagneri	WBP2	ENSCWAG00000021066	WW	NA
+Catagonus_wagneri	NUDT5	ENSCWAG00000021073	Other_CRF	NA
+Catagonus_wagneri	EAPP	ENSCWAG00000021095	Others	NA
+Catagonus_wagneri	SNX6	ENSCWAG00000021128	Others	NA
+Catagonus_wagneri	NELFA	ENSCWAG00000021130	GTF	NA
+Catagonus_wagneri	SLC19A1	ENSCWAG00000021135	SLC	NA
+Catagonus_wagneri	CENPF	ENSCWAG00000021183	CENP	NA
+Catagonus_wagneri	NAA15	ENSCWAG00000021191	Others	NA
+Catagonus_wagneri	BAZ1A	ENSCWAG00000021194	Bromodomain	NA
+Catagonus_wagneri	SETD7	ENSCWAG00000021207	SET	NA
+Catagonus_wagneri	SMYD2	ENSCWAG00000021219	SMYD	NA
+Catagonus_wagneri	PHF21A	ENSCWAG00000021231	PHF	NA
+Catagonus_wagneri	CTBP1	ENSCWAG00000021237	Others	NA
+Catagonus_wagneri	MAML3	ENSCWAG00000021238	MAML	NA
+Catagonus_wagneri	CHD1	ENSCWAG00000021282	CHD	NA
+Catagonus_wagneri	KDM4C	ENSCWAG00000021287	Lysine demethylase	NA
+Catagonus_wagneri	TDG	ENSCWAG00000021314	Others	NA
+Catagonus_wagneri	HCFC2	ENSCWAG00000021331	Others	NA
+Catagonus_wagneri	NFKBIA	ENSCWAG00000021339	NFKB associated	NA
+Catagonus_wagneri	RBM15B	ENSCWAG00000021353	RNA binding protein	NA
+Catagonus_wagneri	DCAF1	ENSCWAG00000021359	Others	NA
+Catagonus_wagneri	IRF2BPL	ENSCWAG00000021360	Others	NA
+Catagonus_wagneri	SAP30BP	ENSCWAG00000021366	SAP	NA
+Catagonus_wagneri	RALGAPA1	ENSCWAG00000021428	Others	NA
+Catagonus_wagneri	TONSL	ENSCWAG00000021432	Others	NA
+Catagonus_wagneri	MYBBP1A	ENSCWAG00000021451	MYB	NA
+Catagonus_wagneri	PDCD4	ENSCWAG00000021495	Others	NA
+Catagonus_wagneri	SNW1	ENSCWAG00000021506	Others	NA
+Catagonus_wagneri	LMCD1	ENSCWAG00000021516	LIM	NA
+Catagonus_wagneri	PARP14	ENSCWAG00000021542	PARP	NA
+Catagonus_wagneri	TRAF6	ENSCWAG00000021557	Others	NA
+Catagonus_wagneri	PPARGC1A	ENSCWAG00000021590	Others	NA
+Catagonus_wagneri	PARP9	ENSCWAG00000021593	PARP	NA
+Catagonus_wagneri	FLNB	ENSCWAG00000021626	Others	NA
+Catagonus_wagneri	CCAR1	ENSCWAG00000021654	Others	NA
+Catagonus_wagneri	SENP1	ENSCWAG00000021657	Others	NA
+Catagonus_wagneri	KAT6B	ENSCWAG00000021665	Lysine acetyltransferase	NA
+Catagonus_wagneri	EAF2	ENSCWAG00000021684	Others	NA
+Catagonus_wagneri	TADA3	ENSCWAG00000021691	Transcriptional adaptor	NA
+Catagonus_wagneri	TAB3	ENSCWAG00000021717	Others	NA
+Catagonus_wagneri	HDAC7	ENSCWAG00000021727	Histone deacetylase	NA
+Catagonus_wagneri	NCOA4	ENSCWAG00000021741	Nuclear receptor coactivator	NA
+Catagonus_wagneri	BRMS1L	ENSCWAG00000021744	Other_CRF	NA
+Catagonus_wagneri		ENSCWAG00000021753	Others	NA
+Catagonus_wagneri	MED31	ENSCWAG00000021780	Mediator complex	NA
+Catagonus_wagneri	SIRT1	ENSCWAG00000021793	Sirtuin	NA
+Catagonus_wagneri	JMJD1C	ENSCWAG00000021837	Other_CRF	NA
+Catagonus_wagneri	NRBF2	ENSCWAG00000021848	Nuclear receptor coactivator	NA
+Catagonus_wagneri	ECD	ENSCWAG00000021871	Others	NA
+Catagonus_wagneri	LMO2	ENSCWAG00000021879	LIM	NA
+Catagonus_wagneri	CDK1	ENSCWAG00000021886	Cyclin	NA
+Catagonus_wagneri	HIPK3	ENSCWAG00000021902	HIPK	NA
+Catagonus_wagneri	CNOT6	ENSCWAG00000021966	CCR4-NOT	NA
+Catagonus_wagneri	ACTN1	ENSCWAG00000022079	Actin	NA

@@ -1,0 +1,814 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Oryctolagus_cuniculus	MDM4	ENSOCUG00000000005	Others	NA
+Oryctolagus_cuniculus	ELP3	ENSOCUG00000000034	ELP	NA
+Oryctolagus_cuniculus	RBBP5	ENSOCUG00000000095	RBBP	NA
+Oryctolagus_cuniculus	NFKBIZ	ENSOCUG00000000133	NFKB associated	NA
+Oryctolagus_cuniculus	ACTR6	ENSOCUG00000000141	ACTR	NA
+Oryctolagus_cuniculus	TRAK2	ENSOCUG00000000156	Others	NA
+Oryctolagus_cuniculus	PER2	ENSOCUG00000000215	Others	NA
+Oryctolagus_cuniculus	SMARCD3	ENSOCUG00000000249	SWI/SNF	NA
+Oryctolagus_cuniculus	RTF1	ENSOCUG00000000278	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000000339	HNRNP	NA
+Oryctolagus_cuniculus	SAMD4B	ENSOCUG00000000343	Others	NA
+Oryctolagus_cuniculus	DCC	ENSOCUG00000000384	Others	NA
+Oryctolagus_cuniculus	DYRK1B	ENSOCUG00000000385	Others	NA
+Oryctolagus_cuniculus	MPHOSPH8	ENSOCUG00000000429	Others	NA
+Oryctolagus_cuniculus	DAPK2	ENSOCUG00000000435	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000000438	Others	NA
+Oryctolagus_cuniculus	RALY	ENSOCUG00000000477	Others	NA
+Oryctolagus_cuniculus	PPRC1	ENSOCUG00000000510	Others	NA
+Oryctolagus_cuniculus	TCEAL1	ENSOCUG00000000553	TEF	NA
+Oryctolagus_cuniculus	ARL2BP	ENSOCUG00000000582	Others	NA
+Oryctolagus_cuniculus	HDAC2	ENSOCUG00000000598	Histone deacetylase	NA
+Oryctolagus_cuniculus	TAF1A	ENSOCUG00000000606	TATA-box	NA
+Oryctolagus_cuniculus	TTF2	ENSOCUG00000000613	Others	NA
+Oryctolagus_cuniculus	ANKRA2	ENSOCUG00000000615	Ankyrin repeat	NA
+Oryctolagus_cuniculus	EYA4	ENSOCUG00000000635	EYA	NA
+Oryctolagus_cuniculus	CCNT2	ENSOCUG00000000661	Cyclin	NA
+Oryctolagus_cuniculus	TXLNG	ENSOCUG00000000681	Others	NA
+Oryctolagus_cuniculus	CCNK	ENSOCUG00000000682	Cyclin	NA
+Oryctolagus_cuniculus		ENSOCUG00000000683	RBBP	NA
+Oryctolagus_cuniculus	ELP2	ENSOCUG00000000697	ELP	NA
+Oryctolagus_cuniculus	GMNN	ENSOCUG00000000728	Others	NA
+Oryctolagus_cuniculus	HTATIP2	ENSOCUG00000000749	Others	NA
+Oryctolagus_cuniculus	CDK12	ENSOCUG00000000780	Cyclin	NA
+Oryctolagus_cuniculus	EPC1	ENSOCUG00000000789	Others	NA
+Oryctolagus_cuniculus	SUPT6H	ENSOCUG00000000848	SUPT	NA
+Oryctolagus_cuniculus	CBFA2T2	ENSOCUG00000000849	Others	NA
+Oryctolagus_cuniculus	TRIM32	ENSOCUG00000000866	Tripartite motif	NA
+Oryctolagus_cuniculus		ENSOCUG00000000880	Others	NA
+Oryctolagus_cuniculus	RBBP4	ENSOCUG00000000942	RBBP	NA
+Oryctolagus_cuniculus	THRSP	ENSOCUG00000000957	Others	100101618
+Oryctolagus_cuniculus	HIF1AN	ENSOCUG00000000991	Others	NA
+Oryctolagus_cuniculus	CDK2	ENSOCUG00000000998	Cyclin	NA
+Oryctolagus_cuniculus	NMI	ENSOCUG00000001001	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000001016	CHD	NA
+Oryctolagus_cuniculus	WWP1	ENSOCUG00000001081	WW	NA
+Oryctolagus_cuniculus	COMMD1	ENSOCUG00000001093	Others	NA
+Oryctolagus_cuniculus	HCFC1	ENSOCUG00000001113	Others	NA
+Oryctolagus_cuniculus	SLC26A3	ENSOCUG00000001129	SLC	NA
+Oryctolagus_cuniculus	ELL3	ENSOCUG00000001158	GTF	NA
+Oryctolagus_cuniculus	KDM1A	ENSOCUG00000001164	Lysine demethylase	NA
+Oryctolagus_cuniculus	FRK	ENSOCUG00000001181	Others	NA
+Oryctolagus_cuniculus	SLC25A2	ENSOCUG00000001192	SLC	NA
+Oryctolagus_cuniculus	HIPK3	ENSOCUG00000001215	HIPK	NA
+Oryctolagus_cuniculus	HSBP1	ENSOCUG00000001286	Heat shock protein	NA
+Oryctolagus_cuniculus		ENSOCUG00000001349	Others	NA
+Oryctolagus_cuniculus	HNRNPD	ENSOCUG00000001357	HNRNP	NA
+Oryctolagus_cuniculus	CTNNB1	ENSOCUG00000001468	Casein	NA
+Oryctolagus_cuniculus	MAGED1	ENSOCUG00000001479	MAGE	NA
+Oryctolagus_cuniculus		ENSOCUG00000001576	Mediator complex	NA
+Oryctolagus_cuniculus	SND1	ENSOCUG00000001620	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000001631	Lysine demethylase	NA
+Oryctolagus_cuniculus	PHF21A	ENSOCUG00000001675	PHF	NA
+Oryctolagus_cuniculus	EZH2	ENSOCUG00000001676	Others	NA
+Oryctolagus_cuniculus	SKAP1	ENSOCUG00000001717	Others	NA
+Oryctolagus_cuniculus	SLC19A1	ENSOCUG00000001727	SLC	NA
+Oryctolagus_cuniculus	CASP8AP2	ENSOCUG00000001742	Others	NA
+Oryctolagus_cuniculus	SMARCA4	ENSOCUG00000001787	SWI/SNF	NA
+Oryctolagus_cuniculus	RPAP2	ENSOCUG00000001804	Others	NA
+Oryctolagus_cuniculus	MED23	ENSOCUG00000001817	Mediator complex	NA
+Oryctolagus_cuniculus	TRRAP	ENSOCUG00000001829	Others	NA
+Oryctolagus_cuniculus	ELP1	ENSOCUG00000001868	ELP	NA
+Oryctolagus_cuniculus	ING3	ENSOCUG00000001881	ING	NA
+Oryctolagus_cuniculus	VGLL4	ENSOCUG00000001911	Vestigial like	NA
+Oryctolagus_cuniculus	ELP4	ENSOCUG00000001925	ELP	NA
+Oryctolagus_cuniculus	CNOT9	ENSOCUG00000001981	CCR4-NOT	NA
+Oryctolagus_cuniculus	LIMD1	ENSOCUG00000001984	LIM	NA
+Oryctolagus_cuniculus	STK36	ENSOCUG00000002008	Others	NA
+Oryctolagus_cuniculus	PRMT5	ENSOCUG00000002013	Arginine methyltransferase	NA
+Oryctolagus_cuniculus	TAF11	ENSOCUG00000002023	TATA-box	NA
+Oryctolagus_cuniculus	UFL1	ENSOCUG00000002084	Others	NA
+Oryctolagus_cuniculus	PRNP	ENSOCUG00000002086	Others	NA
+Oryctolagus_cuniculus	LANCL2	ENSOCUG00000002094	Others	NA
+Oryctolagus_cuniculus	TRIM5	ENSOCUG00000002114	Tripartite motif	NA
+Oryctolagus_cuniculus	SUPT5H	ENSOCUG00000002155	SUPT	NA
+Oryctolagus_cuniculus	PML	ENSOCUG00000002183	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000002210	TEF	NA
+Oryctolagus_cuniculus	ERCC3	ENSOCUG00000002248	Others	NA
+Oryctolagus_cuniculus	CCDC62	ENSOCUG00000002256	Coiled-coil	NA
+Oryctolagus_cuniculus	KAT8	ENSOCUG00000002300	Lysine acetyltransferase	NA
+Oryctolagus_cuniculus	TRIP4	ENSOCUG00000002322	Thyroid hormone receptor	NA
+Oryctolagus_cuniculus	TRIM37	ENSOCUG00000002326	Tripartite motif	NA
+Oryctolagus_cuniculus	RBM15	ENSOCUG00000002434	RNA binding protein	NA
+Oryctolagus_cuniculus		ENSOCUG00000002464	Chromobox	NA
+Oryctolagus_cuniculus		ENSOCUG00000002478	TEF	NA
+Oryctolagus_cuniculus	CNOT6L	ENSOCUG00000002497	CCR4-NOT	NA
+Oryctolagus_cuniculus	WWOX	ENSOCUG00000002504	WW	NA
+Oryctolagus_cuniculus	SUZ12	ENSOCUG00000002536	Others	NA
+Oryctolagus_cuniculus	LRIF1	ENSOCUG00000002577	Others	NA
+Oryctolagus_cuniculus	RAD21	ENSOCUG00000002581	Others	NA
+Oryctolagus_cuniculus	LMO1	ENSOCUG00000002626	LIM	NA
+Oryctolagus_cuniculus	PHF8	ENSOCUG00000002629	PHF	NA
+Oryctolagus_cuniculus	PHF10	ENSOCUG00000002643	PHF	NA
+Oryctolagus_cuniculus	EYA2	ENSOCUG00000002658	EYA	NA
+Oryctolagus_cuniculus	L3MBTL2	ENSOCUG00000002689	Others	NA
+Oryctolagus_cuniculus	NFATC2IP	ENSOCUG00000002695	Nuclear coactivator	NA
+Oryctolagus_cuniculus	PARP9	ENSOCUG00000002699	PARP	NA
+Oryctolagus_cuniculus		ENSOCUG00000002756	Others	NA
+Oryctolagus_cuniculus	ASCC3	ENSOCUG00000002766	ASCC	NA
+Oryctolagus_cuniculus	TOB1	ENSOCUG00000002771	Others	NA
+Oryctolagus_cuniculus	NSD1	ENSOCUG00000002775	Nuclear receptor coactivator	NA
+Oryctolagus_cuniculus	KMT5B	ENSOCUG00000002778	Lysine methyltransferase	NA
+Oryctolagus_cuniculus	GTF2E1	ENSOCUG00000002784	GTF	NA
+Oryctolagus_cuniculus	RNF141	ENSOCUG00000002807	Ring finger protein	NA
+Oryctolagus_cuniculus	TAF15	ENSOCUG00000002838	TATA-box	NA
+Oryctolagus_cuniculus	RLIM	ENSOCUG00000002847	Ring finger protein	NA
+Oryctolagus_cuniculus	CDK1	ENSOCUG00000002858	Cyclin	NA
+Oryctolagus_cuniculus	NEDD8	ENSOCUG00000002910	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000003003	Nuclear receptor coactivator	NA
+Oryctolagus_cuniculus	TXNIP	ENSOCUG00000003010	Others	NA
+Oryctolagus_cuniculus	POLR3C	ENSOCUG00000003050	POLR	NA
+Oryctolagus_cuniculus	LPIN1	ENSOCUG00000003071	LPIN	NA
+Oryctolagus_cuniculus	BRD2	ENSOCUG00000003097	Bromodomain	NA
+Oryctolagus_cuniculus	BRD7	ENSOCUG00000003102	Bromodomain	NA
+Oryctolagus_cuniculus	TRIB2	ENSOCUG00000003153	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000003175	Others	NA
+Oryctolagus_cuniculus	MAD2L2	ENSOCUG00000003176	Others	NA
+Oryctolagus_cuniculus	VGLL2	ENSOCUG00000003200	Vestigial like	NA
+Oryctolagus_cuniculus	KDM7A	ENSOCUG00000003221	Lysine demethylase	NA
+Oryctolagus_cuniculus	EAPP	ENSOCUG00000003226	Others	NA
+Oryctolagus_cuniculus	SIN3A	ENSOCUG00000003266	Other_CRF	NA
+Oryctolagus_cuniculus	CCNC	ENSOCUG00000003309	Cyclin	NA
+Oryctolagus_cuniculus	SLTM	ENSOCUG00000003327	Others	NA
+Oryctolagus_cuniculus	RNF111	ENSOCUG00000003338	Ring finger protein	NA
+Oryctolagus_cuniculus	CARM1	ENSOCUG00000003368	Others	NA
+Oryctolagus_cuniculus	MED29	ENSOCUG00000003396	Mediator complex	NA
+Oryctolagus_cuniculus	PARP14	ENSOCUG00000003418	PARP	NA
+Oryctolagus_cuniculus	BRD1	ENSOCUG00000003432	Bromodomain	NA
+Oryctolagus_cuniculus	RPRD1B	ENSOCUG00000003450	Others	NA
+Oryctolagus_cuniculus	GTF2H3	ENSOCUG00000003472	GTF	NA
+Oryctolagus_cuniculus	HLTF	ENSOCUG00000003520	Others	NA
+Oryctolagus_cuniculus	TENM2	ENSOCUG00000003576	Others	NA
+Oryctolagus_cuniculus	WWC1	ENSOCUG00000003581	WW	NA
+Oryctolagus_cuniculus	EDRF1	ENSOCUG00000003588	Others	NA
+Oryctolagus_cuniculus	ENO2	ENSOCUG00000003589	Others	NA
+Oryctolagus_cuniculus	ATN1	ENSOCUG00000003592	Others	NA
+Oryctolagus_cuniculus	DMAP1	ENSOCUG00000003630	DNA_methylase	NA
+Oryctolagus_cuniculus	HDAC1	ENSOCUG00000003674	Histone deacetylase	NA
+Oryctolagus_cuniculus	ING4	ENSOCUG00000003742	ING	NA
+Oryctolagus_cuniculus	RUNX1T1	ENSOCUG00000003754	Others	NA
+Oryctolagus_cuniculus	MED6	ENSOCUG00000003770	Mediator complex	NA
+Oryctolagus_cuniculus	HIPK1	ENSOCUG00000003785	HIPK	NA
+Oryctolagus_cuniculus	ERBIN	ENSOCUG00000003795	Erbb2	NA
+Oryctolagus_cuniculus	SUV39H1	ENSOCUG00000003807	Others	NA
+Oryctolagus_cuniculus	PIH1D1	ENSOCUG00000003821	Other_CRF	NA
+Oryctolagus_cuniculus	EZR	ENSOCUG00000003829	Others	NA
+Oryctolagus_cuniculus	KDM1B	ENSOCUG00000003859	Lysine demethylase	NA
+Oryctolagus_cuniculus	DEK	ENSOCUG00000003869	Other_CRF	NA
+Oryctolagus_cuniculus	BRCA1	ENSOCUG00000003883	Others	NA
+Oryctolagus_cuniculus	CENPU	ENSOCUG00000003903	CENP	NA
+Oryctolagus_cuniculus	KDM4A	ENSOCUG00000004056	Lysine demethylase	NA
+Oryctolagus_cuniculus	THOC5	ENSOCUG00000004109	Others	NA
+Oryctolagus_cuniculus	FGFR1	ENSOCUG00000004150	FGF	NA
+Oryctolagus_cuniculus	ICE2	ENSOCUG00000004153	GTF	NA
+Oryctolagus_cuniculus	CEP290	ENSOCUG00000004290	Others	NA
+Oryctolagus_cuniculus	NCL	ENSOCUG00000004312	Others	NA
+Oryctolagus_cuniculus	SMARCD2	ENSOCUG00000004337	SWI/SNF	NA
+Oryctolagus_cuniculus		ENSOCUG00000004339	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000004354	Other_CRF	NA
+Oryctolagus_cuniculus	RAB19	ENSOCUG00000004389	Others	NA
+Oryctolagus_cuniculus	CDYL	ENSOCUG00000004407	Chromodomain Y	NA
+Oryctolagus_cuniculus		ENSOCUG00000004416	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000004417	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000004432	Others	NA
+Oryctolagus_cuniculus	CHD1	ENSOCUG00000004434	CHD	NA
+Oryctolagus_cuniculus	INSR	ENSOCUG00000004436	Others	NA
+Oryctolagus_cuniculus	CREBBP	ENSOCUG00000004458	CREB	NA
+Oryctolagus_cuniculus		ENSOCUG00000004470	Others	NA
+Oryctolagus_cuniculus	CSRP3	ENSOCUG00000004480	Others	NA
+Oryctolagus_cuniculus	PYCARD	ENSOCUG00000004495	Others	NA
+Oryctolagus_cuniculus	JADE1	ENSOCUG00000004521	Others	NA
+Oryctolagus_cuniculus	STK3	ENSOCUG00000004545	Others	NA
+Oryctolagus_cuniculus	DPF2	ENSOCUG00000004593	DPF	NA
+Oryctolagus_cuniculus	CCNH	ENSOCUG00000004659	Cyclin	NA
+Oryctolagus_cuniculus		ENSOCUG00000004689	Others	NA
+Oryctolagus_cuniculus	SCMH1	ENSOCUG00000004703	Others	NA
+Oryctolagus_cuniculus	WAC	ENSOCUG00000004713	WW	NA
+Oryctolagus_cuniculus	KANK1	ENSOCUG00000004753	Others	NA
+Oryctolagus_cuniculus	MACROH2A2	ENSOCUG00000004773	Others	NA
+Oryctolagus_cuniculus	DHX33	ENSOCUG00000004805	RNA helicase	NA
+Oryctolagus_cuniculus	CBL	ENSOCUG00000004808	Others	NA
+Oryctolagus_cuniculus	ZNF451	ENSOCUG00000004809	Zinc finger	NA
+Oryctolagus_cuniculus	SIAH1	ENSOCUG00000004814	Others	NA
+Oryctolagus_cuniculus	CASK	ENSOCUG00000004864	CAMK	NA
+Oryctolagus_cuniculus		ENSOCUG00000004892	Ring finger protein	NA
+Oryctolagus_cuniculus	NIBAN2	ENSOCUG00000004918	FAM	NA
+Oryctolagus_cuniculus	DDX17	ENSOCUG00000004982	RNA helicase	NA
+Oryctolagus_cuniculus		ENSOCUG00000004998	Ring finger protein	NA
+Oryctolagus_cuniculus	TENM1	ENSOCUG00000005013	Others	NA
+Oryctolagus_cuniculus	APEX1	ENSOCUG00000005022	Others	NA
+Oryctolagus_cuniculus	TOPORS	ENSOCUG00000005077	Others	NA
+Oryctolagus_cuniculus	BRD3	ENSOCUG00000005097	Bromodomain	NA
+Oryctolagus_cuniculus	PIK3R1	ENSOCUG00000005116	Others	NA
+Oryctolagus_cuniculus	HYAL2	ENSOCUG00000005254	Others	NA
+Oryctolagus_cuniculus	NRIP1	ENSOCUG00000005265	Nuclear receptor coactivator	NA
+Oryctolagus_cuniculus	ASCC2	ENSOCUG00000005290	ASCC	NA
+Oryctolagus_cuniculus	PRMT8	ENSOCUG00000005310	Arginine methyltransferase	NA
+Oryctolagus_cuniculus	HAT1	ENSOCUG00000005313	Others	NA
+Oryctolagus_cuniculus	THRAP3	ENSOCUG00000005323	Thyroid hormone receptor	NA
+Oryctolagus_cuniculus		ENSOCUG00000005365	Others	NA
+Oryctolagus_cuniculus	LPXN	ENSOCUG00000005377	Others	NA
+Oryctolagus_cuniculus	ESF1	ENSOCUG00000005414	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000005420	Others	NA
+Oryctolagus_cuniculus	ILF2	ENSOCUG00000005430	Others	NA
+Oryctolagus_cuniculus	NLRP3	ENSOCUG00000005455	Others	NA
+Oryctolagus_cuniculus	TAF4B	ENSOCUG00000005480	TATA-box	NA
+Oryctolagus_cuniculus	ZMYND8	ENSOCUG00000005576	Zinc finger	NA
+Oryctolagus_cuniculus	TAF1B	ENSOCUG00000005643	TATA-box	NA
+Oryctolagus_cuniculus	PHF19	ENSOCUG00000005659	PHF	NA
+Oryctolagus_cuniculus	TRIP11	ENSOCUG00000005685	Thyroid hormone receptor	NA
+Oryctolagus_cuniculus	UTP4	ENSOCUG00000005734	Others	NA
+Oryctolagus_cuniculus	SUFU	ENSOCUG00000005781	Others	NA
+Oryctolagus_cuniculus	TRIM8	ENSOCUG00000005786	Tripartite motif	NA
+Oryctolagus_cuniculus	RBL1	ENSOCUG00000005804	Other_Co-activator/repressors	NA
+Oryctolagus_cuniculus	NRG1	ENSOCUG00000005836	Others	NA
+Oryctolagus_cuniculus	MED12L	ENSOCUG00000005851	Mediator complex	NA
+Oryctolagus_cuniculus	ACTB	ENSOCUG00000005867	Actin	NA
+Oryctolagus_cuniculus	NIPBL	ENSOCUG00000005888	Others	NA
+Oryctolagus_cuniculus	KDM2B	ENSOCUG00000005961	Lysine demethylase	NA
+Oryctolagus_cuniculus	NCOA2	ENSOCUG00000005967	Nuclear receptor coactivator	NA
+Oryctolagus_cuniculus	CLU	ENSOCUG00000005985	Others	NA
+Oryctolagus_cuniculus	NCOA3	ENSOCUG00000005988	Nuclear receptor coactivator	NA
+Oryctolagus_cuniculus	ALPK3	ENSOCUG00000005991	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000006039	Lysine acetyltransferase	NA
+Oryctolagus_cuniculus	EZH1	ENSOCUG00000006045	Others	NA
+Oryctolagus_cuniculus	AGO2	ENSOCUG00000006066	Others	NA
+Oryctolagus_cuniculus	PSPC1	ENSOCUG00000006153	Others	NA
+Oryctolagus_cuniculus	TCERG1	ENSOCUG00000006169	TEF	NA
+Oryctolagus_cuniculus	CIITA	ENSOCUG00000006208	Others	NA
+Oryctolagus_cuniculus	ACTR5	ENSOCUG00000006257	ACTR	NA
+Oryctolagus_cuniculus	RIPPLY1	ENSOCUG00000006270	Others	NA
+Oryctolagus_cuniculus	TAF5	ENSOCUG00000006303	TATA-box	NA
+Oryctolagus_cuniculus	PINK1	ENSOCUG00000006306	Others	NA
+Oryctolagus_cuniculus	SMARCA2	ENSOCUG00000006320	SWI/SNF	NA
+Oryctolagus_cuniculus	INO80E	ENSOCUG00000006323	INO80 complex	NA
+Oryctolagus_cuniculus	RBL2	ENSOCUG00000006354	Other_Co-activator/repressors	NA
+Oryctolagus_cuniculus	RUVBL2	ENSOCUG00000006427	Other_CRF	NA
+Oryctolagus_cuniculus	COPS2	ENSOCUG00000006455	Others	NA
+Oryctolagus_cuniculus	ABRA	ENSOCUG00000006570	Actin	NA
+Oryctolagus_cuniculus	ILK	ENSOCUG00000006593	Others	NA
+Oryctolagus_cuniculus	TAF10	ENSOCUG00000006599	TATA-box	NA
+Oryctolagus_cuniculus	PPID	ENSOCUG00000006602	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000006607	Others	NA
+Oryctolagus_cuniculus	TRIM47	ENSOCUG00000006661	Tripartite motif	NA
+Oryctolagus_cuniculus	BRIP1	ENSOCUG00000006683	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000006704	Others	NA
+Oryctolagus_cuniculus	MED13	ENSOCUG00000006709	Mediator complex	NA
+Oryctolagus_cuniculus	HEXIM2	ENSOCUG00000006750	Others	NA
+Oryctolagus_cuniculus	MED12	ENSOCUG00000006797	Mediator complex	NA
+Oryctolagus_cuniculus	RALGAPA1	ENSOCUG00000006807	Others	NA
+Oryctolagus_cuniculus	KDM4C	ENSOCUG00000006819	Lysine demethylase	NA
+Oryctolagus_cuniculus	BRMS1L	ENSOCUG00000006825	Other_CRF	NA
+Oryctolagus_cuniculus	SAP130	ENSOCUG00000006837	SAP	NA
+Oryctolagus_cuniculus	EP400	ENSOCUG00000006855	Others	NA
+Oryctolagus_cuniculus	ANKRD1	ENSOCUG00000006901	Ankyrin repeat	NA
+Oryctolagus_cuniculus	SETD6	ENSOCUG00000006903	SET	NA
+Oryctolagus_cuniculus	CNOT1	ENSOCUG00000006911	CCR4-NOT	NA
+Oryctolagus_cuniculus	NRBF2	ENSOCUG00000006920	Nuclear receptor coactivator	NA
+Oryctolagus_cuniculus	JMJD1C	ENSOCUG00000006922	Other_CRF	NA
+Oryctolagus_cuniculus	XRCC6	ENSOCUG00000006948	Others	NA
+Oryctolagus_cuniculus	CECR2	ENSOCUG00000006950	Other_CRF	NA
+Oryctolagus_cuniculus	DVL2	ENSOCUG00000006978	Others	NA
+Oryctolagus_cuniculus	EHMT2	ENSOCUG00000006980	Histone lysine methyltransferase	NA
+Oryctolagus_cuniculus	DDX1	ENSOCUG00000007010	RNA helicase	NA
+Oryctolagus_cuniculus	NELFE	ENSOCUG00000007012	GTF	NA
+Oryctolagus_cuniculus	GRHPR	ENSOCUG00000007031	Others	NA
+Oryctolagus_cuniculus	RBM39	ENSOCUG00000007050	RNA binding protein	NA
+Oryctolagus_cuniculus	MED19	ENSOCUG00000007054	Mediator complex	NA
+Oryctolagus_cuniculus	PHF20	ENSOCUG00000007059	PHF	NA
+Oryctolagus_cuniculus	FGFR2	ENSOCUG00000007069	FGF	NA
+Oryctolagus_cuniculus	CTBP2	ENSOCUG00000007076	Others	NA
+Oryctolagus_cuniculus	EAF2	ENSOCUG00000007081	Others	NA
+Oryctolagus_cuniculus	ENG	ENSOCUG00000007136	Others	NA
+Oryctolagus_cuniculus	ABL1	ENSOCUG00000007140	Others	NA
+Oryctolagus_cuniculus	IKBKB	ENSOCUG00000007141	Others	NA
+Oryctolagus_cuniculus	ELL2	ENSOCUG00000007162	GTF	NA
+Oryctolagus_cuniculus		ENSOCUG00000007220	RNA binding protein	NA
+Oryctolagus_cuniculus	BEND6	ENSOCUG00000007262	Others	NA
+Oryctolagus_cuniculus	TRIM24	ENSOCUG00000007274	Tripartite motif	NA
+Oryctolagus_cuniculus		ENSOCUG00000007304	TEF	NA
+Oryctolagus_cuniculus	YAF2	ENSOCUG00000007321	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000007333	RBBP	NA
+Oryctolagus_cuniculus	DR1	ENSOCUG00000007398	Others	NA
+Oryctolagus_cuniculus	CCPG1	ENSOCUG00000007468	Others	NA
+Oryctolagus_cuniculus	CDK7	ENSOCUG00000007519	Cyclin	NA
+Oryctolagus_cuniculus	CTH	ENSOCUG00000007526	Others	NA
+Oryctolagus_cuniculus	ATRX	ENSOCUG00000007579	Others	NA
+Oryctolagus_cuniculus	PPIE	ENSOCUG00000007665	Others	NA
+Oryctolagus_cuniculus	CNOT3	ENSOCUG00000007691	CCR4-NOT	NA
+Oryctolagus_cuniculus	NCK1	ENSOCUG00000007723	Others	NA
+Oryctolagus_cuniculus	FBXW11	ENSOCUG00000007739	Others	NA
+Oryctolagus_cuniculus	NLK	ENSOCUG00000007764	Others	NA
+Oryctolagus_cuniculus	MMS19	ENSOCUG00000007776	Others	NA
+Oryctolagus_cuniculus	ANKRD2	ENSOCUG00000007793	Ankyrin repeat	NA
+Oryctolagus_cuniculus	WDR77	ENSOCUG00000007801	WD	NA
+Oryctolagus_cuniculus	MALT1	ENSOCUG00000007831	Others	NA
+Oryctolagus_cuniculus	TAB3	ENSOCUG00000007836	Others	NA
+Oryctolagus_cuniculus	LRRK2	ENSOCUG00000007857	Other_CRF	NA
+Oryctolagus_cuniculus	CBX8	ENSOCUG00000007962	Chromobox	NA
+Oryctolagus_cuniculus	TBP	ENSOCUG00000007979	TATA-box	NA
+Oryctolagus_cuniculus	KDM5B	ENSOCUG00000008003	Lysine demethylase	NA
+Oryctolagus_cuniculus	EYA3	ENSOCUG00000008020	EYA	NA
+Oryctolagus_cuniculus	NCOA7	ENSOCUG00000008089	Nuclear receptor coactivator	NA
+Oryctolagus_cuniculus	RPRD1A	ENSOCUG00000008096	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000008133	Others	NA
+Oryctolagus_cuniculus	MLLT3	ENSOCUG00000008137	GTF	NA
+Oryctolagus_cuniculus	CHCHD6	ENSOCUG00000008144	Coiled-coil	NA
+Oryctolagus_cuniculus	SERTAD2	ENSOCUG00000008192	Others	NA
+Oryctolagus_cuniculus	DNTTIP2	ENSOCUG00000008212	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000008215	CHD	NA
+Oryctolagus_cuniculus	TOP1	ENSOCUG00000008221	Other_CRF	NA
+Oryctolagus_cuniculus	BTG1	ENSOCUG00000008223	Others	NA
+Oryctolagus_cuniculus	SMYD3	ENSOCUG00000008229	SMYD	NA
+Oryctolagus_cuniculus	CELA1	ENSOCUG00000008305	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000008348	Others	NA
+Oryctolagus_cuniculus	BRD8	ENSOCUG00000008362	Bromodomain	NA
+Oryctolagus_cuniculus	ATF7IP2	ENSOCUG00000008408	Others	NA
+Oryctolagus_cuniculus	KDM3B	ENSOCUG00000008421	Lysine demethylase	NA
+Oryctolagus_cuniculus	SUPT20H	ENSOCUG00000008436	SUPT	NA
+Oryctolagus_cuniculus	FBXW7	ENSOCUG00000008440	Others	NA
+Oryctolagus_cuniculus	PLK1	ENSOCUG00000008476	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000008485	Others	NA
+Oryctolagus_cuniculus	FGF10	ENSOCUG00000008499	FGF	NA
+Oryctolagus_cuniculus	NAB1	ENSOCUG00000008556	Others	NA
+Oryctolagus_cuniculus	RBPMS	ENSOCUG00000008572	RNA binding protein	NA
+Oryctolagus_cuniculus	HDAC5	ENSOCUG00000008574	Histone deacetylase	NA
+Oryctolagus_cuniculus	CDYL2	ENSOCUG00000008581	Chromodomain Y	NA
+Oryctolagus_cuniculus	ATXN7L3	ENSOCUG00000008613	Others	NA
+Oryctolagus_cuniculus	S100A9	ENSOCUG00000008632	Others	NA
+Oryctolagus_cuniculus	KMT2E	ENSOCUG00000008790	Lysine methyltransferase	NA
+Oryctolagus_cuniculus	PNRC1	ENSOCUG00000008863	Others	NA
+Oryctolagus_cuniculus	BRWD1	ENSOCUG00000008870	Bromodomain	NA
+Oryctolagus_cuniculus	CALCOCO1	ENSOCUG00000008943	Others	NA
+Oryctolagus_cuniculus	SERBP1	ENSOCUG00000008946	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000008952	Others	NA
+Oryctolagus_cuniculus	HDAC3	ENSOCUG00000008961	Histone deacetylase	NA
+Oryctolagus_cuniculus	WDR61	ENSOCUG00000009040	WD	NA
+Oryctolagus_cuniculus	EYA1	ENSOCUG00000009052	EYA	NA
+Oryctolagus_cuniculus		ENSOCUG00000009081	SS18	NA
+Oryctolagus_cuniculus	ACTR8	ENSOCUG00000009085	ACTR	NA
+Oryctolagus_cuniculus		ENSOCUG00000009143	Cyclin	NA
+Oryctolagus_cuniculus	PADI3	ENSOCUG00000009215	Others	NA
+Oryctolagus_cuniculus	MYOCD	ENSOCUG00000009225	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000009308	Other_CRF	NA
+Oryctolagus_cuniculus	PSIP1	ENSOCUG00000009319	Others	NA
+Oryctolagus_cuniculus	CHD1L	ENSOCUG00000009336	CHD	NA
+Oryctolagus_cuniculus	SETD7	ENSOCUG00000009367	SET	NA
+Oryctolagus_cuniculus	MAML3	ENSOCUG00000009376	MAML	NA
+Oryctolagus_cuniculus	LPIN2	ENSOCUG00000009433	LPIN	NA
+Oryctolagus_cuniculus		ENSOCUG00000009488	Others	NA
+Oryctolagus_cuniculus	TAF6L	ENSOCUG00000009491	TATA-box	NA
+Oryctolagus_cuniculus	SRFBP1	ENSOCUG00000009556	Others	NA
+Oryctolagus_cuniculus	S100A8	ENSOCUG00000009566	Others	NA
+Oryctolagus_cuniculus	SRC	ENSOCUG00000009585	Others	NA
+Oryctolagus_cuniculus	SDR16C5	ENSOCUG00000009657	Others	NA
+Oryctolagus_cuniculus	NLRP12	ENSOCUG00000009670	Others	NA
+Oryctolagus_cuniculus	MED24	ENSOCUG00000009709	Mediator complex	NA
+Oryctolagus_cuniculus	SNW1	ENSOCUG00000009717	Others	NA
+Oryctolagus_cuniculus	HCK	ENSOCUG00000009751	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000009771	Other_Co-activator/repressors	NA
+Oryctolagus_cuniculus	ERBB4	ENSOCUG00000009790	Erbb2	NA
+Oryctolagus_cuniculus	SFMBT1	ENSOCUG00000009822	Others	NA
+Oryctolagus_cuniculus	HDAC11	ENSOCUG00000009839	Histone deacetylase	NA
+Oryctolagus_cuniculus	GNL3	ENSOCUG00000009841	Others	NA
+Oryctolagus_cuniculus	HIRA	ENSOCUG00000009845	Others	NA
+Oryctolagus_cuniculus	TAF8	ENSOCUG00000009876	TATA-box	NA
+Oryctolagus_cuniculus	XIAP	ENSOCUG00000009878	Others	NA
+Oryctolagus_cuniculus	SIRT1	ENSOCUG00000009919	Sirtuin	NA
+Oryctolagus_cuniculus	CNOT2	ENSOCUG00000009951	CCR4-NOT	NA
+Oryctolagus_cuniculus	KDM2A	ENSOCUG00000009988	Lysine demethylase	NA
+Oryctolagus_cuniculus	LIN9	ENSOCUG00000010028	Others	NA
+Oryctolagus_cuniculus	CHD7	ENSOCUG00000010034	CHD	NA
+Oryctolagus_cuniculus	LMCD1	ENSOCUG00000010136	LIM	NA
+Oryctolagus_cuniculus	POLR1A	ENSOCUG00000010138	POLR	NA
+Oryctolagus_cuniculus	KDM5C	ENSOCUG00000010139	Lysine demethylase	NA
+Oryctolagus_cuniculus	HDAC6	ENSOCUG00000010141	Histone deacetylase	NA
+Oryctolagus_cuniculus	SUPT7L	ENSOCUG00000010219	SUPT	NA
+Oryctolagus_cuniculus	TCF20	ENSOCUG00000010285	Others	NA
+Oryctolagus_cuniculus	LGALS12	ENSOCUG00000010300	Others	NA
+Oryctolagus_cuniculus	RAP2C	ENSOCUG00000010321	Others	NA
+Oryctolagus_cuniculus	KDM3A	ENSOCUG00000010324	Lysine demethylase	NA
+Oryctolagus_cuniculus	DCAF1	ENSOCUG00000010328	Others	NA
+Oryctolagus_cuniculus	DSCAML1	ENSOCUG00000010335	Others	NA
+Oryctolagus_cuniculus	TRIM27	ENSOCUG00000010343	Tripartite motif	NA
+Oryctolagus_cuniculus		ENSOCUG00000010364	HNRNP	NA
+Oryctolagus_cuniculus	NELFCD	ENSOCUG00000010406	GTF	NA
+Oryctolagus_cuniculus	SAP30	ENSOCUG00000010418	SAP	NA
+Oryctolagus_cuniculus	TNNI1	ENSOCUG00000010424	Others	NA
+Oryctolagus_cuniculus	BTAF1	ENSOCUG00000010433	Others	NA
+Oryctolagus_cuniculus	EGFR	ENSOCUG00000010481	Others	NA
+Oryctolagus_cuniculus	UXT	ENSOCUG00000010525	Others	NA
+Oryctolagus_cuniculus	ARHGAP5	ENSOCUG00000010548	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000010552	Others	NA
+Oryctolagus_cuniculus	TADA1	ENSOCUG00000010561	Transcriptional adaptor	NA
+Oryctolagus_cuniculus	ERBB2	ENSOCUG00000010569	Erbb2	NA
+Oryctolagus_cuniculus	DAXX	ENSOCUG00000010574	Other_CRF	NA
+Oryctolagus_cuniculus	BUD31	ENSOCUG00000010576	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000010614	Others	NA
+Oryctolagus_cuniculus	BTK	ENSOCUG00000010621	Others	NA
+Oryctolagus_cuniculus	HMOX1	ENSOCUG00000010633	Others	NA
+Oryctolagus_cuniculus	HDGF	ENSOCUG00000010664	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000010667	Others	NA
+Oryctolagus_cuniculus	ORC2	ENSOCUG00000010675	Others	NA
+Oryctolagus_cuniculus	TAF5L	ENSOCUG00000010697	TATA-box	NA
+Oryctolagus_cuniculus	INO80	ENSOCUG00000010763	INO80 complex	NA
+Oryctolagus_cuniculus	WWP2	ENSOCUG00000010764	WW	NA
+Oryctolagus_cuniculus	BCAS3	ENSOCUG00000010794	Others	NA
+Oryctolagus_cuniculus	SUPT16H	ENSOCUG00000010807	SUPT	NA
+Oryctolagus_cuniculus	MAML2	ENSOCUG00000010820	MAML	NA
+Oryctolagus_cuniculus	CHD8	ENSOCUG00000010822	CHD	NA
+Oryctolagus_cuniculus	SPEN	ENSOCUG00000010840	Others	NA
+Oryctolagus_cuniculus	MEAF6	ENSOCUG00000010862	Others	NA
+Oryctolagus_cuniculus	SNIP1	ENSOCUG00000010867	Others	NA
+Oryctolagus_cuniculus	NOC2L	ENSOCUG00000011036	Others	NA
+Oryctolagus_cuniculus	CNOT6	ENSOCUG00000011083	CCR4-NOT	NA
+Oryctolagus_cuniculus	SAP30L	ENSOCUG00000011095	SAP	NA
+Oryctolagus_cuniculus	BAZ1B	ENSOCUG00000011202	Bromodomain	NA
+Oryctolagus_cuniculus	PLRG1	ENSOCUG00000011223	Others	NA
+Oryctolagus_cuniculus	BEND3	ENSOCUG00000011254	Others	NA
+Oryctolagus_cuniculus	PFDN5	ENSOCUG00000011275	Others	NA
+Oryctolagus_cuniculus	CHEK2	ENSOCUG00000011299	Others	NA
+Oryctolagus_cuniculus	SIRT4	ENSOCUG00000011320	Sirtuin	NA
+Oryctolagus_cuniculus	GTF2A2	ENSOCUG00000011347	GTF	NA
+Oryctolagus_cuniculus	CIDEA	ENSOCUG00000011380	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000011400	Others	NA
+Oryctolagus_cuniculus	STRN3	ENSOCUG00000011418	Others	NA
+Oryctolagus_cuniculus	CNOT10	ENSOCUG00000011431	CCR4-NOT	NA
+Oryctolagus_cuniculus	EP300	ENSOCUG00000011434	Others	NA
+Oryctolagus_cuniculus	COPS5	ENSOCUG00000011490	Others	NA
+Oryctolagus_cuniculus	PHF2	ENSOCUG00000011530	PHF	NA
+Oryctolagus_cuniculus	VEGFA	ENSOCUG00000011610	Other_CRF	NA
+Oryctolagus_cuniculus	PRMT7	ENSOCUG00000011623	Arginine methyltransferase	NA
+Oryctolagus_cuniculus	PQBP1	ENSOCUG00000011703	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000011719	MBD	NA
+Oryctolagus_cuniculus	LPP	ENSOCUG00000011764	Thyroid hormone receptor	NA
+Oryctolagus_cuniculus	MED30	ENSOCUG00000011890	Mediator complex	NA
+Oryctolagus_cuniculus	TLE4	ENSOCUG00000011891	Transducin	NA
+Oryctolagus_cuniculus	RSF1	ENSOCUG00000011923	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000011936	Others	NA
+Oryctolagus_cuniculus	YEATS2	ENSOCUG00000011947	Others	NA
+Oryctolagus_cuniculus	AURKB	ENSOCUG00000011957	Others	NA
+Oryctolagus_cuniculus	TRAF6	ENSOCUG00000012011	Others	NA
+Oryctolagus_cuniculus	RNF20	ENSOCUG00000012019	Ring finger protein	NA
+Oryctolagus_cuniculus	PIM1	ENSOCUG00000012028	Others	NA
+Oryctolagus_cuniculus	TIMELESS	ENSOCUG00000012057	Others	NA
+Oryctolagus_cuniculus	JUP	ENSOCUG00000012063	Others	NA
+Oryctolagus_cuniculus	MYBBP1A	ENSOCUG00000012076	MYB	NA
+Oryctolagus_cuniculus		ENSOCUG00000012113	MAGE	NA
+Oryctolagus_cuniculus	AXIN2	ENSOCUG00000012115	Others	NA
+Oryctolagus_cuniculus	BCL9	ENSOCUG00000012143	BCL	NA
+Oryctolagus_cuniculus	LEO1	ENSOCUG00000012181	Others	NA
+Oryctolagus_cuniculus	TPR	ENSOCUG00000012261	Others	NA
+Oryctolagus_cuniculus	RNF168	ENSOCUG00000012315	Ring finger protein	NA
+Oryctolagus_cuniculus	MDFI	ENSOCUG00000012322	Others	NA
+Oryctolagus_cuniculus	CDK5RAP3	ENSOCUG00000012325	Cyclin	NA
+Oryctolagus_cuniculus	MED4	ENSOCUG00000012327	Mediator complex	NA
+Oryctolagus_cuniculus	ATF7IP	ENSOCUG00000012361	Others	NA
+Oryctolagus_cuniculus	LPIN3	ENSOCUG00000012372	LPIN	NA
+Oryctolagus_cuniculus	CHD6	ENSOCUG00000012394	CHD	NA
+Oryctolagus_cuniculus	PCGF6	ENSOCUG00000012441	PCGF	NA
+Oryctolagus_cuniculus	HCLS1	ENSOCUG00000012449	Others	NA
+Oryctolagus_cuniculus	FHL3	ENSOCUG00000012459	FHL	NA
+Oryctolagus_cuniculus	PLK3	ENSOCUG00000012460	Others	NA
+Oryctolagus_cuniculus	ANKAR	ENSOCUG00000012473	Ankyrin repeat	NA
+Oryctolagus_cuniculus	TIGD4	ENSOCUG00000012496	CENP	NA
+Oryctolagus_cuniculus	LIN54	ENSOCUG00000012516	Others	NA
+Oryctolagus_cuniculus	TIRAP	ENSOCUG00000012519	Others	NA
+Oryctolagus_cuniculus	CTDSP2	ENSOCUG00000012533	Others	NA
+Oryctolagus_cuniculus	POU2AF1	ENSOCUG00000012566	Others	NA
+Oryctolagus_cuniculus	HTATSF1	ENSOCUG00000012570	Others	NA
+Oryctolagus_cuniculus	DDX18	ENSOCUG00000012586	RNA helicase	NA
+Oryctolagus_cuniculus	BAZ1A	ENSOCUG00000012593	Bromodomain	NA
+Oryctolagus_cuniculus	SMARCB1	ENSOCUG00000012673	SWI/SNF	NA
+Oryctolagus_cuniculus	DNAJB4	ENSOCUG00000012679	Others	NA
+Oryctolagus_cuniculus	CTNND2	ENSOCUG00000012709	Casein	NA
+Oryctolagus_cuniculus	EPC2	ENSOCUG00000012712	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000012716	SAP	NA
+Oryctolagus_cuniculus	DAB2	ENSOCUG00000012721	Others	NA
+Oryctolagus_cuniculus	KMT2B	ENSOCUG00000012768	Lysine methyltransferase	NA
+Oryctolagus_cuniculus	SMURF2	ENSOCUG00000012776	Others	NA
+Oryctolagus_cuniculus	SFR1	ENSOCUG00000012794	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000012818	Mediator complex	NA
+Oryctolagus_cuniculus	NOD2	ENSOCUG00000012840	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000012870	Others	NA
+Oryctolagus_cuniculus	PAGR1	ENSOCUG00000012887	Others	NA
+Oryctolagus_cuniculus	SCAI	ENSOCUG00000012963	Others	NA
+Oryctolagus_cuniculus	PCGF5	ENSOCUG00000012993	PCGF	NA
+Oryctolagus_cuniculus		ENSOCUG00000013002	Bromodomain	NA
+Oryctolagus_cuniculus	SMARCA5	ENSOCUG00000013042	SWI/SNF	NA
+Oryctolagus_cuniculus	MTOR	ENSOCUG00000013053	Others	NA
+Oryctolagus_cuniculus	MED27	ENSOCUG00000013118	Mediator complex	NA
+Oryctolagus_cuniculus	EGLN1	ENSOCUG00000013221	Others	NA
+Oryctolagus_cuniculus	CCAR2	ENSOCUG00000013228	Others	NA
+Oryctolagus_cuniculus	TASOR	ENSOCUG00000013263	FAM	NA
+Oryctolagus_cuniculus	CCAR1	ENSOCUG00000013277	Others	NA
+Oryctolagus_cuniculus	SFMBT2	ENSOCUG00000013281	Others	NA
+Oryctolagus_cuniculus	KAT2A	ENSOCUG00000013285	Lysine acetyltransferase	NA
+Oryctolagus_cuniculus	CTR9	ENSOCUG00000013302	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000013317	Histone deacetylase	NA
+Oryctolagus_cuniculus	RHOA	ENSOCUG00000013323	Others	NA
+Oryctolagus_cuniculus	BRF2	ENSOCUG00000013439	GTF	NA
+Oryctolagus_cuniculus	XRN2	ENSOCUG00000013468	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000013492	TEF	NA
+Oryctolagus_cuniculus	SKIL	ENSOCUG00000013509	SKI	NA
+Oryctolagus_cuniculus	LBH	ENSOCUG00000013513	Others	NA
+Oryctolagus_cuniculus	HCFC2	ENSOCUG00000013543	Others	NA
+Oryctolagus_cuniculus	PDLIM1	ENSOCUG00000013643	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000013658	Others	NA
+Oryctolagus_cuniculus	PHF1	ENSOCUG00000013680	PHF	NA
+Oryctolagus_cuniculus	CRY1	ENSOCUG00000013721	Others	NA
+Oryctolagus_cuniculus	PAWR	ENSOCUG00000013722	Others	NA
+Oryctolagus_cuniculus	MTF2	ENSOCUG00000013736	Others	NA
+Oryctolagus_cuniculus	WWTR1	ENSOCUG00000013750	WW	NA
+Oryctolagus_cuniculus	PPARGC1B	ENSOCUG00000013833	Others	NA
+Oryctolagus_cuniculus	ZMYM5	ENSOCUG00000013877	Zinc finger	NA
+Oryctolagus_cuniculus	STRAP	ENSOCUG00000013884	Others	NA
+Oryctolagus_cuniculus	BIRC2	ENSOCUG00000013890	Others	NA
+Oryctolagus_cuniculus	KAT5	ENSOCUG00000013908	Lysine acetyltransferase	NA
+Oryctolagus_cuniculus	TSG101	ENSOCUG00000013940	Others	NA
+Oryctolagus_cuniculus	BLM	ENSOCUG00000013969	Others	NA
+Oryctolagus_cuniculus	CDKN1B	ENSOCUG00000013974	Cyclin	NA
+Oryctolagus_cuniculus	FGF1	ENSOCUG00000013987	FGF	NA
+Oryctolagus_cuniculus	ZNF593	ENSOCUG00000013999	Zinc finger	NA
+Oryctolagus_cuniculus	TAF7	ENSOCUG00000014000	TATA-box	NA
+Oryctolagus_cuniculus	HEATR1	ENSOCUG00000014007	Others	NA
+Oryctolagus_cuniculus	GRIP1	ENSOCUG00000014011	Others	NA
+Oryctolagus_cuniculus	SETD4	ENSOCUG00000014029	SET	NA
+Oryctolagus_cuniculus	DGKB	ENSOCUG00000014076	Others	NA
+Oryctolagus_cuniculus	LZTS1	ENSOCUG00000014083	Others	NA
+Oryctolagus_cuniculus	PRPF6	ENSOCUG00000014151	Others	NA
+Oryctolagus_cuniculus	RAF1	ENSOCUG00000014175	Others	NA
+Oryctolagus_cuniculus	CTNND1	ENSOCUG00000014213	Casein	NA
+Oryctolagus_cuniculus	RFXAP	ENSOCUG00000014234	Others	NA
+Oryctolagus_cuniculus	RWDD3	ENSOCUG00000014241	Others	NA
+Oryctolagus_cuniculus	TDRD3	ENSOCUG00000014261	Others	NA
+Oryctolagus_cuniculus	MNAT1	ENSOCUG00000014274	Others	NA
+Oryctolagus_cuniculus	SGK1	ENSOCUG00000014367	Others	NA
+Oryctolagus_cuniculus	AATF	ENSOCUG00000014434	Others	NA
+Oryctolagus_cuniculus	H1-4	ENSOCUG00000014442	Histone cluster 1 H1	NA
+Oryctolagus_cuniculus	HDAC9	ENSOCUG00000014444	Histone deacetylase	NA
+Oryctolagus_cuniculus	HNRNPU	ENSOCUG00000014469	HNRNP	NA
+Oryctolagus_cuniculus	PSEN1	ENSOCUG00000014545	Others	NA
+Oryctolagus_cuniculus	SUPT3H	ENSOCUG00000014574	SUPT	NA
+Oryctolagus_cuniculus		ENSOCUG00000014589	CCR4-NOT	NA
+Oryctolagus_cuniculus	LOXL2	ENSOCUG00000014596	Others	NA
+Oryctolagus_cuniculus	SAFB	ENSOCUG00000014628	Others	NA
+Oryctolagus_cuniculus	DHX9	ENSOCUG00000014651	RNA helicase	NA
+Oryctolagus_cuniculus	PPARGC1A	ENSOCUG00000014668	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000014717	TATA-box	NA
+Oryctolagus_cuniculus		ENSOCUG00000014722	Casein	NA
+Oryctolagus_cuniculus	ACTL6B	ENSOCUG00000014727	Actin	NA
+Oryctolagus_cuniculus	TBPL2	ENSOCUG00000014738	TATA-box	NA
+Oryctolagus_cuniculus	KDM6A	ENSOCUG00000014741	Lysine demethylase	NA
+Oryctolagus_cuniculus	PADI2	ENSOCUG00000014777	Other_CRF	NA
+Oryctolagus_cuniculus	MORF4L2	ENSOCUG00000014778	Other_CRF	NA
+Oryctolagus_cuniculus	INO80D	ENSOCUG00000014786	INO80 complex	NA
+Oryctolagus_cuniculus	WNT3	ENSOCUG00000014805	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000014877	Others	NA
+Oryctolagus_cuniculus	PELP1	ENSOCUG00000014885	Others	NA
+Oryctolagus_cuniculus	AEBP1	ENSOCUG00000014914	Others	NA
+Oryctolagus_cuniculus	GSK3B	ENSOCUG00000014932	Others	NA
+Oryctolagus_cuniculus	RASD1	ENSOCUG00000014946	Others	NA
+Oryctolagus_cuniculus	ASH1L	ENSOCUG00000014986	Others	NA
+Oryctolagus_cuniculus	PEX14	ENSOCUG00000015036	Others	NA
+Oryctolagus_cuniculus	LRPPRC	ENSOCUG00000015046	Others	NA
+Oryctolagus_cuniculus	DTX4	ENSOCUG00000015049	Others	NA
+Oryctolagus_cuniculus	URI1	ENSOCUG00000015063	Others	NA
+Oryctolagus_cuniculus	POLR3F	ENSOCUG00000015067	POLR	NA
+Oryctolagus_cuniculus	SUV39H2	ENSOCUG00000015090	Others	NA
+Oryctolagus_cuniculus	MAML1	ENSOCUG00000015101	MAML	NA
+Oryctolagus_cuniculus		ENSOCUG00000015117	Other_CRF	NA
+Oryctolagus_cuniculus	DACT1	ENSOCUG00000015140	Others	NA
+Oryctolagus_cuniculus	PHF12	ENSOCUG00000015224	PHF	NA
+Oryctolagus_cuniculus	MED14	ENSOCUG00000015286	Mediator complex	NA
+Oryctolagus_cuniculus	BTRC	ENSOCUG00000015353	Others	NA
+Oryctolagus_cuniculus	ITCH	ENSOCUG00000015354	Others	NA
+Oryctolagus_cuniculus	PCGF1	ENSOCUG00000015358	PCGF	NA
+Oryctolagus_cuniculus	SMYD2	ENSOCUG00000015379	SMYD	NA
+Oryctolagus_cuniculus	SQSTM1	ENSOCUG00000015445	Others	NA
+Oryctolagus_cuniculus	COPRS	ENSOCUG00000015488	Others	NA
+Oryctolagus_cuniculus	LDB2	ENSOCUG00000015499	LIM	NA
+Oryctolagus_cuniculus	TERF2IP	ENSOCUG00000015563	Others	NA
+Oryctolagus_cuniculus	RNF6	ENSOCUG00000015583	Ring finger protein	NA
+Oryctolagus_cuniculus	CDK8	ENSOCUG00000015595	Cyclin	NA
+Oryctolagus_cuniculus	NOL11	ENSOCUG00000015612	Nuclear coactivator	NA
+Oryctolagus_cuniculus	NFKBIA	ENSOCUG00000015642	NFKB associated	NA
+Oryctolagus_cuniculus	TRAK1	ENSOCUG00000015654	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000015655	GTF	NA
+Oryctolagus_cuniculus		ENSOCUG00000015656	TATA-box	NA
+Oryctolagus_cuniculus	PPHLN1	ENSOCUG00000015680	Others	NA
+Oryctolagus_cuniculus	SMARCD1	ENSOCUG00000015715	SWI/SNF	NA
+Oryctolagus_cuniculus	CRTC2	ENSOCUG00000015733	CREB	NA
+Oryctolagus_cuniculus	CBX4	ENSOCUG00000015768	Chromobox	NA
+Oryctolagus_cuniculus	ANXA4	ENSOCUG00000015796	Others	NA
+Oryctolagus_cuniculus	FAM83G	ENSOCUG00000015839	FAM	NA
+Oryctolagus_cuniculus	HIPK2	ENSOCUG00000015854	HIPK	NA
+Oryctolagus_cuniculus	MRTFB	ENSOCUG00000015855	Others	NA
+Oryctolagus_cuniculus	BPTF	ENSOCUG00000015866	Bromodomain	NA
+Oryctolagus_cuniculus	CCNA1	ENSOCUG00000015876	Cyclin	NA
+Oryctolagus_cuniculus	SFRP4	ENSOCUG00000015877	Others	NA
+Oryctolagus_cuniculus	ASF1A	ENSOCUG00000015897	Others	NA
+Oryctolagus_cuniculus	CITED4	ENSOCUG00000015927	CITED	NA
+Oryctolagus_cuniculus	ADRB2	ENSOCUG00000016088	Others	NA
+Oryctolagus_cuniculus	EAF1	ENSOCUG00000016089	Others	NA
+Oryctolagus_cuniculus	PRMT2	ENSOCUG00000016126	Arginine methyltransferase	NA
+Oryctolagus_cuniculus		ENSOCUG00000016135	Zinc finger	NA
+Oryctolagus_cuniculus	PYGO2	ENSOCUG00000016170	Others	NA
+Oryctolagus_cuniculus	BCL10	ENSOCUG00000016199	BCL	NA
+Oryctolagus_cuniculus	RECQL5	ENSOCUG00000016202	Others	NA
+Oryctolagus_cuniculus	SAP30BP	ENSOCUG00000016220	SAP	NA
+Oryctolagus_cuniculus	TDG	ENSOCUG00000016313	Others	NA
+Oryctolagus_cuniculus	SMURF1	ENSOCUG00000016326	Others	NA
+Oryctolagus_cuniculus	WDTC1	ENSOCUG00000016358	WD	NA
+Oryctolagus_cuniculus	MAK	ENSOCUG00000016374	Others	NA
+Oryctolagus_cuniculus	PHIP	ENSOCUG00000016401	Others	NA
+Oryctolagus_cuniculus	RB1	ENSOCUG00000016404	Other_Co-activator/repressors	NA
+Oryctolagus_cuniculus	TRIM33	ENSOCUG00000016427	Tripartite motif	NA
+Oryctolagus_cuniculus	ABT1	ENSOCUG00000016429	Others	NA
+Oryctolagus_cuniculus	BTN1A1	ENSOCUG00000016441	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000016445	Notch	NA
+Oryctolagus_cuniculus		ENSOCUG00000016492	Coiled-coil	NA
+Oryctolagus_cuniculus	RUVBL1	ENSOCUG00000016510	Other_CRF	NA
+Oryctolagus_cuniculus	PARK7	ENSOCUG00000016511	Others	NA
+Oryctolagus_cuniculus	NSD3	ENSOCUG00000016542	Nuclear receptor coactivator	NA
+Oryctolagus_cuniculus	MED31	ENSOCUG00000016562	Mediator complex	NA
+Oryctolagus_cuniculus	NOTCH2	ENSOCUG00000016565	Notch	NA
+Oryctolagus_cuniculus		ENSOCUG00000016583	Cyclin	NA
+Oryctolagus_cuniculus	TRIM28	ENSOCUG00000016607	Tripartite motif	NA
+Oryctolagus_cuniculus	DPF3	ENSOCUG00000016740	DPF	NA
+Oryctolagus_cuniculus	ASCC1	ENSOCUG00000016753	ASCC	NA
+Oryctolagus_cuniculus	NPM3	ENSOCUG00000016819	Nucleoplasmin	NA
+Oryctolagus_cuniculus	MCRS1	ENSOCUG00000016821	Others	NA
+Oryctolagus_cuniculus	PDCD4	ENSOCUG00000016822	Others	NA
+Oryctolagus_cuniculus	JAK2	ENSOCUG00000016853	Others	NA
+Oryctolagus_cuniculus	BRCA2	ENSOCUG00000016878	Others	NA
+Oryctolagus_cuniculus	APBB1	ENSOCUG00000016929	Others	NA
+Oryctolagus_cuniculus	SMYD1	ENSOCUG00000016949	SMYD	NA
+Oryctolagus_cuniculus	RNF14	ENSOCUG00000016953	Ring finger protein	NA
+Oryctolagus_cuniculus	OGT	ENSOCUG00000016965	Others	NA
+Oryctolagus_cuniculus	CRYM	ENSOCUG00000016975	Others	NA
+Oryctolagus_cuniculus	BCOR	ENSOCUG00000017052	Other_Co-activator/repressors	NA
+Oryctolagus_cuniculus	TBL1XR1	ENSOCUG00000017078	Transducin	NA
+Oryctolagus_cuniculus	ZMYM2	ENSOCUG00000017086	Zinc finger	NA
+Oryctolagus_cuniculus	ARHGAP35	ENSOCUG00000017126	Others	NA
+Oryctolagus_cuniculus	SLC30A9	ENSOCUG00000017135	SLC	NA
+Oryctolagus_cuniculus	SMARCAD1	ENSOCUG00000017283	SWI/SNF	NA
+Oryctolagus_cuniculus	KDM6B	ENSOCUG00000017292	Lysine demethylase	NA
+Oryctolagus_cuniculus	NAA15	ENSOCUG00000017331	Others	NA
+Oryctolagus_cuniculus	TP53BP1	ENSOCUG00000017337	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000017342	Others	NA
+Oryctolagus_cuniculus	KAT6B	ENSOCUG00000017344	Lysine acetyltransferase	NA
+Oryctolagus_cuniculus	TARBP1	ENSOCUG00000017418	Others	NA
+Oryctolagus_cuniculus	SENP1	ENSOCUG00000017434	Others	NA
+Oryctolagus_cuniculus	BRDT	ENSOCUG00000017466	Bromodomain	NA
+Oryctolagus_cuniculus	TGS1	ENSOCUG00000017522	Others	NA
+Oryctolagus_cuniculus	MED13L	ENSOCUG00000017525	Mediator complex	NA
+Oryctolagus_cuniculus	SYK	ENSOCUG00000017539	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000017562	Mediator complex	NA
+Oryctolagus_cuniculus	EHMT1	ENSOCUG00000017581	Histone lysine methyltransferase	NA
+Oryctolagus_cuniculus	NUP98	ENSOCUG00000017583	Others	NA
+Oryctolagus_cuniculus	ECD	ENSOCUG00000017621	Others	NA
+Oryctolagus_cuniculus	PEX2	ENSOCUG00000017625	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000017633	GTF	NA
+Oryctolagus_cuniculus	CREG1	ENSOCUG00000017651	Others	NA
+Oryctolagus_cuniculus	SAV1	ENSOCUG00000017714	Others	NA
+Oryctolagus_cuniculus	CAVIN2	ENSOCUG00000017723	Others	NA
+Oryctolagus_cuniculus	FHL5	ENSOCUG00000017742	FHL	NA
+Oryctolagus_cuniculus	TNKS	ENSOCUG00000017773	Others	NA
+Oryctolagus_cuniculus	CCDC59	ENSOCUG00000017824	Coiled-coil	NA
+Oryctolagus_cuniculus	DNMT3B	ENSOCUG00000017835	DNA_methylase	NA
+Oryctolagus_cuniculus	ACTN2	ENSOCUG00000017871	Actin	NA
+Oryctolagus_cuniculus	EMSY	ENSOCUG00000017880	Others	NA
+Oryctolagus_cuniculus	ACTL6A	ENSOCUG00000017883	Actin	NA
+Oryctolagus_cuniculus	TAF2	ENSOCUG00000017950	TATA-box	NA
+Oryctolagus_cuniculus	VGLL3	ENSOCUG00000020895	Vestigial like	NA
+Oryctolagus_cuniculus	RNF25	ENSOCUG00000020986	Ring finger protein	NA
+Oryctolagus_cuniculus		ENSOCUG00000021020	Lysine demethylase	NA
+Oryctolagus_cuniculus	EED	ENSOCUG00000021263	Others	NA
+Oryctolagus_cuniculus	TRIM29	ENSOCUG00000021297	Tripartite motif	NA
+Oryctolagus_cuniculus	TNP1	ENSOCUG00000021367	Other_CRF	NA
+Oryctolagus_cuniculus	MBTD1	ENSOCUG00000021379	Others	NA
+Oryctolagus_cuniculus	CDK5	ENSOCUG00000021398	Cyclin	NA
+Oryctolagus_cuniculus	PCGF3	ENSOCUG00000021464	PCGF	NA
+Oryctolagus_cuniculus	GTF2H4	ENSOCUG00000021496	GTF	NA
+Oryctolagus_cuniculus	NPM1	ENSOCUG00000021499	Nucleoplasmin	100328693
+Oryctolagus_cuniculus	FUS	ENSOCUG00000021526	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000021569	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000021612	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000021665	Others	NA
+Oryctolagus_cuniculus	NPM2	ENSOCUG00000021756	Nucleoplasmin	NA
+Oryctolagus_cuniculus		ENSOCUG00000021942	Thyroid hormone receptor	NA
+Oryctolagus_cuniculus	ICE1	ENSOCUG00000022005	Others	NA
+Oryctolagus_cuniculus	NOTCH3	ENSOCUG00000022014	Notch	NA
+Oryctolagus_cuniculus		ENSOCUG00000022096	Lysine methyltransferase	NA
+Oryctolagus_cuniculus	PRMT1	ENSOCUG00000022192	Arginine methyltransferase	NA
+Oryctolagus_cuniculus	MED25	ENSOCUG00000022380	Mediator complex	NA
+Oryctolagus_cuniculus	PRDM7	ENSOCUG00000022431	Others	NA
+Oryctolagus_cuniculus	RITA1	ENSOCUG00000022772	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000022805	ANP	NA
+Oryctolagus_cuniculus	TLE3	ENSOCUG00000023043	Transducin	NA
+Oryctolagus_cuniculus	AGO1	ENSOCUG00000023116	Others	NA
+Oryctolagus_cuniculus	EGLN2	ENSOCUG00000023222	Others	NA
+Oryctolagus_cuniculus	CITED2	ENSOCUG00000023408	CITED	NA
+Oryctolagus_cuniculus	TAF6	ENSOCUG00000023479	TATA-box	NA
+Oryctolagus_cuniculus		ENSOCUG00000023504	Others	NA
+Oryctolagus_cuniculus	BANP	ENSOCUG00000023597	Others	NA
+Oryctolagus_cuniculus	KCNIP3	ENSOCUG00000023638	Others	NA
+Oryctolagus_cuniculus	CAMK2D	ENSOCUG00000023650	CAMK	NA
+Oryctolagus_cuniculus	PICALM	ENSOCUG00000023809	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000023872	Others	NA
+Oryctolagus_cuniculus	MUC1	ENSOCUG00000023957	Others	NA
+Oryctolagus_cuniculus	NUP62	ENSOCUG00000023981	Others	NA
+Oryctolagus_cuniculus	DDX39B	ENSOCUG00000024126	RNA helicase	NA
+Oryctolagus_cuniculus	NFKBIB	ENSOCUG00000024218	NFKB associated	NA
+Oryctolagus_cuniculus	GPS2	ENSOCUG00000024249	Others	NA
+Oryctolagus_cuniculus	NAB2	ENSOCUG00000024399	Others	NA
+Oryctolagus_cuniculus	MYO6	ENSOCUG00000024606	Others	NA
+Oryctolagus_cuniculus	MNDA	ENSOCUG00000024795	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000024838	TEF	NA
+Oryctolagus_cuniculus	MED1	ENSOCUG00000024849	Mediator complex	NA
+Oryctolagus_cuniculus	BTF3	ENSOCUG00000024914	Others	NA
+Oryctolagus_cuniculus	GTF2H5	ENSOCUG00000025009	GTF	NA
+Oryctolagus_cuniculus	JMJD6	ENSOCUG00000025071	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000025136	Others	NA
+Oryctolagus_cuniculus	HDAC10	ENSOCUG00000025188	Histone deacetylase	NA
+Oryctolagus_cuniculus	ERCC2	ENSOCUG00000025269	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000025361	Others	NA
+Oryctolagus_cuniculus	EID1	ENSOCUG00000025492	EID	NA
+Oryctolagus_cuniculus	SIRT3	ENSOCUG00000025521	Sirtuin	NA
+Oryctolagus_cuniculus	LDB1	ENSOCUG00000025582	LIM	NA
+Oryctolagus_cuniculus	CXXC1	ENSOCUG00000025756	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000025803	Others	NA
+Oryctolagus_cuniculus	SUPT4H1	ENSOCUG00000025823	SUPT	NA
+Oryctolagus_cuniculus	YAP1	ENSOCUG00000025834	Others	NA
+Oryctolagus_cuniculus	ARHGEF5	ENSOCUG00000025879	Others	NA
+Oryctolagus_cuniculus	DDX20	ENSOCUG00000025939	RNA helicase	NA
+Oryctolagus_cuniculus		ENSOCUG00000026145	Others	NA
+Oryctolagus_cuniculus	PCBD1	ENSOCUG00000026149	Others	NA
+Oryctolagus_cuniculus	CAMK1	ENSOCUG00000026164	CAMK	NA
+Oryctolagus_cuniculus	DUSP29	ENSOCUG00000026189	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000026225	TATA-box	NA
+Oryctolagus_cuniculus	PAK6	ENSOCUG00000026281	Others	NA
+Oryctolagus_cuniculus	ARRB1	ENSOCUG00000026291	Others	NA
+Oryctolagus_cuniculus	DDX5	ENSOCUG00000026305	RNA helicase	NA
+Oryctolagus_cuniculus	HR	ENSOCUG00000026384	Lysine methyltransferase	NA
+Oryctolagus_cuniculus	SF1	ENSOCUG00000026486	Others	NA
+Oryctolagus_cuniculus	BCL3	ENSOCUG00000026628	BCL	NA
+Oryctolagus_cuniculus	HELLS	ENSOCUG00000026731	Others	NA
+Oryctolagus_cuniculus	PCGF2	ENSOCUG00000026783	PCGF	NA
+Oryctolagus_cuniculus	TAB1	ENSOCUG00000026801	Others	NA
+Oryctolagus_cuniculus	MCIDAS	ENSOCUG00000026885	Others	NA
+Oryctolagus_cuniculus	LOXL3	ENSOCUG00000027040	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000027060	TATA-box	NA
+Oryctolagus_cuniculus	NRIP2	ENSOCUG00000027080	Nuclear coactivator	NA
+Oryctolagus_cuniculus		ENSOCUG00000027140	Others	NA
+Oryctolagus_cuniculus	TADA3	ENSOCUG00000027231	Transcriptional adaptor	NA
+Oryctolagus_cuniculus	CNOT8	ENSOCUG00000027257	CCR4-NOT	NA
+Oryctolagus_cuniculus	TAF3	ENSOCUG00000027324	TATA-box	NA
+Oryctolagus_cuniculus	AIPL1	ENSOCUG00000027395	Others	NA
+Oryctolagus_cuniculus	TSPYL2	ENSOCUG00000027476	Others	NA
+Oryctolagus_cuniculus	ZMYND11	ENSOCUG00000027497	Zinc finger	NA
+Oryctolagus_cuniculus	BCL9L	ENSOCUG00000027585	BCL	NA
+Oryctolagus_cuniculus	MLLT6	ENSOCUG00000027604	Others	NA
+Oryctolagus_cuniculus	TOB2	ENSOCUG00000027909	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000027911	Others	NA
+Oryctolagus_cuniculus	SIRT2	ENSOCUG00000027924	Sirtuin	NA
+Oryctolagus_cuniculus	PELI1	ENSOCUG00000027961	Others	NA
+Oryctolagus_cuniculus	TESC	ENSOCUG00000027997	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000028042	Cyclin	NA
+Oryctolagus_cuniculus		ENSOCUG00000028060	Vestigial like	NA
+Oryctolagus_cuniculus	FBP1	ENSOCUG00000029295	Others	NA
+Oryctolagus_cuniculus	CIR1	ENSOCUG00000029298	Other_Co-activator/repressors	NA
+Oryctolagus_cuniculus	CHD3	ENSOCUG00000029299	CHD	NA
+Oryctolagus_cuniculus	ANP32B	ENSOCUG00000029397	ANP	NA
+Oryctolagus_cuniculus	SNX6	ENSOCUG00000029421	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000029521	Others	NA
+Oryctolagus_cuniculus	RNF8	ENSOCUG00000029655	Ring finger protein	NA
+Oryctolagus_cuniculus		ENSOCUG00000029882	SS18	NA
+Oryctolagus_cuniculus	WDR5B	ENSOCUG00000030198	WD	NA
+Oryctolagus_cuniculus		ENSOCUG00000030397	Others	NA
+Oryctolagus_cuniculus	ENY2	ENSOCUG00000030501	Others	NA
+Oryctolagus_cuniculus	CTNNBIP1	ENSOCUG00000030596	Casein	NA
+Oryctolagus_cuniculus	TXN	ENSOCUG00000030643	Others	NA
+Oryctolagus_cuniculus	HSBP1L1	ENSOCUG00000031721	Heat shock protein	NA
+Oryctolagus_cuniculus	TAF13	ENSOCUG00000031899	TATA-box	NA
+Oryctolagus_cuniculus	ELOC	ENSOCUG00000032655	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000032697	Others	NA
+Oryctolagus_cuniculus	CTDP1	ENSOCUG00000033957	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000034392	SET	NA
+Oryctolagus_cuniculus	MED21	ENSOCUG00000034587	Mediator complex	NA
+Oryctolagus_cuniculus	GTF2A1L	ENSOCUG00000034645	GTF	NA
+Oryctolagus_cuniculus	ITGB3BP	ENSOCUG00000035590	Others	NA
+Oryctolagus_cuniculus	ASXL1	ENSOCUG00000035849	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000036082	Heat shock protein	NA
+Oryctolagus_cuniculus	DVL3	ENSOCUG00000036386	Others	NA
+Oryctolagus_cuniculus	TRIM6	ENSOCUG00000036859	Tripartite motif	NA
+Oryctolagus_cuniculus	TRIM16	ENSOCUG00000037357	Tripartite motif	NA
+Oryctolagus_cuniculus		ENSOCUG00000037727	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000037942	ANP	NA
+Oryctolagus_cuniculus	TRIM11	ENSOCUG00000038242	Tripartite motif	NA
+Oryctolagus_cuniculus		ENSOCUG00000038691	Others	NA
+Oryctolagus_cuniculus		ENSOCUG00000039031	INO80 complex	NA
+Oryctolagus_cuniculus	SNAPC5	ENSOCUG00000039231	Others	NA
+Oryctolagus_cuniculus	BASP1	ENSOCUG00000039590	Others	NA

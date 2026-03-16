@@ -1,0 +1,801 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Ochotona_princeps	NFATC2IP	ENSOPRG00000000002	Nuclear coactivator	NA
+Ochotona_princeps	SAP130	ENSOPRG00000000011	SAP	NA
+Ochotona_princeps	JAK2	ENSOPRG00000000022	Others	NA
+Ochotona_princeps	RNF168	ENSOPRG00000000064	Ring finger protein	NA
+Ochotona_princeps		ENSOPRG00000000073	Others	NA
+Ochotona_princeps		ENSOPRG00000000087	Others	NA
+Ochotona_princeps		ENSOPRG00000000137	SLC	NA
+Ochotona_princeps	DHX36	ENSOPRG00000000175	RNA helicase	NA
+Ochotona_princeps	MYCBP2	ENSOPRG00000000187	MYC	NA
+Ochotona_princeps	MED7	ENSOPRG00000000247	Mediator complex	NA
+Ochotona_princeps		ENSOPRG00000000303	Others	NA
+Ochotona_princeps	LPXN	ENSOPRG00000000306	Others	NA
+Ochotona_princeps	ASH2L	ENSOPRG00000000319	Others	NA
+Ochotona_princeps	PBXIP1	ENSOPRG00000000341	Others	NA
+Ochotona_princeps		ENSOPRG00000000348	Others	NA
+Ochotona_princeps	PYGO2	ENSOPRG00000000349	Others	NA
+Ochotona_princeps	PHF5A	ENSOPRG00000000358	PHF	101517830
+Ochotona_princeps	NSD3	ENSOPRG00000000359	Nuclear receptor coactivator	NA
+Ochotona_princeps	ADRA1A	ENSOPRG00000000373	Others	NA
+Ochotona_princeps	URI1	ENSOPRG00000000408	Others	NA
+Ochotona_princeps	SCAI	ENSOPRG00000000422	Others	NA
+Ochotona_princeps		ENSOPRG00000000442	Others	101525467
+Ochotona_princeps		ENSOPRG00000000445	Others	NA
+Ochotona_princeps	MED31	ENSOPRG00000000512	Mediator complex	101527501
+Ochotona_princeps	DNAJA3	ENSOPRG00000000514	Others	NA
+Ochotona_princeps		ENSOPRG00000000527	Bromodomain	NA
+Ochotona_princeps	CLU	ENSOPRG00000000587	Others	NA
+Ochotona_princeps	MED18	ENSOPRG00000000621	Mediator complex	NA
+Ochotona_princeps	ELP3	ENSOPRG00000000648	ELP	NA
+Ochotona_princeps	HDGF	ENSOPRG00000000649	Others	NA
+Ochotona_princeps		ENSOPRG00000000672	Ring finger protein	NA
+Ochotona_princeps	TRIM2	ENSOPRG00000000742	Tripartite motif	NA
+Ochotona_princeps	PADI4	ENSOPRG00000000748	Others	NA
+Ochotona_princeps	KAT2A	ENSOPRG00000000759	Lysine acetyltransferase	101526624
+Ochotona_princeps	TONSL	ENSOPRG00000000795	Others	NA
+Ochotona_princeps	INO80	ENSOPRG00000000831	INO80 complex	NA
+Ochotona_princeps	HDAC1	ENSOPRG00000000851	Histone deacetylase	NA
+Ochotona_princeps	TBL1XR1	ENSOPRG00000000857	Transducin	NA
+Ochotona_princeps		ENSOPRG00000000871	GTF	NA
+Ochotona_princeps		ENSOPRG00000000885	SWI/SNF	NA
+Ochotona_princeps		ENSOPRG00000000895	Mediator complex	NA
+Ochotona_princeps	TCEA1	ENSOPRG00000000910	TEF	NA
+Ochotona_princeps	RING1	ENSOPRG00000000924	Ring finger protein	NA
+Ochotona_princeps	ELL3	ENSOPRG00000000948	GTF	101529829
+Ochotona_princeps	ECD	ENSOPRG00000001027	Others	101524164
+Ochotona_princeps	DAXX	ENSOPRG00000001051	Other_CRF	101535624
+Ochotona_princeps	RUVBL2	ENSOPRG00000001067	Other_CRF	NA
+Ochotona_princeps	PHF1	ENSOPRG00000001082	PHF	NA
+Ochotona_princeps	PRMT5	ENSOPRG00000001113	Arginine methyltransferase	101517727
+Ochotona_princeps		ENSOPRG00000001129	Others	NA
+Ochotona_princeps		ENSOPRG00000001183	Cyclin	NA
+Ochotona_princeps	NCK1	ENSOPRG00000001209	Others	NA
+Ochotona_princeps		ENSOPRG00000001275	Notch	NA
+Ochotona_princeps		ENSOPRG00000001331	Others	NA
+Ochotona_princeps	KMT2B	ENSOPRG00000001336	Lysine methyltransferase	101535318
+Ochotona_princeps	TRIM47	ENSOPRG00000001377	Tripartite motif	101528730
+Ochotona_princeps	CBFA2T2	ENSOPRG00000001392	Others	NA
+Ochotona_princeps		ENSOPRG00000001397	Others	NA
+Ochotona_princeps		ENSOPRG00000001400	Others	101531601
+Ochotona_princeps	TGFB1I1	ENSOPRG00000001427	Others	101524096
+Ochotona_princeps		ENSOPRG00000001436	Histone deacetylase	NA
+Ochotona_princeps	ZNF593	ENSOPRG00000001439	Zinc finger	101520602
+Ochotona_princeps	ELL	ENSOPRG00000001472	GTF	101530649
+Ochotona_princeps	CDK8	ENSOPRG00000001510	Cyclin	NA
+Ochotona_princeps		ENSOPRG00000001539	TEF	NA
+Ochotona_princeps	TIMELESS	ENSOPRG00000001561	Others	NA
+Ochotona_princeps		ENSOPRG00000001605	CCR4-NOT	NA
+Ochotona_princeps	THRAP3	ENSOPRG00000001637	Thyroid hormone receptor	NA
+Ochotona_princeps	NFKBID	ENSOPRG00000001642	NFKB associated	NA
+Ochotona_princeps	ELP4	ENSOPRG00000001652	ELP	NA
+Ochotona_princeps	PRNP	ENSOPRG00000001656	Others	101521014
+Ochotona_princeps	WAC	ENSOPRG00000001669	WW	NA
+Ochotona_princeps	TCEAL1	ENSOPRG00000001675	TEF	101522228
+Ochotona_princeps	RSF1	ENSOPRG00000001700	Others	NA
+Ochotona_princeps	VGLL2	ENSOPRG00000001710	Vestigial like	NA
+Ochotona_princeps	NCOA7	ENSOPRG00000001725	Nuclear receptor coactivator	NA
+Ochotona_princeps	HINT3	ENSOPRG00000001744	Others	NA
+Ochotona_princeps		ENSOPRG00000001781	Others	NA
+Ochotona_princeps		ENSOPRG00000001791	TATA-box	NA
+Ochotona_princeps		ENSOPRG00000001831	Transducin	NA
+Ochotona_princeps	ERCC2	ENSOPRG00000001834	Others	NA
+Ochotona_princeps	SFMBT2	ENSOPRG00000001837	Others	NA
+Ochotona_princeps	TLE2	ENSOPRG00000001843	Transducin	NA
+Ochotona_princeps		ENSOPRG00000001875	PCGF	NA
+Ochotona_princeps	EYA1	ENSOPRG00000001927	EYA	NA
+Ochotona_princeps		ENSOPRG00000001928	Others	NA
+Ochotona_princeps		ENSOPRG00000001933	Thyroid hormone receptor	NA
+Ochotona_princeps	PSEN1	ENSOPRG00000001989	Others	NA
+Ochotona_princeps	SAV1	ENSOPRG00000001994	Others	NA
+Ochotona_princeps	PRMT1	ENSOPRG00000002011	Arginine methyltransferase	NA
+Ochotona_princeps	NSD1	ENSOPRG00000002027	Nuclear receptor coactivator	NA
+Ochotona_princeps		ENSOPRG00000002043	GTF	NA
+Ochotona_princeps	PRMT6	ENSOPRG00000002067	Arginine methyltransferase	NA
+Ochotona_princeps		ENSOPRG00000002071	Ankyrin repeat	NA
+Ochotona_princeps	KDM3A	ENSOPRG00000002126	Lysine demethylase	NA
+Ochotona_princeps	WDTC1	ENSOPRG00000002127	WD	101535558
+Ochotona_princeps	PUF60	ENSOPRG00000002147	Others	NA
+Ochotona_princeps		ENSOPRG00000002171	Others	NA
+Ochotona_princeps	RBM39	ENSOPRG00000002183	RNA binding protein	NA
+Ochotona_princeps	AURKAIP1	ENSOPRG00000002188	Others	101529914
+Ochotona_princeps	DUSP26	ENSOPRG00000002194	Others	NA
+Ochotona_princeps	PHF20	ENSOPRG00000002217	PHF	NA
+Ochotona_princeps	ACTR8	ENSOPRG00000002241	ACTR	NA
+Ochotona_princeps	AIP	ENSOPRG00000002244	Others	NA
+Ochotona_princeps	FGFR2	ENSOPRG00000002252	FGF	NA
+Ochotona_princeps	NRG1	ENSOPRG00000002272	Others	NA
+Ochotona_princeps	PIR	ENSOPRG00000002304	Others	NA
+Ochotona_princeps	KAT6B	ENSOPRG00000002310	Lysine acetyltransferase	NA
+Ochotona_princeps	RYBP	ENSOPRG00000002312	Others	NA
+Ochotona_princeps	EYA3	ENSOPRG00000002321	EYA	NA
+Ochotona_princeps		ENSOPRG00000002359	Bromodomain	NA
+Ochotona_princeps	XRCC6	ENSOPRG00000002386	Others	101516925
+Ochotona_princeps	TAB3	ENSOPRG00000002406	Others	NA
+Ochotona_princeps		ENSOPRG00000002476	Others	NA
+Ochotona_princeps	MED23	ENSOPRG00000002530	Mediator complex	NA
+Ochotona_princeps	SNIP1	ENSOPRG00000002581	Others	NA
+Ochotona_princeps	FHOD1	ENSOPRG00000002597	Others	NA
+Ochotona_princeps	CNOT2	ENSOPRG00000002600	CCR4-NOT	NA
+Ochotona_princeps		ENSOPRG00000002623	Bromodomain	NA
+Ochotona_princeps	ACTN1	ENSOPRG00000002644	Actin	NA
+Ochotona_princeps		ENSOPRG00000002646	Mediator complex	NA
+Ochotona_princeps		ENSOPRG00000002671	Casein	NA
+Ochotona_princeps		ENSOPRG00000002713	Others	NA
+Ochotona_princeps	ATF7IP	ENSOPRG00000002759	Others	NA
+Ochotona_princeps	BRD8	ENSOPRG00000002775	Bromodomain	NA
+Ochotona_princeps		ENSOPRG00000002800	HNRNP	NA
+Ochotona_princeps		ENSOPRG00000002816	Histone deacetylase	NA
+Ochotona_princeps	EGLN2	ENSOPRG00000002831	Others	NA
+Ochotona_princeps	ACTA1	ENSOPRG00000002854	Actin	101520433
+Ochotona_princeps	Tnp1	ENSOPRG00000002892	Other_CRF	NA
+Ochotona_princeps	SUPT3H	ENSOPRG00000002907	SUPT	NA
+Ochotona_princeps	BRDT	ENSOPRG00000002921	Bromodomain	NA
+Ochotona_princeps	SIRT1	ENSOPRG00000002944	Sirtuin	NA
+Ochotona_princeps	CALCOCO1	ENSOPRG00000002988	Others	NA
+Ochotona_princeps		ENSOPRG00000003028	ANP	NA
+Ochotona_princeps		ENSOPRG00000003037	MAGE	NA
+Ochotona_princeps	SFRP4	ENSOPRG00000003042	Others	NA
+Ochotona_princeps	RWDD3	ENSOPRG00000003049	Others	101519012
+Ochotona_princeps	ABT1	ENSOPRG00000003058	Others	101528021
+Ochotona_princeps	LIMD1	ENSOPRG00000003153	LIM	101532516
+Ochotona_princeps	PDLIM1	ENSOPRG00000003157	Others	NA
+Ochotona_princeps	CXXC5	ENSOPRG00000003163	Others	NA
+Ochotona_princeps	CDYL2	ENSOPRG00000003180	Chromodomain Y	101524945
+Ochotona_princeps		ENSOPRG00000003210	BCL	NA
+Ochotona_princeps	FHL2	ENSOPRG00000003264	FHL	NA
+Ochotona_princeps	KDM1A	ENSOPRG00000003265	Lysine demethylase	NA
+Ochotona_princeps		ENSOPRG00000003304	Others	NA
+Ochotona_princeps		ENSOPRG00000003382	SMYD	NA
+Ochotona_princeps	POLR3F	ENSOPRG00000003385	POLR	NA
+Ochotona_princeps		ENSOPRG00000003402	GTF	NA
+Ochotona_princeps	TAF6	ENSOPRG00000003418	TATA-box	NA
+Ochotona_princeps	SMARCD1	ENSOPRG00000003426	SWI/SNF	NA
+Ochotona_princeps	LMCD1	ENSOPRG00000003445	LIM	NA
+Ochotona_princeps		ENSOPRG00000003472	Others	NA
+Ochotona_princeps		ENSOPRG00000003477	CHD	NA
+Ochotona_princeps		ENSOPRG00000003495	Others	NA
+Ochotona_princeps		ENSOPRG00000003514	Mediator complex	NA
+Ochotona_princeps	RAF1	ENSOPRG00000003522	Others	101534290
+Ochotona_princeps	PSIP1	ENSOPRG00000003591	Others	NA
+Ochotona_princeps	KDM4A	ENSOPRG00000003628	Lysine demethylase	NA
+Ochotona_princeps	CCNT2	ENSOPRG00000003705	Cyclin	NA
+Ochotona_princeps		ENSOPRG00000003732	Others	NA
+Ochotona_princeps		ENSOPRG00000003757	Others	NA
+Ochotona_princeps		ENSOPRG00000003764	Others	NA
+Ochotona_princeps		ENSOPRG00000003785	Others	NA
+Ochotona_princeps	EHMT2	ENSOPRG00000003803	Histone lysine methyltransferase	NA
+Ochotona_princeps		ENSOPRG00000003811	Cyclin	NA
+Ochotona_princeps	SYK	ENSOPRG00000003820	Others	NA
+Ochotona_princeps	WDR77	ENSOPRG00000003854	WD	NA
+Ochotona_princeps		ENSOPRG00000003881	Others	NA
+Ochotona_princeps	MED28	ENSOPRG00000003932	Mediator complex	101532022
+Ochotona_princeps	NELFE	ENSOPRG00000003942	GTF	NA
+Ochotona_princeps	JADE1	ENSOPRG00000003945	Others	NA
+Ochotona_princeps	PLK3	ENSOPRG00000003948	Others	NA
+Ochotona_princeps	ATN1	ENSOPRG00000003965	Others	NA
+Ochotona_princeps	DDX20	ENSOPRG00000004035	RNA helicase	NA
+Ochotona_princeps	SUDS3	ENSOPRG00000004075	Other_Co-activator/repressors	NA
+Ochotona_princeps		ENSOPRG00000004101	SWI/SNF	NA
+Ochotona_princeps	CDK5RAP3	ENSOPRG00000004107	Cyclin	NA
+Ochotona_princeps		ENSOPRG00000004119	Bromodomain	NA
+Ochotona_princeps		ENSOPRG00000004128	Others	NA
+Ochotona_princeps		ENSOPRG00000004188	Coiled-coil	NA
+Ochotona_princeps	RUNX1T1	ENSOPRG00000004193	Others	NA
+Ochotona_princeps	CTH	ENSOPRG00000004237	Others	NA
+Ochotona_princeps	POLR3C	ENSOPRG00000004244	POLR	NA
+Ochotona_princeps	DDX1	ENSOPRG00000004290	RNA helicase	NA
+Ochotona_princeps	RNF10	ENSOPRG00000004291	Ring finger protein	NA
+Ochotona_princeps	RNF4	ENSOPRG00000004317	Ring finger protein	101522451
+Ochotona_princeps	NFKBIZ	ENSOPRG00000004328	NFKB associated	NA
+Ochotona_princeps	RPRD1B	ENSOPRG00000004329	Others	NA
+Ochotona_princeps	VGLL3	ENSOPRG00000004333	Vestigial like	NA
+Ochotona_princeps		ENSOPRG00000004390	Others	NA
+Ochotona_princeps		ENSOPRG00000004404	CHD	NA
+Ochotona_princeps		ENSOPRG00000004434	RBBP	NA
+Ochotona_princeps		ENSOPRG00000004447	Others	NA
+Ochotona_princeps	TGFB1	ENSOPRG00000004451	Others	101533379
+Ochotona_princeps		ENSOPRG00000004452	Chromobox	NA
+Ochotona_princeps	MED4	ENSOPRG00000004458	Mediator complex	NA
+Ochotona_princeps	RPAP2	ENSOPRG00000004465	Others	NA
+Ochotona_princeps	SSBP2	ENSOPRG00000004508	Others	NA
+Ochotona_princeps	CECR2	ENSOPRG00000004530	Other_CRF	NA
+Ochotona_princeps	NAB1	ENSOPRG00000004545	Others	NA
+Ochotona_princeps	ERCC3	ENSOPRG00000004553	Others	NA
+Ochotona_princeps	CTBP1	ENSOPRG00000004562	Others	NA
+Ochotona_princeps		ENSOPRG00000004571	Others	NA
+Ochotona_princeps	NFKBIB	ENSOPRG00000004627	NFKB associated	101522585
+Ochotona_princeps	CEP290	ENSOPRG00000004637	Others	NA
+Ochotona_princeps		ENSOPRG00000004658	Others	NA
+Ochotona_princeps	ITCH	ENSOPRG00000004660	Others	NA
+Ochotona_princeps		ENSOPRG00000004791	Others	NA
+Ochotona_princeps		ENSOPRG00000004822	Others	NA
+Ochotona_princeps	SMARCAD1	ENSOPRG00000004854	SWI/SNF	NA
+Ochotona_princeps	MDFI	ENSOPRG00000004883	Others	101533270
+Ochotona_princeps	CNOT10	ENSOPRG00000004885	CCR4-NOT	NA
+Ochotona_princeps		ENSOPRG00000004887	Cyclin	NA
+Ochotona_princeps	UFL1	ENSOPRG00000004899	Others	NA
+Ochotona_princeps	RFXAP	ENSOPRG00000004904	Others	NA
+Ochotona_princeps		ENSOPRG00000004936	Tripartite motif	NA
+Ochotona_princeps	ASH1L	ENSOPRG00000004950	Others	NA
+Ochotona_princeps	MTDH	ENSOPRG00000004959	Others	NA
+Ochotona_princeps	ASCC1	ENSOPRG00000004965	ASCC	NA
+Ochotona_princeps	ASF1A	ENSOPRG00000004979	Others	NA
+Ochotona_princeps	SUPT20H	ENSOPRG00000004985	SUPT	NA
+Ochotona_princeps		ENSOPRG00000005007	PHF	NA
+Ochotona_princeps		ENSOPRG00000005015	Mediator complex	NA
+Ochotona_princeps	CALR	ENSOPRG00000005026	Others	NA
+Ochotona_princeps	TAF1D	ENSOPRG00000005031	TATA-box	NA
+Ochotona_princeps	FGFR1	ENSOPRG00000005037	FGF	NA
+Ochotona_princeps		ENSOPRG00000005064	Other_Co-activator/repressors	NA
+Ochotona_princeps		ENSOPRG00000005069	Others	NA
+Ochotona_princeps	TRIB3	ENSOPRG00000005089	Others	NA
+Ochotona_princeps	MMS19	ENSOPRG00000005093	Others	NA
+Ochotona_princeps		ENSOPRG00000005108	Tripartite motif	NA
+Ochotona_princeps	CHD1	ENSOPRG00000005123	CHD	NA
+Ochotona_princeps	KDM1B	ENSOPRG00000005129	Lysine demethylase	NA
+Ochotona_princeps		ENSOPRG00000005138	Casein	NA
+Ochotona_princeps	SMYD2	ENSOPRG00000005141	SMYD	NA
+Ochotona_princeps	CIDEA	ENSOPRG00000005151	Others	NA
+Ochotona_princeps	ANKRD2	ENSOPRG00000005162	Ankyrin repeat	NA
+Ochotona_princeps	SETD2	ENSOPRG00000005216	SET	NA
+Ochotona_princeps	NIPBL	ENSOPRG00000005225	Others	NA
+Ochotona_princeps		ENSOPRG00000005226	Nuclear receptor coactivator	NA
+Ochotona_princeps	BRIP1	ENSOPRG00000005241	Others	NA
+Ochotona_princeps		ENSOPRG00000005296	Mediator complex	NA
+Ochotona_princeps	MED13	ENSOPRG00000005322	Mediator complex	NA
+Ochotona_princeps	YEATS2	ENSOPRG00000005384	Others	NA
+Ochotona_princeps		ENSOPRG00000005395	Others	NA
+Ochotona_princeps		ENSOPRG00000005411	Others	NA
+Ochotona_princeps	SLC26A3	ENSOPRG00000005476	SLC	NA
+Ochotona_princeps		ENSOPRG00000005551	Others	NA
+Ochotona_princeps	ELL2	ENSOPRG00000005578	GTF	NA
+Ochotona_princeps	ING4	ENSOPRG00000005593	ING	NA
+Ochotona_princeps	CNOT1	ENSOPRG00000005604	CCR4-NOT	NA
+Ochotona_princeps	TRIM33	ENSOPRG00000005608	Tripartite motif	NA
+Ochotona_princeps		ENSOPRG00000005611	Others	NA
+Ochotona_princeps	CHUK	ENSOPRG00000005651	Others	NA
+Ochotona_princeps	HSBP1	ENSOPRG00000005658	Heat shock protein	NA
+Ochotona_princeps		ENSOPRG00000005659	PHF	NA
+Ochotona_princeps		ENSOPRG00000005704	TEF	NA
+Ochotona_princeps	NIF3L1	ENSOPRG00000005708	Others	NA
+Ochotona_princeps	ORC2	ENSOPRG00000005718	Others	NA
+Ochotona_princeps	BASP1	ENSOPRG00000005759	Others	NA
+Ochotona_princeps	PA2G4	ENSOPRG00000005779	Others	101517999
+Ochotona_princeps	NLK	ENSOPRG00000005787	Others	NA
+Ochotona_princeps		ENSOPRG00000005837	CREB	NA
+Ochotona_princeps		ENSOPRG00000005849	Others	NA
+Ochotona_princeps		ENSOPRG00000005874	PCGF	NA
+Ochotona_princeps		ENSOPRG00000005898	Histone lysine methyltransferase	NA
+Ochotona_princeps		ENSOPRG00000005940	SAP	NA
+Ochotona_princeps	CNOT9	ENSOPRG00000005958	CCR4-NOT	NA
+Ochotona_princeps	FRK	ENSOPRG00000005984	Others	NA
+Ochotona_princeps	RNF25	ENSOPRG00000006026	Ring finger protein	101518907
+Ochotona_princeps	STK36	ENSOPRG00000006039	Others	NA
+Ochotona_princeps	C6orf89	ENSOPRG00000006065	Other_CRF	NA
+Ochotona_princeps	HCLS1	ENSOPRG00000006078	Others	NA
+Ochotona_princeps		ENSOPRG00000006083	Others	NA
+Ochotona_princeps	CBX5	ENSOPRG00000006101	Chromobox	NA
+Ochotona_princeps	TNIP1	ENSOPRG00000006118	Others	NA
+Ochotona_princeps	EAF2	ENSOPRG00000006122	Others	NA
+Ochotona_princeps		ENSOPRG00000006143	Sirtuin	NA
+Ochotona_princeps	DSCAM	ENSOPRG00000006147	Others	NA
+Ochotona_princeps		ENSOPRG00000006183	TATA-box	NA
+Ochotona_princeps		ENSOPRG00000006190	Others	NA
+Ochotona_princeps	MLLT3	ENSOPRG00000006206	GTF	NA
+Ochotona_princeps	DGKQ	ENSOPRG00000006208	Others	101527283
+Ochotona_princeps	AEBP1	ENSOPRG00000006212	Others	NA
+Ochotona_princeps	DPF2	ENSOPRG00000006232	DPF	NA
+Ochotona_princeps		ENSOPRG00000006235	Arginine methyltransferase	NA
+Ochotona_princeps		ENSOPRG00000006272	Others	NA
+Ochotona_princeps		ENSOPRG00000006275	CREB	NA
+Ochotona_princeps	TRIM11	ENSOPRG00000006293	Tripartite motif	NA
+Ochotona_princeps	JMJD6	ENSOPRG00000006334	Others	NA
+Ochotona_princeps	FAM83G	ENSOPRG00000006375	FAM	NA
+Ochotona_princeps	KDM5A	ENSOPRG00000006399	Lysine demethylase	NA
+Ochotona_princeps	HCK	ENSOPRG00000006426	Others	101519769
+Ochotona_princeps	SERBP1	ENSOPRG00000006434	Others	NA
+Ochotona_princeps	GTF2E1	ENSOPRG00000006443	GTF	NA
+Ochotona_princeps	EAF1	ENSOPRG00000006447	Others	NA
+Ochotona_princeps	ANXA4	ENSOPRG00000006491	Others	NA
+Ochotona_princeps	TTF2	ENSOPRG00000006492	Others	NA
+Ochotona_princeps		ENSOPRG00000006516	Ring finger protein	NA
+Ochotona_princeps	COPS5	ENSOPRG00000006534	Others	NA
+Ochotona_princeps	OPTN	ENSOPRG00000006549	Others	NA
+Ochotona_princeps	FHIT	ENSOPRG00000006562	Others	NA
+Ochotona_princeps	JMJD1C	ENSOPRG00000006564	Other_CRF	NA
+Ochotona_princeps		ENSOPRG00000006585	Others	NA
+Ochotona_princeps		ENSOPRG00000006666	Other_CRF	NA
+Ochotona_princeps	PCBD2	ENSOPRG00000006673	Others	NA
+Ochotona_princeps	DNMT3B	ENSOPRG00000006680	DNA_methylase	NA
+Ochotona_princeps	RBX1	ENSOPRG00000006728	Others	101519048
+Ochotona_princeps	WWP2	ENSOPRG00000006733	WW	NA
+Ochotona_princeps		ENSOPRG00000006857	Others	NA
+Ochotona_princeps	MLLT6	ENSOPRG00000006887	Others	NA
+Ochotona_princeps		ENSOPRG00000006896	Others	NA
+Ochotona_princeps	PAK6	ENSOPRG00000006899	Others	NA
+Ochotona_princeps	ARL2BP	ENSOPRG00000006931	Others	NA
+Ochotona_princeps	UTP4	ENSOPRG00000006933	Others	NA
+Ochotona_princeps	CHD1L	ENSOPRG00000006973	CHD	NA
+Ochotona_princeps		ENSOPRG00000006983	Others	NA
+Ochotona_princeps	PHF19	ENSOPRG00000006996	PHF	NA
+Ochotona_princeps	HIPK2	ENSOPRG00000007011	HIPK	NA
+Ochotona_princeps	DR1	ENSOPRG00000007019	Others	NA
+Ochotona_princeps	DNMT1	ENSOPRG00000007032	DNA_methylase	NA
+Ochotona_princeps	DNTTIP2	ENSOPRG00000007058	Others	NA
+Ochotona_princeps		ENSOPRG00000007103	Others	NA
+Ochotona_princeps	CCNT1	ENSOPRG00000007114	Cyclin	NA
+Ochotona_princeps	NPAT	ENSOPRG00000007124	Nuclear coactivator	NA
+Ochotona_princeps		ENSOPRG00000007141	Lysine demethylase	NA
+Ochotona_princeps	BTRC	ENSOPRG00000007146	Others	NA
+Ochotona_princeps	FHL5	ENSOPRG00000007155	FHL	NA
+Ochotona_princeps	PHF2	ENSOPRG00000007158	PHF	NA
+Ochotona_princeps		ENSOPRG00000007175	Cyclin	NA
+Ochotona_princeps	NOTCH2	ENSOPRG00000007177	Notch	NA
+Ochotona_princeps		ENSOPRG00000007209	Mediator complex	101530546
+Ochotona_princeps	NUDT5	ENSOPRG00000007256	Other_CRF	NA
+Ochotona_princeps		ENSOPRG00000007261	Cyclin	NA
+Ochotona_princeps	EDRF1	ENSOPRG00000007294	Others	NA
+Ochotona_princeps		ENSOPRG00000007340	Others	NA
+Ochotona_princeps	EMSY	ENSOPRG00000007365	Others	NA
+Ochotona_princeps	NPM1	ENSOPRG00000007381	Nucleoplasmin	NA
+Ochotona_princeps		ENSOPRG00000007394	Bromodomain	NA
+Ochotona_princeps		ENSOPRG00000007429	Arginine methyltransferase	NA
+Ochotona_princeps	BRD2	ENSOPRG00000007431	Bromodomain	NA
+Ochotona_princeps	GSK3B	ENSOPRG00000007434	Others	NA
+Ochotona_princeps		ENSOPRG00000007435	Others	NA
+Ochotona_princeps	ASCC2	ENSOPRG00000007487	ASCC	NA
+Ochotona_princeps	CENPF	ENSOPRG00000007495	CENP	NA
+Ochotona_princeps		ENSOPRG00000007507	Thyroid hormone receptor	NA
+Ochotona_princeps	SNW1	ENSOPRG00000007568	Others	101520815
+Ochotona_princeps	MAML1	ENSOPRG00000007592	MAML	101525569
+Ochotona_princeps	WDR61	ENSOPRG00000007604	WD	NA
+Ochotona_princeps		ENSOPRG00000007605	Cyclin	NA
+Ochotona_princeps		ENSOPRG00000007731	Others	NA
+Ochotona_princeps		ENSOPRG00000007774	Others	NA
+Ochotona_princeps	SNAPC5	ENSOPRG00000007781	Others	101521366
+Ochotona_princeps	EZH2	ENSOPRG00000007788	Others	NA
+Ochotona_princeps	ACTL6A	ENSOPRG00000007803	Actin	NA
+Ochotona_princeps	CDK2	ENSOPRG00000007864	Cyclin	NA
+Ochotona_princeps	TDRD3	ENSOPRG00000007868	Others	NA
+Ochotona_princeps	NKAP	ENSOPRG00000007872	NFKB associated	NA
+Ochotona_princeps	TAF1C	ENSOPRG00000007886	TATA-box	NA
+Ochotona_princeps	APBB1	ENSOPRG00000007891	Others	NA
+Ochotona_princeps	LEO1	ENSOPRG00000007910	Others	NA
+Ochotona_princeps	BTK	ENSOPRG00000007935	Others	NA
+Ochotona_princeps	JUP	ENSOPRG00000007992	Others	101523333
+Ochotona_princeps	NMI	ENSOPRG00000008048	Others	NA
+Ochotona_princeps	ILK	ENSOPRG00000008059	Others	NA
+Ochotona_princeps	TDG	ENSOPRG00000008069	Others	NA
+Ochotona_princeps	TAF10	ENSOPRG00000008076	TATA-box	NA
+Ochotona_princeps	HCFC2	ENSOPRG00000008097	Others	NA
+Ochotona_princeps	ERN1	ENSOPRG00000008129	Others	NA
+Ochotona_princeps		ENSOPRG00000008154	Others	NA
+Ochotona_princeps	RNF141	ENSOPRG00000008200	Ring finger protein	NA
+Ochotona_princeps	DDX5	ENSOPRG00000008204	RNA helicase	NA
+Ochotona_princeps	EGLN3	ENSOPRG00000008221	Others	NA
+Ochotona_princeps		ENSOPRG00000008244	CCR4-NOT	NA
+Ochotona_princeps	CASP8AP2	ENSOPRG00000008248	Others	NA
+Ochotona_princeps	SMURF2	ENSOPRG00000008250	Others	NA
+Ochotona_princeps	RRN3	ENSOPRG00000008274	Others	NA
+Ochotona_princeps	TP53BP1	ENSOPRG00000008283	Others	NA
+Ochotona_princeps	KMT5B	ENSOPRG00000008319	Lysine methyltransferase	NA
+Ochotona_princeps	KDM6B	ENSOPRG00000008330	Lysine demethylase	NA
+Ochotona_princeps	SIN3A	ENSOPRG00000008345	Other_CRF	101532410
+Ochotona_princeps	EPC1	ENSOPRG00000008412	Others	NA
+Ochotona_princeps	RALY	ENSOPRG00000008423	Others	NA
+Ochotona_princeps	H1-4	ENSOPRG00000008431	Histone cluster 1 H1	NA
+Ochotona_princeps		ENSOPRG00000008440	LPIN	NA
+Ochotona_princeps	COPRS	ENSOPRG00000008443	Others	NA
+Ochotona_princeps	PIK3R1	ENSOPRG00000008453	Others	NA
+Ochotona_princeps		ENSOPRG00000008459	EYA	NA
+Ochotona_princeps	ALPK3	ENSOPRG00000008464	Others	NA
+Ochotona_princeps	RGCC	ENSOPRG00000008542	Others	101519727
+Ochotona_princeps	HDAC5	ENSOPRG00000008571	Histone deacetylase	NA
+Ochotona_princeps		ENSOPRG00000008623	TEF	NA
+Ochotona_princeps	THOC5	ENSOPRG00000008652	Others	NA
+Ochotona_princeps	ATXN7L3	ENSOPRG00000008655	Others	NA
+Ochotona_princeps	ABL1	ENSOPRG00000008698	Others	NA
+Ochotona_princeps	TNKS	ENSOPRG00000008706	Others	NA
+Ochotona_princeps	NOL11	ENSOPRG00000008767	Nuclear coactivator	NA
+Ochotona_princeps	HNRNPUL1	ENSOPRG00000008773	HNRNP	NA
+Ochotona_princeps		ENSOPRG00000008780	Other_CRF	101527198
+Ochotona_princeps		ENSOPRG00000008795	Others	NA
+Ochotona_princeps	BRMS1	ENSOPRG00000008928	Other_CRF	101526031
+Ochotona_princeps	MED6	ENSOPRG00000008957	Mediator complex	NA
+Ochotona_princeps	CHAF1B	ENSOPRG00000008967	Others	NA
+Ochotona_princeps	TAF1B	ENSOPRG00000008998	TATA-box	NA
+Ochotona_princeps	PELI3	ENSOPRG00000009010	Others	NA
+Ochotona_princeps		ENSOPRG00000009031	TATA-box	NA
+Ochotona_princeps	DNAJB1	ENSOPRG00000009126	Others	101517517
+Ochotona_princeps	RBM14	ENSOPRG00000009139	RNA binding protein	NA
+Ochotona_princeps	MED12L	ENSOPRG00000009182	Mediator complex	NA
+Ochotona_princeps	NPM3	ENSOPRG00000009229	Nucleoplasmin	101524382
+Ochotona_princeps	ACTN4	ENSOPRG00000009234	Actin	NA
+Ochotona_princeps	SIN3B	ENSOPRG00000009248	Others	NA
+Ochotona_princeps	SGF29	ENSOPRG00000009316	Others	101529949
+Ochotona_princeps	LDB1	ENSOPRG00000009325	LIM	101522281
+Ochotona_princeps	HNRNPD	ENSOPRG00000009336	HNRNP	NA
+Ochotona_princeps	PPRC1	ENSOPRG00000009346	Others	NA
+Ochotona_princeps	GNL3	ENSOPRG00000009356	Others	NA
+Ochotona_princeps		ENSOPRG00000009369	Others	NA
+Ochotona_princeps		ENSOPRG00000009378	SET	NA
+Ochotona_princeps	DEPDC1	ENSOPRG00000009379	Others	NA
+Ochotona_princeps		ENSOPRG00000009390	Others	NA
+Ochotona_princeps		ENSOPRG00000009412	MAML	NA
+Ochotona_princeps		ENSOPRG00000009420	Others	NA
+Ochotona_princeps	SUV39H2	ENSOPRG00000009465	Others	NA
+Ochotona_princeps	ENO1	ENSOPRG00000009492	Others	101535241
+Ochotona_princeps		ENSOPRG00000009505	Others	NA
+Ochotona_princeps	PAGR1	ENSOPRG00000009506	Others	NA
+Ochotona_princeps	TRIP4	ENSOPRG00000009512	Thyroid hormone receptor	NA
+Ochotona_princeps	HLTF	ENSOPRG00000009532	Others	NA
+Ochotona_princeps		ENSOPRG00000009575	Others	NA
+Ochotona_princeps	C1D	ENSOPRG00000009586	Other_Co-activator/repressors	101516893
+Ochotona_princeps	RHOA	ENSOPRG00000009638	Others	101525255
+Ochotona_princeps		ENSOPRG00000009655	Mediator complex	NA
+Ochotona_princeps	TOPORS	ENSOPRG00000009673	Others	NA
+Ochotona_princeps	MDM2	ENSOPRG00000009677	Others	NA
+Ochotona_princeps	INO80E	ENSOPRG00000009692	INO80 complex	101532695
+Ochotona_princeps		ENSOPRG00000009716	Others	NA
+Ochotona_princeps	GTF2H5	ENSOPRG00000009735	GTF	101529322
+Ochotona_princeps	HCFC1	ENSOPRG00000009742	Others	NA
+Ochotona_princeps	TIGD4	ENSOPRG00000009824	CENP	101522600
+Ochotona_princeps	CAVIN1	ENSOPRG00000009846	Others	NA
+Ochotona_princeps	TAF5L	ENSOPRG00000009895	TATA-box	101517785
+Ochotona_princeps	PHF21A	ENSOPRG00000009898	PHF	NA
+Ochotona_princeps	DMAP1	ENSOPRG00000009922	DNA_methylase	101518353
+Ochotona_princeps	CNOT11	ENSOPRG00000009923	CCR4-NOT	NA
+Ochotona_princeps		ENSOPRG00000009928	CAMK	NA
+Ochotona_princeps		ENSOPRG00000009929	Others	NA
+Ochotona_princeps	GTF2B	ENSOPRG00000009935	GTF	NA
+Ochotona_princeps	CREG2	ENSOPRG00000009953	Others	101520206
+Ochotona_princeps	KDM7A	ENSOPRG00000009982	Lysine demethylase	NA
+Ochotona_princeps	BIRC2	ENSOPRG00000010012	Others	NA
+Ochotona_princeps	PPARGC1B	ENSOPRG00000010017	Others	NA
+Ochotona_princeps	ANP32E	ENSOPRG00000010058	ANP	NA
+Ochotona_princeps	CDYL	ENSOPRG00000010073	Chromodomain Y	101522766
+Ochotona_princeps	HEATR1	ENSOPRG00000010081	Others	NA
+Ochotona_princeps	RBBP5	ENSOPRG00000010115	RBBP	NA
+Ochotona_princeps	S100A9	ENSOPRG00000010118	Others	NA
+Ochotona_princeps	S100A8	ENSOPRG00000010123	Others	NA
+Ochotona_princeps	CRK	ENSOPRG00000010127	Others	NA
+Ochotona_princeps	ACTN2	ENSOPRG00000010151	Actin	NA
+Ochotona_princeps	CRTC2	ENSOPRG00000010160	CREB	NA
+Ochotona_princeps		ENSOPRG00000010175	Others	NA
+Ochotona_princeps	HDAC7	ENSOPRG00000010179	Histone deacetylase	NA
+Ochotona_princeps		ENSOPRG00000010188	Others	NA
+Ochotona_princeps		ENSOPRG00000010189	Others	NA
+Ochotona_princeps		ENSOPRG00000010214	Sirtuin	NA
+Ochotona_princeps	TENM2	ENSOPRG00000010243	Others	NA
+Ochotona_princeps		ENSOPRG00000010249	ASCC	NA
+Ochotona_princeps	RB1	ENSOPRG00000010250	Other_Co-activator/repressors	NA
+Ochotona_princeps	MALT1	ENSOPRG00000010281	Others	NA
+Ochotona_princeps		ENSOPRG00000010286	Others	NA
+Ochotona_princeps	WWC1	ENSOPRG00000010302	WW	NA
+Ochotona_princeps	NUP98	ENSOPRG00000010305	Others	NA
+Ochotona_princeps		ENSOPRG00000010329	TATA-box	NA
+Ochotona_princeps	RAB19	ENSOPRG00000010348	Others	NA
+Ochotona_princeps	HDAC11	ENSOPRG00000010361	Histone deacetylase	101524617
+Ochotona_princeps	EPC2	ENSOPRG00000010390	Others	NA
+Ochotona_princeps		ENSOPRG00000010398	Transcriptional adaptor	101525677
+Ochotona_princeps	BEX4	ENSOPRG00000010454	Others	101520514
+Ochotona_princeps		ENSOPRG00000010501	Others	101532480
+Ochotona_princeps		ENSOPRG00000010551	TATA-box	NA
+Ochotona_princeps	TAF11	ENSOPRG00000010650	TATA-box	NA
+Ochotona_princeps	KAT8	ENSOPRG00000010764	Lysine acetyltransferase	NA
+Ochotona_princeps	SDR16C5	ENSOPRG00000010776	Others	NA
+Ochotona_princeps	SFR1	ENSOPRG00000010818	Others	NA
+Ochotona_princeps	ZNF451	ENSOPRG00000010820	Zinc finger	NA
+Ochotona_princeps	PINK1	ENSOPRG00000010836	Others	NA
+Ochotona_princeps	BRF2	ENSOPRG00000010850	GTF	101516071
+Ochotona_princeps	TRRAP	ENSOPRG00000010862	Others	NA
+Ochotona_princeps	PYCARD	ENSOPRG00000010876	Others	NA
+Ochotona_princeps		ENSOPRG00000010889	Others	NA
+Ochotona_princeps	NCOA6	ENSOPRG00000010891	Nuclear receptor coactivator	NA
+Ochotona_princeps		ENSOPRG00000010995	Others	NA
+Ochotona_princeps	SMURF1	ENSOPRG00000011014	Others	NA
+Ochotona_princeps	SKOR1	ENSOPRG00000011023	SKI	NA
+Ochotona_princeps	CHD3	ENSOPRG00000011069	CHD	NA
+Ochotona_princeps	KMT5A	ENSOPRG00000011099	Lysine methyltransferase	NA
+Ochotona_princeps	NIBAN2	ENSOPRG00000011120	FAM	101529975
+Ochotona_princeps	CHD9	ENSOPRG00000011168	CHD	NA
+Ochotona_princeps	RPRD1A	ENSOPRG00000011171	Others	101516808
+Ochotona_princeps	ELP2	ENSOPRG00000011202	ELP	NA
+Ochotona_princeps		ENSOPRG00000011223	Others	NA
+Ochotona_princeps	RBL2	ENSOPRG00000011228	Other_Co-activator/repressors	NA
+Ochotona_princeps	RUVBL1	ENSOPRG00000011261	Other_CRF	101520320
+Ochotona_princeps		ENSOPRG00000011271	Others	NA
+Ochotona_princeps		ENSOPRG00000011275	Lysine methyltransferase	NA
+Ochotona_princeps	KAT2B	ENSOPRG00000011288	Lysine acetyltransferase	NA
+Ochotona_princeps	BCL10	ENSOPRG00000011338	BCL	NA
+Ochotona_princeps	MED1	ENSOPRG00000011353	Mediator complex	NA
+Ochotona_princeps	CDK7	ENSOPRG00000011401	Cyclin	101519273
+Ochotona_princeps		ENSOPRG00000011412	Others	NA
+Ochotona_princeps		ENSOPRG00000011523	Others	NA
+Ochotona_princeps		ENSOPRG00000011529	Notch	NA
+Ochotona_princeps	DAB2	ENSOPRG00000011539	Others	NA
+Ochotona_princeps	CRYM	ENSOPRG00000011559	Others	NA
+Ochotona_princeps		ENSOPRG00000011561	Others	NA
+Ochotona_princeps		ENSOPRG00000011617	Others	NA
+Ochotona_princeps	ZNF638	ENSOPRG00000011644	Zinc finger	NA
+Ochotona_princeps	BLM	ENSOPRG00000011667	Others	NA
+Ochotona_princeps	MNAT1	ENSOPRG00000011690	Others	NA
+Ochotona_princeps	CBX3	ENSOPRG00000011713	Chromobox	NA
+Ochotona_princeps	HIRA	ENSOPRG00000011714	Others	NA
+Ochotona_princeps	ZMYM2	ENSOPRG00000011797	Zinc finger	NA
+Ochotona_princeps		ENSOPRG00000011830	Others	NA
+Ochotona_princeps	DPY30	ENSOPRG00000011833	Others	NA
+Ochotona_princeps	YWHAB	ENSOPRG00000011836	Others	NA
+Ochotona_princeps	PABPC1L	ENSOPRG00000011846	Other_CRF	NA
+Ochotona_princeps	CSNK2A2	ENSOPRG00000011847	Casein	NA
+Ochotona_princeps	STK4	ENSOPRG00000011874	Others	NA
+Ochotona_princeps	DTX1	ENSOPRG00000011918	Others	NA
+Ochotona_princeps	DDX39B	ENSOPRG00000011923	RNA helicase	101526853
+Ochotona_princeps	NSMCE4A	ENSOPRG00000011986	EID	NA
+Ochotona_princeps	DDX54	ENSOPRG00000012000	RNA helicase	NA
+Ochotona_princeps		ENSOPRG00000012073	CAMK	NA
+Ochotona_princeps	RAD21	ENSOPRG00000012077	Others	NA
+Ochotona_princeps	ERBIN	ENSOPRG00000012086	Erbb2	NA
+Ochotona_princeps	PLK1	ENSOPRG00000012087	Others	NA
+Ochotona_princeps	CTNND2	ENSOPRG00000012108	Casein	NA
+Ochotona_princeps	MTOR	ENSOPRG00000012124	Others	NA
+Ochotona_princeps	MRTFA	ENSOPRG00000012126	Others	NA
+Ochotona_princeps	SMARCB1	ENSOPRG00000012137	SWI/SNF	NA
+Ochotona_princeps		ENSOPRG00000012146	Others	NA
+Ochotona_princeps	IKBKB	ENSOPRG00000012153	Others	NA
+Ochotona_princeps	SGK1	ENSOPRG00000012163	Others	NA
+Ochotona_princeps	CTDSP1	ENSOPRG00000012181	Others	101520297
+Ochotona_princeps		ENSOPRG00000012193	Others	NA
+Ochotona_princeps	EP300	ENSOPRG00000012268	Others	NA
+Ochotona_princeps	MAD2L2	ENSOPRG00000012281	Others	NA
+Ochotona_princeps	L3MBTL2	ENSOPRG00000012304	Others	NA
+Ochotona_princeps	SUFU	ENSOPRG00000012318	Others	NA
+Ochotona_princeps	AGO1	ENSOPRG00000012325	Others	NA
+Ochotona_princeps	RBL1	ENSOPRG00000012333	Other_Co-activator/repressors	NA
+Ochotona_princeps	TRIM8	ENSOPRG00000012336	Tripartite motif	NA
+Ochotona_princeps		ENSOPRG00000012338	GTF	NA
+Ochotona_princeps		ENSOPRG00000012357	Others	NA
+Ochotona_princeps	HEXIM2	ENSOPRG00000012395	Others	NA
+Ochotona_princeps	SRC	ENSOPRG00000012428	Others	101517070
+Ochotona_princeps	POU2AF1	ENSOPRG00000012465	Others	NA
+Ochotona_princeps	EZH1	ENSOPRG00000012543	Others	NA
+Ochotona_princeps	SUPT6H	ENSOPRG00000012549	SUPT	NA
+Ochotona_princeps	TERF2IP	ENSOPRG00000012569	Others	NA
+Ochotona_princeps	LIN54	ENSOPRG00000012594	Others	NA
+Ochotona_princeps		ENSOPRG00000012630	Others	NA
+Ochotona_princeps	MORF4L1	ENSOPRG00000012633	Other_CRF	NA
+Ochotona_princeps	SETD3	ENSOPRG00000012636	SET	101521706
+Ochotona_princeps	CCNK	ENSOPRG00000012654	Cyclin	NA
+Ochotona_princeps	TRIP11	ENSOPRG00000012656	Thyroid hormone receptor	NA
+Ochotona_princeps	RECQL5	ENSOPRG00000012657	Others	NA
+Ochotona_princeps	ABRA	ENSOPRG00000012673	Actin	NA
+Ochotona_princeps		ENSOPRG00000012693	Others	NA
+Ochotona_princeps	ARRB2	ENSOPRG00000012782	Others	NA
+Ochotona_princeps	MED11	ENSOPRG00000012794	Mediator complex	101519885
+Ochotona_princeps	SMYD1	ENSOPRG00000012803	SMYD	101526177
+Ochotona_princeps	FHL3	ENSOPRG00000012806	FHL	NA
+Ochotona_princeps		ENSOPRG00000012823	Others	NA
+Ochotona_princeps	GTF2A2	ENSOPRG00000012841	GTF	NA
+Ochotona_princeps	LRRK2	ENSOPRG00000012847	Other_CRF	NA
+Ochotona_princeps	FGF1	ENSOPRG00000012865	FGF	NA
+Ochotona_princeps	CSRP3	ENSOPRG00000012868	Others	NA
+Ochotona_princeps	PPARGC1A	ENSOPRG00000012899	Others	NA
+Ochotona_princeps		ENSOPRG00000012918	GTF	NA
+Ochotona_princeps	SPAG8	ENSOPRG00000012923	Others	NA
+Ochotona_princeps	STRN3	ENSOPRG00000012939	Others	NA
+Ochotona_princeps	NPM2	ENSOPRG00000012940	Nucleoplasmin	NA
+Ochotona_princeps		ENSOPRG00000012943	Others	NA
+Ochotona_princeps	ANKRA2	ENSOPRG00000012971	Ankyrin repeat	NA
+Ochotona_princeps		ENSOPRG00000012972	Cyclin	NA
+Ochotona_princeps		ENSOPRG00000013016	Chromobox	NA
+Ochotona_princeps	CNOT8	ENSOPRG00000013065	CCR4-NOT	NA
+Ochotona_princeps	ITGB3BP	ENSOPRG00000013090	Others	NA
+Ochotona_princeps	C1QBP	ENSOPRG00000013150	Others	NA
+Ochotona_princeps	RBPMS	ENSOPRG00000013151	RNA binding protein	NA
+Ochotona_princeps		ENSOPRG00000013159	Nuclear coactivator	NA
+Ochotona_princeps	DHX33	ENSOPRG00000013163	RNA helicase	NA
+Ochotona_princeps	TIRAP	ENSOPRG00000013190	Others	NA
+Ochotona_princeps	TXNIP	ENSOPRG00000013247	Others	NA
+Ochotona_princeps	THRSP	ENSOPRG00000013251	Others	101525681
+Ochotona_princeps	CCAR2	ENSOPRG00000013271	Others	101521980
+Ochotona_princeps		ENSOPRG00000013281	Bromodomain	NA
+Ochotona_princeps		ENSOPRG00000013305	LPIN	NA
+Ochotona_princeps	ERBB2	ENSOPRG00000013342	Erbb2	NA
+Ochotona_princeps		ENSOPRG00000013376	CHD	NA
+Ochotona_princeps		ENSOPRG00000013377	MAGE	NA
+Ochotona_princeps	TENM4	ENSOPRG00000013387	Others	NA
+Ochotona_princeps	NAB2	ENSOPRG00000013398	Others	NA
+Ochotona_princeps	SND1	ENSOPRG00000013405	Others	NA
+Ochotona_princeps	LOXL2	ENSOPRG00000013410	Others	101519144
+Ochotona_princeps	SLC30A9	ENSOPRG00000013464	SLC	NA
+Ochotona_princeps	PRMT7	ENSOPRG00000013473	Arginine methyltransferase	NA
+Ochotona_princeps	SMARCA2	ENSOPRG00000013474	SWI/SNF	NA
+Ochotona_princeps	ELP1	ENSOPRG00000013519	ELP	NA
+Ochotona_princeps		ENSOPRG00000013524	SSX	NA
+Ochotona_princeps	ACTR5	ENSOPRG00000013529	ACTR	101535699
+Ochotona_princeps	CHEK1	ENSOPRG00000013531	Others	NA
+Ochotona_princeps	CTNNB1	ENSOPRG00000013557	Casein	NA
+Ochotona_princeps	KDM2A	ENSOPRG00000013564	Lysine demethylase	101523726
+Ochotona_princeps	TOB1	ENSOPRG00000013571	Others	NA
+Ochotona_princeps	BUD31	ENSOPRG00000013631	Others	NA
+Ochotona_princeps	MBTD1	ENSOPRG00000013652	Others	NA
+Ochotona_princeps	TRIM27	ENSOPRG00000013682	Tripartite motif	NA
+Ochotona_princeps	FLNA	ENSOPRG00000013720	Others	NA
+Ochotona_princeps		ENSOPRG00000013752	Others	NA
+Ochotona_princeps		ENSOPRG00000013770	Ring finger protein	NA
+Ochotona_princeps		ENSOPRG00000013787	Others	NA
+Ochotona_princeps	TXN	ENSOPRG00000013805	Others	101532758
+Ochotona_princeps	TARBP1	ENSOPRG00000013822	Others	NA
+Ochotona_princeps	TAF1A	ENSOPRG00000013825	TATA-box	NA
+Ochotona_princeps	PARP9	ENSOPRG00000013834	PARP	NA
+Ochotona_princeps	WWTR1	ENSOPRG00000013843	WW	NA
+Ochotona_princeps		ENSOPRG00000013844	Others	NA
+Ochotona_princeps	PARP14	ENSOPRG00000013872	PARP	NA
+Ochotona_princeps	MDM4	ENSOPRG00000013878	Others	NA
+Ochotona_princeps		ENSOPRG00000013929	Others	NA
+Ochotona_princeps	COMMD1	ENSOPRG00000013939	Others	NA
+Ochotona_princeps	TAF8	ENSOPRG00000013945	TATA-box	NA
+Ochotona_princeps		ENSOPRG00000013994	GTF	NA
+Ochotona_princeps	APEX1	ENSOPRG00000014029	Others	NA
+Ochotona_princeps	LOXL3	ENSOPRG00000014065	Others	NA
+Ochotona_princeps	TLE3	ENSOPRG00000014090	Transducin	NA
+Ochotona_princeps		ENSOPRG00000014097	Others	NA
+Ochotona_princeps	SCMH1	ENSOPRG00000014098	Others	NA
+Ochotona_princeps		ENSOPRG00000014107	Others	NA
+Ochotona_princeps		ENSOPRG00000014109	Others	101534637
+Ochotona_princeps	GTF2H1	ENSOPRG00000014121	GTF	NA
+Ochotona_princeps	GRHPR	ENSOPRG00000014183	Others	NA
+Ochotona_princeps	MRGBP	ENSOPRG00000014192	Others	NA
+Ochotona_princeps	BRD7	ENSOPRG00000014257	Bromodomain	NA
+Ochotona_princeps	NAA15	ENSOPRG00000014269	Others	NA
+Ochotona_princeps		ENSOPRG00000014341	Heat shock protein	NA
+Ochotona_princeps	MAK	ENSOPRG00000014379	Others	NA
+Ochotona_princeps		ENSOPRG00000014381	Others	NA
+Ochotona_princeps		ENSOPRG00000014413	Others	NA
+Ochotona_princeps	SMARCA5	ENSOPRG00000014427	SWI/SNF	NA
+Ochotona_princeps	CDKN1B	ENSOPRG00000014436	Cyclin	NA
+Ochotona_princeps	TSG101	ENSOPRG00000014461	Others	NA
+Ochotona_princeps	TRIM29	ENSOPRG00000014494	Tripartite motif	101521472
+Ochotona_princeps	TRIB1	ENSOPRG00000014527	Others	NA
+Ochotona_princeps	PHF12	ENSOPRG00000014535	PHF	NA
+Ochotona_princeps	SAP30L	ENSOPRG00000014552	SAP	NA
+Ochotona_princeps	PCGF5	ENSOPRG00000014570	PCGF	NA
+Ochotona_princeps		ENSOPRG00000014576	Lysine demethylase	NA
+Ochotona_princeps		ENSOPRG00000014577	Lysine demethylase	NA
+Ochotona_princeps	RNF8	ENSOPRG00000014579	Ring finger protein	NA
+Ochotona_princeps	NFKBIA	ENSOPRG00000014593	NFKB associated	101536420
+Ochotona_princeps		ENSOPRG00000014639	Zinc finger	NA
+Ochotona_princeps	HIPK3	ENSOPRG00000014641	HIPK	NA
+Ochotona_princeps	HTATIP2	ENSOPRG00000014666	Others	NA
+Ochotona_princeps	BTAF1	ENSOPRG00000014674	Others	NA
+Ochotona_princeps	SENP1	ENSOPRG00000014693	Others	NA
+Ochotona_princeps	LMO3	ENSOPRG00000014705	LIM	NA
+Ochotona_princeps	DDX17	ENSOPRG00000014734	RNA helicase	101524810
+Ochotona_princeps	FBXW11	ENSOPRG00000014752	Others	NA
+Ochotona_princeps	KAT6A	ENSOPRG00000014771	Lysine acetyltransferase	NA
+Ochotona_princeps		ENSOPRG00000014781	Other_CRF	101521252
+Ochotona_princeps		ENSOPRG00000014825	Others	NA
+Ochotona_princeps	ARHGAP35	ENSOPRG00000014834	Others	NA
+Ochotona_princeps	TOP1	ENSOPRG00000014836	Other_CRF	NA
+Ochotona_princeps	RASD2	ENSOPRG00000014862	Others	101516194
+Ochotona_princeps	CDK13	ENSOPRG00000014871	Cyclin	NA
+Ochotona_princeps	CENPU	ENSOPRG00000014875	CENP	NA
+Ochotona_princeps	RBFOX2	ENSOPRG00000014878	Others	NA
+Ochotona_princeps	NOTCH3	ENSOPRG00000014896	Notch	NA
+Ochotona_princeps	LZTS1	ENSOPRG00000014937	Others	NA
+Ochotona_princeps		ENSOPRG00000015025	Others	NA
+Ochotona_princeps		ENSOPRG00000015028	Others	NA
+Ochotona_princeps		ENSOPRG00000015038	Nuclear receptor coactivator	NA
+Ochotona_princeps	SMARCD2	ENSOPRG00000015044	SWI/SNF	NA
+Ochotona_princeps	FGF11	ENSOPRG00000015045	FGF	101533041
+Ochotona_princeps	TRADD	ENSOPRG00000015048	Others	101518461
+Ochotona_princeps	ENY2	ENSOPRG00000015062	Others	NA
+Ochotona_princeps		ENSOPRG00000015116	POLR	NA
+Ochotona_princeps		ENSOPRG00000015135	RBBP	NA
+Ochotona_princeps		ENSOPRG00000015178	Others	NA
+Ochotona_princeps		ENSOPRG00000015198	SS18	NA
+Ochotona_princeps	HIPK1	ENSOPRG00000015208	HIPK	NA
+Ochotona_princeps	ARHGEF5	ENSOPRG00000015210	Others	NA
+Ochotona_princeps	STRAP	ENSOPRG00000015211	Others	NA
+Ochotona_princeps		ENSOPRG00000015220	Others	NA
+Ochotona_princeps	KDM2B	ENSOPRG00000015228	Lysine demethylase	NA
+Ochotona_princeps	ZMYND8	ENSOPRG00000015230	Zinc finger	NA
+Ochotona_princeps		ENSOPRG00000015236	Others	NA
+Ochotona_princeps		ENSOPRG00000015243	Mediator complex	NA
+Ochotona_princeps	SNX6	ENSOPRG00000015339	Others	NA
+Ochotona_princeps		ENSOPRG00000015365	Others	NA
+Ochotona_princeps		ENSOPRG00000015374	Bromodomain	NA
+Ochotona_princeps	HYAL2	ENSOPRG00000015387	Others	101517468
+Ochotona_princeps		ENSOPRG00000015394	ANP	NA
+Ochotona_princeps	TRAK2	ENSOPRG00000015395	Others	NA
+Ochotona_princeps		ENSOPRG00000015419	Lysine methyltransferase	NA
+Ochotona_princeps	WWP1	ENSOPRG00000015438	WW	NA
+Ochotona_princeps	PDCD4	ENSOPRG00000015442	Others	101527782
+Ochotona_princeps		ENSOPRG00000015505	CAMK	NA
+Ochotona_princeps		ENSOPRG00000015506	Mediator complex	NA
+Ochotona_princeps		ENSOPRG00000015537	Others	NA
+Ochotona_princeps	HAT1	ENSOPRG00000015539	Others	NA
+Ochotona_princeps	NRBF2	ENSOPRG00000015548	Nuclear receptor coactivator	NA
+Ochotona_princeps		ENSOPRG00000015558	Histone deacetylase	NA
+Ochotona_princeps	TAF2	ENSOPRG00000015577	TATA-box	NA
+Ochotona_princeps	PICALM	ENSOPRG00000015578	Others	NA
+Ochotona_princeps	RNF20	ENSOPRG00000015586	Ring finger protein	NA
+Ochotona_princeps	H2AZ2	ENSOPRG00000015604	Others	NA
+Ochotona_princeps	SKIL	ENSOPRG00000015606	SKI	NA
+Ochotona_princeps		ENSOPRG00000015616	PARP	NA
+Ochotona_princeps		ENSOPRG00000015619	Others	NA
+Ochotona_princeps	PFDN5	ENSOPRG00000015638	Others	NA
+Ochotona_princeps	PEX2	ENSOPRG00000015689	Others	NA
+Ochotona_princeps		ENSOPRG00000015723	HNRNP	NA
+Ochotona_princeps	TESC	ENSOPRG00000015756	Others	101521276
+Ochotona_princeps		ENSOPRG00000015772	Others	NA
+Ochotona_princeps	SPEN	ENSOPRG00000015800	Others	NA
+Ochotona_princeps	CCND3	ENSOPRG00000015849	Cyclin	101535218
+Ochotona_princeps	TNNI2	ENSOPRG00000015960	Others	NA
+Ochotona_princeps		ENSOPRG00000016034	SET	NA
+Ochotona_princeps	KDM4C	ENSOPRG00000016039	Lysine demethylase	NA
+Ochotona_princeps	SIVA1	ENSOPRG00000016084	Others	NA
+Ochotona_princeps	SUPT16H	ENSOPRG00000016097	SUPT	NA
+Ochotona_princeps	DHX9	ENSOPRG00000016111	RNA helicase	NA
+Ochotona_princeps	CHD8	ENSOPRG00000016120	CHD	NA
+Ochotona_princeps	BCL9L	ENSOPRG00000016129	BCL	NA
+Ochotona_princeps	CNOT6L	ENSOPRG00000016174	CCR4-NOT	NA
+Ochotona_princeps	MYBBP1A	ENSOPRG00000016222	MYB	101536123
+Ochotona_princeps	WWOX	ENSOPRG00000016271	WW	NA
+Ochotona_princeps	ENG	ENSOPRG00000016298	Others	NA
+Ochotona_princeps	TDP2	ENSOPRG00000016299	Others	NA
+Ochotona_princeps	FLII	ENSOPRG00000016316	Others	NA
+Ochotona_princeps	ANKAR	ENSOPRG00000016346	Ankyrin repeat	NA
+Ochotona_princeps		ENSOPRG00000016355	Lysine acetyltransferase	NA
+Ochotona_princeps	CBL	ENSOPRG00000016385	Others	NA
+Ochotona_princeps	KDM3B	ENSOPRG00000016396	Lysine demethylase	NA
+Ochotona_princeps		ENSOPRG00000016398	Cyclin	NA
+Ochotona_princeps		ENSOPRG00000016481	Others	NA
+Ochotona_princeps	RTF1	ENSOPRG00000016493	Others	NA
+Ochotona_princeps	SFMBT1	ENSOPRG00000016555	Others	101523107
+Ochotona_princeps	COPS2	ENSOPRG00000016590	Others	NA
+Ochotona_princeps	CCAR1	ENSOPRG00000016682	Others	NA
+Ochotona_princeps	RIPK3	ENSOPRG00000016694	Others	NA
+Ochotona_princeps	DCAF1	ENSOPRG00000016697	Others	NA
+Ochotona_princeps	TBPL2	ENSOPRG00000016699	TATA-box	101533637
+Ochotona_princeps	PLRG1	ENSOPRG00000016703	Others	NA
+Ochotona_princeps		ENSOPRG00000016713	Others	NA
+Ochotona_princeps	AJUBA	ENSOPRG00000016730	Others	NA
+Ochotona_princeps	DCC	ENSOPRG00000016770	Others	NA
+Ochotona_princeps		ENSOPRG00000016774	Others	NA
+Ochotona_princeps	ASXL1	ENSOPRG00000016789	Others	101521146
+Ochotona_princeps		ENSOPRG00000016827	Tripartite motif	NA
+Ochotona_princeps		ENSOPRG00000016841	WD	NA
+Ochotona_princeps	SUPT5H	ENSOPRG00000016844	SUPT	NA
+Ochotona_princeps	LPIN1	ENSOPRG00000016886	LPIN	NA
+Ochotona_princeps	ING3	ENSOPRG00000016917	ING	NA
+Ochotona_princeps	FBP2	ENSOPRG00000016933	Others	NA
+Ochotona_princeps	HDAC3	ENSOPRG00000016937	Histone deacetylase	101526567
+Ochotona_princeps	MED13L	ENSOPRG00000016955	Mediator complex	NA
+Ochotona_princeps	AURKB	ENSOPRG00000016971	Others	101523554
+Ochotona_princeps	RNF14	ENSOPRG00000017016	Ring finger protein	NA
+Ochotona_princeps	NCOA3	ENSOPRG00000017033	Nuclear receptor coactivator	NA
+Ochotona_princeps	TRIM28	ENSOPRG00000017043	Tripartite motif	NA
+Ochotona_princeps	PAXIP1	ENSOPRG00000017067	Others	NA
+Ochotona_princeps	PID1	ENSOPRG00000017072	Others	NA
+Ochotona_princeps	TLE1	ENSOPRG00000017129	Transducin	NA
+Ochotona_princeps	INO80D	ENSOPRG00000017152	INO80 complex	NA
+Ochotona_princeps	MCRS1	ENSOPRG00000017185	Others	101535582
+Ochotona_princeps	SS18	ENSOPRG00000017202	SS18	NA
+Ochotona_princeps	MED30	ENSOPRG00000017217	Mediator complex	101535439
+Ochotona_princeps	HDAC9	ENSOPRG00000017251	Histone deacetylase	NA
+Ochotona_princeps	TBPL1	ENSOPRG00000017268	TATA-box	101526082
+Ochotona_princeps	RAP1B	ENSOPRG00000017269	Others	NA
+Ochotona_princeps	ERBB4	ENSOPRG00000017282	Erbb2	NA
+Ochotona_princeps	TRAF6	ENSOPRG00000017321	Others	NA
+Ochotona_princeps	RALGAPA1	ENSOPRG00000017352	Others	NA
+Ochotona_princeps	BRMS1L	ENSOPRG00000017354	Other_CRF	NA
+Ochotona_princeps	PNRC2	ENSOPRG00000018375	Others	NA
+Ochotona_princeps	SRA1	ENSOPRG00000018381	Others	NA
+Ochotona_princeps	GPS2	ENSOPRG00000018452	Others	NA
+Ochotona_princeps	CGGBP1	ENSOPRG00000018464	Others	101525306
+Ochotona_princeps	GTF2H4	ENSOPRG00000018466	GTF	NA
+Ochotona_princeps		ENSOPRG00000018510	Others	NA
+Ochotona_princeps		ENSOPRG00000018779	SUPT	NA
+Ochotona_princeps	SIAH3	ENSOPRG00000019010	Others	101535507

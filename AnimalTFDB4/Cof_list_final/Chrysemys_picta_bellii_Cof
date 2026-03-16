@@ -1,0 +1,829 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Chrysemys_picta_bellii	PAWR	ENSCPBG00000000059	Others	NA
+Chrysemys_picta_bellii	CCDC59	ENSCPBG00000000075	Coiled-coil	NA
+Chrysemys_picta_bellii	CEP290	ENSCPBG00000000104	Others	NA
+Chrysemys_picta_bellii	KDM2A	ENSCPBG00000000117	Lysine demethylase	NA
+Chrysemys_picta_bellii	DUSP26	ENSCPBG00000000135	Others	NA
+Chrysemys_picta_bellii	ARL2BP	ENSCPBG00000000201	Others	NA
+Chrysemys_picta_bellii	LPIN2	ENSCPBG00000000300	LPIN	NA
+Chrysemys_picta_bellii	BTG1	ENSCPBG00000000318	Others	NA
+Chrysemys_picta_bellii	MBTD1	ENSCPBG00000000400	Others	NA
+Chrysemys_picta_bellii	HDAC9	ENSCPBG00000000454	Histone deacetylase	NA
+Chrysemys_picta_bellii	LZTS1	ENSCPBG00000000471	Others	NA
+Chrysemys_picta_bellii	BTF3	ENSCPBG00000000482	Others	NA
+Chrysemys_picta_bellii	PNRC2	ENSCPBG00000000483	Others	NA
+Chrysemys_picta_bellii	ANKRA2	ENSCPBG00000000509	Ankyrin repeat	NA
+Chrysemys_picta_bellii	CALCOCO1	ENSCPBG00000000511	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000000561	Others	NA
+Chrysemys_picta_bellii	CDKN1B	ENSCPBG00000000572	Cyclin	NA
+Chrysemys_picta_bellii	SLC25A15	ENSCPBG00000000659	SLC	NA
+Chrysemys_picta_bellii		ENSCPBG00000000682	BCL	NA
+Chrysemys_picta_bellii	ABRA	ENSCPBG00000000685	Actin	NA
+Chrysemys_picta_bellii	SLC26A3	ENSCPBG00000000718	SLC	NA
+Chrysemys_picta_bellii	CTBP1	ENSCPBG00000000892	Others	NA
+Chrysemys_picta_bellii	ILK	ENSCPBG00000000918	Others	NA
+Chrysemys_picta_bellii	MED18	ENSCPBG00000000959	Mediator complex	NA
+Chrysemys_picta_bellii	SMARCB1	ENSCPBG00000000971	SWI/SNF	NA
+Chrysemys_picta_bellii	HR	ENSCPBG00000001011	Lysine methyltransferase	NA
+Chrysemys_picta_bellii	ENY2	ENSCPBG00000001037	Others	NA
+Chrysemys_picta_bellii	PPIE	ENSCPBG00000001090	Others	NA
+Chrysemys_picta_bellii	NIBAN2	ENSCPBG00000001150	FAM	NA
+Chrysemys_picta_bellii	MDM4	ENSCPBG00000001199	Others	NA
+Chrysemys_picta_bellii	KDM3A	ENSCPBG00000001228	Lysine demethylase	NA
+Chrysemys_picta_bellii	SMYD1	ENSCPBG00000001374	SMYD	NA
+Chrysemys_picta_bellii	AEBP1	ENSCPBG00000001383	Others	NA
+Chrysemys_picta_bellii	SS18L2	ENSCPBG00000001400	SS18	NA
+Chrysemys_picta_bellii	TAF7	ENSCPBG00000001405	TATA-box	NA
+Chrysemys_picta_bellii	BTK	ENSCPBG00000001440	Others	NA
+Chrysemys_picta_bellii	RBBP5	ENSCPBG00000001441	RBBP	NA
+Chrysemys_picta_bellii	TRIP13	ENSCPBG00000001609	Thyroid hormone receptor	NA
+Chrysemys_picta_bellii	RAD21	ENSCPBG00000001623	Others	NA
+Chrysemys_picta_bellii	RBM15	ENSCPBG00000001662	RNA binding protein	NA
+Chrysemys_picta_bellii	NUP62	ENSCPBG00000001700	Others	NA
+Chrysemys_picta_bellii	EHMT2	ENSCPBG00000001809	Histone lysine methyltransferase	NA
+Chrysemys_picta_bellii	GTF2A1	ENSCPBG00000001860	GTF	NA
+Chrysemys_picta_bellii	THOC5	ENSCPBG00000001867	Others	NA
+Chrysemys_picta_bellii	MED7	ENSCPBG00000001955	Mediator complex	NA
+Chrysemys_picta_bellii	GTF2E1	ENSCPBG00000001978	GTF	NA
+Chrysemys_picta_bellii	MED30	ENSCPBG00000002003	Mediator complex	NA
+Chrysemys_picta_bellii		ENSCPBG00000002004	Others	NA
+Chrysemys_picta_bellii	CNOT8	ENSCPBG00000002113	CCR4-NOT	NA
+Chrysemys_picta_bellii	GSK3B	ENSCPBG00000002148	Others	NA
+Chrysemys_picta_bellii	SAP30L	ENSCPBG00000002229	SAP	NA
+Chrysemys_picta_bellii	CXXC1	ENSCPBG00000002265	Others	NA
+Chrysemys_picta_bellii	CCAR2	ENSCPBG00000002266	Others	NA
+Chrysemys_picta_bellii	SNAPC2	ENSCPBG00000002277	Others	NA
+Chrysemys_picta_bellii	TRIM8	ENSCPBG00000002376	Tripartite motif	NA
+Chrysemys_picta_bellii	SUFU	ENSCPBG00000002443	Others	NA
+Chrysemys_picta_bellii	KDM8	ENSCPBG00000002494	Lysine demethylase	NA
+Chrysemys_picta_bellii	LOXL2	ENSCPBG00000002524	Others	NA
+Chrysemys_picta_bellii	CHD1L	ENSCPBG00000002600	CHD	NA
+Chrysemys_picta_bellii	SAP30	ENSCPBG00000002695	SAP	NA
+Chrysemys_picta_bellii	FRK	ENSCPBG00000002822	Others	NA
+Chrysemys_picta_bellii	MED8	ENSCPBG00000002912	Mediator complex	NA
+Chrysemys_picta_bellii	RUNX1T1	ENSCPBG00000002973	Others	NA
+Chrysemys_picta_bellii	UFL1	ENSCPBG00000003072	Others	NA
+Chrysemys_picta_bellii	FHL5	ENSCPBG00000003113	FHL	NA
+Chrysemys_picta_bellii	RPRD1A	ENSCPBG00000003126	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000003139	SUPT	NA
+Chrysemys_picta_bellii	FGFR2	ENSCPBG00000003205	FGF	NA
+Chrysemys_picta_bellii	RFXAP	ENSCPBG00000003212	Others	NA
+Chrysemys_picta_bellii	INO80C	ENSCPBG00000003222	INO80 complex	NA
+Chrysemys_picta_bellii	NUP98	ENSCPBG00000003237	Others	NA
+Chrysemys_picta_bellii	CCNA1	ENSCPBG00000003264	Cyclin	NA
+Chrysemys_picta_bellii	ABT1	ENSCPBG00000003311	Others	NA
+Chrysemys_picta_bellii	TAF8	ENSCPBG00000003329	TATA-box	NA
+Chrysemys_picta_bellii		ENSCPBG00000003362	Lysine demethylase	NA
+Chrysemys_picta_bellii	NSMCE4A	ENSCPBG00000003371	EID	NA
+Chrysemys_picta_bellii	EZH1	ENSCPBG00000003395	Others	NA
+Chrysemys_picta_bellii	ANXA4	ENSCPBG00000003449	Others	NA
+Chrysemys_picta_bellii	SSBP3	ENSCPBG00000003485	Others	NA
+Chrysemys_picta_bellii	TADA1	ENSCPBG00000003554	Transcriptional adaptor	NA
+Chrysemys_picta_bellii	BTRC	ENSCPBG00000003583	Others	NA
+Chrysemys_picta_bellii	DMAP1	ENSCPBG00000003601	DNA_methylase	NA
+Chrysemys_picta_bellii	BRCA2	ENSCPBG00000003790	Others	NA
+Chrysemys_picta_bellii	CCNC	ENSCPBG00000003793	Cyclin	NA
+Chrysemys_picta_bellii	NPM3	ENSCPBG00000003817	Nucleoplasmin	NA
+Chrysemys_picta_bellii	PPID	ENSCPBG00000003829	Others	NA
+Chrysemys_picta_bellii	ASCC3	ENSCPBG00000003881	ASCC	NA
+Chrysemys_picta_bellii	PLK3	ENSCPBG00000003899	Others	NA
+Chrysemys_picta_bellii	CTDP1	ENSCPBG00000004073	Others	NA
+Chrysemys_picta_bellii	PARP10	ENSCPBG00000004075	PARP	NA
+Chrysemys_picta_bellii	PHF1	ENSCPBG00000004153	PHF	NA
+Chrysemys_picta_bellii	CCPG1	ENSCPBG00000004161	Others	NA
+Chrysemys_picta_bellii	ACTN2	ENSCPBG00000004168	Actin	NA
+Chrysemys_picta_bellii	HEATR1	ENSCPBG00000004198	Others	NA
+Chrysemys_picta_bellii	MED1	ENSCPBG00000004243	Mediator complex	NA
+Chrysemys_picta_bellii	CDK12	ENSCPBG00000004256	Cyclin	NA
+Chrysemys_picta_bellii	BCL9L	ENSCPBG00000004343	BCL	NA
+Chrysemys_picta_bellii	HAT1	ENSCPBG00000004345	Others	NA
+Chrysemys_picta_bellii	ERBB2	ENSCPBG00000004378	Erbb2	NA
+Chrysemys_picta_bellii	KAT6A	ENSCPBG00000004388	Lysine acetyltransferase	NA
+Chrysemys_picta_bellii	IKBKB	ENSCPBG00000004437	Others	NA
+Chrysemys_picta_bellii	ACTR6	ENSCPBG00000004488	ACTR	NA
+Chrysemys_picta_bellii	NFKBIZ	ENSCPBG00000004507	NFKB associated	NA
+Chrysemys_picta_bellii	TRIM25	ENSCPBG00000004548	Tripartite motif	NA
+Chrysemys_picta_bellii	MED24	ENSCPBG00000004552	Mediator complex	NA
+Chrysemys_picta_bellii	SDR16C5	ENSCPBG00000004576	Others	NA
+Chrysemys_picta_bellii	SUZ12	ENSCPBG00000004675	Others	NA
+Chrysemys_picta_bellii	CNOT11	ENSCPBG00000004780	CCR4-NOT	NA
+Chrysemys_picta_bellii	KCNIP3	ENSCPBG00000004856	Others	NA
+Chrysemys_picta_bellii	CDK5R1	ENSCPBG00000004869	Cyclin	NA
+Chrysemys_picta_bellii	TGS1	ENSCPBG00000004958	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000005018	Others	NA
+Chrysemys_picta_bellii	NOTCH2	ENSCPBG00000005048	Notch	NA
+Chrysemys_picta_bellii	RING1	ENSCPBG00000005084	Ring finger protein	NA
+Chrysemys_picta_bellii	TCEA1	ENSCPBG00000005109	TEF	NA
+Chrysemys_picta_bellii	AXIN1	ENSCPBG00000005201	Others	NA
+Chrysemys_picta_bellii	CHAF1B	ENSCPBG00000005207	Others	NA
+Chrysemys_picta_bellii	CTR9	ENSCPBG00000005248	Others	NA
+Chrysemys_picta_bellii	ARHGAP35	ENSCPBG00000005254	Others	NA
+Chrysemys_picta_bellii	LDB1	ENSCPBG00000005401	LIM	NA
+Chrysemys_picta_bellii	DNMT1	ENSCPBG00000005402	DNA_methylase	NA
+Chrysemys_picta_bellii	HABP4	ENSCPBG00000005444	Others	NA
+Chrysemys_picta_bellii	LRPPRC	ENSCPBG00000005446	Others	NA
+Chrysemys_picta_bellii	CGGBP1	ENSCPBG00000005521	Others	NA
+Chrysemys_picta_bellii	TARBP1	ENSCPBG00000005587	Others	NA
+Chrysemys_picta_bellii	PUF60	ENSCPBG00000005595	Others	NA
+Chrysemys_picta_bellii	ZNF703	ENSCPBG00000005696	Zinc finger	NA
+Chrysemys_picta_bellii	SYK	ENSCPBG00000005707	Others	NA
+Chrysemys_picta_bellii	BRF2	ENSCPBG00000005736	GTF	NA
+Chrysemys_picta_bellii		ENSCPBG00000005782	Other_CRF	NA
+Chrysemys_picta_bellii	ASH2L	ENSCPBG00000005867	Others	NA
+Chrysemys_picta_bellii	ALPK3	ENSCPBG00000005939	Others	NA
+Chrysemys_picta_bellii	DCAF6	ENSCPBG00000005962	Others	NA
+Chrysemys_picta_bellii	TRIM37	ENSCPBG00000005977	Tripartite motif	NA
+Chrysemys_picta_bellii	S100P	ENSCPBG00000005979	Others	NA
+Chrysemys_picta_bellii	CREG1	ENSCPBG00000006032	Others	NA
+Chrysemys_picta_bellii	SLTM	ENSCPBG00000006045	Others	NA
+Chrysemys_picta_bellii	TRIP4	ENSCPBG00000006093	Thyroid hormone receptor	NA
+Chrysemys_picta_bellii	BEND3	ENSCPBG00000006167	Others	NA
+Chrysemys_picta_bellii	NIPBL	ENSCPBG00000006177	Others	NA
+Chrysemys_picta_bellii	TAF5L	ENSCPBG00000006180	TATA-box	NA
+Chrysemys_picta_bellii	BCL9	ENSCPBG00000006212	BCL	NA
+Chrysemys_picta_bellii	MED13	ENSCPBG00000006305	Mediator complex	NA
+Chrysemys_picta_bellii	MTDH	ENSCPBG00000006319	Others	NA
+Chrysemys_picta_bellii	TRIM32	ENSCPBG00000006353	Tripartite motif	NA
+Chrysemys_picta_bellii		ENSCPBG00000006409	Heat shock protein	NA
+Chrysemys_picta_bellii	RYBP	ENSCPBG00000006439	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000006474	Others	NA
+Chrysemys_picta_bellii	CXXC5	ENSCPBG00000006490	Others	NA
+Chrysemys_picta_bellii	GMNN	ENSCPBG00000006536	Others	NA
+Chrysemys_picta_bellii	TDP2	ENSCPBG00000006551	Others	NA
+Chrysemys_picta_bellii	EED	ENSCPBG00000006558	Others	NA
+Chrysemys_picta_bellii	JUP	ENSCPBG00000006592	Others	NA
+Chrysemys_picta_bellii	PICALM	ENSCPBG00000006596	Others	NA
+Chrysemys_picta_bellii	NSD3	ENSCPBG00000006622	Nuclear receptor coactivator	NA
+Chrysemys_picta_bellii	MRTFB	ENSCPBG00000006634	Others	NA
+Chrysemys_picta_bellii	PRMT1	ENSCPBG00000006644	Arginine methyltransferase	NA
+Chrysemys_picta_bellii	FGFR1	ENSCPBG00000006675	FGF	NA
+Chrysemys_picta_bellii	HIPK3	ENSCPBG00000006779	HIPK	NA
+Chrysemys_picta_bellii	NCOA2	ENSCPBG00000006815	Nuclear receptor coactivator	NA
+Chrysemys_picta_bellii	EYA1	ENSCPBG00000006863	EYA	NA
+Chrysemys_picta_bellii	TBP	ENSCPBG00000006883	TATA-box	NA
+Chrysemys_picta_bellii	GRHPR	ENSCPBG00000006903	Others	NA
+Chrysemys_picta_bellii	KAT2A	ENSCPBG00000006907	Lysine acetyltransferase	NA
+Chrysemys_picta_bellii	EZR	ENSCPBG00000006990	Others	NA
+Chrysemys_picta_bellii	ELOC	ENSCPBG00000007022	Others	NA
+Chrysemys_picta_bellii	GTF2H1	ENSCPBG00000007052	GTF	NA
+Chrysemys_picta_bellii	PEX2	ENSCPBG00000007147	Others	NA
+Chrysemys_picta_bellii	NCK2	ENSCPBG00000007165	Others	NA
+Chrysemys_picta_bellii	FHL2	ENSCPBG00000007175	FHL	NA
+Chrysemys_picta_bellii	DAB2	ENSCPBG00000007273	Others	NA
+Chrysemys_picta_bellii	TNNI2	ENSCPBG00000007422	Others	NA
+Chrysemys_picta_bellii	TAB3	ENSCPBG00000007424	Others	NA
+Chrysemys_picta_bellii	SUV39H1	ENSCPBG00000007510	Others	NA
+Chrysemys_picta_bellii	SRA1	ENSCPBG00000007590	Others	NA
+Chrysemys_picta_bellii	NCOA4	ENSCPBG00000007614	Nuclear receptor coactivator	NA
+Chrysemys_picta_bellii	ADRB2	ENSCPBG00000007688	Others	NA
+Chrysemys_picta_bellii	LIN54	ENSCPBG00000007858	Others	NA
+Chrysemys_picta_bellii	POLR3C	ENSCPBG00000007883	POLR	NA
+Chrysemys_picta_bellii	CBL	ENSCPBG00000007887	Others	NA
+Chrysemys_picta_bellii	PPARGC1B	ENSCPBG00000007891	Others	NA
+Chrysemys_picta_bellii	ECD	ENSCPBG00000007910	Others	NA
+Chrysemys_picta_bellii	TXNIP	ENSCPBG00000007972	Others	NA
+Chrysemys_picta_bellii	RGCC	ENSCPBG00000008004	Others	NA
+Chrysemys_picta_bellii	TRIM29	ENSCPBG00000008017	Tripartite motif	NA
+Chrysemys_picta_bellii	MED14	ENSCPBG00000008020	Mediator complex	NA
+Chrysemys_picta_bellii	HNRNPD	ENSCPBG00000008025	HNRNP	NA
+Chrysemys_picta_bellii		ENSCPBG00000008054	Others	NA
+Chrysemys_picta_bellii	ANP32E	ENSCPBG00000008122	ANP	NA
+Chrysemys_picta_bellii	TOPORS	ENSCPBG00000008127	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000008132	Tripartite motif	NA
+Chrysemys_picta_bellii	TENM2	ENSCPBG00000008219	Others	NA
+Chrysemys_picta_bellii	WWC1	ENSCPBG00000008274	WW	NA
+Chrysemys_picta_bellii	ING3	ENSCPBG00000008307	ING	NA
+Chrysemys_picta_bellii	MED4	ENSCPBG00000008373	Mediator complex	NA
+Chrysemys_picta_bellii	BRD2	ENSCPBG00000008380	Bromodomain	NA
+Chrysemys_picta_bellii	HDAC3	ENSCPBG00000008391	Histone deacetylase	NA
+Chrysemys_picta_bellii	RB1	ENSCPBG00000008402	Other_Co-activator/repressors	NA
+Chrysemys_picta_bellii	CENPU	ENSCPBG00000008437	CENP	NA
+Chrysemys_picta_bellii	MAK	ENSCPBG00000008513	Others	NA
+Chrysemys_picta_bellii	PCBD2	ENSCPBG00000008589	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000008668	MAGE	NA
+Chrysemys_picta_bellii		ENSCPBG00000008699	Others	NA
+Chrysemys_picta_bellii	TRIP11	ENSCPBG00000008723	Thyroid hormone receptor	NA
+Chrysemys_picta_bellii	TADA3	ENSCPBG00000008847	Transcriptional adaptor	NA
+Chrysemys_picta_bellii		ENSCPBG00000008899	Lysine demethylase	NA
+Chrysemys_picta_bellii	CNOT6	ENSCPBG00000008908	CCR4-NOT	NA
+Chrysemys_picta_bellii		ENSCPBG00000009008	Chromodomain Y	NA
+Chrysemys_picta_bellii	POU2AF1	ENSCPBG00000009141	Others	NA
+Chrysemys_picta_bellii	ERN1	ENSCPBG00000009183	Others	NA
+Chrysemys_picta_bellii	DDX5	ENSCPBG00000009227	RNA helicase	NA
+Chrysemys_picta_bellii	SMURF2	ENSCPBG00000009240	Others	NA
+Chrysemys_picta_bellii	BPTF	ENSCPBG00000009294	Bromodomain	NA
+Chrysemys_picta_bellii	PLRG1	ENSCPBG00000009326	Others	NA
+Chrysemys_picta_bellii	CDK7	ENSCPBG00000009345	Cyclin	NA
+Chrysemys_picta_bellii	BRIP1	ENSCPBG00000009376	Others	NA
+Chrysemys_picta_bellii	HNRNPU	ENSCPBG00000009415	HNRNP	NA
+Chrysemys_picta_bellii	BCAS3	ENSCPBG00000009441	Others	NA
+Chrysemys_picta_bellii	WWOX	ENSCPBG00000009477	WW	NA
+Chrysemys_picta_bellii	RNF20	ENSCPBG00000009501	Ring finger protein	NA
+Chrysemys_picta_bellii	NOL11	ENSCPBG00000009509	Nuclear coactivator	NA
+Chrysemys_picta_bellii	MAML1	ENSCPBG00000009562	MAML	NA
+Chrysemys_picta_bellii	APEX1	ENSCPBG00000009567	Others	NA
+Chrysemys_picta_bellii	WWP1	ENSCPBG00000009574	WW	NA
+Chrysemys_picta_bellii	SQSTM1	ENSCPBG00000009588	Others	NA
+Chrysemys_picta_bellii	AATF	ENSCPBG00000009608	Others	NA
+Chrysemys_picta_bellii	BAZ1B	ENSCPBG00000009675	Bromodomain	NA
+Chrysemys_picta_bellii		ENSCPBG00000009687	CENP	NA
+Chrysemys_picta_bellii	PRMT8	ENSCPBG00000009741	Arginine methyltransferase	NA
+Chrysemys_picta_bellii		ENSCPBG00000009812	SWI/SNF	NA
+Chrysemys_picta_bellii	MED16	ENSCPBG00000009813	Mediator complex	NA
+Chrysemys_picta_bellii	PRSS57	ENSCPBG00000009839	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000009917	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000009924	NFKB associated	NA
+Chrysemys_picta_bellii		ENSCPBG00000009944	Others	NA
+Chrysemys_picta_bellii	NRIP2	ENSCPBG00000009947	Nuclear coactivator	NA
+Chrysemys_picta_bellii	SMARCA4	ENSCPBG00000009994	SWI/SNF	NA
+Chrysemys_picta_bellii	CARM1	ENSCPBG00000010065	Others	NA
+Chrysemys_picta_bellii	RALGAPA1	ENSCPBG00000010095	Others	NA
+Chrysemys_picta_bellii	LRIF1	ENSCPBG00000010109	Others	NA
+Chrysemys_picta_bellii	TNIP1	ENSCPBG00000010117	Others	NA
+Chrysemys_picta_bellii	TASOR	ENSCPBG00000010178	FAM	NA
+Chrysemys_picta_bellii	CCNT2	ENSCPBG00000010223	Cyclin	NA
+Chrysemys_picta_bellii	KMT5B	ENSCPBG00000010226	Lysine methyltransferase	NA
+Chrysemys_picta_bellii		ENSCPBG00000010259	Zinc finger	NA
+Chrysemys_picta_bellii	WNT4	ENSCPBG00000010322	Others	NA
+Chrysemys_picta_bellii	BAHCC1	ENSCPBG00000010417	Others	NA
+Chrysemys_picta_bellii	EYA3	ENSCPBG00000010443	EYA	NA
+Chrysemys_picta_bellii	SPEN	ENSCPBG00000010477	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000010488	Transducin	NA
+Chrysemys_picta_bellii	RPTOR	ENSCPBG00000010503	Others	NA
+Chrysemys_picta_bellii	CDKN1C	ENSCPBG00000010508	Cyclin	NA
+Chrysemys_picta_bellii	CDC73	ENSCPBG00000010576	Others	NA
+Chrysemys_picta_bellii	LRRK2	ENSCPBG00000010589	Other_CRF	NA
+Chrysemys_picta_bellii	RHOA	ENSCPBG00000010596	Others	NA
+Chrysemys_picta_bellii	HIRA	ENSCPBG00000010600	Others	NA
+Chrysemys_picta_bellii	CLU	ENSCPBG00000010630	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000010643	Histone deacetylase	NA
+Chrysemys_picta_bellii	CCNH	ENSCPBG00000010650	Cyclin	NA
+Chrysemys_picta_bellii	CITED1	ENSCPBG00000010654	CITED	NA
+Chrysemys_picta_bellii	SMARCD2	ENSCPBG00000010665	SWI/SNF	NA
+Chrysemys_picta_bellii	RNF111	ENSCPBG00000010682	Ring finger protein	NA
+Chrysemys_picta_bellii	PADI2	ENSCPBG00000010714	Other_CRF	NA
+Chrysemys_picta_bellii	TDG	ENSCPBG00000010777	Others	NA
+Chrysemys_picta_bellii	SSBP2	ENSCPBG00000010799	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000010822	Transducin	NA
+Chrysemys_picta_bellii		ENSCPBG00000010830	SET	NA
+Chrysemys_picta_bellii	DNMT3A	ENSCPBG00000010847	DNA_methylase	NA
+Chrysemys_picta_bellii	ELL2	ENSCPBG00000010866	GTF	NA
+Chrysemys_picta_bellii	CBX4	ENSCPBG00000010878	Chromobox	NA
+Chrysemys_picta_bellii	CBX8	ENSCPBG00000010883	Chromobox	NA
+Chrysemys_picta_bellii	CBX2	ENSCPBG00000010890	Chromobox	NA
+Chrysemys_picta_bellii		ENSCPBG00000010928	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000010955	GTF	NA
+Chrysemys_picta_bellii	KDM4B	ENSCPBG00000011004	Lysine demethylase	NA
+Chrysemys_picta_bellii	PSEN1	ENSCPBG00000011020	Others	NA
+Chrysemys_picta_bellii	CRK	ENSCPBG00000011040	Others	NA
+Chrysemys_picta_bellii	HDAC1	ENSCPBG00000011084	Histone deacetylase	NA
+Chrysemys_picta_bellii	SIRT6	ENSCPBG00000011103	Sirtuin	NA
+Chrysemys_picta_bellii	TIRAP	ENSCPBG00000011121	Others	NA
+Chrysemys_picta_bellii	DAPK3	ENSCPBG00000011124	Others	NA
+Chrysemys_picta_bellii	MLLT1	ENSCPBG00000011153	GTF	NA
+Chrysemys_picta_bellii	CHEK1	ENSCPBG00000011154	Others	NA
+Chrysemys_picta_bellii	CDK1	ENSCPBG00000011212	Cyclin	NA
+Chrysemys_picta_bellii	TAF12	ENSCPBG00000011234	TATA-box	NA
+Chrysemys_picta_bellii		ENSCPBG00000011314	Others	NA
+Chrysemys_picta_bellii	RNF10	ENSCPBG00000011324	Ring finger protein	NA
+Chrysemys_picta_bellii	MTPN	ENSCPBG00000011423	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000011437	HNRNP	NA
+Chrysemys_picta_bellii	TAF6	ENSCPBG00000011466	TATA-box	NA
+Chrysemys_picta_bellii	SUPT16H	ENSCPBG00000011489	SUPT	NA
+Chrysemys_picta_bellii	SIRT7	ENSCPBG00000011508	Sirtuin	NA
+Chrysemys_picta_bellii	RBM39	ENSCPBG00000011600	RNA binding protein	NA
+Chrysemys_picta_bellii	CHUK	ENSCPBG00000011603	Others	NA
+Chrysemys_picta_bellii	CNOT3	ENSCPBG00000011655	CCR4-NOT	NA
+Chrysemys_picta_bellii	TRAK2	ENSCPBG00000011705	Others	NA
+Chrysemys_picta_bellii	ORC2	ENSCPBG00000011736	Others	NA
+Chrysemys_picta_bellii	ASF1B	ENSCPBG00000011742	Others	NA
+Chrysemys_picta_bellii	NIF3L1	ENSCPBG00000011743	Others	NA
+Chrysemys_picta_bellii	DNAJB1	ENSCPBG00000011797	Others	NA
+Chrysemys_picta_bellii	CCND1	ENSCPBG00000011823	Cyclin	NA
+Chrysemys_picta_bellii	LBH	ENSCPBG00000011831	Others	NA
+Chrysemys_picta_bellii	DDX39A	ENSCPBG00000011879	RNA helicase	NA
+Chrysemys_picta_bellii	KDM7A	ENSCPBG00000011923	Lysine demethylase	NA
+Chrysemys_picta_bellii	MMS19	ENSCPBG00000011957	Others	NA
+Chrysemys_picta_bellii	LIN9	ENSCPBG00000011963	Others	NA
+Chrysemys_picta_bellii	ANKRD2	ENSCPBG00000011964	Ankyrin repeat	NA
+Chrysemys_picta_bellii	CHD3	ENSCPBG00000011966	CHD	NA
+Chrysemys_picta_bellii	TRADD	ENSCPBG00000012003	Others	NA
+Chrysemys_picta_bellii	MED13L	ENSCPBG00000012017	Mediator complex	NA
+Chrysemys_picta_bellii	PRMT7	ENSCPBG00000012063	Arginine methyltransferase	NA
+Chrysemys_picta_bellii	PHF19	ENSCPBG00000012079	PHF	NA
+Chrysemys_picta_bellii	TRIM24	ENSCPBG00000012090	Tripartite motif	NA
+Chrysemys_picta_bellii	SLC19A1	ENSCPBG00000012168	SLC	NA
+Chrysemys_picta_bellii	TESC	ENSCPBG00000012225	Others	NA
+Chrysemys_picta_bellii	RBL2	ENSCPBG00000012231	Other_Co-activator/repressors	NA
+Chrysemys_picta_bellii	NOTCH1	ENSCPBG00000012243	Notch	NA
+Chrysemys_picta_bellii	SUDS3	ENSCPBG00000012287	Other_Co-activator/repressors	NA
+Chrysemys_picta_bellii	BRWD1	ENSCPBG00000012420	Bromodomain	NA
+Chrysemys_picta_bellii	TAF1A	ENSCPBG00000012451	TATA-box	NA
+Chrysemys_picta_bellii	KMT2E	ENSCPBG00000012454	Lysine methyltransferase	NA
+Chrysemys_picta_bellii	DSCAM	ENSCPBG00000012456	Others	NA
+Chrysemys_picta_bellii	CHD9	ENSCPBG00000012459	CHD	NA
+Chrysemys_picta_bellii	CTTN	ENSCPBG00000012477	Others	NA
+Chrysemys_picta_bellii	PHF10	ENSCPBG00000012484	PHF	NA
+Chrysemys_picta_bellii	TRAF6	ENSCPBG00000012545	Others	NA
+Chrysemys_picta_bellii	PHF21A	ENSCPBG00000012630	PHF	NA
+Chrysemys_picta_bellii	SGF29	ENSCPBG00000012638	Others	NA
+Chrysemys_picta_bellii	CHD8	ENSCPBG00000012687	CHD	NA
+Chrysemys_picta_bellii	POLR2A	ENSCPBG00000012697	POLR	NA
+Chrysemys_picta_bellii	CDK2	ENSCPBG00000012709	Cyclin	NA
+Chrysemys_picta_bellii	KAT6B	ENSCPBG00000012710	Lysine acetyltransferase	NA
+Chrysemys_picta_bellii		ENSCPBG00000012820	Others	NA
+Chrysemys_picta_bellii	PDCD4	ENSCPBG00000012844	Others	NA
+Chrysemys_picta_bellii	CRTC1	ENSCPBG00000012907	CREB	NA
+Chrysemys_picta_bellii	ELL	ENSCPBG00000012916	GTF	NA
+Chrysemys_picta_bellii		ENSCPBG00000012939	Others	NA
+Chrysemys_picta_bellii	BCOR	ENSCPBG00000012975	Other_Co-activator/repressors	NA
+Chrysemys_picta_bellii	ARRB2	ENSCPBG00000013035	Others	NA
+Chrysemys_picta_bellii	INSR	ENSCPBG00000013065	Others	NA
+Chrysemys_picta_bellii	SMYD2	ENSCPBG00000013122	SMYD	NA
+Chrysemys_picta_bellii	KAT8	ENSCPBG00000013186	Lysine acetyltransferase	NA
+Chrysemys_picta_bellii		ENSCPBG00000013196	Others	NA
+Chrysemys_picta_bellii	SMARCAD1	ENSCPBG00000013203	SWI/SNF	NA
+Chrysemys_picta_bellii	PELI1	ENSCPBG00000013208	Others	NA
+Chrysemys_picta_bellii	STK36	ENSCPBG00000013226	Others	NA
+Chrysemys_picta_bellii	RNF25	ENSCPBG00000013230	Ring finger protein	NA
+Chrysemys_picta_bellii	SERTAD2	ENSCPBG00000013231	Others	NA
+Chrysemys_picta_bellii	CNOT9	ENSCPBG00000013247	CCR4-NOT	NA
+Chrysemys_picta_bellii	MID1IP1	ENSCPBG00000013263	Others	NA
+Chrysemys_picta_bellii	MDM2	ENSCPBG00000013316	Others	NA
+Chrysemys_picta_bellii	DDX1	ENSCPBG00000013330	RNA helicase	NA
+Chrysemys_picta_bellii	HIPK2	ENSCPBG00000013381	HIPK	NA
+Chrysemys_picta_bellii	CNOT2	ENSCPBG00000013399	CCR4-NOT	NA
+Chrysemys_picta_bellii	RBPMS	ENSCPBG00000013437	RNA binding protein	NA
+Chrysemys_picta_bellii		ENSCPBG00000013472	Others	NA
+Chrysemys_picta_bellii	INO80	ENSCPBG00000013491	INO80 complex	NA
+Chrysemys_picta_bellii	RTF1	ENSCPBG00000013536	Others	NA
+Chrysemys_picta_bellii	HDAC7	ENSCPBG00000013560	Histone deacetylase	NA
+Chrysemys_picta_bellii	TCERG1L	ENSCPBG00000013586	TEF	NA
+Chrysemys_picta_bellii	PAK6	ENSCPBG00000013602	Others	NA
+Chrysemys_picta_bellii	ERCC3	ENSCPBG00000013638	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000013714	Others	NA
+Chrysemys_picta_bellii	EAF2	ENSCPBG00000013751	Others	NA
+Chrysemys_picta_bellii	RNF4	ENSCPBG00000013844	Ring finger protein	NA
+Chrysemys_picta_bellii	TNIP2	ENSCPBG00000013851	Others	NA
+Chrysemys_picta_bellii	COPS5	ENSCPBG00000013892	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000013908	PARP	NA
+Chrysemys_picta_bellii		ENSCPBG00000013920	PARP	NA
+Chrysemys_picta_bellii	CAMK4	ENSCPBG00000013923	CAMK	NA
+Chrysemys_picta_bellii	PRPF6	ENSCPBG00000013964	Others	NA
+Chrysemys_picta_bellii	TCEA2	ENSCPBG00000013967	TEF	NA
+Chrysemys_picta_bellii	LPIN1	ENSCPBG00000014000	LPIN	NA
+Chrysemys_picta_bellii	NLK	ENSCPBG00000014053	Others	NA
+Chrysemys_picta_bellii	TAF1B	ENSCPBG00000014058	TATA-box	NA
+Chrysemys_picta_bellii	TIMELESS	ENSCPBG00000014064	Others	NA
+Chrysemys_picta_bellii	CSRP3	ENSCPBG00000014072	Others	NA
+Chrysemys_picta_bellii	NAB2	ENSCPBG00000014181	Others	NA
+Chrysemys_picta_bellii	ITGB3BP	ENSCPBG00000014219	Others	NA
+Chrysemys_picta_bellii	XIAP	ENSCPBG00000014275	Others	NA
+Chrysemys_picta_bellii	TAF9	ENSCPBG00000014330	TATA-box	NA
+Chrysemys_picta_bellii	RUVBL1	ENSCPBG00000014361	Other_CRF	NA
+Chrysemys_picta_bellii		ENSCPBG00000014374	Others	NA
+Chrysemys_picta_bellii	WWTR1	ENSCPBG00000014399	WW	NA
+Chrysemys_picta_bellii	C1D	ENSCPBG00000014451	Other_Co-activator/repressors	NA
+Chrysemys_picta_bellii	PIN1	ENSCPBG00000014519	Others	NA
+Chrysemys_picta_bellii	HELZ2	ENSCPBG00000014633	Others	NA
+Chrysemys_picta_bellii	MED31	ENSCPBG00000014799	Mediator complex	NA
+Chrysemys_picta_bellii	RUVBL2	ENSCPBG00000014811	Other_CRF	NA
+Chrysemys_picta_bellii	LMCD1	ENSCPBG00000014818	LIM	NA
+Chrysemys_picta_bellii	RLIM	ENSCPBG00000014867	Ring finger protein	NA
+Chrysemys_picta_bellii	CHCHD2	ENSCPBG00000014871	Coiled-coil	NA
+Chrysemys_picta_bellii	TPR	ENSCPBG00000014877	Others	NA
+Chrysemys_picta_bellii	BCL3	ENSCPBG00000014901	BCL	NA
+Chrysemys_picta_bellii	AUTS2	ENSCPBG00000014913	Others	NA
+Chrysemys_picta_bellii	SIN3B	ENSCPBG00000014932	Others	NA
+Chrysemys_picta_bellii	PIH1D1	ENSCPBG00000014963	Other_CRF	NA
+Chrysemys_picta_bellii		ENSCPBG00000014964	Mediator complex	NA
+Chrysemys_picta_bellii	HSPA8	ENSCPBG00000014981	Heat shock protein	NA
+Chrysemys_picta_bellii	ATRX	ENSCPBG00000015014	Others	NA
+Chrysemys_picta_bellii	TENM1	ENSCPBG00000015083	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000015193	Others	NA
+Chrysemys_picta_bellii	TAF2	ENSCPBG00000015342	TATA-box	NA
+Chrysemys_picta_bellii	SETD2	ENSCPBG00000015402	SET	NA
+Chrysemys_picta_bellii	NRBF2	ENSCPBG00000015433	Nuclear receptor coactivator	NA
+Chrysemys_picta_bellii	JMJD1C	ENSCPBG00000015439	Other_CRF	NA
+Chrysemys_picta_bellii	HIPK1	ENSCPBG00000015455	HIPK	NA
+Chrysemys_picta_bellii	TRIM33	ENSCPBG00000015502	Tripartite motif	NA
+Chrysemys_picta_bellii	PPHLN1	ENSCPBG00000015505	Others	NA
+Chrysemys_picta_bellii	YAF2	ENSCPBG00000015509	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000015583	Others	NA
+Chrysemys_picta_bellii	SCMH1	ENSCPBG00000015645	Others	NA
+Chrysemys_picta_bellii	GTF2B	ENSCPBG00000015671	GTF	NA
+Chrysemys_picta_bellii	RNF2	ENSCPBG00000015695	Ring finger protein	NA
+Chrysemys_picta_bellii	PIR	ENSCPBG00000015703	Others	NA
+Chrysemys_picta_bellii	RPAP2	ENSCPBG00000015739	Others	NA
+Chrysemys_picta_bellii	AIP	ENSCPBG00000015740	Others	NA
+Chrysemys_picta_bellii	DHX9	ENSCPBG00000015757	RNA helicase	NA
+Chrysemys_picta_bellii	CHD1	ENSCPBG00000015831	CHD	NA
+Chrysemys_picta_bellii	WAC	ENSCPBG00000015860	WW	NA
+Chrysemys_picta_bellii	BRD7	ENSCPBG00000015938	Bromodomain	NA
+Chrysemys_picta_bellii	FLNA	ENSCPBG00000015968	Others	NA
+Chrysemys_picta_bellii	SKIL	ENSCPBG00000015978	SKI	NA
+Chrysemys_picta_bellii	HLTF	ENSCPBG00000015996	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000016029	Others	NA
+Chrysemys_picta_bellii	PARK7	ENSCPBG00000016037	Others	NA
+Chrysemys_picta_bellii	RBBP7	ENSCPBG00000016048	RBBP	NA
+Chrysemys_picta_bellii	TXLNG	ENSCPBG00000016050	Others	NA
+Chrysemys_picta_bellii	CCNE1	ENSCPBG00000016144	Cyclin	NA
+Chrysemys_picta_bellii	URI1	ENSCPBG00000016148	Others	NA
+Chrysemys_picta_bellii	BRCA1	ENSCPBG00000016269	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000016289	Others	NA
+Chrysemys_picta_bellii	H2AZ1	ENSCPBG00000016374	Others	NA
+Chrysemys_picta_bellii	RNF14	ENSCPBG00000016562	Ring finger protein	NA
+Chrysemys_picta_bellii	OGT	ENSCPBG00000016577	Others	NA
+Chrysemys_picta_bellii	FGF1	ENSCPBG00000016580	FGF	NA
+Chrysemys_picta_bellii	CAVIN1	ENSCPBG00000016584	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000016619	TATA-box	NA
+Chrysemys_picta_bellii	DCAF1	ENSCPBG00000016641	Others	NA
+Chrysemys_picta_bellii	EZH2	ENSCPBG00000016655	Others	NA
+Chrysemys_picta_bellii	NONO	ENSCPBG00000016659	Others	NA
+Chrysemys_picta_bellii	MED12	ENSCPBG00000016686	Mediator complex	NA
+Chrysemys_picta_bellii	SIRT5	ENSCPBG00000016733	Sirtuin	NA
+Chrysemys_picta_bellii	KDM1B	ENSCPBG00000016750	Lysine demethylase	NA
+Chrysemys_picta_bellii	DEK	ENSCPBG00000016760	Other_CRF	NA
+Chrysemys_picta_bellii	AURKB	ENSCPBG00000016789	Others	NA
+Chrysemys_picta_bellii	VGLL4	ENSCPBG00000016825	Vestigial like	NA
+Chrysemys_picta_bellii	MED19	ENSCPBG00000016845	Mediator complex	NA
+Chrysemys_picta_bellii	CTNND1	ENSCPBG00000016852	Casein	NA
+Chrysemys_picta_bellii	LPXN	ENSCPBG00000016862	Others	NA
+Chrysemys_picta_bellii	TFB2M	ENSCPBG00000016975	Others	NA
+Chrysemys_picta_bellii	EPC1	ENSCPBG00000017001	Others	NA
+Chrysemys_picta_bellii	ZMYND11	ENSCPBG00000017099	Zinc finger	NA
+Chrysemys_picta_bellii	GTF2A2	ENSCPBG00000017140	GTF	NA
+Chrysemys_picta_bellii	ICE2	ENSCPBG00000017146	GTF	NA
+Chrysemys_picta_bellii	CITED2	ENSCPBG00000017188	CITED	NA
+Chrysemys_picta_bellii	IKBKG	ENSCPBG00000017209	Others	NA
+Chrysemys_picta_bellii	BRMS1L	ENSCPBG00000017359	Other_CRF	NA
+Chrysemys_picta_bellii	RWDD3	ENSCPBG00000017369	Others	NA
+Chrysemys_picta_bellii	DNTTIP2	ENSCPBG00000017394	Others	NA
+Chrysemys_picta_bellii	DR1	ENSCPBG00000017406	Others	NA
+Chrysemys_picta_bellii	MTF2	ENSCPBG00000017419	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000017440	Mediator complex	NA
+Chrysemys_picta_bellii	HDAC6	ENSCPBG00000017452	Histone deacetylase	NA
+Chrysemys_picta_bellii	MDFI	ENSCPBG00000017454	Others	NA
+Chrysemys_picta_bellii	JADE1	ENSCPBG00000017476	Others	NA
+Chrysemys_picta_bellii	SGK1	ENSCPBG00000017648	Others	NA
+Chrysemys_picta_bellii	TBPL1	ENSCPBG00000017654	TATA-box	NA
+Chrysemys_picta_bellii	EYA4	ENSCPBG00000017662	EYA	NA
+Chrysemys_picta_bellii		ENSCPBG00000017733	MYC	NA
+Chrysemys_picta_bellii	YWHAB	ENSCPBG00000017746	Others	NA
+Chrysemys_picta_bellii	CHCHD3	ENSCPBG00000017762	Coiled-coil	NA
+Chrysemys_picta_bellii	STK4	ENSCPBG00000017770	Others	NA
+Chrysemys_picta_bellii	SRC	ENSCPBG00000017859	Others	NA
+Chrysemys_picta_bellii	MED23	ENSCPBG00000017875	Mediator complex	NA
+Chrysemys_picta_bellii	LPIN3	ENSCPBG00000017892	LPIN	NA
+Chrysemys_picta_bellii	TAF6L	ENSCPBG00000017904	TATA-box	NA
+Chrysemys_picta_bellii	TOP1	ENSCPBG00000017941	Other_CRF	NA
+Chrysemys_picta_bellii	DDX54	ENSCPBG00000017982	RNA helicase	NA
+Chrysemys_picta_bellii	DTX1	ENSCPBG00000017991	Others	NA
+Chrysemys_picta_bellii	EWSR1	ENSCPBG00000018002	Others	NA
+Chrysemys_picta_bellii	LDB2	ENSCPBG00000018005	LIM	NA
+Chrysemys_picta_bellii	MED28	ENSCPBG00000018010	Mediator complex	NA
+Chrysemys_picta_bellii	SND1	ENSCPBG00000018094	Others	NA
+Chrysemys_picta_bellii	ACTR5	ENSCPBG00000018183	ACTR	NA
+Chrysemys_picta_bellii	ITCH	ENSCPBG00000018232	Others	NA
+Chrysemys_picta_bellii	FHL3	ENSCPBG00000018283	FHL	NA
+Chrysemys_picta_bellii		ENSCPBG00000018330	Others	NA
+Chrysemys_picta_bellii	SFMBT1	ENSCPBG00000018389	Others	NA
+Chrysemys_picta_bellii	GTF2A1L	ENSCPBG00000018479	GTF	NA
+Chrysemys_picta_bellii	SNIP1	ENSCPBG00000018488	Others	NA
+Chrysemys_picta_bellii	MEAF6	ENSCPBG00000018490	Others	NA
+Chrysemys_picta_bellii	THRAP3	ENSCPBG00000018530	Thyroid hormone receptor	NA
+Chrysemys_picta_bellii	NCOA7	ENSCPBG00000018541	Nuclear receptor coactivator	NA
+Chrysemys_picta_bellii	WNT3	ENSCPBG00000018551	Others	NA
+Chrysemys_picta_bellii	NPAT	ENSCPBG00000018558	Nuclear coactivator	NA
+Chrysemys_picta_bellii	DOT1L	ENSCPBG00000018560	Others	NA
+Chrysemys_picta_bellii	AGO1	ENSCPBG00000018594	Others	NA
+Chrysemys_picta_bellii	ACTN4	ENSCPBG00000018719	Actin	NA
+Chrysemys_picta_bellii	DHX36	ENSCPBG00000018783	RNA helicase	NA
+Chrysemys_picta_bellii	SUPT5H	ENSCPBG00000018792	SUPT	NA
+Chrysemys_picta_bellii	ASF1A	ENSCPBG00000018809	Others	NA
+Chrysemys_picta_bellii	MED12L	ENSCPBG00000018827	Mediator complex	NA
+Chrysemys_picta_bellii	VGLL2	ENSCPBG00000018846	Vestigial like	NA
+Chrysemys_picta_bellii	SIAH2	ENSCPBG00000018847	Others	NA
+Chrysemys_picta_bellii	CNOT7	ENSCPBG00000018890	CCR4-NOT	NA
+Chrysemys_picta_bellii		ENSCPBG00000018893	Casein	NA
+Chrysemys_picta_bellii	SIRT2	ENSCPBG00000018928	Sirtuin	NA
+Chrysemys_picta_bellii	NFKBIB	ENSCPBG00000018929	NFKB associated	NA
+Chrysemys_picta_bellii	TONSL	ENSCPBG00000018936	Others	NA
+Chrysemys_picta_bellii	MLLT3	ENSCPBG00000018979	GTF	NA
+Chrysemys_picta_bellii	SAMD4B	ENSCPBG00000018990	Others	NA
+Chrysemys_picta_bellii	PAF1	ENSCPBG00000018995	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000019005	Others	NA
+Chrysemys_picta_bellii	TOP1MT	ENSCPBG00000019059	Other_CRF	NA
+Chrysemys_picta_bellii	TLE1	ENSCPBG00000019082	Transducin	NA
+Chrysemys_picta_bellii	TLE4	ENSCPBG00000019087	Transducin	NA
+Chrysemys_picta_bellii	SAP130	ENSCPBG00000019138	SAP	NA
+Chrysemys_picta_bellii	RALY	ENSCPBG00000019164	Others	NA
+Chrysemys_picta_bellii	YEATS2	ENSCPBG00000019172	Others	NA
+Chrysemys_picta_bellii	INO80D	ENSCPBG00000019181	INO80 complex	NA
+Chrysemys_picta_bellii	AGO2	ENSCPBG00000019183	Others	NA
+Chrysemys_picta_bellii	CHRAC1	ENSCPBG00000019186	Other_CRF	NA
+Chrysemys_picta_bellii	CBFA2T2	ENSCPBG00000019187	Others	NA
+Chrysemys_picta_bellii	EDF1	ENSCPBG00000019210	Others	NA
+Chrysemys_picta_bellii	PER2	ENSCPBG00000019251	Others	NA
+Chrysemys_picta_bellii	CRYM	ENSCPBG00000019261	Others	NA
+Chrysemys_picta_bellii	TRIM28	ENSCPBG00000019287	Tripartite motif	NA
+Chrysemys_picta_bellii	RBL1	ENSCPBG00000019364	Other_Co-activator/repressors	NA
+Chrysemys_picta_bellii	SMARCD1	ENSCPBG00000019381	SWI/SNF	NA
+Chrysemys_picta_bellii	CHD6	ENSCPBG00000019382	CHD	NA
+Chrysemys_picta_bellii	CNOT6L	ENSCPBG00000019403	CCR4-NOT	NA
+Chrysemys_picta_bellii	PHF20	ENSCPBG00000019457	PHF	NA
+Chrysemys_picta_bellii	CTDSPL	ENSCPBG00000019473	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000019531	Sirtuin	NA
+Chrysemys_picta_bellii	PID1	ENSCPBG00000019629	Others	NA
+Chrysemys_picta_bellii	CCAR1	ENSCPBG00000019635	Others	NA
+Chrysemys_picta_bellii	DPF1	ENSCPBG00000019680	DPF	NA
+Chrysemys_picta_bellii	RBBP8	ENSCPBG00000019692	RBBP	NA
+Chrysemys_picta_bellii	SENP1	ENSCPBG00000019758	Others	NA
+Chrysemys_picta_bellii	HDAC11	ENSCPBG00000019776	Histone deacetylase	NA
+Chrysemys_picta_bellii	TAF3	ENSCPBG00000019787	TATA-box	NA
+Chrysemys_picta_bellii	SFMBT2	ENSCPBG00000019821	Others	NA
+Chrysemys_picta_bellii	ZNF638	ENSCPBG00000019903	Zinc finger	NA
+Chrysemys_picta_bellii	PNRC1	ENSCPBG00000019920	Others	NA
+Chrysemys_picta_bellii	CASK	ENSCPBG00000019922	CAMK	NA
+Chrysemys_picta_bellii		ENSCPBG00000019948	Lysine demethylase	NA
+Chrysemys_picta_bellii	CCNT1	ENSCPBG00000019975	Cyclin	NA
+Chrysemys_picta_bellii	TRRAP	ENSCPBG00000020088	Others	NA
+Chrysemys_picta_bellii	MCRS1	ENSCPBG00000020099	Others	NA
+Chrysemys_picta_bellii	TBPL2	ENSCPBG00000020136	TATA-box	NA
+Chrysemys_picta_bellii	PHF12	ENSCPBG00000020167	PHF	NA
+Chrysemys_picta_bellii	SIVA1	ENSCPBG00000020184	Others	NA
+Chrysemys_picta_bellii	CASP8AP2	ENSCPBG00000020228	Others	NA
+Chrysemys_picta_bellii	SUPT6H	ENSCPBG00000020288	SUPT	NA
+Chrysemys_picta_bellii	HINT1	ENSCPBG00000020313	Others	NA
+Chrysemys_picta_bellii	RRN3	ENSCPBG00000020347	Others	NA
+Chrysemys_picta_bellii	BRF1	ENSCPBG00000020355	GTF	NA
+Chrysemys_picta_bellii	ANKAR	ENSCPBG00000020456	Ankyrin repeat	NA
+Chrysemys_picta_bellii		ENSCPBG00000020495	Cyclin	NA
+Chrysemys_picta_bellii	NAB1	ENSCPBG00000020501	Others	NA
+Chrysemys_picta_bellii	RNF6	ENSCPBG00000020502	Ring finger protein	NA
+Chrysemys_picta_bellii	XRCC6	ENSCPBG00000020535	Others	NA
+Chrysemys_picta_bellii	PHF5A	ENSCPBG00000020547	PHF	NA
+Chrysemys_picta_bellii	HIF1AN	ENSCPBG00000020549	Others	NA
+Chrysemys_picta_bellii	TRIB1	ENSCPBG00000020593	Others	NA
+Chrysemys_picta_bellii	ATAD2	ENSCPBG00000020667	Others	NA
+Chrysemys_picta_bellii	SAP18	ENSCPBG00000020743	SAP	NA
+Chrysemys_picta_bellii	ACTB	ENSCPBG00000020809	Actin	NA
+Chrysemys_picta_bellii	SMURF1	ENSCPBG00000020821	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000020823	Bromodomain	NA
+Chrysemys_picta_bellii	ZMYM2	ENSCPBG00000020850	Zinc finger	NA
+Chrysemys_picta_bellii	PSPC1	ENSCPBG00000020859	Others	NA
+Chrysemys_picta_bellii	BUD31	ENSCPBG00000020864	Others	NA
+Chrysemys_picta_bellii	MPHOSPH8	ENSCPBG00000020877	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000020881	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000020902	Others	NA
+Chrysemys_picta_bellii	MED9	ENSCPBG00000020921	Mediator complex	NA
+Chrysemys_picta_bellii	RASD1	ENSCPBG00000020922	Others	NA
+Chrysemys_picta_bellii	RAI1	ENSCPBG00000020931	Others	NA
+Chrysemys_picta_bellii	ATF7IP	ENSCPBG00000020944	Others	NA
+Chrysemys_picta_bellii	FLII	ENSCPBG00000020990	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000021074	Histone cluster 1 H1	NA
+Chrysemys_picta_bellii	TAF4B	ENSCPBG00000021084	TATA-box	NA
+Chrysemys_picta_bellii	WDR5B	ENSCPBG00000021091	WD	NA
+Chrysemys_picta_bellii	BRD3	ENSCPBG00000021099	Bromodomain	NA
+Chrysemys_picta_bellii	REXO4	ENSCPBG00000021152	Others	NA
+Chrysemys_picta_bellii	L3MBTL2	ENSCPBG00000021168	Others	NA
+Chrysemys_picta_bellii	MED22	ENSCPBG00000021170	Mediator complex	NA
+Chrysemys_picta_bellii		ENSCPBG00000021195	Lysine methyltransferase	NA
+Chrysemys_picta_bellii	MED27	ENSCPBG00000021233	Mediator complex	NA
+Chrysemys_picta_bellii	FBXW11	ENSCPBG00000021234	Others	NA
+Chrysemys_picta_bellii	EP300	ENSCPBG00000021241	Others	NA
+Chrysemys_picta_bellii	DDX20	ENSCPBG00000021256	RNA helicase	NA
+Chrysemys_picta_bellii	WDR77	ENSCPBG00000021264	WD	NA
+Chrysemys_picta_bellii	HDAC10	ENSCPBG00000021265	Histone deacetylase	NA
+Chrysemys_picta_bellii	PIM3	ENSCPBG00000021320	Others	NA
+Chrysemys_picta_bellii	BRD1	ENSCPBG00000021334	Bromodomain	NA
+Chrysemys_picta_bellii	RNF168	ENSCPBG00000021369	Ring finger protein	NA
+Chrysemys_picta_bellii	ACTR8	ENSCPBG00000021427	ACTR	NA
+Chrysemys_picta_bellii	GTF2H4	ENSCPBG00000021494	GTF	NA
+Chrysemys_picta_bellii	CHD7	ENSCPBG00000021517	CHD	NA
+Chrysemys_picta_bellii	ACTN1	ENSCPBG00000021544	Actin	NA
+Chrysemys_picta_bellii	DGKQ	ENSCPBG00000021663	Others	NA
+Chrysemys_picta_bellii	PCGF3	ENSCPBG00000021671	PCGF	NA
+Chrysemys_picta_bellii	SUPT3H	ENSCPBG00000021682	SUPT	NA
+Chrysemys_picta_bellii	HNRNPK	ENSCPBG00000021776	HNRNP	NA
+Chrysemys_picta_bellii	TCF20	ENSCPBG00000021800	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000021895	Others	NA
+Chrysemys_picta_bellii	MAD2L2	ENSCPBG00000021986	Others	NA
+Chrysemys_picta_bellii	MED6	ENSCPBG00000021996	Mediator complex	NA
+Chrysemys_picta_bellii	PEX14	ENSCPBG00000022036	Others	NA
+Chrysemys_picta_bellii	KDM3B	ENSCPBG00000022055	Lysine demethylase	NA
+Chrysemys_picta_bellii	CTNNBIP1	ENSCPBG00000022061	Casein	NA
+Chrysemys_picta_bellii	BRD8	ENSCPBG00000022097	Bromodomain	NA
+Chrysemys_picta_bellii	ENO1	ENSCPBG00000022102	Others	NA
+Chrysemys_picta_bellii	NOC2L	ENSCPBG00000022124	Others	NA
+Chrysemys_picta_bellii	SIRT3	ENSCPBG00000022149	Sirtuin	NA
+Chrysemys_picta_bellii	SIN3A	ENSCPBG00000022158	Other_CRF	NA
+Chrysemys_picta_bellii		ENSCPBG00000022169	Thyroid hormone receptor	NA
+Chrysemys_picta_bellii	SAV1	ENSCPBG00000022237	Others	NA
+Chrysemys_picta_bellii	ELP3	ENSCPBG00000022241	ELP	NA
+Chrysemys_picta_bellii		ENSCPBG00000022248	Nuclear receptor coactivator	NA
+Chrysemys_picta_bellii	GPS2	ENSCPBG00000022286	Others	NA
+Chrysemys_picta_bellii	CBX5	ENSCPBG00000022329	Chromobox	NA
+Chrysemys_picta_bellii	MNAT1	ENSCPBG00000022366	Others	NA
+Chrysemys_picta_bellii	KDM5B	ENSCPBG00000022448	Lysine demethylase	NA
+Chrysemys_picta_bellii	CBX3	ENSCPBG00000022487	Chromobox	NA
+Chrysemys_picta_bellii	KAT2B	ENSCPBG00000022564	Lysine acetyltransferase	NA
+Chrysemys_picta_bellii	ABL1	ENSCPBG00000022624	Others	NA
+Chrysemys_picta_bellii	ZNF451	ENSCPBG00000022625	Zinc finger	NA
+Chrysemys_picta_bellii	CNOT10	ENSCPBG00000022728	CCR4-NOT	NA
+Chrysemys_picta_bellii	LMO1	ENSCPBG00000022745	LIM	NA
+Chrysemys_picta_bellii	NOD1	ENSCPBG00000022796	Others	NA
+Chrysemys_picta_bellii	EAF1	ENSCPBG00000022803	Others	NA
+Chrysemys_picta_bellii	RBX1	ENSCPBG00000022886	Others	NA
+Chrysemys_picta_bellii	AURKAIP1	ENSCPBG00000022899	Others	NA
+Chrysemys_picta_bellii	MRTFA	ENSCPBG00000022902	Others	NA
+Chrysemys_picta_bellii	SSU72	ENSCPBG00000022925	Others	NA
+Chrysemys_picta_bellii	TAB1	ENSCPBG00000022970	Others	NA
+Chrysemys_picta_bellii	CBX7	ENSCPBG00000022985	Chromobox	NA
+Chrysemys_picta_bellii	CBX6	ENSCPBG00000022986	Chromobox	NA
+Chrysemys_picta_bellii		ENSCPBG00000023015	RNA helicase	NA
+Chrysemys_picta_bellii	MED21	ENSCPBG00000023117	Mediator complex	NA
+Chrysemys_picta_bellii	PHIP	ENSCPBG00000023138	Others	NA
+Chrysemys_picta_bellii	RBFOX2	ENSCPBG00000023144	Others	NA
+Chrysemys_picta_bellii	LIMD1	ENSCPBG00000023149	LIM	NA
+Chrysemys_picta_bellii	HMOX1	ENSCPBG00000023157	Others	NA
+Chrysemys_picta_bellii	CRY1	ENSCPBG00000023193	Others	NA
+Chrysemys_picta_bellii	CTNNB1	ENSCPBG00000023264	Casein	NA
+Chrysemys_picta_bellii	RAP2A	ENSCPBG00000023307	Others	NA
+Chrysemys_picta_bellii	TRAK1	ENSCPBG00000023312	Others	NA
+Chrysemys_picta_bellii	SET	ENSCPBG00000023372	SET	NA
+Chrysemys_picta_bellii	CCDC85B	ENSCPBG00000023382	Coiled-coil	NA
+Chrysemys_picta_bellii	DRAP1	ENSCPBG00000023398	Others	NA
+Chrysemys_picta_bellii	KAT5	ENSCPBG00000023405	Lysine acetyltransferase	NA
+Chrysemys_picta_bellii	PRDX5	ENSCPBG00000023457	Others	NA
+Chrysemys_picta_bellii	BIRC5	ENSCPBG00000023468	Others	NA
+Chrysemys_picta_bellii	POLR3F	ENSCPBG00000023473	POLR	NA
+Chrysemys_picta_bellii	BANP	ENSCPBG00000023508	Others	NA
+Chrysemys_picta_bellii	XRN2	ENSCPBG00000023533	Others	NA
+Chrysemys_picta_bellii	LGALS12	ENSCPBG00000023548	Others	NA
+Chrysemys_picta_bellii	DPY30	ENSCPBG00000023611	Others	NA
+Chrysemys_picta_bellii	DPF2	ENSCPBG00000023614	DPF	NA
+Chrysemys_picta_bellii	PINK1	ENSCPBG00000023631	Others	NA
+Chrysemys_picta_bellii	RNF141	ENSCPBG00000023646	Ring finger protein	NA
+Chrysemys_picta_bellii	SF1	ENSCPBG00000023763	Others	NA
+Chrysemys_picta_bellii	MEN1	ENSCPBG00000023765	Others	NA
+Chrysemys_picta_bellii	BTAF1	ENSCPBG00000023781	Others	NA
+Chrysemys_picta_bellii	RBM14	ENSCPBG00000023808	RNA binding protein	NA
+Chrysemys_picta_bellii	HSBP1	ENSCPBG00000023888	Heat shock protein	NA
+Chrysemys_picta_bellii		ENSCPBG00000023916	Others	NA
+Chrysemys_picta_bellii	EHMT1	ENSCPBG00000023950	Histone lysine methyltransferase	NA
+Chrysemys_picta_bellii	ELOF1	ENSCPBG00000023953	GTF	NA
+Chrysemys_picta_bellii	NELFB	ENSCPBG00000023974	GTF	NA
+Chrysemys_picta_bellii		ENSCPBG00000023983	ELP	NA
+Chrysemys_picta_bellii		ENSCPBG00000023986	Mediator complex	NA
+Chrysemys_picta_bellii	CDYL2	ENSCPBG00000024003	Chromodomain Y	NA
+Chrysemys_picta_bellii	DYRK1B	ENSCPBG00000024050	Others	NA
+Chrysemys_picta_bellii	MSL3	ENSCPBG00000024070	Others	NA
+Chrysemys_picta_bellii	CCNK	ENSCPBG00000024080	Cyclin	NA
+Chrysemys_picta_bellii	SETD3	ENSCPBG00000024085	SET	NA
+Chrysemys_picta_bellii	PIDD1	ENSCPBG00000024116	Others	NA
+Chrysemys_picta_bellii	TP53BP1	ENSCPBG00000024148	Others	NA
+Chrysemys_picta_bellii	MALT1	ENSCPBG00000024152	Others	NA
+Chrysemys_picta_bellii	WDR61	ENSCPBG00000024244	WD	NA
+Chrysemys_picta_bellii	HDAC4	ENSCPBG00000024299	Histone deacetylase	NA
+Chrysemys_picta_bellii	PHF21B	ENSCPBG00000024336	PHF	NA
+Chrysemys_picta_bellii	SUV39H2	ENSCPBG00000024379	Others	NA
+Chrysemys_picta_bellii	SFR1	ENSCPBG00000024393	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000024445	INO80 complex	NA
+Chrysemys_picta_bellii	PCGF1	ENSCPBG00000024457	PCGF	NA
+Chrysemys_picta_bellii	TAF5	ENSCPBG00000024491	TATA-box	NA
+Chrysemys_picta_bellii	PCGF6	ENSCPBG00000024492	PCGF	NA
+Chrysemys_picta_bellii		ENSCPBG00000024664	Others	NA
+Chrysemys_picta_bellii	LOXL3	ENSCPBG00000024686	Others	NA
+Chrysemys_picta_bellii	CCNA2	ENSCPBG00000024712	Cyclin	NA
+Chrysemys_picta_bellii	COPS2	ENSCPBG00000024749	Others	NA
+Chrysemys_picta_bellii	SFSWAP	ENSCPBG00000024757	Others	NA
+Chrysemys_picta_bellii	RAN	ENSCPBG00000024785	Others	NA
+Chrysemys_picta_bellii	CAMK2D	ENSCPBG00000024786	CAMK	NA
+Chrysemys_picta_bellii	LANCL2	ENSCPBG00000024826	Others	NA
+Chrysemys_picta_bellii	EGFR	ENSCPBG00000024828	Others	NA
+Chrysemys_picta_bellii	DACT1	ENSCPBG00000024848	Others	NA
+Chrysemys_picta_bellii	GRIP1	ENSCPBG00000024853	Others	NA
+Chrysemys_picta_bellii	CDK13	ENSCPBG00000024855	Cyclin	NA
+Chrysemys_picta_bellii	SFRP4	ENSCPBG00000024945	Others	NA
+Chrysemys_picta_bellii	WDTC1	ENSCPBG00000024946	WD	NA
+Chrysemys_picta_bellii	BLM	ENSCPBG00000025000	Others	NA
+Chrysemys_picta_bellii	ZNF593	ENSCPBG00000025034	Zinc finger	NA
+Chrysemys_picta_bellii	NELFA	ENSCPBG00000025095	GTF	NA
+Chrysemys_picta_bellii	CDK9	ENSCPBG00000025218	Cyclin	NA
+Chrysemys_picta_bellii	ENG	ENSCPBG00000025225	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000025252	Others	NA
+Chrysemys_picta_bellii	C6orf89	ENSCPBG00000025277	Other_CRF	NA
+Chrysemys_picta_bellii	PSIP1	ENSCPBG00000025305	Others	NA
+Chrysemys_picta_bellii	RNF8	ENSCPBG00000025331	Ring finger protein	NA
+Chrysemys_picta_bellii	STRN3	ENSCPBG00000025355	Others	NA
+Chrysemys_picta_bellii	ERBB4	ENSCPBG00000025372	Erbb2	NA
+Chrysemys_picta_bellii	MORF4L1	ENSCPBG00000025409	Other_CRF	NA
+Chrysemys_picta_bellii	ILF2	ENSCPBG00000025410	Others	NA
+Chrysemys_picta_bellii	CHTOP	ENSCPBG00000025413	Others	NA
+Chrysemys_picta_bellii	S100A12	ENSCPBG00000025425	Others	NA
+Chrysemys_picta_bellii	KANK1	ENSCPBG00000025457	Others	NA
+Chrysemys_picta_bellii	SMARCA2	ENSCPBG00000025463	SWI/SNF	NA
+Chrysemys_picta_bellii	JAK2	ENSCPBG00000025483	Others	NA
+Chrysemys_picta_bellii	TLE3	ENSCPBG00000025506	Transducin	NA
+Chrysemys_picta_bellii	KDM1A	ENSCPBG00000025524	Lysine demethylase	NA
+Chrysemys_picta_bellii	SKOR1	ENSCPBG00000025542	SKI	NA
+Chrysemys_picta_bellii	RIPK3	ENSCPBG00000025563	Others	NA
+Chrysemys_picta_bellii	DCC	ENSCPBG00000025608	Others	NA
+Chrysemys_picta_bellii	SLC30A9	ENSCPBG00000025622	SLC	NA
+Chrysemys_picta_bellii	PYGO2	ENSCPBG00000025651	Others	NA
+Chrysemys_picta_bellii	ASH1L	ENSCPBG00000025687	Others	NA
+Chrysemys_picta_bellii	PDLIM1	ENSCPBG00000025734	Others	NA
+Chrysemys_picta_bellii	HELLS	ENSCPBG00000025739	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000025750	Others	NA
+Chrysemys_picta_bellii	EPC2	ENSCPBG00000025795	Others	NA
+Chrysemys_picta_bellii	FBXW7	ENSCPBG00000025804	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000025840	Others	NA
+Chrysemys_picta_bellii	ASCC1	ENSCPBG00000025878	ASCC	NA
+Chrysemys_picta_bellii	MACROH2A2	ENSCPBG00000025940	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000025967	Lysine methyltransferase	NA
+Chrysemys_picta_bellii	KDM2B	ENSCPBG00000026039	Lysine demethylase	NA
+Chrysemys_picta_bellii	PRMT5	ENSCPBG00000026091	Arginine methyltransferase	NA
+Chrysemys_picta_bellii	VGLL1	ENSCPBG00000026099	Vestigial like	NA
+Chrysemys_picta_bellii		ENSCPBG00000026106	RNA binding protein	NA
+Chrysemys_picta_bellii	KDM4C	ENSCPBG00000026174	Lysine demethylase	NA
+Chrysemys_picta_bellii	ARHGAP5	ENSCPBG00000026180	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000026187	Others	NA
+Chrysemys_picta_bellii	EAPP	ENSCPBG00000026190	Others	NA
+Chrysemys_picta_bellii	SNX6	ENSCPBG00000026191	Others	NA
+Chrysemys_picta_bellii	BAZ1A	ENSCPBG00000026193	Bromodomain	NA
+Chrysemys_picta_bellii	CNOT1	ENSCPBG00000026222	CCR4-NOT	NA
+Chrysemys_picta_bellii	TGFB3	ENSCPBG00000026269	Others	NA
+Chrysemys_picta_bellii	HDGF	ENSCPBG00000026294	Others	NA
+Chrysemys_picta_bellii	SNW1	ENSCPBG00000026329	Others	NA
+Chrysemys_picta_bellii	RAF1	ENSCPBG00000026352	Others	NA
+Chrysemys_picta_bellii	CREBBP	ENSCPBG00000026358	CREB	NA
+Chrysemys_picta_bellii	DNAJA3	ENSCPBG00000026383	Others	NA
+Chrysemys_picta_bellii	ANKRD1	ENSCPBG00000026520	Ankyrin repeat	NA
+Chrysemys_picta_bellii	PCGF5	ENSCPBG00000026522	PCGF	NA
+Chrysemys_picta_bellii	MCIDAS	ENSCPBG00000026558	Others	NA
+Chrysemys_picta_bellii	TDRD3	ENSCPBG00000026646	Others	NA
+Chrysemys_picta_bellii	ATXN7L3	ENSCPBG00000026701	Others	NA
+Chrysemys_picta_bellii	HDAC5	ENSCPBG00000026745	Histone deacetylase	NA
+Chrysemys_picta_bellii	ZMYND8	ENSCPBG00000026753	Zinc finger	NA
+Chrysemys_picta_bellii	EYA2	ENSCPBG00000026754	EYA	NA
+Chrysemys_picta_bellii	MYCBP2	ENSCPBG00000026790	MYC	NA
+Chrysemys_picta_bellii	ERBIN	ENSCPBG00000026859	Erbb2	NA
+Chrysemys_picta_bellii	PIK3R1	ENSCPBG00000026883	Others	NA
+Chrysemys_picta_bellii	TBL1XR1	ENSCPBG00000026909	Transducin	NA
+Chrysemys_picta_bellii	SETD6	ENSCPBG00000026911	SET	NA
+Chrysemys_picta_bellii	CSNK2A2	ENSCPBG00000026931	Casein	NA
+Chrysemys_picta_bellii	ACTL6A	ENSCPBG00000026932	Actin	NA
+Chrysemys_picta_bellii	NELFCD	ENSCPBG00000027003	GTF	NA
+Chrysemys_picta_bellii	WWP2	ENSCPBG00000027029	WW	NA
+Chrysemys_picta_bellii	TAF4	ENSCPBG00000027063	TATA-box	NA
+Chrysemys_picta_bellii	UTP4	ENSCPBG00000027064	Others	NA
+Chrysemys_picta_bellii	SS18L1	ENSCPBG00000027069	SS18	NA
+Chrysemys_picta_bellii	HYAL2	ENSCPBG00000027093	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000027153	TATA-box	NA
+Chrysemys_picta_bellii	MRGBP	ENSCPBG00000027159	Others	NA
+Chrysemys_picta_bellii	TNKS	ENSCPBG00000027190	Others	NA
+Chrysemys_picta_bellii	CHEK2	ENSCPBG00000027201	Others	NA
+Chrysemys_picta_bellii	KDM5A	ENSCPBG00000027323	Lysine demethylase	NA
+Chrysemys_picta_bellii	SKAP1	ENSCPBG00000027357	Others	NA
+Chrysemys_picta_bellii	SS18	ENSCPBG00000027374	SS18	NA
+Chrysemys_picta_bellii	CDK5RAP3	ENSCPBG00000027376	Cyclin	NA
+Chrysemys_picta_bellii	RPRD1B	ENSCPBG00000027402	Others	NA
+Chrysemys_picta_bellii	YAP1	ENSCPBG00000027430	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000027435	Others	NA
+Chrysemys_picta_bellii	ASXL1	ENSCPBG00000027473	Others	NA
+Chrysemys_picta_bellii	MLLT6	ENSCPBG00000027478	Others	NA
+Chrysemys_picta_bellii	PCGF2	ENSCPBG00000027485	PCGF	NA
+Chrysemys_picta_bellii	HCK	ENSCPBG00000027487	Others	NA
+Chrysemys_picta_bellii	NRG1	ENSCPBG00000027510	Others	NA
+Chrysemys_picta_bellii	SMARCA5	ENSCPBG00000027535	SWI/SNF	NA
+Chrysemys_picta_bellii	TRIB3	ENSCPBG00000027585	Others	NA
+Chrysemys_picta_bellii	MAML3	ENSCPBG00000027593	MAML	NA
+Chrysemys_picta_bellii	JMY	ENSCPBG00000027602	Others	NA
+Chrysemys_picta_bellii	NAA15	ENSCPBG00000027608	Others	NA
+Chrysemys_picta_bellii	MYBBP1A	ENSCPBG00000027701	MYB	NA
+Chrysemys_picta_bellii	ING4	ENSCPBG00000027709	ING	NA
+Chrysemys_picta_bellii	EMSY	ENSCPBG00000027714	Others	NA
+Chrysemys_picta_bellii		ENSCPBG00000027716	CHD	NA
+Chrysemys_picta_bellii	DHX33	ENSCPBG00000027741	RNA helicase	NA
+Chrysemys_picta_bellii	C1QBP	ENSCPBG00000027742	Others	NA
+Chrysemys_picta_bellii	MYOCD	ENSCPBG00000027766	Others	NA
+Chrysemys_picta_bellii	RSF1	ENSCPBG00000027792	Others	NA
+Chrysemys_picta_bellii	NUDT5	ENSCPBG00000027814	Other_CRF	NA
+Chrysemys_picta_bellii	TAF15	ENSCPBG00000027820	TATA-box	NA
+Chrysemys_picta_bellii	LEO1	ENSCPBG00000027858	Others	NA
+Chrysemys_picta_bellii	TRIM16	ENSCPBG00000027909	Tripartite motif	NA
+Chrysemys_picta_bellii		ENSCPBG00000027975	Others	NA
+Chrysemys_picta_bellii	JMJD6	ENSCPBG00000027978	Others	NA
+Chrysemys_picta_bellii	WBP2	ENSCPBG00000028044	WW	NA
+Chrysemys_picta_bellii	EDRF1	ENSCPBG00000028056	Others	NA
+Chrysemys_picta_bellii	SAP30BP	ENSCPBG00000028059	SAP	NA
+Chrysemys_picta_bellii	RECQL5	ENSCPBG00000028060	Others	NA
+Chrysemys_picta_bellii	SCAI	ENSCPBG00000028138	Others	NA
+Chrysemys_picta_bellii	TOB1	ENSCPBG00000028205	Others	NA
+Chrysemys_picta_bellii	CECR2	ENSCPBG00000028218	Other_CRF	NA
+Chrysemys_picta_bellii	STRAP	ENSCPBG00000028248	Others	NA
+Chrysemys_picta_bellii	VGLL3	ENSCPBG00000028325	Vestigial like	NA
+Chrysemys_picta_bellii	NRIP1	ENSCPBG00000028344	Nuclear receptor coactivator	NA
+Chrysemys_picta_bellii	CTNND2	ENSCPBG00000028369	Casein	NA
+Chrysemys_picta_bellii	CIDEA	ENSCPBG00000028393	Others	NA

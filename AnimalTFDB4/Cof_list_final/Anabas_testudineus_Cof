@@ -1,0 +1,775 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Anabas_testudineus	RPTOR	ENSATEG00000000099	Others	NA
+Anabas_testudineus		ENSATEG00000000185	Others	113160011
+Anabas_testudineus	WWOX	ENSATEG00000000197	WW	113165856
+Anabas_testudineus	ccnt2b	ENSATEG00000000262	Cyclin	113163868
+Anabas_testudineus	depdc1a	ENSATEG00000000365	Others	113152870
+Anabas_testudineus	hck	ENSATEG00000000402	Others	113167346
+Anabas_testudineus	suv39h1a	ENSATEG00000000404	Others	113167339
+Anabas_testudineus	arrb1	ENSATEG00000000418	Others	113149838
+Anabas_testudineus	erbb4b	ENSATEG00000000455	Erbb2	113172631
+Anabas_testudineus		ENSATEG00000000508	CAMK	NA
+Anabas_testudineus	ago2	ENSATEG00000000529	Others	NA
+Anabas_testudineus	PHF21B	ENSATEG00000000535	PHF	NA
+Anabas_testudineus	btk	ENSATEG00000000600	Others	113160266
+Anabas_testudineus	dot1l	ENSATEG00000000602	Others	113152091
+Anabas_testudineus	sav1	ENSATEG00000000628	Others	113148009
+Anabas_testudineus		ENSATEG00000000664	Chromodomain Y	113174379
+Anabas_testudineus	nrip1b	ENSATEG00000000676	Nuclear receptor coactivator	113170068
+Anabas_testudineus	med12	ENSATEG00000000732	Mediator complex	NA
+Anabas_testudineus		ENSATEG00000000784	Mediator complex	113160125
+Anabas_testudineus		ENSATEG00000000832	Others	113150379
+Anabas_testudineus		ENSATEG00000000839	CCR4-NOT	113170802
+Anabas_testudineus	chd3	ENSATEG00000000848	CHD	NA
+Anabas_testudineus	lpin2	ENSATEG00000001083	LPIN	NA
+Anabas_testudineus	malt1	ENSATEG00000001113	Others	113150794
+Anabas_testudineus	VGLL3	ENSATEG00000001127	Vestigial like	113172780
+Anabas_testudineus	cdk12	ENSATEG00000001138	Cyclin	113162234
+Anabas_testudineus		ENSATEG00000001207	Others	113156104
+Anabas_testudineus	adrb2a	ENSATEG00000001246	Others	113160555
+Anabas_testudineus		ENSATEG00000001259	Others	113157071
+Anabas_testudineus	ino80	ENSATEG00000001271	INO80 complex	113149185
+Anabas_testudineus	xrn2	ENSATEG00000001273	Others	113149368
+Anabas_testudineus	ell	ENSATEG00000001436	GTF	113152439
+Anabas_testudineus		ENSATEG00000001461	SLC	NA
+Anabas_testudineus	dscamb	ENSATEG00000001528	Others	113167862
+Anabas_testudineus	ssbp4	ENSATEG00000001551	Others	113152639
+Anabas_testudineus	CBX3	ENSATEG00000001629	Chromobox	NA
+Anabas_testudineus	tcea1	ENSATEG00000001644	TEF	113171570
+Anabas_testudineus	slc30a9	ENSATEG00000001679	SLC	113161056
+Anabas_testudineus	ccar1	ENSATEG00000001698	Others	NA
+Anabas_testudineus	cideb	ENSATEG00000001729	Others	NA
+Anabas_testudineus		ENSATEG00000001730	Others	113163331
+Anabas_testudineus		ENSATEG00000001736	Others	113167732
+Anabas_testudineus		ENSATEG00000001789	Transcriptional adaptor	113171371
+Anabas_testudineus	kat2a	ENSATEG00000001855	Lysine acetyltransferase	113162662
+Anabas_testudineus	ing3	ENSATEG00000001895	ING	113163418
+Anabas_testudineus	aurkb	ENSATEG00000001897	Others	113160079
+Anabas_testudineus		ENSATEG00000001924	Others	113157677
+Anabas_testudineus		ENSATEG00000001927	WD	113148145
+Anabas_testudineus	notch2	ENSATEG00000001997	Notch	113152933
+Anabas_testudineus	zmym2	ENSATEG00000002011	Zinc finger	113172933
+Anabas_testudineus		ENSATEG00000002049	Others	113166956
+Anabas_testudineus		ENSATEG00000002050	Others	113173766
+Anabas_testudineus	SMARCD3	ENSATEG00000002061	SWI/SNF	113164091
+Anabas_testudineus	men1	ENSATEG00000002073	Others	113157725
+Anabas_testudineus	lrrk2	ENSATEG00000002095	Other_CRF	NA
+Anabas_testudineus	MSL3	ENSATEG00000002120	Others	113164046
+Anabas_testudineus	nelfa	ENSATEG00000002162	GTF	113157379
+Anabas_testudineus	sirt5	ENSATEG00000002168	Sirtuin	113152122
+Anabas_testudineus		ENSATEG00000002200	RBBP	113154606
+Anabas_testudineus		ENSATEG00000002259	Nuclear coactivator	113174193
+Anabas_testudineus		ENSATEG00000002272	Mediator complex	113149468
+Anabas_testudineus	ino80c	ENSATEG00000002294	INO80 complex	113169114
+Anabas_testudineus	taf6l	ENSATEG00000002296	TATA-box	NA
+Anabas_testudineus	pa2g4a	ENSATEG00000002303	Others	113155336
+Anabas_testudineus	tnip1	ENSATEG00000002394	Others	113160237
+Anabas_testudineus	vhl	ENSATEG00000002425	Others	113155407
+Anabas_testudineus	chd7	ENSATEG00000002590	CHD	113171463
+Anabas_testudineus	cep290	ENSATEG00000002617	Others	NA
+Anabas_testudineus	supt5h	ENSATEG00000002626	SUPT	113168614
+Anabas_testudineus	ruvbl1	ENSATEG00000002676	Other_CRF	113154177
+Anabas_testudineus	chd9	ENSATEG00000002748	CHD	113174594
+Anabas_testudineus		ENSATEG00000002775	WW	113172219
+Anabas_testudineus	ino80b	ENSATEG00000002787	INO80 complex	113157369
+Anabas_testudineus		ENSATEG00000002831	Others	113151749
+Anabas_testudineus	tab1	ENSATEG00000002875	Others	113161573
+Anabas_testudineus	ccnc	ENSATEG00000002888	Cyclin	113149815
+Anabas_testudineus	supt20	ENSATEG00000002900	SUPT	113170123
+Anabas_testudineus		ENSATEG00000002962	Others	113162340
+Anabas_testudineus		ENSATEG00000002980	LIM	113154321
+Anabas_testudineus		ENSATEG00000003014	Histone deacetylase	113167271
+Anabas_testudineus	rfxap	ENSATEG00000003090	Others	113170200
+Anabas_testudineus	nod2	ENSATEG00000003122	Others	113174842
+Anabas_testudineus	csnk2a4	ENSATEG00000003130	Casein	113151756
+Anabas_testudineus	brd7	ENSATEG00000003146	Bromodomain	113174899
+Anabas_testudineus	mycbp	ENSATEG00000003298	MYC	113155325
+Anabas_testudineus	hif1an	ENSATEG00000003322	Others	113159600
+Anabas_testudineus	CTBP1	ENSATEG00000003381	Others	113160219
+Anabas_testudineus	suz12b	ENSATEG00000003420	Others	113161586
+Anabas_testudineus		ENSATEG00000003429	Mediator complex	113157271
+Anabas_testudineus	niban2a	ENSATEG00000003458	FAM	113148050
+Anabas_testudineus		ENSATEG00000003501	Chromobox	NA
+Anabas_testudineus	MED21	ENSATEG00000003529	Mediator complex	113163019
+Anabas_testudineus	gtf2e1	ENSATEG00000003558	GTF	113173078
+Anabas_testudineus	ss18l2	ENSATEG00000003608	SS18	113174544
+Anabas_testudineus		ENSATEG00000003630	Lysine demethylase	113154983
+Anabas_testudineus	auts2a	ENSATEG00000003637	Others	NA
+Anabas_testudineus	bcl10	ENSATEG00000003682	BCL	113171575
+Anabas_testudineus		ENSATEG00000003745	Others	113171000
+Anabas_testudineus	si:ch73-21k16.1	ENSATEG00000003757	LPIN	113149485
+Anabas_testudineus	sltm	ENSATEG00000003763	Others	113174266
+Anabas_testudineus	RNF111	ENSATEG00000003774	Ring finger protein	113174210
+Anabas_testudineus	med13a	ENSATEG00000003855	Mediator complex	113170676
+Anabas_testudineus	taf1b	ENSATEG00000003871	TATA-box	113148885
+Anabas_testudineus	ccnh	ENSATEG00000003872	Cyclin	113150449
+Anabas_testudineus	ehmt1b	ENSATEG00000003919	Histone lysine methyltransferase	113148064
+Anabas_testudineus	axin1	ENSATEG00000003936	Others	113162686
+Anabas_testudineus	ddx1	ENSATEG00000003965	RNA helicase	113149792
+Anabas_testudineus	egfra	ENSATEG00000003981	Others	NA
+Anabas_testudineus	trim8b	ENSATEG00000003986	Tripartite motif	113156213
+Anabas_testudineus	kdm8	ENSATEG00000004032	Lysine demethylase	113157206
+Anabas_testudineus	FLNB	ENSATEG00000004061	Others	113154305
+Anabas_testudineus		ENSATEG00000004175	Others	113167026
+Anabas_testudineus	wbp2	ENSATEG00000004186	WW	113156334
+Anabas_testudineus	hdac11	ENSATEG00000004276	Histone deacetylase	113151727
+Anabas_testudineus	si:ch211-130m23.3	ENSATEG00000004291	Others	113150721
+Anabas_testudineus	alyref	ENSATEG00000004307	Others	113159155
+Anabas_testudineus	brip1	ENSATEG00000004382	Others	NA
+Anabas_testudineus	ruvbl2	ENSATEG00000004385	Other_CRF	NA
+Anabas_testudineus	macroh2a2	ENSATEG00000004389	Others	113158990
+Anabas_testudineus	recql5	ENSATEG00000004392	Others	113158044
+Anabas_testudineus	siva1	ENSATEG00000004468	Others	113158146
+Anabas_testudineus		ENSATEG00000004510	Mediator complex	113169482
+Anabas_testudineus	bcas3	ENSATEG00000004566	Others	113167323
+Anabas_testudineus	nudt5	ENSATEG00000004572	Other_CRF	113164517
+Anabas_testudineus	SGK1	ENSATEG00000004646	Others	113149087
+Anabas_testudineus	ogt.1	ENSATEG00000004679	Others	113160069
+Anabas_testudineus	trim33	ENSATEG00000004717	Tripartite motif	NA
+Anabas_testudineus	tbpl1	ENSATEG00000004722	TATA-box	113149288
+Anabas_testudineus		ENSATEG00000004747	PHF	113169741
+Anabas_testudineus	eya4	ENSATEG00000004763	EYA	113149254
+Anabas_testudineus	tle5	ENSATEG00000004765	Others	113152567
+Anabas_testudineus	ACTN4	ENSATEG00000004780	Actin	113169391
+Anabas_testudineus		ENSATEG00000004809	Others	113162919
+Anabas_testudineus	ppid	ENSATEG00000004812	Others	113160450
+Anabas_testudineus	raly	ENSATEG00000004870	Others	NA
+Anabas_testudineus		ENSATEG00000004878	Others	113164700
+Anabas_testudineus	safb	ENSATEG00000004975	Others	113151969
+Anabas_testudineus		ENSATEG00000005019	RNA helicase	113170781
+Anabas_testudineus	trip13	ENSATEG00000005020	Thyroid hormone receptor	113170827
+Anabas_testudineus	rlim	ENSATEG00000005057	Ring finger protein	113160653
+Anabas_testudineus		ENSATEG00000005068	Others	113155042
+Anabas_testudineus	sap30bp	ENSATEG00000005071	SAP	113156304
+Anabas_testudineus	ldb2a	ENSATEG00000005156	LIM	NA
+Anabas_testudineus	ago3b	ENSATEG00000005160	Others	NA
+Anabas_testudineus	grip2b	ENSATEG00000005261	Others	113154885
+Anabas_testudineus	ercc2	ENSATEG00000005268	Others	113169100
+Anabas_testudineus	suds3	ENSATEG00000005288	Other_Co-activator/repressors	113151232
+Anabas_testudineus	supt4h1	ENSATEG00000005317	SUPT	113169061
+Anabas_testudineus	ash2l	ENSATEG00000005338	Others	113158785
+Anabas_testudineus		ENSATEG00000005392	Others	NA
+Anabas_testudineus	orc2	ENSATEG00000005434	Others	113171321
+Anabas_testudineus	cdk7	ENSATEG00000005439	Cyclin	113149925
+Anabas_testudineus	med14	ENSATEG00000005508	Mediator complex	NA
+Anabas_testudineus	PRPF6	ENSATEG00000005581	Others	113167693
+Anabas_testudineus	wnt3a	ENSATEG00000005584	Others	113171411
+Anabas_testudineus	UTP4	ENSATEG00000005607	Others	113165937
+Anabas_testudineus	chd6	ENSATEG00000005608	CHD	113154400
+Anabas_testudineus	FLII	ENSATEG00000005618	Others	NA
+Anabas_testudineus	spen	ENSATEG00000005627	Others	113168025
+Anabas_testudineus		ENSATEG00000005649	Others	113173028
+Anabas_testudineus		ENSATEG00000005652	CAMK	NA
+Anabas_testudineus		ENSATEG00000005667	Others	NA
+Anabas_testudineus		ENSATEG00000005670	Others	113151787
+Anabas_testudineus		ENSATEG00000005683	Others	113166866
+Anabas_testudineus		ENSATEG00000005700	WD	NA
+Anabas_testudineus		ENSATEG00000005718	RBBP	113158160
+Anabas_testudineus	baz1b	ENSATEG00000005729	Bromodomain	113168554
+Anabas_testudineus	arglu1a	ENSATEG00000005743	Others	113173032
+Anabas_testudineus	CCNA2	ENSATEG00000005793	Cyclin	113160820
+Anabas_testudineus		ENSATEG00000005833	Others	113158758
+Anabas_testudineus		ENSATEG00000005897	Other_Co-activator/repressors	113155017
+Anabas_testudineus		ENSATEG00000005909	Others	113149665
+Anabas_testudineus	lyn	ENSATEG00000005927	Others	NA
+Anabas_testudineus	SFR1	ENSATEG00000005966	Others	113158798
+Anabas_testudineus	cdk5	ENSATEG00000005993	Cyclin	113171751
+Anabas_testudineus	ctr9	ENSATEG00000006103	Others	113174106
+Anabas_testudineus	pcgf1	ENSATEG00000006177	PCGF	113160094
+Anabas_testudineus		ENSATEG00000006190	SAP	113164612
+Anabas_testudineus		ENSATEG00000006192	Others	113171744
+Anabas_testudineus	med20	ENSATEG00000006298	Mediator complex	113154255
+Anabas_testudineus		ENSATEG00000006342	Others	113151344
+Anabas_testudineus	nsd1a	ENSATEG00000006348	Nuclear receptor coactivator	113160454
+Anabas_testudineus	tasorb	ENSATEG00000006412	FAM	113167403
+Anabas_testudineus	blm	ENSATEG00000006421	Others	113166333
+Anabas_testudineus		ENSATEG00000006436	Others	NA
+Anabas_testudineus	meaf6	ENSATEG00000006466	Others	113154902
+Anabas_testudineus	fgf2	ENSATEG00000006480	FGF	113160280
+Anabas_testudineus		ENSATEG00000006538	Cyclin	113158026
+Anabas_testudineus		ENSATEG00000006544	Chromodomain Y	113163052
+Anabas_testudineus	kdm3b	ENSATEG00000006555	Lysine demethylase	113160271
+Anabas_testudineus	calr	ENSATEG00000006628	Others	NA
+Anabas_testudineus		ENSATEG00000006647	Mediator complex	NA
+Anabas_testudineus		ENSATEG00000006658	Lysine demethylase	113163874
+Anabas_testudineus	kank1a	ENSATEG00000006766	Others	113150895
+Anabas_testudineus		ENSATEG00000006782	Others	113167383
+Anabas_testudineus	smurf1	ENSATEG00000006799	Others	113155645
+Anabas_testudineus	BPTF	ENSATEG00000006805	Bromodomain	113161674
+Anabas_testudineus	wu:fj64h06	ENSATEG00000006899	TATA-box	113148322
+Anabas_testudineus		ENSATEG00000006911	Actin	113163856
+Anabas_testudineus	SMARCA2	ENSATEG00000006916	SWI/SNF	113150160
+Anabas_testudineus	supt6h	ENSATEG00000006950	SUPT	113169376
+Anabas_testudineus	NOL11	ENSATEG00000006971	Nuclear coactivator	113161684
+Anabas_testudineus	pycard	ENSATEG00000007006	Others	113170255
+Anabas_testudineus		ENSATEG00000007014	Others	113148068
+Anabas_testudineus		ENSATEG00000007028	PCGF	113160473
+Anabas_testudineus	wwp2	ENSATEG00000007033	WW	113165473
+Anabas_testudineus	hnrnpd	ENSATEG00000007097	HNRNP	113158310
+Anabas_testudineus		ENSATEG00000007101	RNA helicase	113171696
+Anabas_testudineus	chd8	ENSATEG00000007108	CHD	113171501
+Anabas_testudineus	xrcc6	ENSATEG00000007119	Others	113155845
+Anabas_testudineus	bud31	ENSATEG00000007134	Others	113152827
+Anabas_testudineus		ENSATEG00000007178	ELP	NA
+Anabas_testudineus	prmt7	ENSATEG00000007180	Arginine methyltransferase	113166194
+Anabas_testudineus	lmo1	ENSATEG00000007205	LIM	113174040
+Anabas_testudineus		ENSATEG00000007209	Others	NA
+Anabas_testudineus	ssu72	ENSATEG00000007265	Others	113154256
+Anabas_testudineus	srfbp1	ENSATEG00000007289	Others	113154693
+Anabas_testudineus	mycbp2	ENSATEG00000007297	MYC	NA
+Anabas_testudineus	abrab	ENSATEG00000007321	Actin	NA
+Anabas_testudineus	ice2	ENSATEG00000007326	GTF	113166269
+Anabas_testudineus	lin54	ENSATEG00000007360	Others	113159569
+Anabas_testudineus	brd1a	ENSATEG00000007371	Bromodomain	113162893
+Anabas_testudineus	med30	ENSATEG00000007379	Mediator complex	113153378
+Anabas_testudineus	hdac1	ENSATEG00000007393	Histone deacetylase	113154291
+Anabas_testudineus	ppie	ENSATEG00000007395	Others	113159236
+Anabas_testudineus		ENSATEG00000007428	Other_CRF	113166881
+Anabas_testudineus		ENSATEG00000007436	Others	113166791
+Anabas_testudineus	phf5a	ENSATEG00000007455	PHF	113156478
+Anabas_testudineus		ENSATEG00000007456	Others	NA
+Anabas_testudineus	RAD21	ENSATEG00000007463	Others	113153203
+Anabas_testudineus	rbm39b	ENSATEG00000007482	RNA binding protein	113167482
+Anabas_testudineus	EDRF1	ENSATEG00000007531	Others	NA
+Anabas_testudineus		ENSATEG00000007544	Others	113160467
+Anabas_testudineus	rbx1	ENSATEG00000007548	Others	113152874
+Anabas_testudineus		ENSATEG00000007576	ASCC	113149947
+Anabas_testudineus		ENSATEG00000007615	Cyclin	113148089
+Anabas_testudineus		ENSATEG00000007648	Others	113159653
+Anabas_testudineus	ctdp1	ENSATEG00000007811	Others	113154271
+Anabas_testudineus	rrn3	ENSATEG00000007831	Others	113160724
+Anabas_testudineus		ENSATEG00000007862	CCR4-NOT	113160426
+Anabas_testudineus		ENSATEG00000007963	Other_Co-activator/repressors	113172897
+Anabas_testudineus		ENSATEG00000007972	Others	113154257
+Anabas_testudineus	cdk5r1b	ENSATEG00000007987	Cyclin	113156011
+Anabas_testudineus		ENSATEG00000008031	Others	113171701
+Anabas_testudineus		ENSATEG00000008046	Transducin	113152616
+Anabas_testudineus		ENSATEG00000008082	ACTR	113167841
+Anabas_testudineus		ENSATEG00000008107	Others	113158011
+Anabas_testudineus		ENSATEG00000008120	Others	113159080
+Anabas_testudineus	prdx5	ENSATEG00000008228	Others	113168798
+Anabas_testudineus	prmt5	ENSATEG00000008281	Arginine methyltransferase	113172492
+Anabas_testudineus	cdk5rap3	ENSATEG00000008382	Cyclin	113156283
+Anabas_testudineus		ENSATEG00000008440	NFKB associated	113168820
+Anabas_testudineus	skap1	ENSATEG00000008510	Others	113156284
+Anabas_testudineus	prmt1	ENSATEG00000008515	Arginine methyltransferase	113160095
+Anabas_testudineus		ENSATEG00000008548	Others	113152144
+Anabas_testudineus		ENSATEG00000008636	Mediator complex	113150949
+Anabas_testudineus	ccne1	ENSATEG00000008726	Cyclin	NA
+Anabas_testudineus	pdcd4b	ENSATEG00000008734	Others	NA
+Anabas_testudineus		ENSATEG00000008746	RNA helicase	NA
+Anabas_testudineus	cnot6l	ENSATEG00000008774	CCR4-NOT	NA
+Anabas_testudineus	FAM83G	ENSATEG00000008825	FAM	113161655
+Anabas_testudineus		ENSATEG00000008849	Others	NA
+Anabas_testudineus		ENSATEG00000008952	Others	NA
+Anabas_testudineus		ENSATEG00000008974	Others	NA
+Anabas_testudineus	ash1l	ENSATEG00000009017	Others	113154072
+Anabas_testudineus	kmt2bb	ENSATEG00000009099	Lysine methyltransferase	NA
+Anabas_testudineus	dmap1	ENSATEG00000009145	DNA_methylase	113152184
+Anabas_testudineus	pnrc2	ENSATEG00000009149	Others	113169522
+Anabas_testudineus	CNOT9	ENSATEG00000009188	CCR4-NOT	113172997
+Anabas_testudineus	actn2b	ENSATEG00000009199	Actin	NA
+Anabas_testudineus		ENSATEG00000009216	Casein	NA
+Anabas_testudineus	fhl3a	ENSATEG00000009266	FHL	113170235
+Anabas_testudineus	PIK3R1	ENSATEG00000009334	Others	NA
+Anabas_testudineus	ecd	ENSATEG00000009336	Others	113159634
+Anabas_testudineus	nelfb	ENSATEG00000009371	GTF	NA
+Anabas_testudineus	tab3	ENSATEG00000009378	Others	113152174
+Anabas_testudineus	FHL2	ENSATEG00000009384	FHL	113173752
+Anabas_testudineus	nck2a	ENSATEG00000009402	Others	113172747
+Anabas_testudineus	mrtfba	ENSATEG00000009415	Others	113156319
+Anabas_testudineus	tgfbr3	ENSATEG00000009451	Others	113152078
+Anabas_testudineus		ENSATEG00000009455	Others	113156776
+Anabas_testudineus	erbin	ENSATEG00000009494	Erbb2	113158042
+Anabas_testudineus	pbxip1a	ENSATEG00000009526	Others	NA
+Anabas_testudineus	s100s	ENSATEG00000009549	Others	113155022
+Anabas_testudineus	bcl9l	ENSATEG00000009628	BCL	113167243
+Anabas_testudineus	HYAL2	ENSATEG00000009639	Others	113155059
+Anabas_testudineus	cxxc1b	ENSATEG00000009642	Others	113153108
+Anabas_testudineus	fbxw11a	ENSATEG00000009654	Others	113160504
+Anabas_testudineus		ENSATEG00000009706	Others	113162679
+Anabas_testudineus	SS18	ENSATEG00000009718	SS18	113171794
+Anabas_testudineus	snapc5	ENSATEG00000009776	Others	113165509
+Anabas_testudineus		ENSATEG00000009810	Others	NA
+Anabas_testudineus		ENSATEG00000009848	Others	113162655
+Anabas_testudineus	actl6a	ENSATEG00000009849	Actin	113152189
+Anabas_testudineus		ENSATEG00000009890	Cyclin	113174680
+Anabas_testudineus	skor1b	ENSATEG00000009950	SKI	NA
+Anabas_testudineus		ENSATEG00000009959	Others	113160412
+Anabas_testudineus	morf4l1	ENSATEG00000009987	Other_CRF	113165842
+Anabas_testudineus	dab2	ENSATEG00000009992	Others	113158889
+Anabas_testudineus		ENSATEG00000010039	Others	113159921
+Anabas_testudineus		ENSATEG00000010138	Others	113148329
+Anabas_testudineus		ENSATEG00000010139	Others	NA
+Anabas_testudineus		ENSATEG00000010158	MAML	113174188
+Anabas_testudineus	tnni2a.1	ENSATEG00000010223	Others	113165179
+Anabas_testudineus	trim16	ENSATEG00000010318	Tripartite motif	113156530
+Anabas_testudineus	bend3	ENSATEG00000010382	Others	113159087
+Anabas_testudineus	cdk8	ENSATEG00000010432	Cyclin	NA
+Anabas_testudineus		ENSATEG00000010438	Others	113159135
+Anabas_testudineus	ddx5	ENSATEG00000010482	RNA helicase	113160382
+Anabas_testudineus		ENSATEG00000010494	Others	NA
+Anabas_testudineus	btaf1	ENSATEG00000010510	Others	113158682
+Anabas_testudineus	smurf2	ENSATEG00000010531	Others	113163660
+Anabas_testudineus	lin9	ENSATEG00000010544	Others	113149869
+Anabas_testudineus		ENSATEG00000010554	Others	113148503
+Anabas_testudineus	LRPPRC	ENSATEG00000010555	Others	113159895
+Anabas_testudineus		ENSATEG00000010577	Others	NA
+Anabas_testudineus		ENSATEG00000010604	Others	NA
+Anabas_testudineus	btf3	ENSATEG00000010619	Others	113159753
+Anabas_testudineus	syk	ENSATEG00000010626	Others	113148121
+Anabas_testudineus	ankra2	ENSATEG00000010640	Ankyrin repeat	113158063
+Anabas_testudineus	CHCHD2	ENSATEG00000010671	Coiled-coil	113164442
+Anabas_testudineus		ENSATEG00000010676	CHD	113147916
+Anabas_testudineus	ASF1B	ENSATEG00000010721	Others	113161355
+Anabas_testudineus	si:ch211-219a4.3	ENSATEG00000010770	PARP	113173268
+Anabas_testudineus	pidd1	ENSATEG00000010786	Others	113166236
+Anabas_testudineus	sap130a	ENSATEG00000010816	SAP	113152566
+Anabas_testudineus	RNF14	ENSATEG00000010831	Ring finger protein	113170840
+Anabas_testudineus		ENSATEG00000010851	Lysine methyltransferase	113171522
+Anabas_testudineus	MED28	ENSATEG00000010872	Mediator complex	113162125
+Anabas_testudineus	supt7l	ENSATEG00000010956	SUPT	113159915
+Anabas_testudineus	CBL	ENSATEG00000011039	Others	113174966
+Anabas_testudineus		ENSATEG00000011113	ACTR	113166707
+Anabas_testudineus	epc2	ENSATEG00000011123	Others	113173107
+Anabas_testudineus		ENSATEG00000011145	Others	113160286
+Anabas_testudineus	gtf2h1	ENSATEG00000011162	GTF	NA
+Anabas_testudineus		ENSATEG00000011165	Others	113149429
+Anabas_testudineus	gtf2h2	ENSATEG00000011243	GTF	113151315
+Anabas_testudineus	bcl3	ENSATEG00000011363	BCL	113168989
+Anabas_testudineus	med31	ENSATEG00000011505	Mediator complex	113160364
+Anabas_testudineus	hdac4	ENSATEG00000011516	Histone deacetylase	113173191
+Anabas_testudineus	smarca4a	ENSATEG00000011524	SWI/SNF	113154173
+Anabas_testudineus	CTH	ENSATEG00000011560	Others	NA
+Anabas_testudineus	brwd3	ENSATEG00000011566	Bromodomain	113170063
+Anabas_testudineus	hdac5	ENSATEG00000011624	Histone deacetylase	113153287
+Anabas_testudineus		ENSATEG00000011644	Mediator complex	113166210
+Anabas_testudineus	pdlim1	ENSATEG00000011713	Others	113158298
+Anabas_testudineus	zgc:55733	ENSATEG00000011734	HNRNP	113157493
+Anabas_testudineus	fbxw7	ENSATEG00000011772	Others	113162110
+Anabas_testudineus	kdm1a	ENSATEG00000011825	Lysine demethylase	113147912
+Anabas_testudineus	pcbd1	ENSATEG00000011895	Others	NA
+Anabas_testudineus	cops5	ENSATEG00000011952	Others	NA
+Anabas_testudineus	gsk3ba	ENSATEG00000011968	Others	113172685
+Anabas_testudineus		ENSATEG00000012001	Others	113167835
+Anabas_testudineus	trrap	ENSATEG00000012056	Others	113156032
+Anabas_testudineus	FRK	ENSATEG00000012166	Others	113148923
+Anabas_testudineus	BCL9	ENSATEG00000012242	BCL	113173092
+Anabas_testudineus	plk3	ENSATEG00000012246	Others	113172214
+Anabas_testudineus	pih1d1	ENSATEG00000012265	Other_CRF	113153665
+Anabas_testudineus	chaf1b	ENSATEG00000012270	Others	113173158
+Anabas_testudineus		ENSATEG00000012335	GTF	113150038
+Anabas_testudineus	ddx39b	ENSATEG00000012366	RNA helicase	113153730
+Anabas_testudineus	ZMYND11	ENSATEG00000012396	Zinc finger	NA
+Anabas_testudineus	gtf2h4	ENSATEG00000012410	GTF	113154418
+Anabas_testudineus		ENSATEG00000012437	Others	113160324
+Anabas_testudineus	si:dkey-6i22.5	ENSATEG00000012448	Others	113160677
+Anabas_testudineus	supt16h	ENSATEG00000012451	SUPT	113157665
+Anabas_testudineus		ENSATEG00000012468	TATA-box	113166786
+Anabas_testudineus	med19a	ENSATEG00000012470	Mediator complex	113160016
+Anabas_testudineus		ENSATEG00000012475	Sirtuin	NA
+Anabas_testudineus		ENSATEG00000012494	Others	NA
+Anabas_testudineus	loxl2b	ENSATEG00000012506	Others	113151110
+Anabas_testudineus		ENSATEG00000012513	Others	113164685
+Anabas_testudineus		ENSATEG00000012536	TATA-box	113160340
+Anabas_testudineus	ncoa2	ENSATEG00000012704	Nuclear receptor coactivator	113163234
+Anabas_testudineus	arhgap35a	ENSATEG00000012799	Others	113164878
+Anabas_testudineus		ENSATEG00000012802	Others	113174851
+Anabas_testudineus		ENSATEG00000012847	SET	NA
+Anabas_testudineus	nab1a	ENSATEG00000012852	Others	113164358
+Anabas_testudineus		ENSATEG00000012892	CCR4-NOT	113165229
+Anabas_testudineus		ENSATEG00000012894	SWI/SNF	113161988
+Anabas_testudineus	C1D	ENSATEG00000012922	Other_Co-activator/repressors	113159946
+Anabas_testudineus	eya1	ENSATEG00000012943	EYA	113163922
+Anabas_testudineus	ran	ENSATEG00000013025	Others	113161130
+Anabas_testudineus		ENSATEG00000013035	Others	113148761
+Anabas_testudineus	kdm2ab	ENSATEG00000013040	Lysine demethylase	113160013
+Anabas_testudineus	tbl1x	ENSATEG00000013047	Transducin	113172886
+Anabas_testudineus	chd1l	ENSATEG00000013058	CHD	113152887
+Anabas_testudineus	RING1	ENSATEG00000013116	Ring finger protein	113155217
+Anabas_testudineus	actr6	ENSATEG00000013224	ACTR	113165439
+Anabas_testudineus	PELI1	ENSATEG00000013249	Others	113159086
+Anabas_testudineus	heatr1	ENSATEG00000013260	Others	113155826
+Anabas_testudineus	stk3	ENSATEG00000013271	Others	113154195
+Anabas_testudineus	ncl	ENSATEG00000013343	Others	113152610
+Anabas_testudineus		ENSATEG00000013379	TATA-box	NA
+Anabas_testudineus		ENSATEG00000013380	Others	113173640
+Anabas_testudineus	phf21ab	ENSATEG00000013406	PHF	113166384
+Anabas_testudineus	PCBD2	ENSATEG00000013412	Others	113170880
+Anabas_testudineus		ENSATEG00000013423	Others	113156412
+Anabas_testudineus		ENSATEG00000013505	Others	113154761
+Anabas_testudineus	birc5a	ENSATEG00000013549	Others	113156417
+Anabas_testudineus	FGFR2	ENSATEG00000013574	FGF	NA
+Anabas_testudineus		ENSATEG00000013578	Others	113160034
+Anabas_testudineus		ENSATEG00000013597	Other_Co-activator/repressors	113169810
+Anabas_testudineus		ENSATEG00000013629	Notch	113158694
+Anabas_testudineus	setd3	ENSATEG00000013687	SET	NA
+Anabas_testudineus	yeats2	ENSATEG00000013697	Others	113172126
+Anabas_testudineus	SAP30L	ENSATEG00000013731	SAP	113169733
+Anabas_testudineus		ENSATEG00000013748	Others	NA
+Anabas_testudineus	rbl2	ENSATEG00000013794	Other_Co-activator/repressors	113165496
+Anabas_testudineus	CNOT8	ENSATEG00000013857	CCR4-NOT	113169553
+Anabas_testudineus	GMNN	ENSATEG00000013921	Others	113153293
+Anabas_testudineus	tdp2b	ENSATEG00000013969	Others	113153347
+Anabas_testudineus	hdac8	ENSATEG00000014067	Histone deacetylase	113157517
+Anabas_testudineus	wwc1	ENSATEG00000014070	WW	113169339
+Anabas_testudineus		ENSATEG00000014082	Others	113171484
+Anabas_testudineus		ENSATEG00000014092	Others	113147892
+Anabas_testudineus	lrrc14b	ENSATEG00000014094	Others	113154641
+Anabas_testudineus		ENSATEG00000014143	Others	NA
+Anabas_testudineus	fhod1	ENSATEG00000014220	Others	113174901
+Anabas_testudineus	nipbla	ENSATEG00000014308	Others	NA
+Anabas_testudineus	kdm4b	ENSATEG00000014343	Lysine demethylase	113152509
+Anabas_testudineus	hnrpkl	ENSATEG00000014412	HNRNP	113158938
+Anabas_testudineus	anp32b	ENSATEG00000014479	ANP	NA
+Anabas_testudineus	snx6	ENSATEG00000014485	Others	NA
+Anabas_testudineus	TDRD3	ENSATEG00000014570	Others	113174786
+Anabas_testudineus		ENSATEG00000014611	Zinc finger	113151356
+Anabas_testudineus	trib1	ENSATEG00000014664	Others	113154442
+Anabas_testudineus	egln1a	ENSATEG00000014683	Others	113158367
+Anabas_testudineus	runx1t1	ENSATEG00000014697	Others	113155074
+Anabas_testudineus		ENSATEG00000014714	CCR4-NOT	113173552
+Anabas_testudineus	med24	ENSATEG00000014727	Mediator complex	113156481
+Anabas_testudineus	KAT2B	ENSATEG00000014763	Lysine acetyltransferase	113154468
+Anabas_testudineus	ino80da	ENSATEG00000014792	INO80 complex	113172913
+Anabas_testudineus	hcfc1a	ENSATEG00000014798	Others	113153650
+Anabas_testudineus	MED4	ENSATEG00000014823	Mediator complex	113173536
+Anabas_testudineus	GTF2A2	ENSATEG00000014849	GTF	113174391
+Anabas_testudineus		ENSATEG00000014860	Others	113174204
+Anabas_testudineus	rap2c	ENSATEG00000014898	Others	113160544
+Anabas_testudineus	kat6a	ENSATEG00000014921	Lysine acetyltransferase	113150186
+Anabas_testudineus	NDUFA13	ENSATEG00000014957	Others	113172525
+Anabas_testudineus	slc25a15b	ENSATEG00000014990	SLC	113170064
+Anabas_testudineus		ENSATEG00000015060	Transducin	113150743
+Anabas_testudineus	top1l	ENSATEG00000015061	Other_CRF	NA
+Anabas_testudineus	bmi1a	ENSATEG00000015086	Others	113163872
+Anabas_testudineus	ccdc85b	ENSATEG00000015105	Coiled-coil	NA
+Anabas_testudineus		ENSATEG00000015171	Others	113153697
+Anabas_testudineus	taf6	ENSATEG00000015274	TATA-box	113170556
+Anabas_testudineus	DHX36	ENSATEG00000015441	RNA helicase	113174543
+Anabas_testudineus	raf1a	ENSATEG00000015487	Others	113167980
+Anabas_testudineus	polr3f	ENSATEG00000015539	POLR	113161634
+Anabas_testudineus	med27	ENSATEG00000015558	Mediator complex	113170969
+Anabas_testudineus	mnat1	ENSATEG00000015597	Others	113148301
+Anabas_testudineus	rgcc	ENSATEG00000015656	Others	113172607
+Anabas_testudineus	lmo2	ENSATEG00000015698	LIM	NA
+Anabas_testudineus	CIR1	ENSATEG00000015707	Other_Co-activator/repressors	NA
+Anabas_testudineus		ENSATEG00000015730	Bromodomain	NA
+Anabas_testudineus		ENSATEG00000015735	Others	113161647
+Anabas_testudineus	STRN	ENSATEG00000015765	Others	113158754
+Anabas_testudineus	elp3	ENSATEG00000015813	ELP	NA
+Anabas_testudineus		ENSATEG00000015835	Others	113151165
+Anabas_testudineus		ENSATEG00000015870	Sirtuin	113172410
+Anabas_testudineus	TAF4	ENSATEG00000015915	TATA-box	113167866
+Anabas_testudineus	phf20a	ENSATEG00000015958	PHF	113154407
+Anabas_testudineus		ENSATEG00000015987	Others	NA
+Anabas_testudineus		ENSATEG00000016047	Lysine acetyltransferase	113170421
+Anabas_testudineus	pir	ENSATEG00000016072	Others	NA
+Anabas_testudineus	HAT1	ENSATEG00000016131	Others	113173575
+Anabas_testudineus	brf2	ENSATEG00000016133	GTF	113148134
+Anabas_testudineus	toporsa	ENSATEG00000016155	Others	113162523
+Anabas_testudineus		ENSATEG00000016162	Others	NA
+Anabas_testudineus	anxa4	ENSATEG00000016173	Others	113147935
+Anabas_testudineus	dpf2	ENSATEG00000016175	DPF	113170148
+Anabas_testudineus	hnrnpub	ENSATEG00000016178	HNRNP	113149158
+Anabas_testudineus	tnksb	ENSATEG00000016200	Others	113150299
+Anabas_testudineus		ENSATEG00000016250	Zinc finger	113167233
+Anabas_testudineus	setd7	ENSATEG00000016254	SET	113161005
+Anabas_testudineus	eapp	ENSATEG00000016262	Others	113147792
+Anabas_testudineus	kdm6a	ENSATEG00000016273	Lysine demethylase	113172961
+Anabas_testudineus	ncoa3	ENSATEG00000016287	Nuclear receptor coactivator	113154657
+Anabas_testudineus	esf1	ENSATEG00000016321	Others	113161611
+Anabas_testudineus		ENSATEG00000016428	CHD	113154010
+Anabas_testudineus	arhgap5	ENSATEG00000016540	Others	113147917
+Anabas_testudineus	hspa8	ENSATEG00000016584	Heat shock protein	113171045
+Anabas_testudineus		ENSATEG00000016638	Ring finger protein	113150649
+Anabas_testudineus	ppargc1a	ENSATEG00000016702	Others	113157179
+Anabas_testudineus		ENSATEG00000016724	Transcriptional adaptor	113153227
+Anabas_testudineus	elp2	ENSATEG00000016754	ELP	NA
+Anabas_testudineus		ENSATEG00000016817	SUPT	113159131
+Anabas_testudineus		ENSATEG00000016832	Other_CRF	113165484
+Anabas_testudineus	ezrb	ENSATEG00000016839	Others	NA
+Anabas_testudineus		ENSATEG00000016920	PHF	113151200
+Anabas_testudineus		ENSATEG00000017067	GTF	113148314
+Anabas_testudineus	taf1a	ENSATEG00000017068	TATA-box	113149387
+Anabas_testudineus		ENSATEG00000017121	Others	113159742
+Anabas_testudineus	rnf8	ENSATEG00000017178	Ring finger protein	113149787
+Anabas_testudineus		ENSATEG00000017216	TATA-box	113166135
+Anabas_testudineus	kdm6ba	ENSATEG00000017218	Lysine demethylase	113157220
+Anabas_testudineus	nfkbiaa	ENSATEG00000017239	NFKB associated	113149407
+Anabas_testudineus	JMJD6	ENSATEG00000017255	Others	113159023
+Anabas_testudineus	brms1lb	ENSATEG00000017260	Other_CRF	NA
+Anabas_testudineus		ENSATEG00000017300	Others	NA
+Anabas_testudineus		ENSATEG00000017351	EID	113158092
+Anabas_testudineus	rbmx	ENSATEG00000017363	RNA binding protein	113160753
+Anabas_testudineus		ENSATEG00000017381	Others	113171795
+Anabas_testudineus	gtf2a1	ENSATEG00000017401	GTF	113149484
+Anabas_testudineus	pex14	ENSATEG00000017412	Others	113167273
+Anabas_testudineus		ENSATEG00000017435	Arginine methyltransferase	113166060
+Anabas_testudineus	SFMBT1	ENSATEG00000017482	Others	113153627
+Anabas_testudineus	TRIM32	ENSATEG00000017502	Tripartite motif	113159660
+Anabas_testudineus	snw1	ENSATEG00000017554	Others	113149701
+Anabas_testudineus		ENSATEG00000017662	Others	113156867
+Anabas_testudineus		ENSATEG00000017717	Others	NA
+Anabas_testudineus	taf7	ENSATEG00000017767	TATA-box	113160414
+Anabas_testudineus		ENSATEG00000017795	Others	NA
+Anabas_testudineus	tp53bp1	ENSATEG00000017815	Others	113174146
+Anabas_testudineus	hipk2	ENSATEG00000017882	HIPK	113165356
+Anabas_testudineus	smyd1b	ENSATEG00000017916	SMYD	113150850
+Anabas_testudineus	phip	ENSATEG00000017973	Others	NA
+Anabas_testudineus	jade1	ENSATEG00000017984	Others	113148147
+Anabas_testudineus		ENSATEG00000017988	ANP	NA
+Anabas_testudineus	ccdc59	ENSATEG00000017992	Coiled-coil	113162963
+Anabas_testudineus	pik3r2	ENSATEG00000018016	Others	113171793
+Anabas_testudineus	mllt1a	ENSATEG00000018031	GTF	NA
+Anabas_testudineus	nsd2	ENSATEG00000018035	Nuclear receptor coactivator	113148565
+Anabas_testudineus	lancl2	ENSATEG00000018038	Others	NA
+Anabas_testudineus	ctnnbip1	ENSATEG00000018102	Casein	113167648
+Anabas_testudineus		ENSATEG00000018140	Mediator complex	113172359
+Anabas_testudineus		ENSATEG00000018184	RNA binding protein	113157309
+Anabas_testudineus	COPS2	ENSATEG00000018268	Others	113174144
+Anabas_testudineus		ENSATEG00000018340	Others	NA
+Anabas_testudineus	tprb	ENSATEG00000018375	Others	NA
+Anabas_testudineus	noc2l	ENSATEG00000018407	Others	113167367
+Anabas_testudineus	MED13L	ENSATEG00000018446	Mediator complex	113158571
+Anabas_testudineus		ENSATEG00000018465	SLC	113164555
+Anabas_testudineus	snd1	ENSATEG00000018475	Others	113164858
+Anabas_testudineus	ddx54	ENSATEG00000018529	RNA helicase	113159712
+Anabas_testudineus	eno1a	ENSATEG00000018538	Others	113167611
+Anabas_testudineus	abl1	ENSATEG00000018625	Others	113158716
+Anabas_testudineus	cnot2	ENSATEG00000018641	CCR4-NOT	NA
+Anabas_testudineus		ENSATEG00000018729	Others	NA
+Anabas_testudineus	loxl3b	ENSATEG00000018763	Others	113148579
+Anabas_testudineus		ENSATEG00000018798	Others	113160656
+Anabas_testudineus	TLE3	ENSATEG00000018867	Transducin	NA
+Anabas_testudineus	ankrd1a	ENSATEG00000018886	Ankyrin repeat	113158258
+Anabas_testudineus	pcgf5a	ENSATEG00000018898	PCGF	113158702
+Anabas_testudineus		ENSATEG00000018912	CAMK	113173633
+Anabas_testudineus	mtf2	ENSATEG00000018961	Others	113171654
+Anabas_testudineus		ENSATEG00000018998	Others	NA
+Anabas_testudineus	MAK	ENSATEG00000019038	Others	113171835
+Anabas_testudineus	rpap2	ENSATEG00000019045	Others	113172412
+Anabas_testudineus	nif3l1	ENSATEG00000019091	Others	113155844
+Anabas_testudineus	anp32a	ENSATEG00000019093	ANP	113174326
+Anabas_testudineus	hdac10	ENSATEG00000019120	Histone deacetylase	113165226
+Anabas_testudineus	cnot7	ENSATEG00000019136	CCR4-NOT	113161066
+Anabas_testudineus	pagr1	ENSATEG00000019256	Others	113156572
+Anabas_testudineus	rnf25	ENSATEG00000019277	Ring finger protein	NA
+Anabas_testudineus	kat8	ENSATEG00000019285	Lysine acetyltransferase	NA
+Anabas_testudineus	gtf2b	ENSATEG00000019309	GTF	113171840
+Anabas_testudineus	rbm15	ENSATEG00000019337	RNA binding protein	113168022
+Anabas_testudineus	frzb	ENSATEG00000019360	Others	113173762
+Anabas_testudineus	SQSTM1	ENSATEG00000019417	Others	113150724
+Anabas_testudineus	GPS2	ENSATEG00000019429	Others	113157457
+Anabas_testudineus	trip4	ENSATEG00000019577	Thyroid hormone receptor	113174888
+Anabas_testudineus		ENSATEG00000019594	CREB	113169217
+Anabas_testudineus		ENSATEG00000019609	Others	113156708
+Anabas_testudineus	polr2a	ENSATEG00000019644	POLR	113157222
+Anabas_testudineus		ENSATEG00000019652	Histone deacetylase	113167223
+Anabas_testudineus	TAF11	ENSATEG00000019727	TATA-box	113167065
+Anabas_testudineus	cdkn1bb	ENSATEG00000019763	Cyclin	113165996
+Anabas_testudineus	cxxc5a	ENSATEG00000019780	Others	NA
+Anabas_testudineus	SIRT7	ENSATEG00000019785	Sirtuin	113161421
+Anabas_testudineus		ENSATEG00000019789	Others	113160257
+Anabas_testudineus	erbb2	ENSATEG00000019808	Erbb2	113156110
+Anabas_testudineus	nrg2a	ENSATEG00000019816	Others	NA
+Anabas_testudineus	SUMO3	ENSATEG00000019871	Others	NA
+Anabas_testudineus	picalmb	ENSATEG00000019893	Others	113169286
+Anabas_testudineus		ENSATEG00000019904	Others	113148387
+Anabas_testudineus	tsg101a	ENSATEG00000019953	Others	113166202
+Anabas_testudineus	drap1	ENSATEG00000020031	Others	113157315
+Anabas_testudineus		ENSATEG00000020041	Others	113151142
+Anabas_testudineus		ENSATEG00000020103	Thyroid hormone receptor	113157531
+Anabas_testudineus	tescb	ENSATEG00000020129	Others	113158216
+Anabas_testudineus	ldb1b	ENSATEG00000020230	LIM	113161252
+Anabas_testudineus	si:dkey-85a20.4	ENSATEG00000020266	Others	113159763
+Anabas_testudineus	xiap	ENSATEG00000020276	Others	NA
+Anabas_testudineus	ripk2	ENSATEG00000020286	Others	113171901
+Anabas_testudineus		ENSATEG00000020304	SMYD	113174847
+Anabas_testudineus	ino80e	ENSATEG00000020318	INO80 complex	113169314
+Anabas_testudineus	kmt2e	ENSATEG00000020339	Lysine methyltransferase	NA
+Anabas_testudineus	TFB2M	ENSATEG00000020372	Others	113174319
+Anabas_testudineus	jupa	ENSATEG00000020387	Others	NA
+Anabas_testudineus		ENSATEG00000020515	Lysine demethylase	113163895
+Anabas_testudineus		ENSATEG00000020732	SMYD	NA
+Anabas_testudineus		ENSATEG00000020778	PHF	113174514
+Anabas_testudineus	smarcd2	ENSATEG00000020779	SWI/SNF	NA
+Anabas_testudineus	EAF1	ENSATEG00000020825	Others	113169421
+Anabas_testudineus	ikbkb	ENSATEG00000020886	Others	113150342
+Anabas_testudineus	znf451	ENSATEG00000020974	Zinc finger	113158291
+Anabas_testudineus	mtpn	ENSATEG00000020989	Others	113163936
+Anabas_testudineus	trip11	ENSATEG00000021011	Thyroid hormone receptor	113147958
+Anabas_testudineus	taf5	ENSATEG00000021013	TATA-box	113162462
+Anabas_testudineus	tbp	ENSATEG00000021026	TATA-box	NA
+Anabas_testudineus		ENSATEG00000021066	Others	113167950
+Anabas_testudineus	sin3aa	ENSATEG00000021070	Other_CRF	113165585
+Anabas_testudineus		ENSATEG00000021092	Others	113150350
+Anabas_testudineus	rtf1	ENSATEG00000021105	Others	113147991
+Anabas_testudineus	taf5l	ENSATEG00000021115	TATA-box	113162651
+Anabas_testudineus	wdr61	ENSATEG00000021123	WD	113165214
+Anabas_testudineus	traf6	ENSATEG00000021148	Others	113174085
+Anabas_testudineus		ENSATEG00000021156	Arginine methyltransferase	NA
+Anabas_testudineus	CDC73	ENSATEG00000021162	Others	113171781
+Anabas_testudineus	dnmt1	ENSATEG00000021176	DNA_methylase	113160948
+Anabas_testudineus	chek1	ENSATEG00000021185	Others	NA
+Anabas_testudineus	uxt	ENSATEG00000021229	Others	113167687
+Anabas_testudineus	banp	ENSATEG00000021264	Others	113165806
+Anabas_testudineus		ENSATEG00000021389	Others	113149865
+Anabas_testudineus	med6	ENSATEG00000021390	Mediator complex	113148030
+Anabas_testudineus	birc2	ENSATEG00000021396	Others	NA
+Anabas_testudineus		ENSATEG00000021402	Others	113171498
+Anabas_testudineus	kdm2bb	ENSATEG00000021455	Lysine demethylase	113158336
+Anabas_testudineus	notch3	ENSATEG00000021480	Notch	113161469
+Anabas_testudineus	actn1	ENSATEG00000021495	Actin	113147980
+Anabas_testudineus		ENSATEG00000021514	PHF	113167400
+Anabas_testudineus	setd1ba	ENSATEG00000021563	SET	NA
+Anabas_testudineus	htatip2	ENSATEG00000021609	Others	113174969
+Anabas_testudineus		ENSATEG00000021620	ING	113169311
+Anabas_testudineus		ENSATEG00000021691	Others	113172248
+Anabas_testudineus	csrp3	ENSATEG00000021724	Others	113174499
+Anabas_testudineus		ENSATEG00000021756	Others	113164250
+Anabas_testudineus		ENSATEG00000021762	Others	113164061
+Anabas_testudineus		ENSATEG00000021856	Others	113166679
+Anabas_testudineus		ENSATEG00000021892	Others	113174169
+Anabas_testudineus	insra	ENSATEG00000021893	Others	113171811
+Anabas_testudineus	tdg.1	ENSATEG00000021912	Others	NA
+Anabas_testudineus	dapk3	ENSATEG00000021989	Others	113172382
+Anabas_testudineus	vgll2a	ENSATEG00000022015	Vestigial like	113149686
+Anabas_testudineus	dpf1	ENSATEG00000022056	DPF	NA
+Anabas_testudineus	sfmbt2	ENSATEG00000022088	Others	113163314
+Anabas_testudineus	skila	ENSATEG00000022095	SKI	113172224
+Anabas_testudineus		ENSATEG00000022276	Others	NA
+Anabas_testudineus		ENSATEG00000022367	MYB	113170455
+Anabas_testudineus		ENSATEG00000022440	SKI	113167325
+Anabas_testudineus	elp4	ENSATEG00000022468	ELP	113174790
+Anabas_testudineus		ENSATEG00000022470	Tripartite motif	113170810
+Anabas_testudineus	MED1	ENSATEG00000022493	Mediator complex	113156329
+Anabas_testudineus	wwp1	ENSATEG00000022538	WW	113164381
+Anabas_testudineus	ncoa4	ENSATEG00000022558	Nuclear receptor coactivator	NA
+Anabas_testudineus	epc1a	ENSATEG00000022602	Others	113163434
+Anabas_testudineus	si:dkey-21c19.3	ENSATEG00000022603	Others	113167344
+Anabas_testudineus		ENSATEG00000022688	Lysine methyltransferase	113174275
+Anabas_testudineus		ENSATEG00000022700	Others	113158669
+Anabas_testudineus	calcoco1a	ENSATEG00000022704	Others	NA
+Anabas_testudineus	cnot3a	ENSATEG00000022737	CCR4-NOT	113170001
+Anabas_testudineus	npm3	ENSATEG00000022752	Nucleoplasmin	113159948
+Anabas_testudineus		ENSATEG00000022764	Others	113165556
+Anabas_testudineus		ENSATEG00000022782	Nuclear coactivator	113163888
+Anabas_testudineus	setd1a	ENSATEG00000022798	SET	113161832
+Anabas_testudineus		ENSATEG00000022820	Casein	113174892
+Anabas_testudineus	KAT6B	ENSATEG00000022849	Lysine acetyltransferase	113155889
+Anabas_testudineus		ENSATEG00000022880	Sirtuin	113173902
+Anabas_testudineus	ctnnd1	ENSATEG00000022886	Casein	113161392
+Anabas_testudineus		ENSATEG00000023002	Others	113161999
+Anabas_testudineus	maml3	ENSATEG00000023015	MAML	113161277
+Anabas_testudineus		ENSATEG00000023083	Others	113163389
+Anabas_testudineus		ENSATEG00000023088	Transducin	NA
+Anabas_testudineus		ENSATEG00000023184	Others	113167050
+Anabas_testudineus	emsy	ENSATEG00000023194	Others	113169879
+Anabas_testudineus		ENSATEG00000023210	Others	NA
+Anabas_testudineus	strap	ENSATEG00000023223	Others	113164889
+Anabas_testudineus	cdk13	ENSATEG00000023372	Cyclin	113163697
+Anabas_testudineus	ascc1	ENSATEG00000023377	ASCC	113156071
+Anabas_testudineus		ENSATEG00000023395	Other_CRF	113156100
+Anabas_testudineus		ENSATEG00000023442	Chromobox	113162586
+Anabas_testudineus	cbx8b	ENSATEG00000023446	Chromobox	113162656
+Anabas_testudineus	trim25	ENSATEG00000023470	Tripartite motif	113162257
+Anabas_testudineus	polr3c	ENSATEG00000023618	POLR	113169564
+Anabas_testudineus	ell2	ENSATEG00000023646	GTF	113153787
+Anabas_testudineus		ENSATEG00000023691	Bromodomain	NA
+Anabas_testudineus	kdm5c	ENSATEG00000023692	Lysine demethylase	113166915
+Anabas_testudineus	wdtc1	ENSATEG00000023785	WD	113168860
+Anabas_testudineus	mbtd1	ENSATEG00000023822	Others	113156036
+Anabas_testudineus	trim35-12	ENSATEG00000023898	Tripartite motif	113159467
+Anabas_testudineus	dnajb1a	ENSATEG00000023907	Others	113163015
+Anabas_testudineus		ENSATEG00000023950	Lysine demethylase	113166919
+Anabas_testudineus		ENSATEG00000023953	Others	113156841
+Anabas_testudineus	fgf22	ENSATEG00000024034	FGF	113151906
+Anabas_testudineus	gnl3	ENSATEG00000024242	Others	113155374
+Anabas_testudineus	pink1	ENSATEG00000024284	Others	113167144
+Anabas_testudineus		ENSATEG00000024296	Others	NA
+Anabas_testudineus	mdm4	ENSATEG00000024297	Others	113154379
+Anabas_testudineus		ENSATEG00000024325	Others	113155419
+Anabas_testudineus	ctnnb1	ENSATEG00000024383	Casein	NA
+Anabas_testudineus	nab2	ENSATEG00000024448	Others	113153136
+Anabas_testudineus	atad2	ENSATEG00000024449	Others	NA
+Anabas_testudineus	ern1	ENSATEG00000024468	Others	113157385
+Anabas_testudineus	nelfcd	ENSATEG00000024493	GTF	113154301
+Anabas_testudineus		ENSATEG00000024515	TATA-box	113166778
+Anabas_testudineus		ENSATEG00000024533	Cyclin	113155118
+Anabas_testudineus		ENSATEG00000024566	Others	113155001
+Anabas_testudineus		ENSATEG00000024592	Others	113155521
+Anabas_testudineus	eny2	ENSATEG00000024615	Others	113169049
+Anabas_testudineus	tob1a	ENSATEG00000024786	Others	113161461
+Anabas_testudineus		ENSATEG00000024800	Others	113169762
+Anabas_testudineus	dnmt3bb.1	ENSATEG00000024805	DNA_methylase	113167375
+Anabas_testudineus	gtf2f1	ENSATEG00000024850	GTF	113163833
+Anabas_testudineus	ascc3	ENSATEG00000024950	ASCC	113169348
+Anabas_testudineus	park7	ENSATEG00000024965	Others	113153303
+Anabas_testudineus		ENSATEG00000024971	TATA-box	113169908
+Anabas_testudineus	vgll4b	ENSATEG00000024983	Vestigial like	113154438
+Anabas_testudineus	cbfa2t2	ENSATEG00000025051	Others	113155307
+Anabas_testudineus		ENSATEG00000025063	Others	113154390
+Anabas_testudineus	smarcd1	ENSATEG00000025073	SWI/SNF	113154681
+Anabas_testudineus		ENSATEG00000025083	Others	113154070
+Anabas_testudineus	padi2	ENSATEG00000025139	Other_CRF	113155352
+Anabas_testudineus		ENSATEG00000025160	Other_CRF	113153912
+Anabas_testudineus		ENSATEG00000025462	Others	113149055
+Anabas_testudineus	irf2bpl	ENSATEG00000025496	Others	113147955
+Anabas_testudineus	HDAC3	ENSATEG00000025701	Histone deacetylase	113160461
+Anabas_testudineus		ENSATEG00000025737	Lysine methyltransferase	113158352
+Anabas_testudineus		ENSATEG00000025738	Ring finger protein	NA
+Anabas_testudineus	pfdn5	ENSATEG00000025765	Others	113153132
+Anabas_testudineus		ENSATEG00000025795	Ring finger protein	113172369
+Anabas_testudineus	elob	ENSATEG00000025962	Others	113160260
+Anabas_testudineus	seta	ENSATEG00000026057	SET	NA
+Anabas_testudineus		ENSATEG00000026347	Others	NA
+Anabas_testudineus		ENSATEG00000026386	Other_CRF	113154215
+Anabas_testudineus	CAVIN1	ENSATEG00000026607	Others	NA
+Anabas_testudineus	HDGFL3	ENSATEG00000026674	Others	113174928
+Anabas_testudineus		ENSATEG00000026779	Others	113152006
+Anabas_testudineus	dr1	ENSATEG00000026820	Others	113152548
+Anabas_testudineus	FHIT	ENSATEG00000026901	Others	113151685
+Anabas_testudineus	MED10	ENSATEG00000027058	Mediator complex	113153313
+Anabas_testudineus	gtf2a1l	ENSATEG00000027167	GTF	113158933
+Anabas_testudineus		ENSATEG00000027176	SWI/SNF	113151151
+Anabas_testudineus		ENSATEG00000027222	Others	113166450
+Anabas_testudineus	ATXN7L3	ENSATEG00000027229	Others	113152153
+Anabas_testudineus	DUSP26	ENSATEG00000027239	Others	113159149
+Anabas_testudineus	tradd	ENSATEG00000027323	Others	113174960
+Anabas_testudineus		ENSATEG00000027357	TATA-box	113148680
+Anabas_testudineus	btg1	ENSATEG00000027464	Others	113163348
+Anabas_testudineus	PID1	ENSATEG00000027875	Others	113174676
+Anabas_testudineus		ENSATEG00000027892	Others	113174494
+Anabas_testudineus	cbx7b	ENSATEG00000027992	Chromobox	113155821
+Anabas_testudineus	c1qbp	ENSATEG00000028014	Others	113171128
+Anabas_testudineus	apex1	ENSATEG00000028063	Others	113164025
+Anabas_testudineus	sirt2	ENSATEG00000028072	Sirtuin	113167506
+Anabas_testudineus	tirap	ENSATEG00000028115	Others	113172910
+Anabas_testudineus	znf593	ENSATEG00000028135	Zinc finger	113148177
+Anabas_testudineus		ENSATEG00000028141	Mediator complex	113151027
+Anabas_testudineus		ENSATEG00000028227	Others	113163702
+Anabas_testudineus	aurkaip1	ENSATEG00000028352	Others	113166974
+Anabas_testudineus	crtc1a	ENSATEG00000028370	CREB	113171745
+Anabas_testudineus	MED18	ENSATEG00000028379	Mediator complex	113170301
+Anabas_testudineus	gtf2h5	ENSATEG00000028411	GTF	113149402
+Anabas_testudineus	eloca	ENSATEG00000028432	Others	113164902
+Anabas_testudineus		ENSATEG00000028481	Others	113162044
+Anabas_testudineus	TOB2	ENSATEG00000028658	Others	113152654
+Anabas_testudineus	hsbp1b	ENSATEG00000028822	Heat shock protein	113165340
+Anabas_testudineus		ENSATEG00000028972	Others	113164331
+Anabas_testudineus	nrbf2b	ENSATEG00000029020	Nuclear receptor coactivator	113156513
+Anabas_testudineus		ENSATEG00000029306	MAGE	113167024
+Anabas_testudineus	rnf141	ENSATEG00000029463	Ring finger protein	113166318
+Anabas_testudineus	sgf29	ENSATEG00000029467	Others	113162460
+Anabas_testudineus		ENSATEG00000029505	Nuclear receptor coactivator	113149317
+Anabas_testudineus	dvl2	ENSATEG00000029535	Others	113157659
+Anabas_testudineus		ENSATEG00000029570	Others	113151086
+Anabas_testudineus	crk	ENSATEG00000029738	Others	113170069
+Anabas_testudineus	CCNK	ENSATEG00000029743	Cyclin	113149354
+Anabas_testudineus	RYBP	ENSATEG00000029830	Others	113153992
+Anabas_testudineus	JMY	ENSATEG00000029857	Others	113149919
+Anabas_testudineus		ENSATEG00000030116	Others	113162466
+Anabas_testudineus		ENSATEG00000030130	Others	NA
+Anabas_testudineus	cbx5	ENSATEG00000030136	Chromobox	113167071
+Anabas_testudineus		ENSATEG00000030195	Others	NA

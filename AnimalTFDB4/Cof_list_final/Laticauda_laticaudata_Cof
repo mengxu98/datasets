@@ -1,0 +1,661 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Laticauda_laticaudata	RIPPLY2	ENSLLTG00000000023	Others	NA
+Laticauda_laticaudata	PICALM	ENSLLTG00000000025	Others	NA
+Laticauda_laticaudata	FBXW11	ENSLLTG00000000048	Others	NA
+Laticauda_laticaudata	DNMT1	ENSLLTG00000000053	DNA_methylase	NA
+Laticauda_laticaudata	SGF29	ENSLLTG00000000085	Others	NA
+Laticauda_laticaudata	KDM1B	ENSLLTG00000000087	Lysine demethylase	NA
+Laticauda_laticaudata	MED4	ENSLLTG00000000120	Mediator complex	NA
+Laticauda_laticaudata	ABRA	ENSLLTG00000000144	Actin	NA
+Laticauda_laticaudata	DEK	ENSLLTG00000000150	Other_CRF	NA
+Laticauda_laticaudata	HDAC7	ENSLLTG00000000184	Histone deacetylase	NA
+Laticauda_laticaudata	PHF21A	ENSLLTG00000000203	PHF	NA
+Laticauda_laticaudata	CTDP1	ENSLLTG00000000213	Others	NA
+Laticauda_laticaudata	PCGF2	ENSLLTG00000000215	PCGF	NA
+Laticauda_laticaudata	NPAT	ENSLLTG00000000258	Nuclear coactivator	NA
+Laticauda_laticaudata	SMARCD2	ENSLLTG00000000259	SWI/SNF	NA
+Laticauda_laticaudata	NOL11	ENSLLTG00000000300	Nuclear coactivator	NA
+Laticauda_laticaudata	ATAD2	ENSLLTG00000000366	Others	NA
+Laticauda_laticaudata		ENSLLTG00000000377	Others	NA
+Laticauda_laticaudata	TRIM28	ENSLLTG00000000385	Tripartite motif	NA
+Laticauda_laticaudata	SS18	ENSLLTG00000000386	SS18	NA
+Laticauda_laticaudata		ENSLLTG00000000407	Mediator complex	NA
+Laticauda_laticaudata	PRMT7	ENSLLTG00000000408	Arginine methyltransferase	NA
+Laticauda_laticaudata	SERBP1	ENSLLTG00000000414	Others	NA
+Laticauda_laticaudata	FLNA	ENSLLTG00000000417	Others	NA
+Laticauda_laticaudata	NRIP1	ENSLLTG00000000431	Nuclear receptor coactivator	NA
+Laticauda_laticaudata	HELLS	ENSLLTG00000000508	Others	NA
+Laticauda_laticaudata	ANKRD1	ENSLLTG00000000510	Ankyrin repeat	NA
+Laticauda_laticaudata	DDX1	ENSLLTG00000000538	RNA helicase	NA
+Laticauda_laticaudata	PDLIM3	ENSLLTG00000000546	Others	NA
+Laticauda_laticaudata	CDK1	ENSLLTG00000000548	Cyclin	NA
+Laticauda_laticaudata	CSRP3	ENSLLTG00000000554	Others	NA
+Laticauda_laticaudata		ENSLLTG00000000556	Others	NA
+Laticauda_laticaudata	ZNF638	ENSLLTG00000000579	Zinc finger	NA
+Laticauda_laticaudata	PER1	ENSLLTG00000000584	Others	NA
+Laticauda_laticaudata	PQBP1	ENSLLTG00000000605	Others	NA
+Laticauda_laticaudata	AURKB	ENSLLTG00000000624	Others	NA
+Laticauda_laticaudata		ENSLLTG00000000697	Others	NA
+Laticauda_laticaudata	HNRNPU	ENSLLTG00000000765	HNRNP	NA
+Laticauda_laticaudata	TRIM29	ENSLLTG00000000770	Tripartite motif	NA
+Laticauda_laticaudata	CASP8AP2	ENSLLTG00000000839	Others	NA
+Laticauda_laticaudata	ACTN1	ENSLLTG00000000841	Actin	NA
+Laticauda_laticaudata	CHCHD2	ENSLLTG00000000868	Coiled-coil	NA
+Laticauda_laticaudata	IRF2BPL	ENSLLTG00000000891	Others	NA
+Laticauda_laticaudata	TNIP1	ENSLLTG00000000903	Others	NA
+Laticauda_laticaudata		ENSLLTG00000000924	Others	NA
+Laticauda_laticaudata	ZNF451	ENSLLTG00000001052	Zinc finger	NA
+Laticauda_laticaudata	XRCC6	ENSLLTG00000001065	Others	NA
+Laticauda_laticaudata	SUPT6H	ENSLLTG00000001067	SUPT	NA
+Laticauda_laticaudata		ENSLLTG00000001084	Tripartite motif	NA
+Laticauda_laticaudata	SMURF1	ENSLLTG00000001102	Others	NA
+Laticauda_laticaudata	SMARCA2	ENSLLTG00000001135	SWI/SNF	NA
+Laticauda_laticaudata	TARBP1	ENSLLTG00000001154	Others	NA
+Laticauda_laticaudata	ILF2	ENSLLTG00000001200	Others	NA
+Laticauda_laticaudata	CHTOP	ENSLLTG00000001235	Others	NA
+Laticauda_laticaudata	PCBD1	ENSLLTG00000001236	Others	NA
+Laticauda_laticaudata	RNF20	ENSLLTG00000001240	Ring finger protein	NA
+Laticauda_laticaudata	KDM5A	ENSLLTG00000001274	Lysine demethylase	NA
+Laticauda_laticaudata	ERCC2	ENSLLTG00000001275	Others	NA
+Laticauda_laticaudata	BUD31	ENSLLTG00000001290	Others	NA
+Laticauda_laticaudata	DPY30	ENSLLTG00000001312	Others	NA
+Laticauda_laticaudata		ENSLLTG00000001317	Others	NA
+Laticauda_laticaudata	BTG1	ENSLLTG00000001330	Others	NA
+Laticauda_laticaudata	HDAC3	ENSLLTG00000001338	Histone deacetylase	NA
+Laticauda_laticaudata	BAHCC1	ENSLLTG00000001345	Others	NA
+Laticauda_laticaudata	JAK2	ENSLLTG00000001362	Others	NA
+Laticauda_laticaudata	CRTC2	ENSLLTG00000001366	CREB	NA
+Laticauda_laticaudata	TGFB1	ENSLLTG00000001439	Others	NA
+Laticauda_laticaudata	MED25	ENSLLTG00000001469	Mediator complex	NA
+Laticauda_laticaudata		ENSLLTG00000001475	Other_CRF	NA
+Laticauda_laticaudata	TIMELESS	ENSLLTG00000001536	Others	NA
+Laticauda_laticaudata	AATF	ENSLLTG00000001537	Others	NA
+Laticauda_laticaudata	CCNT1	ENSLLTG00000001568	Cyclin	NA
+Laticauda_laticaudata	CHD1	ENSLLTG00000001600	CHD	NA
+Laticauda_laticaudata	CECR2	ENSLLTG00000001612	Other_CRF	NA
+Laticauda_laticaudata	MED6	ENSLLTG00000001672	Mediator complex	NA
+Laticauda_laticaudata	RASD1	ENSLLTG00000001681	Others	NA
+Laticauda_laticaudata		ENSLLTG00000001798	Others	NA
+Laticauda_laticaudata	LPIN1	ENSLLTG00000001820	LPIN	NA
+Laticauda_laticaudata	RBBP8	ENSLLTG00000001862	RBBP	NA
+Laticauda_laticaudata	CCDC59	ENSLLTG00000001886	Coiled-coil	NA
+Laticauda_laticaudata	PHF21B	ENSLLTG00000001889	PHF	NA
+Laticauda_laticaudata	DNMT3B	ENSLLTG00000001891	DNA_methylase	NA
+Laticauda_laticaudata	RNF10	ENSLLTG00000001914	Ring finger protein	NA
+Laticauda_laticaudata	PIDD1	ENSLLTG00000001940	Others	NA
+Laticauda_laticaudata	HDAC2	ENSLLTG00000001961	Histone deacetylase	NA
+Laticauda_laticaudata	LANCL2	ENSLLTG00000002182	Others	NA
+Laticauda_laticaudata	ACTN3	ENSLLTG00000002263	Actin	NA
+Laticauda_laticaudata	NRG2	ENSLLTG00000002273	Others	NA
+Laticauda_laticaudata		ENSLLTG00000002293	Others	NA
+Laticauda_laticaudata	KDM2A	ENSLLTG00000002302	Lysine demethylase	NA
+Laticauda_laticaudata	NAA15	ENSLLTG00000002315	Others	NA
+Laticauda_laticaudata	KDM3B	ENSLLTG00000002320	Lysine demethylase	NA
+Laticauda_laticaudata	SNW1	ENSLLTG00000002373	Others	NA
+Laticauda_laticaudata	RAI1	ENSLLTG00000002395	Others	NA
+Laticauda_laticaudata	RBBP4	ENSLLTG00000002407	RBBP	NA
+Laticauda_laticaudata	RNF14	ENSLLTG00000002411	Ring finger protein	NA
+Laticauda_laticaudata	ASF1B	ENSLLTG00000002420	Others	NA
+Laticauda_laticaudata	RUVBL1	ENSLLTG00000002426	Other_CRF	NA
+Laticauda_laticaudata	PLK3	ENSLLTG00000002440	Others	NA
+Laticauda_laticaudata	SLC25A15	ENSLLTG00000002507	SLC	NA
+Laticauda_laticaudata		ENSLLTG00000002545	Others	NA
+Laticauda_laticaudata		ENSLLTG00000002575	Others	NA
+Laticauda_laticaudata	ANKRA2	ENSLLTG00000002610	Ankyrin repeat	NA
+Laticauda_laticaudata	BTF3	ENSLLTG00000002613	Others	NA
+Laticauda_laticaudata	ARL2BP	ENSLLTG00000002619	Others	NA
+Laticauda_laticaudata	CBX6	ENSLLTG00000002637	Chromobox	NA
+Laticauda_laticaudata	CNOT3	ENSLLTG00000002640	CCR4-NOT	NA
+Laticauda_laticaudata	CBX7	ENSLLTG00000002643	Chromobox	NA
+Laticauda_laticaudata	RNF6	ENSLLTG00000002648	Ring finger protein	NA
+Laticauda_laticaudata	NELFCD	ENSLLTG00000002657	GTF	NA
+Laticauda_laticaudata	EAF2	ENSLLTG00000002672	Others	NA
+Laticauda_laticaudata	SETD3	ENSLLTG00000002688	SET	NA
+Laticauda_laticaudata	CREG2	ENSLLTG00000002759	Others	NA
+Laticauda_laticaudata	FAM83G	ENSLLTG00000002764	FAM	NA
+Laticauda_laticaudata	RBBP5	ENSLLTG00000002784	RBBP	NA
+Laticauda_laticaudata	DDX20	ENSLLTG00000002823	RNA helicase	NA
+Laticauda_laticaudata	NEO1	ENSLLTG00000002854	Others	NA
+Laticauda_laticaudata	TRIM32	ENSLLTG00000002869	Tripartite motif	NA
+Laticauda_laticaudata	SERTAD2	ENSLLTG00000002893	Others	NA
+Laticauda_laticaudata		ENSLLTG00000002940	Others	NA
+Laticauda_laticaudata	MTDH	ENSLLTG00000002949	Others	NA
+Laticauda_laticaudata	BCL9L	ENSLLTG00000002976	BCL	NA
+Laticauda_laticaudata	ZMYM3	ENSLLTG00000002999	Zinc finger	NA
+Laticauda_laticaudata	NONO	ENSLLTG00000003017	Others	NA
+Laticauda_laticaudata	RITA1	ENSLLTG00000003049	Others	NA
+Laticauda_laticaudata	DDX54	ENSLLTG00000003056	RNA helicase	NA
+Laticauda_laticaudata		ENSLLTG00000003064	TATA-box	NA
+Laticauda_laticaudata	BCL9	ENSLLTG00000003078	BCL	NA
+Laticauda_laticaudata	NOD1	ENSLLTG00000003106	Others	NA
+Laticauda_laticaudata	ENO1	ENSLLTG00000003116	Others	NA
+Laticauda_laticaudata	SAV1	ENSLLTG00000003118	Others	NA
+Laticauda_laticaudata	SLC30A9	ENSLLTG00000003212	SLC	NA
+Laticauda_laticaudata	RAP2B	ENSLLTG00000003239	Others	NA
+Laticauda_laticaudata	FRZB	ENSLLTG00000003260	Others	NA
+Laticauda_laticaudata	COPS5	ENSLLTG00000003298	Others	NA
+Laticauda_laticaudata	CCNK	ENSLLTG00000003354	Cyclin	NA
+Laticauda_laticaudata	RFXAP	ENSLLTG00000003390	Others	NA
+Laticauda_laticaudata	WWP2	ENSLLTG00000003418	WW	NA
+Laticauda_laticaudata		ENSLLTG00000003422	Mediator complex	NA
+Laticauda_laticaudata	LIN54	ENSLLTG00000003508	Others	NA
+Laticauda_laticaudata	NCOA4	ENSLLTG00000003512	Nuclear receptor coactivator	NA
+Laticauda_laticaudata	OGT	ENSLLTG00000003540	Others	NA
+Laticauda_laticaudata	MYH11	ENSLLTG00000003547	Others	NA
+Laticauda_laticaudata	ASCC2	ENSLLTG00000003586	ASCC	NA
+Laticauda_laticaudata	GRHPR	ENSLLTG00000003590	Others	NA
+Laticauda_laticaudata	CTH	ENSLLTG00000003608	Others	NA
+Laticauda_laticaudata	ARHGAP5	ENSLLTG00000003658	Others	NA
+Laticauda_laticaudata	PPHLN1	ENSLLTG00000003661	Others	NA
+Laticauda_laticaudata	TADA1	ENSLLTG00000003667	Transcriptional adaptor	NA
+Laticauda_laticaudata	RUVBL2	ENSLLTG00000003728	Other_CRF	NA
+Laticauda_laticaudata	TTF2	ENSLLTG00000003731	Others	NA
+Laticauda_laticaudata	ABL2	ENSLLTG00000003734	Others	NA
+Laticauda_laticaudata	CDK9	ENSLLTG00000003769	Cyclin	NA
+Laticauda_laticaudata		ENSLLTG00000003815	Others	NA
+Laticauda_laticaudata	ZNF703	ENSLLTG00000003849	Zinc finger	NA
+Laticauda_laticaudata	MAD2L2	ENSLLTG00000003921	Others	NA
+Laticauda_laticaudata	SUPT4H1	ENSLLTG00000003986	SUPT	NA
+Laticauda_laticaudata	MID2	ENSLLTG00000003988	Tripartite motif	NA
+Laticauda_laticaudata	SIN3B	ENSLLTG00000004008	Others	NA
+Laticauda_laticaudata		ENSLLTG00000004024	HNRNP	NA
+Laticauda_laticaudata	FBP1	ENSLLTG00000004041	Others	NA
+Laticauda_laticaudata	RAN	ENSLLTG00000004064	Others	NA
+Laticauda_laticaudata		ENSLLTG00000004104	RNA binding protein	NA
+Laticauda_laticaudata	TDRD3	ENSLLTG00000004156	Others	NA
+Laticauda_laticaudata	WNT3	ENSLLTG00000004200	Others	NA
+Laticauda_laticaudata	SIRT3	ENSLLTG00000004213	Sirtuin	NA
+Laticauda_laticaudata	RNF4	ENSLLTG00000004231	Ring finger protein	NA
+Laticauda_laticaudata	ZMYND11	ENSLLTG00000004251	Zinc finger	NA
+Laticauda_laticaudata	BEND3	ENSLLTG00000004277	Others	NA
+Laticauda_laticaudata	LDB1	ENSLLTG00000004279	LIM	NA
+Laticauda_laticaudata	SIN3A	ENSLLTG00000004281	Other_CRF	NA
+Laticauda_laticaudata	EAPP	ENSLLTG00000004293	Others	NA
+Laticauda_laticaudata	CNOT2	ENSLLTG00000004301	CCR4-NOT	NA
+Laticauda_laticaudata	PHF20	ENSLLTG00000004335	PHF	NA
+Laticauda_laticaudata	ELL	ENSLLTG00000004394	GTF	NA
+Laticauda_laticaudata	CDK5R1	ENSLLTG00000004455	Cyclin	NA
+Laticauda_laticaudata	SMYD2	ENSLLTG00000004464	SMYD	NA
+Laticauda_laticaudata	DNAJB1	ENSLLTG00000004477	Others	NA
+Laticauda_laticaudata	XIAP	ENSLLTG00000004517	Others	NA
+Laticauda_laticaudata	DHX33	ENSLLTG00000004520	RNA helicase	NA
+Laticauda_laticaudata	GTF2H1	ENSLLTG00000004525	GTF	NA
+Laticauda_laticaudata	HLTF	ENSLLTG00000004547	Others	NA
+Laticauda_laticaudata	CTNNBIP1	ENSLLTG00000004582	Casein	NA
+Laticauda_laticaudata		ENSLLTG00000004588	Others	NA
+Laticauda_laticaudata	KDM7A	ENSLLTG00000004591	Lysine demethylase	NA
+Laticauda_laticaudata	HELZ2	ENSLLTG00000004605	Others	NA
+Laticauda_laticaudata		ENSLLTG00000004611	Others	NA
+Laticauda_laticaudata	NRBF2	ENSLLTG00000004682	Nuclear receptor coactivator	NA
+Laticauda_laticaudata	LRPPRC	ENSLLTG00000004746	Others	NA
+Laticauda_laticaudata	DHX36	ENSLLTG00000004803	RNA helicase	NA
+Laticauda_laticaudata	LPXN	ENSLLTG00000004804	Others	NA
+Laticauda_laticaudata	SUV39H1	ENSLLTG00000004853	Others	NA
+Laticauda_laticaudata	CNOT8	ENSLLTG00000004863	CCR4-NOT	NA
+Laticauda_laticaudata	BRWD3	ENSLLTG00000004876	Others	NA
+Laticauda_laticaudata	ITGB3BP	ENSLLTG00000004897	Others	NA
+Laticauda_laticaudata	INSRR	ENSLLTG00000004937	Others	NA
+Laticauda_laticaudata	SUPT7L	ENSLLTG00000004955	SUPT	NA
+Laticauda_laticaudata	TRAK2	ENSLLTG00000004958	Others	NA
+Laticauda_laticaudata	PINK1	ENSLLTG00000004997	Others	NA
+Laticauda_laticaudata	PARP10	ENSLLTG00000005002	PARP	NA
+Laticauda_laticaudata	LPIN3	ENSLLTG00000005016	LPIN	NA
+Laticauda_laticaudata	FAM43B	ENSLLTG00000005038	Others	NA
+Laticauda_laticaudata	PDCD4	ENSLLTG00000005053	Others	NA
+Laticauda_laticaudata	CBX4	ENSLLTG00000005057	Chromobox	NA
+Laticauda_laticaudata		ENSLLTG00000005061	CAMK	NA
+Laticauda_laticaudata	CBX8	ENSLLTG00000005064	Chromobox	NA
+Laticauda_laticaudata	ORC2	ENSLLTG00000005066	Others	NA
+Laticauda_laticaudata	IKBKG	ENSLLTG00000005133	Others	NA
+Laticauda_laticaudata	MTPN	ENSLLTG00000005181	Others	NA
+Laticauda_laticaudata	TDP2	ENSLLTG00000005226	Others	NA
+Laticauda_laticaudata	LMO1	ENSLLTG00000005307	LIM	NA
+Laticauda_laticaudata	FGF1	ENSLLTG00000005308	FGF	NA
+Laticauda_laticaudata	TENM3	ENSLLTG00000005328	Others	NA
+Laticauda_laticaudata	DSCAML1	ENSLLTG00000005406	Others	NA
+Laticauda_laticaudata	VGLL3	ENSLLTG00000005518	Vestigial like	NA
+Laticauda_laticaudata	RPAP2	ENSLLTG00000005569	Others	NA
+Laticauda_laticaudata	MLLT1	ENSLLTG00000005609	GTF	NA
+Laticauda_laticaudata	ANP32E	ENSLLTG00000005633	ANP	NA
+Laticauda_laticaudata	TRIP4	ENSLLTG00000005666	Thyroid hormone receptor	NA
+Laticauda_laticaudata	PEX2	ENSLLTG00000005700	Others	NA
+Laticauda_laticaudata		ENSLLTG00000005747	NFKB associated	NA
+Laticauda_laticaudata	RBX1	ENSLLTG00000005751	Others	NA
+Laticauda_laticaudata	CNOT9	ENSLLTG00000005778	CCR4-NOT	NA
+Laticauda_laticaudata	UTP4	ENSLLTG00000005825	Others	NA
+Laticauda_laticaudata		ENSLLTG00000005883	Mediator complex	NA
+Laticauda_laticaudata	CXXC1	ENSLLTG00000005926	Others	NA
+Laticauda_laticaudata		ENSLLTG00000005930	ASCC	NA
+Laticauda_laticaudata	PCGF5	ENSLLTG00000005957	PCGF	NA
+Laticauda_laticaudata	PSEN1	ENSLLTG00000005966	Others	NA
+Laticauda_laticaudata	MAGI1	ENSLLTG00000005981	Others	NA
+Laticauda_laticaudata	CCNA1	ENSLLTG00000006042	Cyclin	NA
+Laticauda_laticaudata	DRAP1	ENSLLTG00000006053	Others	NA
+Laticauda_laticaudata	TAF6	ENSLLTG00000006059	TATA-box	NA
+Laticauda_laticaudata		ENSLLTG00000006086	Lysine demethylase	NA
+Laticauda_laticaudata	HDAC11	ENSLLTG00000006097	Histone deacetylase	NA
+Laticauda_laticaudata	TAF3	ENSLLTG00000006117	TATA-box	NA
+Laticauda_laticaudata		ENSLLTG00000006165	Others	NA
+Laticauda_laticaudata	MNAT1	ENSLLTG00000006174	Others	NA
+Laticauda_laticaudata	AUTS2	ENSLLTG00000006195	Others	NA
+Laticauda_laticaudata	CTBP1	ENSLLTG00000006236	Others	NA
+Laticauda_laticaudata	CAMK1	ENSLLTG00000006389	CAMK	NA
+Laticauda_laticaudata	WAC	ENSLLTG00000006404	WW	NA
+Laticauda_laticaudata	SETD2	ENSLLTG00000006413	SET	NA
+Laticauda_laticaudata	WNT4	ENSLLTG00000006453	Others	NA
+Laticauda_laticaudata	NOTCH3	ENSLLTG00000006454	Notch	NA
+Laticauda_laticaudata	HIRA	ENSLLTG00000006507	Others	NA
+Laticauda_laticaudata	CCNC	ENSLLTG00000006510	Cyclin	NA
+Laticauda_laticaudata		ENSLLTG00000006525	Others	NA
+Laticauda_laticaudata	S100Z	ENSLLTG00000006552	Others	NA
+Laticauda_laticaudata	HNRNPD	ENSLLTG00000006662	HNRNP	NA
+Laticauda_laticaudata	CCAR2	ENSLLTG00000006678	Others	NA
+Laticauda_laticaudata	CTNND1	ENSLLTG00000006712	Casein	NA
+Laticauda_laticaudata	SUPT16H	ENSLLTG00000006774	SUPT	NA
+Laticauda_laticaudata	KAT5	ENSLLTG00000006836	Lysine acetyltransferase	NA
+Laticauda_laticaudata	MRTFB	ENSLLTG00000006882	Others	NA
+Laticauda_laticaudata	CTDSP1	ENSLLTG00000006885	Others	NA
+Laticauda_laticaudata	PPID	ENSLLTG00000006909	Others	NA
+Laticauda_laticaudata	EYA3	ENSLLTG00000006946	EYA	NA
+Laticauda_laticaudata	ADRB2	ENSLLTG00000006952	Others	NA
+Laticauda_laticaudata	SETD1B	ENSLLTG00000006957	SET	NA
+Laticauda_laticaudata	PSIP1	ENSLLTG00000006979	Others	NA
+Laticauda_laticaudata	CHD3	ENSLLTG00000006984	CHD	NA
+Laticauda_laticaudata	MED19	ENSLLTG00000006989	Mediator complex	NA
+Laticauda_laticaudata	CDK7	ENSLLTG00000007025	Cyclin	NA
+Laticauda_laticaudata	CIDEA	ENSLLTG00000007030	Others	NA
+Laticauda_laticaudata		ENSLLTG00000007032	Transducin	NA
+Laticauda_laticaudata	PPIE	ENSLLTG00000007033	Others	NA
+Laticauda_laticaudata	GTF2B	ENSLLTG00000007039	GTF	NA
+Laticauda_laticaudata	MED18	ENSLLTG00000007050	Mediator complex	NA
+Laticauda_laticaudata		ENSLLTG00000007145	Other_CRF	NA
+Laticauda_laticaudata	KDM1A	ENSLLTG00000007198	Lysine demethylase	NA
+Laticauda_laticaudata	CNOT11	ENSLLTG00000007241	CCR4-NOT	NA
+Laticauda_laticaudata	TBP	ENSLLTG00000007406	TATA-box	NA
+Laticauda_laticaudata	GTF2H5	ENSLLTG00000007419	GTF	NA
+Laticauda_laticaudata	COPS2	ENSLLTG00000007517	Others	NA
+Laticauda_laticaudata	DUSP26	ENSLLTG00000007538	Others	NA
+Laticauda_laticaudata	CHAF1B	ENSLLTG00000007555	Others	NA
+Laticauda_laticaudata	PFDN5	ENSLLTG00000007558	Others	NA
+Laticauda_laticaudata	ACTL6A	ENSLLTG00000007568	Actin	NA
+Laticauda_laticaudata	TNNI2	ENSLLTG00000007570	Others	NA
+Laticauda_laticaudata	RSF1	ENSLLTG00000007578	Others	NA
+Laticauda_laticaudata	CBX2	ENSLLTG00000007612	Chromobox	NA
+Laticauda_laticaudata	PCGF6	ENSLLTG00000007646	PCGF	NA
+Laticauda_laticaudata	ARHGAP35	ENSLLTG00000007655	Others	NA
+Laticauda_laticaudata	FHL5	ENSLLTG00000007764	FHL	NA
+Laticauda_laticaudata	TAF5	ENSLLTG00000007770	TATA-box	NA
+Laticauda_laticaudata		ENSLLTG00000007773	Casein	NA
+Laticauda_laticaudata	SNX2	ENSLLTG00000007798	Others	NA
+Laticauda_laticaudata	MED12	ENSLLTG00000007842	Mediator complex	NA
+Laticauda_laticaudata	HEXIM1	ENSLLTG00000007858	Others	NA
+Laticauda_laticaudata	TRIP11	ENSLLTG00000007869	Thyroid hormone receptor	NA
+Laticauda_laticaudata	RBM14	ENSLLTG00000007876	RNA binding protein	NA
+Laticauda_laticaudata	NIF3L1	ENSLLTG00000007881	Others	NA
+Laticauda_laticaudata	PHF10	ENSLLTG00000007910	PHF	NA
+Laticauda_laticaudata	GTF2A1	ENSLLTG00000007953	GTF	NA
+Laticauda_laticaudata		ENSLLTG00000007980	Histone deacetylase	NA
+Laticauda_laticaudata	NELFB	ENSLLTG00000008006	GTF	NA
+Laticauda_laticaudata	PHF19	ENSLLTG00000008038	PHF	NA
+Laticauda_laticaudata	TGS1	ENSLLTG00000008059	Others	NA
+Laticauda_laticaudata	SAP18	ENSLLTG00000008063	SAP	NA
+Laticauda_laticaudata	EHMT1	ENSLLTG00000008147	Histone lysine methyltransferase	NA
+Laticauda_laticaudata	EPC2	ENSLLTG00000008149	Others	NA
+Laticauda_laticaudata	CNOT6	ENSLLTG00000008190	CCR4-NOT	NA
+Laticauda_laticaudata	ACTR8	ENSLLTG00000008212	ACTR	NA
+Laticauda_laticaudata	MRTFA	ENSLLTG00000008235	Others	NA
+Laticauda_laticaudata	MED16	ENSLLTG00000008246	Mediator complex	NA
+Laticauda_laticaudata	ANKAR	ENSLLTG00000008264	Ankyrin repeat	NA
+Laticauda_laticaudata	TADA3	ENSLLTG00000008313	Transcriptional adaptor	NA
+Laticauda_laticaudata	MACROH2A2	ENSLLTG00000008357	Others	NA
+Laticauda_laticaudata		ENSLLTG00000008373	Others	NA
+Laticauda_laticaudata		ENSLLTG00000008392	Tripartite motif	NA
+Laticauda_laticaudata		ENSLLTG00000008494	Others	NA
+Laticauda_laticaudata	ZYX	ENSLLTG00000008519	Thyroid hormone receptor	NA
+Laticauda_laticaudata	BPTF	ENSLLTG00000008520	Bromodomain	NA
+Laticauda_laticaudata	SAP130	ENSLLTG00000008527	SAP	NA
+Laticauda_laticaudata	NCOA2	ENSLLTG00000008531	Nuclear receptor coactivator	NA
+Laticauda_laticaudata	VGLL1	ENSLLTG00000008533	Vestigial like	NA
+Laticauda_laticaudata	MTF2	ENSLLTG00000008560	Others	NA
+Laticauda_laticaudata	SIRT7	ENSLLTG00000008584	Sirtuin	NA
+Laticauda_laticaudata		ENSLLTG00000008587	Bromodomain	NA
+Laticauda_laticaudata	DR1	ENSLLTG00000008770	Others	NA
+Laticauda_laticaudata	DPF2	ENSLLTG00000008775	DPF	NA
+Laticauda_laticaudata	UFL1	ENSLLTG00000008785	Others	NA
+Laticauda_laticaudata		ENSLLTG00000008805	Bromodomain	NA
+Laticauda_laticaudata	SET	ENSLLTG00000008830	SET	NA
+Laticauda_laticaudata	EED	ENSLLTG00000008862	Others	NA
+Laticauda_laticaudata		ENSLLTG00000008911	Others	NA
+Laticauda_laticaudata	BRWD1	ENSLLTG00000008918	Bromodomain	NA
+Laticauda_laticaudata	PIM1	ENSLLTG00000008933	Others	NA
+Laticauda_laticaudata	CGGBP1	ENSLLTG00000008937	Others	NA
+Laticauda_laticaudata	PLK1	ENSLLTG00000008938	Others	NA
+Laticauda_laticaudata	PADI2	ENSLLTG00000008946	Other_CRF	NA
+Laticauda_laticaudata	NUP98	ENSLLTG00000008962	Others	NA
+Laticauda_laticaudata	KANK1	ENSLLTG00000008965	Others	NA
+Laticauda_laticaudata	TAF2	ENSLLTG00000008979	TATA-box	NA
+Laticauda_laticaudata	ANXA4	ENSLLTG00000009119	Others	NA
+Laticauda_laticaudata	TIRAP	ENSLLTG00000009228	Others	NA
+Laticauda_laticaudata	SIRT2	ENSLLTG00000009260	Sirtuin	NA
+Laticauda_laticaudata	SUPT5H	ENSLLTG00000009279	SUPT	NA
+Laticauda_laticaudata	EMSY	ENSLLTG00000009281	Others	NA
+Laticauda_laticaudata	NFKBIB	ENSLLTG00000009282	NFKB associated	NA
+Laticauda_laticaudata	MED28	ENSLLTG00000009315	Mediator complex	NA
+Laticauda_laticaudata	NRIP3	ENSLLTG00000009373	Nuclear coactivator	NA
+Laticauda_laticaudata	SFR1	ENSLLTG00000009375	Others	NA
+Laticauda_laticaudata	NAB2	ENSLLTG00000009378	Others	NA
+Laticauda_laticaudata	BTK	ENSLLTG00000009395	Others	NA
+Laticauda_laticaudata	FHL3	ENSLLTG00000009421	FHL	NA
+Laticauda_laticaudata	PELI1	ENSLLTG00000009448	Others	NA
+Laticauda_laticaudata	TAF7	ENSLLTG00000009462	TATA-box	NA
+Laticauda_laticaudata	DNAJA3	ENSLLTG00000009594	Others	NA
+Laticauda_laticaudata	BCOR	ENSLLTG00000009615	Other_Co-activator/repressors	NA
+Laticauda_laticaudata		ENSLLTG00000009826	MAGE	NA
+Laticauda_laticaudata	MORF4L1	ENSLLTG00000009929	Other_CRF	NA
+Laticauda_laticaudata		ENSLLTG00000009950	Others	NA
+Laticauda_laticaudata	TLE3	ENSLLTG00000010029	Transducin	NA
+Laticauda_laticaudata	CRY1	ENSLLTG00000010158	Others	NA
+Laticauda_laticaudata	LZTS1	ENSLLTG00000010180	Others	NA
+Laticauda_laticaudata	MMS19	ENSLLTG00000010289	Others	NA
+Laticauda_laticaudata	ACTR5	ENSLLTG00000010320	ACTR	NA
+Laticauda_laticaudata	TRAF6	ENSLLTG00000010364	Others	NA
+Laticauda_laticaudata	CITED2	ENSLLTG00000010408	CITED	NA
+Laticauda_laticaudata	PHF1	ENSLLTG00000010415	PHF	NA
+Laticauda_laticaudata	WDR77	ENSLLTG00000010438	WD	NA
+Laticauda_laticaudata	WDR61	ENSLLTG00000010485	WD	NA
+Laticauda_laticaudata	ANKRD2	ENSLLTG00000010491	Ankyrin repeat	NA
+Laticauda_laticaudata	TNKS	ENSLLTG00000010500	Others	NA
+Laticauda_laticaudata	ING4	ENSLLTG00000010525	ING	NA
+Laticauda_laticaudata	BIRC5	ENSLLTG00000010541	Others	NA
+Laticauda_laticaudata		ENSLLTG00000010542	Others	NA
+Laticauda_laticaudata	SSU72	ENSLLTG00000010550	Others	NA
+Laticauda_laticaudata		ENSLLTG00000010558	Others	NA
+Laticauda_laticaudata	SAP30L	ENSLLTG00000010669	SAP	NA
+Laticauda_laticaudata	TAF8	ENSLLTG00000010687	TATA-box	NA
+Laticauda_laticaudata		ENSLLTG00000010750	CHD	NA
+Laticauda_laticaudata		ENSLLTG00000010767	Others	NA
+Laticauda_laticaudata		ENSLLTG00000010769	Others	NA
+Laticauda_laticaudata	KAT2A	ENSLLTG00000010778	Lysine acetyltransferase	NA
+Laticauda_laticaudata	ASF1A	ENSLLTG00000010838	Others	NA
+Laticauda_laticaudata	CBX5	ENSLLTG00000010843	Chromobox	NA
+Laticauda_laticaudata		ENSLLTG00000010847	Lysine methyltransferase	NA
+Laticauda_laticaudata	SNIP1	ENSLLTG00000010886	Others	NA
+Laticauda_laticaudata	MEAF6	ENSLLTG00000010909	Others	NA
+Laticauda_laticaudata	BRF2	ENSLLTG00000010960	GTF	NA
+Laticauda_laticaudata		ENSLLTG00000010968	Mediator complex	NA
+Laticauda_laticaudata	TCEA2	ENSLLTG00000011012	TEF	NA
+Laticauda_laticaudata	SLC19A1	ENSLLTG00000011023	SLC	NA
+Laticauda_laticaudata		ENSLLTG00000011049	Sirtuin	NA
+Laticauda_laticaudata	GTF2H3	ENSLLTG00000011054	GTF	NA
+Laticauda_laticaudata	HEATR1	ENSLLTG00000011062	Others	NA
+Laticauda_laticaudata	CAMK2A	ENSLLTG00000011069	CAMK	NA
+Laticauda_laticaudata	PIN4	ENSLLTG00000011072	Others	NA
+Laticauda_laticaudata	AURKAIP1	ENSLLTG00000011093	Others	NA
+Laticauda_laticaudata	SUZ12	ENSLLTG00000011221	Others	NA
+Laticauda_laticaudata	MED30	ENSLLTG00000011242	Mediator complex	NA
+Laticauda_laticaudata	ACTB	ENSLLTG00000011302	Actin	NA
+Laticauda_laticaudata	NIBAN2	ENSLLTG00000011339	FAM	NA
+Laticauda_laticaudata	CBX3	ENSLLTG00000011361	Chromobox	NA
+Laticauda_laticaudata	CHEK2	ENSLLTG00000011393	Others	NA
+Laticauda_laticaudata	YWHAB	ENSLLTG00000011589	Others	NA
+Laticauda_laticaudata	APEX1	ENSLLTG00000011593	Others	NA
+Laticauda_laticaudata	SUFU	ENSLLTG00000011632	Others	NA
+Laticauda_laticaudata		ENSLLTG00000011648	GTF	NA
+Laticauda_laticaudata	RTF1	ENSLLTG00000011666	Others	NA
+Laticauda_laticaudata	LIN9	ENSLLTG00000011696	Others	NA
+Laticauda_laticaudata	ICE2	ENSLLTG00000011704	GTF	NA
+Laticauda_laticaudata	AXIN1	ENSLLTG00000011736	Others	NA
+Laticauda_laticaudata	CDK2	ENSLLTG00000011748	Cyclin	NA
+Laticauda_laticaudata	MEN1	ENSLLTG00000011778	Others	NA
+Laticauda_laticaudata	NOC2L	ENSLLTG00000011826	Others	NA
+Laticauda_laticaudata	EYA4	ENSLLTG00000011828	EYA	NA
+Laticauda_laticaudata	SF1	ENSLLTG00000011864	Others	NA
+Laticauda_laticaudata	CREBBP	ENSLLTG00000011894	CREB	NA
+Laticauda_laticaudata	JMJD1C	ENSLLTG00000011900	Other_CRF	NA
+Laticauda_laticaudata		ENSLLTG00000011924	Other_CRF	NA
+Laticauda_laticaudata	TXNIP	ENSLLTG00000011972	Others	NA
+Laticauda_laticaudata	AGO1	ENSLLTG00000011977	Others	NA
+Laticauda_laticaudata	RING1	ENSLLTG00000011983	Ring finger protein	NA
+Laticauda_laticaudata	LEO1	ENSLLTG00000011991	Others	NA
+Laticauda_laticaudata	FGF3	ENSLLTG00000012001	FGF	NA
+Laticauda_laticaudata	VGLL2	ENSLLTG00000012029	Vestigial like	NA
+Laticauda_laticaudata		ENSLLTG00000012037	DPF	NA
+Laticauda_laticaudata		ENSLLTG00000012046	Others	NA
+Laticauda_laticaudata	MED13	ENSLLTG00000012052	Mediator complex	NA
+Laticauda_laticaudata		ENSLLTG00000012079	Others	NA
+Laticauda_laticaudata	PHF5A	ENSLLTG00000012139	PHF	NA
+Laticauda_laticaudata	CCNH	ENSLLTG00000012223	Cyclin	NA
+Laticauda_laticaudata	MED11	ENSLLTG00000012236	Mediator complex	NA
+Laticauda_laticaudata	PPARGC1B	ENSLLTG00000012291	Others	NA
+Laticauda_laticaudata	RAF1	ENSLLTG00000012297	Others	NA
+Laticauda_laticaudata	TAB3	ENSLLTG00000012348	Others	NA
+Laticauda_laticaudata	CHEK1	ENSLLTG00000012352	Others	NA
+Laticauda_laticaudata	SMARCAD1	ENSLLTG00000012365	SWI/SNF	NA
+Laticauda_laticaudata	NCK2	ENSLLTG00000012404	Others	NA
+Laticauda_laticaudata	TESC	ENSLLTG00000012440	Others	NA
+Laticauda_laticaudata	CCNE1	ENSLLTG00000012480	Cyclin	NA
+Laticauda_laticaudata	CNOT7	ENSLLTG00000012482	CCR4-NOT	NA
+Laticauda_laticaudata	CRK	ENSLLTG00000012488	Others	NA
+Laticauda_laticaudata		ENSLLTG00000012493	Others	NA
+Laticauda_laticaudata	MYCBP2	ENSLLTG00000012611	MYC	NA
+Laticauda_laticaudata		ENSLLTG00000012612	Histone deacetylase	NA
+Laticauda_laticaudata	GNL3	ENSLLTG00000012630	Others	NA
+Laticauda_laticaudata	EHMT2	ENSLLTG00000012660	Histone lysine methyltransferase	NA
+Laticauda_laticaudata	JMJD6	ENSLLTG00000012714	Others	NA
+Laticauda_laticaudata	MAK	ENSLLTG00000012721	Others	NA
+Laticauda_laticaudata		ENSLLTG00000012728	Others	NA
+Laticauda_laticaudata	ABT1	ENSLLTG00000012738	Others	NA
+Laticauda_laticaudata		ENSLLTG00000012743	Others	NA
+Laticauda_laticaudata	TBPL1	ENSLLTG00000012779	TATA-box	NA
+Laticauda_laticaudata	SGK1	ENSLLTG00000012785	Others	NA
+Laticauda_laticaudata		ENSLLTG00000012791	Lysine methyltransferase	NA
+Laticauda_laticaudata		ENSLLTG00000012798	Others	NA
+Laticauda_laticaudata	ING2	ENSLLTG00000012819	ING	NA
+Laticauda_laticaudata		ENSLLTG00000012820	Others	NA
+Laticauda_laticaudata		ENSLLTG00000012821	Others	NA
+Laticauda_laticaudata	TBPL2	ENSLLTG00000012884	TATA-box	NA
+Laticauda_laticaudata	RBM15	ENSLLTG00000012906	RNA binding protein	NA
+Laticauda_laticaudata	CALR	ENSLLTG00000012956	Others	NA
+Laticauda_laticaudata		ENSLLTG00000012971	WW	NA
+Laticauda_laticaudata	TXN	ENSLLTG00000013019	Others	NA
+Laticauda_laticaudata	BRD2	ENSLLTG00000013038	Bromodomain	NA
+Laticauda_laticaudata	EP300	ENSLLTG00000013080	Others	NA
+Laticauda_laticaudata	SFMBT1	ENSLLTG00000013119	Others	NA
+Laticauda_laticaudata		ENSLLTG00000013141	PARP	NA
+Laticauda_laticaudata	STK36	ENSLLTG00000013164	Others	NA
+Laticauda_laticaudata	INO80E	ENSLLTG00000013168	INO80 complex	NA
+Laticauda_laticaudata	CLU	ENSLLTG00000013183	Others	NA
+Laticauda_laticaudata	SLC26A5	ENSLLTG00000013187	SLC	NA
+Laticauda_laticaudata		ENSLLTG00000013188	INO80 complex	NA
+Laticauda_laticaudata	RNF25	ENSLLTG00000013210	Ring finger protein	NA
+Laticauda_laticaudata	FGFR2	ENSLLTG00000013229	FGF	NA
+Laticauda_laticaudata	GTF2F1	ENSLLTG00000013267	GTF	NA
+Laticauda_laticaudata	CTR9	ENSLLTG00000013286	Others	NA
+Laticauda_laticaudata		ENSLLTG00000013303	EID	NA
+Laticauda_laticaudata	FHL2	ENSLLTG00000013304	FHL	NA
+Laticauda_laticaudata	ECD	ENSLLTG00000013368	Others	NA
+Laticauda_laticaudata	SMARCD1	ENSLLTG00000013370	SWI/SNF	NA
+Laticauda_laticaudata	NPM3	ENSLLTG00000013414	Nucleoplasmin	NA
+Laticauda_laticaudata		ENSLLTG00000013442	Others	NA
+Laticauda_laticaudata	KDM8	ENSLLTG00000013481	Lysine demethylase	NA
+Laticauda_laticaudata		ENSLLTG00000013494	MAML	NA
+Laticauda_laticaudata	DCAF1	ENSLLTG00000013572	Others	NA
+Laticauda_laticaudata	CIR1	ENSLLTG00000013588	Other_Co-activator/repressors	NA
+Laticauda_laticaudata	PCGF1	ENSLLTG00000013594	PCGF	NA
+Laticauda_laticaudata	PAGR1	ENSLLTG00000013628	Others	NA
+Laticauda_laticaudata	TAF1A	ENSLLTG00000013654	TATA-box	NA
+Laticauda_laticaudata	HIF1AN	ENSLLTG00000013658	Others	NA
+Laticauda_laticaudata	SS18L2	ENSLLTG00000013667	SS18	NA
+Laticauda_laticaudata	DAB2	ENSLLTG00000013690	Others	NA
+Laticauda_laticaudata	HCK	ENSLLTG00000013698	Others	NA
+Laticauda_laticaudata	RNF168	ENSLLTG00000013715	Ring finger protein	NA
+Laticauda_laticaudata		ENSLLTG00000013773	Heat shock protein	NA
+Laticauda_laticaudata	VGLL4	ENSLLTG00000013776	Vestigial like	NA
+Laticauda_laticaudata	PCGF3	ENSLLTG00000013825	PCGF	NA
+Laticauda_laticaudata	DEPDC1	ENSLLTG00000013828	Others	NA
+Laticauda_laticaudata	RLIM	ENSLLTG00000013859	Ring finger protein	NA
+Laticauda_laticaudata	CCNT2	ENSLLTG00000013864	Cyclin	NA
+Laticauda_laticaudata	SQSTM1	ENSLLTG00000013924	Others	NA
+Laticauda_laticaudata	EYA2	ENSLLTG00000013940	EYA	NA
+Laticauda_laticaudata	CCAR1	ENSLLTG00000013965	Others	NA
+Laticauda_laticaudata	HYAL2	ENSLLTG00000013973	Others	NA
+Laticauda_laticaudata	ELP2	ENSLLTG00000013983	ELP	NA
+Laticauda_laticaudata	PNRC2	ENSLLTG00000014000	Others	NA
+Laticauda_laticaudata	RNF111	ENSLLTG00000014012	Ring finger protein	NA
+Laticauda_laticaudata		ENSLLTG00000014027	BCL	NA
+Laticauda_laticaudata	AIP	ENSLLTG00000014051	Others	NA
+Laticauda_laticaudata	PRMT1	ENSLLTG00000014052	Arginine methyltransferase	NA
+Laticauda_laticaudata		ENSLLTG00000014059	Others	NA
+Laticauda_laticaudata	YES1	ENSLLTG00000014071	Others	NA
+Laticauda_laticaudata	MED27	ENSLLTG00000014115	Mediator complex	NA
+Laticauda_laticaudata	GTF2E1	ENSLLTG00000014174	GTF	NA
+Laticauda_laticaudata	TRADD	ENSLLTG00000014197	Others	NA
+Laticauda_laticaudata	SIRT6	ENSLLTG00000014217	Sirtuin	NA
+Laticauda_laticaudata	NFKBIZ	ENSLLTG00000014225	NFKB associated	NA
+Laticauda_laticaudata	ANP32B	ENSLLTG00000014232	ANP	NA
+Laticauda_laticaudata	TES	ENSLLTG00000014237	LIM	NA
+Laticauda_laticaudata	HDGF	ENSLLTG00000014295	Others	NA
+Laticauda_laticaudata	NUDT5	ENSLLTG00000014375	Other_CRF	NA
+Laticauda_laticaudata	PLRG1	ENSLLTG00000014442	Others	NA
+Laticauda_laticaudata		ENSLLTG00000014489	GTF	NA
+Laticauda_laticaudata		ENSLLTG00000014536	Others	NA
+Laticauda_laticaudata	ZMYND8	ENSLLTG00000014621	Zinc finger	NA
+Laticauda_laticaudata	TAF15	ENSLLTG00000014650	TATA-box	NA
+Laticauda_laticaudata	EWSR1	ENSLLTG00000014677	Others	NA
+Laticauda_laticaudata	THOC5	ENSLLTG00000014694	Others	NA
+Laticauda_laticaudata	HAT1	ENSLLTG00000014796	Others	NA
+Laticauda_laticaudata	RBPMS2	ENSLLTG00000014804	RNA binding protein	NA
+Laticauda_laticaudata	GTF2H4	ENSLLTG00000014832	GTF	NA
+Laticauda_laticaudata	MED10	ENSLLTG00000014991	Mediator complex	NA
+Laticauda_laticaudata	KMT5B	ENSLLTG00000015038	Lysine methyltransferase	NA
+Laticauda_laticaudata	TDG	ENSLLTG00000015044	Others	NA
+Laticauda_laticaudata	POU2AF1	ENSLLTG00000015085	Others	NA
+Laticauda_laticaudata	CBL	ENSLLTG00000015100	Others	NA
+Laticauda_laticaudata	EDRF1	ENSLLTG00000015102	Others	NA
+Laticauda_laticaudata		ENSLLTG00000015109	Others	NA
+Laticauda_laticaudata	CCNA2	ENSLLTG00000015140	Cyclin	NA
+Laticauda_laticaudata	CTNNB1	ENSLLTG00000015154	Casein	NA
+Laticauda_laticaudata		ENSLLTG00000015224	Mediator complex	NA
+Laticauda_laticaudata	REXO4	ENSLLTG00000015305	Others	NA
+Laticauda_laticaudata	BAZ1B	ENSLLTG00000015317	Bromodomain	NA
+Laticauda_laticaudata	UXT	ENSLLTG00000015333	Others	NA
+Laticauda_laticaudata	MED22	ENSLLTG00000015334	Mediator complex	NA
+Laticauda_laticaudata		ENSLLTG00000015343	Other_CRF	NA
+Laticauda_laticaudata	IKBKB	ENSLLTG00000015350	Others	NA
+Laticauda_laticaudata	BRD1	ENSLLTG00000015353	Bromodomain	NA
+Laticauda_laticaudata	DVL2	ENSLLTG00000015378	Others	NA
+Laticauda_laticaudata	MYOCD	ENSLLTG00000015416	Others	NA
+Laticauda_laticaudata	RHOA	ENSLLTG00000015432	Others	NA
+Laticauda_laticaudata	HSPA8	ENSLLTG00000015487	Heat shock protein	NA
+Laticauda_laticaudata	MDM4	ENSLLTG00000015518	Others	NA
+Laticauda_laticaudata	TAF10	ENSLLTG00000015527	TATA-box	NA
+Laticauda_laticaudata	ILK	ENSLLTG00000015534	Others	NA
+Laticauda_laticaudata	RNF2	ENSLLTG00000015563	Ring finger protein	NA
+Laticauda_laticaudata	ERCC3	ENSLLTG00000015599	Others	NA
+Laticauda_laticaudata	TOB2	ENSLLTG00000015610	Others	NA
+Laticauda_laticaudata	TCF20	ENSLLTG00000015626	Others	NA
+Laticauda_laticaudata	ASH2L	ENSLLTG00000015685	Others	NA
+Laticauda_laticaudata	MCRS1	ENSLLTG00000015733	Others	NA
+Laticauda_laticaudata	FHOD1	ENSLLTG00000015742	Others	NA
+Laticauda_laticaudata	SMARCA5	ENSLLTG00000015744	SWI/SNF	NA
+Laticauda_laticaudata		ENSLLTG00000015749	ANP	NA
+Laticauda_laticaudata	PKP4	ENSLLTG00000015770	Casein	NA
+Laticauda_laticaudata	HNRNPK	ENSLLTG00000015823	HNRNP	NA
+Laticauda_laticaudata		ENSLLTG00000015833	RNA helicase	NA
+Laticauda_laticaudata		ENSLLTG00000015839	Others	NA
+Laticauda_laticaudata	ERN1	ENSLLTG00000015862	Others	NA
+Laticauda_laticaudata	POLR2A	ENSLLTG00000015865	POLR	NA
+Laticauda_laticaudata		ENSLLTG00000015885	Others	NA
+Laticauda_laticaudata		ENSLLTG00000015895	Others	NA
+Laticauda_laticaudata	BTRC	ENSLLTG00000015936	Others	NA
+Laticauda_laticaudata	TASOR	ENSLLTG00000015940	FAM	NA
+Laticauda_laticaudata	SAMD4B	ENSLLTG00000016036	Others	NA
+Laticauda_laticaudata		ENSLLTG00000016041	Others	NA
+Laticauda_laticaudata	PAF1	ENSLLTG00000016045	Others	NA
+Laticauda_laticaudata	RDH10	ENSLLTG00000016052	Others	NA
+Laticauda_laticaudata	CAVIN1	ENSLLTG00000016066	Others	NA
+Laticauda_laticaudata	STRN4	ENSLLTG00000016083	Others	NA
+Laticauda_laticaudata	CEP290	ENSLLTG00000016116	Others	NA
+Laticauda_laticaudata	YEATS2	ENSLLTG00000016128	Others	NA
+Laticauda_laticaudata		ENSLLTG00000016182	Others	NA
+Laticauda_laticaudata	KCNIP3	ENSLLTG00000016185	Others	NA
+Laticauda_laticaudata		ENSLLTG00000016217	Others	NA
+Laticauda_laticaudata	ZNF593	ENSLLTG00000016384	Zinc finger	NA
+Laticauda_laticaudata		ENSLLTG00000016408	Others	NA
+Laticauda_laticaudata	MDFI	ENSLLTG00000016475	Others	NA
+Laticauda_laticaudata	HMOX1	ENSLLTG00000016512	Others	NA
+Laticauda_laticaudata	LOXL3	ENSLLTG00000016525	Others	NA
+Laticauda_laticaudata	DDX39B	ENSLLTG00000016551	RNA helicase	NA
+Laticauda_laticaudata	HCFC1	ENSLLTG00000016564	Others	NA
+Laticauda_laticaudata	CHD9	ENSLLTG00000016619	CHD	NA
+Laticauda_laticaudata	RBL2	ENSLLTG00000016626	Other_Co-activator/repressors	NA
+Laticauda_laticaudata	SKOR1	ENSLLTG00000016629	SKI	NA
+Laticauda_laticaudata	BLM	ENSLLTG00000016647	Others	NA
+Laticauda_laticaudata		ENSLLTG00000016683	Others	NA
+Laticauda_laticaudata	SMARCB1	ENSLLTG00000016705	SWI/SNF	NA
+Laticauda_laticaudata	PRMT5	ENSLLTG00000016717	Arginine methyltransferase	NA
+Laticauda_laticaudata	CDK12	ENSLLTG00000016744	Cyclin	NA
+Laticauda_laticaudata	PNRC1	ENSLLTG00000016793	Others	NA
+Laticauda_laticaudata		ENSLLTG00000016800	Lysine demethylase	NA
+Laticauda_laticaudata		ENSLLTG00000016828	GTF	NA
+Laticauda_laticaudata	WDTC1	ENSLLTG00000016856	WD	NA
+Laticauda_laticaudata	BRMS1L	ENSLLTG00000016864	Other_CRF	NA
+Laticauda_laticaudata	CDK5RAP3	ENSLLTG00000016881	Cyclin	NA
+Laticauda_laticaudata	NELFA	ENSLLTG00000016912	GTF	NA
+Laticauda_laticaudata	JUP	ENSLLTG00000016939	Others	NA
+Laticauda_laticaudata	CHUK	ENSLLTG00000016951	Others	NA
+Laticauda_laticaudata	HDAC1	ENSLLTG00000016954	Histone deacetylase	NA
+Laticauda_laticaudata		ENSLLTG00000016958	Others	NA
+Laticauda_laticaudata	KATNA1	ENSLLTG00000016968	Thyroid hormone receptor	NA
+Laticauda_laticaudata	RWDD3	ENSLLTG00000017010	Others	NA
+Laticauda_laticaudata	ING3	ENSLLTG00000017047	ING	NA
+Laticauda_laticaudata	SCAI	ENSLLTG00000017064	Others	NA
+Laticauda_laticaudata	HIPK1	ENSLLTG00000017139	HIPK	NA
+Laticauda_laticaudata	RBM39	ENSLLTG00000017146	RNA binding protein	NA
+Laticauda_laticaudata	FLII	ENSLLTG00000017178	Others	NA
+Laticauda_laticaudata	CBFA2T3	ENSLLTG00000017188	Others	NA
+Laticauda_laticaudata	BAZ1A	ENSLLTG00000017197	Bromodomain	NA
+Laticauda_laticaudata		ENSLLTG00000017201	Coiled-coil	NA
+Laticauda_laticaudata	CALCOCO1	ENSLLTG00000017278	Others	NA
+Laticauda_laticaudata	SRA1	ENSLLTG00000017285	Others	NA
+Laticauda_laticaudata	PBXIP1	ENSLLTG00000017309	Others	NA
+Laticauda_laticaudata	PYGO2	ENSLLTG00000017313	Others	NA
+Laticauda_laticaudata	RDX	ENSLLTG00000017322	Others	NA
+Laticauda_laticaudata	GMNN	ENSLLTG00000017362	Others	NA
+Laticauda_laticaudata	SIAH1	ENSLLTG00000017367	Others	NA
+Laticauda_laticaudata	DAXX	ENSLLTG00000017388	Other_CRF	NA
+Laticauda_laticaudata	MED7	ENSLLTG00000017404	Mediator complex	NA
+Laticauda_laticaudata	BANP	ENSLLTG00000017414	Others	NA
+Laticauda_laticaudata	ALYREF	ENSLLTG00000017445	Others	NA
+Laticauda_laticaudata	DDX5	ENSLLTG00000017481	RNA helicase	NA
+Laticauda_laticaudata	TOB1	ENSLLTG00000017549	Others	NA
+Laticauda_laticaudata	TAB1	ENSLLTG00000017607	Others	NA
+Laticauda_laticaudata	PHF8	ENSLLTG00000017639	PHF	NA
+Laticauda_laticaudata	SAP30	ENSLLTG00000017641	SAP	NA
+Laticauda_laticaudata	XRN2	ENSLLTG00000017649	Others	NA
+Laticauda_laticaudata	SIRT5	ENSLLTG00000017651	Sirtuin	NA
+Laticauda_laticaudata	MDM2	ENSLLTG00000017681	Others	NA
+Laticauda_laticaudata	TGFB1I1	ENSLLTG00000017686	Others	NA
+Laticauda_laticaudata	MED23	ENSLLTG00000017707	Mediator complex	NA
+Laticauda_laticaudata	DAPK2	ENSLLTG00000017721	Others	NA
+Laticauda_laticaudata	JADE1	ENSLLTG00000017755	Others	NA
+Laticauda_laticaudata		ENSLLTG00000017792	Others	NA
+Laticauda_laticaudata	TXLNG	ENSLLTG00000017799	Others	NA
+Laticauda_laticaudata	LBH	ENSLLTG00000017805	Others	NA
+Laticauda_laticaudata	DTX1	ENSLLTG00000017883	Others	NA
+Laticauda_laticaudata	SPEN	ENSLLTG00000017934	Others	NA
+Laticauda_laticaudata		ENSLLTG00000017935	Others	NA
+Laticauda_laticaudata		ENSLLTG00000018005	BCL	NA
+Laticauda_laticaudata	CDYL2	ENSLLTG00000018030	Chromodomain Y	NA
+Laticauda_laticaudata	WDR5B	ENSLLTG00000018060	WD	NA
+Laticauda_laticaudata	BRD3	ENSLLTG00000018063	Bromodomain	NA
+Laticauda_laticaudata	DYRK1A	ENSLLTG00000018088	Others	NA
+Laticauda_laticaudata	DACT1	ENSLLTG00000018133	Others	NA
+Laticauda_laticaudata	SMYD1	ENSLLTG00000018142	SMYD	NA
+Laticauda_laticaudata	PAK4	ENSLLTG00000018156	Others	NA
+Laticauda_laticaudata	PUF60	ENSLLTG00000018157	Others	NA
+Laticauda_laticaudata		ENSLLTG00000018159	Others	NA
+Laticauda_laticaudata	TAF5L	ENSLLTG00000018294	TATA-box	NA
+Laticauda_laticaudata	KMT5C	ENSLLTG00000018314	Lysine methyltransferase	NA
+Laticauda_laticaudata	DOT1L	ENSLLTG00000018416	Others	NA
+Laticauda_laticaudata	WBP2	ENSLLTG00000018443	WW	NA

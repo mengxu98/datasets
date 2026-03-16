@@ -1,0 +1,892 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Vombatus_ursinus	ERCC2	ENSVURG00010000006	Others	NA
+Vombatus_ursinus		ENSVURG00010000125	Lysine demethylase	NA
+Vombatus_ursinus	SKOR2	ENSVURG00010000155	SKI	NA
+Vombatus_ursinus	TSG101	ENSVURG00010000198	Others	NA
+Vombatus_ursinus	TAF6	ENSVURG00010000237	TATA-box	NA
+Vombatus_ursinus		ENSVURG00010000271	Other_CRF	NA
+Vombatus_ursinus		ENSVURG00010000298	RNA binding protein	NA
+Vombatus_ursinus		ENSVURG00010000327	Others	NA
+Vombatus_ursinus		ENSVURG00010000406	Others	NA
+Vombatus_ursinus	NRBF2	ENSVURG00010000410	Nuclear receptor coactivator	NA
+Vombatus_ursinus	HDAC1	ENSVURG00010000417	Histone deacetylase	NA
+Vombatus_ursinus		ENSVURG00010000419	Others	NA
+Vombatus_ursinus		ENSVURG00010000430	GTF	NA
+Vombatus_ursinus	TXLNG	ENSVURG00010000449	Others	NA
+Vombatus_ursinus	RBBP7	ENSVURG00010000500	RBBP	NA
+Vombatus_ursinus	CDK5R1	ENSVURG00010000512	Cyclin	NA
+Vombatus_ursinus	SETD6	ENSVURG00010000519	SET	NA
+Vombatus_ursinus	TRIP11	ENSVURG00010000541	Thyroid hormone receptor	NA
+Vombatus_ursinus	CNOT1	ENSVURG00010000546	CCR4-NOT	NA
+Vombatus_ursinus	RBM14	ENSVURG00010000560	RNA binding protein	NA
+Vombatus_ursinus	NSD1	ENSVURG00010000617	Nuclear receptor coactivator	NA
+Vombatus_ursinus	ACTL6B	ENSVURG00010000628	Actin	NA
+Vombatus_ursinus		ENSVURG00010000744	Cyclin	NA
+Vombatus_ursinus	ANP32E	ENSVURG00010000762	ANP	NA
+Vombatus_ursinus	RUNX1T1	ENSVURG00010000776	Others	NA
+Vombatus_ursinus	DNMT3A	ENSVURG00010000794	DNA_methylase	NA
+Vombatus_ursinus	TAF5	ENSVURG00010000796	TATA-box	NA
+Vombatus_ursinus	NCOA3	ENSVURG00010000823	Nuclear receptor coactivator	NA
+Vombatus_ursinus		ENSVURG00010000831	CHD	NA
+Vombatus_ursinus	LOXL2	ENSVURG00010000862	Others	NA
+Vombatus_ursinus	CCDC59	ENSVURG00010000865	Coiled-coil	NA
+Vombatus_ursinus	PCGF6	ENSVURG00010000868	PCGF	NA
+Vombatus_ursinus		ENSVURG00010000940	SS18	NA
+Vombatus_ursinus	ZMYND8	ENSVURG00010000949	Zinc finger	NA
+Vombatus_ursinus	BRMS1	ENSVURG00010000950	Other_CRF	NA
+Vombatus_ursinus	INSR	ENSVURG00010001042	Others	NA
+Vombatus_ursinus		ENSVURG00010001053	TATA-box	NA
+Vombatus_ursinus	RPAP2	ENSVURG00010001077	Others	NA
+Vombatus_ursinus	EYA2	ENSVURG00010001090	EYA	NA
+Vombatus_ursinus	TRIP6	ENSVURG00010001101	Thyroid hormone receptor	NA
+Vombatus_ursinus	SPEN	ENSVURG00010001113	Others	NA
+Vombatus_ursinus	BCL9	ENSVURG00010001154	BCL	NA
+Vombatus_ursinus	FBXW11	ENSVURG00010001229	Others	NA
+Vombatus_ursinus	RWDD3	ENSVURG00010001260	Others	NA
+Vombatus_ursinus	DRAP1	ENSVURG00010001269	Others	NA
+Vombatus_ursinus	CCDC85B	ENSVURG00010001328	Coiled-coil	NA
+Vombatus_ursinus	PDLIM1	ENSVURG00010001396	Others	NA
+Vombatus_ursinus	TRIM8	ENSVURG00010001450	Tripartite motif	NA
+Vombatus_ursinus	DCC	ENSVURG00010001452	Others	NA
+Vombatus_ursinus	STRN3	ENSVURG00010001455	Others	NA
+Vombatus_ursinus		ENSVURG00010001462	Nucleoplasmin	NA
+Vombatus_ursinus	PAWR	ENSVURG00010001479	Others	NA
+Vombatus_ursinus	SUFU	ENSVURG00010001480	Others	NA
+Vombatus_ursinus	SNX32	ENSVURG00010001488	Others	NA
+Vombatus_ursinus	TAF6L	ENSVURG00010001513	TATA-box	NA
+Vombatus_ursinus	KAT5	ENSVURG00010001567	Lysine acetyltransferase	NA
+Vombatus_ursinus	ING4	ENSVURG00010001569	ING	NA
+Vombatus_ursinus	XRCC6	ENSVURG00010001619	Others	NA
+Vombatus_ursinus	GTF2H4	ENSVURG00010001623	GTF	NA
+Vombatus_ursinus		ENSVURG00010001690	Other_CRF	NA
+Vombatus_ursinus	PHF5A	ENSVURG00010001740	PHF	NA
+Vombatus_ursinus	BCOR	ENSVURG00010001750	Other_Co-activator/repressors	NA
+Vombatus_ursinus	TOB2	ENSVURG00010001752	Others	NA
+Vombatus_ursinus	DAB2	ENSVURG00010001765	Others	NA
+Vombatus_ursinus	YWHAB	ENSVURG00010001775	Others	NA
+Vombatus_ursinus	HDAC10	ENSVURG00010001834	Histone deacetylase	NA
+Vombatus_ursinus		ENSVURG00010001862	POLR	NA
+Vombatus_ursinus	GTF2H3	ENSVURG00010001889	GTF	NA
+Vombatus_ursinus	DDX39B	ENSVURG00010001931	RNA helicase	NA
+Vombatus_ursinus	MED14	ENSVURG00010001935	Mediator complex	NA
+Vombatus_ursinus	LDB1	ENSVURG00010001956	LIM	NA
+Vombatus_ursinus	ATN1	ENSVURG00010001982	Others	NA
+Vombatus_ursinus	L3MBTL2	ENSVURG00010001993	Others	NA
+Vombatus_ursinus	DEK	ENSVURG00010001997	Other_CRF	NA
+Vombatus_ursinus	EP300	ENSVURG00010002025	Others	NA
+Vombatus_ursinus	DPF2	ENSVURG00010002049	DPF	NA
+Vombatus_ursinus	MED11	ENSVURG00010002054	Mediator complex	NA
+Vombatus_ursinus		ENSVURG00010002056	TATA-box	NA
+Vombatus_ursinus	ARRB2	ENSVURG00010002065	Others	NA
+Vombatus_ursinus		ENSVURG00010002073	Lysine demethylase	NA
+Vombatus_ursinus	ARHGAP5	ENSVURG00010002087	Others	NA
+Vombatus_ursinus		ENSVURG00010002098	Lysine methyltransferase	NA
+Vombatus_ursinus	STK36	ENSVURG00010002099	Others	NA
+Vombatus_ursinus	RBX1	ENSVURG00010002126	Others	NA
+Vombatus_ursinus	PELP1	ENSVURG00010002128	Others	NA
+Vombatus_ursinus	RNF25	ENSVURG00010002169	Ring finger protein	NA
+Vombatus_ursinus	CXXC1	ENSVURG00010002210	Others	NA
+Vombatus_ursinus	PPIE	ENSVURG00010002243	Others	NA
+Vombatus_ursinus	CTDSP1	ENSVURG00010002333	Others	NA
+Vombatus_ursinus	WWC1	ENSVURG00010002355	WW	NA
+Vombatus_ursinus	BTK	ENSVURG00010002363	Others	NA
+Vombatus_ursinus	AEBP1	ENSVURG00010002418	Others	NA
+Vombatus_ursinus	SMARCAD1	ENSVURG00010002424	SWI/SNF	NA
+Vombatus_ursinus	MRTFA	ENSVURG00010002430	Others	NA
+Vombatus_ursinus	TENM2	ENSVURG00010002449	Others	NA
+Vombatus_ursinus	NIPBL	ENSVURG00010002474	Others	NA
+Vombatus_ursinus	YEATS2	ENSVURG00010002480	Others	NA
+Vombatus_ursinus	NPM3	ENSVURG00010002534	Nucleoplasmin	NA
+Vombatus_ursinus	LDB2	ENSVURG00010002542	LIM	NA
+Vombatus_ursinus	KDM5B	ENSVURG00010002546	Lysine demethylase	NA
+Vombatus_ursinus	FHL3	ENSVURG00010002588	FHL	NA
+Vombatus_ursinus		ENSVURG00010002641	Others	NA
+Vombatus_ursinus	DVL2	ENSVURG00010002644	Others	NA
+Vombatus_ursinus	MED28	ENSVURG00010002668	Mediator complex	NA
+Vombatus_ursinus		ENSVURG00010002676	Others	NA
+Vombatus_ursinus	SETD3	ENSVURG00010002706	SET	NA
+Vombatus_ursinus		ENSVURG00010002712	CITED	NA
+Vombatus_ursinus	CCNK	ENSVURG00010002721	Cyclin	NA
+Vombatus_ursinus	FBRSL1	ENSVURG00010002730	Others	NA
+Vombatus_ursinus	BTRC	ENSVURG00010002745	Others	NA
+Vombatus_ursinus	CDYL2	ENSVURG00010002774	Chromodomain Y	NA
+Vombatus_ursinus	CASK	ENSVURG00010002778	CAMK	NA
+Vombatus_ursinus	CCDC62	ENSVURG00010002816	Coiled-coil	NA
+Vombatus_ursinus	SNIP1	ENSVURG00010002829	Others	NA
+Vombatus_ursinus	CITED2	ENSVURG00010002923	CITED	NA
+Vombatus_ursinus	TAB1	ENSVURG00010002960	Others	NA
+Vombatus_ursinus	SIRT5	ENSVURG00010003015	Sirtuin	NA
+Vombatus_ursinus		ENSVURG00010003024	Others	NA
+Vombatus_ursinus	POLR2A	ENSVURG00010003044	POLR	NA
+Vombatus_ursinus	RNF20	ENSVURG00010003100	Ring finger protein	NA
+Vombatus_ursinus	GTF2E1	ENSVURG00010003107	GTF	NA
+Vombatus_ursinus	NLRP12	ENSVURG00010003116	Others	NA
+Vombatus_ursinus	THRAP3	ENSVURG00010003132	Thyroid hormone receptor	NA
+Vombatus_ursinus		ENSVURG00010003138	Others	NA
+Vombatus_ursinus		ENSVURG00010003150	Lysine demethylase	NA
+Vombatus_ursinus	MEN1	ENSVURG00010003169	Others	NA
+Vombatus_ursinus	DDX17	ENSVURG00010003233	RNA helicase	NA
+Vombatus_ursinus	HIF1AN	ENSVURG00010003265	Others	NA
+Vombatus_ursinus	TGFB1	ENSVURG00010003334	Others	NA
+Vombatus_ursinus	AGO1	ENSVURG00010003341	Others	NA
+Vombatus_ursinus	TRIM29	ENSVURG00010003363	Tripartite motif	NA
+Vombatus_ursinus	SF1	ENSVURG00010003379	Others	NA
+Vombatus_ursinus	KMT5C	ENSVURG00010003386	Lysine methyltransferase	NA
+Vombatus_ursinus	MAK	ENSVURG00010003434	Others	NA
+Vombatus_ursinus	TADA1	ENSVURG00010003474	Transcriptional adaptor	NA
+Vombatus_ursinus	SFSWAP	ENSVURG00010003475	Others	NA
+Vombatus_ursinus	RAP2C	ENSVURG00010003494	Others	NA
+Vombatus_ursinus	SUV39H1	ENSVURG00010003534	Others	NA
+Vombatus_ursinus	ERBB4	ENSVURG00010003549	Erbb2	NA
+Vombatus_ursinus	ALPK3	ENSVURG00010003555	Others	NA
+Vombatus_ursinus	SND1	ENSVURG00010003582	Others	NA
+Vombatus_ursinus	CBL	ENSVURG00010003598	Others	NA
+Vombatus_ursinus	HTATIP2	ENSVURG00010003615	Others	NA
+Vombatus_ursinus	KDM6B	ENSVURG00010003672	Lysine demethylase	NA
+Vombatus_ursinus	BAZ1B	ENSVURG00010003681	Bromodomain	NA
+Vombatus_ursinus	CSRP3	ENSVURG00010003729	Others	NA
+Vombatus_ursinus	LRRK2	ENSVURG00010003730	Other_CRF	NA
+Vombatus_ursinus	CREG1	ENSVURG00010003741	Others	NA
+Vombatus_ursinus	CHD3	ENSVURG00010003787	CHD	NA
+Vombatus_ursinus	RAN	ENSVURG00010003838	Others	NA
+Vombatus_ursinus	NELFE	ENSVURG00010003903	GTF	NA
+Vombatus_ursinus	DCAF6	ENSVURG00010003937	Others	NA
+Vombatus_ursinus		ENSVURG00010004009	Others	NA
+Vombatus_ursinus	AURKB	ENSVURG00010004054	Others	NA
+Vombatus_ursinus	MALT1	ENSVURG00010004098	Others	NA
+Vombatus_ursinus	PPARGC1A	ENSVURG00010004128	Others	NA
+Vombatus_ursinus	COPS2	ENSVURG00010004145	Others	NA
+Vombatus_ursinus	SGK1	ENSVURG00010004201	Others	NA
+Vombatus_ursinus	BCL9L	ENSVURG00010004206	BCL	NA
+Vombatus_ursinus	CLU	ENSVURG00010004214	Others	NA
+Vombatus_ursinus	PSIP1	ENSVURG00010004263	Others	NA
+Vombatus_ursinus	TBPL1	ENSVURG00010004299	TATA-box	NA
+Vombatus_ursinus	CTR9	ENSVURG00010004315	Others	NA
+Vombatus_ursinus		ENSVURG00010004334	TATA-box	NA
+Vombatus_ursinus	RNF141	ENSVURG00010004381	Ring finger protein	NA
+Vombatus_ursinus	EYA4	ENSVURG00010004394	EYA	NA
+Vombatus_ursinus		ENSVURG00010004411	Others	NA
+Vombatus_ursinus		ENSVURG00010004414	Chromodomain Y	NA
+Vombatus_ursinus	XIAP	ENSVURG00010004459	Others	NA
+Vombatus_ursinus	DTX1	ENSVURG00010004519	Others	NA
+Vombatus_ursinus	BTN1A1	ENSVURG00010004551	Others	NA
+Vombatus_ursinus	SUPT3H	ENSVURG00010004557	SUPT	NA
+Vombatus_ursinus	RBFOX2	ENSVURG00010004569	Others	NA
+Vombatus_ursinus	PHIP	ENSVURG00010004597	Others	NA
+Vombatus_ursinus	DDX54	ENSVURG00010004607	RNA helicase	NA
+Vombatus_ursinus		ENSVURG00010004611	Lysine methyltransferase	NA
+Vombatus_ursinus	TENM1	ENSVURG00010004612	Others	NA
+Vombatus_ursinus	RITA1	ENSVURG00010004656	Others	NA
+Vombatus_ursinus	SIRT3	ENSVURG00010004660	Sirtuin	NA
+Vombatus_ursinus	PRDX5	ENSVURG00010004670	Others	NA
+Vombatus_ursinus		ENSVURG00010004705	Others	NA
+Vombatus_ursinus	ILK	ENSVURG00010004730	Others	NA
+Vombatus_ursinus	MED7	ENSVURG00010004800	Mediator complex	NA
+Vombatus_ursinus		ENSVURG00010004808	Others	NA
+Vombatus_ursinus	LEO1	ENSVURG00010004832	Others	NA
+Vombatus_ursinus	APBB1	ENSVURG00010004933	Others	NA
+Vombatus_ursinus	VEGFA	ENSVURG00010004952	Other_CRF	NA
+Vombatus_ursinus		ENSVURG00010004956	Histone cluster 1 H1	NA
+Vombatus_ursinus		ENSVURG00010004958	Others	NA
+Vombatus_ursinus		ENSVURG00010004975	CCR4-NOT	NA
+Vombatus_ursinus	MED13L	ENSVURG00010004979	Mediator complex	NA
+Vombatus_ursinus	FGF20	ENSVURG00010005022	FGF	NA
+Vombatus_ursinus	NRIP3	ENSVURG00010005051	Nuclear coactivator	NA
+Vombatus_ursinus	INO80D	ENSVURG00010005077	INO80 complex	NA
+Vombatus_ursinus	CRY1	ENSVURG00010005080	Others	NA
+Vombatus_ursinus	WWP1	ENSVURG00010005187	WW	NA
+Vombatus_ursinus	PIDD1	ENSVURG00010005199	Others	NA
+Vombatus_ursinus		ENSVURG00010005245	Coiled-coil	NA
+Vombatus_ursinus	EPC2	ENSVURG00010005272	Others	NA
+Vombatus_ursinus	SAP30L	ENSVURG00010005280	SAP	NA
+Vombatus_ursinus	RLIM	ENSVURG00010005341	Ring finger protein	NA
+Vombatus_ursinus	RIPK2	ENSVURG00010005344	Others	NA
+Vombatus_ursinus	LMO1	ENSVURG00010005360	LIM	NA
+Vombatus_ursinus	MED24	ENSVURG00010005366	Mediator complex	NA
+Vombatus_ursinus	SIVA1	ENSVURG00010005407	Others	NA
+Vombatus_ursinus	EAF2	ENSVURG00010005454	Others	NA
+Vombatus_ursinus		ENSVURG00010005478	Others	NA
+Vombatus_ursinus		ENSVURG00010005483	Notch	NA
+Vombatus_ursinus	TESC	ENSVURG00010005485	Others	NA
+Vombatus_ursinus		ENSVURG00010005507	Actin	NA
+Vombatus_ursinus	XRN2	ENSVURG00010005531	Others	NA
+Vombatus_ursinus	KDM5A	ENSVURG00010005545	Lysine demethylase	NA
+Vombatus_ursinus	HCFC2	ENSVURG00010005546	Others	NA
+Vombatus_ursinus		ENSVURG00010005552	Others	NA
+Vombatus_ursinus	HDAC7	ENSVURG00010005565	Histone deacetylase	NA
+Vombatus_ursinus	CNOT7	ENSVURG00010005597	CCR4-NOT	NA
+Vombatus_ursinus	KDM4C	ENSVURG00010005641	Lysine demethylase	NA
+Vombatus_ursinus	ELL3	ENSVURG00010005699	GTF	NA
+Vombatus_ursinus		ENSVURG00010005723	Others	NA
+Vombatus_ursinus	CNOT2	ENSVURG00010005783	CCR4-NOT	NA
+Vombatus_ursinus	SENP1	ENSVURG00010005800	Others	NA
+Vombatus_ursinus	TAF9	ENSVURG00010005813	TATA-box	NA
+Vombatus_ursinus	ERBB2	ENSVURG00010005846	Erbb2	NA
+Vombatus_ursinus		ENSVURG00010005848	TEF	NA
+Vombatus_ursinus		ENSVURG00010005855	PARP	NA
+Vombatus_ursinus	EDF1	ENSVURG00010005862	Others	NA
+Vombatus_ursinus		ENSVURG00010005867	PARP	NA
+Vombatus_ursinus		ENSVURG00010005941	CAMK	NA
+Vombatus_ursinus	SMARCA4	ENSVURG00010005971	SWI/SNF	NA
+Vombatus_ursinus	MED19	ENSVURG00010005992	Mediator complex	NA
+Vombatus_ursinus		ENSVURG00010006012	Others	NA
+Vombatus_ursinus	CDK12	ENSVURG00010006051	Cyclin	NA
+Vombatus_ursinus	CTNND1	ENSVURG00010006081	Casein	NA
+Vombatus_ursinus	MED1	ENSVURG00010006113	Mediator complex	NA
+Vombatus_ursinus	CCNT1	ENSVURG00010006120	Cyclin	NA
+Vombatus_ursinus	SUDS3	ENSVURG00010006126	Other_Co-activator/repressors	NA
+Vombatus_ursinus	EED	ENSVURG00010006129	Others	NA
+Vombatus_ursinus		ENSVURG00010006158	CHD	NA
+Vombatus_ursinus	FAM83G	ENSVURG00010006169	FAM	NA
+Vombatus_ursinus		ENSVURG00010006174	Others	NA
+Vombatus_ursinus	LGALS12	ENSVURG00010006192	Others	NA
+Vombatus_ursinus	TP53BP1	ENSVURG00010006209	Others	NA
+Vombatus_ursinus	PICALM	ENSVURG00010006226	Others	NA
+Vombatus_ursinus	TOPORS	ENSVURG00010006285	Others	NA
+Vombatus_ursinus	POLR3F	ENSVURG00010006328	POLR	NA
+Vombatus_ursinus	TNKS	ENSVURG00010006334	Others	NA
+Vombatus_ursinus		ENSVURG00010006335	Other_CRF	NA
+Vombatus_ursinus	TNIP1	ENSVURG00010006352	Others	NA
+Vombatus_ursinus	PNRC1	ENSVURG00010006394	Others	NA
+Vombatus_ursinus	TRIM33	ENSVURG00010006426	Tripartite motif	NA
+Vombatus_ursinus	NELFB	ENSVURG00010006429	GTF	NA
+Vombatus_ursinus	MTDH	ENSVURG00010006472	Others	NA
+Vombatus_ursinus		ENSVURG00010006474	Lysine methyltransferase	NA
+Vombatus_ursinus	CAMK4	ENSVURG00010006475	CAMK	NA
+Vombatus_ursinus	BLM	ENSVURG00010006529	Others	NA
+Vombatus_ursinus	STK3	ENSVURG00010006666	Others	NA
+Vombatus_ursinus	MCRS1	ENSVURG00010006673	Others	NA
+Vombatus_ursinus	RNF10	ENSVURG00010006703	Ring finger protein	NA
+Vombatus_ursinus		ENSVURG00010006717	Zinc finger	NA
+Vombatus_ursinus	PCGF2	ENSVURG00010006725	PCGF	NA
+Vombatus_ursinus	MLLT6	ENSVURG00010006746	Others	NA
+Vombatus_ursinus	CASP8AP2	ENSVURG00010006758	Others	NA
+Vombatus_ursinus	ATF7IP	ENSVURG00010006767	Others	NA
+Vombatus_ursinus	JAK2	ENSVURG00010006805	Others	NA
+Vombatus_ursinus	SYK	ENSVURG00010006902	Others	NA
+Vombatus_ursinus	UFL1	ENSVURG00010006905	Others	NA
+Vombatus_ursinus	SMARCD1	ENSVURG00010006919	SWI/SNF	NA
+Vombatus_ursinus	FHL5	ENSVURG00010006924	FHL	NA
+Vombatus_ursinus	NOTCH1	ENSVURG00010006963	Notch	NA
+Vombatus_ursinus		ENSVURG00010007000	Other_CRF	NA
+Vombatus_ursinus	WDTC1	ENSVURG00010007025	WD	NA
+Vombatus_ursinus	CCNC	ENSVURG00010007161	Cyclin	NA
+Vombatus_ursinus	BRD3	ENSVURG00010007166	Bromodomain	NA
+Vombatus_ursinus	SSBP3	ENSVURG00010007195	Others	NA
+Vombatus_ursinus	KDM8	ENSVURG00010007200	Lysine demethylase	NA
+Vombatus_ursinus	ASCC3	ENSVURG00010007236	ASCC	NA
+Vombatus_ursinus	ESF1	ENSVURG00010007304	Others	NA
+Vombatus_ursinus	CDKN1B	ENSVURG00010007349	Cyclin	NA
+Vombatus_ursinus	CCNT2	ENSVURG00010007382	Cyclin	NA
+Vombatus_ursinus	CDK5RAP3	ENSVURG00010007403	Cyclin	NA
+Vombatus_ursinus	HIPK1	ENSVURG00010007473	HIPK	NA
+Vombatus_ursinus	BAZ1A	ENSVURG00010007493	Bromodomain	NA
+Vombatus_ursinus	PID1	ENSVURG00010007505	Others	NA
+Vombatus_ursinus	SKAP1	ENSVURG00010007559	Others	NA
+Vombatus_ursinus	KANK1	ENSVURG00010007648	Others	NA
+Vombatus_ursinus	HR	ENSVURG00010007655	Lysine methyltransferase	NA
+Vombatus_ursinus	PCBD2	ENSVURG00010007681	Others	NA
+Vombatus_ursinus	CDK5	ENSVURG00010007698	Cyclin	NA
+Vombatus_ursinus	SMARCA2	ENSVURG00010007727	SWI/SNF	NA
+Vombatus_ursinus	CHD1L	ENSVURG00010007770	CHD	NA
+Vombatus_ursinus	RTF1	ENSVURG00010007777	Others	NA
+Vombatus_ursinus	PRMT8	ENSVURG00010007780	Arginine methyltransferase	NA
+Vombatus_ursinus		ENSVURG00010007797	Others	NA
+Vombatus_ursinus	INO80	ENSVURG00010007858	INO80 complex	NA
+Vombatus_ursinus	RNF168	ENSVURG00010007878	Ring finger protein	NA
+Vombatus_ursinus		ENSVURG00010007885	Nucleoplasmin	NA
+Vombatus_ursinus	CBX5	ENSVURG00010007960	Chromobox	NA
+Vombatus_ursinus	SMYD1	ENSVURG00010008003	SMYD	NA
+Vombatus_ursinus	TCF20	ENSVURG00010008011	Others	NA
+Vombatus_ursinus	NOTCH2	ENSVURG00010008016	Notch	NA
+Vombatus_ursinus	SMARCD3	ENSVURG00010008048	SWI/SNF	NA
+Vombatus_ursinus	LZTS1	ENSVURG00010008069	Others	NA
+Vombatus_ursinus	SLC30A9	ENSVURG00010008120	SLC	NA
+Vombatus_ursinus		ENSVURG00010008167	Others	NA
+Vombatus_ursinus	ABRA	ENSVURG00010008209	Actin	NA
+Vombatus_ursinus	HDAC5	ENSVURG00010008262	Histone deacetylase	NA
+Vombatus_ursinus	PPARGC1B	ENSVURG00010008276	Others	NA
+Vombatus_ursinus	PAK6	ENSVURG00010008278	Others	NA
+Vombatus_ursinus	RYBP	ENSVURG00010008342	Others	NA
+Vombatus_ursinus	TTF2	ENSVURG00010008350	Others	NA
+Vombatus_ursinus	ATXN7L3	ENSVURG00010008352	Others	NA
+Vombatus_ursinus	EHMT1	ENSVURG00010008365	Histone lysine methyltransferase	NA
+Vombatus_ursinus	SAP30	ENSVURG00010008374	SAP	NA
+Vombatus_ursinus	TAF8	ENSVURG00010008375	TATA-box	NA
+Vombatus_ursinus		ENSVURG00010008477	Mediator complex	NA
+Vombatus_ursinus	SGF29	ENSVURG00010008483	Others	NA
+Vombatus_ursinus	SIRT7	ENSVURG00010008529	Sirtuin	NA
+Vombatus_ursinus	NCK1	ENSVURG00010008537	Others	NA
+Vombatus_ursinus	HABP4	ENSVURG00010008580	Others	NA
+Vombatus_ursinus	TCERG1	ENSVURG00010008636	TEF	NA
+Vombatus_ursinus	MYCBP2	ENSVURG00010008641	MYC	NA
+Vombatus_ursinus	DDX20	ENSVURG00010008652	RNA helicase	NA
+Vombatus_ursinus	TRAK2	ENSVURG00010008653	Others	NA
+Vombatus_ursinus	ALYREF	ENSVURG00010008666	Others	NA
+Vombatus_ursinus	ORC2	ENSVURG00010008787	Others	NA
+Vombatus_ursinus	WDR77	ENSVURG00010008840	WD	NA
+Vombatus_ursinus	NIF3L1	ENSVURG00010008841	Others	NA
+Vombatus_ursinus	INO80E	ENSVURG00010008877	INO80 complex	NA
+Vombatus_ursinus	ELL2	ENSVURG00010008914	GTF	NA
+Vombatus_ursinus	RRN3	ENSVURG00010008972	Others	NA
+Vombatus_ursinus	HEXIM2	ENSVURG00010008975	Others	NA
+Vombatus_ursinus	PAXIP1	ENSVURG00010009000	Others	NA
+Vombatus_ursinus		ENSVURG00010009003	Others	NA
+Vombatus_ursinus	BRD8	ENSVURG00010009018	Bromodomain	NA
+Vombatus_ursinus	IKBKB	ENSVURG00010009057	Others	NA
+Vombatus_ursinus	BRF1	ENSVURG00010009058	GTF	NA
+Vombatus_ursinus	FGF1	ENSVURG00010009086	FGF	NA
+Vombatus_ursinus	BAHCC1	ENSVURG00010009097	Others	NA
+Vombatus_ursinus	RNF14	ENSVURG00010009162	Ring finger protein	NA
+Vombatus_ursinus		ENSVURG00010009182	Others	NA
+Vombatus_ursinus	MRTFB	ENSVURG00010009212	Others	NA
+Vombatus_ursinus	KDM3B	ENSVURG00010009214	Lysine demethylase	NA
+Vombatus_ursinus		ENSVURG00010009242	Others	NA
+Vombatus_ursinus	HDAC3	ENSVURG00010009316	Histone deacetylase	NA
+Vombatus_ursinus		ENSVURG00010009324	SS18	NA
+Vombatus_ursinus	TGFB1I1	ENSVURG00010009430	Others	NA
+Vombatus_ursinus	LMCD1	ENSVURG00010009459	LIM	NA
+Vombatus_ursinus	RPTOR	ENSVURG00010009518	Others	NA
+Vombatus_ursinus	CXXC5	ENSVURG00010009547	Others	NA
+Vombatus_ursinus	KDM3A	ENSVURG00010009556	Lysine demethylase	NA
+Vombatus_ursinus	RGCC	ENSVURG00010009578	Others	NA
+Vombatus_ursinus		ENSVURG00010009596	Other_CRF	NA
+Vombatus_ursinus		ENSVURG00010009604	Others	NA
+Vombatus_ursinus	CIITA	ENSVURG00010009619	Others	NA
+Vombatus_ursinus	KAT6A	ENSVURG00010009624	Lysine acetyltransferase	NA
+Vombatus_ursinus	ZMYND11	ENSVURG00010009627	Zinc finger	NA
+Vombatus_ursinus	MED16	ENSVURG00010009655	Mediator complex	NA
+Vombatus_ursinus		ENSVURG00010009711	TATA-box	NA
+Vombatus_ursinus	ELANE	ENSVURG00010009723	Others	NA
+Vombatus_ursinus	MAML3	ENSVURG00010009748	MAML	NA
+Vombatus_ursinus		ENSVURG00010009831	BCL	NA
+Vombatus_ursinus	MED9	ENSVURG00010009864	Mediator complex	NA
+Vombatus_ursinus	CDC73	ENSVURG00010009900	Others	NA
+Vombatus_ursinus	RAI1	ENSVURG00010009920	Others	NA
+Vombatus_ursinus	CHEK2	ENSVURG00010009950	Others	NA
+Vombatus_ursinus	FGFR1	ENSVURG00010010009	FGF	NA
+Vombatus_ursinus	CBX4	ENSVURG00010010037	Chromobox	NA
+Vombatus_ursinus	DHX9	ENSVURG00010010038	RNA helicase	NA
+Vombatus_ursinus	CBX8	ENSVURG00010010047	Chromobox	NA
+Vombatus_ursinus	CBX2	ENSVURG00010010053	Chromobox	NA
+Vombatus_ursinus	LIN54	ENSVURG00010010074	Others	NA
+Vombatus_ursinus	NSD3	ENSVURG00010010113	Nuclear receptor coactivator	NA
+Vombatus_ursinus	PHF12	ENSVURG00010010141	PHF	NA
+Vombatus_ursinus	SMARCA5	ENSVURG00010010208	SWI/SNF	NA
+Vombatus_ursinus	BEND3	ENSVURG00010010224	Others	NA
+Vombatus_ursinus	SMARCD2	ENSVURG00010010230	SWI/SNF	NA
+Vombatus_ursinus		ENSVURG00010010253	TATA-box	NA
+Vombatus_ursinus	ASH2L	ENSVURG00010010263	Others	NA
+Vombatus_ursinus		ENSVURG00010010264	Tripartite motif	NA
+Vombatus_ursinus		ENSVURG00010010274	Mediator complex	NA
+Vombatus_ursinus	FLII	ENSVURG00010010288	Others	NA
+Vombatus_ursinus	ABT1	ENSVURG00010010299	Others	NA
+Vombatus_ursinus	EWSR1	ENSVURG00010010313	Others	NA
+Vombatus_ursinus	SLC26A3	ENSVURG00010010347	SLC	NA
+Vombatus_ursinus	SUPT6H	ENSVURG00010010367	SUPT	NA
+Vombatus_ursinus	ERN1	ENSVURG00010010377	Others	NA
+Vombatus_ursinus	SIN3B	ENSVURG00010010396	Others	NA
+Vombatus_ursinus	THOC5	ENSVURG00010010413	Others	NA
+Vombatus_ursinus		ENSVURG00010010422	Others	NA
+Vombatus_ursinus	BRF2	ENSVURG00010010438	GTF	NA
+Vombatus_ursinus	HDAC6	ENSVURG00010010455	Histone deacetylase	NA
+Vombatus_ursinus		ENSVURG00010010472	Others	NA
+Vombatus_ursinus		ENSVURG00010010494	Others	NA
+Vombatus_ursinus	HNRNPD	ENSVURG00010010545	HNRNP	NA
+Vombatus_ursinus		ENSVURG00010010603	Mediator complex	NA
+Vombatus_ursinus	TCERG1L	ENSVURG00010010645	TEF	NA
+Vombatus_ursinus	ASCC2	ENSVURG00010010677	ASCC	NA
+Vombatus_ursinus		ENSVURG00010010704	CENP	NA
+Vombatus_ursinus	CNOT6L	ENSVURG00010010740	CCR4-NOT	NA
+Vombatus_ursinus	CALCOCO1	ENSVURG00010010795	Others	NA
+Vombatus_ursinus	SMYD2	ENSVURG00010010816	SMYD	NA
+Vombatus_ursinus	NLK	ENSVURG00010010853	Others	NA
+Vombatus_ursinus	PHF21A	ENSVURG00010010860	PHF	NA
+Vombatus_ursinus	HLTF	ENSVURG00010010893	Others	NA
+Vombatus_ursinus		ENSVURG00010010928	Others	NA
+Vombatus_ursinus	TADA3	ENSVURG00010010991	Transcriptional adaptor	NA
+Vombatus_ursinus	ZNF451	ENSVURG00010010995	Zinc finger	NA
+Vombatus_ursinus		ENSVURG00010011000	Others	NA
+Vombatus_ursinus	JMJD6	ENSVURG00010011038	Others	NA
+Vombatus_ursinus	WWTR1	ENSVURG00010011049	WW	NA
+Vombatus_ursinus	WNT3A	ENSVURG00010011060	Others	NA
+Vombatus_ursinus	KMT2E	ENSVURG00010011093	Lysine methyltransferase	NA
+Vombatus_ursinus		ENSVURG00010011103	Others	NA
+Vombatus_ursinus		ENSVURG00010011118	Others	NA
+Vombatus_ursinus	RNF2	ENSVURG00010011173	Ring finger protein	NA
+Vombatus_ursinus	ZNF703	ENSVURG00010011201	Zinc finger	NA
+Vombatus_ursinus	SIAH2	ENSVURG00010011247	Others	NA
+Vombatus_ursinus	MED12L	ENSVURG00010011293	Mediator complex	NA
+Vombatus_ursinus		ENSVURG00010011299	WW	NA
+Vombatus_ursinus		ENSVURG00010011302	Others	NA
+Vombatus_ursinus	MORF4L1	ENSVURG00010011321	Other_CRF	NA
+Vombatus_ursinus	SRFBP1	ENSVURG00010011339	Others	NA
+Vombatus_ursinus	SUZ12	ENSVURG00010011451	Others	NA
+Vombatus_ursinus	URI1	ENSVURG00010011452	Others	NA
+Vombatus_ursinus	LRIF1	ENSVURG00010011468	Others	NA
+Vombatus_ursinus	CCNE1	ENSVURG00010011492	Cyclin	NA
+Vombatus_ursinus	PADI4	ENSVURG00010011513	Others	NA
+Vombatus_ursinus		ENSVURG00010011557	SAP	NA
+Vombatus_ursinus	CNOT3	ENSVURG00010011561	CCR4-NOT	NA
+Vombatus_ursinus	RECQL5	ENSVURG00010011571	Others	NA
+Vombatus_ursinus	GRHPR	ENSVURG00010011578	Others	NA
+Vombatus_ursinus	PADI2	ENSVURG00010011579	Other_CRF	NA
+Vombatus_ursinus	DUSP26	ENSVURG00010011646	Others	NA
+Vombatus_ursinus	TPR	ENSVURG00010011719	Others	NA
+Vombatus_ursinus	TRAF6	ENSVURG00010011738	Others	NA
+Vombatus_ursinus	TNNI2	ENSVURG00010011840	Others	NA
+Vombatus_ursinus	TASOR	ENSVURG00010011909	FAM	NA
+Vombatus_ursinus	PRNP	ENSVURG00010011920	Others	NA
+Vombatus_ursinus	AATF	ENSVURG00010011984	Others	NA
+Vombatus_ursinus	FBXW7	ENSVURG00010011996	Others	NA
+Vombatus_ursinus	NRG1	ENSVURG00010012066	Others	NA
+Vombatus_ursinus	ERCC3	ENSVURG00010012067	Others	NA
+Vombatus_ursinus	REXO4	ENSVURG00010012130	Others	NA
+Vombatus_ursinus	MED22	ENSVURG00010012177	Mediator complex	NA
+Vombatus_ursinus	BCAS3	ENSVURG00010012189	Others	NA
+Vombatus_ursinus	SIN3A	ENSVURG00010012190	Other_CRF	NA
+Vombatus_ursinus	ANXA4	ENSVURG00010012194	Others	NA
+Vombatus_ursinus	BRIP1	ENSVURG00010012249	Others	NA
+Vombatus_ursinus	SAP130	ENSVURG00010012267	SAP	NA
+Vombatus_ursinus	PCBD1	ENSVURG00010012270	Others	NA
+Vombatus_ursinus	PLRG1	ENSVURG00010012312	Others	NA
+Vombatus_ursinus	OGT	ENSVURG00010012313	Others	NA
+Vombatus_ursinus	MLLT3	ENSVURG00010012316	GTF	NA
+Vombatus_ursinus		ENSVURG00010012317	CENP	NA
+Vombatus_ursinus	MED13	ENSVURG00010012321	Mediator complex	NA
+Vombatus_ursinus		ENSVURG00010012371	TATA-box	NA
+Vombatus_ursinus	NONO	ENSVURG00010012440	Others	NA
+Vombatus_ursinus	ACTL6A	ENSVURG00010012511	Actin	NA
+Vombatus_ursinus	TRIM28	ENSVURG00010012534	Tripartite motif	NA
+Vombatus_ursinus	ACTR8	ENSVURG00010012535	ACTR	NA
+Vombatus_ursinus	MED12	ENSVURG00010012554	Mediator complex	NA
+Vombatus_ursinus	ASCC1	ENSVURG00010012620	ASCC	NA
+Vombatus_ursinus	TRIM37	ENSVURG00010012625	Tripartite motif	NA
+Vombatus_ursinus	TBL1XR1	ENSVURG00010012629	Transducin	NA
+Vombatus_ursinus	C1D	ENSVURG00010012637	Other_Co-activator/repressors	NA
+Vombatus_ursinus	CALR	ENSVURG00010012640	Others	NA
+Vombatus_ursinus	SFRP4	ENSVURG00010012677	Others	NA
+Vombatus_ursinus	ABL1	ENSVURG00010012727	Others	NA
+Vombatus_ursinus	WDR61	ENSVURG00010012752	WD	NA
+Vombatus_ursinus	ECD	ENSVURG00010012763	Others	NA
+Vombatus_ursinus	CDK13	ENSVURG00010012823	Cyclin	NA
+Vombatus_ursinus	SUPT4H1	ENSVURG00010012849	SUPT	NA
+Vombatus_ursinus	RBBP5	ENSVURG00010012955	RBBP	NA
+Vombatus_ursinus	HIPK3	ENSVURG00010012975	HIPK	NA
+Vombatus_ursinus	VGLL4	ENSVURG00010013026	Vestigial like	NA
+Vombatus_ursinus	UXT	ENSVURG00010013058	Others	NA
+Vombatus_ursinus	RUVBL2	ENSVURG00010013072	Other_CRF	NA
+Vombatus_ursinus	RBM15	ENSVURG00010013079	RNA binding protein	NA
+Vombatus_ursinus	MDM4	ENSVURG00010013091	Others	NA
+Vombatus_ursinus	YAP1	ENSVURG00010013100	Others	NA
+Vombatus_ursinus	CTH	ENSVURG00010013113	Others	NA
+Vombatus_ursinus	SERTAD2	ENSVURG00010013124	Others	NA
+Vombatus_ursinus		ENSVURG00010013133	Others	NA
+Vombatus_ursinus	SKIL	ENSVURG00010013156	SKI	NA
+Vombatus_ursinus	PELI1	ENSVURG00010013173	Others	NA
+Vombatus_ursinus	RAF1	ENSVURG00010013196	Others	NA
+Vombatus_ursinus	MYO6	ENSVURG00010013250	Others	NA
+Vombatus_ursinus	DEPDC1	ENSVURG00010013276	Others	NA
+Vombatus_ursinus	HDAC11	ENSVURG00010013309	Histone deacetylase	NA
+Vombatus_ursinus	RPRD1B	ENSVURG00010013332	Others	NA
+Vombatus_ursinus	SRC	ENSVURG00010013408	Others	NA
+Vombatus_ursinus	SET	ENSVURG00010013422	SET	NA
+Vombatus_ursinus	NFKBIZ	ENSVURG00010013444	NFKB associated	NA
+Vombatus_ursinus	RBL1	ENSVURG00010013537	Other_Co-activator/repressors	NA
+Vombatus_ursinus		ENSVURG00010013557	Others	NA
+Vombatus_ursinus	CHCHD3	ENSVURG00010013561	Coiled-coil	NA
+Vombatus_ursinus		ENSVURG00010013582	Tripartite motif	NA
+Vombatus_ursinus	COMMD1	ENSVURG00010013596	Others	NA
+Vombatus_ursinus	ACTR5	ENSVURG00010013603	ACTR	NA
+Vombatus_ursinus	PRMT1	ENSVURG00010013644	Arginine methyltransferase	NA
+Vombatus_ursinus	LANCL2	ENSVURG00010013655	Others	NA
+Vombatus_ursinus	EGFR	ENSVURG00010013668	Others	NA
+Vombatus_ursinus	KAT6B	ENSVURG00010013732	Lysine acetyltransferase	NA
+Vombatus_ursinus	SUV39H2	ENSVURG00010013779	Others	NA
+Vombatus_ursinus	TCEA2	ENSVURG00010013787	TEF	NA
+Vombatus_ursinus	PLK1	ENSVURG00010013798	Others	NA
+Vombatus_ursinus	MBTD1	ENSVURG00010013815	Others	NA
+Vombatus_ursinus	MTPN	ENSVURG00010013821	Others	NA
+Vombatus_ursinus	PRPF6	ENSVURG00010013830	Others	NA
+Vombatus_ursinus	ASXL1	ENSVURG00010013852	Others	NA
+Vombatus_ursinus	HCK	ENSVURG00010013913	Others	NA
+Vombatus_ursinus	TRIM24	ENSVURG00010013916	Tripartite motif	NA
+Vombatus_ursinus	TOB1	ENSVURG00010013935	Others	NA
+Vombatus_ursinus	HDGF	ENSVURG00010013971	Others	NA
+Vombatus_ursinus	NUDT5	ENSVURG00010014004	Other_CRF	NA
+Vombatus_ursinus	NPAT	ENSVURG00010014042	Nuclear coactivator	NA
+Vombatus_ursinus	LPIN3	ENSVURG00010014080	LPIN	NA
+Vombatus_ursinus		ENSVURG00010014103	Others	NA
+Vombatus_ursinus	CHD6	ENSVURG00010014105	CHD	NA
+Vombatus_ursinus		ENSVURG00010014143	Casein	NA
+Vombatus_ursinus	HIPK2	ENSVURG00010014172	HIPK	NA
+Vombatus_ursinus	TDRD3	ENSVURG00010014176	Others	NA
+Vombatus_ursinus	HELZ2	ENSVURG00010014199	Others	NA
+Vombatus_ursinus	KDM7A	ENSVURG00010014231	Lysine demethylase	NA
+Vombatus_ursinus	ELP4	ENSVURG00010014242	ELP	NA
+Vombatus_ursinus	MACROH2A2	ENSVURG00010014256	Others	NA
+Vombatus_ursinus	LPXN	ENSVURG00010014292	Others	NA
+Vombatus_ursinus		ENSVURG00010014377	MAGE	NA
+Vombatus_ursinus	TAF3	ENSVURG00010014417	TATA-box	NA
+Vombatus_ursinus	GTF2A1	ENSVURG00010014462	GTF	NA
+Vombatus_ursinus		ENSVURG00010014537	Others	NA
+Vombatus_ursinus		ENSVURG00010014550	Others	NA
+Vombatus_ursinus	CGGBP1	ENSVURG00010014612	Others	NA
+Vombatus_ursinus	VGLL3	ENSVURG00010014686	Vestigial like	NA
+Vombatus_ursinus	CCAR2	ENSVURG00010014901	Others	NA
+Vombatus_ursinus	SFMBT1	ENSVURG00010014909	Others	NA
+Vombatus_ursinus		ENSVURG00010014929	Others	NA
+Vombatus_ursinus		ENSVURG00010014951	Others	NA
+Vombatus_ursinus	NOL11	ENSVURG00010014960	Nuclear coactivator	NA
+Vombatus_ursinus	GSK3B	ENSVURG00010014968	Others	NA
+Vombatus_ursinus	GTF2A1L	ENSVURG00010014973	GTF	NA
+Vombatus_ursinus	RING1	ENSVURG00010014982	Ring finger protein	NA
+Vombatus_ursinus	ASH1L	ENSVURG00010014983	Others	NA
+Vombatus_ursinus		ENSVURG00010015002	Casein	NA
+Vombatus_ursinus	BPTF	ENSVURG00010015020	Bromodomain	NA
+Vombatus_ursinus	ELL	ENSVURG00010015067	GTF	NA
+Vombatus_ursinus		ENSVURG00010015084	Others	NA
+Vombatus_ursinus	DAXX	ENSVURG00010015143	Other_CRF	NA
+Vombatus_ursinus	MED21	ENSVURG00010015164	Mediator complex	NA
+Vombatus_ursinus	PHF1	ENSVURG00010015194	PHF	NA
+Vombatus_ursinus	RASD1	ENSVURG00010015201	Others	NA
+Vombatus_ursinus	CCAR1	ENSVURG00010015227	Others	NA
+Vombatus_ursinus		ENSVURG00010015268	Nuclear receptor coactivator	NA
+Vombatus_ursinus	GNL3	ENSVURG00010015273	Others	NA
+Vombatus_ursinus	CNOT11	ENSVURG00010015327	CCR4-NOT	NA
+Vombatus_ursinus	ELP3	ENSVURG00010015382	ELP	NA
+Vombatus_ursinus	BTG1	ENSVURG00010015385	Others	NA
+Vombatus_ursinus	HIRA	ENSVURG00010015408	Others	NA
+Vombatus_ursinus		ENSVURG00010015416	EYA	NA
+Vombatus_ursinus		ENSVURG00010015440	Tripartite motif	NA
+Vombatus_ursinus	SMURF2	ENSVURG00010015459	Others	NA
+Vombatus_ursinus	DDX5	ENSVURG00010015520	RNA helicase	NA
+Vombatus_ursinus	CHUK	ENSVURG00010015523	Others	NA
+Vombatus_ursinus	KCNIP3	ENSVURG00010015552	Others	NA
+Vombatus_ursinus	JMJD1C	ENSVURG00010015644	Other_CRF	NA
+Vombatus_ursinus		ENSVURG00010015651	ANP	NA
+Vombatus_ursinus	DOT1L	ENSVURG00010015667	Others	NA
+Vombatus_ursinus	GTF2A2	ENSVURG00010015706	GTF	NA
+Vombatus_ursinus	CEP290	ENSVURG00010015792	Others	NA
+Vombatus_ursinus	MYOCD	ENSVURG00010015799	Others	NA
+Vombatus_ursinus	ICE2	ENSVURG00010015808	GTF	NA
+Vombatus_ursinus		ENSVURG00010015813	HNRNP	NA
+Vombatus_ursinus		ENSVURG00010015819	Others	NA
+Vombatus_ursinus		ENSVURG00010015828	Others	NA
+Vombatus_ursinus	PBXIP1	ENSVURG00010015837	Others	NA
+Vombatus_ursinus		ENSVURG00010015843	MYC	NA
+Vombatus_ursinus		ENSVURG00010015915	Others	NA
+Vombatus_ursinus		ENSVURG00010015930	TATA-box	NA
+Vombatus_ursinus		ENSVURG00010015986	Others	NA
+Vombatus_ursinus	ENG	ENSVURG00010016056	Others	NA
+Vombatus_ursinus	PRMT6	ENSVURG00010016075	Arginine methyltransferase	NA
+Vombatus_ursinus	CDK9	ENSVURG00010016094	Cyclin	NA
+Vombatus_ursinus	NIBAN2	ENSVURG00010016143	FAM	NA
+Vombatus_ursinus		ENSVURG00010016145	Others	NA
+Vombatus_ursinus	IRF2BPL	ENSVURG00010016177	Others	NA
+Vombatus_ursinus		ENSVURG00010016210	Transducin	NA
+Vombatus_ursinus		ENSVURG00010016224	Heat shock protein	NA
+Vombatus_ursinus	NCOA4	ENSVURG00010016254	Nuclear receptor coactivator	NA
+Vombatus_ursinus	TRIM16	ENSVURG00010016344	Tripartite motif	NA
+Vombatus_ursinus	EZH2	ENSVURG00010016368	Others	NA
+Vombatus_ursinus	TRIP4	ENSVURG00010016411	Thyroid hormone receptor	NA
+Vombatus_ursinus	RUVBL1	ENSVURG00010016464	Other_CRF	NA
+Vombatus_ursinus	RBPMS2	ENSVURG00010016465	RNA binding protein	NA
+Vombatus_ursinus	LRPPRC	ENSVURG00010016482	Others	NA
+Vombatus_ursinus	ATAD2	ENSVURG00010016513	Others	NA
+Vombatus_ursinus	CCNA1	ENSVURG00010016560	Cyclin	NA
+Vombatus_ursinus	THRSP	ENSVURG00010016632	Others	NA
+Vombatus_ursinus	RSF1	ENSVURG00010016689	Others	NA
+Vombatus_ursinus		ENSVURG00010016704	SUPT	NA
+Vombatus_ursinus		ENSVURG00010016835	ELP	NA
+Vombatus_ursinus	TAF2	ENSVURG00010016853	TATA-box	NA
+Vombatus_ursinus		ENSVURG00010016888	CREB	NA
+Vombatus_ursinus	EMSY	ENSVURG00010016923	Others	NA
+Vombatus_ursinus	ANKRD2	ENSVURG00010017022	Ankyrin repeat	NA
+Vombatus_ursinus	ARRB1	ENSVURG00010017049	Others	NA
+Vombatus_ursinus	MMS19	ENSVURG00010017075	Others	NA
+Vombatus_ursinus		ENSVURG00010017081	Histone lysine methyltransferase	NA
+Vombatus_ursinus	MED30	ENSVURG00010017131	Mediator complex	NA
+Vombatus_ursinus	RAD21	ENSVURG00010017148	Others	NA
+Vombatus_ursinus		ENSVURG00010017218	Others	NA
+Vombatus_ursinus	STRAP	ENSVURG00010017251	Others	NA
+Vombatus_ursinus	DHX36	ENSVURG00010017291	RNA helicase	NA
+Vombatus_ursinus	SNAPC5	ENSVURG00010017361	Others	NA
+Vombatus_ursinus	SLC25A15	ENSVURG00010017389	SLC	NA
+Vombatus_ursinus	SRA1	ENSVURG00010017436	Others	NA
+Vombatus_ursinus	FUS	ENSVURG00010017503	Others	NA
+Vombatus_ursinus		ENSVURG00010017510	Others	NA
+Vombatus_ursinus	DCAF1	ENSVURG00010017525	Others	NA
+Vombatus_ursinus	NAB1	ENSVURG00010017549	Others	NA
+Vombatus_ursinus	CREBBP	ENSVURG00010017612	CREB	NA
+Vombatus_ursinus	TBPL2	ENSVURG00010017614	TATA-box	NA
+Vombatus_ursinus	FGFR2	ENSVURG00010017618	FGF	NA
+Vombatus_ursinus	KAT8	ENSVURG00010017632	Lysine acetyltransferase	NA
+Vombatus_ursinus	TAB3	ENSVURG00010017642	Others	NA
+Vombatus_ursinus	ANKAR	ENSVURG00010017695	Ankyrin repeat	NA
+Vombatus_ursinus	SKOR1	ENSVURG00010017727	SKI	NA
+Vombatus_ursinus		ENSVURG00010017732	SET	NA
+Vombatus_ursinus	MRGBP	ENSVURG00010017741	Others	NA
+Vombatus_ursinus	NSMCE4A	ENSVURG00010017748	EID	NA
+Vombatus_ursinus	CCNH	ENSVURG00010017770	Cyclin	NA
+Vombatus_ursinus	HYAL2	ENSVURG00010017782	Others	NA
+Vombatus_ursinus	SSBP2	ENSVURG00010017922	Others	NA
+Vombatus_ursinus	DACT1	ENSVURG00010018006	Others	NA
+Vombatus_ursinus		ENSVURG00010018012	Others	NA
+Vombatus_ursinus	ENY2	ENSVURG00010018031	Others	NA
+Vombatus_ursinus	BUD31	ENSVURG00010018125	Others	NA
+Vombatus_ursinus	MNAT1	ENSVURG00010018151	Others	NA
+Vombatus_ursinus	SS18L1	ENSVURG00010018186	SS18	NA
+Vombatus_ursinus		ENSVURG00010018193	ANP	NA
+Vombatus_ursinus		ENSVURG00010018206	Others	NA
+Vombatus_ursinus	TAF4	ENSVURG00010018221	TATA-box	NA
+Vombatus_ursinus	SMURF1	ENSVURG00010018224	Others	NA
+Vombatus_ursinus	ACTB	ENSVURG00010018277	Actin	NA
+Vombatus_ursinus	NELFCD	ENSVURG00010018377	GTF	NA
+Vombatus_ursinus		ENSVURG00010018450	Others	NA
+Vombatus_ursinus		ENSVURG00010018462	GTF	NA
+Vombatus_ursinus	BCL3	ENSVURG00010018477	BCL	NA
+Vombatus_ursinus		ENSVURG00010018525	GTF	NA
+Vombatus_ursinus	FLNA	ENSVURG00010018669	Others	NA
+Vombatus_ursinus	RNF111	ENSVURG00010018682	Ring finger protein	NA
+Vombatus_ursinus	SLTM	ENSVURG00010018693	Others	NA
+Vombatus_ursinus		ENSVURG00010018724	Others	NA
+Vombatus_ursinus	ANKRA2	ENSVURG00010018736	Ankyrin repeat	NA
+Vombatus_ursinus	ANKRD1	ENSVURG00010018832	Ankyrin repeat	NA
+Vombatus_ursinus	PCGF5	ENSVURG00010018839	PCGF	NA
+Vombatus_ursinus		ENSVURG00010018845	GTF	NA
+Vombatus_ursinus	PHF20	ENSVURG00010018847	PHF	NA
+Vombatus_ursinus	RBM39	ENSVURG00010018856	RNA binding protein	NA
+Vombatus_ursinus		ENSVURG00010018865	Others	NA
+Vombatus_ursinus	BTAF1	ENSVURG00010018888	Others	NA
+Vombatus_ursinus	AGO2	ENSVURG00010018916	Others	NA
+Vombatus_ursinus	CHRAC1	ENSVURG00010018927	Other_CRF	NA
+Vombatus_ursinus	PLK3	ENSVURG00010018930	Others	NA
+Vombatus_ursinus		ENSVURG00010018940	Others	NA
+Vombatus_ursinus		ENSVURG00010018986	EYA	NA
+Vombatus_ursinus	DMAP1	ENSVURG00010019010	DNA_methylase	NA
+Vombatus_ursinus	MED18	ENSVURG00010019012	Mediator complex	NA
+Vombatus_ursinus	PSEN1	ENSVURG00010019017	Others	NA
+Vombatus_ursinus	IKBKG	ENSVURG00010019077	Others	NA
+Vombatus_ursinus	DPF3	ENSVURG00010019107	DPF	NA
+Vombatus_ursinus		ENSVURG00010019117	Lysine demethylase	NA
+Vombatus_ursinus		ENSVURG00010019178	Others	NA
+Vombatus_ursinus	DR1	ENSVURG00010019214	Others	NA
+Vombatus_ursinus	ITCH	ENSVURG00010019217	Others	NA
+Vombatus_ursinus	JMY	ENSVURG00010019242	Others	NA
+Vombatus_ursinus	MTF2	ENSVURG00010019243	Others	NA
+Vombatus_ursinus		ENSVURG00010019251	Others	NA
+Vombatus_ursinus	MED8	ENSVURG00010019346	Mediator complex	NA
+Vombatus_ursinus	CBFA2T2	ENSVURG00010019347	Others	NA
+Vombatus_ursinus	CIR1	ENSVURG00010019374	Other_Co-activator/repressors	NA
+Vombatus_ursinus	CDK7	ENSVURG00010019454	Cyclin	NA
+Vombatus_ursinus	PIH1D2	ENSVURG00010019497	Other_CRF	NA
+Vombatus_ursinus	PIK3R1	ENSVURG00010019506	Others	NA
+Vombatus_ursinus	PIM1	ENSVURG00010019521	Others	NA
+Vombatus_ursinus		ENSVURG00010019531	Others	NA
+Vombatus_ursinus	NMI	ENSVURG00010019539	Others	NA
+Vombatus_ursinus	TBP	ENSVURG00010019558	TATA-box	NA
+Vombatus_ursinus		ENSVURG00010019613	PCGF	NA
+Vombatus_ursinus	MAML1	ENSVURG00010019659	MAML	NA
+Vombatus_ursinus	SQSTM1	ENSVURG00010019670	Others	NA
+Vombatus_ursinus	PHF10	ENSVURG00010019681	PHF	NA
+Vombatus_ursinus		ENSVURG00010019688	Mediator complex	NA
+Vombatus_ursinus	ERBIN	ENSVURG00010019723	Erbb2	NA
+Vombatus_ursinus	SCMH1	ENSVURG00010019745	Others	NA
+Vombatus_ursinus		ENSVURG00010019765	Chromobox	NA
+Vombatus_ursinus		ENSVURG00010019808	HNRNP	NA
+Vombatus_ursinus	CNOT6	ENSVURG00010019814	CCR4-NOT	NA
+Vombatus_ursinus	HAT1	ENSVURG00010019826	Others	NA
+Vombatus_ursinus	POU2AF1	ENSVURG00010019845	Others	NA
+Vombatus_ursinus		ENSVURG00010019878	Others	NA
+Vombatus_ursinus	PHF19	ENSVURG00010019879	PHF	NA
+Vombatus_ursinus	APEX1	ENSVURG00010019919	Others	NA
+Vombatus_ursinus		ENSVURG00010019923	Others	NA
+Vombatus_ursinus	RBBP4	ENSVURG00010019963	RBBP	NA
+Vombatus_ursinus	PHF8	ENSVURG00010019993	PHF	NA
+Vombatus_ursinus		ENSVURG00010019997	GTF	NA
+Vombatus_ursinus	TERF2IP	ENSVURG00010020022	Others	NA
+Vombatus_ursinus	RBL2	ENSVURG00010020023	Other_Co-activator/repressors	NA
+Vombatus_ursinus	CHD9	ENSVURG00010020044	CHD	NA
+Vombatus_ursinus		ENSVURG00010020076	Histone deacetylase	NA
+Vombatus_ursinus	NOD2	ENSVURG00010020098	Others	NA
+Vombatus_ursinus		ENSVURG00010020109	HNRNP	NA
+Vombatus_ursinus		ENSVURG00010020119	Transducin	NA
+Vombatus_ursinus		ENSVURG00010020128	Bromodomain	NA
+Vombatus_ursinus		ENSVURG00010020140	Others	NA
+Vombatus_ursinus	SUPT16H	ENSVURG00010020147	SUPT	NA
+Vombatus_ursinus	CHD8	ENSVURG00010020171	CHD	NA
+Vombatus_ursinus		ENSVURG00010020179	INO80 complex	NA
+Vombatus_ursinus	WWP2	ENSVURG00010020192	WW	NA
+Vombatus_ursinus	DPY30	ENSVURG00010020198	Others	NA
+Vombatus_ursinus	PCGF1	ENSVURG00010020226	PCGF	NA
+Vombatus_ursinus		ENSVURG00010020230	Others	NA
+Vombatus_ursinus	CTDP1	ENSVURG00010020249	Others	NA
+Vombatus_ursinus		ENSVURG00010020281	Others	NA
+Vombatus_ursinus	LOXL3	ENSVURG00010020312	Others	NA
+Vombatus_ursinus	HSBP1L1	ENSVURG00010020347	Heat shock protein	NA
+Vombatus_ursinus	UTP4	ENSVURG00010020359	Others	NA
+Vombatus_ursinus	RALGAPA1	ENSVURG00010020366	Others	NA
+Vombatus_ursinus		ENSVURG00010020372	Others	NA
+Vombatus_ursinus		ENSVURG00010020458	NFKB associated	NA
+Vombatus_ursinus	SUPT7L	ENSVURG00010020473	SUPT	NA
+Vombatus_ursinus		ENSVURG00010020485	Others	NA
+Vombatus_ursinus	NRIP1	ENSVURG00010020486	Nuclear receptor coactivator	NA
+Vombatus_ursinus	PRMT5	ENSVURG00010020586	Arginine methyltransferase	NA
+Vombatus_ursinus		ENSVURG00010020590	CHD	NA
+Vombatus_ursinus	CDK8	ENSVURG00010020617	Cyclin	NA
+Vombatus_ursinus	AJUBA	ENSVURG00010020619	Others	NA
+Vombatus_ursinus	RNF6	ENSVURG00010020625	Ring finger protein	NA
+Vombatus_ursinus	DPF1	ENSVURG00010020646	DPF	NA
+Vombatus_ursinus	SMARCB1	ENSVURG00010020693	SWI/SNF	NA
+Vombatus_ursinus	DSCAM	ENSVURG00010020750	Others	NA
+Vombatus_ursinus	CBFA2T3	ENSVURG00010020779	Others	NA
+Vombatus_ursinus	ZNF638	ENSVURG00010020801	Zinc finger	NA
+Vombatus_ursinus		ENSVURG00010020809	Others	NA
+Vombatus_ursinus	BANP	ENSVURG00010020886	Others	NA
+Vombatus_ursinus	BRWD1	ENSVURG00010020972	Bromodomain	NA
+Vombatus_ursinus		ENSVURG00010021054	Others	NA
+Vombatus_ursinus		ENSVURG00010021069	Others	NA
+Vombatus_ursinus	HDAC9	ENSVURG00010021093	Histone deacetylase	NA
+Vombatus_ursinus	TAF1C	ENSVURG00010021132	TATA-box	NA
+Vombatus_ursinus		ENSVURG00010021134	Lysine demethylase	NA
+Vombatus_ursinus	DGKQ	ENSVURG00010021140	Others	NA
+Vombatus_ursinus	CTBP1	ENSVURG00010021201	Others	NA
+Vombatus_ursinus	MCIDAS	ENSVURG00010021226	Others	NA
+Vombatus_ursinus	PRMT7	ENSVURG00010021239	Arginine methyltransferase	NA
+Vombatus_ursinus		ENSVURG00010021324	Others	NA
+Vombatus_ursinus	ELOC	ENSVURG00010021344	Others	NA
+Vombatus_ursinus	SAP18	ENSVURG00010021371	SAP	NA
+Vombatus_ursinus	ZMYM2	ENSVURG00010021439	Zinc finger	NA
+Vombatus_ursinus	PSPC1	ENSVURG00010021445	Others	NA
+Vombatus_ursinus	MPHOSPH8	ENSVURG00010021456	Others	NA
+Vombatus_ursinus	MED10	ENSVURG00010021467	Mediator complex	NA
+Vombatus_ursinus		ENSVURG00010021480	Others	NA
+Vombatus_ursinus		ENSVURG00010021495	GTF	NA
+Vombatus_ursinus		ENSVURG00010021500	Others	NA
+Vombatus_ursinus	RNF4	ENSVURG00010021546	Ring finger protein	NA
+Vombatus_ursinus	TNIP2	ENSVURG00010021586	Others	NA
+Vombatus_ursinus	TRAK1	ENSVURG00010021658	Others	NA
+Vombatus_ursinus	EZH1	ENSVURG00010021689	Others	NA
+Vombatus_ursinus	TRADD	ENSVURG00010021691	Others	NA
+Vombatus_ursinus	CRKL	ENSVURG00010021705	Others	NA
+Vombatus_ursinus	TRIP13	ENSVURG00010021753	Thyroid hormone receptor	NA
+Vombatus_ursinus	CTNNB1	ENSVURG00010021756	Casein	NA
+Vombatus_ursinus		ENSVURG00010021790	Others	NA
+Vombatus_ursinus	CAVIN1	ENSVURG00010021819	Others	NA
+Vombatus_ursinus	LIMD1	ENSVURG00010021825	LIM	NA
+Vombatus_ursinus	RPRD1A	ENSVURG00010021882	Others	NA
+Vombatus_ursinus	ELP2	ENSVURG00010021915	ELP	NA
+Vombatus_ursinus	KAT2A	ENSVURG00010021945	Lysine acetyltransferase	NA
+Vombatus_ursinus	TIRAP	ENSVURG00010021989	Others	NA
+Vombatus_ursinus	JUP	ENSVURG00010022043	Others	NA
+Vombatus_ursinus	GMNN	ENSVURG00010022047	Others	NA
+Vombatus_ursinus		ENSVURG00010022060	CITED	NA
+Vombatus_ursinus	EAF1	ENSVURG00010022112	Others	NA
+Vombatus_ursinus	CHEK1	ENSVURG00010022215	Others	NA
+Vombatus_ursinus	NUP98	ENSVURG00010022236	Others	NA
+Vombatus_ursinus	KAT2B	ENSVURG00010022260	Lysine acetyltransferase	NA
+Vombatus_ursinus		ENSVURG00010022335	Transducin	NA
+Vombatus_ursinus	MSL3	ENSVURG00010022381	Others	NA
+Vombatus_ursinus		ENSVURG00010022416	Others	NA
+Vombatus_ursinus		ENSVURG00010022460	Others	NA
+Vombatus_ursinus	PER2	ENSVURG00010022504	Others	NA
+Vombatus_ursinus		ENSVURG00010022540	Others	NA
+Vombatus_ursinus		ENSVURG00010022577	Others	NA
+Vombatus_ursinus	PIR	ENSVURG00010022601	Others	NA
+Vombatus_ursinus		ENSVURG00010022617	Others	NA
+Vombatus_ursinus		ENSVURG00010022623	Others	NA
+Vombatus_ursinus		ENSVURG00010022649	Others	NA
+Vombatus_ursinus	NEDD8	ENSVURG00010022764	Others	NA
+Vombatus_ursinus		ENSVURG00010022812	Others	NA
+Vombatus_ursinus		ENSVURG00010022857	CCR4-NOT	NA
+Vombatus_ursinus	HDAC2	ENSVURG00010022910	Histone deacetylase	NA
+Vombatus_ursinus	FRK	ENSVURG00010022934	Others	NA
+Vombatus_ursinus		ENSVURG00010022985	TATA-box	NA
+Vombatus_ursinus		ENSVURG00010023034	Others	NA
+Vombatus_ursinus		ENSVURG00010023043	LPIN	NA
+Vombatus_ursinus	DVL3	ENSVURG00010023089	Others	NA
+Vombatus_ursinus	ASF1A	ENSVURG00010023093	Others	NA
+Vombatus_ursinus	PNRC2	ENSVURG00010023129	Others	NA
+Vombatus_ursinus	NCOA7	ENSVURG00010023185	Nuclear receptor coactivator	NA
+Vombatus_ursinus		ENSVURG00010023253	RBBP	NA
+Vombatus_ursinus		ENSVURG00010023258	Others	NA
+Vombatus_ursinus	ACTN4	ENSVURG00010023273	Actin	NA
+Vombatus_ursinus	SIRT2	ENSVURG00010023317	Sirtuin	NA
+Vombatus_ursinus	NFKBIB	ENSVURG00010023321	NFKB associated	NA
+Vombatus_ursinus	MED23	ENSVURG00010023338	Mediator complex	NA
+Vombatus_ursinus	SAMD4B	ENSVURG00010023352	Others	NA
+Vombatus_ursinus	ACTN1	ENSVURG00010023354	Actin	NA
+Vombatus_ursinus	PAF1	ENSVURG00010023355	Others	NA
+Vombatus_ursinus	KDM1A	ENSVURG00010023356	Lysine demethylase	NA
+Vombatus_ursinus	MED29	ENSVURG00010023357	Mediator complex	NA
+Vombatus_ursinus	SUPT5H	ENSVURG00010023371	SUPT	NA
+Vombatus_ursinus	DYRK1B	ENSVURG00010023383	Others	NA
+Vombatus_ursinus	RB1	ENSVURG00010023466	Other_Co-activator/repressors	NA
+Vombatus_ursinus	MED4	ENSVURG00010023479	Mediator complex	NA
+Vombatus_ursinus	HSPA2	ENSVURG00010023536	Heat shock protein	NA
+Vombatus_ursinus	NFKBID	ENSVURG00010023543	NFKB associated	NA
+Vombatus_ursinus	WNT4	ENSVURG00010023575	Others	NA
+Vombatus_ursinus	NOC2L	ENSVURG00010023588	Others	NA
+Vombatus_ursinus	NAB2	ENSVURG00010023614	Others	NA
+Vombatus_ursinus	AURKAIP1	ENSVURG00010023620	Others	NA
+Vombatus_ursinus		ENSVURG00010023633	Others	NA
+Vombatus_ursinus	SSU72	ENSVURG00010023638	Others	NA
+Vombatus_ursinus	TIMELESS	ENSVURG00010023659	Others	NA
+Vombatus_ursinus	SKI	ENSVURG00010023669	SKI	NA
+Vombatus_ursinus		ENSVURG00010023709	Others	NA
+Vombatus_ursinus	CDK2	ENSVURG00010023730	Cyclin	NA
+Vombatus_ursinus	LPIN1	ENSVURG00010023733	LPIN	NA
+Vombatus_ursinus	DDX1	ENSVURG00010023755	RNA helicase	NA
+Vombatus_ursinus	PINK1	ENSVURG00010023778	Others	NA
+Vombatus_ursinus	RDH14	ENSVURG00010023793	WW	NA
+Vombatus_ursinus	ING3	ENSVURG00010023795	ING	NA
+Vombatus_ursinus	EGLN2	ENSVURG00010023898	Others	NA
+Vombatus_ursinus		ENSVURG00010023899	WD	NA
+Vombatus_ursinus	CECR2	ENSVURG00010023959	Other_CRF	NA
+Vombatus_ursinus	EPC1	ENSVURG00010023973	Others	NA
+Vombatus_ursinus	MAD2L2	ENSVURG00010024022	Others	NA
+Vombatus_ursinus	MTOR	ENSVURG00010024036	Others	NA
+Vombatus_ursinus	SLC19A1	ENSVURG00010024057	SLC	NA
+Vombatus_ursinus	PEX14	ENSVURG00010024067	Others	NA
+Vombatus_ursinus	ACTR6	ENSVURG00010024098	ACTR	NA
+Vombatus_ursinus	CTNNBIP1	ENSVURG00010024111	Casein	NA
+Vombatus_ursinus	PRMT2	ENSVURG00010024125	Arginine methyltransferase	NA
+Vombatus_ursinus	MDM2	ENSVURG00010024127	Others	NA
+Vombatus_ursinus	GRIP1	ENSVURG00010024165	Others	NA
+Vombatus_ursinus		ENSVURG00010024174	Others	NA
+Vombatus_ursinus	PARK7	ENSVURG00010024196	Others	NA
+Vombatus_ursinus	ASF1B	ENSVURG00010024248	Others	NA
+Vombatus_ursinus	DNAJB1	ENSVURG00010024288	Others	NA
+Vombatus_ursinus	PHF21B	ENSVURG00010024293	PHF	NA
+Vombatus_ursinus	WAC	ENSVURG00010024358	WW	NA
+Vombatus_ursinus	EDRF1	ENSVURG00010024375	Others	NA
+Vombatus_ursinus	BRD1	ENSVURG00010024379	Bromodomain	NA
+Vombatus_ursinus		ENSVURG00010024387	GTF	NA
+Vombatus_ursinus	MLLT1	ENSVURG00010024407	GTF	NA
+Vombatus_ursinus		ENSVURG00010024495	Others	NA
+Vombatus_ursinus		ENSVURG00010024529	MYB	NA
+Vombatus_ursinus	SAFB	ENSVURG00010024530	Others	NA
+Vombatus_ursinus	SETD7	ENSVURG00010024542	SET	NA
+Vombatus_ursinus	SAFB2	ENSVURG00010024546	Others	NA
+Vombatus_ursinus	NAA15	ENSVURG00010024554	Others	NA
+Vombatus_ursinus	CCND1	ENSVURG00010024576	Cyclin	NA
+Vombatus_ursinus	KDM4B	ENSVURG00010024585	Lysine demethylase	NA
+Vombatus_ursinus	MED31	ENSVURG00010024628	Mediator complex	NA
+Vombatus_ursinus	KMT5B	ENSVURG00010024629	Lysine methyltransferase	NA
+Vombatus_ursinus	JADE1	ENSVURG00010024632	Others	NA
+Vombatus_ursinus	AIPL1	ENSVURG00010024672	Others	NA
+Vombatus_ursinus	SIRT6	ENSVURG00010024673	Sirtuin	NA
+Vombatus_ursinus	DAPK3	ENSVURG00010024691	Others	NA
+Vombatus_ursinus	TONSL	ENSVURG00010024708	Others	NA
+Vombatus_ursinus	DHX33	ENSVURG00010024709	RNA helicase	NA
+Vombatus_ursinus		ENSVURG00010024718	Others	NA
+Vombatus_ursinus		ENSVURG00010024821	PARP	NA
+Vombatus_ursinus	PUF60	ENSVURG00010024828	Others	NA
+Vombatus_ursinus	NDUFA13	ENSVURG00010024836	Others	NA
+Vombatus_ursinus	NOTCH3	ENSVURG00010024859	Notch	NA
+Vombatus_ursinus	PIN1	ENSVURG00010024911	Others	NA
+Vombatus_ursinus		ENSVURG00010024929	DNA_methylase	NA
+Vombatus_ursinus	CSNK2A2	ENSVURG00010025005	Casein	NA
+Vombatus_ursinus	PDCD4	ENSVURG00010025041	Others	NA
+Vombatus_ursinus		ENSVURG00010025059	Others	NA

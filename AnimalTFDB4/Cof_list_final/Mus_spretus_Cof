@@ -1,0 +1,940 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Mus_spretus	Cops5	MGP_SPRETEiJ_G0014748	Others	NA
+Mus_spretus	Ncoa2	MGP_SPRETEiJ_G0014758	Nuclear receptor coactivator	NA
+Mus_spretus	Eya1	MGP_SPRETEiJ_G0014762	EYA	NA
+Mus_spretus	Eloc	MGP_SPRETEiJ_G0014774	Others	NA
+Mus_spretus	Zfp451	MGP_SPRETEiJ_G0014822	Zinc finger	NA
+Mus_spretus	Bend6	MGP_SPRETEiJ_G0014823	Others	NA
+Mus_spretus	Cnot11	MGP_SPRETEiJ_G0014875	CCR4-NOT	NA
+Mus_spretus	Fhl2	MGP_SPRETEiJ_G0014896	FHL	NA
+Mus_spretus	Nab1	MGP_SPRETEiJ_G0014926	Others	NA
+Mus_spretus	Nif3l1	MGP_SPRETEiJ_G0014971	Others	NA
+Mus_spretus	Orc2	MGP_SPRETEiJ_G0014972	Others	NA
+Mus_spretus	Trak2	MGP_SPRETEiJ_G0014978	Others	NA
+Mus_spretus	Ino80d	MGP_SPRETEiJ_G0015003	INO80 complex	NA
+Mus_spretus	Erbb4	MGP_SPRETEiJ_G0015039	Erbb2	NA
+Mus_spretus	Tnp1	MGP_SPRETEiJ_G0015056	Other_CRF	NA
+Mus_spretus	Ctdsp1	MGP_SPRETEiJ_G0015068	Others	NA
+Mus_spretus	Cnot9	MGP_SPRETEiJ_G0015071	CCR4-NOT	NA
+Mus_spretus	Rnf25	MGP_SPRETEiJ_G0015075	Ring finger protein	NA
+Mus_spretus	Stk36	MGP_SPRETEiJ_G0015076	Others	NA
+Mus_spretus	Pid1	MGP_SPRETEiJ_G0015143	Others	NA
+Mus_spretus	Ncl	MGP_SPRETEiJ_G0015164	Others	NA
+Mus_spretus	Per2	MGP_SPRETEiJ_G0015228	Others	NA
+Mus_spretus	Hdac4	MGP_SPRETEiJ_G0015232	Histone deacetylase	NA
+Mus_spretus	Ccnt2	MGP_SPRETEiJ_G0015346	Cyclin	NA
+Mus_spretus	Rbbp5	MGP_SPRETEiJ_G0015395	RBBP	NA
+Mus_spretus	Mdm4	MGP_SPRETEiJ_G0015400	Others	NA
+Mus_spretus	Kdm5b	MGP_SPRETEiJ_G0015433	Lysine demethylase	NA
+Mus_spretus	Cdc73	MGP_SPRETEiJ_G0015480	Others	NA
+Mus_spretus	Tpr	MGP_SPRETEiJ_G0015495	Others	NA
+Mus_spretus	Rnf2	MGP_SPRETEiJ_G0015501	Ring finger protein	NA
+Mus_spretus	Dhx9	MGP_SPRETEiJ_G0015516	RNA helicase	NA
+Mus_spretus	Dcaf6	MGP_SPRETEiJ_G0015611	Others	NA
+Mus_spretus	Creg1	MGP_SPRETEiJ_G0015616	Others	NA
+Mus_spretus	Tada1	MGP_SPRETEiJ_G0015623	Transcriptional adaptor	NA
+Mus_spretus	Ifi202b	MGP_SPRETEiJ_G0015725	Others	NA
+Mus_spretus	Hnrnpu	MGP_SPRETEiJ_G0015761	HNRNP	NA
+Mus_spretus	Smyd3	MGP_SPRETEiJ_G0015764	SMYD	NA
+Mus_spretus		MGP_SPRETEiJ_G0015765	Others	NA
+Mus_spretus	Lin9	MGP_SPRETEiJ_G0015778	Others	NA
+Mus_spretus	Taf1a	MGP_SPRETEiJ_G0015811	TATA-box	NA
+Mus_spretus	Cenpf	MGP_SPRETEiJ_G0015835	CENP	NA
+Mus_spretus	Smyd2	MGP_SPRETEiJ_G0015837	SMYD	NA
+Mus_spretus	Cited2	MGP_SPRETEiJ_G0015942	CITED	NA
+Mus_spretus	Sgk1	MGP_SPRETEiJ_G0015974	Others	NA
+Mus_spretus	Tbpl1	MGP_SPRETEiJ_G0015976	TATA-box	NA
+Mus_spretus	Eya4	MGP_SPRETEiJ_G0015979	EYA	NA
+Mus_spretus	Med23	MGP_SPRETEiJ_G0016000	Mediator complex	NA
+Mus_spretus	Ncoa7	MGP_SPRETEiJ_G0016023	Nuclear receptor coactivator	NA
+Mus_spretus	Frk	MGP_SPRETEiJ_G0016046	Others	NA
+Mus_spretus	Hdac2	MGP_SPRETEiJ_G0016048	Histone deacetylase	NA
+Mus_spretus	Bend3	MGP_SPRETEiJ_G0016096	Others	NA
+Mus_spretus	Ascc3	MGP_SPRETEiJ_G0016111	ASCC	NA
+Mus_spretus		MGP_SPRETEiJ_G0016118	Others	NA
+Mus_spretus	Vgll2	MGP_SPRETEiJ_G0016119	Vestigial like	NA
+Mus_spretus	Asf1a	MGP_SPRETEiJ_G0016131	Others	NA
+Mus_spretus	Ascc1	MGP_SPRETEiJ_G0016162	ASCC	NA
+Mus_spretus	Pcbd1	MGP_SPRETEiJ_G0016171	Others	NA
+Mus_spretus	Macroh2a2	MGP_SPRETEiJ_G0016186	Others	NA
+Mus_spretus	Ccar1	MGP_SPRETEiJ_G0016202	Others	NA
+Mus_spretus	Sirt1	MGP_SPRETEiJ_G0016212	Sirtuin	NA
+Mus_spretus	Jmjd1c	MGP_SPRETEiJ_G0016219	Other_CRF	NA
+Mus_spretus	Nrbf2	MGP_SPRETEiJ_G0016220	Nuclear receptor coactivator	NA
+Mus_spretus	Cdk1	MGP_SPRETEiJ_G0016231	Cyclin	NA
+Mus_spretus	Smarcb1	MGP_SPRETEiJ_G0016268	SWI/SNF	NA
+Mus_spretus	Chchd10	MGP_SPRETEiJ_G0016270	Coiled-coil	NA
+Mus_spretus	Prmt2	MGP_SPRETEiJ_G0016276	Arginine methyltransferase	NA
+Mus_spretus	Slc19a1	MGP_SPRETEiJ_G0016290	SLC	NA
+Mus_spretus	Mier2	MGP_SPRETEiJ_G0016345	MIER	NA
+Mus_spretus	Elane	MGP_SPRETEiJ_G0016366	Others	NA
+Mus_spretus	Med16	MGP_SPRETEiJ_G0016368	Mediator complex	NA
+Mus_spretus	Dot1l	MGP_SPRETEiJ_G0016418	Others	NA
+Mus_spretus	Dapk3	MGP_SPRETEiJ_G0016442	Others	NA
+Mus_spretus	Tle2	MGP_SPRETEiJ_G0016467	Transducin	NA
+Mus_spretus	Sirt6	MGP_SPRETEiJ_G0016470	Sirtuin	NA
+Mus_spretus	Tdg	MGP_SPRETEiJ_G0016480	Others	NA
+Mus_spretus	Hcfc2	MGP_SPRETEiJ_G0016482	Others	NA
+Mus_spretus	Cry1	MGP_SPRETEiJ_G0016501	Others	NA
+Mus_spretus	Actr6	MGP_SPRETEiJ_G0016538	ACTR	NA
+Mus_spretus	Cep290	MGP_SPRETEiJ_G0016592	Others	NA
+Mus_spretus	Ccdc59	MGP_SPRETEiJ_G0016603	Coiled-coil	NA
+Mus_spretus	Pawr	MGP_SPRETEiJ_G0016612	Others	NA
+Mus_spretus	Cnot2	MGP_SPRETEiJ_G0016644	CCR4-NOT	NA
+Mus_spretus	Mdm2	MGP_SPRETEiJ_G0016659	Others	NA
+Mus_spretus	Grip1	MGP_SPRETEiJ_G0016669	Others	NA
+Mus_spretus	Nab2	MGP_SPRETEiJ_G0016729	Others	NA
+Mus_spretus	Naca	MGP_SPRETEiJ_G0016742	Others	NA
+Mus_spretus	Timeless	MGP_SPRETEiJ_G0016750	Others	NA
+Mus_spretus	Pa2g4	MGP_SPRETEiJ_G0016769	Others	NA
+Mus_spretus	Cdk2	MGP_SPRETEiJ_G0016775	Cyclin	NA
+Mus_spretus	Ascc2	MGP_SPRETEiJ_G0016878	ASCC	NA
+Mus_spretus	Thoc5	MGP_SPRETEiJ_G0016884	Others	NA
+Mus_spretus	Ewsr1	MGP_SPRETEiJ_G0016889	Others	NA
+Mus_spretus	Aebp1	MGP_SPRETEiJ_G0016902	Others	NA
+Mus_spretus	Egfr	MGP_SPRETEiJ_G0016945	Others	NA
+Mus_spretus	C1d	MGP_SPRETEiJ_G0016952	Other_Co-activator/repressors	NA
+Mus_spretus	Sertad2	MGP_SPRETEiJ_G0016961	Others	NA
+Mus_spretus	Peli1	MGP_SPRETEiJ_G0016964	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0016974	Others	NA
+Mus_spretus	Fbxw11	MGP_SPRETEiJ_G0017030	Others	NA
+Mus_spretus	Npm1	MGP_SPRETEiJ_G0017033	Nucleoplasmin	NA
+Mus_spretus	Wwc1	MGP_SPRETEiJ_G0017050	WW	NA
+Mus_spretus	Tenm2	MGP_SPRETEiJ_G0017051	Others	NA
+Mus_spretus	Pttg1	MGP_SPRETEiJ_G0017062	Others	NA
+Mus_spretus	Med7	MGP_SPRETEiJ_G0017085	Mediator complex	NA
+Mus_spretus	Cnot6	MGP_SPRETEiJ_G0017122	CCR4-NOT	NA
+Mus_spretus	Sqstm1	MGP_SPRETEiJ_G0017129	Others	NA
+Mus_spretus	Maml1	MGP_SPRETEiJ_G0017132	MAML	NA
+Mus_spretus	Hint1	MGP_SPRETEiJ_G0017204	Others	NA
+Mus_spretus	Tnip1	MGP_SPRETEiJ_G0017206	Others	NA
+Mus_spretus	Sap30l	MGP_SPRETEiJ_G0017223	SAP	NA
+Mus_spretus	Cnot8	MGP_SPRETEiJ_G0017226	CCR4-NOT	NA
+Mus_spretus	Trim11	MGP_SPRETEiJ_G0017260	Tripartite motif	NA
+Mus_spretus	Wnt3a	MGP_SPRETEiJ_G0017267	Others	NA
+Mus_spretus	Nlrp3	MGP_SPRETEiJ_G0017274	Others	NA
+Mus_spretus	Med9	MGP_SPRETEiJ_G0017282	Mediator complex	NA
+Mus_spretus	Rasd1	MGP_SPRETEiJ_G0017283	Others	NA
+Mus_spretus	Rai1	MGP_SPRETEiJ_G0017285	Others	NA
+Mus_spretus	Flii	MGP_SPRETEiJ_G0017295	Others	NA
+Mus_spretus	Fam83g	MGP_SPRETEiJ_G0017318	FAM	NA
+Mus_spretus	Trim16	MGP_SPRETEiJ_G0017336	Tripartite motif	NA
+Mus_spretus	Myocd	MGP_SPRETEiJ_G0017349	Others	NA
+Mus_spretus	Aurkb	MGP_SPRETEiJ_G0017386	Others	NA
+Mus_spretus	Chd3	MGP_SPRETEiJ_G0017400	CHD	NA
+Mus_spretus	Kdm6b	MGP_SPRETEiJ_G0017406	Lysine demethylase	NA
+Mus_spretus	Polr2a	MGP_SPRETEiJ_G0017423	POLR	NA
+Mus_spretus	Fgf11	MGP_SPRETEiJ_G0017427	FGF	NA
+Mus_spretus	Gps2	MGP_SPRETEiJ_G0017440	Others	NA
+Mus_spretus	Dvl2	MGP_SPRETEiJ_G0017449	Others	NA
+Mus_spretus	Pelp1	MGP_SPRETEiJ_G0017465	Others	NA
+Mus_spretus	Arrb2	MGP_SPRETEiJ_G0017466	Others	NA
+Mus_spretus	Med11	MGP_SPRETEiJ_G0017467	Mediator complex	NA
+Mus_spretus	C1qbp	MGP_SPRETEiJ_G0017492	Others	NA
+Mus_spretus	Dhx33	MGP_SPRETEiJ_G0017493	RNA helicase	NA
+Mus_spretus	Med31	MGP_SPRETEiJ_G0017504	Mediator complex	NA
+Mus_spretus	Mybbp1a	MGP_SPRETEiJ_G0017511	MYB	NA
+Mus_spretus	Crk	MGP_SPRETEiJ_G0017590	Others	NA
+Mus_spretus	Phf12	MGP_SPRETEiJ_G0017628	PHF	NA
+Mus_spretus	Supt6	MGP_SPRETEiJ_G0017639	SUPT	NA
+Mus_spretus	Nlk	MGP_SPRETEiJ_G0017658	Others	NA
+Mus_spretus	Lgals9	MGP_SPRETEiJ_G0017662	Others	NA
+Mus_spretus	Suz12	MGP_SPRETEiJ_G0017673	Others	NA
+Mus_spretus	Cdk5r1	MGP_SPRETEiJ_G0017684	Cyclin	NA
+Mus_spretus	Taf15	MGP_SPRETEiJ_G0017720	TATA-box	NA
+Mus_spretus	Aatf	MGP_SPRETEiJ_G0017739	Others	NA
+Mus_spretus	Bcas3	MGP_SPRETEiJ_G0017752	Others	NA
+Mus_spretus	Brip1	MGP_SPRETEiJ_G0017756	Others	NA
+Mus_spretus	Med13	MGP_SPRETEiJ_G0017758	Mediator complex	NA
+Mus_spretus	Trim37	MGP_SPRETEiJ_G0017772	Tripartite motif	NA
+Mus_spretus	Supt4a	MGP_SPRETEiJ_G0017782	SUPT	NA
+Mus_spretus	Elobl	MGP_SPRETEiJ_G0017798	Others	NA
+Mus_spretus	Trim25	MGP_SPRETEiJ_G0017799	Tripartite motif	NA
+Mus_spretus		MGP_SPRETEiJ_G0017815	Others	NA
+Mus_spretus	Tob1	MGP_SPRETEiJ_G0017820	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0017879	Others	NA
+Mus_spretus	Cdk5rap3	MGP_SPRETEiJ_G0017885	Cyclin	NA
+Mus_spretus	Mllt6	MGP_SPRETEiJ_G0017905	Others	NA
+Mus_spretus	Pcgf2	MGP_SPRETEiJ_G0017907	PCGF	NA
+Mus_spretus	Med1	MGP_SPRETEiJ_G0017922	Mediator complex	NA
+Mus_spretus	Cdk12	MGP_SPRETEiJ_G0017923	Cyclin	NA
+Mus_spretus	Erbb2	MGP_SPRETEiJ_G0017930	Erbb2	NA
+Mus_spretus	Med24	MGP_SPRETEiJ_G0017939	Mediator complex	NA
+Mus_spretus	Jup	MGP_SPRETEiJ_G0018012	Others	NA
+Mus_spretus	Kat2a	MGP_SPRETEiJ_G0018025	Lysine acetyltransferase	NA
+Mus_spretus	Cavin1	MGP_SPRETEiJ_G0018034	Others	NA
+Mus_spretus	Ezh1	MGP_SPRETEiJ_G0018047	Others	NA
+Mus_spretus	Brca1	MGP_SPRETEiJ_G0018066	Others	NA
+Mus_spretus	Hdac5	MGP_SPRETEiJ_G0018086	Histone deacetylase	NA
+Mus_spretus	Atxn7l3	MGP_SPRETEiJ_G0018090	Others	NA
+Mus_spretus	Hexim1	MGP_SPRETEiJ_G0018116	Others	NA
+Mus_spretus	Hexim2	MGP_SPRETEiJ_G0018117	Others	NA
+Mus_spretus	Smarcd2	MGP_SPRETEiJ_G0018161	SWI/SNF	NA
+Mus_spretus	Ern1	MGP_SPRETEiJ_G0018168	Others	NA
+Mus_spretus	Ddx5	MGP_SPRETEiJ_G0018173	RNA helicase	NA
+Mus_spretus	Smurf2	MGP_SPRETEiJ_G0018175	Others	NA
+Mus_spretus	Bptf	MGP_SPRETEiJ_G0018177	Bromodomain	NA
+Mus_spretus	Nol11	MGP_SPRETEiJ_G0018178	Nuclear coactivator	NA
+Mus_spretus	Recql5	MGP_SPRETEiJ_G0018265	Others	NA
+Mus_spretus	Sap30bp	MGP_SPRETEiJ_G0018268	SAP	NA
+Mus_spretus	Wbp2	MGP_SPRETEiJ_G0018274	WW	NA
+Mus_spretus	Jmjd6	MGP_SPRETEiJ_G0018301	Others	NA
+Mus_spretus	Srsf2	MGP_SPRETEiJ_G0018303	Others	NA
+Mus_spretus	Birc5	MGP_SPRETEiJ_G0018317	Others	NA
+Mus_spretus	Cbx2	MGP_SPRETEiJ_G0018333	Chromobox	NA
+Mus_spretus	Cbx8	MGP_SPRETEiJ_G0018334	Chromobox	NA
+Mus_spretus	Cbx4	MGP_SPRETEiJ_G0018335	Chromobox	NA
+Mus_spretus	Rptor	MGP_SPRETEiJ_G0018346	Others	NA
+Mus_spretus	Bahcc1	MGP_SPRETEiJ_G0018354	Others	NA
+Mus_spretus	Alyref	MGP_SPRETEiJ_G0018373	Others	NA
+Mus_spretus	Sirt7	MGP_SPRETEiJ_G0018377	Sirtuin	NA
+Mus_spretus	Ddx1	MGP_SPRETEiJ_G0018464	RNA helicase	NA
+Mus_spretus	Lpin1	MGP_SPRETEiJ_G0018468	LPIN	NA
+Mus_spretus	Taf1b	MGP_SPRETEiJ_G0018485	TATA-box	NA
+Mus_spretus	Slc26a3	MGP_SPRETEiJ_G0018518	SLC	NA
+Mus_spretus	Strn3	MGP_SPRETEiJ_G0018582	Others	NA
+Mus_spretus	Arhgap5	MGP_SPRETEiJ_G0018589	Others	NA
+Mus_spretus	Eapp	MGP_SPRETEiJ_G0018594	Others	NA
+Mus_spretus	Snx6	MGP_SPRETEiJ_G0018595	Others	NA
+Mus_spretus	Baz1a	MGP_SPRETEiJ_G0018597	Bromodomain	NA
+Mus_spretus	Nfkbia	MGP_SPRETEiJ_G0018605	NFKB associated	NA
+Mus_spretus		MGP_SPRETEiJ_G0018608	Others	NA
+Mus_spretus	Brms1l	MGP_SPRETEiJ_G0018609	Other_CRF	NA
+Mus_spretus	Sav1	MGP_SPRETEiJ_G0018660	Others	NA
+Mus_spretus	Dact1	MGP_SPRETEiJ_G0018673	Others	NA
+Mus_spretus	Mnat1	MGP_SPRETEiJ_G0018689	Others	NA
+Mus_spretus	Hspa2	MGP_SPRETEiJ_G0018712	Heat shock protein	NA
+Mus_spretus	Actn1	MGP_SPRETEiJ_G0018739	Actin	NA
+Mus_spretus	Med6	MGP_SPRETEiJ_G0018756	Mediator complex	NA
+Mus_spretus	Dpf3	MGP_SPRETEiJ_G0018763	DPF	NA
+Mus_spretus	Psen1	MGP_SPRETEiJ_G0018767	Others	NA
+Mus_spretus	Snw1	MGP_SPRETEiJ_G0018841	Others	NA
+Mus_spretus	Gtf2a1	MGP_SPRETEiJ_G0018848	GTF	NA
+Mus_spretus	Trip11	MGP_SPRETEiJ_G0018875	Thyroid hormone receptor	NA
+Mus_spretus		MGP_SPRETEiJ_G0018947	SET	NA
+Mus_spretus	Ccnk	MGP_SPRETEiJ_G0018948	Cyclin	NA
+Mus_spretus		MGP_SPRETEiJ_G0019003	Others	NA
+Mus_spretus	Brf1	MGP_SPRETEiJ_G0019015	GTF	NA
+Mus_spretus	Zmynd11	MGP_SPRETEiJ_G0019076	Zinc finger	NA
+Mus_spretus	Actn2	MGP_SPRETEiJ_G0019080	Actin	NA
+Mus_spretus	Heatr1	MGP_SPRETEiJ_G0019081	Others	NA
+Mus_spretus	Cdk13	MGP_SPRETEiJ_G0019102	Cyclin	NA
+Mus_spretus	Sfrp4	MGP_SPRETEiJ_G0019110	Others	NA
+Mus_spretus	Trim27	MGP_SPRETEiJ_G0019120	Tripartite motif	NA
+Mus_spretus	Abt1	MGP_SPRETEiJ_G0019181	Others	NA
+Mus_spretus	Btn1a1	MGP_SPRETEiJ_G0019182	Others	NA
+Mus_spretus	Gmnn	MGP_SPRETEiJ_G0019217	Others	NA
+Mus_spretus	Tdp2	MGP_SPRETEiJ_G0019220	Others	NA
+Mus_spretus	Cdyl	MGP_SPRETEiJ_G0019308	Chromodomain Y	NA
+Mus_spretus	Mak	MGP_SPRETEiJ_G0019332	Others	NA
+Mus_spretus	Sirt5	MGP_SPRETEiJ_G0019347	Sirtuin	NA
+Mus_spretus	Kdm1b	MGP_SPRETEiJ_G0019367	Lysine demethylase	NA
+Mus_spretus	Dek	MGP_SPRETEiJ_G0019368	Other_CRF	NA
+Mus_spretus	Phf2	MGP_SPRETEiJ_G0019375	PHF	NA
+Mus_spretus	Syk	MGP_SPRETEiJ_G0019403	Others	NA
+Mus_spretus	Nsd1	MGP_SPRETEiJ_G0019434	Nuclear receptor coactivator	NA
+Mus_spretus	Pcbd2	MGP_SPRETEiJ_G0019456	Others	NA
+Mus_spretus	Hnrnpk	MGP_SPRETEiJ_G0019479	HNRNP	NA
+Mus_spretus	Fbp1	MGP_SPRETEiJ_G0019511	Others	NA
+Mus_spretus	Habp4	MGP_SPRETEiJ_G0019519	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0019577	Mediator complex	NA
+Mus_spretus	Ice1	MGP_SPRETEiJ_G0019578	Others	NA
+Mus_spretus	Trip13	MGP_SPRETEiJ_G0019594	Thyroid hormone receptor	NA
+Mus_spretus	Ell2	MGP_SPRETEiJ_G0019611	GTF	NA
+Mus_spretus	Ccnh	MGP_SPRETEiJ_G0019633	Cyclin	NA
+Mus_spretus	Ssbp2	MGP_SPRETEiJ_G0019646	Others	NA
+Mus_spretus	Jmy	MGP_SPRETEiJ_G0019664	Others	NA
+Mus_spretus	Ankra2	MGP_SPRETEiJ_G0019701	Ankyrin repeat	NA
+Mus_spretus	Btf3	MGP_SPRETEiJ_G0019703	Others	NA
+Mus_spretus	Bdp1	MGP_SPRETEiJ_G0019716	GTF	NA
+Mus_spretus	Gtf2h2	MGP_SPRETEiJ_G0019720	GTF	NA
+Mus_spretus	Cdk7	MGP_SPRETEiJ_G0019726	Cyclin	NA
+Mus_spretus	Pik3r1	MGP_SPRETEiJ_G0019731	Others	NA
+Mus_spretus	Erbin	MGP_SPRETEiJ_G0019735	Erbb2	NA
+Mus_spretus	Mcidas	MGP_SPRETEiJ_G0019778	Others	NA
+Mus_spretus	Ecd	MGP_SPRETEiJ_G0019862	Others	NA
+Mus_spretus	Kat6b	MGP_SPRETEiJ_G0019883	Lysine acetyltransferase	NA
+Mus_spretus	Tasor	MGP_SPRETEiJ_G0019924	FAM	NA
+Mus_spretus	Actr8	MGP_SPRETEiJ_G0019931	ACTR	NA
+Mus_spretus	Sfmbt1	MGP_SPRETEiJ_G0019939	Others	NA
+Mus_spretus	Gnl3	MGP_SPRETEiJ_G0019948	Others	NA
+Mus_spretus	Eaf1	MGP_SPRETEiJ_G0019962	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0019971	Nuclear receptor coactivator	NA
+Mus_spretus	Samd4	MGP_SPRETEiJ_G0020049	Others	NA
+Mus_spretus	Apex1	MGP_SPRETEiJ_G0020101	Others	NA
+Mus_spretus	Hnrnpc	MGP_SPRETEiJ_G0020126	HNRNP	NA
+Mus_spretus	Supt16	MGP_SPRETEiJ_G0020128	SUPT	NA
+Mus_spretus	Prmt5	MGP_SPRETEiJ_G0020148	Arginine methyltransferase	NA
+Mus_spretus	Ajuba	MGP_SPRETEiJ_G0020150	Others	NA
+Mus_spretus	Nedd8	MGP_SPRETEiJ_G0020198	Others	NA
+Mus_spretus	Ripk3	MGP_SPRETEiJ_G0020209	Others	NA
+Mus_spretus	Mphosph8	MGP_SPRETEiJ_G0020231	Others	NA
+Mus_spretus	Pspc1	MGP_SPRETEiJ_G0020232	Others	NA
+Mus_spretus	Zmym5	MGP_SPRETEiJ_G0020233	Zinc finger	NA
+Mus_spretus	Zmym2	MGP_SPRETEiJ_G0020234	Zinc finger	NA
+Mus_spretus	Sap18	MGP_SPRETEiJ_G0020248	SAP	NA
+Mus_spretus	Elp3	MGP_SPRETEiJ_G0020317	ELP	NA
+Mus_spretus	Clu	MGP_SPRETEiJ_G0020324	Others	NA
+Mus_spretus	Loxl2	MGP_SPRETEiJ_G0020358	Others	NA
+Mus_spretus	Ccar2	MGP_SPRETEiJ_G0020366	Others	NA
+Mus_spretus	Hr	MGP_SPRETEiJ_G0020379	Lysine methyltransferase	NA
+Mus_spretus	Npm2	MGP_SPRETEiJ_G0020384	Nucleoplasmin	NA
+Mus_spretus	Rb1	MGP_SPRETEiJ_G0020393	Other_Co-activator/repressors	NA
+Mus_spretus	Med4	MGP_SPRETEiJ_G0020396	Mediator complex	NA
+Mus_spretus	Rgcc	MGP_SPRETEiJ_G0020433	Others	NA
+Mus_spretus	Tdrd3	MGP_SPRETEiJ_G0020448	Others	NA
+Mus_spretus	Mycbp2	MGP_SPRETEiJ_G0020470	MYC	NA
+Mus_spretus	Dab2	MGP_SPRETEiJ_G0020536	Others	NA
+Mus_spretus	Nipbl	MGP_SPRETEiJ_G0020547	Others	NA
+Mus_spretus	Basp1	MGP_SPRETEiJ_G0020588	Others	NA
+Mus_spretus	Ctnnd2	MGP_SPRETEiJ_G0020601	Casein	NA
+Mus_spretus	Mtdh	MGP_SPRETEiJ_G0020615	Others	NA
+Mus_spretus	Stk3	MGP_SPRETEiJ_G0020625	Others	NA
+Mus_spretus	Abra	MGP_SPRETEiJ_G0020662	Actin	NA
+Mus_spretus	Eny2	MGP_SPRETEiJ_G0020670	Others	NA
+Mus_spretus	Rad21	MGP_SPRETEiJ_G0020679	Others	NA
+Mus_spretus	Med30	MGP_SPRETEiJ_G0020682	Mediator complex	NA
+Mus_spretus	Taf2	MGP_SPRETEiJ_G0020691	TATA-box	NA
+Mus_spretus	Atad2	MGP_SPRETEiJ_G0020708	Others	NA
+Mus_spretus	Trib1	MGP_SPRETEiJ_G0020725	Others	NA
+Mus_spretus	Chrac1	MGP_SPRETEiJ_G0020758	Other_CRF	NA
+Mus_spretus	Ago2	MGP_SPRETEiJ_G0020759	Others	NA
+Mus_spretus	Top1mt	MGP_SPRETEiJ_G0020794	Other_CRF	NA
+Mus_spretus	Puf60	MGP_SPRETEiJ_G0020812	Others	NA
+Mus_spretus	Parp10	MGP_SPRETEiJ_G0020817	PARP	NA
+Mus_spretus	Tonsl	MGP_SPRETEiJ_G0020841	Others	NA
+Mus_spretus	Rbfox2	MGP_SPRETEiJ_G0020860	Others	NA
+Mus_spretus	Ddx17	MGP_SPRETEiJ_G0020915	RNA helicase	NA
+Mus_spretus	Cbx6	MGP_SPRETEiJ_G0020926	Chromobox	NA
+Mus_spretus	Cbx7	MGP_SPRETEiJ_G0020928	Chromobox	NA
+Mus_spretus	Tab1	MGP_SPRETEiJ_G0020932	Others	NA
+Mus_spretus	Mrtfa	MGP_SPRETEiJ_G0020945	Others	NA
+Mus_spretus	Rbx1	MGP_SPRETEiJ_G0020951	Others	NA
+Mus_spretus	Ep300	MGP_SPRETEiJ_G0020952	Others	NA
+Mus_spretus	L3mbtl2	MGP_SPRETEiJ_G0020953	Others	NA
+Mus_spretus	Tob2	MGP_SPRETEiJ_G0020961	Others	NA
+Mus_spretus	Phf5a	MGP_SPRETEiJ_G0020962	PHF	NA
+Mus_spretus	Xrcc6	MGP_SPRETEiJ_G0020967	Others	NA
+Mus_spretus	Wbp2nl	MGP_SPRETEiJ_G0020979	Others	NA
+Mus_spretus	Tcf20	MGP_SPRETEiJ_G0020987	Others	NA
+Mus_spretus	Efcab6	MGP_SPRETEiJ_G0021003	Others	NA
+Mus_spretus	Phf21b	MGP_SPRETEiJ_G0021014	PHF	NA
+Mus_spretus	Brd1	MGP_SPRETEiJ_G0021038	Bromodomain	NA
+Mus_spretus	Hdac10	MGP_SPRETEiJ_G0021050	Histone deacetylase	NA
+Mus_spretus	Lrrk2	MGP_SPRETEiJ_G0021081	Other_CRF	NA
+Mus_spretus	Yaf2	MGP_SPRETEiJ_G0021086	Others	NA
+Mus_spretus	Pphln1	MGP_SPRETEiJ_G0021088	Others	NA
+Mus_spretus	Hdac7	MGP_SPRETEiJ_G0021112	Histone deacetylase	NA
+Mus_spretus	Senp1	MGP_SPRETEiJ_G0021116	Others	NA
+Mus_spretus	Ccnt1	MGP_SPRETEiJ_G0021133	Cyclin	NA
+Mus_spretus	Mcrs1	MGP_SPRETEiJ_G0021156	Others	NA
+Mus_spretus	Smarcd1	MGP_SPRETEiJ_G0021170	SWI/SNF	NA
+Mus_spretus	Pfdn5	MGP_SPRETEiJ_G0021239	Others	NA
+Mus_spretus	Calcoco1	MGP_SPRETEiJ_G0021254	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0021265	Chromobox	NA
+Mus_spretus	Crebbp	MGP_SPRETEiJ_G0021292	CREB	NA
+Mus_spretus	Dnaja3	MGP_SPRETEiJ_G0021300	Others	NA
+Mus_spretus	Ciita	MGP_SPRETEiJ_G0021338	Others	NA
+Mus_spretus	Mrtfb	MGP_SPRETEiJ_G0021360	Others	NA
+Mus_spretus	Rrn3	MGP_SPRETEiJ_G0021365	Others	NA
+Mus_spretus	Med15	MGP_SPRETEiJ_G0021419	Mediator complex	NA
+Mus_spretus	Hira	MGP_SPRETEiJ_G0021453	Others	NA
+Mus_spretus	Yeats2	MGP_SPRETEiJ_G0021468	Others	NA
+Mus_spretus	Dvl3	MGP_SPRETEiJ_G0021474	Others	NA
+Mus_spretus	Rnf168	MGP_SPRETEiJ_G0021565	Ring finger protein	NA
+Mus_spretus	Parp14	MGP_SPRETEiJ_G0021604	PARP	NA
+Mus_spretus	Parp9	MGP_SPRETEiJ_G0021606	PARP	NA
+Mus_spretus	Eaf2	MGP_SPRETEiJ_G0021620	Others	NA
+Mus_spretus	Hcls1	MGP_SPRETEiJ_G0021623	Others	NA
+Mus_spretus	Gtf2e1	MGP_SPRETEiJ_G0021627	GTF	NA
+Mus_spretus	Gsk3b	MGP_SPRETEiJ_G0021635	Others	NA
+Mus_spretus	Dppa4	MGP_SPRETEiJ_G0021689	Others	NA
+Mus_spretus	Dppa2	MGP_SPRETEiJ_G0021690	Others	NA
+Mus_spretus	Cggbp1	MGP_SPRETEiJ_G0021769	Others	NA
+Mus_spretus	Vgll3	MGP_SPRETEiJ_G0021773	Vestigial like	NA
+Mus_spretus	Nrip1	MGP_SPRETEiJ_G0021783	Nuclear receptor coactivator	NA
+Mus_spretus	Chaf1b	MGP_SPRETEiJ_G0021890	Others	NA
+Mus_spretus	Dscam	MGP_SPRETEiJ_G0021913	Others	NA
+Mus_spretus	Gtf2h5	MGP_SPRETEiJ_G0021933	GTF	NA
+Mus_spretus	Ezr	MGP_SPRETEiJ_G0021937	Others	NA
+Mus_spretus	Phf10	MGP_SPRETEiJ_G0021990	PHF	NA
+Mus_spretus	Tbp	MGP_SPRETEiJ_G0021997	TATA-box	NA
+Mus_spretus	Axin1	MGP_SPRETEiJ_G0022185	Others	NA
+Mus_spretus	Phf1	MGP_SPRETEiJ_G0022202	PHF	NA
+Mus_spretus	Taf11	MGP_SPRETEiJ_G0022223	TATA-box	NA
+Mus_spretus	BC004004	MGP_SPRETEiJ_G0022254	Other_CRF	NA
+Mus_spretus	Pim1	MGP_SPRETEiJ_G0022258	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0022262	Ring finger protein	NA
+Mus_spretus	Notch3	MGP_SPRETEiJ_G0022291	Notch	NA
+Mus_spretus	Brd4	MGP_SPRETEiJ_G0022293	Bromodomain	NA
+Mus_spretus	Daxx	MGP_SPRETEiJ_G0022333	Other_CRF	NA
+Mus_spretus	Ring1	MGP_SPRETEiJ_G0022342	Ring finger protein	NA
+Mus_spretus	Brd2	MGP_SPRETEiJ_G0022348	Bromodomain	NA
+Mus_spretus	Notch4	MGP_SPRETEiJ_G0022367	Notch	NA
+Mus_spretus	Ehmt2	MGP_SPRETEiJ_G0022388	Histone lysine methyltransferase	NA
+Mus_spretus	Hspa1l	MGP_SPRETEiJ_G0022394	Heat shock protein	NA
+Mus_spretus	Ddx39b	MGP_SPRETEiJ_G0022424	RNA helicase	NA
+Mus_spretus	Gtf2h4	MGP_SPRETEiJ_G0022437	GTF	NA
+Mus_spretus	Supt3	MGP_SPRETEiJ_G0022552	SUPT	NA
+Mus_spretus	Vegfa	MGP_SPRETEiJ_G0022567	Other_CRF	NA
+Mus_spretus	Taf8	MGP_SPRETEiJ_G0022613	TATA-box	NA
+Mus_spretus	Med20	MGP_SPRETEiJ_G0022616	Mediator complex	NA
+Mus_spretus	Mdfi	MGP_SPRETEiJ_G0022625	Others	NA
+Mus_spretus	Kat2b	MGP_SPRETEiJ_G0022654	Lysine acetyltransferase	NA
+Mus_spretus	Kdm4b	MGP_SPRETEiJ_G0022687	Lysine demethylase	NA
+Mus_spretus	Safb2	MGP_SPRETEiJ_G0022690	Others	NA
+Mus_spretus	Mllt1	MGP_SPRETEiJ_G0022705	GTF	NA
+Mus_spretus	Gtf2f1	MGP_SPRETEiJ_G0022710	GTF	NA
+Mus_spretus	Lpin2	MGP_SPRETEiJ_G0022766	LPIN	NA
+Mus_spretus	Lbh	MGP_SPRETEiJ_G0022778	Others	NA
+Mus_spretus	Dpy30	MGP_SPRETEiJ_G0022786	Others	NA
+Mus_spretus	Lrpprc	MGP_SPRETEiJ_G0022843	Others	NA
+Mus_spretus	Gtf2a1l	MGP_SPRETEiJ_G0022873	GTF	NA
+Mus_spretus	Epc1	MGP_SPRETEiJ_G0022892	Others	NA
+Mus_spretus	Wac	MGP_SPRETEiJ_G0022898	WW	NA
+Mus_spretus	Rbbp8	MGP_SPRETEiJ_G0022913	RBBP	NA
+Mus_spretus	Ss18	MGP_SPRETEiJ_G0022928	SS18	NA
+Mus_spretus	Taf4b	MGP_SPRETEiJ_G0022930	TATA-box	NA
+Mus_spretus	Kctd1	MGP_SPRETEiJ_G0022931	Others	NA
+Mus_spretus	Ino80c	MGP_SPRETEiJ_G0022958	INO80 complex	NA
+Mus_spretus	Rprd1a	MGP_SPRETEiJ_G0022961	Others	NA
+Mus_spretus	Elp2	MGP_SPRETEiJ_G0022963	ELP	NA
+Mus_spretus	Sap130	MGP_SPRETEiJ_G0022975	SAP	NA
+Mus_spretus	Ercc3	MGP_SPRETEiJ_G0022987	Others	NA
+Mus_spretus	Camk4	MGP_SPRETEiJ_G0022992	CAMK	NA
+Mus_spretus	Brd8	MGP_SPRETEiJ_G0023005	Bromodomain	NA
+Mus_spretus	Kdm3b	MGP_SPRETEiJ_G0023011	Lysine demethylase	NA
+Mus_spretus	Cxxc5	MGP_SPRETEiJ_G0023031	Others	NA
+Mus_spretus	Slc25a2	MGP_SPRETEiJ_G0023089	SLC	NA
+Mus_spretus	Taf7	MGP_SPRETEiJ_G0023090	TATA-box	NA
+Mus_spretus	Hdac3	MGP_SPRETEiJ_G0023112	Histone deacetylase	NA
+Mus_spretus	Rnf14	MGP_SPRETEiJ_G0023119	Ring finger protein	NA
+Mus_spretus	Fgf1	MGP_SPRETEiJ_G0023124	FGF	NA
+Mus_spretus	Tcerg1	MGP_SPRETEiJ_G0023138	TEF	NA
+Mus_spretus	Srfbp1	MGP_SPRETEiJ_G0023184	Others	NA
+Mus_spretus	Ppargc1b	MGP_SPRETEiJ_G0023235	Others	NA
+Mus_spretus	Adrb2	MGP_SPRETEiJ_G0023244	Others	NA
+Mus_spretus	Malt1	MGP_SPRETEiJ_G0023263	Others	NA
+Mus_spretus	Cidea	MGP_SPRETEiJ_G0023277	Others	NA
+Mus_spretus	Dcc	MGP_SPRETEiJ_G0023302	Others	NA
+Mus_spretus	Cxxc1	MGP_SPRETEiJ_G0023312	Others	NA
+Mus_spretus	Skor2	MGP_SPRETEiJ_G0023324	SKI	NA
+Mus_spretus	Hsbp1l1	MGP_SPRETEiJ_G0023351	Heat shock protein	NA
+Mus_spretus	Ctdp1	MGP_SPRETEiJ_G0023354	Others	NA
+Mus_spretus	Kmt5b	MGP_SPRETEiJ_G0023387	Lysine methyltransferase	NA
+Mus_spretus		MGP_SPRETEiJ_G0023404	Others	NA
+Mus_spretus	Kdm2a	MGP_SPRETEiJ_G0023419	Lysine demethylase	NA
+Mus_spretus	Rbm14	MGP_SPRETEiJ_G0023431	RNA binding protein	NA
+Mus_spretus	Brms1	MGP_SPRETEiJ_G0023444	Other_CRF	NA
+Mus_spretus	Drap1	MGP_SPRETEiJ_G0023461	Others	NA
+Mus_spretus	Ccdc85b	MGP_SPRETEiJ_G0023464	Coiled-coil	NA
+Mus_spretus	Kat5	MGP_SPRETEiJ_G0023475	Lysine acetyltransferase	NA
+Mus_spretus	Dpf2	MGP_SPRETEiJ_G0023489	DPF	NA
+Mus_spretus	Men1	MGP_SPRETEiJ_G0023516	Others	NA
+Mus_spretus	Sf1	MGP_SPRETEiJ_G0023518	Others	NA
+Mus_spretus	Prdx5	MGP_SPRETEiJ_G0023525	Others	NA
+Mus_spretus	Lgals12	MGP_SPRETEiJ_G0023552	Others	NA
+Mus_spretus	Taf6l	MGP_SPRETEiJ_G0023565	TATA-box	NA
+Mus_spretus	Lpxn	MGP_SPRETEiJ_G0023676	Others	NA
+Mus_spretus	Tle4	MGP_SPRETEiJ_G0023711	Transducin	NA
+Mus_spretus	Kank1	MGP_SPRETEiJ_G0023756	Others	NA
+Mus_spretus	Smarca2	MGP_SPRETEiJ_G0023759	SWI/SNF	NA
+Mus_spretus	Jak2	MGP_SPRETEiJ_G0023772	Others	NA
+Mus_spretus	Ankrd1	MGP_SPRETEiJ_G0023822	Ankyrin repeat	NA
+Mus_spretus	Pcgf5	MGP_SPRETEiJ_G0023823	PCGF	NA
+Mus_spretus	Btaf1	MGP_SPRETEiJ_G0023828	Others	NA
+Mus_spretus	Hells	MGP_SPRETEiJ_G0023848	Others	NA
+Mus_spretus	Pdlim1	MGP_SPRETEiJ_G0023859	Others	NA
+Mus_spretus	Mms19	MGP_SPRETEiJ_G0023882	Others	NA
+Mus_spretus	Ankrd2	MGP_SPRETEiJ_G0023884	Ankyrin repeat	NA
+Mus_spretus	Chuk	MGP_SPRETEiJ_G0023912	Others	NA
+Mus_spretus	Hif1an	MGP_SPRETEiJ_G0023924	Others	NA
+Mus_spretus	Btrc	MGP_SPRETEiJ_G0023936	Others	NA
+Mus_spretus	Npm3	MGP_SPRETEiJ_G0023941	Nucleoplasmin	NA
+Mus_spretus	Ldb1	MGP_SPRETEiJ_G0023946	LIM	NA
+Mus_spretus	Sufu	MGP_SPRETEiJ_G0023958	Others	NA
+Mus_spretus	Trim8	MGP_SPRETEiJ_G0023959	Tripartite motif	NA
+Mus_spretus	Pcgf6	MGP_SPRETEiJ_G0023969	PCGF	NA
+Mus_spretus	Taf5	MGP_SPRETEiJ_G0023970	TATA-box	NA
+Mus_spretus		MGP_SPRETEiJ_G0023975	Histone cluster 1 H1	NA
+Mus_spretus	Sfr1	MGP_SPRETEiJ_G0023981	Others	NA
+Mus_spretus	Pdcd4	MGP_SPRETEiJ_G0023997	Others	NA
+Mus_spretus	Suv39h2	MGP_SPRETEiJ_G0024056	Others	NA
+Mus_spretus	Nudt5	MGP_SPRETEiJ_G0024071	Other_CRF	NA
+Mus_spretus	Taf3	MGP_SPRETEiJ_G0024083	TATA-box	NA
+Mus_spretus	Sfmbt2	MGP_SPRETEiJ_G0024088	Others	NA
+Mus_spretus	Bmi1	MGP_SPRETEiJ_G0024122	Others	NA
+Mus_spretus	Tbpl2	MGP_SPRETEiJ_G0024148	TATA-box	NA
+Mus_spretus	Ehmt1	MGP_SPRETEiJ_G0024157	Histone lysine methyltransferase	NA
+Mus_spretus	Nelfb	MGP_SPRETEiJ_G0024168	GTF	NA
+Mus_spretus	Edf1	MGP_SPRETEiJ_G0024199	Others	NA
+Mus_spretus	Notch1	MGP_SPRETEiJ_G0024235	Notch	NA
+Mus_spretus	Med22	MGP_SPRETEiJ_G0024243	Mediator complex	NA
+Mus_spretus		MGP_SPRETEiJ_G0024249	Others	NA
+Mus_spretus	Brd3	MGP_SPRETEiJ_G0024259	Bromodomain	NA
+Mus_spretus	Wdr5	MGP_SPRETEiJ_G0024260	WD	NA
+Mus_spretus	Med27	MGP_SPRETEiJ_G0024283	Mediator complex	NA
+Mus_spretus		MGP_SPRETEiJ_G0024295	SET	NA
+Mus_spretus	Abl1	MGP_SPRETEiJ_G0024333	Others	NA
+Mus_spretus	Eng	MGP_SPRETEiJ_G0024360	Others	NA
+Mus_spretus	Cdk9	MGP_SPRETEiJ_G0024362	Cyclin	NA
+Mus_spretus	Niban2	MGP_SPRETEiJ_G0024370	FAM	NA
+Mus_spretus	Phf19	MGP_SPRETEiJ_G0024389	PHF	NA
+Mus_spretus	Scai	MGP_SPRETEiJ_G0024454	Others	NA
+Mus_spretus	Epc2	MGP_SPRETEiJ_G0024466	Others	NA
+Mus_spretus	Nmi	MGP_SPRETEiJ_G0024474	Others	NA
+Mus_spretus	Hat1	MGP_SPRETEiJ_G0024566	Others	NA
+Mus_spretus	Cir1	MGP_SPRETEiJ_G0024580	Other_Co-activator/repressors	NA
+Mus_spretus	Ctnnd1	MGP_SPRETEiJ_G0024639	Casein	NA
+Mus_spretus	Med19	MGP_SPRETEiJ_G0024644	Mediator complex	NA
+Mus_spretus	Phf21a	MGP_SPRETEiJ_G0024885	PHF	NA
+Mus_spretus	Traf6	MGP_SPRETEiJ_G0024913	Others	NA
+Mus_spretus	Lmo2	MGP_SPRETEiJ_G0024930	LIM	NA
+Mus_spretus	Hipk3	MGP_SPRETEiJ_G0024937	HIPK	NA
+Mus_spretus	Elp4	MGP_SPRETEiJ_G0024951	ELP	NA
+Mus_spretus	Pak6	MGP_SPRETEiJ_G0025035	Others	NA
+Mus_spretus	Ino80	MGP_SPRETEiJ_G0025060	INO80 complex	NA
+Mus_spretus	Rtf1	MGP_SPRETEiJ_G0025066	Others	NA
+Mus_spretus	Trp53bp1	MGP_SPRETEiJ_G0025102	Others	NA
+Mus_spretus	Ell3	MGP_SPRETEiJ_G0025109	GTF	NA
+Mus_spretus	Eid1	MGP_SPRETEiJ_G0025150	EID	NA
+Mus_spretus	Cops2	MGP_SPRETEiJ_G0025152	Others	NA
+Mus_spretus	Kcnip3	MGP_SPRETEiJ_G0025179	Others	NA
+Mus_spretus	Cenpb	MGP_SPRETEiJ_G0025243	CENP	NA
+Mus_spretus	Prnp	MGP_SPRETEiJ_G0025252	Others	NA
+Mus_spretus	Esf1	MGP_SPRETEiJ_G0025285	Others	NA
+Mus_spretus	Polr3f	MGP_SPRETEiJ_G0025304	POLR	NA
+Mus_spretus	Xrn2	MGP_SPRETEiJ_G0025318	Others	NA
+Mus_spretus	Csnk2a1	MGP_SPRETEiJ_G0025369	Casein	NA
+Mus_spretus	Trib3	MGP_SPRETEiJ_G0025372	Others	NA
+Mus_spretus	Hck	MGP_SPRETEiJ_G0025403	Others	NA
+Mus_spretus	Asxl1	MGP_SPRETEiJ_G0025409	Others	NA
+Mus_spretus	Cbfa2t2	MGP_SPRETEiJ_G0025431	Others	NA
+Mus_spretus	Raly	MGP_SPRETEiJ_G0025441	Others	NA
+Mus_spretus	Itch	MGP_SPRETEiJ_G0025445	Others	NA
+Mus_spretus	Rbm39	MGP_SPRETEiJ_G0025476	RNA binding protein	NA
+Mus_spretus	Phf20	MGP_SPRETEiJ_G0025477	PHF	NA
+Mus_spretus	Scand1	MGP_SPRETEiJ_G0025478	Others	NA
+Mus_spretus	Rbl1	MGP_SPRETEiJ_G0025493	Other_Co-activator/repressors	NA
+Mus_spretus	Src	MGP_SPRETEiJ_G0025498	Others	NA
+Mus_spretus	Rprd1b	MGP_SPRETEiJ_G0025504	Others	NA
+Mus_spretus	Actr5	MGP_SPRETEiJ_G0025514	ACTR	NA
+Mus_spretus	Top1	MGP_SPRETEiJ_G0025521	Other_CRF	NA
+Mus_spretus	Lpin3	MGP_SPRETEiJ_G0025524	LPIN	NA
+Mus_spretus	Chd6	MGP_SPRETEiJ_G0025526	CHD	NA
+Mus_spretus	Ywhab	MGP_SPRETEiJ_G0025548	Others	NA
+Mus_spretus	Pabpc1l	MGP_SPRETEiJ_G0025549	Other_CRF	NA
+Mus_spretus	Eya2	MGP_SPRETEiJ_G0025611	EYA	NA
+Mus_spretus	Zmynd8	MGP_SPRETEiJ_G0025612	Zinc finger	NA
+Mus_spretus	Ncoa3	MGP_SPRETEiJ_G0025613	Nuclear receptor coactivator	NA
+Mus_spretus	Nelfcd	MGP_SPRETEiJ_G0025679	GTF	NA
+Mus_spretus	Ss18l1	MGP_SPRETEiJ_G0025695	SS18	NA
+Mus_spretus	Mrgbp	MGP_SPRETEiJ_G0025707	Others	NA
+Mus_spretus	Helz2	MGP_SPRETEiJ_G0025727	Others	NA
+Mus_spretus	Prpf6	MGP_SPRETEiJ_G0025741	Others	NA
+Mus_spretus	Tcea2	MGP_SPRETEiJ_G0025744	TEF	NA
+Mus_spretus	Pex2	MGP_SPRETEiJ_G0025755	Others	NA
+Mus_spretus	Hltf	MGP_SPRETEiJ_G0025809	Others	NA
+Mus_spretus	Tbl1xr1	MGP_SPRETEiJ_G0025814	Transducin	NA
+Mus_spretus	Skil	MGP_SPRETEiJ_G0025844	SKI	NA
+Mus_spretus	Actl6a	MGP_SPRETEiJ_G0025854	Actin	NA
+Mus_spretus	Ccna2	MGP_SPRETEiJ_G0025874	Cyclin	NA
+Mus_spretus	Jade1	MGP_SPRETEiJ_G0025899	Others	NA
+Mus_spretus	Naa15	MGP_SPRETEiJ_G0025910	Others	NA
+Mus_spretus	Setd7	MGP_SPRETEiJ_G0025912	SET	NA
+Mus_spretus	Maml3	MGP_SPRETEiJ_G0025914	MAML	NA
+Mus_spretus	Supt20	MGP_SPRETEiJ_G0025925	SUPT	NA
+Mus_spretus	Rfxap	MGP_SPRETEiJ_G0025930	Others	NA
+Mus_spretus	Ccna1	MGP_SPRETEiJ_G0025932	Cyclin	NA
+Mus_spretus	Wwtr1	MGP_SPRETEiJ_G0025942	WW	NA
+Mus_spretus	Siah2	MGP_SPRETEiJ_G0025952	Others	NA
+Mus_spretus	Med12l	MGP_SPRETEiJ_G0025954	Mediator complex	NA
+Mus_spretus	Dhx36	MGP_SPRETEiJ_G0025972	RNA helicase	NA
+Mus_spretus	Ppid	MGP_SPRETEiJ_G0026027	Others	NA
+Mus_spretus	Plrg1	MGP_SPRETEiJ_G0026048	Others	NA
+Mus_spretus	Fbxw7	MGP_SPRETEiJ_G0026061	Others	NA
+Mus_spretus	Hdgf	MGP_SPRETEiJ_G0026085	Others	NA
+Mus_spretus	Pmf1	MGP_SPRETEiJ_G0026109	Others	NA
+Mus_spretus	Ash1l	MGP_SPRETEiJ_G0026126	Others	NA
+Mus_spretus	Muc1	MGP_SPRETEiJ_G0026138	Others	NA
+Mus_spretus	Pygo2	MGP_SPRETEiJ_G0026154	Others	NA
+Mus_spretus	Pbxip1	MGP_SPRETEiJ_G0026155	Others	NA
+Mus_spretus	Crtc2	MGP_SPRETEiJ_G0026174	CREB	NA
+Mus_spretus	Ilf2	MGP_SPRETEiJ_G0026180	Others	NA
+Mus_spretus	Chtop	MGP_SPRETEiJ_G0026182	Others	NA
+Mus_spretus	S100a8	MGP_SPRETEiJ_G0026194	Others	NA
+Mus_spretus	S100a9	MGP_SPRETEiJ_G0026195	Others	NA
+Mus_spretus	Anp32e	MGP_SPRETEiJ_G0026304	ANP	NA
+Mus_spretus	Txnip	MGP_SPRETEiJ_G0026325	Others	NA
+Mus_spretus	Polr3c	MGP_SPRETEiJ_G0026337	POLR	NA
+Mus_spretus	Bcl9	MGP_SPRETEiJ_G0026345	BCL	NA
+Mus_spretus	Chd1l	MGP_SPRETEiJ_G0026347	CHD	NA
+Mus_spretus	Notch2	MGP_SPRETEiJ_G0026353	Notch	NA
+Mus_spretus	Ttf2	MGP_SPRETEiJ_G0026377	Others	NA
+Mus_spretus	Trim33	MGP_SPRETEiJ_G0026399	Tripartite motif	NA
+Mus_spretus	Hipk1	MGP_SPRETEiJ_G0026402	HIPK	NA
+Mus_spretus	Rhoc	MGP_SPRETEiJ_G0026415	Others	NA
+Mus_spretus	Ddx20	MGP_SPRETEiJ_G0026423	RNA helicase	NA
+Mus_spretus	Wdr77	MGP_SPRETEiJ_G0026430	WD	NA
+Mus_spretus	Lrif1	MGP_SPRETEiJ_G0026440	Others	NA
+Mus_spretus	Rbm15	MGP_SPRETEiJ_G0026451	RNA binding protein	NA
+Mus_spretus	Prmt6	MGP_SPRETEiJ_G0026500	Arginine methyltransferase	NA
+Mus_spretus	Dnttip2	MGP_SPRETEiJ_G0026544	Others	NA
+Mus_spretus	Camk2d	MGP_SPRETEiJ_G0026564	CAMK	NA
+Mus_spretus		MGP_SPRETEiJ_G0026623	Others	NA
+Mus_spretus	Gtf2b	MGP_SPRETEiJ_G0026653	GTF	NA
+Mus_spretus	Cth	MGP_SPRETEiJ_G0026717	Others	NA
+Mus_spretus	Depdc1a	MGP_SPRETEiJ_G0026722	Others	NA
+Mus_spretus	Tgs1	MGP_SPRETEiJ_G0026727	Others	NA
+Mus_spretus	Sdr16c5	MGP_SPRETEiJ_G0026733	Others	NA
+Mus_spretus	Chd7	MGP_SPRETEiJ_G0026745	CHD	NA
+Mus_spretus	Runx1t1	MGP_SPRETEiJ_G0026768	Others	NA
+Mus_spretus	Wwp1	MGP_SPRETEiJ_G0026786	WW	NA
+Mus_spretus	Ccnc	MGP_SPRETEiJ_G0026793	Cyclin	NA
+Mus_spretus	Fhl5	MGP_SPRETEiJ_G0026804	FHL	NA
+Mus_spretus	Ufl1	MGP_SPRETEiJ_G0026805	Others	NA
+Mus_spretus	Casp8ap2	MGP_SPRETEiJ_G0026812	Others	NA
+Mus_spretus	Pnrc1	MGP_SPRETEiJ_G0026823	Others	NA
+Mus_spretus	1700009N14Rik	MGP_SPRETEiJ_G0026840	Others	NA
+Mus_spretus	Spag8	MGP_SPRETEiJ_G0026908	Others	NA
+Mus_spretus	Grhpr	MGP_SPRETEiJ_G0026928	Others	NA
+Mus_spretus	Anp32b	MGP_SPRETEiJ_G0026950	ANP	NA
+Mus_spretus	Rnf20	MGP_SPRETEiJ_G0026978	Ring finger protein	NA
+Mus_spretus	Elp1	MGP_SPRETEiJ_G0027002	ELP	NA
+Mus_spretus	Txn1	MGP_SPRETEiJ_G0027013	Others	NA
+Mus_spretus	Trim32	MGP_SPRETEiJ_G0027068	Tripartite motif	NA
+Mus_spretus	Tle1	MGP_SPRETEiJ_G0027074	Transducin	NA
+Mus_spretus	Kdm4c	MGP_SPRETEiJ_G0027077	Lysine demethylase	NA
+Mus_spretus	Psip1	MGP_SPRETEiJ_G0027089	Others	NA
+Mus_spretus	Mllt3	MGP_SPRETEiJ_G0027103	GTF	NA
+Mus_spretus	Itgb3bp	MGP_SPRETEiJ_G0027164	Others	NA
+Mus_spretus	Ssbp3	MGP_SPRETEiJ_G0027210	Others	NA
+Mus_spretus	Plk3	MGP_SPRETEiJ_G0027324	Others	NA
+Mus_spretus	Dmap1	MGP_SPRETEiJ_G0027331	DNA_methylase	NA
+Mus_spretus	Kdm4a	MGP_SPRETEiJ_G0027342	Lysine demethylase	NA
+Mus_spretus	Med8	MGP_SPRETEiJ_G0027345	Mediator complex	NA
+Mus_spretus	Scmh1	MGP_SPRETEiJ_G0027386	Others	NA
+Mus_spretus	Cited4	MGP_SPRETEiJ_G0027390	CITED	NA
+Mus_spretus	Ppie	MGP_SPRETEiJ_G0027411	Others	NA
+Mus_spretus	Fhl3	MGP_SPRETEiJ_G0027427	FHL	NA
+Mus_spretus	Snip1	MGP_SPRETEiJ_G0027439	Others	NA
+Mus_spretus	Meaf6	MGP_SPRETEiJ_G0027440	Others	NA
+Mus_spretus	Thrap3	MGP_SPRETEiJ_G0027450	Thyroid hormone receptor	NA
+Mus_spretus	Ago1	MGP_SPRETEiJ_G0027457	Others	NA
+Mus_spretus	Rbbp4	MGP_SPRETEiJ_G0027496	RBBP	NA
+Mus_spretus	Hdac1	MGP_SPRETEiJ_G0027503	Histone deacetylase	NA
+Mus_spretus	Taf12	MGP_SPRETEiJ_G0027542	TATA-box	NA
+Mus_spretus	Med18	MGP_SPRETEiJ_G0027547	Mediator complex	NA
+Mus_spretus	Eya3	MGP_SPRETEiJ_G0027552	EYA	NA
+Mus_spretus	Wdtc1	MGP_SPRETEiJ_G0027568	WD	NA
+Mus_spretus	Zfp593	MGP_SPRETEiJ_G0027593	Zinc finger	NA
+Mus_spretus	Pnrc2	MGP_SPRETEiJ_G0027626	Others	NA
+Mus_spretus	Kdm1a	MGP_SPRETEiJ_G0027644	Lysine demethylase	NA
+Mus_spretus	Wnt4	MGP_SPRETEiJ_G0027653	Others	NA
+Mus_spretus	Pink1	MGP_SPRETEiJ_G0027669	Others	NA
+Mus_spretus	Padi4	MGP_SPRETEiJ_G0027704	Others	NA
+Mus_spretus	Padi2	MGP_SPRETEiJ_G0027707	Other_CRF	NA
+Mus_spretus	Spen	MGP_SPRETEiJ_G0027724	Others	NA
+Mus_spretus	Pramel13	MGP_SPRETEiJ_G0027761	Others	NA
+Mus_spretus	Mad2l2	MGP_SPRETEiJ_G0027787	Others	NA
+Mus_spretus	Mtor	MGP_SPRETEiJ_G0027793	Others	NA
+Mus_spretus	Pex14	MGP_SPRETEiJ_G0027801	Others	NA
+Mus_spretus	Ctnnbip1	MGP_SPRETEiJ_G0027811	Casein	NA
+Mus_spretus		MGP_SPRETEiJ_G0027822	Others	NA
+Mus_spretus	Park7	MGP_SPRETEiJ_G0027826	Others	NA
+Mus_spretus	Ski	MGP_SPRETEiJ_G0027878	SKI	NA
+Mus_spretus	Ssu72	MGP_SPRETEiJ_G0027892	Others	NA
+Mus_spretus	Aurkaip1	MGP_SPRETEiJ_G0027900	Others	NA
+Mus_spretus	Noc2l	MGP_SPRETEiJ_G0027921	Others	NA
+Mus_spretus	Kmt2e	MGP_SPRETEiJ_G0027993	Lysine methyltransferase	NA
+Mus_spretus	Cdk5	MGP_SPRETEiJ_G0028006	Cyclin	NA
+Mus_spretus	Smarcd3	MGP_SPRETEiJ_G0028016	SWI/SNF	NA
+Mus_spretus	Supt7l	MGP_SPRETEiJ_G0028092	SUPT	NA
+Mus_spretus	Ctbp1	MGP_SPRETEiJ_G0028107	Others	NA
+Mus_spretus	Nelfa	MGP_SPRETEiJ_G0028119	GTF	NA
+Mus_spretus	Rnf4	MGP_SPRETEiJ_G0028127	Ring finger protein	NA
+Mus_spretus	Tnip2	MGP_SPRETEiJ_G0028129	Others	NA
+Mus_spretus	Ldb2	MGP_SPRETEiJ_G0028196	LIM	NA
+Mus_spretus	Med28	MGP_SPRETEiJ_G0028200	Mediator complex	NA
+Mus_spretus	Ppargc1a	MGP_SPRETEiJ_G0028208	Others	NA
+Mus_spretus	Slc30a9	MGP_SPRETEiJ_G0028260	SLC	NA
+Mus_spretus	Cnot6l	MGP_SPRETEiJ_G0028426	CCR4-NOT	NA
+Mus_spretus	Hnrnpd	MGP_SPRETEiJ_G0028443	HNRNP	NA
+Mus_spretus	Lin54	MGP_SPRETEiJ_G0028449	Others	NA
+Mus_spretus	Brdt	MGP_SPRETEiJ_G0028498	Bromodomain	NA
+Mus_spretus	Mtf2	MGP_SPRETEiJ_G0028512	Others	NA
+Mus_spretus	Dr1	MGP_SPRETEiJ_G0028515	Others	NA
+Mus_spretus	Pcgf3	MGP_SPRETEiJ_G0028520	PCGF	NA
+Mus_spretus	Dgkq	MGP_SPRETEiJ_G0028524	Others	NA
+Mus_spretus	Ep400	MGP_SPRETEiJ_G0028548	Others	NA
+Mus_spretus	Chek2	MGP_SPRETEiJ_G0028552	Others	NA
+Mus_spretus	Rnf10	MGP_SPRETEiJ_G0028617	Ring finger protein	NA
+Mus_spretus	Suds3	MGP_SPRETEiJ_G0028638	Other_Co-activator/repressors	NA
+Mus_spretus	Tesc	MGP_SPRETEiJ_G0028647	Others	NA
+Mus_spretus	Med13l	MGP_SPRETEiJ_G0028652	Mediator complex	NA
+Mus_spretus	Rita1	MGP_SPRETEiJ_G0028664	Others	NA
+Mus_spretus	Ddx54	MGP_SPRETEiJ_G0028665	RNA helicase	NA
+Mus_spretus	Dtx1	MGP_SPRETEiJ_G0028668	Others	NA
+Mus_spretus	Kdm2b	MGP_SPRETEiJ_G0028713	Lysine demethylase	NA
+Mus_spretus	Ccdc62	MGP_SPRETEiJ_G0028737	Coiled-coil	NA
+Mus_spretus	Kmt5a	MGP_SPRETEiJ_G0028748	Lysine methyltransferase	NA
+Mus_spretus	Gtf2h3	MGP_SPRETEiJ_G0028755	GTF	NA
+Mus_spretus	Sfswap	MGP_SPRETEiJ_G0028779	Others	NA
+Mus_spretus	Auts2	MGP_SPRETEiJ_G0028803	Others	NA
+Mus_spretus	Baz1b	MGP_SPRETEiJ_G0028830	Bromodomain	NA
+Mus_spretus	Trip6	MGP_SPRETEiJ_G0028876	Thyroid hormone receptor	NA
+Mus_spretus	Actl6b	MGP_SPRETEiJ_G0028884	Actin	NA
+Mus_spretus	Taf6	MGP_SPRETEiJ_G0028910	TATA-box	NA
+Mus_spretus		MGP_SPRETEiJ_G0028972	Actin	NA
+Mus_spretus	Trrap	MGP_SPRETEiJ_G0029005	Others	NA
+Mus_spretus	Smurf1	MGP_SPRETEiJ_G0029006	Others	NA
+Mus_spretus	Bud31	MGP_SPRETEiJ_G0029011	Others	NA
+Mus_spretus	Rnf6	MGP_SPRETEiJ_G0029022	Ring finger protein	NA
+Mus_spretus	Cdk8	MGP_SPRETEiJ_G0029023	Cyclin	NA
+Mus_spretus	Brca2	MGP_SPRETEiJ_G0029058	Others	NA
+Mus_spretus	Ing3	MGP_SPRETEiJ_G0029129	ING	NA
+Mus_spretus	Snd1	MGP_SPRETEiJ_G0029159	Others	NA
+Mus_spretus	Chchd3	MGP_SPRETEiJ_G0029200	Coiled-coil	NA
+Mus_spretus	Mtpn	MGP_SPRETEiJ_G0029220	Others	NA
+Mus_spretus	Trim24	MGP_SPRETEiJ_G0029226	Tripartite motif	NA
+Mus_spretus	Hipk2	MGP_SPRETEiJ_G0029239	HIPK	NA
+Mus_spretus	Kdm7a	MGP_SPRETEiJ_G0029242	Lysine demethylase	NA
+Mus_spretus	Arhgef5	MGP_SPRETEiJ_G0029324	Others	NA
+Mus_spretus	Ezh2	MGP_SPRETEiJ_G0029329	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0029380	Chromobox	NA
+Mus_spretus	Lancl2	MGP_SPRETEiJ_G0029440	Others	NA
+Mus_spretus	Smarcad1	MGP_SPRETEiJ_G0029462	SWI/SNF	NA
+Mus_spretus	Smyd1	MGP_SPRETEiJ_G0029487	SMYD	NA
+Mus_spretus	Kdm3a	MGP_SPRETEiJ_G0029494	Lysine demethylase	NA
+Mus_spretus	Loxl3	MGP_SPRETEiJ_G0029541	Others	NA
+Mus_spretus	Pcgf1	MGP_SPRETEiJ_G0029546	PCGF	NA
+Mus_spretus	Ino80b	MGP_SPRETEiJ_G0029553	INO80 complex	NA
+Mus_spretus	Zfp638	MGP_SPRETEiJ_G0029574	Zinc finger	NA
+Mus_spretus	Anxa4	MGP_SPRETEiJ_G0029614	Others	NA
+Mus_spretus	Ruvbl1	MGP_SPRETEiJ_G0029641	Other_CRF	NA
+Mus_spretus	Hdac11	MGP_SPRETEiJ_G0029675	Histone deacetylase	NA
+Mus_spretus	Rybp	MGP_SPRETEiJ_G0029716	Others	NA
+Mus_spretus	Lmcd1	MGP_SPRETEiJ_G0029736	LIM	NA
+Mus_spretus	Tada3	MGP_SPRETEiJ_G0029750	Transcriptional adaptor	NA
+Mus_spretus	Vhl	MGP_SPRETEiJ_G0029764	Others	NA
+Mus_spretus	Vgll4	MGP_SPRETEiJ_G0029774	Vestigial like	NA
+Mus_spretus	Raf1	MGP_SPRETEiJ_G0029783	Others	NA
+Mus_spretus	Kdm5a	MGP_SPRETEiJ_G0029834	Lysine demethylase	NA
+Mus_spretus	Cecr2	MGP_SPRETEiJ_G0029838	Other_CRF	NA
+Mus_spretus		MGP_SPRETEiJ_G0029890	Others	NA
+Mus_spretus	Ing4	MGP_SPRETEiJ_G0029908	ING	NA
+Mus_spretus	Chd4	MGP_SPRETEiJ_G0029911	CHD	NA
+Mus_spretus	Prmt8	MGP_SPRETEiJ_G0029943	Arginine methyltransferase	NA
+Mus_spretus		MGP_SPRETEiJ_G0029952	Nuclear coactivator	NA
+Mus_spretus	Cdkn1b	MGP_SPRETEiJ_G0030032	Cyclin	NA
+Mus_spretus	Atf7ip	MGP_SPRETEiJ_G0030044	Others	NA
+Mus_spretus	Strap	MGP_SPRETEiJ_G0030060	Others	NA
+Mus_spretus	Med21	MGP_SPRETEiJ_G0030112	Mediator complex	NA
+Mus_spretus	Nlrp12	MGP_SPRETEiJ_G0030137	Others	NA
+Mus_spretus	Cnot3	MGP_SPRETEiJ_G0030148	CCR4-NOT	NA
+Mus_spretus	Kmt5c	MGP_SPRETEiJ_G0030177	Lysine methyltransferase	NA
+Mus_spretus	Trim28	MGP_SPRETEiJ_G0030274	Tripartite motif	NA
+Mus_spretus	Arhgap35	MGP_SPRETEiJ_G0030315	Others	NA
+Mus_spretus	Ercc2	MGP_SPRETEiJ_G0030371	Others	NA
+Mus_spretus	Bcl3	MGP_SPRETEiJ_G0030394	BCL	NA
+Mus_spretus	Tgfb1	MGP_SPRETEiJ_G0030475	Others	NA
+Mus_spretus	Egln2	MGP_SPRETEiJ_G0030496	Others	NA
+Mus_spretus	Sertad3	MGP_SPRETEiJ_G0030511	Others	NA
+Mus_spretus	Dyrk1b	MGP_SPRETEiJ_G0030533	Others	NA
+Mus_spretus	Eid2	MGP_SPRETEiJ_G0030534	EID	NA
+Mus_spretus	Supt5	MGP_SPRETEiJ_G0030539	SUPT	NA
+Mus_spretus	Med29	MGP_SPRETEiJ_G0030543	Mediator complex	NA
+Mus_spretus	Paf1	MGP_SPRETEiJ_G0030544	Others	NA
+Mus_spretus	Nfkbib	MGP_SPRETEiJ_G0030556	NFKB associated	NA
+Mus_spretus	Sirt2	MGP_SPRETEiJ_G0030557	Sirtuin	NA
+Mus_spretus	Actn4	MGP_SPRETEiJ_G0030564	Actin	NA
+Mus_spretus	Dpf1	MGP_SPRETEiJ_G0030579	DPF	NA
+Mus_spretus	Kmt2b	MGP_SPRETEiJ_G0030627	Lysine methyltransferase	NA
+Mus_spretus	Wtip	MGP_SPRETEiJ_G0030667	Others	NA
+Mus_spretus	Ccne1	MGP_SPRETEiJ_G0030696	Cyclin	NA
+Mus_spretus	Med25	MGP_SPRETEiJ_G0030779	Mediator complex	NA
+Mus_spretus	Prmt1	MGP_SPRETEiJ_G0030784	Arginine methyltransferase	NA
+Mus_spretus	Pih1d1	MGP_SPRETEiJ_G0030799	Other_CRF	NA
+Mus_spretus	Ruvbl2	MGP_SPRETEiJ_G0030816	Other_CRF	NA
+Mus_spretus	Gtf2h1	MGP_SPRETEiJ_G0030868	GTF	NA
+Mus_spretus		MGP_SPRETEiJ_G0030871	Others	NA
+Mus_spretus	Csrp3	MGP_SPRETEiJ_G0030888	Others	NA
+Mus_spretus	Htatip2	MGP_SPRETEiJ_G0030892	Others	NA
+Mus_spretus	Chd2	MGP_SPRETEiJ_G0030962	CHD	NA
+Mus_spretus	Blm	MGP_SPRETEiJ_G0031009	Others	NA
+Mus_spretus	Eed	MGP_SPRETEiJ_G0031089	Others	NA
+Mus_spretus	Picalm	MGP_SPRETEiJ_G0031091	Others	NA
+Mus_spretus	Thrsp	MGP_SPRETEiJ_G0031112	Others	NA
+Mus_spretus	Rsf1	MGP_SPRETEiJ_G0031116	Others	NA
+Mus_spretus	Emsy	MGP_SPRETEiJ_G0031129	Others	NA
+Mus_spretus	Arrb1	MGP_SPRETEiJ_G0031140	Others	NA
+Mus_spretus	Trim6	MGP_SPRETEiJ_G0031292	Tripartite motif	NA
+Mus_spretus	Apbb1	MGP_SPRETEiJ_G0031342	Others	NA
+Mus_spretus	Ilk	MGP_SPRETEiJ_G0031349	Others	NA
+Mus_spretus	Taf10	MGP_SPRETEiJ_G0031350	TATA-box	NA
+Mus_spretus	Lmo1	MGP_SPRETEiJ_G0031420	LIM	NA
+Mus_spretus	Rnf141	MGP_SPRETEiJ_G0031441	Ring finger protein	NA
+Mus_spretus	Ctr9	MGP_SPRETEiJ_G0031444	Others	NA
+Mus_spretus	Crym	MGP_SPRETEiJ_G0031506	Others	NA
+Mus_spretus	Plk1	MGP_SPRETEiJ_G0031533	Others	NA
+Mus_spretus	Kdm8	MGP_SPRETEiJ_G0031546	Lysine demethylase	NA
+Mus_spretus	Nfatc2ip	MGP_SPRETEiJ_G0031557	Nuclear coactivator	NA
+Mus_spretus	Sgf29	MGP_SPRETEiJ_G0031570	Others	NA
+Mus_spretus	Ino80e	MGP_SPRETEiJ_G0031584	INO80 complex	NA
+Mus_spretus		MGP_SPRETEiJ_G0031594	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0031621	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0031633	SET	NA
+Mus_spretus	Kat8	MGP_SPRETEiJ_G0031644	Lysine acetyltransferase	NA
+Mus_spretus	Fus	MGP_SPRETEiJ_G0031647	Others	NA
+Mus_spretus	Pycard	MGP_SPRETEiJ_G0031648	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0031657	Others	NA
+Mus_spretus	Fgfr2	MGP_SPRETEiJ_G0031669	FGF	NA
+Mus_spretus	Nsmce4a	MGP_SPRETEiJ_G0031671	EID	NA
+Mus_spretus	Ctbp2	MGP_SPRETEiJ_G0031698	Others	NA
+Mus_spretus	Edrf1	MGP_SPRETEiJ_G0031700	Others	NA
+Mus_spretus	Tcerg1l	MGP_SPRETEiJ_G0031719	TEF	NA
+Mus_spretus	Utf1	MGP_SPRETEiJ_G0031733	Others	NA
+Mus_spretus	Pidd1	MGP_SPRETEiJ_G0031808	Others	NA
+Mus_spretus	Tnni2	MGP_SPRETEiJ_G0031832	Others	NA
+Mus_spretus	Ccnd1	MGP_SPRETEiJ_G0031868	Cyclin	NA
+Mus_spretus	Insr	MGP_SPRETEiJ_G0031873	Others	NA
+Mus_spretus	Snapc2	MGP_SPRETEiJ_G0031903	Others	NA
+Mus_spretus	Arglu1	MGP_SPRETEiJ_G0031915	Others	NA
+Mus_spretus	Coprs	MGP_SPRETEiJ_G0031960	Others	NA
+Mus_spretus	Ikbkb	MGP_SPRETEiJ_G0032018	Others	NA
+Mus_spretus	Kat6a	MGP_SPRETEiJ_G0032021	Lysine acetyltransferase	NA
+Mus_spretus	Fgfr1	MGP_SPRETEiJ_G0032042	FGF	NA
+Mus_spretus	Nsd3	MGP_SPRETEiJ_G0032044	Nuclear receptor coactivator	NA
+Mus_spretus	Ash2l	MGP_SPRETEiJ_G0032051	Others	NA
+Mus_spretus	Zfp703	MGP_SPRETEiJ_G0032059	Zinc finger	NA
+Mus_spretus	Brf2	MGP_SPRETEiJ_G0032063	GTF	NA
+Mus_spretus	Dusp26	MGP_SPRETEiJ_G0032072	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0032077	Others	NA
+Mus_spretus	Rbpms	MGP_SPRETEiJ_G0032087	RNA binding protein	NA
+Mus_spretus	Tnks	MGP_SPRETEiJ_G0032093	Others	NA
+Mus_spretus	Cnot7	MGP_SPRETEiJ_G0032110	CCR4-NOT	NA
+Mus_spretus	Cenpu	MGP_SPRETEiJ_G0032147	CENP	NA
+Mus_spretus	Sap30	MGP_SPRETEiJ_G0032181	SAP	NA
+Mus_spretus	Lzts1	MGP_SPRETEiJ_G0032224	Others	NA
+Mus_spretus	Ndufa13	MGP_SPRETEiJ_G0032240	Others	NA
+Mus_spretus	Crtc1	MGP_SPRETEiJ_G0032262	CREB	NA
+Mus_spretus	Ell	MGP_SPRETEiJ_G0032270	GTF	NA
+Mus_spretus	Pik3r2	MGP_SPRETEiJ_G0032284	Others	NA
+Mus_spretus	Med26	MGP_SPRETEiJ_G0032343	Mediator complex	NA
+Mus_spretus	Sin3b	MGP_SPRETEiJ_G0032347	Others	NA
+Mus_spretus	Hmox1	MGP_SPRETEiJ_G0032353	Others	NA
+Mus_spretus	Smarca5	MGP_SPRETEiJ_G0032376	SWI/SNF	NA
+Mus_spretus	Dnajb1	MGP_SPRETEiJ_G0032392	Others	NA
+Mus_spretus	Asf1b	MGP_SPRETEiJ_G0032400	Others	NA
+Mus_spretus	Calr	MGP_SPRETEiJ_G0032429	Others	NA
+Mus_spretus	Brd7	MGP_SPRETEiJ_G0032475	Bromodomain	NA
+Mus_spretus	Nod2	MGP_SPRETEiJ_G0032478	Others	NA
+Mus_spretus	Chd9	MGP_SPRETEiJ_G0032483	CHD	NA
+Mus_spretus	Rbl2	MGP_SPRETEiJ_G0032485	Other_Co-activator/repressors	NA
+Mus_spretus	Arl2bp	MGP_SPRETEiJ_G0032521	Others	NA
+Mus_spretus	Csnk2a2	MGP_SPRETEiJ_G0032543	Casein	NA
+Mus_spretus	Setd6	MGP_SPRETEiJ_G0032548	SET	NA
+Mus_spretus	Cnot1	MGP_SPRETEiJ_G0032549	CCR4-NOT	NA
+Mus_spretus	Tradd	MGP_SPRETEiJ_G0032585	Others	NA
+Mus_spretus	Prmt7	MGP_SPRETEiJ_G0032634	Arginine methyltransferase	NA
+Mus_spretus	Utp4	MGP_SPRETEiJ_G0032643	Others	NA
+Mus_spretus	Wwp2	MGP_SPRETEiJ_G0032655	WW	NA
+Mus_spretus	Terf2ip	MGP_SPRETEiJ_G0032707	Others	NA
+Mus_spretus	Wwox	MGP_SPRETEiJ_G0032715	WW	NA
+Mus_spretus	Cdyl2	MGP_SPRETEiJ_G0032718	Chromodomain Y	NA
+Mus_spretus	Hsbp1	MGP_SPRETEiJ_G0032733	Heat shock protein	NA
+Mus_spretus	Taf1c	MGP_SPRETEiJ_G0032741	TATA-box	NA
+Mus_spretus	Banp	MGP_SPRETEiJ_G0032773	Others	NA
+Mus_spretus	Cbfa2t3	MGP_SPRETEiJ_G0032789	Others	NA
+Mus_spretus	Taf5l	MGP_SPRETEiJ_G0032819	TATA-box	NA
+Mus_spretus	Egln1	MGP_SPRETEiJ_G0032835	Others	NA
+Mus_spretus	Tarbp1	MGP_SPRETEiJ_G0032846	Others	NA
+Mus_spretus	Birc3	MGP_SPRETEiJ_G0032882	Others	NA
+Mus_spretus	Yap1	MGP_SPRETEiJ_G0032883	Others	NA
+Mus_spretus	Kdm4d	MGP_SPRETEiJ_G0032901	Lysine demethylase	NA
+Mus_spretus	Med17	MGP_SPRETEiJ_G0032914	Mediator complex	NA
+Mus_spretus	Mbd3l2	MGP_SPRETEiJ_G0032926	MBD	NA
+Mus_spretus	Mbd3l1	MGP_SPRETEiJ_G0032928	MBD	NA
+Mus_spretus	Pin1	MGP_SPRETEiJ_G0032968	Others	NA
+Mus_spretus	Dnmt1	MGP_SPRETEiJ_G0032976	DNA_methylase	NA
+Mus_spretus	Carm1	MGP_SPRETEiJ_G0033000	Others	NA
+Mus_spretus	Smarca4	MGP_SPRETEiJ_G0033003	SWI/SNF	NA
+Mus_spretus	Tirap	MGP_SPRETEiJ_G0033074	Others	NA
+Mus_spretus	Chek1	MGP_SPRETEiJ_G0033098	Others	NA
+Mus_spretus	Trim29	MGP_SPRETEiJ_G0033231	Tripartite motif	NA
+Mus_spretus	Cbl	MGP_SPRETEiJ_G0033239	Others	NA
+Mus_spretus	Bcl9l	MGP_SPRETEiJ_G0033257	BCL	NA
+Mus_spretus		MGP_SPRETEiJ_G0033267	Lysine methyltransferase	NA
+Mus_spretus	Cd3d	MGP_SPRETEiJ_G0033271	Others	NA
+Mus_spretus	Pou2af1	MGP_SPRETEiJ_G0033343	Others	NA
+Mus_spretus	Npat	MGP_SPRETEiJ_G0033357	Nuclear coactivator	NA
+Mus_spretus	Wdr61	MGP_SPRETEiJ_G0033373	WD	NA
+Mus_spretus	Sin3a	MGP_SPRETEiJ_G0033401	Other_CRF	NA
+Mus_spretus	Pml	MGP_SPRETEiJ_G0033430	Others	NA
+Mus_spretus	Tle3	MGP_SPRETEiJ_G0033455	Transducin	NA
+Mus_spretus	Anp32a	MGP_SPRETEiJ_G0033461	ANP	NA
+Mus_spretus	Skor1	MGP_SPRETEiJ_G0033469	SKI	NA
+Mus_spretus	Snapc5	MGP_SPRETEiJ_G0033479	Others	NA
+Mus_spretus	Trip4	MGP_SPRETEiJ_G0033509	Thyroid hormone receptor	NA
+Mus_spretus	Ice2	MGP_SPRETEiJ_G0033532	GTF	NA
+Mus_spretus	Gtf2a2	MGP_SPRETEiJ_G0033536	GTF	NA
+Mus_spretus	Rnf111	MGP_SPRETEiJ_G0033541	Ring finger protein	NA
+Mus_spretus	Sltm	MGP_SPRETEiJ_G0033542	Others	NA
+Mus_spretus	Leo1	MGP_SPRETEiJ_G0033581	Others	NA
+Mus_spretus	Myo6	MGP_SPRETEiJ_G0033618	Others	NA
+Mus_spretus	Phip	MGP_SPRETEiJ_G0033623	Others	NA
+Mus_spretus	Morf4l1	MGP_SPRETEiJ_G0033657	Other_CRF	NA
+Mus_spretus	Nck1	MGP_SPRETEiJ_G0033715	Others	NA
+Mus_spretus	Dcaf1	MGP_SPRETEiJ_G0033780	Others	NA
+Mus_spretus	Rbm15b	MGP_SPRETEiJ_G0033782	RNA binding protein	NA
+Mus_spretus	Hyal2	MGP_SPRETEiJ_G0033795	Others	NA
+Mus_spretus	Setd2	MGP_SPRETEiJ_G0033882	SET	NA
+Mus_spretus	Cnot10	MGP_SPRETEiJ_G0033920	CCR4-NOT	NA
+Mus_spretus	Ctnnb1	MGP_SPRETEiJ_G0033968	Casein	NA
+Mus_spretus	Trak1	MGP_SPRETEiJ_G0033970	Others	NA
+Mus_spretus		MGP_SPRETEiJ_G0033976	SS18	NA
+Mus_spretus	Limd1	MGP_SPRETEiJ_G0034007	LIM	NA
+Mus_spretus	Pqbp1	MGP_SPRETEiJ_G0034051	Others	NA
+Mus_spretus	Hdac6	MGP_SPRETEiJ_G0034057	Histone deacetylase	NA
+Mus_spretus	Suv39h1	MGP_SPRETEiJ_G0034060	Others	NA
+Mus_spretus	Bcor	MGP_SPRETEiJ_G0034087	Other_Co-activator/repressors	NA
+Mus_spretus	Med14	MGP_SPRETEiJ_G0034090	Mediator complex	NA
+Mus_spretus	Cask	MGP_SPRETEiJ_G0034094	CAMK	NA
+Mus_spretus	Kdm6a	MGP_SPRETEiJ_G0034104	Lysine demethylase	NA
+Mus_spretus	Uxt	MGP_SPRETEiJ_G0034122	Others	NA
+Mus_spretus	Zcchc12	MGP_SPRETEiJ_G0034138	Zinc finger	NA
+Mus_spretus	Btg1c	MGP_SPRETEiJ_G0034166	Others	NA
+Mus_spretus	Xiap	MGP_SPRETEiJ_G0034182	Others	NA
+Mus_spretus	Tenm1	MGP_SPRETEiJ_G0034186	Others	NA
+Mus_spretus	Rap2c	MGP_SPRETEiJ_G0034218	Others	NA
+Mus_spretus	Htatsf1	MGP_SPRETEiJ_G0034249	Others	NA
+Mus_spretus	Vgll1	MGP_SPRETEiJ_G0034250	Vestigial like	NA
+Mus_spretus	Rbmx	MGP_SPRETEiJ_G0034253	RNA binding protein	NA
+Mus_spretus	Magea10	MGP_SPRETEiJ_G0034293	MAGE	NA
+Mus_spretus	Hcfc1	MGP_SPRETEiJ_G0034323	Others	NA
+Mus_spretus	Flna	MGP_SPRETEiJ_G0034329	Others	NA
+Mus_spretus	Ikbkg	MGP_SPRETEiJ_G0034342	Others	NA
+Mus_spretus	Tbl1x	MGP_SPRETEiJ_G0034367	Transducin	NA
+Mus_spretus		MGP_SPRETEiJ_G0034381	Others	NA
+Mus_spretus	Maged1	MGP_SPRETEiJ_G0034405	MAGE	NA
+Mus_spretus	Med12	MGP_SPRETEiJ_G0034448	Mediator complex	NA
+Mus_spretus	Taf1	MGP_SPRETEiJ_G0034454	TATA-box	NA
+Mus_spretus	Ogt	MGP_SPRETEiJ_G0034455	Others	NA
+Mus_spretus	Cited1	MGP_SPRETEiJ_G0034463	CITED	NA
+Mus_spretus	Hdac8	MGP_SPRETEiJ_G0034464	Histone deacetylase	NA
+Mus_spretus	Rlim	MGP_SPRETEiJ_G0034477	Ring finger protein	NA
+Mus_spretus	Atrx	MGP_SPRETEiJ_G0034487	Others	NA
+Mus_spretus	Taf9b	MGP_SPRETEiJ_G0034493	TATA-box	NA
+Mus_spretus	Taf7l	MGP_SPRETEiJ_G0034556	TATA-box	NA
+Mus_spretus	Btk	MGP_SPRETEiJ_G0034557	Others	NA
+Mus_spretus	Bex2	MGP_SPRETEiJ_G0034582	Others	NA
+Mus_spretus	Tceal1	MGP_SPRETEiJ_G0034590	TEF	NA
+Mus_spretus	Ripply1	MGP_SPRETEiJ_G0034614	Others	NA
+Mus_spretus	Phf8	MGP_SPRETEiJ_G0034664	PHF	NA
+Mus_spretus	Kdm5c	MGP_SPRETEiJ_G0034670	Lysine demethylase	NA
+Mus_spretus	Tspyl2	MGP_SPRETEiJ_G0034671	Others	NA
+Mus_spretus	Rbbp7	MGP_SPRETEiJ_G0034717	RBBP	NA
+Mus_spretus	Txlng	MGP_SPRETEiJ_G0034718	Others	NA
+Mus_spretus	Pir	MGP_SPRETEiJ_G0034731	Others	NA
+Mus_spretus	Trappc2	MGP_SPRETEiJ_G0034742	Others	NA
+Mus_spretus	Msl3	MGP_SPRETEiJ_G0034750	Others	NA

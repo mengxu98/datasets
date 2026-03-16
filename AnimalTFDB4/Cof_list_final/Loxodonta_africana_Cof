@@ -1,0 +1,890 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Loxodonta_africana	MED12L	ENSLAFG00000000027	Mediator complex	NA
+Loxodonta_africana	SMARCAD1	ENSLAFG00000000040	SWI/SNF	NA
+Loxodonta_africana	SETD6	ENSLAFG00000000097	SET	NA
+Loxodonta_africana	CNOT1	ENSLAFG00000000098	CCR4-NOT	100656328
+Loxodonta_africana	C6orf89	ENSLAFG00000000208	Other_CRF	NA
+Loxodonta_africana	RBPMS	ENSLAFG00000000209	RNA binding protein	NA
+Loxodonta_africana	TAB1	ENSLAFG00000000210	Others	NA
+Loxodonta_africana	SFR1	ENSLAFG00000000228	Others	NA
+Loxodonta_africana	CNOT7	ENSLAFG00000000240	CCR4-NOT	NA
+Loxodonta_africana	RPRD1A	ENSLAFG00000000246	Others	NA
+Loxodonta_africana	CDC73	ENSLAFG00000000248	Others	NA
+Loxodonta_africana	ERBB2	ENSLAFG00000000286	Erbb2	NA
+Loxodonta_africana	KDM5C	ENSLAFG00000000303	Lysine demethylase	NA
+Loxodonta_africana	DVL3	ENSLAFG00000000304	Others	NA
+Loxodonta_africana	UTP4	ENSLAFG00000000307	Others	100660800
+Loxodonta_africana	RALY	ENSLAFG00000000321	Others	NA
+Loxodonta_africana	CDK5RAP3	ENSLAFG00000000339	Cyclin	NA
+Loxodonta_africana	MED4	ENSLAFG00000000347	Mediator complex	100668361
+Loxodonta_africana	MRTFB	ENSLAFG00000000366	Others	NA
+Loxodonta_africana	DMAP1	ENSLAFG00000000397	DNA_methylase	NA
+Loxodonta_africana	CHD7	ENSLAFG00000000403	CHD	NA
+Loxodonta_africana	SERTAD3	ENSLAFG00000000492	Others	NA
+Loxodonta_africana	HDAC11	ENSLAFG00000000504	Histone deacetylase	NA
+Loxodonta_africana	MAML1	ENSLAFG00000000515	MAML	NA
+Loxodonta_africana	LDB2	ENSLAFG00000000552	LIM	NA
+Loxodonta_africana	BRD1	ENSLAFG00000000558	Bromodomain	NA
+Loxodonta_africana	CHD3	ENSLAFG00000000572	CHD	NA
+Loxodonta_africana	SMARCD1	ENSLAFG00000000638	SWI/SNF	NA
+Loxodonta_africana	NCOA3	ENSLAFG00000000644	Nuclear receptor coactivator	NA
+Loxodonta_africana	CREG1	ENSLAFG00000000658	Others	NA
+Loxodonta_africana	DUSP26	ENSLAFG00000000679	Others	NA
+Loxodonta_africana	CHAF1B	ENSLAFG00000000692	Others	NA
+Loxodonta_africana	ACTN1	ENSLAFG00000000697	Actin	NA
+Loxodonta_africana		ENSLAFG00000000711	Others	NA
+Loxodonta_africana	ELP1	ENSLAFG00000000736	ELP	100664355
+Loxodonta_africana	PICALM	ENSLAFG00000000754	Others	NA
+Loxodonta_africana	TAF1B	ENSLAFG00000000782	TATA-box	NA
+Loxodonta_africana	PHIP	ENSLAFG00000000801	Others	NA
+Loxodonta_africana	GTF2H5	ENSLAFG00000000806	GTF	NA
+Loxodonta_africana		ENSLAFG00000000809	Others	NA
+Loxodonta_africana	PID1	ENSLAFG00000000847	Others	NA
+Loxodonta_africana	PRNP	ENSLAFG00000000850	Others	NA
+Loxodonta_africana	NCOA4	ENSLAFG00000000872	Nuclear receptor coactivator	NA
+Loxodonta_africana	TAF4B	ENSLAFG00000000982	TATA-box	NA
+Loxodonta_africana	ACTR6	ENSLAFG00000001011	ACTR	NA
+Loxodonta_africana	JADE1	ENSLAFG00000001017	Others	NA
+Loxodonta_africana	NLRP3	ENSLAFG00000001047	Others	NA
+Loxodonta_africana	CCNA1	ENSLAFG00000001067	Cyclin	100667107
+Loxodonta_africana	PSEN1	ENSLAFG00000001076	Others	NA
+Loxodonta_africana	GTF2A1	ENSLAFG00000001100	GTF	NA
+Loxodonta_africana	MED1	ENSLAFG00000001129	Mediator complex	NA
+Loxodonta_africana	FLII	ENSLAFG00000001178	Others	NA
+Loxodonta_africana	CHRAC1	ENSLAFG00000001188	Other_CRF	NA
+Loxodonta_africana	TP53BP1	ENSLAFG00000001197	Others	100653968
+Loxodonta_africana	PNMA1	ENSLAFG00000001238	Zinc finger	NA
+Loxodonta_africana		ENSLAFG00000001268	Actin	NA
+Loxodonta_africana		ENSLAFG00000001269	TATA-box	NA
+Loxodonta_africana	SUDS3	ENSLAFG00000001274	Other_Co-activator/repressors	NA
+Loxodonta_africana	ICE1	ENSLAFG00000001334	Others	NA
+Loxodonta_africana	ACTR8	ENSLAFG00000001366	ACTR	NA
+Loxodonta_africana	PCBD1	ENSLAFG00000001397	Others	NA
+Loxodonta_africana	SMARCA4	ENSLAFG00000001433	SWI/SNF	100659543
+Loxodonta_africana	JMJD1C	ENSLAFG00000001477	Other_CRF	NA
+Loxodonta_africana	ACVR2B	ENSLAFG00000001488	Others	NA
+Loxodonta_africana	KDM3B	ENSLAFG00000001519	Lysine demethylase	NA
+Loxodonta_africana	CBX5	ENSLAFG00000001576	Chromobox	NA
+Loxodonta_africana	EZH2	ENSLAFG00000001578	Others	NA
+Loxodonta_africana	FUS	ENSLAFG00000001643	Others	NA
+Loxodonta_africana	TRIM33	ENSLAFG00000001666	Tripartite motif	NA
+Loxodonta_africana	KDM4A	ENSLAFG00000001681	Lysine demethylase	100668190
+Loxodonta_africana	CCDC85B	ENSLAFG00000001765	Coiled-coil	NA
+Loxodonta_africana	RUVBL2	ENSLAFG00000001804	Other_CRF	NA
+Loxodonta_africana		ENSLAFG00000001854	GTF	NA
+Loxodonta_africana	NFKBIZ	ENSLAFG00000001888	NFKB associated	NA
+Loxodonta_africana	TAF3	ENSLAFG00000001915	TATA-box	NA
+Loxodonta_africana	PADI2	ENSLAFG00000001976	Other_CRF	NA
+Loxodonta_africana	DCC	ENSLAFG00000001980	Others	NA
+Loxodonta_africana	NOL11	ENSLAFG00000002021	Nuclear coactivator	NA
+Loxodonta_africana	RRN3	ENSLAFG00000002030	Others	NA
+Loxodonta_africana	MLLT3	ENSLAFG00000002042	GTF	NA
+Loxodonta_africana	SSU72	ENSLAFG00000002076	Others	NA
+Loxodonta_africana	C1D	ENSLAFG00000002083	Other_Co-activator/repressors	NA
+Loxodonta_africana	ASH2L	ENSLAFG00000002084	Others	100665231
+Loxodonta_africana	CCNC	ENSLAFG00000002112	Cyclin	NA
+Loxodonta_africana	BRF1	ENSLAFG00000002155	GTF	NA
+Loxodonta_africana	MDM4	ENSLAFG00000002169	Others	NA
+Loxodonta_africana	SLC26A3	ENSLAFG00000002173	SLC	100675275
+Loxodonta_africana	DDX1	ENSLAFG00000002213	RNA helicase	NA
+Loxodonta_africana	DPF3	ENSLAFG00000002265	DPF	NA
+Loxodonta_africana	SAP30L	ENSLAFG00000002292	SAP	NA
+Loxodonta_africana	EYA1	ENSLAFG00000002397	EYA	NA
+Loxodonta_africana	LIN9	ENSLAFG00000002421	Others	NA
+Loxodonta_africana	MED22	ENSLAFG00000002513	Mediator complex	NA
+Loxodonta_africana	RBBP4	ENSLAFG00000002539	RBBP	NA
+Loxodonta_africana	MED30	ENSLAFG00000002551	Mediator complex	NA
+Loxodonta_africana	ANXA4	ENSLAFG00000002563	Others	NA
+Loxodonta_africana	TDP2	ENSLAFG00000002567	Others	NA
+Loxodonta_africana	NAA15	ENSLAFG00000002574	Others	NA
+Loxodonta_africana	ZMYND8	ENSLAFG00000002577	Zinc finger	NA
+Loxodonta_africana	CHTOP	ENSLAFG00000002658	Others	NA
+Loxodonta_africana	BRCA2	ENSLAFG00000002670	Others	NA
+Loxodonta_africana	EED	ENSLAFG00000002676	Others	NA
+Loxodonta_africana	DOT1L	ENSLAFG00000002712	Others	NA
+Loxodonta_africana	PML	ENSLAFG00000002717	Others	NA
+Loxodonta_africana	CIDEA	ENSLAFG00000002745	Others	NA
+Loxodonta_africana		ENSLAFG00000002746	MAGE	NA
+Loxodonta_africana	NRIP1	ENSLAFG00000002754	Nuclear receptor coactivator	NA
+Loxodonta_africana	MNDA	ENSLAFG00000002774	Others	NA
+Loxodonta_africana	RAD21	ENSLAFG00000002810	Others	NA
+Loxodonta_africana	DNMT1	ENSLAFG00000002818	DNA_methylase	NA
+Loxodonta_africana	ENG	ENSLAFG00000002826	Others	NA
+Loxodonta_africana	JUP	ENSLAFG00000002854	Others	NA
+Loxodonta_africana	PRMT7	ENSLAFG00000002861	Arginine methyltransferase	100665998
+Loxodonta_africana	LGALS12	ENSLAFG00000002946	Others	NA
+Loxodonta_africana	BIRC2	ENSLAFG00000002953	Others	NA
+Loxodonta_africana	CRTC1	ENSLAFG00000003043	CREB	NA
+Loxodonta_africana	PLK3	ENSLAFG00000003116	Others	NA
+Loxodonta_africana	RYBP	ENSLAFG00000003133	Others	NA
+Loxodonta_africana	CHCHD3	ENSLAFG00000003135	Coiled-coil	NA
+Loxodonta_africana		ENSLAFG00000003138	Casein	NA
+Loxodonta_africana	WDR61	ENSLAFG00000003176	WD	NA
+Loxodonta_africana	RSF1	ENSLAFG00000003194	Others	NA
+Loxodonta_africana	MCRS1	ENSLAFG00000003199	Others	NA
+Loxodonta_africana	YAP1	ENSLAFG00000003216	Others	NA
+Loxodonta_africana	RGCC	ENSLAFG00000003234	Others	NA
+Loxodonta_africana	SMARCD2	ENSLAFG00000003256	SWI/SNF	NA
+Loxodonta_africana	ENY2	ENSLAFG00000003282	Others	NA
+Loxodonta_africana	SETD2	ENSLAFG00000003303	SET	NA
+Loxodonta_africana	RAP2C	ENSLAFG00000003329	Others	NA
+Loxodonta_africana	PEX2	ENSLAFG00000003366	Others	NA
+Loxodonta_africana	TRIM37	ENSLAFG00000003398	Tripartite motif	NA
+Loxodonta_africana	PHF10	ENSLAFG00000003401	PHF	NA
+Loxodonta_africana	SNW1	ENSLAFG00000003482	Others	NA
+Loxodonta_africana	PABPC1L	ENSLAFG00000003553	Other_CRF	NA
+Loxodonta_africana	PHF21A	ENSLAFG00000003576	PHF	NA
+Loxodonta_africana	DNAJB1	ENSLAFG00000003603	Others	NA
+Loxodonta_africana	PRMT8	ENSLAFG00000003611	Arginine methyltransferase	NA
+Loxodonta_africana	MNAT1	ENSLAFG00000003614	Others	NA
+Loxodonta_africana	BCL10	ENSLAFG00000003648	BCL	NA
+Loxodonta_africana	TSG101	ENSLAFG00000003682	Others	NA
+Loxodonta_africana	TDG	ENSLAFG00000003813	Others	NA
+Loxodonta_africana	HCFC2	ENSLAFG00000003817	Others	NA
+Loxodonta_africana	HDAC6	ENSLAFG00000003822	Histone deacetylase	NA
+Loxodonta_africana	SUZ12	ENSLAFG00000003833	Others	NA
+Loxodonta_africana	SAFB2	ENSLAFG00000003836	Others	NA
+Loxodonta_africana	SAFB	ENSLAFG00000003840	Others	NA
+Loxodonta_africana	MTDH	ENSLAFG00000003855	Others	NA
+Loxodonta_africana	TENM2	ENSLAFG00000003864	Others	100661217
+Loxodonta_africana	WWC1	ENSLAFG00000003870	WW	NA
+Loxodonta_africana	MED23	ENSLAFG00000003872	Mediator complex	NA
+Loxodonta_africana	PCGF3	ENSLAFG00000003899	PCGF	NA
+Loxodonta_africana	CHEK2	ENSLAFG00000003924	Others	NA
+Loxodonta_africana	WWP1	ENSLAFG00000004029	WW	NA
+Loxodonta_africana	DGKQ	ENSLAFG00000004169	Others	NA
+Loxodonta_africana	PARP10	ENSLAFG00000004191	PARP	NA
+Loxodonta_africana	BRF2	ENSLAFG00000004248	GTF	NA
+Loxodonta_africana	CIITA	ENSLAFG00000004275	Others	NA
+Loxodonta_africana	TRIM47	ENSLAFG00000004318	Tripartite motif	NA
+Loxodonta_africana	HDAC7	ENSLAFG00000004321	Histone deacetylase	NA
+Loxodonta_africana	KMT2E	ENSLAFG00000004374	Lysine methyltransferase	NA
+Loxodonta_africana	HCFC1	ENSLAFG00000004418	Others	NA
+Loxodonta_africana	CARM1	ENSLAFG00000004431	Others	NA
+Loxodonta_africana		ENSLAFG00000004460	Lysine demethylase	NA
+Loxodonta_africana	DDX5	ENSLAFG00000004461	RNA helicase	NA
+Loxodonta_africana	SMURF2	ENSLAFG00000004466	Others	NA
+Loxodonta_africana	KDM1B	ENSLAFG00000004467	Lysine demethylase	NA
+Loxodonta_africana	DEK	ENSLAFG00000004470	Other_CRF	NA
+Loxodonta_africana	SPEN	ENSLAFG00000004524	Others	100654888
+Loxodonta_africana	IKBKB	ENSLAFG00000004558	Others	NA
+Loxodonta_africana		ENSLAFG00000004598	Others	NA
+Loxodonta_africana	PSMD14	ENSLAFG00000004620	Others	NA
+Loxodonta_africana	FHOD1	ENSLAFG00000004623	Others	100653958
+Loxodonta_africana	INO80E	ENSLAFG00000004631	INO80 complex	NA
+Loxodonta_africana	DNTTIP2	ENSLAFG00000004636	Others	NA
+Loxodonta_africana	PIR	ENSLAFG00000004702	Others	NA
+Loxodonta_africana	CAMK2D	ENSLAFG00000004718	CAMK	NA
+Loxodonta_africana	TIMELESS	ENSLAFG00000004742	Others	NA
+Loxodonta_africana	ASF1B	ENSLAFG00000004745	Others	NA
+Loxodonta_africana	ECD	ENSLAFG00000004754	Others	NA
+Loxodonta_africana	RLIM	ENSLAFG00000004774	Ring finger protein	NA
+Loxodonta_africana	TNKS	ENSLAFG00000004786	Others	NA
+Loxodonta_africana	CNOT2	ENSLAFG00000004789	CCR4-NOT	NA
+Loxodonta_africana	TLE1	ENSLAFG00000004803	Transducin	NA
+Loxodonta_africana	WDR77	ENSLAFG00000004805	WD	NA
+Loxodonta_africana	RNF111	ENSLAFG00000004816	Ring finger protein	NA
+Loxodonta_africana	MED9	ENSLAFG00000004843	Mediator complex	NA
+Loxodonta_africana	PRMT5	ENSLAFG00000004859	Arginine methyltransferase	NA
+Loxodonta_africana	KAT6A	ENSLAFG00000004860	Lysine acetyltransferase	NA
+Loxodonta_africana	PHF19	ENSLAFG00000004865	PHF	NA
+Loxodonta_africana	HDAC1	ENSLAFG00000004870	Histone deacetylase	NA
+Loxodonta_africana	TRIP11	ENSLAFG00000004883	Thyroid hormone receptor	NA
+Loxodonta_africana	SFMBT1	ENSLAFG00000004910	Others	NA
+Loxodonta_africana	POLR3F	ENSLAFG00000004929	POLR	NA
+Loxodonta_africana	SUPT3H	ENSLAFG00000005048	SUPT	NA
+Loxodonta_africana	MYBBP1A	ENSLAFG00000005053	MYB	NA
+Loxodonta_africana	SUFU	ENSLAFG00000005068	Others	NA
+Loxodonta_africana	KDM5B	ENSLAFG00000005104	Lysine demethylase	NA
+Loxodonta_africana	SUV39H1	ENSLAFG00000005118	Others	NA
+Loxodonta_africana	BANP	ENSLAFG00000005122	Others	NA
+Loxodonta_africana		ENSLAFG00000005244	Others	NA
+Loxodonta_africana	PRPF6	ENSLAFG00000005272	Others	100663375
+Loxodonta_africana	AIP	ENSLAFG00000005289	Others	NA
+Loxodonta_africana	BEND3	ENSLAFG00000005298	Others	NA
+Loxodonta_africana	TPR	ENSLAFG00000005329	Others	100667592
+Loxodonta_africana	VGLL3	ENSLAFG00000005344	Vestigial like	NA
+Loxodonta_africana	STK3	ENSLAFG00000005346	Others	NA
+Loxodonta_africana	DSCAM	ENSLAFG00000005372	Others	NA
+Loxodonta_africana	TOPORS	ENSLAFG00000005423	Others	NA
+Loxodonta_africana	PLK1	ENSLAFG00000005425	Others	NA
+Loxodonta_africana	NSD1	ENSLAFG00000005450	Nuclear receptor coactivator	100672481
+Loxodonta_africana	ESF1	ENSLAFG00000005479	Others	NA
+Loxodonta_africana	FGF1	ENSLAFG00000005484	FGF	NA
+Loxodonta_africana	THOC5	ENSLAFG00000005493	Others	NA
+Loxodonta_africana	HDAC2	ENSLAFG00000005566	Histone deacetylase	NA
+Loxodonta_africana		ENSLAFG00000005568	RNA binding protein	NA
+Loxodonta_africana	FRK	ENSLAFG00000005589	Others	NA
+Loxodonta_africana	RFXAP	ENSLAFG00000005621	Others	NA
+Loxodonta_africana	CAVIN1	ENSLAFG00000005646	Others	NA
+Loxodonta_africana	KDM7A	ENSLAFG00000005723	Lysine demethylase	NA
+Loxodonta_africana	PYCARD	ENSLAFG00000005745	Others	NA
+Loxodonta_africana	TRIM6	ENSLAFG00000005775	Tripartite motif	NA
+Loxodonta_africana	RUNX1T1	ENSLAFG00000005779	Others	NA
+Loxodonta_africana	SKI	ENSLAFG00000005859	SKI	NA
+Loxodonta_africana	PHF1	ENSLAFG00000005870	PHF	NA
+Loxodonta_africana	MDM2	ENSLAFG00000005885	Others	NA
+Loxodonta_africana		ENSLAFG00000005998	Others	100658583
+Loxodonta_africana	BTG1	ENSLAFG00000006031	Others	NA
+Loxodonta_africana	WDTC1	ENSLAFG00000006032	WD	NA
+Loxodonta_africana	TBP	ENSLAFG00000006043	TATA-box	NA
+Loxodonta_africana	TAF1C	ENSLAFG00000006068	TATA-box	NA
+Loxodonta_africana	GTF2B	ENSLAFG00000006102	GTF	NA
+Loxodonta_africana	MED8	ENSLAFG00000006137	Mediator complex	NA
+Loxodonta_africana	EAF1	ENSLAFG00000006152	Others	NA
+Loxodonta_africana	CCAR1	ENSLAFG00000006177	Others	NA
+Loxodonta_africana	JMY	ENSLAFG00000006216	Others	NA
+Loxodonta_africana	SS18	ENSLAFG00000006230	SS18	NA
+Loxodonta_africana	SIN3A	ENSLAFG00000006262	Other_CRF	NA
+Loxodonta_africana	ASXL1	ENSLAFG00000006272	Others	NA
+Loxodonta_africana	KDM2A	ENSLAFG00000006277	Lysine demethylase	NA
+Loxodonta_africana	TRADD	ENSLAFG00000006288	Others	NA
+Loxodonta_africana	KAT2B	ENSLAFG00000006300	Lysine acetyltransferase	NA
+Loxodonta_africana	FLNA	ENSLAFG00000006359	Others	NA
+Loxodonta_africana	CITED2	ENSLAFG00000006376	CITED	NA
+Loxodonta_africana	AATF	ENSLAFG00000006402	Others	NA
+Loxodonta_africana	CNOT11	ENSLAFG00000006411	CCR4-NOT	NA
+Loxodonta_africana	FBXW11	ENSLAFG00000006465	Others	NA
+Loxodonta_africana	KMT5B	ENSLAFG00000006490	Lysine methyltransferase	NA
+Loxodonta_africana	SNAPC5	ENSLAFG00000006491	Others	NA
+Loxodonta_africana	HLTF	ENSLAFG00000006515	Others	NA
+Loxodonta_africana	H1-3	ENSLAFG00000006550	Histone cluster 1 H1	NA
+Loxodonta_africana	BIRC5	ENSLAFG00000006585	Others	NA
+Loxodonta_africana	BCAS3	ENSLAFG00000006591	Others	NA
+Loxodonta_africana	WAC	ENSLAFG00000006631	WW	NA
+Loxodonta_africana	CAMK4	ENSLAFG00000006634	CAMK	NA
+Loxodonta_africana	LIN54	ENSLAFG00000006640	Others	NA
+Loxodonta_africana	RNF10	ENSLAFG00000006648	Ring finger protein	NA
+Loxodonta_africana	GRIP1	ENSLAFG00000006669	Others	NA
+Loxodonta_africana	BTN1A1	ENSLAFG00000006709	Others	NA
+Loxodonta_africana	CDK8	ENSLAFG00000006771	Cyclin	NA
+Loxodonta_africana	SMARCB1	ENSLAFG00000006859	SWI/SNF	NA
+Loxodonta_africana	UXT	ENSLAFG00000006884	Others	NA
+Loxodonta_africana	ERCC2	ENSLAFG00000006888	Others	NA
+Loxodonta_africana	ACTR5	ENSLAFG00000006895	ACTR	NA
+Loxodonta_africana		ENSLAFG00000006907	Chromobox	NA
+Loxodonta_africana	CASK	ENSLAFG00000006945	CAMK	100663450
+Loxodonta_africana	HIPK2	ENSLAFG00000006963	HIPK	NA
+Loxodonta_africana	TRIB3	ENSLAFG00000006965	Others	NA
+Loxodonta_africana	ABL1	ENSLAFG00000006986	Others	NA
+Loxodonta_africana	BRD3	ENSLAFG00000007004	Bromodomain	NA
+Loxodonta_africana	SLC30A9	ENSLAFG00000007021	SLC	NA
+Loxodonta_africana	HELLS	ENSLAFG00000007049	Others	NA
+Loxodonta_africana	DHX33	ENSLAFG00000007136	RNA helicase	NA
+Loxodonta_africana	PIN1	ENSLAFG00000007143	Others	NA
+Loxodonta_africana	CBL	ENSLAFG00000007171	Others	NA
+Loxodonta_africana	ZNF451	ENSLAFG00000007200	Zinc finger	100665369
+Loxodonta_africana	SF1	ENSLAFG00000007201	Others	NA
+Loxodonta_africana	SIN3B	ENSLAFG00000007273	Others	NA
+Loxodonta_africana	GTF2H3	ENSLAFG00000007300	GTF	NA
+Loxodonta_africana	CDKN1B	ENSLAFG00000007313	Cyclin	NA
+Loxodonta_africana	ABRA	ENSLAFG00000007362	Actin	NA
+Loxodonta_africana	TRAK1	ENSLAFG00000007369	Others	NA
+Loxodonta_africana	RNF4	ENSLAFG00000007382	Ring finger protein	NA
+Loxodonta_africana	PIM1	ENSLAFG00000007389	Others	NA
+Loxodonta_africana	ENO1	ENSLAFG00000007413	Others	NA
+Loxodonta_africana	RNF14	ENSLAFG00000007438	Ring finger protein	NA
+Loxodonta_africana	CBX8	ENSLAFG00000007441	Chromobox	NA
+Loxodonta_africana	JAK2	ENSLAFG00000007471	Others	NA
+Loxodonta_africana	DACT1	ENSLAFG00000007484	Others	NA
+Loxodonta_africana	POU2AF1	ENSLAFG00000007524	Others	NA
+Loxodonta_africana	NRBF2	ENSLAFG00000007532	Nuclear receptor coactivator	NA
+Loxodonta_africana	PQBP1	ENSLAFG00000007534	Others	NA
+Loxodonta_africana	ABT1	ENSLAFG00000007568	Others	NA
+Loxodonta_africana	BRD8	ENSLAFG00000007636	Bromodomain	NA
+Loxodonta_africana	TGFB1	ENSLAFG00000007672	Others	NA
+Loxodonta_africana		ENSLAFG00000007677	Nucleoplasmin	NA
+Loxodonta_africana	TLE2	ENSLAFG00000007679	Transducin	100668873
+Loxodonta_africana	CCND1	ENSLAFG00000007682	Cyclin	NA
+Loxodonta_africana	ANKAR	ENSLAFG00000007760	Ankyrin repeat	100670404
+Loxodonta_africana	MBTD1	ENSLAFG00000007787	Others	NA
+Loxodonta_africana	RPAP2	ENSLAFG00000007789	Others	NA
+Loxodonta_africana	SMARCA5	ENSLAFG00000007795	SWI/SNF	NA
+Loxodonta_africana	PHF2	ENSLAFG00000007816	PHF	NA
+Loxodonta_africana	GSK3B	ENSLAFG00000007833	Others	NA
+Loxodonta_africana	SMYD1	ENSLAFG00000007863	SMYD	NA
+Loxodonta_africana	WWTR1	ENSLAFG00000007925	WW	NA
+Loxodonta_africana	BEX5	ENSLAFG00000007930	Others	NA
+Loxodonta_africana		ENSLAFG00000007960	Histone deacetylase	NA
+Loxodonta_africana	KDM1A	ENSLAFG00000007981	Lysine demethylase	NA
+Loxodonta_africana	TENM1	ENSLAFG00000007987	Others	NA
+Loxodonta_africana	KAT2A	ENSLAFG00000008004	Lysine acetyltransferase	NA
+Loxodonta_africana	CCNT2	ENSLAFG00000008029	Cyclin	NA
+Loxodonta_africana	HIPK1	ENSLAFG00000008067	HIPK	NA
+Loxodonta_africana	TOB1	ENSLAFG00000008077	Others	NA
+Loxodonta_africana	NELFA	ENSLAFG00000008168	GTF	NA
+Loxodonta_africana	EHMT2	ENSLAFG00000008169	Histone lysine methyltransferase	NA
+Loxodonta_africana	LPIN1	ENSLAFG00000008202	LPIN	NA
+Loxodonta_africana	RALGAPA1	ENSLAFG00000008245	Others	NA
+Loxodonta_africana	MYO6	ENSLAFG00000008249	Others	NA
+Loxodonta_africana	PCBD2	ENSLAFG00000008369	Others	NA
+Loxodonta_africana	ING4	ENSLAFG00000008379	ING	NA
+Loxodonta_africana	PCGF6	ENSLAFG00000008386	PCGF	NA
+Loxodonta_africana	AURKB	ENSLAFG00000008390	Others	NA
+Loxodonta_africana	TAF5	ENSLAFG00000008391	TATA-box	NA
+Loxodonta_africana	RECQL5	ENSLAFG00000008491	Others	NA
+Loxodonta_africana	SAP30BP	ENSLAFG00000008498	SAP	100654342
+Loxodonta_africana	ERN1	ENSLAFG00000008504	Others	NA
+Loxodonta_africana	ZNF638	ENSLAFG00000008513	Zinc finger	100676433
+Loxodonta_africana		ENSLAFG00000008515	Histone deacetylase	NA
+Loxodonta_africana	MYCBP2	ENSLAFG00000008606	MYC	NA
+Loxodonta_africana	EYA3	ENSLAFG00000008613	EYA	NA
+Loxodonta_africana		ENSLAFG00000008614	Others	NA
+Loxodonta_africana	MED24	ENSLAFG00000008622	Mediator complex	NA
+Loxodonta_africana	POLR2A	ENSLAFG00000008626	POLR	100662030
+Loxodonta_africana		ENSLAFG00000008633	Others	NA
+Loxodonta_africana	OGT	ENSLAFG00000008655	Others	NA
+Loxodonta_africana	SMARCD3	ENSLAFG00000008678	SWI/SNF	NA
+Loxodonta_africana	LZTS1	ENSLAFG00000008693	Others	NA
+Loxodonta_africana	LRRK1	ENSLAFG00000008742	Other_CRF	NA
+Loxodonta_africana	CDK5	ENSLAFG00000008785	Cyclin	NA
+Loxodonta_africana	RBX1	ENSLAFG00000008795	Others	NA
+Loxodonta_africana	LMO2	ENSLAFG00000008865	LIM	NA
+Loxodonta_africana		ENSLAFG00000008885	Mediator complex	NA
+Loxodonta_africana	RBL2	ENSLAFG00000009024	Other_Co-activator/repressors	NA
+Loxodonta_africana	RBM14	ENSLAFG00000009086	RNA binding protein	NA
+Loxodonta_africana	NCOA2	ENSLAFG00000009117	Nuclear receptor coactivator	NA
+Loxodonta_africana	INSR	ENSLAFG00000009130	Others	NA
+Loxodonta_africana	FHL2	ENSLAFG00000009183	FHL	NA
+Loxodonta_africana	EFCAB6	ENSLAFG00000009212	Others	NA
+Loxodonta_africana	MMS19	ENSLAFG00000009246	Others	NA
+Loxodonta_africana	FGFR2	ENSLAFG00000009269	FGF	NA
+Loxodonta_africana	SIRT1	ENSLAFG00000009280	Sirtuin	NA
+Loxodonta_africana	EZR	ENSLAFG00000009321	Others	NA
+Loxodonta_africana		ENSLAFG00000009341	HNRNP	NA
+Loxodonta_africana	SUPT16H	ENSLAFG00000009351	SUPT	NA
+Loxodonta_africana	CHD8	ENSLAFG00000009358	CHD	100675249
+Loxodonta_africana	DRAP1	ENSLAFG00000009361	Others	NA
+Loxodonta_africana	LPIN2	ENSLAFG00000009393	LPIN	NA
+Loxodonta_africana	RITA1	ENSLAFG00000009448	Others	NA
+Loxodonta_africana	CCNA2	ENSLAFG00000009517	Cyclin	NA
+Loxodonta_africana	THRAP3	ENSLAFG00000009587	Thyroid hormone receptor	NA
+Loxodonta_africana	PRMT2	ENSLAFG00000009604	Arginine methyltransferase	NA
+Loxodonta_africana	SND1	ENSLAFG00000009696	Others	NA
+Loxodonta_africana	RHOA	ENSLAFG00000009726	Others	NA
+Loxodonta_africana	TADA1	ENSLAFG00000009766	Transcriptional adaptor	NA
+Loxodonta_africana	MAK	ENSLAFG00000009799	Others	NA
+Loxodonta_africana	VGLL2	ENSLAFG00000009803	Vestigial like	100667835
+Loxodonta_africana	MORF4L1	ENSLAFG00000009851	Other_CRF	NA
+Loxodonta_africana	CNOT8	ENSLAFG00000009852	CCR4-NOT	NA
+Loxodonta_africana	PYGO2	ENSLAFG00000009884	Others	NA
+Loxodonta_africana	NIF3L1	ENSLAFG00000009897	Others	NA
+Loxodonta_africana	KDM5A	ENSLAFG00000009908	Lysine demethylase	NA
+Loxodonta_africana	GTF2E1	ENSLAFG00000009912	GTF	NA
+Loxodonta_africana	INO80	ENSLAFG00000009951	INO80 complex	100664867
+Loxodonta_africana	SENP1	ENSLAFG00000010002	Others	NA
+Loxodonta_africana	KCNIP3	ENSLAFG00000010032	Others	NA
+Loxodonta_africana	SCAI	ENSLAFG00000010037	Others	NA
+Loxodonta_africana	PADI4	ENSLAFG00000010166	Others	NA
+Loxodonta_africana	TLE3	ENSLAFG00000010190	Transducin	NA
+Loxodonta_africana	ELL3	ENSLAFG00000010209	GTF	NA
+Loxodonta_africana	HAT1	ENSLAFG00000010213	Others	NA
+Loxodonta_africana	CIR1	ENSLAFG00000010236	Other_Co-activator/repressors	NA
+Loxodonta_africana		ENSLAFG00000010244	GTF	100657525
+Loxodonta_africana	TIRAP	ENSLAFG00000010260	Others	NA
+Loxodonta_africana	RBM39	ENSLAFG00000010346	RNA binding protein	NA
+Loxodonta_africana	YEATS2	ENSLAFG00000010347	Others	NA
+Loxodonta_africana	PHF20	ENSLAFG00000010350	PHF	NA
+Loxodonta_africana	SCAND1	ENSLAFG00000010357	Others	NA
+Loxodonta_africana	TRIM24	ENSLAFG00000010375	Tripartite motif	NA
+Loxodonta_africana	MAGED1	ENSLAFG00000010410	MAGE	NA
+Loxodonta_africana	EZH1	ENSLAFG00000010425	Others	NA
+Loxodonta_africana	PELI1	ENSLAFG00000010471	Others	NA
+Loxodonta_africana	CRK	ENSLAFG00000010559	Others	NA
+Loxodonta_africana	EAPP	ENSLAFG00000010570	Others	NA
+Loxodonta_africana	SNX6	ENSLAFG00000010573	Others	NA
+Loxodonta_africana	BAZ1A	ENSLAFG00000010581	Bromodomain	NA
+Loxodonta_africana	TAF8	ENSLAFG00000010601	TATA-box	100664036
+Loxodonta_africana	ANKRD2	ENSLAFG00000010658	Ankyrin repeat	NA
+Loxodonta_africana	FBP1	ENSLAFG00000010666	Others	NA
+Loxodonta_africana	NRIP3	ENSLAFG00000010675	Nuclear coactivator	NA
+Loxodonta_africana	GTF2A2	ENSLAFG00000010773	GTF	NA
+Loxodonta_africana	AXIN1	ENSLAFG00000010774	Others	NA
+Loxodonta_africana	HR	ENSLAFG00000010818	Lysine methyltransferase	NA
+Loxodonta_africana	AGO1	ENSLAFG00000010835	Others	NA
+Loxodonta_africana		ENSLAFG00000010864	Ring finger protein	NA
+Loxodonta_africana	HYAL2	ENSLAFG00000010918	Others	NA
+Loxodonta_africana	HDAC4	ENSLAFG00000010952	Histone deacetylase	NA
+Loxodonta_africana	PSPC1	ENSLAFG00000010968	Others	NA
+Loxodonta_africana	PER2	ENSLAFG00000010995	Others	NA
+Loxodonta_africana	TXNIP	ENSLAFG00000011010	Others	NA
+Loxodonta_africana	XRCC6	ENSLAFG00000011017	Others	NA
+Loxodonta_africana	TOP1	ENSLAFG00000011045	Other_CRF	NA
+Loxodonta_africana	HIRA	ENSLAFG00000011054	Others	NA
+Loxodonta_africana	SETD7	ENSLAFG00000011095	SET	NA
+Loxodonta_africana	TASOR	ENSLAFG00000011103	FAM	100657818
+Loxodonta_africana		ENSLAFG00000011135	Others	NA
+Loxodonta_africana	PCGF5	ENSLAFG00000011154	PCGF	NA
+Loxodonta_africana	HCK	ENSLAFG00000011161	Others	NA
+Loxodonta_africana	SUPT7L	ENSLAFG00000011187	SUPT	NA
+Loxodonta_africana	WDR5	ENSLAFG00000011192	WD	NA
+Loxodonta_africana	REXO4	ENSLAFG00000011274	Others	NA
+Loxodonta_africana		ENSLAFG00000011294	Others	NA
+Loxodonta_africana	GTF2H1	ENSLAFG00000011296	GTF	NA
+Loxodonta_africana	RNF20	ENSLAFG00000011302	Ring finger protein	NA
+Loxodonta_africana	ASCC3	ENSLAFG00000011363	ASCC	NA
+Loxodonta_africana	TARBP1	ENSLAFG00000011394	Others	NA
+Loxodonta_africana	PKP4	ENSLAFG00000011403	Casein	NA
+Loxodonta_africana	TAB3	ENSLAFG00000011430	Others	NA
+Loxodonta_africana	TAF13	ENSLAFG00000011432	TATA-box	NA
+Loxodonta_africana	CNOT6L	ENSLAFG00000011449	CCR4-NOT	NA
+Loxodonta_africana	CDK12	ENSLAFG00000011451	Cyclin	NA
+Loxodonta_africana	TRIM8	ENSLAFG00000011454	Tripartite motif	NA
+Loxodonta_africana	CLU	ENSLAFG00000011466	Others	NA
+Loxodonta_africana		ENSLAFG00000011482	TATA-box	NA
+Loxodonta_africana		ENSLAFG00000011514	INO80 complex	NA
+Loxodonta_africana	MED27	ENSLAFG00000011556	Mediator complex	NA
+Loxodonta_africana	LRIF1	ENSLAFG00000011566	Others	NA
+Loxodonta_africana	TCF20	ENSLAFG00000011602	Others	100655868
+Loxodonta_africana	ITCH	ENSLAFG00000011603	Others	NA
+Loxodonta_africana	EPC1	ENSLAFG00000011607	Others	NA
+Loxodonta_africana	RAF1	ENSLAFG00000011608	Others	NA
+Loxodonta_africana	PAK6	ENSLAFG00000011715	Others	NA
+Loxodonta_africana	LBH	ENSLAFG00000011722	Others	NA
+Loxodonta_africana	EMSY	ENSLAFG00000011748	Others	NA
+Loxodonta_africana	EYA2	ENSLAFG00000011767	EYA	NA
+Loxodonta_africana	CXXC5	ENSLAFG00000011784	Others	NA
+Loxodonta_africana	CCNE1	ENSLAFG00000011876	Cyclin	NA
+Loxodonta_africana	TAF9B	ENSLAFG00000011956	TATA-box	NA
+Loxodonta_africana	SAMD4B	ENSLAFG00000011957	Others	NA
+Loxodonta_africana	NOTCH2	ENSLAFG00000011961	Notch	NA
+Loxodonta_africana	SYK	ENSLAFG00000012018	Others	NA
+Loxodonta_africana	PARK7	ENSLAFG00000012039	Others	NA
+Loxodonta_africana	NUDT5	ENSLAFG00000012052	Other_CRF	NA
+Loxodonta_africana	MED14	ENSLAFG00000012068	Mediator complex	NA
+Loxodonta_africana	CDK7	ENSLAFG00000012072	Cyclin	NA
+Loxodonta_africana	TAF9	ENSLAFG00000012084	TATA-box	NA
+Loxodonta_africana	CHD6	ENSLAFG00000012144	CHD	NA
+Loxodonta_africana	EYA4	ENSLAFG00000012196	EYA	NA
+Loxodonta_africana	PAF1	ENSLAFG00000012197	Others	NA
+Loxodonta_africana		ENSLAFG00000012201	Others	NA
+Loxodonta_africana	CTNND1	ENSLAFG00000012221	Casein	NA
+Loxodonta_africana	MYOCD	ENSLAFG00000012269	Others	NA
+Loxodonta_africana	CNOT9	ENSLAFG00000012288	CCR4-NOT	NA
+Loxodonta_africana	EP300	ENSLAFG00000012289	Others	NA
+Loxodonta_africana	L3MBTL2	ENSLAFG00000012307	Others	NA
+Loxodonta_africana	RNF25	ENSLAFG00000012317	Ring finger protein	100662820
+Loxodonta_africana	MED13L	ENSLAFG00000012322	Mediator complex	NA
+Loxodonta_africana	STK36	ENSLAFG00000012325	Others	NA
+Loxodonta_africana	PPARGC1B	ENSLAFG00000012339	Others	NA
+Loxodonta_africana	RIPPLY1	ENSLAFG00000012344	Others	NA
+Loxodonta_africana	STRN3	ENSLAFG00000012349	Others	NA
+Loxodonta_africana	ARHGAP5	ENSLAFG00000012386	Others	NA
+Loxodonta_africana	ALPK3	ENSLAFG00000012401	Others	NA
+Loxodonta_africana	CASP8AP2	ENSLAFG00000012427	Others	NA
+Loxodonta_africana	TNNI2	ENSLAFG00000012463	Others	NA
+Loxodonta_africana	SMURF1	ENSLAFG00000012470	Others	NA
+Loxodonta_africana	TLE4	ENSLAFG00000012471	Transducin	NA
+Loxodonta_africana	TAF5L	ENSLAFG00000012480	TATA-box	NA
+Loxodonta_africana	MED18	ENSLAFG00000012511	Mediator complex	NA
+Loxodonta_africana	CNOT10	ENSLAFG00000012513	CCR4-NOT	NA
+Loxodonta_africana	TRIM27	ENSLAFG00000012533	Tripartite motif	NA
+Loxodonta_africana	ANKRA2	ENSLAFG00000012578	Ankyrin repeat	NA
+Loxodonta_africana	RASD1	ENSLAFG00000012647	Others	NA
+Loxodonta_africana	DCAF1	ENSLAFG00000012675	Others	NA
+Loxodonta_africana	KMT5A	ENSLAFG00000012679	Lysine methyltransferase	NA
+Loxodonta_africana	SGK1	ENSLAFG00000012698	Others	NA
+Loxodonta_africana	TRIB1	ENSLAFG00000012712	Others	NA
+Loxodonta_africana	BRMS1	ENSLAFG00000012751	Other_CRF	NA
+Loxodonta_africana	SSBP2	ENSLAFG00000012776	Others	NA
+Loxodonta_africana	CTR9	ENSLAFG00000012801	Others	NA
+Loxodonta_africana		ENSLAFG00000012806	Coiled-coil	NA
+Loxodonta_africana	NMI	ENSLAFG00000012842	Others	NA
+Loxodonta_africana	TXN	ENSLAFG00000012856	Others	NA
+Loxodonta_africana	PDLIM1	ENSLAFG00000012876	Others	NA
+Loxodonta_africana	RBM15	ENSLAFG00000012897	RNA binding protein	NA
+Loxodonta_africana	AGO2	ENSLAFG00000012905	Others	NA
+Loxodonta_africana	PPARGC1A	ENSLAFG00000012981	Others	NA
+Loxodonta_africana	PIDD1	ENSLAFG00000013028	Others	NA
+Loxodonta_africana	NCL	ENSLAFG00000013061	Others	NA
+Loxodonta_africana	ATN1	ENSLAFG00000013065	Others	NA
+Loxodonta_africana	SDR16C5	ENSLAFG00000013161	Others	100653594
+Loxodonta_africana	TAF2	ENSLAFG00000013191	TATA-box	NA
+Loxodonta_africana	EDRF1	ENSLAFG00000013265	Others	NA
+Loxodonta_africana	CEP290	ENSLAFG00000013292	Others	NA
+Loxodonta_africana		ENSLAFG00000013310	Others	NA
+Loxodonta_africana	TAF6	ENSLAFG00000013349	TATA-box	NA
+Loxodonta_africana	WWP2	ENSLAFG00000013368	WW	NA
+Loxodonta_africana	NONO	ENSLAFG00000013422	Others	NA
+Loxodonta_africana	ACTL6A	ENSLAFG00000013530	Actin	NA
+Loxodonta_africana	CSNK2A2	ENSLAFG00000013535	Casein	NA
+Loxodonta_africana		ENSLAFG00000013536	Others	NA
+Loxodonta_africana	NCK1	ENSLAFG00000013540	Others	NA
+Loxodonta_africana	TXLNG	ENSLAFG00000013552	Others	NA
+Loxodonta_africana	RBBP7	ENSLAFG00000013554	RBBP	NA
+Loxodonta_africana	PINK1	ENSLAFG00000013575	Others	NA
+Loxodonta_africana	RB1	ENSLAFG00000013579	Other_Co-activator/repressors	NA
+Loxodonta_africana	RWDD3	ENSLAFG00000013626	Others	NA
+Loxodonta_africana	WNT3	ENSLAFG00000013699	Others	NA
+Loxodonta_africana	XIAP	ENSLAFG00000013707	Others	NA
+Loxodonta_africana	PELP1	ENSLAFG00000013717	Others	100655947
+Loxodonta_africana	NIPBL	ENSLAFG00000013762	Others	100656482
+Loxodonta_africana	DEPDC1	ENSLAFG00000013772	Others	100676706
+Loxodonta_africana	SSBP3	ENSLAFG00000013788	Others	NA
+Loxodonta_africana	TCERG1	ENSLAFG00000013796	TEF	NA
+Loxodonta_africana	NLK	ENSLAFG00000013797	Others	NA
+Loxodonta_africana	SAV1	ENSLAFG00000013815	Others	NA
+Loxodonta_africana	KDM4C	ENSLAFG00000013829	Lysine demethylase	NA
+Loxodonta_africana	ERBIN	ENSLAFG00000013836	Erbb2	NA
+Loxodonta_africana	PHF12	ENSLAFG00000013848	PHF	NA
+Loxodonta_africana	MED6	ENSLAFG00000013852	Mediator complex	NA
+Loxodonta_africana	PSIP1	ENSLAFG00000013878	Others	NA
+Loxodonta_africana	RNF141	ENSLAFG00000013889	Ring finger protein	NA
+Loxodonta_africana	ASF1A	ENSLAFG00000013912	Others	NA
+Loxodonta_africana	HIPK3	ENSLAFG00000013962	HIPK	100662955
+Loxodonta_africana	KAT8	ENSLAFG00000014059	Lysine acetyltransferase	NA
+Loxodonta_africana	SMARCA2	ENSLAFG00000014061	SWI/SNF	NA
+Loxodonta_africana	TBPL1	ENSLAFG00000014064	TATA-box	NA
+Loxodonta_africana	DTX1	ENSLAFG00000014074	Others	NA
+Loxodonta_africana	CRY1	ENSLAFG00000014082	Others	NA
+Loxodonta_africana	TAF12	ENSLAFG00000014103	TATA-box	NA
+Loxodonta_africana	TRIM32	ENSLAFG00000014104	Tripartite motif	NA
+Loxodonta_africana		ENSLAFG00000014112	Heat shock protein	NA
+Loxodonta_africana	SMYD2	ENSLAFG00000014142	SMYD	NA
+Loxodonta_africana	NOD2	ENSLAFG00000014161	Others	NA
+Loxodonta_africana	MED25	ENSLAFG00000014186	Mediator complex	NA
+Loxodonta_africana	DDX39B	ENSLAFG00000014202	RNA helicase	NA
+Loxodonta_africana	NCOA7	ENSLAFG00000014213	Nuclear receptor coactivator	NA
+Loxodonta_africana	PPRC1	ENSLAFG00000014232	Others	NA
+Loxodonta_africana	ACTN2	ENSLAFG00000014233	Actin	NA
+Loxodonta_africana	VGLL1	ENSLAFG00000014300	Vestigial like	NA
+Loxodonta_africana	HTATSF1	ENSLAFG00000014307	Others	NA
+Loxodonta_africana	EPC2	ENSLAFG00000014312	Others	NA
+Loxodonta_africana	ILK	ENSLAFG00000014337	Others	NA
+Loxodonta_africana	YAF2	ENSLAFG00000014339	Others	NA
+Loxodonta_africana	URI1	ENSLAFG00000014350	Others	NA
+Loxodonta_africana	ARRB2	ENSLAFG00000014386	Others	NA
+Loxodonta_africana	EGFR	ENSLAFG00000014393	Others	NA
+Loxodonta_africana		ENSLAFG00000014401	Others	NA
+Loxodonta_africana	MED13	ENSLAFG00000014408	Mediator complex	NA
+Loxodonta_africana	AEBP1	ENSLAFG00000014436	Others	NA
+Loxodonta_africana	BCOR	ENSLAFG00000014446	Other_Co-activator/repressors	NA
+Loxodonta_africana	PPID	ENSLAFG00000014454	Others	NA
+Loxodonta_africana	SFSWAP	ENSLAFG00000014462	Others	NA
+Loxodonta_africana	ELP3	ENSLAFG00000014499	ELP	NA
+Loxodonta_africana	SIVA1	ENSLAFG00000014514	Others	NA
+Loxodonta_africana	DAB2	ENSLAFG00000014524	Others	NA
+Loxodonta_africana	MED16	ENSLAFG00000014562	Mediator complex	NA
+Loxodonta_africana	XRN2	ENSLAFG00000014624	Others	NA
+Loxodonta_africana	SRC	ENSLAFG00000014637	Others	NA
+Loxodonta_africana	DDX20	ENSLAFG00000014646	RNA helicase	NA
+Loxodonta_africana	HEXIM2	ENSLAFG00000014694	Others	NA
+Loxodonta_africana	PNRC2	ENSLAFG00000014701	Others	NA
+Loxodonta_africana	NSD3	ENSLAFG00000014727	Nuclear receptor coactivator	NA
+Loxodonta_africana	ATF7IP2	ENSLAFG00000014763	Others	NA
+Loxodonta_africana		ENSLAFG00000014805	Lysine methyltransferase	NA
+Loxodonta_africana	KDM6A	ENSLAFG00000014811	Lysine demethylase	NA
+Loxodonta_africana	HCLS1	ENSLAFG00000014847	Others	NA
+Loxodonta_africana	BCL9	ENSLAFG00000014851	BCL	NA
+Loxodonta_africana	ERCC3	ENSLAFG00000014866	Others	NA
+Loxodonta_africana	ZMYND11	ENSLAFG00000014874	Zinc finger	NA
+Loxodonta_africana	EAF2	ENSLAFG00000014878	Others	NA
+Loxodonta_africana	BRIP1	ENSLAFG00000014884	Others	NA
+Loxodonta_africana	PDCD4	ENSLAFG00000014885	Others	NA
+Loxodonta_africana	MED19	ENSLAFG00000014917	Mediator complex	NA
+Loxodonta_africana	CHUK	ENSLAFG00000014964	Others	100664361
+Loxodonta_africana	EP400	ENSLAFG00000015029	Others	NA
+Loxodonta_africana	MTF2	ENSLAFG00000015037	Others	NA
+Loxodonta_africana	TFB2M	ENSLAFG00000015061	Others	NA
+Loxodonta_africana	BRWD1	ENSLAFG00000015097	Bromodomain	NA
+Loxodonta_africana	ASCC1	ENSLAFG00000015184	ASCC	NA
+Loxodonta_africana	HDAC9	ENSLAFG00000015187	Histone deacetylase	NA
+Loxodonta_africana		ENSLAFG00000015229	Others	NA
+Loxodonta_africana	SRFBP1	ENSLAFG00000015303	Others	NA
+Loxodonta_africana	DHX36	ENSLAFG00000015342	RNA helicase	NA
+Loxodonta_africana	INO80D	ENSLAFG00000015352	INO80 complex	NA
+Loxodonta_africana	KAT6B	ENSLAFG00000015357	Lysine acetyltransferase	NA
+Loxodonta_africana	CCDC59	ENSLAFG00000015368	Coiled-coil	NA
+Loxodonta_africana	CHD9	ENSLAFG00000015374	CHD	NA
+Loxodonta_africana	TGS1	ENSLAFG00000015386	Others	NA
+Loxodonta_africana		ENSLAFG00000015447	Others	NA
+Loxodonta_africana	CALCOCO1	ENSLAFG00000015535	Others	NA
+Loxodonta_africana	NPM2	ENSLAFG00000015584	Nucleoplasmin	NA
+Loxodonta_africana	CRYM	ENSLAFG00000015592	Others	100668667
+Loxodonta_africana	CREBBP	ENSLAFG00000015607	CREB	NA
+Loxodonta_africana	MACROH2A2	ENSLAFG00000015625	Others	NA
+Loxodonta_africana	KAT5	ENSLAFG00000015634	Lysine acetyltransferase	NA
+Loxodonta_africana	MTOR	ENSLAFG00000015635	Others	NA
+Loxodonta_africana	LMCD1	ENSLAFG00000015653	LIM	NA
+Loxodonta_africana	EWSR1	ENSLAFG00000015757	Others	NA
+Loxodonta_africana	NELFB	ENSLAFG00000015847	GTF	NA
+Loxodonta_africana	NELFCD	ENSLAFG00000015850	GTF	NA
+Loxodonta_africana	ANKRD1	ENSLAFG00000015939	Ankyrin repeat	NA
+Loxodonta_africana	RBBP5	ENSLAFG00000015962	RBBP	NA
+Loxodonta_africana	GNL3	ENSLAFG00000016056	Others	NA
+Loxodonta_africana	BRD2	ENSLAFG00000016104	Bromodomain	NA
+Loxodonta_africana	BTF3L4	ENSLAFG00000016124	Others	NA
+Loxodonta_africana	TAF1A	ENSLAFG00000016143	TATA-box	NA
+Loxodonta_africana	MED10	ENSLAFG00000016146	Mediator complex	NA
+Loxodonta_africana	CALR	ENSLAFG00000016157	Others	NA
+Loxodonta_africana	PHF8	ENSLAFG00000016189	PHF	NA
+Loxodonta_africana	PIH1D1	ENSLAFG00000016200	Other_CRF	NA
+Loxodonta_africana	MAD2L2	ENSLAFG00000016259	Others	NA
+Loxodonta_africana	LEO1	ENSLAFG00000016350	Others	100674100
+Loxodonta_africana		ENSLAFG00000016353	Others	NA
+Loxodonta_africana	HDGF	ENSLAFG00000016425	Others	NA
+Loxodonta_africana		ENSLAFG00000016433	RBBP	NA
+Loxodonta_africana	DPF2	ENSLAFG00000016450	DPF	NA
+Loxodonta_africana	TRAF6	ENSLAFG00000016463	Others	NA
+Loxodonta_africana	HNRNPD	ENSLAFG00000016483	HNRNP	NA
+Loxodonta_africana	CDK2	ENSLAFG00000016537	Cyclin	NA
+Loxodonta_africana		ENSLAFG00000016601	Others	NA
+Loxodonta_africana	ATAD2B	ENSLAFG00000016605	Others	NA
+Loxodonta_africana	HIF1AN	ENSLAFG00000016613	Others	NA
+Loxodonta_africana	CNOT6	ENSLAFG00000016742	CCR4-NOT	NA
+Loxodonta_africana	ATF7IP	ENSLAFG00000016760	Others	NA
+Loxodonta_africana	DPPA4	ENSLAFG00000016804	Others	NA
+Loxodonta_africana	TRIM16	ENSLAFG00000016814	Tripartite motif	NA
+Loxodonta_africana	KDM4B	ENSLAFG00000016821	Lysine demethylase	NA
+Loxodonta_africana	LANCL2	ENSLAFG00000016836	Others	NA
+Loxodonta_africana		ENSLAFG00000016845	Others	NA
+Loxodonta_africana	CDK9	ENSLAFG00000016847	Cyclin	NA
+Loxodonta_africana	NRG1	ENSLAFG00000016872	Others	NA
+Loxodonta_africana	MED28	ENSLAFG00000016936	Mediator complex	NA
+Loxodonta_africana	FBXW7	ENSLAFG00000016940	Others	NA
+Loxodonta_africana	DNMT3B	ENSLAFG00000016965	DNA_methylase	NA
+Loxodonta_africana	LIMD1	ENSLAFG00000016999	LIM	NA
+Loxodonta_africana	TRIM11	ENSLAFG00000017039	Tripartite motif	NA
+Loxodonta_africana	BTRC	ENSLAFG00000017122	Others	NA
+Loxodonta_africana	VGLL4	ENSLAFG00000017133	Vestigial like	NA
+Loxodonta_africana	RPRD1B	ENSLAFG00000017241	Others	NA
+Loxodonta_africana	TBPL2	ENSLAFG00000017299	TATA-box	NA
+Loxodonta_africana	BTK	ENSLAFG00000017369	Others	NA
+Loxodonta_africana	PLRG1	ENSLAFG00000017372	Others	NA
+Loxodonta_africana	RUVBL1	ENSLAFG00000017383	Other_CRF	NA
+Loxodonta_africana	PARP9	ENSLAFG00000017406	PARP	NA
+Loxodonta_africana	TADA3	ENSLAFG00000017494	Transcriptional adaptor	NA
+Loxodonta_africana	CITED1	ENSLAFG00000017528	CITED	NA
+Loxodonta_africana	DR1	ENSLAFG00000017540	Others	NA
+Loxodonta_africana	BPTF	ENSLAFG00000017552	Bromodomain	NA
+Loxodonta_africana	TRIP4	ENSLAFG00000017612	Thyroid hormone receptor	NA
+Loxodonta_africana	ICE2	ENSLAFG00000017637	GTF	NA
+Loxodonta_africana	RAI1	ENSLAFG00000017641	Others	NA
+Loxodonta_africana	RAN	ENSLAFG00000017673	Others	NA
+Loxodonta_africana	NIBAN2	ENSLAFG00000017682	FAM	NA
+Loxodonta_africana	RTF1	ENSLAFG00000017757	Others	NA
+Loxodonta_africana	BRMS1L	ENSLAFG00000017810	Other_CRF	NA
+Loxodonta_africana		ENSLAFG00000017854	Bromodomain	NA
+Loxodonta_africana	SLTM	ENSLAFG00000017922	Others	NA
+Loxodonta_africana	SUPT6H	ENSLAFG00000017945	SUPT	NA
+Loxodonta_africana	CDK13	ENSLAFG00000017946	Cyclin	100661983
+Loxodonta_africana	PRMT1	ENSLAFG00000018053	Arginine methyltransferase	NA
+Loxodonta_africana	CBFA2T2	ENSLAFG00000018088	Others	NA
+Loxodonta_africana	LPIN3	ENSLAFG00000018105	LPIN	NA
+Loxodonta_africana	SLC25A15	ENSLAFG00000018129	SLC	NA
+Loxodonta_africana	CHD1L	ENSLAFG00000018136	CHD	NA
+Loxodonta_africana	CDYL2	ENSLAFG00000018183	Chromodomain Y	NA
+Loxodonta_africana	STRAP	ENSLAFG00000018184	Others	NA
+Loxodonta_africana	FGFR1	ENSLAFG00000018249	FGF	NA
+Loxodonta_africana	PIK3R1	ENSLAFG00000018267	Others	NA
+Loxodonta_africana	TESC	ENSLAFG00000018271	Others	NA
+Loxodonta_africana	UFL1	ENSLAFG00000018276	Others	NA
+Loxodonta_africana	FHL5	ENSLAFG00000018283	FHL	NA
+Loxodonta_africana	CTNNB1	ENSLAFG00000018290	Casein	NA
+Loxodonta_africana	MRGBP	ENSLAFG00000018296	Others	NA
+Loxodonta_africana	ARHGAP35	ENSLAFG00000018311	Others	NA
+Loxodonta_africana	TAF15	ENSLAFG00000018332	TATA-box	NA
+Loxodonta_africana	PCGF1	ENSLAFG00000018359	PCGF	NA
+Loxodonta_africana	CRTC2	ENSLAFG00000018368	CREB	NA
+Loxodonta_africana	MALT1	ENSLAFG00000018379	Others	NA
+Loxodonta_africana	LOXL3	ENSLAFG00000018382	Others	NA
+Loxodonta_africana	TNIP1	ENSLAFG00000018389	Others	NA
+Loxodonta_africana	ELL2	ENSLAFG00000018397	GTF	NA
+Loxodonta_africana	TCEAL1	ENSLAFG00000018417	TEF	NA
+Loxodonta_africana		ENSLAFG00000018419	Chromodomain Y	NA
+Loxodonta_africana	CCAR2	ENSLAFG00000018459	Others	NA
+Loxodonta_africana	CSRP3	ENSLAFG00000018473	Others	NA
+Loxodonta_africana	HABP4	ENSLAFG00000018478	Others	NA
+Loxodonta_africana	TCERG1L	ENSLAFG00000018503	TEF	NA
+Loxodonta_africana	SKAP1	ENSLAFG00000018530	Others	NA
+Loxodonta_africana	KDM8	ENSLAFG00000018540	Lysine demethylase	NA
+Loxodonta_africana	SETD3	ENSLAFG00000018555	SET	NA
+Loxodonta_africana		ENSLAFG00000018587	Mediator complex	NA
+Loxodonta_africana	NFKBIB	ENSLAFG00000018591	NFKB associated	NA
+Loxodonta_africana	SLC19A1	ENSLAFG00000018599	SLC	NA
+Loxodonta_africana	NFKBIA	ENSLAFG00000018611	NFKB associated	NA
+Loxodonta_africana	CTDP1	ENSLAFG00000018621	Others	NA
+Loxodonta_africana	FGF11	ENSLAFG00000018626	FGF	NA
+Loxodonta_africana	CBFA2T3	ENSLAFG00000018668	Others	NA
+Loxodonta_africana	CTH	ENSLAFG00000018687	Others	NA
+Loxodonta_africana	HTATIP2	ENSLAFG00000018703	Others	NA
+Loxodonta_africana	BTAF1	ENSLAFG00000018710	Others	NA
+Loxodonta_africana	MEAF6	ENSLAFG00000018721	Others	NA
+Loxodonta_africana	TSPYL2	ENSLAFG00000018730	Others	NA
+Loxodonta_africana	KMT2B	ENSLAFG00000018741	Lysine methyltransferase	NA
+Loxodonta_africana		ENSLAFG00000020514	MYC	NA
+Loxodonta_africana	GPS2	ENSLAFG00000020547	Others	NA
+Loxodonta_africana	CGGBP1	ENSLAFG00000020548	Others	NA
+Loxodonta_africana	ATRX	ENSLAFG00000020570	Others	NA
+Loxodonta_africana	BEND6	ENSLAFG00000020660	Others	NA
+Loxodonta_africana	SUPT4H1	ENSLAFG00000020718	SUPT	NA
+Loxodonta_africana	SKOR2	ENSLAFG00000020778	SKI	NA
+Loxodonta_africana	GTF2H4	ENSLAFG00000020792	GTF	NA
+Loxodonta_africana	SRA1	ENSLAFG00000020802	Others	NA
+Loxodonta_africana	TCEA1	ENSLAFG00000020829	TEF	NA
+Loxodonta_africana	NUP62	ENSLAFG00000020923	Others	NA
+Loxodonta_africana	RNF2	ENSLAFG00000021357	Ring finger protein	NA
+Loxodonta_africana	HNRNPU	ENSLAFG00000021377	HNRNP	NA
+Loxodonta_africana	PCGF2	ENSLAFG00000021390	PCGF	NA
+Loxodonta_africana		ENSLAFG00000021416	Transducin	NA
+Loxodonta_africana	SIRT2	ENSLAFG00000021425	Sirtuin	NA
+Loxodonta_africana	NFATC2IP	ENSLAFG00000021501	Nuclear coactivator	NA
+Loxodonta_africana		ENSLAFG00000021542	SS18	NA
+Loxodonta_africana	PARP14	ENSLAFG00000021607	PARP	NA
+Loxodonta_africana	LMO1	ENSLAFG00000021680	LIM	NA
+Loxodonta_africana	DVL2	ENSLAFG00000021683	Others	NA
+Loxodonta_africana	RING1	ENSLAFG00000021706	Ring finger protein	NA
+Loxodonta_africana	TBL1XR1	ENSLAFG00000021750	Transducin	NA
+Loxodonta_africana	ASCC2	ENSLAFG00000021775	ASCC	NA
+Loxodonta_africana	BRCA1	ENSLAFG00000021784	Others	NA
+Loxodonta_africana		ENSLAFG00000021870	EID	NA
+Loxodonta_africana	APEX1	ENSLAFG00000021872	Others	NA
+Loxodonta_africana		ENSLAFG00000021902	CENP	NA
+Loxodonta_africana	SFRP4	ENSLAFG00000022015	Others	NA
+Loxodonta_africana	ZNF593	ENSLAFG00000022048	Zinc finger	NA
+Loxodonta_africana	DHX9	ENSLAFG00000022058	RNA helicase	100661912
+Loxodonta_africana	NDUFA13	ENSLAFG00000022064	Others	NA
+Loxodonta_africana	CNOT3	ENSLAFG00000022133	CCR4-NOT	NA
+Loxodonta_africana	CHEK1	ENSLAFG00000022165	Others	NA
+Loxodonta_africana	COPS2	ENSLAFG00000022204	Others	NA
+Loxodonta_africana	HDAC10	ENSLAFG00000022236	Histone deacetylase	NA
+Loxodonta_africana	RBL1	ENSLAFG00000022292	Other_Co-activator/repressors	NA
+Loxodonta_africana	ORC2	ENSLAFG00000022430	Others	NA
+Loxodonta_africana	DNAJA3	ENSLAFG00000022486	Others	NA
+Loxodonta_africana	TAF6L	ENSLAFG00000022526	TATA-box	NA
+Loxodonta_africana	BCL3	ENSLAFG00000022535	BCL	NA
+Loxodonta_africana	WTIP	ENSLAFG00000022542	Others	NA
+Loxodonta_africana		ENSLAFG00000022560	ANP	NA
+Loxodonta_africana	RDH14	ENSLAFG00000022569	WW	NA
+Loxodonta_africana	ARRB1	ENSLAFG00000022589	Others	NA
+Loxodonta_africana	TRIM29	ENSLAFG00000022667	Tripartite motif	NA
+Loxodonta_africana	MLLT6	ENSLAFG00000022685	Others	NA
+Loxodonta_africana	ELP2	ENSLAFG00000022688	ELP	NA
+Loxodonta_africana	GMNN	ENSLAFG00000022693	Others	NA
+Loxodonta_africana	THRSP	ENSLAFG00000022714	Others	NA
+Loxodonta_africana	HEXIM1	ENSLAFG00000022721	Others	NA
+Loxodonta_africana	LOXL2	ENSLAFG00000022743	Others	NA
+Loxodonta_africana	INO80C	ENSLAFG00000022771	INO80 complex	NA
+Loxodonta_africana	DPY30	ENSLAFG00000022834	Others	NA
+Loxodonta_africana		ENSLAFG00000022842	CHD	NA
+Loxodonta_africana	PUF60	ENSLAFG00000022929	Others	NA
+Loxodonta_africana	SAP130	ENSLAFG00000023014	SAP	NA
+Loxodonta_africana	NPM3	ENSLAFG00000023022	Nucleoplasmin	NA
+Loxodonta_africana	LDB1	ENSLAFG00000023028	LIM	NA
+Loxodonta_africana	CBX7	ENSLAFG00000023057	Chromobox	NA
+Loxodonta_africana	TGFB1I1	ENSLAFG00000023082	Others	NA
+Loxodonta_africana	SUV39H2	ENSLAFG00000023099	Others	NA
+Loxodonta_africana	CHD1	ENSLAFG00000023183	CHD	NA
+Loxodonta_africana	C1QBP	ENSLAFG00000023189	Others	NA
+Loxodonta_africana	TAF1D	ENSLAFG00000023200	TATA-box	NA
+Loxodonta_africana	SKIL	ENSLAFG00000023277	SKI	NA
+Loxodonta_africana	SNAPC2	ENSLAFG00000023323	Others	NA
+Loxodonta_africana	SETD1A	ENSLAFG00000023335	SET	NA
+Loxodonta_africana	CTDSP1	ENSLAFG00000023374	Others	NA
+Loxodonta_africana	SIAH2	ENSLAFG00000025559	Others	NA
+Loxodonta_africana	PRMT6	ENSLAFG00000025614	Arginine methyltransferase	NA
+Loxodonta_africana	EGLN2	ENSLAFG00000025776	Others	NA
+Loxodonta_africana		ENSLAFG00000025801	Others	NA
+Loxodonta_africana	GRHPR	ENSLAFG00000025921	Others	NA
+Loxodonta_africana	ATXN7L3	ENSLAFG00000025945	Others	NA
+Loxodonta_africana		ENSLAFG00000025973	Heat shock protein	NA
+Loxodonta_africana	CDK5R1	ENSLAFG00000026055	Cyclin	NA
+Loxodonta_africana	FAM83G	ENSLAFG00000026123	FAM	NA
+Loxodonta_africana	TRIM28	ENSLAFG00000026316	Tripartite motif	NA
+Loxodonta_africana	ELANE	ENSLAFG00000026354	Others	NA
+Loxodonta_africana	SETD1B	ENSLAFG00000026518	SET	NA
+Loxodonta_africana	SIRT6	ENSLAFG00000026522	Sirtuin	NA
+Loxodonta_africana	IKBKG	ENSLAFG00000026529	Others	NA
+Loxodonta_africana	HNRNPK	ENSLAFG00000026567	HNRNP	NA
+Loxodonta_africana	MLLT1	ENSLAFG00000026589	GTF	NA
+Loxodonta_africana	AJUBA	ENSLAFG00000026749	Others	NA
+Loxodonta_africana	ANP32E	ENSLAFG00000026778	ANP	NA
+Loxodonta_africana	MCIDAS	ENSLAFG00000026782	Others	100667770
+Loxodonta_africana	EDF1	ENSLAFG00000026812	Others	NA
+Loxodonta_africana	TRAK2	ENSLAFG00000026814	Others	NA
+Loxodonta_africana	MED12	ENSLAFG00000026945	Mediator complex	NA
+Loxodonta_africana	APBB1	ENSLAFG00000027099	Others	NA
+Loxodonta_africana	TONSL	ENSLAFG00000027120	Others	NA
+Loxodonta_africana	RBFOX2	ENSLAFG00000027140	Others	NA
+Loxodonta_africana	MAML3	ENSLAFG00000027199	MAML	NA
+Loxodonta_africana	CENPF	ENSLAFG00000027249	CENP	NA
+Loxodonta_africana	TERF2IP	ENSLAFG00000027292	Others	NA
+Loxodonta_africana		ENSLAFG00000027379	Others	NA
+Loxodonta_africana	TOB2	ENSLAFG00000027484	Others	NA
+Loxodonta_africana	CCNK	ENSLAFG00000027530	Cyclin	NA
+Loxodonta_africana	PHF21B	ENSLAFG00000027550	PHF	NA
+Loxodonta_africana	DAXX	ENSLAFG00000027595	Other_CRF	NA
+Loxodonta_africana	TRIP13	ENSLAFG00000027677	Thyroid hormone receptor	NA
+Loxodonta_africana	SUPT5H	ENSLAFG00000027736	SUPT	NA
+Loxodonta_africana	DDX54	ENSLAFG00000027782	RNA helicase	NA
+Loxodonta_africana	FHL3	ENSLAFG00000027815	FHL	NA
+Loxodonta_africana	KDM2B	ENSLAFG00000027865	Lysine demethylase	100669609
+Loxodonta_africana	DYRK1B	ENSLAFG00000027897	Others	NA
+Loxodonta_africana	HINT1	ENSLAFG00000027903	Others	NA
+Loxodonta_africana	HMOX1	ENSLAFG00000027909	Others	NA
+Loxodonta_africana	CCNH	ENSLAFG00000028032	Cyclin	NA
+Loxodonta_africana	S100A8	ENSLAFG00000028077	Others	NA
+Loxodonta_africana	NELFE	ENSLAFG00000028155	GTF	NA
+Loxodonta_africana	ILF2	ENSLAFG00000028218	Others	NA
+Loxodonta_africana	JMJD6	ENSLAFG00000028280	Others	NA
+Loxodonta_africana		ENSLAFG00000028312	Others	NA
+Loxodonta_africana		ENSLAFG00000028342	TEF	NA
+Loxodonta_africana	CDK1	ENSLAFG00000028354	Cyclin	NA
+Loxodonta_africana	ELL	ENSLAFG00000028366	GTF	NA
+Loxodonta_africana	SGF29	ENSLAFG00000028439	Others	NA
+Loxodonta_africana	H2AZ1	ENSLAFG00000028460	Others	NA
+Loxodonta_africana	TIGD4	ENSLAFG00000028471	CENP	NA
+Loxodonta_africana	SQSTM1	ENSLAFG00000028515	Others	NA
+Loxodonta_africana	AURKAIP1	ENSLAFG00000028609	Others	NA
+Loxodonta_africana	MORF4L2	ENSLAFG00000028673	Other_CRF	NA
+Loxodonta_africana	PHF5A	ENSLAFG00000028840	PHF	NA
+Loxodonta_africana	NAB1	ENSLAFG00000028947	Others	NA
+Loxodonta_africana		ENSLAFG00000028973	Mediator complex	NA
+Loxodonta_africana	MED7	ENSLAFG00000029023	Mediator complex	NA
+Loxodonta_africana	YWHAB	ENSLAFG00000029038	Others	NA
+Loxodonta_africana	RNF6	ENSLAFG00000029161	Ring finger protein	NA
+Loxodonta_africana	NLRP12	ENSLAFG00000029230	Others	NA
+Loxodonta_africana	ELOC	ENSLAFG00000029273	Others	NA
+Loxodonta_africana	PEX14	ENSLAFG00000029406	Others	NA
+Loxodonta_africana	POLR3C	ENSLAFG00000029485	POLR	NA
+Loxodonta_africana	TRIP6	ENSLAFG00000029512	Thyroid hormone receptor	NA
+Loxodonta_africana	MTPN	ENSLAFG00000029544	Others	NA
+Loxodonta_africana	DAPK3	ENSLAFG00000029621	Others	NA
+Loxodonta_africana	ARGLU1	ENSLAFG00000029695	Others	NA
+Loxodonta_africana	MED31	ENSLAFG00000029776	Mediator complex	NA
+Loxodonta_africana		ENSLAFG00000029825	Others	NA
+Loxodonta_africana	CCNT1	ENSLAFG00000029881	Cyclin	NA
+Loxodonta_africana	COPRS	ENSLAFG00000029887	Others	NA
+Loxodonta_africana	LPXN	ENSLAFG00000029979	Others	NA
+Loxodonta_africana	NEDD8	ENSLAFG00000030047	Others	NA
+Loxodonta_africana	SET	ENSLAFG00000030310	SET	NA
+Loxodonta_africana		ENSLAFG00000030312	Heat shock protein	100663257
+Loxodonta_africana	MED21	ENSLAFG00000030391	Mediator complex	NA
+Loxodonta_africana	ING3	ENSLAFG00000030488	ING	NA
+Loxodonta_africana	SNIP1	ENSLAFG00000030689	Others	NA
+Loxodonta_africana	HDAC5	ENSLAFG00000030796	Histone deacetylase	NA
+Loxodonta_africana	SAP18	ENSLAFG00000030963	SAP	NA
+Loxodonta_africana	S100A9	ENSLAFG00000030986	Others	NA
+Loxodonta_africana	MRTFA	ENSLAFG00000030989	Others	NA
+Loxodonta_africana	ACTL6B	ENSLAFG00000031032	Actin	NA
+Loxodonta_africana	NOTCH3	ENSLAFG00000031040	Notch	NA
+Loxodonta_africana	ZMYM2	ENSLAFG00000031063	Zinc finger	NA
+Loxodonta_africana	GTF2A1L	ENSLAFG00000031070	GTF	NA
+Loxodonta_africana	PBXIP1	ENSLAFG00000031125	Others	NA
+Loxodonta_africana	MED29	ENSLAFG00000031156	Mediator complex	NA
+Loxodonta_africana	CITED4	ENSLAFG00000031244	CITED	NA
+Loxodonta_africana	MEN1	ENSLAFG00000031374	Others	NA
+Loxodonta_africana	DPPA2	ENSLAFG00000031448	Others	NA
+Loxodonta_africana	MDFI	ENSLAFG00000031523	Others	NA
+Loxodonta_africana	WBP2	ENSLAFG00000031545	WW	NA
+Loxodonta_africana	WNT4	ENSLAFG00000031555	Others	NA
+Loxodonta_africana	CBX2	ENSLAFG00000031850	Chromobox	NA
+Loxodonta_africana	EID3	ENSLAFG00000031970	EID	NA
+Loxodonta_africana	TNP1	ENSLAFG00000032172	Other_CRF	NA
+Loxodonta_africana	PAGR1	ENSLAFG00000032212	Others	NA
+Loxodonta_africana	ADRB2	ENSLAFG00000032235	Others	NA
+Loxodonta_africana	NAB2	ENSLAFG00000032283	Others	NA
+Loxodonta_africana	SERTAD2	ENSLAFG00000032288	Others	NA
+Loxodonta_africana	SIRT7	ENSLAFG00000032323	Sirtuin	NA
+Loxodonta_africana		ENSLAFG00000032634	Tripartite motif	NA
+Loxodonta_africana	ZNF703	ENSLAFG00000032676	Zinc finger	NA

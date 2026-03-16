@@ -1,0 +1,745 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Gasterosteus_aculeatus	rbl1	ENSGACG00000000024	Other_Co-activator/repressors	NA
+Gasterosteus_aculeatus	chd6	ENSGACG00000000037	CHD	NA
+Gasterosteus_aculeatus	raf1a	ENSGACG00000000060	Others	NA
+Gasterosteus_aculeatus	abt1	ENSGACG00000000295	Others	NA
+Gasterosteus_aculeatus	gnl3	ENSGACG00000000309	Others	NA
+Gasterosteus_aculeatus	epc2	ENSGACG00000000311	Others	NA
+Gasterosteus_aculeatus	mdm4	ENSGACG00000000347	Others	NA
+Gasterosteus_aculeatus	nab2	ENSGACG00000000450	Others	NA
+Gasterosteus_aculeatus	nelfcd	ENSGACG00000000502	GTF	NA
+Gasterosteus_aculeatus	txnipa	ENSGACG00000000514	Others	NA
+Gasterosteus_aculeatus	mrgbp	ENSGACG00000000527	Others	NA
+Gasterosteus_aculeatus	chtopa	ENSGACG00000000529	Others	NA
+Gasterosteus_aculeatus	cdk2	ENSGACG00000000539	Cyclin	NA
+Gasterosteus_aculeatus	ilf2	ENSGACG00000000543	Others	NA
+Gasterosteus_aculeatus	timeless	ENSGACG00000000545	Others	NA
+Gasterosteus_aculeatus	mcrs1	ENSGACG00000000557	Others	NA
+Gasterosteus_aculeatus	PHF21B	ENSGACG00000000567	PHF	NA
+Gasterosteus_aculeatus	epc1a	ENSGACG00000000573	Others	NA
+Gasterosteus_aculeatus	flncb	ENSGACG00000000642	Others	NA
+Gasterosteus_aculeatus	ing3	ENSGACG00000000654	ING	NA
+Gasterosteus_aculeatus	pfdn5	ENSGACG00000000681	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000000726	Others	NA
+Gasterosteus_aculeatus	med11	ENSGACG00000000744	Mediator complex	NA
+Gasterosteus_aculeatus	vhl	ENSGACG00000000755	Others	NA
+Gasterosteus_aculeatus	peli3	ENSGACG00000000782	Others	NA
+Gasterosteus_aculeatus	ruvbl1	ENSGACG00000000787	Other_CRF	NA
+Gasterosteus_aculeatus	taf6l	ENSGACG00000000799	TATA-box	NA
+Gasterosteus_aculeatus	uxt	ENSGACG00000000814	Others	NA
+Gasterosteus_aculeatus	men1	ENSGACG00000000817	Others	NA
+Gasterosteus_aculeatus	sf1	ENSGACG00000000826	Others	NA
+Gasterosteus_aculeatus	ash2l	ENSGACG00000000851	Others	NA
+Gasterosteus_aculeatus	DUSP26	ENSGACG00000000859	Others	NA
+Gasterosteus_aculeatus	H2AZ1	ENSGACG00000000870	Others	NA
+Gasterosteus_aculeatus	lancl2	ENSGACG00000000972	Others	NA
+Gasterosteus_aculeatus	WDR77	ENSGACG00000000986	WD	NA
+Gasterosteus_aculeatus	med20	ENSGACG00000001058	Mediator complex	NA
+Gasterosteus_aculeatus	ssu72	ENSGACG00000001090	Others	NA
+Gasterosteus_aculeatus	strap	ENSGACG00000001120	Others	NA
+Gasterosteus_aculeatus	HYAL2	ENSGACG00000001294	Others	NA
+Gasterosteus_aculeatus	ttf2	ENSGACG00000001351	Others	NA
+Gasterosteus_aculeatus	zmym2	ENSGACG00000001363	Zinc finger	NA
+Gasterosteus_aculeatus		ENSGACG00000001422	Others	NA
+Gasterosteus_aculeatus	taf1b	ENSGACG00000001470	TATA-box	NA
+Gasterosteus_aculeatus	gtf2h4	ENSGACG00000001471	GTF	NA
+Gasterosteus_aculeatus	rereb	ENSGACG00000001510	Others	NA
+Gasterosteus_aculeatus	camk2d1	ENSGACG00000001606	CAMK	NA
+Gasterosteus_aculeatus	waca	ENSGACG00000001666	WW	NA
+Gasterosteus_aculeatus	eaf1	ENSGACG00000001692	Others	NA
+Gasterosteus_aculeatus	park7	ENSGACG00000001699	Others	NA
+Gasterosteus_aculeatus	mycbp2	ENSGACG00000001746	MYC	NA
+Gasterosteus_aculeatus	taf9	ENSGACG00000001782	TATA-box	NA
+Gasterosteus_aculeatus	arrb2a	ENSGACG00000001796	Others	NA
+Gasterosteus_aculeatus	daxx	ENSGACG00000001844	Other_CRF	NA
+Gasterosteus_aculeatus	siah2l	ENSGACG00000001857	Others	NA
+Gasterosteus_aculeatus	wwp1	ENSGACG00000001862	WW	NA
+Gasterosteus_aculeatus	med31	ENSGACG00000001916	Mediator complex	NA
+Gasterosteus_aculeatus	nup98	ENSGACG00000001942	Others	NA
+Gasterosteus_aculeatus	med14	ENSGACG00000002015	Mediator complex	NA
+Gasterosteus_aculeatus	prmt6	ENSGACG00000002056	Arginine methyltransferase	NA
+Gasterosteus_aculeatus	RBFOX3	ENSGACG00000002138	Others	NA
+Gasterosteus_aculeatus	kat6b	ENSGACG00000002173	Lysine acetyltransferase	NA
+Gasterosteus_aculeatus	wwp2	ENSGACG00000002184	WW	NA
+Gasterosteus_aculeatus	ccnt2a	ENSGACG00000002186	Cyclin	NA
+Gasterosteus_aculeatus	hdac4	ENSGACG00000002228	Histone deacetylase	NA
+Gasterosteus_aculeatus	prmt7	ENSGACG00000002229	Arginine methyltransferase	NA
+Gasterosteus_aculeatus	ZNF503	ENSGACG00000002242	Zinc finger	NA
+Gasterosteus_aculeatus	KDM1B	ENSGACG00000002257	Lysine demethylase	NA
+Gasterosteus_aculeatus	MYOCD	ENSGACG00000002295	Others	NA
+Gasterosteus_aculeatus	mak	ENSGACG00000002347	Others	NA
+Gasterosteus_aculeatus	si:ch211-219a4.3	ENSGACG00000002353	PARP	NA
+Gasterosteus_aculeatus		ENSGACG00000002367	PARP	NA
+Gasterosteus_aculeatus	ascc1	ENSGACG00000002371	ASCC	NA
+Gasterosteus_aculeatus	eya3	ENSGACG00000002372	EYA	NA
+Gasterosteus_aculeatus	pex2	ENSGACG00000002421	Others	NA
+Gasterosteus_aculeatus	cdyl	ENSGACG00000002459	Chromodomain Y	NA
+Gasterosteus_aculeatus	bmi1a	ENSGACG00000002494	Others	NA
+Gasterosteus_aculeatus	cdk1	ENSGACG00000002518	Cyclin	NA
+Gasterosteus_aculeatus	cnot9	ENSGACG00000002543	CCR4-NOT	NA
+Gasterosteus_aculeatus	prpf6	ENSGACG00000002576	Others	NA
+Gasterosteus_aculeatus	setd6	ENSGACG00000002601	SET	NA
+Gasterosteus_aculeatus	cnot1	ENSGACG00000002606	CCR4-NOT	NA
+Gasterosteus_aculeatus	meaf6	ENSGACG00000002615	Others	NA
+Gasterosteus_aculeatus	DCAF1	ENSGACG00000002685	Others	NA
+Gasterosteus_aculeatus	grip2a	ENSGACG00000002707	Others	NA
+Gasterosteus_aculeatus	eloca	ENSGACG00000002748	Others	NA
+Gasterosteus_aculeatus	rbm39b	ENSGACG00000002797	RNA binding protein	NA
+Gasterosteus_aculeatus	ncoa2	ENSGACG00000002822	Nuclear receptor coactivator	NA
+Gasterosteus_aculeatus	cops5	ENSGACG00000002896	Others	NA
+Gasterosteus_aculeatus	btaf1	ENSGACG00000002936	Others	NA
+Gasterosteus_aculeatus	CRTC2	ENSGACG00000002942	CREB	NA
+Gasterosteus_aculeatus	FHL2	ENSGACG00000003005	FHL	NA
+Gasterosteus_aculeatus	med30	ENSGACG00000003014	Mediator complex	NA
+Gasterosteus_aculeatus	trim8b	ENSGACG00000003086	Tripartite motif	NA
+Gasterosteus_aculeatus	cdk8	ENSGACG00000003151	Cyclin	NA
+Gasterosteus_aculeatus	rnf6	ENSGACG00000003167	Ring finger protein	NA
+Gasterosteus_aculeatus	pdlim1	ENSGACG00000003243	Others	NA
+Gasterosteus_aculeatus	pcbd1	ENSGACG00000003259	Others	NA
+Gasterosteus_aculeatus	taf11	ENSGACG00000003275	TATA-box	NA
+Gasterosteus_aculeatus	nelfb	ENSGACG00000003381	GTF	NA
+Gasterosteus_aculeatus	fgfr2	ENSGACG00000003443	FGF	NA
+Gasterosteus_aculeatus	YWHAB	ENSGACG00000003522	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000003556	Transducin	NA
+Gasterosteus_aculeatus		ENSGACG00000003572	Other_CRF	NA
+Gasterosteus_aculeatus	mtdha	ENSGACG00000003591	Others	NA
+Gasterosteus_aculeatus	nck1a	ENSGACG00000003608	Others	NA
+Gasterosteus_aculeatus	gsk3bb	ENSGACG00000003629	Others	NA
+Gasterosteus_aculeatus	raly	ENSGACG00000003636	Others	NA
+Gasterosteus_aculeatus	stk3	ENSGACG00000003645	Others	NA
+Gasterosteus_aculeatus	hck	ENSGACG00000003658	Others	NA
+Gasterosteus_aculeatus	bcl9	ENSGACG00000003683	BCL	NA
+Gasterosteus_aculeatus	chaf1b	ENSGACG00000003690	Others	NA
+Gasterosteus_aculeatus	cdkn1bb	ENSGACG00000003748	Cyclin	NA
+Gasterosteus_aculeatus	gtf2h2	ENSGACG00000003759	GTF	NA
+Gasterosteus_aculeatus	sap130a	ENSGACG00000003760	SAP	NA
+Gasterosteus_aculeatus	cdk5r1b	ENSGACG00000003801	Cyclin	NA
+Gasterosteus_aculeatus	tbl1x	ENSGACG00000003842	Transducin	NA
+Gasterosteus_aculeatus	lpp	ENSGACG00000003843	Thyroid hormone receptor	NA
+Gasterosteus_aculeatus	hdac10	ENSGACG00000003854	Histone deacetylase	NA
+Gasterosteus_aculeatus	cdk5rap3	ENSGACG00000003875	Cyclin	NA
+Gasterosteus_aculeatus	aatf	ENSGACG00000003882	Others	NA
+Gasterosteus_aculeatus	hells	ENSGACG00000003897	Others	NA
+Gasterosteus_aculeatus	skap1	ENSGACG00000003929	Others	NA
+Gasterosteus_aculeatus	lmcd1	ENSGACG00000003930	LIM	NA
+Gasterosteus_aculeatus	med8	ENSGACG00000003948	Mediator complex	NA
+Gasterosteus_aculeatus	nuak1b	ENSGACG00000003957	Others	NA
+Gasterosteus_aculeatus	sertad2b	ENSGACG00000003958	Others	NA
+Gasterosteus_aculeatus	si:ch73-174h16.4	ENSGACG00000003991	Others	NA
+Gasterosteus_aculeatus	rbbp5	ENSGACG00000004043	RBBP	NA
+Gasterosteus_aculeatus	snx6	ENSGACG00000004071	Others	NA
+Gasterosteus_aculeatus	yaf2	ENSGACG00000004103	Others	NA
+Gasterosteus_aculeatus	dr1	ENSGACG00000004108	Others	NA
+Gasterosteus_aculeatus	pim1	ENSGACG00000004133	Others	NA
+Gasterosteus_aculeatus	ikbkb	ENSGACG00000004136	Others	NA
+Gasterosteus_aculeatus	zgc:162255	ENSGACG00000004147	Other_CRF	NA
+Gasterosteus_aculeatus	BAZ1A	ENSGACG00000004158	Bromodomain	NA
+Gasterosteus_aculeatus	egln1a	ENSGACG00000004174	Others	NA
+Gasterosteus_aculeatus	CHUK	ENSGACG00000004179	Others	NA
+Gasterosteus_aculeatus	dyrk1b	ENSGACG00000004191	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000004199	Others	NA
+Gasterosteus_aculeatus	trib3	ENSGACG00000004291	Others	NA
+Gasterosteus_aculeatus	brdt	ENSGACG00000004301	Bromodomain	NA
+Gasterosteus_aculeatus	ino80da	ENSGACG00000004314	INO80 complex	NA
+Gasterosteus_aculeatus	tgfbr3	ENSGACG00000004328	Others	NA
+Gasterosteus_aculeatus	rrn3	ENSGACG00000004364	Others	NA
+Gasterosteus_aculeatus	cnot10	ENSGACG00000004406	CCR4-NOT	NA
+Gasterosteus_aculeatus	taf3	ENSGACG00000004409	TATA-box	NA
+Gasterosteus_aculeatus	elp3	ENSGACG00000004427	ELP	NA
+Gasterosteus_aculeatus	mrtfba	ENSGACG00000004442	Others	NA
+Gasterosteus_aculeatus	taf2	ENSGACG00000004480	TATA-box	NA
+Gasterosteus_aculeatus	s100s	ENSGACG00000004501	Others	NA
+Gasterosteus_aculeatus	arrb1	ENSGACG00000004570	Others	NA
+Gasterosteus_aculeatus	jade1	ENSGACG00000004571	Others	NA
+Gasterosteus_aculeatus	smarcd3b	ENSGACG00000004586	SWI/SNF	NA
+Gasterosteus_aculeatus	tdp2b	ENSGACG00000004644	Others	NA
+Gasterosteus_aculeatus	hnrnpub	ENSGACG00000004679	HNRNP	NA
+Gasterosteus_aculeatus	gmnn	ENSGACG00000004689	Others	NA
+Gasterosteus_aculeatus	puf60b	ENSGACG00000004717	Others	NA
+Gasterosteus_aculeatus	CIR1	ENSGACG00000004749	Other_Co-activator/repressors	NA
+Gasterosteus_aculeatus	phf5a	ENSGACG00000004777	PHF	NA
+Gasterosteus_aculeatus	padi2	ENSGACG00000004797	Other_CRF	NA
+Gasterosteus_aculeatus	rprd1a	ENSGACG00000004817	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000004838	Transducin	NA
+Gasterosteus_aculeatus	cbx7b	ENSGACG00000004855	Chromobox	NA
+Gasterosteus_aculeatus	xrcc6	ENSGACG00000004868	Others	NA
+Gasterosteus_aculeatus	mtor	ENSGACG00000004869	Others	NA
+Gasterosteus_aculeatus	sirt5	ENSGACG00000004877	Sirtuin	NA
+Gasterosteus_aculeatus	prmt1	ENSGACG00000004897	Arginine methyltransferase	NA
+Gasterosteus_aculeatus	loxl3b	ENSGACG00000004902	Others	NA
+Gasterosteus_aculeatus	mms19	ENSGACG00000004915	Others	NA
+Gasterosteus_aculeatus	supt5h	ENSGACG00000004934	SUPT	NA
+Gasterosteus_aculeatus	hat1	ENSGACG00000004939	Others	NA
+Gasterosteus_aculeatus	trim33	ENSGACG00000004973	Tripartite motif	NA
+Gasterosteus_aculeatus	cdk13	ENSGACG00000004982	Cyclin	NA
+Gasterosteus_aculeatus	kat2b	ENSGACG00000004986	Lysine acetyltransferase	NA
+Gasterosteus_aculeatus	nlk2	ENSGACG00000004996	Others	NA
+Gasterosteus_aculeatus	mrtfab	ENSGACG00000005014	Others	NA
+Gasterosteus_aculeatus	nsmce4a	ENSGACG00000005042	EID	NA
+Gasterosteus_aculeatus	sap30bp	ENSGACG00000005046	SAP	NA
+Gasterosteus_aculeatus	runx1t1	ENSGACG00000005059	Others	NA
+Gasterosteus_aculeatus	nfkbiaa	ENSGACG00000005065	NFKB associated	NA
+Gasterosteus_aculeatus	snapc5	ENSGACG00000005078	Others	NA
+Gasterosteus_aculeatus	brms1lb	ENSGACG00000005093	Other_CRF	NA
+Gasterosteus_aculeatus	tnni1b	ENSGACG00000005095	Others	NA
+Gasterosteus_aculeatus	wbp2	ENSGACG00000005127	WW	NA
+Gasterosteus_aculeatus	tle3b	ENSGACG00000005213	Transducin	NA
+Gasterosteus_aculeatus	gtf2a1	ENSGACG00000005224	GTF	NA
+Gasterosteus_aculeatus	hdac5	ENSGACG00000005250	Histone deacetylase	NA
+Gasterosteus_aculeatus	eny2	ENSGACG00000005281	Others	NA
+Gasterosteus_aculeatus	snw1	ENSGACG00000005310	Others	NA
+Gasterosteus_aculeatus	psen1	ENSGACG00000005327	Others	NA
+Gasterosteus_aculeatus	spen	ENSGACG00000005341	Others	NA
+Gasterosteus_aculeatus	mad2l2	ENSGACG00000005361	Others	NA
+Gasterosteus_aculeatus	loxl2b	ENSGACG00000005422	Others	NA
+Gasterosteus_aculeatus	crk	ENSGACG00000005430	Others	NA
+Gasterosteus_aculeatus	pidd1	ENSGACG00000005514	Others	NA
+Gasterosteus_aculeatus	carm1	ENSGACG00000005531	Others	NA
+Gasterosteus_aculeatus	rasd1	ENSGACG00000005572	Others	NA
+Gasterosteus_aculeatus	nsd3	ENSGACG00000005630	Nuclear receptor coactivator	NA
+Gasterosteus_aculeatus	gtf2h1	ENSGACG00000005659	GTF	NA
+Gasterosteus_aculeatus		ENSGACG00000005670	Others	NA
+Gasterosteus_aculeatus	atad2	ENSGACG00000005685	Others	NA
+Gasterosteus_aculeatus	KCNIP3	ENSGACG00000005703	Others	NA
+Gasterosteus_aculeatus	sirt2	ENSGACG00000005747	Sirtuin	NA
+Gasterosteus_aculeatus	smarcd1	ENSGACG00000005758	SWI/SNF	NA
+Gasterosteus_aculeatus	vgll2a	ENSGACG00000005852	Vestigial like	NA
+Gasterosteus_aculeatus	si:dkey-85a20.4	ENSGACG00000005865	Others	NA
+Gasterosteus_aculeatus	itcha	ENSGACG00000005875	Others	NA
+Gasterosteus_aculeatus	dpf1	ENSGACG00000005880	DPF	NA
+Gasterosteus_aculeatus	actr8	ENSGACG00000005905	ACTR	NA
+Gasterosteus_aculeatus	eya2	ENSGACG00000005912	EYA	NA
+Gasterosteus_aculeatus	elp2	ENSGACG00000005913	ELP	NA
+Gasterosteus_aculeatus	depdc1a	ENSGACG00000005920	Others	NA
+Gasterosteus_aculeatus	trak1a	ENSGACG00000006003	Others	NA
+Gasterosteus_aculeatus	med1	ENSGACG00000006033	Mediator complex	NA
+Gasterosteus_aculeatus	ctnnb1	ENSGACG00000006037	Casein	NA
+Gasterosteus_aculeatus	cbfa2t2	ENSGACG00000006075	Others	NA
+Gasterosteus_aculeatus	DDX39A	ENSGACG00000006096	RNA helicase	NA
+Gasterosteus_aculeatus		ENSGACG00000006132	Others	NA
+Gasterosteus_aculeatus	actr5	ENSGACG00000006257	ACTR	NA
+Gasterosteus_aculeatus	rad21a	ENSGACG00000006276	Others	NA
+Gasterosteus_aculeatus	prmt2	ENSGACG00000006286	Arginine methyltransferase	NA
+Gasterosteus_aculeatus	ufl1	ENSGACG00000006287	Others	NA
+Gasterosteus_aculeatus	rprd1b	ENSGACG00000006318	Others	NA
+Gasterosteus_aculeatus	frk	ENSGACG00000006319	Others	NA
+Gasterosteus_aculeatus	taf10	ENSGACG00000006435	TATA-box	NA
+Gasterosteus_aculeatus	erbb4b	ENSGACG00000006497	Erbb2	NA
+Gasterosteus_aculeatus	adrb1	ENSGACG00000006578	Others	NA
+Gasterosteus_aculeatus	smyd1b	ENSGACG00000006585	SMYD	NA
+Gasterosteus_aculeatus	pih1d1	ENSGACG00000006615	Other_CRF	NA
+Gasterosteus_aculeatus	smarca4a	ENSGACG00000006691	SWI/SNF	NA
+Gasterosteus_aculeatus	ago2	ENSGACG00000006796	Others	NA
+Gasterosteus_aculeatus	tdg.1	ENSGACG00000006809	Others	NA
+Gasterosteus_aculeatus	smarcd2	ENSGACG00000006989	SWI/SNF	NA
+Gasterosteus_aculeatus	smurf2	ENSGACG00000007003	Others	NA
+Gasterosteus_aculeatus	ddx5	ENSGACG00000007026	RNA helicase	NA
+Gasterosteus_aculeatus	cbx3a	ENSGACG00000007069	Chromobox	NA
+Gasterosteus_aculeatus	LIMD1	ENSGACG00000007087	LIM	NA
+Gasterosteus_aculeatus	pex14	ENSGACG00000007105	Others	NA
+Gasterosteus_aculeatus	erbb2	ENSGACG00000007160	Erbb2	NA
+Gasterosteus_aculeatus	ppie	ENSGACG00000007165	Others	NA
+Gasterosteus_aculeatus	wdtc1	ENSGACG00000007170	WD	NA
+Gasterosteus_aculeatus	hdac1	ENSGACG00000007221	Histone deacetylase	NA
+Gasterosteus_aculeatus	TGFB1I1	ENSGACG00000007235	Others	NA
+Gasterosteus_aculeatus	sufu	ENSGACG00000007257	Others	NA
+Gasterosteus_aculeatus	npm3	ENSGACG00000007294	Nucleoplasmin	NA
+Gasterosteus_aculeatus	ctnnbip1	ENSGACG00000007303	Casein	NA
+Gasterosteus_aculeatus	smarcad1a	ENSGACG00000007327	SWI/SNF	NA
+Gasterosteus_aculeatus	vgll4b	ENSGACG00000007347	Vestigial like	NA
+Gasterosteus_aculeatus	noc2l	ENSGACG00000007367	Others	NA
+Gasterosteus_aculeatus	wdr61	ENSGACG00000007380	WD	NA
+Gasterosteus_aculeatus	eno1a	ENSGACG00000007396	Others	NA
+Gasterosteus_aculeatus	gtf2e1	ENSGACG00000007408	GTF	NA
+Gasterosteus_aculeatus	sin3aa	ENSGACG00000007425	Other_CRF	NA
+Gasterosteus_aculeatus	pid1	ENSGACG00000007440	Others	NA
+Gasterosteus_aculeatus	tprb	ENSGACG00000007456	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000007510	Transducin	NA
+Gasterosteus_aculeatus	pagr1	ENSGACG00000007554	Others	NA
+Gasterosteus_aculeatus	hnrnpk	ENSGACG00000007581	HNRNP	NA
+Gasterosteus_aculeatus	baz1b	ENSGACG00000007613	Bromodomain	NA
+Gasterosteus_aculeatus	mllt1b	ENSGACG00000007614	GTF	NA
+Gasterosteus_aculeatus	nif3l1	ENSGACG00000007615	Others	NA
+Gasterosteus_aculeatus	TOB2	ENSGACG00000007621	Others	NA
+Gasterosteus_aculeatus	clu	ENSGACG00000007631	Others	NA
+Gasterosteus_aculeatus	kmt2bb	ENSGACG00000007639	Lysine methyltransferase	NA
+Gasterosteus_aculeatus	rbx1	ENSGACG00000007657	Others	NA
+Gasterosteus_aculeatus	nipbla	ENSGACG00000007706	Others	NA
+Gasterosteus_aculeatus	ep300b	ENSGACG00000007707	Others	NA
+Gasterosteus_aculeatus	bud31	ENSGACG00000007759	Others	NA
+Gasterosteus_aculeatus	csnk2a1	ENSGACG00000007770	Casein	NA
+Gasterosteus_aculeatus	rbl2	ENSGACG00000007787	Other_Co-activator/repressors	NA
+Gasterosteus_aculeatus	phf21ab	ENSGACG00000007895	PHF	NA
+Gasterosteus_aculeatus	hspa1b	ENSGACG00000007903	Heat shock protein	NA
+Gasterosteus_aculeatus	ccar1	ENSGACG00000007905	Others	NA
+Gasterosteus_aculeatus	smurf1	ENSGACG00000007912	Others	NA
+Gasterosteus_aculeatus	actr6	ENSGACG00000007919	ACTR	NA
+Gasterosteus_aculeatus	rbm15	ENSGACG00000007932	RNA binding protein	NA
+Gasterosteus_aculeatus	cnot11	ENSGACG00000007941	CCR4-NOT	NA
+Gasterosteus_aculeatus	hdac7b	ENSGACG00000007965	Histone deacetylase	NA
+Gasterosteus_aculeatus	med4	ENSGACG00000008017	Mediator complex	NA
+Gasterosteus_aculeatus	rexo4	ENSGACG00000008065	Others	NA
+Gasterosteus_aculeatus	gtf2h3	ENSGACG00000008083	GTF	NA
+Gasterosteus_aculeatus	frzb	ENSGACG00000008168	Others	NA
+Gasterosteus_aculeatus	CASK	ENSGACG00000008227	CAMK	NA
+Gasterosteus_aculeatus	flii	ENSGACG00000008421	Others	NA
+Gasterosteus_aculeatus	mnat1	ENSGACG00000008443	Others	NA
+Gasterosteus_aculeatus	hif1an	ENSGACG00000008460	Others	NA
+Gasterosteus_aculeatus	EZH1	ENSGACG00000008492	Others	NA
+Gasterosteus_aculeatus	med24	ENSGACG00000008529	Mediator complex	NA
+Gasterosteus_aculeatus	trip13	ENSGACG00000008559	Thyroid hormone receptor	NA
+Gasterosteus_aculeatus	crtc1b	ENSGACG00000008574	CREB	NA
+Gasterosteus_aculeatus	RBBP4	ENSGACG00000008586	RBBP	NA
+Gasterosteus_aculeatus	ewsr1b	ENSGACG00000008603	Others	NA
+Gasterosteus_aculeatus	ctdp1	ENSGACG00000008676	Others	NA
+Gasterosteus_aculeatus	kat2a	ENSGACG00000008679	Lysine acetyltransferase	NA
+Gasterosteus_aculeatus	ino80c	ENSGACG00000008750	INO80 complex	NA
+Gasterosteus_aculeatus	phf8	ENSGACG00000008770	PHF	NA
+Gasterosteus_aculeatus	si:ch1073-296d18.1	ENSGACG00000008798	PARP	NA
+Gasterosteus_aculeatus	gtf2h5	ENSGACG00000008827	GTF	NA
+Gasterosteus_aculeatus		ENSGACG00000008888	Others	NA
+Gasterosteus_aculeatus	ell2	ENSGACG00000008906	GTF	NA
+Gasterosteus_aculeatus	chchd2	ENSGACG00000008962	Coiled-coil	NA
+Gasterosteus_aculeatus	ncl	ENSGACG00000008970	Others	NA
+Gasterosteus_aculeatus	med10	ENSGACG00000008989	Mediator complex	NA
+Gasterosteus_aculeatus	kmt2a	ENSGACG00000009009	Lysine methyltransferase	NA
+Gasterosteus_aculeatus	kmt2d	ENSGACG00000009038	Lysine methyltransferase	NA
+Gasterosteus_aculeatus		ENSGACG00000009055	Others	NA
+Gasterosteus_aculeatus	CBL	ENSGACG00000009060	Others	NA
+Gasterosteus_aculeatus	nlrc3	ENSGACG00000009105	Others	NA
+Gasterosteus_aculeatus	pa2g4b	ENSGACG00000009161	Others	NA
+Gasterosteus_aculeatus	tonsl	ENSGACG00000009209	Others	NA
+Gasterosteus_aculeatus	med29	ENSGACG00000009231	Mediator complex	NA
+Gasterosteus_aculeatus	rgcc	ENSGACG00000009239	Others	NA
+Gasterosteus_aculeatus	znf593	ENSGACG00000009279	Zinc finger	NA
+Gasterosteus_aculeatus	kdm6a	ENSGACG00000009303	Lysine demethylase	NA
+Gasterosteus_aculeatus	trrap	ENSGACG00000009311	Others	NA
+Gasterosteus_aculeatus	calcoco1a	ENSGACG00000009377	Others	NA
+Gasterosteus_aculeatus	cthl	ENSGACG00000009382	Others	NA
+Gasterosteus_aculeatus	cep290	ENSGACG00000009388	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000009502	Others	NA
+Gasterosteus_aculeatus	SFMBT1	ENSGACG00000009541	Others	NA
+Gasterosteus_aculeatus	crym	ENSGACG00000009554	Others	NA
+Gasterosteus_aculeatus	lrrk2	ENSGACG00000009572	Other_CRF	NA
+Gasterosteus_aculeatus		ENSGACG00000009590	Others	NA
+Gasterosteus_aculeatus	thoc5	ENSGACG00000009614	Others	NA
+Gasterosteus_aculeatus	ino80e	ENSGACG00000009624	INO80 complex	NA
+Gasterosteus_aculeatus	edrf1	ENSGACG00000009631	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000009651	Others	NA
+Gasterosteus_aculeatus	kdm1a	ENSGACG00000009679	Lysine demethylase	NA
+Gasterosteus_aculeatus	birc5a	ENSGACG00000009685	Others	NA
+Gasterosteus_aculeatus	rnf141	ENSGACG00000009717	Ring finger protein	NA
+Gasterosteus_aculeatus		ENSGACG00000009744	LIM	NA
+Gasterosteus_aculeatus	RING1	ENSGACG00000009833	Ring finger protein	NA
+Gasterosteus_aculeatus	cdk7	ENSGACG00000009848	Cyclin	NA
+Gasterosteus_aculeatus	tada3l	ENSGACG00000009851	Transcriptional adaptor	NA
+Gasterosteus_aculeatus	actl6a	ENSGACG00000009940	Actin	NA
+Gasterosteus_aculeatus	ezrb	ENSGACG00000010010	Others	NA
+Gasterosteus_aculeatus	zmynd8	ENSGACG00000010012	Zinc finger	NA
+Gasterosteus_aculeatus	ncoa3	ENSGACG00000010036	Nuclear receptor coactivator	NA
+Gasterosteus_aculeatus	taf1a	ENSGACG00000010065	TATA-box	NA
+Gasterosteus_aculeatus	phf20a	ENSGACG00000010085	PHF	NA
+Gasterosteus_aculeatus	tab3	ENSGACG00000010107	Others	NA
+Gasterosteus_aculeatus	si:ch211-130m23.3	ENSGACG00000010152	Others	NA
+Gasterosteus_aculeatus	top1l	ENSGACG00000010175	Other_CRF	NA
+Gasterosteus_aculeatus	actn2b	ENSGACG00000010178	Actin	NA
+Gasterosteus_aculeatus	heatr1	ENSGACG00000010205	Others	NA
+Gasterosteus_aculeatus	hcfc1a	ENSGACG00000010222	Others	NA
+Gasterosteus_aculeatus	ccnh	ENSGACG00000010245	Cyclin	NA
+Gasterosteus_aculeatus	ecd	ENSGACG00000010249	Others	NA
+Gasterosteus_aculeatus	dmap1	ENSGACG00000010250	DNA_methylase	NA
+Gasterosteus_aculeatus	dnmt3bb.1	ENSGACG00000010273	DNA_methylase	NA
+Gasterosteus_aculeatus	dhx36	ENSGACG00000010276	RNA helicase	NA
+Gasterosteus_aculeatus	NCOA7	ENSGACG00000010278	Nuclear receptor coactivator	NA
+Gasterosteus_aculeatus	lbh	ENSGACG00000010360	Others	NA
+Gasterosteus_aculeatus	dnajb1a	ENSGACG00000010423	Others	NA
+Gasterosteus_aculeatus	cry3a	ENSGACG00000010460	Others	NA
+Gasterosteus_aculeatus	picalmb	ENSGACG00000010488	Others	NA
+Gasterosteus_aculeatus	TGFB3	ENSGACG00000010565	Others	NA
+Gasterosteus_aculeatus	lzts1	ENSGACG00000010595	Others	NA
+Gasterosteus_aculeatus	HINT1	ENSGACG00000010631	Others	NA
+Gasterosteus_aculeatus	ela3l	ENSGACG00000010640	Others	NA
+Gasterosteus_aculeatus	med27	ENSGACG00000010655	Mediator complex	NA
+Gasterosteus_aculeatus	lrpprc	ENSGACG00000010679	Others	NA
+Gasterosteus_aculeatus	ice2	ENSGACG00000010682	GTF	NA
+Gasterosteus_aculeatus	phf19	ENSGACG00000010695	PHF	NA
+Gasterosteus_aculeatus	hltf	ENSGACG00000010755	Others	NA
+Gasterosteus_aculeatus	sin3b	ENSGACG00000010766	Others	NA
+Gasterosteus_aculeatus	SAMD4B	ENSGACG00000010797	Others	NA
+Gasterosteus_aculeatus	arhgap5	ENSGACG00000010805	Others	NA
+Gasterosteus_aculeatus	paf1	ENSGACG00000010818	Others	NA
+Gasterosteus_aculeatus	blm	ENSGACG00000010863	Others	NA
+Gasterosteus_aculeatus	wnt4	ENSGACG00000010904	Others	NA
+Gasterosteus_aculeatus	eya4	ENSGACG00000010932	EYA	NA
+Gasterosteus_aculeatus	tbpl1	ENSGACG00000010959	TATA-box	NA
+Gasterosteus_aculeatus	SGK1	ENSGACG00000010973	Others	NA
+Gasterosteus_aculeatus	med22	ENSGACG00000011009	Mediator complex	NA
+Gasterosteus_aculeatus	ankrd1a	ENSGACG00000011020	Ankyrin repeat	NA
+Gasterosteus_aculeatus	ing5a	ENSGACG00000011045	ING	NA
+Gasterosteus_aculeatus	pcgf5a	ENSGACG00000011051	PCGF	NA
+Gasterosteus_aculeatus	hdac11	ENSGACG00000011150	Histone deacetylase	NA
+Gasterosteus_aculeatus	ddx1	ENSGACG00000011162	RNA helicase	NA
+Gasterosteus_aculeatus	pole4	ENSGACG00000011233	Other_CRF	NA
+Gasterosteus_aculeatus	dnaja3a	ENSGACG00000011295	Others	NA
+Gasterosteus_aculeatus	tsg101a	ENSGACG00000011311	Others	NA
+Gasterosteus_aculeatus	lin9	ENSGACG00000011327	Others	NA
+Gasterosteus_aculeatus	pink1	ENSGACG00000011338	Others	NA
+Gasterosteus_aculeatus	crebbpb	ENSGACG00000011341	CREB	NA
+Gasterosteus_aculeatus	ILK	ENSGACG00000011346	Others	NA
+Gasterosteus_aculeatus	src	ENSGACG00000011349	Others	NA
+Gasterosteus_aculeatus	taf8	ENSGACG00000011366	TATA-box	NA
+Gasterosteus_aculeatus	apbb1	ENSGACG00000011369	Others	NA
+Gasterosteus_aculeatus	safb	ENSGACG00000011385	Others	NA
+Gasterosteus_aculeatus	cnot3a	ENSGACG00000011489	CCR4-NOT	NA
+Gasterosteus_aculeatus		ENSGACG00000011518	Others	NA
+Gasterosteus_aculeatus	ccnt1	ENSGACG00000011626	Cyclin	NA
+Gasterosteus_aculeatus	banp	ENSGACG00000011647	Others	NA
+Gasterosteus_aculeatus	ern1	ENSGACG00000011700	Others	NA
+Gasterosteus_aculeatus	supt3h	ENSGACG00000011726	SUPT	NA
+Gasterosteus_aculeatus		ENSGACG00000011732	Others	NA
+Gasterosteus_aculeatus	nono	ENSGACG00000011824	Others	NA
+Gasterosteus_aculeatus	polr3c	ENSGACG00000011829	POLR	NA
+Gasterosteus_aculeatus	sav1	ENSGACG00000011862	Others	NA
+Gasterosteus_aculeatus	KDM5B	ENSGACG00000011868	Lysine demethylase	NA
+Gasterosteus_aculeatus	xrn2	ENSGACG00000011870	Others	NA
+Gasterosteus_aculeatus	DTX1	ENSGACG00000011938	Others	NA
+Gasterosteus_aculeatus	thrsp	ENSGACG00000012003	Others	NA
+Gasterosteus_aculeatus	actn1	ENSGACG00000012063	Actin	NA
+Gasterosteus_aculeatus	rai1	ENSGACG00000012074	Others	NA
+Gasterosteus_aculeatus	cxxc1b	ENSGACG00000012117	Others	NA
+Gasterosteus_aculeatus	pqbp1	ENSGACG00000012123	Others	NA
+Gasterosteus_aculeatus	med6	ENSGACG00000012135	Mediator complex	NA
+Gasterosteus_aculeatus	yap1	ENSGACG00000012139	Others	NA
+Gasterosteus_aculeatus	kdm5c	ENSGACG00000012163	Lysine demethylase	NA
+Gasterosteus_aculeatus	rtf1	ENSGACG00000012195	Others	NA
+Gasterosteus_aculeatus	trip11	ENSGACG00000012223	Thyroid hormone receptor	NA
+Gasterosteus_aculeatus	bcl9l	ENSGACG00000012279	BCL	NA
+Gasterosteus_aculeatus	ncoa4	ENSGACG00000012317	Nuclear receptor coactivator	NA
+Gasterosteus_aculeatus	ep400	ENSGACG00000012328	Others	NA
+Gasterosteus_aculeatus	pycard	ENSGACG00000012351	Others	NA
+Gasterosteus_aculeatus	aurkaip1	ENSGACG00000012359	Others	NA
+Gasterosteus_aculeatus	trib2	ENSGACG00000012406	Others	NA
+Gasterosteus_aculeatus	ercc2	ENSGACG00000012407	Others	NA
+Gasterosteus_aculeatus	fgfr1a	ENSGACG00000012410	FGF	NA
+Gasterosteus_aculeatus	notch2	ENSGACG00000012442	Notch	NA
+Gasterosteus_aculeatus	ago1	ENSGACG00000012443	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000012481	Others	NA
+Gasterosteus_aculeatus	orc2	ENSGACG00000012499	Others	NA
+Gasterosteus_aculeatus	ezh2	ENSGACG00000012507	Others	NA
+Gasterosteus_aculeatus	ssbp4	ENSGACG00000012509	Others	NA
+Gasterosteus_aculeatus	ccne1	ENSGACG00000012549	Cyclin	NA
+Gasterosteus_aculeatus	tob1a	ENSGACG00000012584	Others	NA
+Gasterosteus_aculeatus	ell	ENSGACG00000012588	GTF	NA
+Gasterosteus_aculeatus	gtf2f1	ENSGACG00000012677	GTF	NA
+Gasterosteus_aculeatus	rnf10	ENSGACG00000012715	Ring finger protein	NA
+Gasterosteus_aculeatus	bend3	ENSGACG00000012772	Others	NA
+Gasterosteus_aculeatus	suv39h1a	ENSGACG00000012784	Others	NA
+Gasterosteus_aculeatus	tnksb	ENSGACG00000012837	Others	NA
+Gasterosteus_aculeatus	supt7l	ENSGACG00000012880	SUPT	NA
+Gasterosteus_aculeatus	strn3	ENSGACG00000012892	Others	NA
+Gasterosteus_aculeatus	ino80	ENSGACG00000012960	INO80 complex	NA
+Gasterosteus_aculeatus		ENSGACG00000013037	Bromodomain	NA
+Gasterosteus_aculeatus	setd3	ENSGACG00000013126	SET	NA
+Gasterosteus_aculeatus	ACTN4	ENSGACG00000013140	Actin	NA
+Gasterosteus_aculeatus	ikbkg	ENSGACG00000013173	Others	NA
+Gasterosteus_aculeatus	med23	ENSGACG00000013187	Mediator complex	NA
+Gasterosteus_aculeatus	med17	ENSGACG00000013203	Mediator complex	NA
+Gasterosteus_aculeatus	ss18	ENSGACG00000013236	SS18	NA
+Gasterosteus_aculeatus	recql5	ENSGACG00000013287	Others	NA
+Gasterosteus_aculeatus	ccnc	ENSGACG00000013322	Cyclin	NA
+Gasterosteus_aculeatus	rtel1	ENSGACG00000013324	Others	NA
+Gasterosteus_aculeatus	ALYREF	ENSGACG00000013328	Others	NA
+Gasterosteus_aculeatus	uri1	ENSGACG00000013365	Others	NA
+Gasterosteus_aculeatus	med16	ENSGACG00000013385	Mediator complex	NA
+Gasterosteus_aculeatus	si:ch73-21k16.1	ENSGACG00000013437	LPIN	NA
+Gasterosteus_aculeatus	rnf8	ENSGACG00000013471	Ring finger protein	NA
+Gasterosteus_aculeatus	per2	ENSGACG00000013485	Others	NA
+Gasterosteus_aculeatus	med25	ENSGACG00000013490	Mediator complex	NA
+Gasterosteus_aculeatus	cnot2	ENSGACG00000013517	CCR4-NOT	NA
+Gasterosteus_aculeatus	hipk2	ENSGACG00000013538	HIPK	NA
+Gasterosteus_aculeatus	bcas3	ENSGACG00000013586	Others	NA
+Gasterosteus_aculeatus	camk4	ENSGACG00000013599	CAMK	NA
+Gasterosteus_aculeatus	pnrc2	ENSGACG00000013653	Others	NA
+Gasterosteus_aculeatus	lgals9l6	ENSGACG00000013667	Others	NA
+Gasterosteus_aculeatus	brf1b	ENSGACG00000013671	GTF	NA
+Gasterosteus_aculeatus		ENSGACG00000013676	MYC	NA
+Gasterosteus_aculeatus	fhl3a	ENSGACG00000013685	FHL	NA
+Gasterosteus_aculeatus	phf12b	ENSGACG00000013703	PHF	NA
+Gasterosteus_aculeatus	jak2b	ENSGACG00000013704	Others	NA
+Gasterosteus_aculeatus	dnmt1	ENSGACG00000013741	DNA_methylase	NA
+Gasterosteus_aculeatus	malt1	ENSGACG00000013767	Others	NA
+Gasterosteus_aculeatus	plk3	ENSGACG00000013777	Others	NA
+Gasterosteus_aculeatus	hsbp1b	ENSGACG00000013784	Heat shock protein	NA
+Gasterosteus_aculeatus	pak6b	ENSGACG00000013785	Others	NA
+Gasterosteus_aculeatus	arl2bp	ENSGACG00000013899	Others	NA
+Gasterosteus_aculeatus	med18	ENSGACG00000013955	Mediator complex	NA
+Gasterosteus_aculeatus	SCMH1	ENSGACG00000013958	Others	NA
+Gasterosteus_aculeatus	notch1b	ENSGACG00000013973	Notch	NA
+Gasterosteus_aculeatus	kdm8	ENSGACG00000014021	Lysine demethylase	NA
+Gasterosteus_aculeatus	utp4	ENSGACG00000014034	Others	NA
+Gasterosteus_aculeatus	axin1	ENSGACG00000014047	Others	NA
+Gasterosteus_aculeatus	sap18	ENSGACG00000014077	SAP	NA
+Gasterosteus_aculeatus	tesca	ENSGACG00000014094	Others	NA
+Gasterosteus_aculeatus	chd8	ENSGACG00000014096	CHD	NA
+Gasterosteus_aculeatus	ascc3	ENSGACG00000014141	ASCC	NA
+Gasterosteus_aculeatus	trak2	ENSGACG00000014156	Others	NA
+Gasterosteus_aculeatus	ccnd1	ENSGACG00000014165	Cyclin	NA
+Gasterosteus_aculeatus		ENSGACG00000014200	Others	NA
+Gasterosteus_aculeatus	prmt5	ENSGACG00000014212	Arginine methyltransferase	NA
+Gasterosteus_aculeatus	suds3	ENSGACG00000014252	Other_Co-activator/repressors	NA
+Gasterosteus_aculeatus	CTDSP1	ENSGACG00000014313	Others	NA
+Gasterosteus_aculeatus	ascc2	ENSGACG00000014350	ASCC	NA
+Gasterosteus_aculeatus		ENSGACG00000014401	Casein	NA
+Gasterosteus_aculeatus	cbx2	ENSGACG00000014410	Chromobox	NA
+Gasterosteus_aculeatus	trim16	ENSGACG00000014466	Tripartite motif	NA
+Gasterosteus_aculeatus	SMARCA2	ENSGACG00000014488	SWI/SNF	NA
+Gasterosteus_aculeatus		ENSGACG00000014495	Others	NA
+Gasterosteus_aculeatus	slc19a1	ENSGACG00000014498	SLC	NA
+Gasterosteus_aculeatus	kank1a	ENSGACG00000014520	Others	NA
+Gasterosteus_aculeatus	txlng	ENSGACG00000014550	Others	NA
+Gasterosteus_aculeatus	macroh2a2	ENSGACG00000014597	Others	NA
+Gasterosteus_aculeatus	rnf2	ENSGACG00000014602	Ring finger protein	NA
+Gasterosteus_aculeatus	si:dkey-174n20.1	ENSGACG00000014658	WW	NA
+Gasterosteus_aculeatus	hira	ENSGACG00000014707	Others	NA
+Gasterosteus_aculeatus	sdr16c5a	ENSGACG00000014733	Others	NA
+Gasterosteus_aculeatus	SMARCB1	ENSGACG00000014767	SWI/SNF	NA
+Gasterosteus_aculeatus	seta	ENSGACG00000014785	SET	NA
+Gasterosteus_aculeatus	pspc1	ENSGACG00000014901	Others	NA
+Gasterosteus_aculeatus	ss18l2	ENSGACG00000014918	SS18	NA
+Gasterosteus_aculeatus	rnf25	ENSGACG00000014927	Ring finger protein	NA
+Gasterosteus_aculeatus	kat8	ENSGACG00000014930	Lysine acetyltransferase	NA
+Gasterosteus_aculeatus	eed	ENSGACG00000014939	Others	NA
+Gasterosteus_aculeatus	leo1	ENSGACG00000014999	Others	NA
+Gasterosteus_aculeatus	sgf29	ENSGACG00000015001	Others	NA
+Gasterosteus_aculeatus	jmjd6	ENSGACG00000015017	Others	NA
+Gasterosteus_aculeatus	MSL3	ENSGACG00000015038	Others	NA
+Gasterosteus_aculeatus	yeats2	ENSGACG00000015049	Others	NA
+Gasterosteus_aculeatus	SS18L1	ENSGACG00000015102	SS18	NA
+Gasterosteus_aculeatus	pir	ENSGACG00000015118	Others	NA
+Gasterosteus_aculeatus	NDUFA13	ENSGACG00000015203	Others	NA
+Gasterosteus_aculeatus	ercc3	ENSGACG00000015218	Others	NA
+Gasterosteus_aculeatus	mbtd1	ENSGACG00000015256	Others	NA
+Gasterosteus_aculeatus	tdrd3	ENSGACG00000015264	Others	NA
+Gasterosteus_aculeatus	sirt6	ENSGACG00000015316	Sirtuin	NA
+Gasterosteus_aculeatus	nrbf2b	ENSGACG00000015347	Nuclear receptor coactivator	NA
+Gasterosteus_aculeatus	jmjd1cb	ENSGACG00000015362	Other_CRF	NA
+Gasterosteus_aculeatus	cavin1b	ENSGACG00000015404	Others	NA
+Gasterosteus_aculeatus	dvl3a	ENSGACG00000015451	Others	NA
+Gasterosteus_aculeatus	creg1	ENSGACG00000015462	Others	NA
+Gasterosteus_aculeatus	pik3r2	ENSGACG00000015520	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000015536	Mediator complex	NA
+Gasterosteus_aculeatus	kdm4ab	ENSGACG00000015597	Lysine demethylase	NA
+Gasterosteus_aculeatus	nab1a	ENSGACG00000015609	Others	NA
+Gasterosteus_aculeatus	lmo1	ENSGACG00000015653	LIM	NA
+Gasterosteus_aculeatus	mtf2	ENSGACG00000015665	Others	NA
+Gasterosteus_aculeatus	hnrnpd	ENSGACG00000015669	HNRNP	NA
+Gasterosteus_aculeatus	rpap2	ENSGACG00000015678	Others	NA
+Gasterosteus_aculeatus	lin54	ENSGACG00000015693	Others	NA
+Gasterosteus_aculeatus	gtf2b	ENSGACG00000015696	GTF	NA
+Gasterosteus_aculeatus	eapp	ENSGACG00000015699	Others	NA
+Gasterosteus_aculeatus	ctr9	ENSGACG00000015700	Others	NA
+Gasterosteus_aculeatus	sirt3	ENSGACG00000015722	Sirtuin	NA
+Gasterosteus_aculeatus	csnk2a2a	ENSGACG00000015731	Casein	NA
+Gasterosteus_aculeatus	JMY	ENSGACG00000015780	Others	NA
+Gasterosteus_aculeatus	rnf111	ENSGACG00000015811	Ring finger protein	NA
+Gasterosteus_aculeatus	sltm	ENSGACG00000015814	Others	NA
+Gasterosteus_aculeatus	pik3r1	ENSGACG00000015820	Others	NA
+Gasterosteus_aculeatus	ankra2	ENSGACG00000015828	Ankyrin repeat	NA
+Gasterosteus_aculeatus	btf3	ENSGACG00000015834	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000015850	Others	NA
+Gasterosteus_aculeatus	dab2	ENSGACG00000015854	Others	NA
+Gasterosteus_aculeatus	fbp1b	ENSGACG00000015857	Others	NA
+Gasterosteus_aculeatus	tradd	ENSGACG00000015872	Others	NA
+Gasterosteus_aculeatus	erbin	ENSGACG00000015884	Erbb2	NA
+Gasterosteus_aculeatus	kdm4c	ENSGACG00000015922	Lysine demethylase	NA
+Gasterosteus_aculeatus	CDYL2	ENSGACG00000015978	Chromodomain Y	NA
+Gasterosteus_aculeatus	hipk3b	ENSGACG00000015995	HIPK	NA
+Gasterosteus_aculeatus	ripk2	ENSGACG00000016028	Others	NA
+Gasterosteus_aculeatus	elp4	ENSGACG00000016032	ELP	NA
+Gasterosteus_aculeatus	cdc73	ENSGACG00000016106	Others	NA
+Gasterosteus_aculeatus	tbp	ENSGACG00000016147	TATA-box	NA
+Gasterosteus_aculeatus	phf10	ENSGACG00000016158	PHF	NA
+Gasterosteus_aculeatus	smyd2a	ENSGACG00000016185	SMYD	NA
+Gasterosteus_aculeatus		ENSGACG00000016217	Ring finger protein	NA
+Gasterosteus_aculeatus	SMYD3	ENSGACG00000016239	SMYD	NA
+Gasterosteus_aculeatus	TADA1	ENSGACG00000016268	Transcriptional adaptor	NA
+Gasterosteus_aculeatus	sqstm1	ENSGACG00000016271	Others	NA
+Gasterosteus_aculeatus	aurkb	ENSGACG00000016381	Others	NA
+Gasterosteus_aculeatus	vegfc	ENSGACG00000016386	Other_CRF	NA
+Gasterosteus_aculeatus	CTBP1	ENSGACG00000016437	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000016438	Others	NA
+Gasterosteus_aculeatus	PLK1	ENSGACG00000016526	Others	NA
+Gasterosteus_aculeatus	edf1	ENSGACG00000016554	Others	NA
+Gasterosteus_aculeatus	pin1	ENSGACG00000016585	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000016593	Actin	NA
+Gasterosteus_aculeatus	ppid	ENSGACG00000016609	Others	NA
+Gasterosteus_aculeatus	trim32	ENSGACG00000016614	Tripartite motif	NA
+Gasterosteus_aculeatus	ccna2	ENSGACG00000016665	Cyclin	NA
+Gasterosteus_aculeatus	chd9	ENSGACG00000016694	CHD	NA
+Gasterosteus_aculeatus	pcgf1	ENSGACG00000016695	PCGF	NA
+Gasterosteus_aculeatus	nod2	ENSGACG00000016710	Others	NA
+Gasterosteus_aculeatus	brd7	ENSGACG00000016718	Bromodomain	NA
+Gasterosteus_aculeatus	cops2	ENSGACG00000016790	Others	NA
+Gasterosteus_aculeatus	ddx54	ENSGACG00000016793	RNA helicase	NA
+Gasterosteus_aculeatus	PCGF3	ENSGACG00000016794	PCGF	NA
+Gasterosteus_aculeatus	abl1	ENSGACG00000016802	Others	NA
+Gasterosteus_aculeatus	elp1	ENSGACG00000016803	ELP	NA
+Gasterosteus_aculeatus	tnip2	ENSGACG00000016837	Others	NA
+Gasterosteus_aculeatus	plrg1	ENSGACG00000016851	Others	NA
+Gasterosteus_aculeatus	DGKQ	ENSGACG00000016877	Others	NA
+Gasterosteus_aculeatus	skor1a	ENSGACG00000016891	SKI	NA
+Gasterosteus_aculeatus		ENSGACG00000016897	Other_CRF	NA
+Gasterosteus_aculeatus	calr3b	ENSGACG00000016898	Others	NA
+Gasterosteus_aculeatus	insra	ENSGACG00000016929	Others	NA
+Gasterosteus_aculeatus	anp32a	ENSGACG00000016932	ANP	NA
+Gasterosteus_aculeatus	dapk3	ENSGACG00000016942	Others	NA
+Gasterosteus_aculeatus	skila	ENSGACG00000016970	SKI	NA
+Gasterosteus_aculeatus	trip4	ENSGACG00000016986	Thyroid hormone receptor	NA
+Gasterosteus_aculeatus	med28	ENSGACG00000016989	Mediator complex	NA
+Gasterosteus_aculeatus	rap2c	ENSGACG00000017018	Others	NA
+Gasterosteus_aculeatus	kdm2bb	ENSGACG00000017026	Lysine demethylase	NA
+Gasterosteus_aculeatus	ccdc85b	ENSGACG00000017062	Coiled-coil	NA
+Gasterosteus_aculeatus	brf2	ENSGACG00000017068	GTF	NA
+Gasterosteus_aculeatus	anxa4	ENSGACG00000017070	Others	NA
+Gasterosteus_aculeatus	csrp3	ENSGACG00000017082	Others	NA
+Gasterosteus_aculeatus	lpin2	ENSGACG00000017090	LPIN	NA
+Gasterosteus_aculeatus	htatip2	ENSGACG00000017092	Others	NA
+Gasterosteus_aculeatus	tcea1	ENSGACG00000017140	TEF	NA
+Gasterosteus_aculeatus	traf6	ENSGACG00000017142	Others	NA
+Gasterosteus_aculeatus	rbmx	ENSGACG00000017237	RNA binding protein	NA
+Gasterosteus_aculeatus	SMARCA5	ENSGACG00000017238	SWI/SNF	NA
+Gasterosteus_aculeatus	bcl10	ENSGACG00000017241	BCL	NA
+Gasterosteus_aculeatus	taf7	ENSGACG00000017288	TATA-box	NA
+Gasterosteus_aculeatus	egfra	ENSGACG00000017289	Others	NA
+Gasterosteus_aculeatus	anp32b	ENSGACG00000017371	ANP	NA
+Gasterosteus_aculeatus	PSIP1	ENSGACG00000017401	Others	NA
+Gasterosteus_aculeatus	wnt3a	ENSGACG00000017433	Others	NA
+Gasterosteus_aculeatus	btk	ENSGACG00000017483	Others	NA
+Gasterosteus_aculeatus	kmt5b	ENSGACG00000017488	Lysine methyltransferase	NA
+Gasterosteus_aculeatus		ENSGACG00000017493	Mediator complex	NA
+Gasterosteus_aculeatus	fhod1	ENSGACG00000017531	Others	NA
+Gasterosteus_aculeatus	zmynd11	ENSGACG00000017546	Zinc finger	NA
+Gasterosteus_aculeatus	slc30a9	ENSGACG00000017554	SLC	NA
+Gasterosteus_aculeatus	gtf2a2	ENSGACG00000017600	GTF	NA
+Gasterosteus_aculeatus	sfswap	ENSGACG00000017647	Others	NA
+Gasterosteus_aculeatus	kdm2ab	ENSGACG00000017741	Lysine demethylase	NA
+Gasterosteus_aculeatus	ran	ENSGACG00000017755	Others	NA
+Gasterosteus_aculeatus	hnrnpc	ENSGACG00000017772	HNRNP	NA
+Gasterosteus_aculeatus	med19a	ENSGACG00000017819	Mediator complex	NA
+Gasterosteus_aculeatus	si:dkey-6i22.5	ENSGACG00000017823	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000017865	Tripartite motif	NA
+Gasterosteus_aculeatus	fbxw11a	ENSGACG00000017925	Others	NA
+Gasterosteus_aculeatus	grhpra	ENSGACG00000017963	Others	NA
+Gasterosteus_aculeatus	cdk5	ENSGACG00000017975	Cyclin	NA
+Gasterosteus_aculeatus	cnot6b	ENSGACG00000018046	CCR4-NOT	NA
+Gasterosteus_aculeatus	aip	ENSGACG00000018060	Others	NA
+Gasterosteus_aculeatus	niban2a	ENSGACG00000018094	FAM	NA
+Gasterosteus_aculeatus	kdm3b	ENSGACG00000018131	Lysine demethylase	NA
+Gasterosteus_aculeatus	wdr5	ENSGACG00000018182	WD	NA
+Gasterosteus_aculeatus	rptor	ENSGACG00000018193	Others	NA
+Gasterosteus_aculeatus	trim25	ENSGACG00000018208	Tripartite motif	NA
+Gasterosteus_aculeatus	cbx8b	ENSGACG00000018216	Chromobox	NA
+Gasterosteus_aculeatus	atrx	ENSGACG00000018218	Others	NA
+Gasterosteus_aculeatus	CBX4	ENSGACG00000018219	Chromobox	NA
+Gasterosteus_aculeatus	taf5	ENSGACG00000018238	TATA-box	NA
+Gasterosteus_aculeatus	rlim	ENSGACG00000018243	Ring finger protein	NA
+Gasterosteus_aculeatus	wu:fj64h06	ENSGACG00000018257	TATA-box	NA
+Gasterosteus_aculeatus	ogt.1	ENSGACG00000018273	Others	NA
+Gasterosteus_aculeatus	fgf8b	ENSGACG00000018276	FGF	NA
+Gasterosteus_aculeatus	dcc	ENSGACG00000018284	Others	NA
+Gasterosteus_aculeatus	ldb1b	ENSGACG00000018336	LIM	NA
+Gasterosteus_aculeatus	tnip1	ENSGACG00000018374	Others	NA
+Gasterosteus_aculeatus	scai	ENSGACG00000018402	Others	NA
+Gasterosteus_aculeatus	ctnnd1	ENSGACG00000018454	Casein	NA
+Gasterosteus_aculeatus		ENSGACG00000018484	Mediator complex	NA
+Gasterosteus_aculeatus	TENM2	ENSGACG00000018493	Others	NA
+Gasterosteus_aculeatus	xiap	ENSGACG00000018511	Others	NA
+Gasterosteus_aculeatus	nol11	ENSGACG00000018513	Nuclear coactivator	NA
+Gasterosteus_aculeatus	cdk9	ENSGACG00000018517	Cyclin	NA
+Gasterosteus_aculeatus	tenm1	ENSGACG00000018534	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000018553	ANP	NA
+Gasterosteus_aculeatus	cnot7	ENSGACG00000018605	CCR4-NOT	NA
+Gasterosteus_aculeatus	fbxw7	ENSGACG00000018606	Others	NA
+Gasterosteus_aculeatus	chd1	ENSGACG00000018644	CHD	NA
+Gasterosteus_aculeatus	syk	ENSGACG00000018650	Others	NA
+Gasterosteus_aculeatus	pdcd4b	ENSGACG00000018691	Others	NA
+Gasterosteus_aculeatus	chd4a	ENSGACG00000018705	CHD	NA
+Gasterosteus_aculeatus	hdac8	ENSGACG00000018737	Histone deacetylase	NA
+Gasterosteus_aculeatus	HDAC3	ENSGACG00000018752	Histone deacetylase	NA
+Gasterosteus_aculeatus	ASF1B	ENSGACG00000018839	Others	NA
+Gasterosteus_aculeatus	supt16h	ENSGACG00000018897	SUPT	NA
+Gasterosteus_aculeatus	kdm5a	ENSGACG00000018981	Lysine demethylase	NA
+Gasterosteus_aculeatus	brd1a	ENSGACG00000019009	Bromodomain	NA
+Gasterosteus_aculeatus	sirt7	ENSGACG00000019035	Sirtuin	NA
+Gasterosteus_aculeatus	ino80b	ENSGACG00000019069	INO80 complex	NA
+Gasterosteus_aculeatus	nelfa	ENSGACG00000019124	GTF	NA
+Gasterosteus_aculeatus		ENSGACG00000019142	Others	NA
+Gasterosteus_aculeatus	hcfc2	ENSGACG00000019145	Others	NA
+Gasterosteus_aculeatus	DDX17	ENSGACG00000019151	RNA helicase	NA
+Gasterosteus_aculeatus	nudt5	ENSGACG00000019169	Other_CRF	NA
+Gasterosteus_aculeatus	cideb	ENSGACG00000019177	Others	NA
+Gasterosteus_aculeatus	chd3	ENSGACG00000019275	CHD	NA
+Gasterosteus_aculeatus	dvl2	ENSGACG00000019331	Others	NA
+Gasterosteus_aculeatus	polr2a	ENSGACG00000019366	POLR	NA
+Gasterosteus_aculeatus	slc26a3.2	ENSGACG00000019391	SLC	NA
+Gasterosteus_aculeatus	gps2	ENSGACG00000019393	Others	NA
+Gasterosteus_aculeatus	suz12b	ENSGACG00000019421	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000019438	Others	NA
+Gasterosteus_aculeatus	HMOX1	ENSGACG00000019469	Others	NA
+Gasterosteus_aculeatus	rbpms	ENSGACG00000019471	RNA binding protein	NA
+Gasterosteus_aculeatus	apex1	ENSGACG00000019497	Others	NA
+Gasterosteus_aculeatus	med21	ENSGACG00000019530	Mediator complex	NA
+Gasterosteus_aculeatus	setd7	ENSGACG00000019534	SET	NA
+Gasterosteus_aculeatus	naa15a	ENSGACG00000019625	Others	NA
+Gasterosteus_aculeatus	esf1	ENSGACG00000019693	Others	NA
+Gasterosteus_aculeatus	ccdc59	ENSGACG00000019765	Coiled-coil	NA
+Gasterosteus_aculeatus	taf5l	ENSGACG00000019769	TATA-box	NA
+Gasterosteus_aculeatus	PRMT8	ENSGACG00000019772	Arginine methyltransferase	NA
+Gasterosteus_aculeatus	snd1	ENSGACG00000019793	Others	NA
+Gasterosteus_aculeatus	btg1	ENSGACG00000019805	Others	NA
+Gasterosteus_aculeatus	dpy30	ENSGACG00000019898	Others	NA
+Gasterosteus_aculeatus	mtpn	ENSGACG00000019949	Others	NA
+Gasterosteus_aculeatus	KDM7A	ENSGACG00000019975	Lysine demethylase	NA
+Gasterosteus_aculeatus	hcls1	ENSGACG00000019990	Others	NA
+Gasterosteus_aculeatus	pawr	ENSGACG00000020015	Others	NA
+Gasterosteus_aculeatus	drap1	ENSGACG00000020035	Others	NA
+Gasterosteus_aculeatus	nrip2	ENSGACG00000020050	Nuclear coactivator	NA
+Gasterosteus_aculeatus	sfmbt2	ENSGACG00000020098	Others	NA
+Gasterosteus_aculeatus	hspa8	ENSGACG00000020117	Heat shock protein	NA
+Gasterosteus_aculeatus	nrip1b	ENSGACG00000020154	Nuclear receptor coactivator	NA
+Gasterosteus_aculeatus	irf2bp1	ENSGACG00000020164	Others	NA
+Gasterosteus_aculeatus	dscama	ENSGACG00000020188	Others	NA
+Gasterosteus_aculeatus	auts2a	ENSGACG00000020210	Others	NA
+Gasterosteus_aculeatus	med13a	ENSGACG00000020213	Mediator complex	NA
+Gasterosteus_aculeatus	ruvbl2	ENSGACG00000020220	Other_CRF	NA
+Gasterosteus_aculeatus	dhx33	ENSGACG00000020229	RNA helicase	NA
+Gasterosteus_aculeatus	c1qbp	ENSGACG00000020230	Others	NA
+Gasterosteus_aculeatus	supt4h1	ENSGACG00000020237	SUPT	NA
+Gasterosteus_aculeatus	prdx5	ENSGACG00000020286	Others	NA
+Gasterosteus_aculeatus	npm1a	ENSGACG00000020319	Nucleoplasmin	NA
+Gasterosteus_aculeatus	brwd3	ENSGACG00000020339	Others	NA
+Gasterosteus_aculeatus	taf1	ENSGACG00000020377	TATA-box	NA
+Gasterosteus_aculeatus	rb1	ENSGACG00000020379	Other_Co-activator/repressors	NA
+Gasterosteus_aculeatus	slc25a15b	ENSGACG00000020400	SLC	NA
+Gasterosteus_aculeatus	dpf2	ENSGACG00000020405	DPF	NA
+Gasterosteus_aculeatus	kat5b	ENSGACG00000020408	Lysine acetyltransferase	NA
+Gasterosteus_aculeatus	taf6	ENSGACG00000020426	TATA-box	NA
+Gasterosteus_aculeatus	supt6h	ENSGACG00000020513	SUPT	NA
+Gasterosteus_aculeatus	rfxap	ENSGACG00000020561	Others	NA
+Gasterosteus_aculeatus	supt20	ENSGACG00000020565	SUPT	NA
+Gasterosteus_aculeatus	tpte	ENSGACG00000020594	Others	NA
+Gasterosteus_aculeatus	birc2	ENSGACG00000020626	Others	NA
+Gasterosteus_aculeatus	chek1	ENSGACG00000020635	Others	NA
+Gasterosteus_aculeatus	nrg2a	ENSGACG00000020654	Others	NA
+Gasterosteus_aculeatus	cxxc5a	ENSGACG00000020657	Others	NA
+Gasterosteus_aculeatus		ENSGACG00000020660	Bromodomain	NA
+Gasterosteus_aculeatus	fgf1b	ENSGACG00000020727	FGF	NA
+Gasterosteus_aculeatus	rnf14	ENSGACG00000020731	Ring finger protein	NA
+Gasterosteus_aculeatus	mybbp1a	ENSGACG00000020754	MYB	NA
+Gasterosteus_aculeatus	wwc1	ENSGACG00000020812	WW	NA
+Gasterosteus_aculeatus	sap30l	ENSGACG00000020817	SAP	NA
+Gasterosteus_aculeatus	cnot8	ENSGACG00000020824	CCR4-NOT	NA
+Gasterosteus_aculeatus	emsy	ENSGACG00000020853	Others	NA
+Gasterosteus_aculeatus	rsf1b.1	ENSGACG00000020859	Others	NA
+Gasterosteus_aculeatus	trim37	ENSGACG00000020867	Tripartite motif	NA
+Gasterosteus_aculeatus		ENSGACG00000020904	Others	NA

@@ -1,0 +1,747 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Oryzias_melastigma	smarca5	ENSOMEG00000000086	SWI/SNF	112137381
+Oryzias_melastigma	grhpra	ENSOMEG00000000100	Others	112153810
+Oryzias_melastigma	sin3aa	ENSOMEG00000000108	Other_CRF	112152125
+Oryzias_melastigma	ACTB	ENSOMEG00000000111	Actin	112146789
+Oryzias_melastigma	hells	ENSOMEG00000000135	Others	112160111
+Oryzias_melastigma	lpxn	ENSOMEG00000000189	Others	112150209
+Oryzias_melastigma	pfdn5	ENSOMEG00000000216	Others	NA
+Oryzias_melastigma	phf12b	ENSOMEG00000000222	PHF	112142080
+Oryzias_melastigma	ruvbl1	ENSOMEG00000000243	Other_CRF	NA
+Oryzias_melastigma		ENSOMEG00000000289	Others	112158420
+Oryzias_melastigma	skila	ENSOMEG00000000294	SKI	112147843
+Oryzias_melastigma	dmap1	ENSOMEG00000000330	DNA_methylase	112150810
+Oryzias_melastigma	cidec	ENSOMEG00000000430	Others	NA
+Oryzias_melastigma	siva1	ENSOMEG00000000476	Others	112144341
+Oryzias_melastigma	dpf1	ENSOMEG00000000482	DPF	112149300
+Oryzias_melastigma	scai	ENSOMEG00000000534	Others	112141661
+Oryzias_melastigma		ENSOMEG00000000543	TEF	NA
+Oryzias_melastigma	si:dkey-6i22.5	ENSOMEG00000000559	Others	112153629
+Oryzias_melastigma	ppargc1a	ENSOMEG00000000670	Others	NA
+Oryzias_melastigma	nipbla	ENSOMEG00000000744	Others	NA
+Oryzias_melastigma	eya4	ENSOMEG00000000909	EYA	112158435
+Oryzias_melastigma	actn1	ENSOMEG00000000944	Actin	112148205
+Oryzias_melastigma	gtf2a1	ENSOMEG00000000954	GTF	112158136
+Oryzias_melastigma	ajuba	ENSOMEG00000001012	Others	112155914
+Oryzias_melastigma	wnt4	ENSOMEG00000001095	Others	112145694
+Oryzias_melastigma		ENSOMEG00000001170	Others	112151416
+Oryzias_melastigma	cdk13	ENSOMEG00000001174	Cyclin	112151580
+Oryzias_melastigma	nlk2	ENSOMEG00000001262	Others	112151065
+Oryzias_melastigma	bcl9l	ENSOMEG00000001339	BCL	112149498
+Oryzias_melastigma		ENSOMEG00000001349	Others	NA
+Oryzias_melastigma	si:ch73-60h1.1	ENSOMEG00000001448	CAMK	112150356
+Oryzias_melastigma	yap1	ENSOMEG00000001457	Others	112149815
+Oryzias_melastigma	tgfbr3	ENSOMEG00000001458	Others	112150279
+Oryzias_melastigma		ENSOMEG00000001463	MAML	112149401
+Oryzias_melastigma	brdt	ENSOMEG00000001466	Bromodomain	112150278
+Oryzias_melastigma	gtf2h3	ENSOMEG00000001520	GTF	112147928
+Oryzias_melastigma	ctr9	ENSOMEG00000001526	Others	112160520
+Oryzias_melastigma	dr1	ENSOMEG00000001552	Others	112150682
+Oryzias_melastigma	aatf	ENSOMEG00000001583	Others	NA
+Oryzias_melastigma	prmt2	ENSOMEG00000001593	Arginine methyltransferase	112155066
+Oryzias_melastigma	setd5	ENSOMEG00000001605	Lysine methyltransferase	112145120
+Oryzias_melastigma	med8	ENSOMEG00000001606	Mediator complex	112150678
+Oryzias_melastigma	puf60b	ENSOMEG00000001643	Others	NA
+Oryzias_melastigma	macroh2a2	ENSOMEG00000001698	Others	112161901
+Oryzias_melastigma		ENSOMEG00000001708	Transducin	112150507
+Oryzias_melastigma	smarcd3b	ENSOMEG00000001784	SWI/SNF	NA
+Oryzias_melastigma	HYAL2	ENSOMEG00000001793	Others	112145762
+Oryzias_melastigma	emsy	ENSOMEG00000001967	Others	112140935
+Oryzias_melastigma		ENSOMEG00000001998	Zinc finger	NA
+Oryzias_melastigma	ewsr1b	ENSOMEG00000002003	Others	NA
+Oryzias_melastigma	rnf111	ENSOMEG00000002018	Ring finger protein	NA
+Oryzias_melastigma	anxa4	ENSOMEG00000002063	Others	112163080
+Oryzias_melastigma	rsf1b.1	ENSOMEG00000002068	Others	112142475
+Oryzias_melastigma	brf2	ENSOMEG00000002078	GTF	112136132
+Oryzias_melastigma	tnip2	ENSOMEG00000002122	Others	112137231
+Oryzias_melastigma	plrg1	ENSOMEG00000002154	Others	112137590
+Oryzias_melastigma	clu	ENSOMEG00000002191	Others	112157766
+Oryzias_melastigma	CRK	ENSOMEG00000002246	Others	112143053
+Oryzias_melastigma		ENSOMEG00000002291	Others	112160833
+Oryzias_melastigma	cdk1	ENSOMEG00000002304	Cyclin	112161823
+Oryzias_melastigma	dpf2	ENSOMEG00000002306	DPF	112140873
+Oryzias_melastigma	kat5b	ENSOMEG00000002350	Lysine acetyltransferase	112142634
+Oryzias_melastigma	tradd	ENSOMEG00000002387	Others	112161095
+Oryzias_melastigma	dhx9	ENSOMEG00000002437	RNA helicase	112144396
+Oryzias_melastigma	brca2	ENSOMEG00000002481	Others	112149564
+Oryzias_melastigma	stk36	ENSOMEG00000002488	Others	NA
+Oryzias_melastigma	tescb	ENSOMEG00000002514	Others	112162751
+Oryzias_melastigma	ell2	ENSOMEG00000002561	GTF	112145088
+Oryzias_melastigma	txlng	ENSOMEG00000002592	Others	112152889
+Oryzias_melastigma	taf6	ENSOMEG00000002627	TATA-box	112142735
+Oryzias_melastigma	med28	ENSOMEG00000002641	Mediator complex	112137337
+Oryzias_melastigma	sufu	ENSOMEG00000002651	Others	112161634
+Oryzias_melastigma	npm3	ENSOMEG00000002666	Nucleoplasmin	112162298
+Oryzias_melastigma	slc25a15b	ENSOMEG00000002698	SLC	112142476
+Oryzias_melastigma	tp53bp1	ENSOMEG00000002725	Others	112161250
+Oryzias_melastigma	cthl	ENSOMEG00000002729	Others	112150407
+Oryzias_melastigma	ldb2a	ENSOMEG00000002731	LIM	NA
+Oryzias_melastigma	cdyl	ENSOMEG00000002737	Chromodomain Y	112144302
+Oryzias_melastigma	sap130a	ENSOMEG00000002807	SAP	NA
+Oryzias_melastigma	crtc1b	ENSOMEG00000002829	CREB	112150732
+Oryzias_melastigma	rrn3	ENSOMEG00000002840	Others	112158103
+Oryzias_melastigma	rnf141	ENSOMEG00000002883	Ring finger protein	112152384
+Oryzias_melastigma	ccna2	ENSOMEG00000002951	Cyclin	112145573
+Oryzias_melastigma	snapc2	ENSOMEG00000003040	Others	112155629
+Oryzias_melastigma	CHUK	ENSOMEG00000003086	Others	112154264
+Oryzias_melastigma	nrip2	ENSOMEG00000003128	Nuclear coactivator	112154695
+Oryzias_melastigma	pcgf1	ENSOMEG00000003141	PCGF	112145603
+Oryzias_melastigma	ILK	ENSOMEG00000003148	Others	112149471
+Oryzias_melastigma	pex14	ENSOMEG00000003174	Others	112159088
+Oryzias_melastigma	gtf2h2	ENSOMEG00000003197	GTF	112137766
+Oryzias_melastigma	PCBD2	ENSOMEG00000003217	Others	112142754
+Oryzias_melastigma	kmt5b	ENSOMEG00000003244	Lysine methyltransferase	112160800
+Oryzias_melastigma	sap18	ENSOMEG00000003276	SAP	112160093
+Oryzias_melastigma	fgf2	ENSOMEG00000003279	FGF	112151220
+Oryzias_melastigma	lmcd1	ENSOMEG00000003298	LIM	112144858
+Oryzias_melastigma	baz1b	ENSOMEG00000003346	Bromodomain	112149234
+Oryzias_melastigma	kdm5c	ENSOMEG00000003426	Lysine demethylase	112159637
+Oryzias_melastigma	frk	ENSOMEG00000003439	Others	112158412
+Oryzias_melastigma	rb1	ENSOMEG00000003485	Other_Co-activator/repressors	112142671
+Oryzias_melastigma	HDAC2	ENSOMEG00000003501	Histone deacetylase	112157922
+Oryzias_melastigma	loxl2b	ENSOMEG00000003519	Others	112148843
+Oryzias_melastigma	CDYL2	ENSOMEG00000003527	Chromodomain Y	NA
+Oryzias_melastigma	cry1a	ENSOMEG00000003568	Others	112153208
+Oryzias_melastigma	htatip2	ENSOMEG00000003594	Others	112161139
+Oryzias_melastigma	abl1	ENSOMEG00000003602	Others	112163252
+Oryzias_melastigma	trak2	ENSOMEG00000003627	Others	112160042
+Oryzias_melastigma	ddx54	ENSOMEG00000003663	RNA helicase	112162989
+Oryzias_melastigma	tdg.1	ENSOMEG00000003666	Others	112151960
+Oryzias_melastigma	skap1	ENSOMEG00000003668	Others	112154122
+Oryzias_melastigma	taf1	ENSOMEG00000003679	TATA-box	112142430
+Oryzias_melastigma	pid1	ENSOMEG00000003753	Others	112149322
+Oryzias_melastigma	hipk3b	ENSOMEG00000003788	HIPK	112160519
+Oryzias_melastigma	aurkaip1	ENSOMEG00000003789	Others	112159225
+Oryzias_melastigma	ino80	ENSOMEG00000003791	INO80 complex	112157892
+Oryzias_melastigma	cdk5rap3	ENSOMEG00000003828	Cyclin	112154637
+Oryzias_melastigma	drap1	ENSOMEG00000003893	Others	112156256
+Oryzias_melastigma	nelfb	ENSOMEG00000003902	GTF	112148845
+Oryzias_melastigma	hira	ENSOMEG00000003903	Others	112137713
+Oryzias_melastigma	thoc5	ENSOMEG00000003930	Others	112148865
+Oryzias_melastigma	ino80c	ENSOMEG00000003943	INO80 complex	112143150
+Oryzias_melastigma	fbxw11a	ENSOMEG00000003951	Others	112153159
+Oryzias_melastigma	adrb1	ENSOMEG00000003986	Others	NA
+Oryzias_melastigma	ccar1	ENSOMEG00000003998	Others	NA
+Oryzias_melastigma	hat1	ENSOMEG00000004035	Others	112155420
+Oryzias_melastigma	cdk5r1b	ENSOMEG00000004056	Cyclin	112154508
+Oryzias_melastigma	rbbp5	ENSOMEG00000004058	RBBP	112145161
+Oryzias_melastigma	elp4	ENSOMEG00000004065	ELP	112161051
+Oryzias_melastigma	wnt3	ENSOMEG00000004139	Others	112154075
+Oryzias_melastigma	si:dkey-177p2.6	ENSOMEG00000004154	Others	NA
+Oryzias_melastigma	ss18	ENSOMEG00000004158	SS18	112147281
+Oryzias_melastigma	arhgap35b	ENSOMEG00000004182	Others	112142439
+Oryzias_melastigma	dcc	ENSOMEG00000004224	Others	NA
+Oryzias_melastigma		ENSOMEG00000004249	Others	112158229
+Oryzias_melastigma	TAF1B	ENSOMEG00000004251	TATA-box	112157934
+Oryzias_melastigma	jade1	ENSOMEG00000004266	Others	112143957
+Oryzias_melastigma		ENSOMEG00000004378	Others	112144834
+Oryzias_melastigma	traf6	ENSOMEG00000004508	Others	112161172
+Oryzias_melastigma	CIR1	ENSOMEG00000004511	Other_Co-activator/repressors	112154963
+Oryzias_melastigma	dot1l	ENSOMEG00000004592	Others	NA
+Oryzias_melastigma	ufl1	ENSOMEG00000004640	Others	112158342
+Oryzias_melastigma	c1d	ENSOMEG00000004672	Other_Co-activator/repressors	112149557
+Oryzias_melastigma	rhoab	ENSOMEG00000004723	Others	112144861
+Oryzias_melastigma	cdk9	ENSOMEG00000004738	Cyclin	NA
+Oryzias_melastigma	hcls1	ENSOMEG00000004765	Others	112155397
+Oryzias_melastigma	hif1an	ENSOMEG00000004826	Others	112161382
+Oryzias_melastigma	cdk7	ENSOMEG00000004854	Cyclin	112148915
+Oryzias_melastigma	trim32	ENSOMEG00000004877	Tripartite motif	NA
+Oryzias_melastigma	H2AZ1	ENSOMEG00000004889	Others	112156369
+Oryzias_melastigma	paf1	ENSOMEG00000004915	Others	112149948
+Oryzias_melastigma	taf10	ENSOMEG00000004924	TATA-box	112158768
+Oryzias_melastigma		ENSOMEG00000004925	Others	NA
+Oryzias_melastigma	notch2	ENSOMEG00000004979	Notch	112136930
+Oryzias_melastigma	SAMD4B	ENSOMEG00000004980	Others	112149181
+Oryzias_melastigma	anp32b	ENSOMEG00000005001	ANP	112157127
+Oryzias_melastigma	smurf1	ENSOMEG00000005021	Others	112145976
+Oryzias_melastigma	wdr61	ENSOMEG00000005028	WD	112151699
+Oryzias_melastigma	ing2	ENSOMEG00000005040	ING	NA
+Oryzias_melastigma	RBPMS	ENSOMEG00000005044	RNA binding protein	112156109
+Oryzias_melastigma	taf11	ENSOMEG00000005158	TATA-box	112159040
+Oryzias_melastigma	JMY	ENSOMEG00000005183	Others	112148104
+Oryzias_melastigma	sf1	ENSOMEG00000005210	Others	112155921
+Oryzias_melastigma	rprd1b	ENSOMEG00000005236	Others	112159724
+Oryzias_melastigma	rnf14	ENSOMEG00000005243	Ring finger protein	112142997
+Oryzias_melastigma	MSL3	ENSOMEG00000005256	Others	112160118
+Oryzias_melastigma	cnot6b	ENSOMEG00000005295	CCR4-NOT	112153307
+Oryzias_melastigma	zap70	ENSOMEG00000005300	Others	112150138
+Oryzias_melastigma		ENSOMEG00000005336	FGF	112143069
+Oryzias_melastigma	men1	ENSOMEG00000005347	Others	112155715
+Oryzias_melastigma	tbp	ENSOMEG00000005395	TATA-box	112160403
+Oryzias_melastigma	ino80da	ENSOMEG00000005422	INO80 complex	NA
+Oryzias_melastigma	arhgap5	ENSOMEG00000005441	Others	112145797
+Oryzias_melastigma	gnl3	ENSOMEG00000005462	Others	112140783
+Oryzias_melastigma	znf503	ENSOMEG00000005479	Zinc finger	112161894
+Oryzias_melastigma	phf10	ENSOMEG00000005488	PHF	112161114
+Oryzias_melastigma	nck1a	ENSOMEG00000005500	Others	112151408
+Oryzias_melastigma	rbx1	ENSOMEG00000005517	Others	112146889
+Oryzias_melastigma	mllt1b	ENSOMEG00000005537	GTF	112150423
+Oryzias_melastigma	kdm4ab	ENSOMEG00000005643	Lysine demethylase	112147513
+Oryzias_melastigma	actr5	ENSOMEG00000005707	ACTR	112159729
+Oryzias_melastigma		ENSOMEG00000005796	Others	112136420
+Oryzias_melastigma	tirap	ENSOMEG00000005819	Others	112149705
+Oryzias_melastigma	kdm6al	ENSOMEG00000005822	Lysine demethylase	112160186
+Oryzias_melastigma	taf6l	ENSOMEG00000005828	TATA-box	112156407
+Oryzias_melastigma	med11	ENSOMEG00000005870	Mediator complex	112155654
+Oryzias_melastigma	si:ch211-130m23.3	ENSOMEG00000005892	Others	112148368
+Oryzias_melastigma	meaf6	ENSOMEG00000005907	Others	112137714
+Oryzias_melastigma	birc5a	ENSOMEG00000006044	Others	112154285
+Oryzias_melastigma	eapp	ENSOMEG00000006071	Others	112145141
+Oryzias_melastigma	chd1l	ENSOMEG00000006109	CHD	NA
+Oryzias_melastigma	tprb	ENSOMEG00000006153	Others	NA
+Oryzias_melastigma	ezh2	ENSOMEG00000006162	Others	112152487
+Oryzias_melastigma	btg1	ENSOMEG00000006173	Others	112153667
+Oryzias_melastigma	crym	ENSOMEG00000006179	Others	112154656
+Oryzias_melastigma	picalmb	ENSOMEG00000006282	Others	112149439
+Oryzias_melastigma	ccnh	ENSOMEG00000006283	Cyclin	112148355
+Oryzias_melastigma		ENSOMEG00000006286	Others	112162087
+Oryzias_melastigma	s100s	ENSOMEG00000006300	Others	NA
+Oryzias_melastigma	snd1	ENSOMEG00000006406	Others	112158745
+Oryzias_melastigma		ENSOMEG00000006411	RNA helicase	112146571
+Oryzias_melastigma	sfr1	ENSOMEG00000006416	Others	112161601
+Oryzias_melastigma	trim35-12	ENSOMEG00000006561	Tripartite motif	NA
+Oryzias_melastigma		ENSOMEG00000006574	Others	112137622
+Oryzias_melastigma	mnat1	ENSOMEG00000006617	Others	112142836
+Oryzias_melastigma	rptor	ENSOMEG00000006639	Others	112156982
+Oryzias_melastigma	med4	ENSOMEG00000006691	Mediator complex	112154816
+Oryzias_melastigma	ASF1B	ENSOMEG00000006692	Others	112146517
+Oryzias_melastigma	suv39h1a	ENSOMEG00000006743	Others	112140032
+Oryzias_melastigma	dnajb1b	ENSOMEG00000006764	Others	112137596
+Oryzias_melastigma	trappc2	ENSOMEG00000006843	Others	112155387
+Oryzias_melastigma	ash1l	ENSOMEG00000006866	Others	NA
+Oryzias_melastigma	prkcbp1l	ENSOMEG00000006900	Zinc finger	112159359
+Oryzias_melastigma	pdcd4b	ENSOMEG00000006923	Others	112137235
+Oryzias_melastigma	chd1	ENSOMEG00000007012	CHD	112139213
+Oryzias_melastigma	actr8	ENSOMEG00000007032	ACTR	112159383
+Oryzias_melastigma	npm1a	ENSOMEG00000007083	Nucleoplasmin	112142723
+Oryzias_melastigma	PRMT8	ENSOMEG00000007145	Arginine methyltransferase	112153804
+Oryzias_melastigma	ccdc85ca	ENSOMEG00000007168	Coiled-coil	NA
+Oryzias_melastigma	TAF4	ENSOMEG00000007222	TATA-box	112159008
+Oryzias_melastigma	tbl1x	ENSOMEG00000007223	Transducin	112154892
+Oryzias_melastigma	ccdc59	ENSOMEG00000007247	Coiled-coil	112153817
+Oryzias_melastigma	cdk5	ENSOMEG00000007307	Cyclin	112147472
+Oryzias_melastigma	atrx	ENSOMEG00000007314	Others	112153099
+Oryzias_melastigma	PER2	ENSOMEG00000007322	Others	112136440
+Oryzias_melastigma	rnf6	ENSOMEG00000007346	Ring finger protein	112151602
+Oryzias_melastigma	cdk8	ENSOMEG00000007387	Cyclin	112151359
+Oryzias_melastigma	oxr1b	ENSOMEG00000007395	Nuclear receptor coactivator	112143255
+Oryzias_melastigma	frzb	ENSOMEG00000007426	Others	112154755
+Oryzias_melastigma	smarca4a	ENSOMEG00000007486	SWI/SNF	112146092
+Oryzias_melastigma	mad2l2	ENSOMEG00000007556	Others	112138527
+Oryzias_melastigma	s100a10b	ENSOMEG00000007561	Others	112143264
+Oryzias_melastigma	cdkn1bb	ENSOMEG00000007599	Cyclin	112151979
+Oryzias_melastigma	spen	ENSOMEG00000007639	Others	112138517
+Oryzias_melastigma	trip4	ENSOMEG00000007655	Thyroid hormone receptor	112161213
+Oryzias_melastigma	trim8b	ENSOMEG00000007668	Tripartite motif	NA
+Oryzias_melastigma		ENSOMEG00000007726	Ring finger protein	112141473
+Oryzias_melastigma	lzts1	ENSOMEG00000007882	Others	112148297
+Oryzias_melastigma	lin9	ENSOMEG00000007903	Others	112158404
+Oryzias_melastigma		ENSOMEG00000007909	Others	112145894
+Oryzias_melastigma		ENSOMEG00000007923	Others	NA
+Oryzias_melastigma	raf1a	ENSOMEG00000007930	Others	112159520
+Oryzias_melastigma	chaf1b	ENSOMEG00000008033	Others	112155568
+Oryzias_melastigma		ENSOMEG00000008057	Others	112136397
+Oryzias_melastigma	prdx5	ENSOMEG00000008068	Others	112142534
+Oryzias_melastigma	dnmt3bb.1	ENSOMEG00000008096	DNA_methylase	112145375
+Oryzias_melastigma	bcl9	ENSOMEG00000008102	BCL	NA
+Oryzias_melastigma	ogt.1	ENSOMEG00000008130	Others	112153091
+Oryzias_melastigma	anp32a	ENSOMEG00000008151	ANP	112160661
+Oryzias_melastigma	zgc:162255	ENSOMEG00000008320	Other_CRF	112139953
+Oryzias_melastigma	edrf1	ENSOMEG00000008343	Others	112161878
+Oryzias_melastigma	bahcc1a	ENSOMEG00000008395	Others	112146073
+Oryzias_melastigma	smurf2	ENSOMEG00000008441	Others	112146480
+Oryzias_melastigma	gtf2h4	ENSOMEG00000008442	GTF	112138053
+Oryzias_melastigma	gsk3bb	ENSOMEG00000008470	Others	112155060
+Oryzias_melastigma	CASK	ENSOMEG00000008514	CAMK	112154832
+Oryzias_melastigma	TLE3	ENSOMEG00000008528	Transducin	112160726
+Oryzias_melastigma	edf1	ENSOMEG00000008537	Others	112163326
+Oryzias_melastigma	txnipa	ENSOMEG00000008557	Others	112137461
+Oryzias_melastigma	polr3c	ENSOMEG00000008558	POLR	112143339
+Oryzias_melastigma	phf5a	ENSOMEG00000008564	PHF	112154331
+Oryzias_melastigma	ehmt2	ENSOMEG00000008650	Histone lysine methyltransferase	112162481
+Oryzias_melastigma		ENSOMEG00000008688	Other_CRF	112160465
+Oryzias_melastigma	ilf2	ENSOMEG00000008691	Others	112162093
+Oryzias_melastigma	malt1	ENSOMEG00000008700	Others	112148661
+Oryzias_melastigma	cops5	ENSOMEG00000008760	Others	112151189
+Oryzias_melastigma	skor1a	ENSOMEG00000008837	SKI	112160356
+Oryzias_melastigma	med30	ENSOMEG00000008879	Mediator complex	NA
+Oryzias_melastigma	cbx7b	ENSOMEG00000008892	Chromobox	112153985
+Oryzias_melastigma	TADA1	ENSOMEG00000008922	Transcriptional adaptor	112147047
+Oryzias_melastigma	NOL11	ENSOMEG00000008925	Nuclear coactivator	112137568
+Oryzias_melastigma	dpy30	ENSOMEG00000008929	Others	NA
+Oryzias_melastigma	DDX5	ENSOMEG00000008956	RNA helicase	112156969
+Oryzias_melastigma	bptf	ENSOMEG00000008988	Bromodomain	NA
+Oryzias_melastigma	xrcc6	ENSOMEG00000008998	Others	112154572
+Oryzias_melastigma	safb	ENSOMEG00000009066	Others	112150316
+Oryzias_melastigma	myo6b	ENSOMEG00000009075	Others	112145673
+Oryzias_melastigma	abrab	ENSOMEG00000009089	Actin	112162613
+Oryzias_melastigma	supt4h1	ENSOMEG00000009103	SUPT	112142391
+Oryzias_melastigma	rgcc	ENSOMEG00000009162	Others	112154725
+Oryzias_melastigma		ENSOMEG00000009187	Others	112137049
+Oryzias_melastigma	wwox	ENSOMEG00000009205	WW	112152478
+Oryzias_melastigma		ENSOMEG00000009284	Others	112145890
+Oryzias_melastigma	egfra	ENSOMEG00000009323	Others	112147305
+Oryzias_melastigma	ascc2	ENSOMEG00000009398	ASCC	112136352
+Oryzias_melastigma	cops2	ENSOMEG00000009424	Others	112160943
+Oryzias_melastigma	loxl3b	ENSOMEG00000009459	Others	112145153
+Oryzias_melastigma		ENSOMEG00000009483	PARP	NA
+Oryzias_melastigma	notch1a	ENSOMEG00000009528	Notch	112163451
+Oryzias_melastigma	mrtfab	ENSOMEG00000009541	Others	112153828
+Oryzias_melastigma	lancl2	ENSOMEG00000009552	Others	112139044
+Oryzias_melastigma		ENSOMEG00000009647	Others	NA
+Oryzias_melastigma	med22	ENSOMEG00000009648	Mediator complex	112147911
+Oryzias_melastigma	zmym2	ENSOMEG00000009672	Zinc finger	112155106
+Oryzias_melastigma	phf19	ENSOMEG00000009675	PHF	112141383
+Oryzias_melastigma	ncoa2	ENSOMEG00000009677	Nuclear receptor coactivator	112151212
+Oryzias_melastigma	mms19	ENSOMEG00000009691	Others	NA
+Oryzias_melastigma	pa2g4a	ENSOMEG00000009706	Others	112144831
+Oryzias_melastigma	bcl10	ENSOMEG00000009723	BCL	112147125
+Oryzias_melastigma		ENSOMEG00000009736	SWI/SNF	112142057
+Oryzias_melastigma	vhl	ENSOMEG00000009781	Others	112145179
+Oryzias_melastigma	ttf2	ENSOMEG00000009786	Others	NA
+Oryzias_melastigma		ENSOMEG00000009798	PARP	112155095
+Oryzias_melastigma	supt7l	ENSOMEG00000009818	SUPT	112137814
+Oryzias_melastigma	dnaja3a	ENSOMEG00000009819	Others	112146200
+Oryzias_melastigma	tonsl	ENSOMEG00000009846	Others	112142678
+Oryzias_melastigma	wbp2	ENSOMEG00000009889	WW	112141357
+Oryzias_melastigma	eya1	ENSOMEG00000009916	EYA	112151371
+Oryzias_melastigma	HDAC4	ENSOMEG00000009954	Histone deacetylase	112160146
+Oryzias_melastigma	hck	ENSOMEG00000009994	Others	112159674
+Oryzias_melastigma	ecd	ENSOMEG00000010021	Others	112161919
+Oryzias_melastigma	cnot6l	ENSOMEG00000010026	CCR4-NOT	112140539
+Oryzias_melastigma	taf2	ENSOMEG00000010038	TATA-box	112143551
+Oryzias_melastigma	znf593	ENSOMEG00000010097	Zinc finger	112148926
+Oryzias_melastigma	serbp1b	ENSOMEG00000010108	Others	112147205
+Oryzias_melastigma	crebbpb	ENSOMEG00000010139	CREB	112146808
+Oryzias_melastigma	rprd1a	ENSOMEG00000010157	Others	112137635
+Oryzias_melastigma	smyd2a	ENSOMEG00000010169	SMYD	112161085
+Oryzias_melastigma	sap30bp	ENSOMEG00000010202	SAP	NA
+Oryzias_melastigma	gtf2h5	ENSOMEG00000010204	GTF	112158305
+Oryzias_melastigma	kank1a	ENSOMEG00000010225	Others	NA
+Oryzias_melastigma	cenpf	ENSOMEG00000010242	CENP	112160668
+Oryzias_melastigma	supt6h	ENSOMEG00000010277	SUPT	112142902
+Oryzias_melastigma	cnot3a	ENSOMEG00000010309	CCR4-NOT	112143193
+Oryzias_melastigma	bend3	ENSOMEG00000010338	Others	112143102
+Oryzias_melastigma	gps2	ENSOMEG00000010385	Others	112156500
+Oryzias_melastigma		ENSOMEG00000010424	Others	112150092
+Oryzias_melastigma	dhx33	ENSOMEG00000010438	RNA helicase	112142372
+Oryzias_melastigma	tnip1	ENSOMEG00000010443	Others	112153077
+Oryzias_melastigma	DDX39A	ENSOMEG00000010444	RNA helicase	112157189
+Oryzias_melastigma	SFMBT1	ENSOMEG00000010503	Others	112145208
+Oryzias_melastigma	cdc73	ENSOMEG00000010509	Others	NA
+Oryzias_melastigma	slc19a1	ENSOMEG00000010528	SLC	112160120
+Oryzias_melastigma	aip	ENSOMEG00000010546	Others	NA
+Oryzias_melastigma	hnrpkl	ENSOMEG00000010595	HNRNP	112163035
+Oryzias_melastigma	tcea1	ENSOMEG00000010610	TEF	112147538
+Oryzias_melastigma	eloca	ENSOMEG00000010625	Others	112151604
+Oryzias_melastigma	kat2b	ENSOMEG00000010646	Lysine acetyltransferase	112163232
+Oryzias_melastigma		ENSOMEG00000010658	Others	112139894
+Oryzias_melastigma	c1qbp	ENSOMEG00000010688	Others	112139004
+Oryzias_melastigma	rbm39b	ENSOMEG00000010704	RNA binding protein	112159118
+Oryzias_melastigma	polr2a	ENSOMEG00000010713	POLR	NA
+Oryzias_melastigma	leo1	ENSOMEG00000010732	Others	NA
+Oryzias_melastigma	ikbkg	ENSOMEG00000010755	Others	112158682
+Oryzias_melastigma	ruvbl2	ENSOMEG00000010777	Other_CRF	112142399
+Oryzias_melastigma		ENSOMEG00000010783	Others	112148874
+Oryzias_melastigma	pabpc1l	ENSOMEG00000010789	Other_CRF	112159117
+Oryzias_melastigma	tfb2m	ENSOMEG00000010814	Others	112160871
+Oryzias_melastigma	runx1t1	ENSOMEG00000010840	Others	112163378
+Oryzias_melastigma		ENSOMEG00000010891	SMYD	112161304
+Oryzias_melastigma	FHL2	ENSOMEG00000010894	FHL	112155000
+Oryzias_melastigma	trib1	ENSOMEG00000010903	Others	112161316
+Oryzias_melastigma	hspa8	ENSOMEG00000010917	Heat shock protein	112139003
+Oryzias_melastigma	brip1	ENSOMEG00000010919	Others	NA
+Oryzias_melastigma		ENSOMEG00000010921	Others	112153958
+Oryzias_melastigma	apbb2b	ENSOMEG00000010924	Others	NA
+Oryzias_melastigma	dhx36	ENSOMEG00000011032	RNA helicase	112149218
+Oryzias_melastigma	taf5	ENSOMEG00000011058	TATA-box	112137277
+Oryzias_melastigma	lpin2	ENSOMEG00000011088	LPIN	112147531
+Oryzias_melastigma		ENSOMEG00000011226	Others	NA
+Oryzias_melastigma	wdtc1	ENSOMEG00000011235	WD	112143945
+Oryzias_melastigma	auts2a	ENSOMEG00000011255	Others	112143019
+Oryzias_melastigma	padi2	ENSOMEG00000011329	Other_CRF	112145210
+Oryzias_melastigma	banp	ENSOMEG00000011341	Others	112152817
+Oryzias_melastigma	RING1	ENSOMEG00000011404	Ring finger protein	NA
+Oryzias_melastigma	DCAF1	ENSOMEG00000011453	Others	112158776
+Oryzias_melastigma	orc2	ENSOMEG00000011518	Others	112147136
+Oryzias_melastigma	LIMD1	ENSOMEG00000011521	LIM	112143978
+Oryzias_melastigma	taf3	ENSOMEG00000011560	TATA-box	112152706
+Oryzias_melastigma	sirt3	ENSOMEG00000011569	Sirtuin	112141986
+Oryzias_melastigma	TLE5	ENSOMEG00000011582	Others	112145331
+Oryzias_melastigma	abt1	ENSOMEG00000011593	Others	NA
+Oryzias_melastigma	sin3b	ENSOMEG00000011598	Others	112150371
+Oryzias_melastigma	tasorb	ENSOMEG00000011608	FAM	NA
+Oryzias_melastigma	HINT1	ENSOMEG00000011624	Others	112162250
+Oryzias_melastigma	hdac5	ENSOMEG00000011665	Histone deacetylase	112146683
+Oryzias_melastigma	ccnt2a	ENSOMEG00000011738	Cyclin	112154915
+Oryzias_melastigma	ern1	ENSOMEG00000011741	Others	112146047
+Oryzias_melastigma	hdac6	ENSOMEG00000011758	Histone deacetylase	NA
+Oryzias_melastigma	CTBP1	ENSOMEG00000011793	Others	112153729
+Oryzias_melastigma	pphln1	ENSOMEG00000011858	Others	112158439
+Oryzias_melastigma	jupa	ENSOMEG00000011864	Others	112137279
+Oryzias_melastigma	cbx4	ENSOMEG00000011870	Chromobox	112146829
+Oryzias_melastigma	nudt5	ENSOMEG00000011898	Other_CRF	112138286
+Oryzias_melastigma	ascc1	ENSOMEG00000011960	ASCC	112154367
+Oryzias_melastigma	dvl2	ENSOMEG00000011978	Others	112156396
+Oryzias_melastigma	uxt	ENSOMEG00000012056	Others	NA
+Oryzias_melastigma	ldb1b	ENSOMEG00000012071	LIM	NA
+Oryzias_melastigma	dapk3	ENSOMEG00000012168	Others	112147648
+Oryzias_melastigma	prpf6	ENSOMEG00000012174	Others	112159115
+Oryzias_melastigma	lrrc14b	ENSOMEG00000012183	Others	112138205
+Oryzias_melastigma	chrac1	ENSOMEG00000012231	Other_CRF	112160454
+Oryzias_melastigma		ENSOMEG00000012274	Others	112144881
+Oryzias_melastigma	suds3	ENSOMEG00000012339	Other_Co-activator/repressors	112148120
+Oryzias_melastigma	tdp2b	ENSOMEG00000012347	Others	NA
+Oryzias_melastigma	insra	ENSOMEG00000012348	Others	112147354
+Oryzias_melastigma		ENSOMEG00000012405	Mediator complex	112152995
+Oryzias_melastigma	gmnn	ENSOMEG00000012407	Others	112160362
+Oryzias_melastigma	pir	ENSOMEG00000012476	Others	112160320
+Oryzias_melastigma	flnca	ENSOMEG00000012486	Others	NA
+Oryzias_melastigma	depdc1a	ENSOMEG00000012533	Others	112150351
+Oryzias_melastigma	si:ch1073-459j12.1	ENSOMEG00000012646	Others	112148473
+Oryzias_melastigma	nono	ENSOMEG00000012702	Others	112148730
+Oryzias_melastigma	sirt7	ENSOMEG00000012708	Sirtuin	112137386
+Oryzias_melastigma	ccnd1	ENSOMEG00000012768	Cyclin	NA
+Oryzias_melastigma	ing4	ENSOMEG00000012769	ING	112143710
+Oryzias_melastigma	slc30a9	ENSOMEG00000012829	SLC	112153424
+Oryzias_melastigma	pim1	ENSOMEG00000012860	Others	112159694
+Oryzias_melastigma	prmt1	ENSOMEG00000012874	Arginine methyltransferase	112146013
+Oryzias_melastigma	CSNK2A2	ENSOMEG00000012900	Casein	112152633
+Oryzias_melastigma	rai1	ENSOMEG00000012998	Others	112146481
+Oryzias_melastigma	csrp3	ENSOMEG00000012999	Others	NA
+Oryzias_melastigma	bcor	ENSOMEG00000013019	Other_Co-activator/repressors	112154882
+Oryzias_melastigma	rfxap	ENSOMEG00000013060	Others	112139895
+Oryzias_melastigma	TENM2	ENSOMEG00000013180	Others	NA
+Oryzias_melastigma	smarcd1	ENSOMEG00000013234	SWI/SNF	112144571
+Oryzias_melastigma	prmt5	ENSOMEG00000013235	Arginine methyltransferase	112147675
+Oryzias_melastigma		ENSOMEG00000013241	Erbb2	NA
+Oryzias_melastigma	stk3	ENSOMEG00000013242	Others	112137115
+Oryzias_melastigma		ENSOMEG00000013253	Others	112136261
+Oryzias_melastigma		ENSOMEG00000013320	Tripartite motif	NA
+Oryzias_melastigma	supt20	ENSOMEG00000013381	SUPT	112139811
+Oryzias_melastigma	med10	ENSOMEG00000013413	Mediator complex	112136297
+Oryzias_melastigma	SRC	ENSOMEG00000013533	Others	112144970
+Oryzias_melastigma	tab3	ENSOMEG00000013555	Others	112150334
+Oryzias_melastigma	lmo2	ENSOMEG00000013608	LIM	112151750
+Oryzias_melastigma	ddx20	ENSOMEG00000013657	RNA helicase	112159606
+Oryzias_melastigma	taf9	ENSOMEG00000013699	TATA-box	112142861
+Oryzias_melastigma	lbh	ENSOMEG00000013768	Others	112147545
+Oryzias_melastigma	DTX1	ENSOMEG00000013775	Others	112148691
+Oryzias_melastigma	arrb2a	ENSOMEG00000013788	Others	112142851
+Oryzias_melastigma	med12	ENSOMEG00000013799	Mediator complex	112153477
+Oryzias_melastigma	pak6b	ENSOMEG00000013862	Others	112158041
+Oryzias_melastigma	siah2l	ENSOMEG00000013887	Others	112142853
+Oryzias_melastigma	vgll2a	ENSOMEG00000013896	Vestigial like	112138165
+Oryzias_melastigma	chchd6a	ENSOMEG00000013926	Coiled-coil	112159524
+Oryzias_melastigma	btk	ENSOMEG00000013982	Others	NA
+Oryzias_melastigma	camk2d2	ENSOMEG00000014019	CAMK	112156983
+Oryzias_melastigma	egln2	ENSOMEG00000014031	Others	112149481
+Oryzias_melastigma	pih1d1	ENSOMEG00000014044	Other_CRF	112138847
+Oryzias_melastigma		ENSOMEG00000014073	Others	112146105
+Oryzias_melastigma	pcgf5a	ENSOMEG00000014083	PCGF	112162218
+Oryzias_melastigma	ankrd1a	ENSOMEG00000014118	Ankyrin repeat	112161537
+Oryzias_melastigma		ENSOMEG00000014123	Transducin	112148879
+Oryzias_melastigma	kat6b	ENSOMEG00000014135	Lysine acetyltransferase	112154004
+Oryzias_melastigma	actl6a	ENSOMEG00000014174	Actin	112150429
+Oryzias_melastigma	CTDSP1	ENSOMEG00000014176	Others	112156687
+Oryzias_melastigma	hdac7a	ENSOMEG00000014188	Histone deacetylase	112159593
+Oryzias_melastigma	ankra2	ENSOMEG00000014199	Ankyrin repeat	112162834
+Oryzias_melastigma	brms1lb	ENSOMEG00000014213	Other_CRF	112158463
+Oryzias_melastigma	nfkbiaa	ENSOMEG00000014232	NFKB associated	112158034
+Oryzias_melastigma	tenm1	ENSOMEG00000014257	Others	112153167
+Oryzias_melastigma	cavin1b	ENSOMEG00000014302	Others	112162331
+Oryzias_melastigma	ppid	ENSOMEG00000014304	Others	112139733
+Oryzias_melastigma	itchb	ENSOMEG00000014323	Others	NA
+Oryzias_melastigma	pex2	ENSOMEG00000014328	Others	112151119
+Oryzias_melastigma	hdac10	ENSOMEG00000014338	Histone deacetylase	112152865
+Oryzias_melastigma	cnot11	ENSOMEG00000014389	CCR4-NOT	112141208
+Oryzias_melastigma	med31	ENSOMEG00000014395	Mediator complex	112142865
+Oryzias_melastigma	ppie	ENSOMEG00000014458	Others	112150181
+Oryzias_melastigma	WDR77	ENSOMEG00000014503	WD	112145444
+Oryzias_melastigma		ENSOMEG00000014611	Casein	NA
+Oryzias_melastigma	strap	ENSOMEG00000014625	Others	112140374
+Oryzias_melastigma	taf5l	ENSOMEG00000014627	TATA-box	112138120
+Oryzias_melastigma		ENSOMEG00000014668	Others	112153084
+Oryzias_melastigma	kdm5a	ENSOMEG00000014688	Lysine demethylase	112153722
+Oryzias_melastigma	elp2	ENSOMEG00000014718	ELP	112137379
+Oryzias_melastigma	sirt5	ENSOMEG00000014728	Sirtuin	112150812
+Oryzias_melastigma	jmjd1cb	ENSOMEG00000014854	Other_CRF	112162333
+Oryzias_melastigma		ENSOMEG00000014858	Others	112156662
+Oryzias_melastigma	med29	ENSOMEG00000014861	Mediator complex	112149494
+Oryzias_melastigma	med14	ENSOMEG00000014864	Mediator complex	NA
+Oryzias_melastigma	ino80e	ENSOMEG00000014887	INO80 complex	112143714
+Oryzias_melastigma		ENSOMEG00000014929	CHD	NA
+Oryzias_melastigma	med1	ENSOMEG00000014943	Mediator complex	NA
+Oryzias_melastigma	nrbf2b	ENSOMEG00000014948	Nuclear receptor coactivator	112162328
+Oryzias_melastigma	hnrnpub	ENSOMEG00000014951	HNRNP	112157918
+Oryzias_melastigma	med20	ENSOMEG00000014979	Mediator complex	NA
+Oryzias_melastigma	ralgapa2	ENSOMEG00000015017	Others	112161828
+Oryzias_melastigma	gtf2e1	ENSOMEG00000015036	GTF	112155258
+Oryzias_melastigma	med24	ENSOMEG00000015105	Mediator complex	112154395
+Oryzias_melastigma	mbtd1	ENSOMEG00000015112	Others	112162340
+Oryzias_melastigma	cnot1	ENSOMEG00000015124	CCR4-NOT	NA
+Oryzias_melastigma	cnot7	ENSOMEG00000015155	CCR4-NOT	112153331
+Oryzias_melastigma	kdm1a	ENSOMEG00000015181	Lysine demethylase	112143592
+Oryzias_melastigma	nedd8	ENSOMEG00000015223	Others	112155766
+Oryzias_melastigma	brd1a	ENSOMEG00000015247	Bromodomain	112153240
+Oryzias_melastigma	tob1a	ENSOMEG00000015327	Others	112146308
+Oryzias_melastigma	elp3	ENSOMEG00000015360	ELP	112158485
+Oryzias_melastigma		ENSOMEG00000015373	Others	112155709
+Oryzias_melastigma	ercc3	ENSOMEG00000015374	Others	112160880
+Oryzias_melastigma	ssu72	ENSOMEG00000015450	Others	112145461
+Oryzias_melastigma	niban2a	ENSOMEG00000015525	FAM	112136145
+Oryzias_melastigma	mak	ENSOMEG00000015597	Others	112151216
+Oryzias_melastigma		ENSOMEG00000015616	Others	NA
+Oryzias_melastigma	tdrd3	ENSOMEG00000015668	Others	112161024
+Oryzias_melastigma	supt3h	ENSOMEG00000015675	SUPT	112138735
+Oryzias_melastigma	erbin	ENSOMEG00000015726	Erbb2	112162899
+Oryzias_melastigma	rad21a	ENSOMEG00000015753	Others	112143771
+Oryzias_melastigma	rnf25	ENSOMEG00000015780	Ring finger protein	NA
+Oryzias_melastigma	hltf	ENSOMEG00000015810	Others	112147557
+Oryzias_melastigma	CBL	ENSOMEG00000015819	Others	112149910
+Oryzias_melastigma	nelfa	ENSOMEG00000015844	GTF	112155776
+Oryzias_melastigma	taf7	ENSOMEG00000015906	TATA-box	112153543
+Oryzias_melastigma	kat8	ENSOMEG00000015927	Lysine acetyltransferase	112146429
+Oryzias_melastigma	pik3r1	ENSOMEG00000015946	Others	112163049
+Oryzias_melastigma	cbx5	ENSOMEG00000015980	Chromobox	NA
+Oryzias_melastigma	KMT2A	ENSOMEG00000016032	Lysine methyltransferase	112149217
+Oryzias_melastigma	gtf2f1	ENSOMEG00000016050	GTF	112146743
+Oryzias_melastigma	aurkb	ENSOMEG00000016103	Others	NA
+Oryzias_melastigma	ep400	ENSOMEG00000016163	Others	NA
+Oryzias_melastigma	calcoco1a	ENSOMEG00000016171	Others	112159395
+Oryzias_melastigma	nod2	ENSOMEG00000016186	Others	112161193
+Oryzias_melastigma	chchd2	ENSOMEG00000016188	Coiled-coil	112149622
+Oryzias_melastigma	tab1	ENSOMEG00000016196	Others	112137107
+Oryzias_melastigma	brd7	ENSOMEG00000016248	Bromodomain	112160441
+Oryzias_melastigma	mrgbp	ENSOMEG00000016272	Others	112159655
+Oryzias_melastigma	nrip1b	ENSOMEG00000016284	Nuclear receptor coactivator	112138050
+Oryzias_melastigma	si:dkey-21c19.3	ENSOMEG00000016386	Others	112158753
+Oryzias_melastigma	chd4a	ENSOMEG00000016394	CHD	112160525
+Oryzias_melastigma	ctnnb1	ENSOMEG00000016430	Casein	112143403
+Oryzias_melastigma	fgfr1a	ENSOMEG00000016511	FGF	112148278
+Oryzias_melastigma	pdlim1	ENSOMEG00000016530	Others	112161692
+Oryzias_melastigma	dscama	ENSOMEG00000016538	Others	112138056
+Oryzias_melastigma	tbpl1	ENSOMEG00000016557	TATA-box	112158201
+Oryzias_melastigma	ino80b	ENSOMEG00000016582	INO80 complex	112155888
+Oryzias_melastigma	SGK1	ENSOMEG00000016641	Others	112157984
+Oryzias_melastigma	btf3	ENSOMEG00000016664	Others	112148546
+Oryzias_melastigma	rpap2	ENSOMEG00000016671	Others	112144235
+Oryzias_melastigma	trak1a	ENSOMEG00000016749	Others	112143402
+Oryzias_melastigma	lgals8b	ENSOMEG00000016755	Others	112147322
+Oryzias_melastigma		ENSOMEG00000016761	TATA-box	112160752
+Oryzias_melastigma	taf8	ENSOMEG00000016765	TATA-box	112159431
+Oryzias_melastigma	smarcb1b	ENSOMEG00000016777	SWI/SNF	NA
+Oryzias_melastigma	rbmx	ENSOMEG00000016787	RNA binding protein	112153408
+Oryzias_melastigma	trim33	ENSOMEG00000016791	Tripartite motif	112159092
+Oryzias_melastigma	mtf2	ENSOMEG00000016832	Others	112144240
+Oryzias_melastigma	chd7	ENSOMEG00000016881	CHD	112147169
+Oryzias_melastigma	HMOX1	ENSOMEG00000016914	Others	112157371
+Oryzias_melastigma	brd2a	ENSOMEG00000016921	Bromodomain	112161739
+Oryzias_melastigma	cbx6a	ENSOMEG00000016946	Chromobox	112137111
+Oryzias_melastigma	phf21ab	ENSOMEG00000016967	PHF	NA
+Oryzias_melastigma	cbfa2t2	ENSOMEG00000016995	Others	112144750
+Oryzias_melastigma		ENSOMEG00000017033	BCL	112143594
+Oryzias_melastigma	rbbp4	ENSOMEG00000017035	RBBP	112159371
+Oryzias_melastigma		ENSOMEG00000017041	Sirtuin	112161794
+Oryzias_melastigma	slc26a3.2	ENSOMEG00000017087	SLC	NA
+Oryzias_melastigma	actn3b	ENSOMEG00000017089	Actin	112156391
+Oryzias_melastigma	med13a	ENSOMEG00000017190	Mediator complex	112138703
+Oryzias_melastigma	rnf2	ENSOMEG00000017307	Ring finger protein	112144447
+Oryzias_melastigma	med16	ENSOMEG00000017424	Mediator complex	112137045
+Oryzias_melastigma	ikbkb	ENSOMEG00000017438	Others	112148770
+Oryzias_melastigma	rbl1	ENSOMEG00000017508	Other_Co-activator/repressors	NA
+Oryzias_melastigma	atad2	ENSOMEG00000017511	Others	112143851
+Oryzias_melastigma	suz12b	ENSOMEG00000017539	Others	112157213
+Oryzias_melastigma	ddx1	ENSOMEG00000017620	RNA helicase	NA
+Oryzias_melastigma	prmt6	ENSOMEG00000017676	Arginine methyltransferase	112150990
+Oryzias_melastigma	ago2	ENSOMEG00000017751	Others	112161233
+Oryzias_melastigma	si:ch73-21k16.1	ENSOMEG00000017769	LPIN	112158375
+Oryzias_melastigma	rnf10	ENSOMEG00000017788	Ring finger protein	112148172
+Oryzias_melastigma	ifi35	ENSOMEG00000017839	Others	112146479
+Oryzias_melastigma	creg1	ENSOMEG00000017850	Others	NA
+Oryzias_melastigma	arglu1a	ENSOMEG00000017861	Others	112155173
+Oryzias_melastigma	gtf2h1	ENSOMEG00000017904	GTF	112152289
+Oryzias_melastigma	fgfr2	ENSOMEG00000017936	FGF	112161613
+Oryzias_melastigma		ENSOMEG00000017946	Mediator complex	112144219
+Oryzias_melastigma	rap2c	ENSOMEG00000017959	Others	112153495
+Oryzias_melastigma	mid1ip1a	ENSOMEG00000018017	Others	112156838
+Oryzias_melastigma	nsd3	ENSOMEG00000018046	Nuclear receptor coactivator	NA
+Oryzias_melastigma	utp4	ENSOMEG00000018096	Others	112152752
+Oryzias_melastigma	setd6	ENSOMEG00000018132	SET	112152547
+Oryzias_melastigma	sirt2	ENSOMEG00000018164	Sirtuin	112149952
+Oryzias_melastigma	SCMH1	ENSOMEG00000018185	Others	112144029
+Oryzias_melastigma	med18	ENSOMEG00000018217	Mediator complex	112143135
+Oryzias_melastigma	nup98	ENSOMEG00000018239	Others	112138647
+Oryzias_melastigma	mycbp	ENSOMEG00000018261	MYC	NA
+Oryzias_melastigma	lin54	ENSOMEG00000018289	Others	112162724
+Oryzias_melastigma	tnksb	ENSOMEG00000018326	Others	112148282
+Oryzias_melastigma	rexo4	ENSOMEG00000018327	Others	112154622
+Oryzias_melastigma	arrb1	ENSOMEG00000018342	Others	NA
+Oryzias_melastigma	pink1	ENSOMEG00000018348	Others	112159615
+Oryzias_melastigma	btaf1	ENSOMEG00000018355	Others	112141738
+Oryzias_melastigma	pidd1	ENSOMEG00000018357	Others	112152150
+Oryzias_melastigma	TGFB3	ENSOMEG00000018362	Others	112157680
+Oryzias_melastigma	ccnc	ENSOMEG00000018368	Cyclin	112158445
+Oryzias_melastigma	KCNIP3	ENSOMEG00000018379	Others	112148778
+Oryzias_melastigma	eaf1	ENSOMEG00000018444	Others	112136693
+Oryzias_melastigma	med25	ENSOMEG00000018476	Mediator complex	NA
+Oryzias_melastigma	hnrnpd	ENSOMEG00000018558	HNRNP	112163469
+Oryzias_melastigma	KDM1B	ENSOMEG00000018643	Lysine demethylase	112162540
+Oryzias_melastigma	phf8	ENSOMEG00000018644	PHF	112159175
+Oryzias_melastigma	birc2	ENSOMEG00000018766	Others	112142434
+Oryzias_melastigma	med27	ENSOMEG00000018803	Mediator complex	112141053
+Oryzias_melastigma	tsg101a	ENSOMEG00000018807	Others	112151790
+Oryzias_melastigma	zmynd11	ENSOMEG00000018873	Zinc finger	112144278
+Oryzias_melastigma	apex1	ENSOMEG00000018876	Others	112158007
+Oryzias_melastigma	ENY2	ENSOMEG00000019029	Others	112137087
+Oryzias_melastigma	recql5	ENSOMEG00000019069	Others	NA
+Oryzias_melastigma	wwp1	ENSOMEG00000019136	WW	112151160
+Oryzias_melastigma		ENSOMEG00000019146	Others	112140828
+Oryzias_melastigma	alyref	ENSOMEG00000019176	Others	112146590
+Oryzias_melastigma	setd3	ENSOMEG00000019180	SET	112144153
+Oryzias_melastigma	supt16h	ENSOMEG00000019212	SUPT	112156057
+Oryzias_melastigma	med23	ENSOMEG00000019223	Mediator complex	112157897
+Oryzias_melastigma	egln1a	ENSOMEG00000019273	Others	112161713
+Oryzias_melastigma	commd1	ENSOMEG00000019278	Others	112156896
+Oryzias_melastigma	mdm4	ENSOMEG00000019280	Others	112144998
+Oryzias_melastigma	prmt7	ENSOMEG00000019317	Arginine methyltransferase	112152763
+Oryzias_melastigma	dyrk1b	ENSOMEG00000019341	Others	NA
+Oryzias_melastigma	kmt5aa	ENSOMEG00000019347	Lysine methyltransferase	112163317
+Oryzias_melastigma	wdr5	ENSOMEG00000019366	WD	112162885
+Oryzias_melastigma		ENSOMEG00000019400	NFKB associated	NA
+Oryzias_melastigma	elob	ENSOMEG00000019413	Others	112146019
+Oryzias_melastigma	PCGF2	ENSOMEG00000019443	PCGF	112156904
+Oryzias_melastigma	csnk2a1	ENSOMEG00000019467	Casein	112143536
+Oryzias_melastigma	kdm4b	ENSOMEG00000019470	Lysine demethylase	112150551
+Oryzias_melastigma		ENSOMEG00000019506	Others	112157512
+Oryzias_melastigma	snip1	ENSOMEG00000019541	Others	112143169
+Oryzias_melastigma		ENSOMEG00000019583	Others	112144533
+Oryzias_melastigma	ascc3	ENSOMEG00000019630	ASCC	112139475
+Oryzias_melastigma	nab1a	ENSOMEG00000019650	Others	112156866
+Oryzias_melastigma		ENSOMEG00000019672	DPF	112136787
+Oryzias_melastigma		ENSOMEG00000019690	Others	NA
+Oryzias_melastigma	fhl3a	ENSOMEG00000019712	FHL	112143328
+Oryzias_melastigma	setd1a	ENSOMEG00000019732	SET	112146211
+Oryzias_melastigma	tnni2a.1	ENSOMEG00000019735	Others	112152909
+Oryzias_melastigma	xrn2	ENSOMEG00000019820	Others	112157742
+Oryzias_melastigma	BAZ1A	ENSOMEG00000019851	Bromodomain	112144119
+Oryzias_melastigma	setd7	ENSOMEG00000019879	SET	NA
+Oryzias_melastigma	snx6	ENSOMEG00000019916	Others	112148766
+Oryzias_melastigma	sdr16c5a	ENSOMEG00000019932	Others	112151014
+Oryzias_melastigma	pnrc2	ENSOMEG00000019937	Others	112143489
+Oryzias_melastigma	PLK1	ENSOMEG00000019980	Others	112137374
+Oryzias_melastigma	STRN	ENSOMEG00000020047	Others	NA
+Oryzias_melastigma	arl2bp	ENSOMEG00000020067	Others	112151717
+Oryzias_melastigma	sirt6	ENSOMEG00000020085	Sirtuin	112147608
+Oryzias_melastigma	DACT1	ENSOMEG00000020108	Others	NA
+Oryzias_melastigma	sgf29	ENSOMEG00000020118	Others	112139412
+Oryzias_melastigma	tbpl2	ENSOMEG00000020157	TATA-box	NA
+Oryzias_melastigma	lyn	ENSOMEG00000020174	Others	112150707
+Oryzias_melastigma	nrg2a	ENSOMEG00000020207	Others	112138811
+Oryzias_melastigma	hdac8	ENSOMEG00000020217	Histone deacetylase	112155683
+Oryzias_melastigma	jmjd6	ENSOMEG00000020263	Others	112139432
+Oryzias_melastigma	cxxc5a	ENSOMEG00000020272	Others	112143056
+Oryzias_melastigma	ciita	ENSOMEG00000020306	Others	NA
+Oryzias_melastigma	pin1	ENSOMEG00000020434	Others	112137473
+Oryzias_melastigma	ing3	ENSOMEG00000020463	ING	NA
+Oryzias_melastigma	ago1	ENSOMEG00000020528	Others	112143165
+Oryzias_melastigma	nif3l1	ENSOMEG00000020535	Others	112154683
+Oryzias_melastigma	trim16	ENSOMEG00000020544	Tripartite motif	112154657
+Oryzias_melastigma	kdm2ab	ENSOMEG00000020569	Lysine demethylase	112153468
+Oryzias_melastigma	nab2	ENSOMEG00000020647	Others	112145719
+Oryzias_melastigma	smyd1b	ENSOMEG00000020657	SMYD	112148532
+Oryzias_melastigma	rbm15	ENSOMEG00000020683	RNA binding protein	112158795
+Oryzias_melastigma	skor2	ENSOMEG00000020689	SKI	112162747
+Oryzias_melastigma		ENSOMEG00000020693	Others	112146076
+Oryzias_melastigma	ran	ENSOMEG00000020731	Others	112153522
+Oryzias_melastigma	vgll4b	ENSOMEG00000020758	Vestigial like	112144665
+Oryzias_melastigma	pagr1	ENSOMEG00000020779	Others	112154207
+Oryzias_melastigma	ncl	ENSOMEG00000020786	Others	112150475
+Oryzias_melastigma	PCGF3	ENSOMEG00000020817	PCGF	112137855
+Oryzias_melastigma	ccnk	ENSOMEG00000020837	Cyclin	NA
+Oryzias_melastigma	waca	ENSOMEG00000020923	WW	112151082
+Oryzias_melastigma	snapc5	ENSOMEG00000021026	Others	NA
+Oryzias_melastigma	elp1	ENSOMEG00000021054	ELP	112137810
+Oryzias_melastigma	hsbp1b	ENSOMEG00000021058	Heat shock protein	112152239
+Oryzias_melastigma	phf1	ENSOMEG00000021059	PHF	NA
+Oryzias_melastigma	PHF21B	ENSOMEG00000021122	PHF	112154176
+Oryzias_melastigma	snw1	ENSOMEG00000021137	Others	112158367
+Oryzias_melastigma	med19a	ENSOMEG00000021197	Mediator complex	112153628
+Oryzias_melastigma	btr01	ENSOMEG00000021246	Tripartite motif	112157526
+Oryzias_melastigma	hexim1	ENSOMEG00000021356	Others	112146824
+Oryzias_melastigma	park7	ENSOMEG00000021414	Others	112145430
+Oryzias_melastigma	psen1	ENSOMEG00000021438	Others	112148748
+Oryzias_melastigma	NDUFA13	ENSOMEG00000021487	Others	112147202
+Oryzias_melastigma	ccne1	ENSOMEG00000021519	Cyclin	112160906
+Oryzias_melastigma		ENSOMEG00000021538	Actin	112149519
+Oryzias_melastigma	CTNND1	ENSOMEG00000021568	Casein	112153127
+Oryzias_melastigma	cnot9	ENSOMEG00000021642	CCR4-NOT	112155491
+Oryzias_melastigma	TGFB1I1	ENSOMEG00000021704	Others	112154631
+Oryzias_melastigma	eno1a	ENSOMEG00000021721	Others	112158789
+Oryzias_melastigma	NAA15	ENSOMEG00000021786	Others	112157239
+Oryzias_melastigma	maml3	ENSOMEG00000021819	MAML	112157330
+Oryzias_melastigma	lmo1	ENSOMEG00000021870	LIM	112160963
+Oryzias_melastigma		ENSOMEG00000021891	Others	112158387
+Oryzias_melastigma	erbb2	ENSOMEG00000021935	Erbb2	112154010
+Oryzias_melastigma	nsmce4a	ENSOMEG00000021951	EID	NA
+Oryzias_melastigma	flii	ENSOMEG00000021963	Others	112146044
+Oryzias_melastigma	DUSP26	ENSOMEG00000022024	Others	112163305
+Oryzias_melastigma	trip13	ENSOMEG00000022037	Thyroid hormone receptor	NA
+Oryzias_melastigma	sfswap	ENSOMEG00000022065	Others	112163133
+Oryzias_melastigma	MYOCD	ENSOMEG00000022092	Others	112154590
+Oryzias_melastigma	noc2l	ENSOMEG00000022096	Others	112158787
+Oryzias_melastigma	gtf2a2	ENSOMEG00000022100	GTF	NA
+Oryzias_melastigma	ash2l	ENSOMEG00000022305	Others	112162847
+Oryzias_melastigma	mcrs1	ENSOMEG00000022323	Others	112145649
+Oryzias_melastigma	FAM83G	ENSOMEG00000022330	FAM	112137265
+Oryzias_melastigma	skib	ENSOMEG00000022417	SKI	112145252
+Oryzias_melastigma	ctnnbip1	ENSOMEG00000022428	Casein	NA
+Oryzias_melastigma	trim25	ENSOMEG00000022432	Tripartite motif	112157158
+Oryzias_melastigma	ndnl2	ENSOMEG00000022460	MAGE	112140844
+Oryzias_melastigma	DGKQ	ENSOMEG00000022467	Others	112137893
+Oryzias_melastigma	grip1	ENSOMEG00000022476	Others	112155606
+Oryzias_melastigma	trip11	ENSOMEG00000022486	Thyroid hormone receptor	112148078
+Oryzias_melastigma	setd2	ENSOMEG00000022507	SET	NA
+Oryzias_melastigma	rtf1	ENSOMEG00000022521	Others	112148293
+Oryzias_melastigma	timeless	ENSOMEG00000022548	Others	112145030
+Oryzias_melastigma	fhod1	ENSOMEG00000022632	Others	NA
+Oryzias_melastigma	cdk2	ENSOMEG00000022633	Cyclin	112145163
+Oryzias_melastigma	med6	ENSOMEG00000022664	Mediator complex	NA
+Oryzias_melastigma	hnrnpc	ENSOMEG00000022665	HNRNP	NA
+Oryzias_melastigma	hipk2	ENSOMEG00000022676	HIPK	112151734
+Oryzias_melastigma	smarcd2	ENSOMEG00000022684	SWI/SNF	112154539
+Oryzias_melastigma	brf1b	ENSOMEG00000022742	GTF	112157603
+Oryzias_melastigma	ice2	ENSOMEG00000022854	GTF	112152142
+Oryzias_melastigma	kdm5ba	ENSOMEG00000022909	Lysine demethylase	112144908
+Oryzias_melastigma	sav1	ENSOMEG00000022933	Others	112148441
+Oryzias_melastigma	nelfcd	ENSOMEG00000022950	GTF	112144899
+Oryzias_melastigma	smarcad1a	ENSOMEG00000023032	SWI/SNF	112148285
+Oryzias_melastigma	cnot8	ENSOMEG00000023055	CCR4-NOT	112142899
+Oryzias_melastigma	kat2a	ENSOMEG00000023066	Lysine acetyltransferase	112146762
+Oryzias_melastigma	med21	ENSOMEG00000023088	Mediator complex	112160235
+Oryzias_melastigma	PELI1	ENSOMEG00000023127	Others	112161769
+Oryzias_melastigma	ercc2	ENSOMEG00000023166	Others	112149727
+Oryzias_melastigma	seta	ENSOMEG00000023178	SET	112137760
+Oryzias_melastigma	cnot2	ENSOMEG00000023230	CCR4-NOT	112152078
+Oryzias_melastigma	hcfc2	ENSOMEG00000023260	Others	112160227
+Oryzias_melastigma	rnf8	ENSOMEG00000023263	Ring finger protein	112158417
+Oryzias_melastigma	plk3	ENSOMEG00000023344	Others	112147646
+Oryzias_melastigma	taf1a	ENSOMEG00000023358	TATA-box	112157685
+Oryzias_melastigma		ENSOMEG00000023407	Transducin	112148413
+Oryzias_melastigma	vgll3	ENSOMEG00000023432	Vestigial like	112154827
+Oryzias_melastigma		ENSOMEG00000023439	Others	NA
+Oryzias_melastigma	mdm2	ENSOMEG00000023474	Others	112154812
+Oryzias_melastigma	ezrb	ENSOMEG00000023480	Others	112158380
+Oryzias_melastigma	blm	ENSOMEG00000023545	Others	112152657
+Oryzias_melastigma	jak2a	ENSOMEG00000023623	Others	112163270
+Oryzias_melastigma	cxxc1b	ENSOMEG00000023668	Others	112145754
+Oryzias_melastigma	sfmbt2	ENSOMEG00000023721	Others	112156282
+Oryzias_melastigma	wwc1	ENSOMEG00000023722	WW	112139546
+Oryzias_melastigma	top1l	ENSOMEG00000023745	Other_CRF	112145789
+Oryzias_melastigma	sap30l	ENSOMEG00000023756	SAP	112142655
+Oryzias_melastigma	epc1a	ENSOMEG00000023841	Others	NA
+Oryzias_melastigma	HDAC11	ENSOMEG00000023880	Histone deacetylase	112145608
+Oryzias_melastigma	tada3l	ENSOMEG00000023911	Transcriptional adaptor	112145742
+Oryzias_melastigma	dnmt1	ENSOMEG00000023946	DNA_methylase	112146523
+Oryzias_melastigma	kdm8	ENSOMEG00000023993	Lysine demethylase	112146982
+Oryzias_melastigma	axin1	ENSOMEG00000023999	Others	112146794

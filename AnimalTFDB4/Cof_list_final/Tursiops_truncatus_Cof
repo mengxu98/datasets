@@ -1,0 +1,909 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Tursiops_truncatus	S100A8	ENSTTRG00000000013	Others	NA
+Tursiops_truncatus	S100A9	ENSTTRG00000000016	Others	NA
+Tursiops_truncatus	NCOA3	ENSTTRG00000000021	Nuclear receptor coactivator	NA
+Tursiops_truncatus	PAK6	ENSTTRG00000000040	Others	NA
+Tursiops_truncatus	MCRS1	ENSTTRG00000000053	Others	NA
+Tursiops_truncatus	NCOA7	ENSTTRG00000000056	Nuclear receptor coactivator	NA
+Tursiops_truncatus	PML	ENSTTRG00000000061	Others	NA
+Tursiops_truncatus	TXN	ENSTTRG00000000119	Others	NA
+Tursiops_truncatus	RNF10	ENSTTRG00000000149	Ring finger protein	NA
+Tursiops_truncatus	CHEK1	ENSTTRG00000000195	Others	NA
+Tursiops_truncatus	CCDC59	ENSTTRG00000000199	Coiled-coil	NA
+Tursiops_truncatus	SMARCAD1	ENSTTRG00000000226	SWI/SNF	NA
+Tursiops_truncatus	PHIP	ENSTTRG00000000236	Others	NA
+Tursiops_truncatus		ENSTTRG00000000266	Zinc finger	NA
+Tursiops_truncatus	NOTCH2	ENSTTRG00000000310	Notch	NA
+Tursiops_truncatus	HIPK1	ENSTTRG00000000311	HIPK	NA
+Tursiops_truncatus	TNP1	ENSTTRG00000000323	Other_CRF	101324122
+Tursiops_truncatus	KAT6B	ENSTTRG00000000365	Lysine acetyltransferase	NA
+Tursiops_truncatus	PHF8	ENSTTRG00000000375	PHF	NA
+Tursiops_truncatus		ENSTTRG00000000411	ELP	NA
+Tursiops_truncatus	TAF2	ENSTTRG00000000419	TATA-box	NA
+Tursiops_truncatus	COPS2	ENSTTRG00000000462	Others	NA
+Tursiops_truncatus	MAML1	ENSTTRG00000000477	MAML	NA
+Tursiops_truncatus	DPY30	ENSTTRG00000000533	Others	NA
+Tursiops_truncatus	THOC5	ENSTTRG00000000542	Others	NA
+Tursiops_truncatus	RPTOR	ENSTTRG00000000551	Others	NA
+Tursiops_truncatus	KMT5C	ENSTTRG00000000574	Lysine methyltransferase	NA
+Tursiops_truncatus	MYBBP1A	ENSTTRG00000000604	MYB	NA
+Tursiops_truncatus		ENSTTRG00000000618	Zinc finger	NA
+Tursiops_truncatus	EP400	ENSTTRG00000000633	Others	NA
+Tursiops_truncatus		ENSTTRG00000000635	ANP	NA
+Tursiops_truncatus	SUMO1	ENSTTRG00000000642	Others	101316258
+Tursiops_truncatus	RNF20	ENSTTRG00000000662	Ring finger protein	NA
+Tursiops_truncatus	MAML3	ENSTTRG00000000674	MAML	NA
+Tursiops_truncatus	PELI1	ENSTTRG00000000697	Others	NA
+Tursiops_truncatus	CBX3	ENSTTRG00000000711	Chromobox	101335910
+Tursiops_truncatus	CHTOP	ENSTTRG00000000798	Others	NA
+Tursiops_truncatus	ECD	ENSTTRG00000000816	Others	101334961
+Tursiops_truncatus	CDK5	ENSTTRG00000000850	Cyclin	NA
+Tursiops_truncatus	SMARCD3	ENSTTRG00000000872	SWI/SNF	NA
+Tursiops_truncatus	GNL3L	ENSTTRG00000000881	Others	NA
+Tursiops_truncatus	MED4	ENSTTRG00000000891	Mediator complex	101339522
+Tursiops_truncatus	BEND6	ENSTTRG00000000920	Others	NA
+Tursiops_truncatus	BAZ1A	ENSTTRG00000000926	Bromodomain	NA
+Tursiops_truncatus	TCERG1	ENSTTRG00000000938	TEF	NA
+Tursiops_truncatus		ENSTTRG00000000962	CAMK	NA
+Tursiops_truncatus	RUVBL1	ENSTTRG00000000993	Other_CRF	NA
+Tursiops_truncatus	SMARCD1	ENSTTRG00000001010	SWI/SNF	NA
+Tursiops_truncatus	RWDD3	ENSTTRG00000001022	Others	NA
+Tursiops_truncatus	PHF21A	ENSTTRG00000001045	PHF	NA
+Tursiops_truncatus	KDM5B	ENSTTRG00000001078	Lysine demethylase	NA
+Tursiops_truncatus	CDK1	ENSTTRG00000001085	Cyclin	NA
+Tursiops_truncatus	NAA15	ENSTTRG00000001106	Others	NA
+Tursiops_truncatus	TAF1D	ENSTTRG00000001139	TATA-box	NA
+Tursiops_truncatus		ENSTTRG00000001141	Mediator complex	NA
+Tursiops_truncatus	BIRC2	ENSTTRG00000001165	Others	NA
+Tursiops_truncatus	RUVBL2	ENSTTRG00000001255	Other_CRF	NA
+Tursiops_truncatus	CBX7	ENSTTRG00000001265	Chromobox	NA
+Tursiops_truncatus	RBM15	ENSTTRG00000001317	RNA binding protein	NA
+Tursiops_truncatus	MTOR	ENSTTRG00000001321	Others	NA
+Tursiops_truncatus	BCL10	ENSTTRG00000001328	BCL	NA
+Tursiops_truncatus	CEP290	ENSTTRG00000001364	Others	NA
+Tursiops_truncatus	YAF2	ENSTTRG00000001376	Others	NA
+Tursiops_truncatus	KAT2B	ENSTTRG00000001377	Lysine acetyltransferase	NA
+Tursiops_truncatus	BANP	ENSTTRG00000001381	Others	NA
+Tursiops_truncatus		ENSTTRG00000001399	Others	NA
+Tursiops_truncatus	MYCBP2	ENSTTRG00000001422	MYC	NA
+Tursiops_truncatus	RBM15B	ENSTTRG00000001431	RNA binding protein	NA
+Tursiops_truncatus	DCAF1	ENSTTRG00000001432	Others	NA
+Tursiops_truncatus	ELANE	ENSTTRG00000001467	Others	NA
+Tursiops_truncatus	MED16	ENSTTRG00000001468	Mediator complex	NA
+Tursiops_truncatus	KMT2E	ENSTTRG00000001469	Lysine methyltransferase	NA
+Tursiops_truncatus	PRMT5	ENSTTRG00000001501	Arginine methyltransferase	NA
+Tursiops_truncatus	AJUBA	ENSTTRG00000001503	Others	NA
+Tursiops_truncatus	EPC1	ENSTTRG00000001517	Others	NA
+Tursiops_truncatus	NMI	ENSTTRG00000001527	Others	NA
+Tursiops_truncatus	PICALM	ENSTTRG00000001554	Others	NA
+Tursiops_truncatus	CCAR1	ENSTTRG00000001567	Others	NA
+Tursiops_truncatus	EFCAB6	ENSTTRG00000001581	Others	NA
+Tursiops_truncatus	CCNA2	ENSTTRG00000001586	Cyclin	NA
+Tursiops_truncatus	HDAC1	ENSTTRG00000001613	Histone deacetylase	NA
+Tursiops_truncatus	MED14	ENSTTRG00000001627	Mediator complex	NA
+Tursiops_truncatus	JMJD6	ENSTTRG00000001707	Others	NA
+Tursiops_truncatus	ENY2	ENSTTRG00000001742	Others	101322310
+Tursiops_truncatus	ELL2	ENSTTRG00000001751	GTF	NA
+Tursiops_truncatus	MRGBP	ENSTTRG00000001765	Others	NA
+Tursiops_truncatus	MED18	ENSTTRG00000001851	Mediator complex	101322837
+Tursiops_truncatus		ENSTTRG00000001871	Others	NA
+Tursiops_truncatus	KDM2A	ENSTTRG00000001877	Lysine demethylase	NA
+Tursiops_truncatus	SKIL	ENSTTRG00000001924	SKI	NA
+Tursiops_truncatus	RBL1	ENSTTRG00000001933	Other_Co-activator/repressors	NA
+Tursiops_truncatus	TONSL	ENSTTRG00000001942	Others	NA
+Tursiops_truncatus	ACTB	ENSTTRG00000001953	Actin	NA
+Tursiops_truncatus	RAD21	ENSTTRG00000001956	Others	101333537
+Tursiops_truncatus	PIM1	ENSTTRG00000001968	Others	NA
+Tursiops_truncatus	XIAP	ENSTTRG00000001989	Others	NA
+Tursiops_truncatus	TRIM28	ENSTTRG00000001999	Tripartite motif	NA
+Tursiops_truncatus	SMARCA2	ENSTTRG00000002033	SWI/SNF	NA
+Tursiops_truncatus	TBPL2	ENSTTRG00000002034	TATA-box	NA
+Tursiops_truncatus	SMARCB1	ENSTTRG00000002048	SWI/SNF	NA
+Tursiops_truncatus	TAF1C	ENSTTRG00000002062	TATA-box	NA
+Tursiops_truncatus	PRMT8	ENSTTRG00000002069	Arginine methyltransferase	NA
+Tursiops_truncatus	MED19	ENSTTRG00000002099	Mediator complex	NA
+Tursiops_truncatus	CTNND1	ENSTTRG00000002103	Casein	NA
+Tursiops_truncatus		ENSTTRG00000002150	Others	NA
+Tursiops_truncatus	SNX6	ENSTTRG00000002157	Others	NA
+Tursiops_truncatus	FGFR2	ENSTTRG00000002160	FGF	NA
+Tursiops_truncatus	BTN1A1	ENSTTRG00000002170	Others	NA
+Tursiops_truncatus	ABT1	ENSTTRG00000002176	Others	NA
+Tursiops_truncatus	KAT6A	ENSTTRG00000002231	Lysine acetyltransferase	NA
+Tursiops_truncatus	KMT2B	ENSTTRG00000002243	Lysine methyltransferase	NA
+Tursiops_truncatus	WWP1	ENSTTRG00000002250	WW	NA
+Tursiops_truncatus	HTATSF1	ENSTTRG00000002269	Others	NA
+Tursiops_truncatus	IKBKB	ENSTTRG00000002282	Others	NA
+Tursiops_truncatus	SFMBT1	ENSTTRG00000002298	Others	NA
+Tursiops_truncatus	C6orf89	ENSTTRG00000002299	Other_CRF	NA
+Tursiops_truncatus	MLLT1	ENSTTRG00000002335	GTF	NA
+Tursiops_truncatus	PRMT6	ENSTTRG00000002369	Arginine methyltransferase	NA
+Tursiops_truncatus	KDM4A	ENSTTRG00000002380	Lysine demethylase	NA
+Tursiops_truncatus	CECR2	ENSTTRG00000002383	Other_CRF	NA
+Tursiops_truncatus	ELP4	ENSTTRG00000002397	ELP	NA
+Tursiops_truncatus	LRRK2	ENSTTRG00000002398	Other_CRF	NA
+Tursiops_truncatus	TRIM32	ENSTTRG00000002415	Tripartite motif	NA
+Tursiops_truncatus	MAGED1	ENSTTRG00000002439	MAGE	NA
+Tursiops_truncatus	TAF6L	ENSTTRG00000002479	TATA-box	NA
+Tursiops_truncatus		ENSTTRG00000002565	Cyclin	NA
+Tursiops_truncatus	POLR3F	ENSTTRG00000002580	POLR	NA
+Tursiops_truncatus	RNF141	ENSTTRG00000002591	Ring finger protein	NA
+Tursiops_truncatus	PEX2	ENSTTRG00000002646	Others	101334078
+Tursiops_truncatus	ZMYM2	ENSTTRG00000002656	Zinc finger	NA
+Tursiops_truncatus	EDF1	ENSTTRG00000002668	Others	NA
+Tursiops_truncatus	RGCC	ENSTTRG00000002677	Others	NA
+Tursiops_truncatus	BAZ1B	ENSTTRG00000002686	Bromodomain	NA
+Tursiops_truncatus	LPIN3	ENSTTRG00000002688	LPIN	NA
+Tursiops_truncatus	TRIM33	ENSTTRG00000002713	Tripartite motif	NA
+Tursiops_truncatus	MED21	ENSTTRG00000002723	Mediator complex	NA
+Tursiops_truncatus	SAP30L	ENSTTRG00000002724	SAP	NA
+Tursiops_truncatus		ENSTTRG00000002734	Others	NA
+Tursiops_truncatus	TOB1	ENSTTRG00000002737	Others	NA
+Tursiops_truncatus	TLE3	ENSTTRG00000002742	Transducin	NA
+Tursiops_truncatus	DEPDC1	ENSTTRG00000002760	Others	NA
+Tursiops_truncatus	PFDN5	ENSTTRG00000002781	Others	NA
+Tursiops_truncatus	RTF1	ENSTTRG00000002792	Others	NA
+Tursiops_truncatus	CHRAC1	ENSTTRG00000002870	Other_CRF	101339472
+Tursiops_truncatus	AGO2	ENSTTRG00000002872	Others	NA
+Tursiops_truncatus	CDK7	ENSTTRG00000002877	Cyclin	101324115
+Tursiops_truncatus		ENSTTRG00000002883	GTF	NA
+Tursiops_truncatus	MYOCD	ENSTTRG00000002896	Others	NA
+Tursiops_truncatus	SMARCA5	ENSTTRG00000002915	SWI/SNF	NA
+Tursiops_truncatus		ENSTTRG00000002926	PHF	NA
+Tursiops_truncatus	ELP3	ENSTTRG00000002931	ELP	NA
+Tursiops_truncatus	BCL9L	ENSTTRG00000002945	BCL	NA
+Tursiops_truncatus	TRRAP	ENSTTRG00000002957	Others	NA
+Tursiops_truncatus	SMURF1	ENSTTRG00000002994	Others	NA
+Tursiops_truncatus	BUD31	ENSTTRG00000003005	Others	101319097
+Tursiops_truncatus	LPXN	ENSTTRG00000003027	Others	NA
+Tursiops_truncatus	SKOR1	ENSTTRG00000003036	SKI	NA
+Tursiops_truncatus	PEX14	ENSTTRG00000003058	Others	NA
+Tursiops_truncatus	WAC	ENSTTRG00000003067	WW	NA
+Tursiops_truncatus	HDAC4	ENSTTRG00000003145	Histone deacetylase	NA
+Tursiops_truncatus	TAF13	ENSTTRG00000003167	TATA-box	NA
+Tursiops_truncatus	EDRF1	ENSTTRG00000003170	Others	NA
+Tursiops_truncatus	DNMT1	ENSTTRG00000003178	DNA_methylase	NA
+Tursiops_truncatus	NOC2L	ENSTTRG00000003188	Others	NA
+Tursiops_truncatus	DOT1L	ENSTTRG00000003222	Others	NA
+Tursiops_truncatus	YEATS2	ENSTTRG00000003224	Others	NA
+Tursiops_truncatus	MED7	ENSTTRG00000003303	Mediator complex	101331873
+Tursiops_truncatus	PCGF6	ENSTTRG00000003333	PCGF	NA
+Tursiops_truncatus	MPHOSPH8	ENSTTRG00000003336	Others	NA
+Tursiops_truncatus	EP300	ENSTTRG00000003342	Others	NA
+Tursiops_truncatus	PSPC1	ENSTTRG00000003343	Others	101335572
+Tursiops_truncatus	TAF5	ENSTTRG00000003344	TATA-box	101327427
+Tursiops_truncatus	L3MBTL2	ENSTTRG00000003350	Others	NA
+Tursiops_truncatus	TOB2	ENSTTRG00000003366	Others	NA
+Tursiops_truncatus	PHF5A	ENSTTRG00000003369	PHF	101337287
+Tursiops_truncatus	PLK3	ENSTTRG00000003392	Others	NA
+Tursiops_truncatus	WWTR1	ENSTTRG00000003448	WW	101334716
+Tursiops_truncatus	STRAP	ENSTTRG00000003466	Others	101334171
+Tursiops_truncatus		ENSTTRG00000003469	Histone deacetylase	NA
+Tursiops_truncatus	SMYD2	ENSTTRG00000003483	SMYD	NA
+Tursiops_truncatus	CENPF	ENSTTRG00000003491	CENP	101333752
+Tursiops_truncatus	SYK	ENSTTRG00000003534	Others	NA
+Tursiops_truncatus	SAMD4B	ENSTTRG00000003554	Others	NA
+Tursiops_truncatus	PAF1	ENSTTRG00000003558	Others	NA
+Tursiops_truncatus	SUPT5H	ENSTTRG00000003573	SUPT	NA
+Tursiops_truncatus	CALR	ENSTTRG00000003600	Others	101334581
+Tursiops_truncatus	SERTAD2	ENSTTRG00000003609	Others	NA
+Tursiops_truncatus	CDK13	ENSTTRG00000003620	Cyclin	NA
+Tursiops_truncatus	KMT5B	ENSTTRG00000003638	Lysine methyltransferase	NA
+Tursiops_truncatus	SLC19A1	ENSTTRG00000003665	SLC	NA
+Tursiops_truncatus	MAK	ENSTTRG00000003669	Others	NA
+Tursiops_truncatus	WNT3	ENSTTRG00000003696	Others	NA
+Tursiops_truncatus	CIDEA	ENSTTRG00000003702	Others	NA
+Tursiops_truncatus	ELL3	ENSTTRG00000003725	GTF	NA
+Tursiops_truncatus	CXXC5	ENSTTRG00000003771	Others	NA
+Tursiops_truncatus	EYA2	ENSTTRG00000003801	EYA	NA
+Tursiops_truncatus	ZMYND8	ENSTTRG00000003840	Zinc finger	NA
+Tursiops_truncatus	CCNA1	ENSTTRG00000003874	Cyclin	NA
+Tursiops_truncatus	SLC30A9	ENSTTRG00000003877	SLC	NA
+Tursiops_truncatus	NFKBID	ENSTTRG00000003908	NFKB associated	NA
+Tursiops_truncatus	CASP8AP2	ENSTTRG00000003954	Others	NA
+Tursiops_truncatus	DYRK1B	ENSTTRG00000003959	Others	NA
+Tursiops_truncatus	FAM83G	ENSTTRG00000003966	FAM	NA
+Tursiops_truncatus	NSMCE4A	ENSTTRG00000004016	EID	101338617
+Tursiops_truncatus	RNF8	ENSTTRG00000004028	Ring finger protein	NA
+Tursiops_truncatus	SUPT6H	ENSTTRG00000004092	SUPT	NA
+Tursiops_truncatus	SFRP4	ENSTTRG00000004096	Others	NA
+Tursiops_truncatus	PHF12	ENSTTRG00000004110	PHF	NA
+Tursiops_truncatus	HIF1AN	ENSTTRG00000004176	Others	101326093
+Tursiops_truncatus	CDYL	ENSTTRG00000004201	Chromodomain Y	NA
+Tursiops_truncatus	DNTTIP2	ENSTTRG00000004204	Others	NA
+Tursiops_truncatus	UXT	ENSTTRG00000004205	Others	NA
+Tursiops_truncatus	CHD7	ENSTTRG00000004221	CHD	NA
+Tursiops_truncatus	RB1	ENSTTRG00000004232	Other_Co-activator/repressors	NA
+Tursiops_truncatus	MID1IP1	ENSTTRG00000004245	Others	101323202
+Tursiops_truncatus	CD3D	ENSTTRG00000004258	Others	101320520
+Tursiops_truncatus	BRD2	ENSTTRG00000004278	Bromodomain	101336228
+Tursiops_truncatus		ENSTTRG00000004289	Lysine methyltransferase	NA
+Tursiops_truncatus	RING1	ENSTTRG00000004296	Ring finger protein	NA
+Tursiops_truncatus	DAXX	ENSTTRG00000004312	Other_CRF	NA
+Tursiops_truncatus	ATRX	ENSTTRG00000004342	Others	NA
+Tursiops_truncatus	SUV39H2	ENSTTRG00000004403	Others	NA
+Tursiops_truncatus	SQSTM1	ENSTTRG00000004432	Others	NA
+Tursiops_truncatus	ASH2L	ENSTTRG00000004478	Others	NA
+Tursiops_truncatus	PHF2	ENSTTRG00000004518	PHF	NA
+Tursiops_truncatus	NSD3	ENSTTRG00000004519	Nuclear receptor coactivator	NA
+Tursiops_truncatus	CBX5	ENSTTRG00000004524	Chromobox	NA
+Tursiops_truncatus	BCAS3	ENSTTRG00000004527	Others	NA
+Tursiops_truncatus	FGFR1	ENSTTRG00000004544	FGF	NA
+Tursiops_truncatus	BRIP1	ENSTTRG00000004555	Others	NA
+Tursiops_truncatus	MED13	ENSTTRG00000004562	Mediator complex	NA
+Tursiops_truncatus	HLTF	ENSTTRG00000004565	Others	NA
+Tursiops_truncatus	HCFC2	ENSTTRG00000004574	Others	NA
+Tursiops_truncatus	TOP1	ENSTTRG00000004580	Other_CRF	NA
+Tursiops_truncatus	LANCL2	ENSTTRG00000004588	Others	NA
+Tursiops_truncatus	SUV39H1	ENSTTRG00000004638	Others	NA
+Tursiops_truncatus	HDAC6	ENSTTRG00000004685	Histone deacetylase	NA
+Tursiops_truncatus	CCNC	ENSTTRG00000004688	Cyclin	NA
+Tursiops_truncatus	CBFA2T3	ENSTTRG00000004701	Others	NA
+Tursiops_truncatus	CIITA	ENSTTRG00000004733	Others	NA
+Tursiops_truncatus	PQBP1	ENSTTRG00000004738	Others	NA
+Tursiops_truncatus	FGF1	ENSTTRG00000004748	FGF	101327652
+Tursiops_truncatus	LIN9	ENSTTRG00000004769	Others	NA
+Tursiops_truncatus	ENO2	ENSTTRG00000004771	Others	NA
+Tursiops_truncatus	ATN1	ENSTTRG00000004784	Others	NA
+Tursiops_truncatus	ACTR6	ENSTTRG00000004802	ACTR	NA
+Tursiops_truncatus	CNOT2	ENSTTRG00000004829	CCR4-NOT	NA
+Tursiops_truncatus	AURKC	ENSTTRG00000004857	Others	NA
+Tursiops_truncatus	ILK	ENSTTRG00000004882	Others	NA
+Tursiops_truncatus	TAF10	ENSTTRG00000004894	TATA-box	NA
+Tursiops_truncatus	KCNIP3	ENSTTRG00000004971	Others	NA
+Tursiops_truncatus	SFMBT2	ENSTTRG00000005045	Others	NA
+Tursiops_truncatus	TRIB3	ENSTTRG00000005073	Others	NA
+Tursiops_truncatus	DDX1	ENSTTRG00000005081	RNA helicase	101319999
+Tursiops_truncatus	TENM1	ENSTTRG00000005100	Others	NA
+Tursiops_truncatus	TSPYL2	ENSTTRG00000005109	Others	NA
+Tursiops_truncatus	STRN3	ENSTTRG00000005127	Others	NA
+Tursiops_truncatus	KDM5C	ENSTTRG00000005129	Lysine demethylase	101336472
+Tursiops_truncatus	DDX20	ENSTTRG00000005131	RNA helicase	NA
+Tursiops_truncatus	ANP32E	ENSTTRG00000005141	ANP	NA
+Tursiops_truncatus	ANKAR	ENSTTRG00000005201	Ankyrin repeat	NA
+Tursiops_truncatus	SLTM	ENSTTRG00000005246	Others	NA
+Tursiops_truncatus	RNF111	ENSTTRG00000005259	Ring finger protein	NA
+Tursiops_truncatus	PLK1	ENSTTRG00000005263	Others	NA
+Tursiops_truncatus	HNRNPU	ENSTTRG00000005281	HNRNP	NA
+Tursiops_truncatus	SMYD3	ENSTTRG00000005298	SMYD	NA
+Tursiops_truncatus	TFB2M	ENSTTRG00000005299	Others	NA
+Tursiops_truncatus	TCF20	ENSTTRG00000005304	Others	NA
+Tursiops_truncatus	BRD3	ENSTTRG00000005315	Bromodomain	NA
+Tursiops_truncatus	PPARGC1A	ENSTTRG00000005327	Others	NA
+Tursiops_truncatus	BRD8	ENSTTRG00000005328	Bromodomain	NA
+Tursiops_truncatus	ESF1	ENSTTRG00000005335	Others	NA
+Tursiops_truncatus	WDR5	ENSTTRG00000005344	WD	NA
+Tursiops_truncatus	RYBP	ENSTTRG00000005375	Others	NA
+Tursiops_truncatus	MED12	ENSTTRG00000005394	Mediator complex	NA
+Tursiops_truncatus	NRIP2	ENSTTRG00000005402	Nuclear coactivator	NA
+Tursiops_truncatus	ATAD2	ENSTTRG00000005432	Others	NA
+Tursiops_truncatus	PAGR1	ENSTTRG00000005446	Others	NA
+Tursiops_truncatus	PIH1D1	ENSTTRG00000005448	Other_CRF	NA
+Tursiops_truncatus	CBL	ENSTTRG00000005452	Others	NA
+Tursiops_truncatus	KDM3B	ENSTTRG00000005475	Lysine demethylase	NA
+Tursiops_truncatus	INO80E	ENSTTRG00000005517	INO80 complex	NA
+Tursiops_truncatus	PRMT1	ENSTTRG00000005537	Arginine methyltransferase	NA
+Tursiops_truncatus	WWP2	ENSTTRG00000005562	WW	NA
+Tursiops_truncatus	SRA1	ENSTTRG00000005574	Others	NA
+Tursiops_truncatus	CNOT6L	ENSTTRG00000005606	CCR4-NOT	NA
+Tursiops_truncatus	DDX17	ENSTTRG00000005623	RNA helicase	NA
+Tursiops_truncatus	SFR1	ENSTTRG00000005650	Others	NA
+Tursiops_truncatus	SIRT4	ENSTTRG00000005660	Sirtuin	NA
+Tursiops_truncatus	SRC	ENSTTRG00000005695	Others	NA
+Tursiops_truncatus	CSRP3	ENSTTRG00000005706	Others	NA
+Tursiops_truncatus		ENSTTRG00000005709	Others	NA
+Tursiops_truncatus	TNIP1	ENSTTRG00000005761	Others	NA
+Tursiops_truncatus	PCBD1	ENSTTRG00000005775	Others	NA
+Tursiops_truncatus	PRMT2	ENSTTRG00000005777	Arginine methyltransferase	NA
+Tursiops_truncatus		ENSTTRG00000005786	Others	NA
+Tursiops_truncatus	UFL1	ENSTTRG00000005796	Others	NA
+Tursiops_truncatus	FHL5	ENSTTRG00000005823	FHL	NA
+Tursiops_truncatus		ENSTTRG00000005840	Others	NA
+Tursiops_truncatus	ARRB1	ENSTTRG00000005853	Others	NA
+Tursiops_truncatus	TCEA2	ENSTTRG00000005898	TEF	NA
+Tursiops_truncatus	AEBP1	ENSTTRG00000006006	Others	NA
+Tursiops_truncatus	LMCD1	ENSTTRG00000006023	LIM	NA
+Tursiops_truncatus	SND1	ENSTTRG00000006059	Others	NA
+Tursiops_truncatus	NPAT	ENSTTRG00000006061	Nuclear coactivator	NA
+Tursiops_truncatus	CTNNB1	ENSTTRG00000006093	Casein	NA
+Tursiops_truncatus	TLE4	ENSTTRG00000006096	Transducin	NA
+Tursiops_truncatus	TRAK1	ENSTTRG00000006097	Others	NA
+Tursiops_truncatus	TCEAL1	ENSTTRG00000006099	TEF	NA
+Tursiops_truncatus	CITED1	ENSTTRG00000006165	CITED	NA
+Tursiops_truncatus	MED28	ENSTTRG00000006177	Mediator complex	101332831
+Tursiops_truncatus	FBP1	ENSTTRG00000006187	Others	NA
+Tursiops_truncatus	BTAF1	ENSTTRG00000006252	Others	NA
+Tursiops_truncatus	STK3	ENSTTRG00000006281	Others	NA
+Tursiops_truncatus	HEXIM2	ENSTTRG00000006285	Others	NA
+Tursiops_truncatus		ENSTTRG00000006297	GTF	NA
+Tursiops_truncatus	PARP10	ENSTTRG00000006314	PARP	NA
+Tursiops_truncatus	NFKBIZ	ENSTTRG00000006369	NFKB associated	NA
+Tursiops_truncatus	TRIM11	ENSTTRG00000006374	Tripartite motif	NA
+Tursiops_truncatus		ENSTTRG00000006403	Others	NA
+Tursiops_truncatus	RAP2C	ENSTTRG00000006449	Others	NA
+Tursiops_truncatus	CENPU	ENSTTRG00000006523	CENP	NA
+Tursiops_truncatus	BMI1	ENSTTRG00000006541	Others	101331367
+Tursiops_truncatus	RBBP5	ENSTTRG00000006586	RBBP	NA
+Tursiops_truncatus	RALY	ENSTTRG00000006590	Others	NA
+Tursiops_truncatus	BRF1	ENSTTRG00000006591	GTF	NA
+Tursiops_truncatus	JUP	ENSTTRG00000006595	Others	NA
+Tursiops_truncatus	MACROH2A2	ENSTTRG00000006611	Others	NA
+Tursiops_truncatus	MLLT6	ENSTTRG00000006620	Others	NA
+Tursiops_truncatus	PCGF2	ENSTTRG00000006642	PCGF	NA
+Tursiops_truncatus	PHF19	ENSTTRG00000006647	PHF	NA
+Tursiops_truncatus	KAT2A	ENSTTRG00000006661	Lysine acetyltransferase	NA
+Tursiops_truncatus	FBXW7	ENSTTRG00000006693	Others	NA
+Tursiops_truncatus	XRCC6	ENSTTRG00000006749	Others	NA
+Tursiops_truncatus	KDM6A	ENSTTRG00000006757	Lysine demethylase	NA
+Tursiops_truncatus	PIR	ENSTTRG00000006770	Others	NA
+Tursiops_truncatus	DAPK3	ENSTTRG00000006774	Others	NA
+Tursiops_truncatus	ASCC2	ENSTTRG00000006786	ASCC	NA
+Tursiops_truncatus	CDYL2	ENSTTRG00000006806	Chromodomain Y	NA
+Tursiops_truncatus	SLC26A3	ENSTTRG00000006840	SLC	NA
+Tursiops_truncatus		ENSTTRG00000006849	SUPT	NA
+Tursiops_truncatus	MRTFB	ENSTTRG00000006876	Others	NA
+Tursiops_truncatus	HYAL2	ENSTTRG00000006893	Others	NA
+Tursiops_truncatus	PHF1	ENSTTRG00000006918	PHF	NA
+Tursiops_truncatus	RBFOX2	ENSTTRG00000006922	Others	NA
+Tursiops_truncatus	SUPT3H	ENSTTRG00000006941	SUPT	NA
+Tursiops_truncatus	MTF2	ENSTTRG00000006963	Others	NA
+Tursiops_truncatus	PDCD4	ENSTTRG00000006972	Others	NA
+Tursiops_truncatus	SMARCD2	ENSTTRG00000006988	SWI/SNF	NA
+Tursiops_truncatus	DR1	ENSTTRG00000006989	Others	NA
+Tursiops_truncatus	ERN1	ENSTTRG00000007006	Others	NA
+Tursiops_truncatus	IKBKG	ENSTTRG00000007028	Others	NA
+Tursiops_truncatus	TAB3	ENSTTRG00000007031	Others	NA
+Tursiops_truncatus		ENSTTRG00000007064	Casein	NA
+Tursiops_truncatus	RPRD1A	ENSTTRG00000007088	Others	101326268
+Tursiops_truncatus	RSF1	ENSTTRG00000007090	Others	NA
+Tursiops_truncatus	TNKS	ENSTTRG00000007093	Others	NA
+Tursiops_truncatus	ELP2	ENSTTRG00000007108	ELP	101332952
+Tursiops_truncatus		ENSTTRG00000007120	TEF	101338056
+Tursiops_truncatus		ENSTTRG00000007124	Others	101338348
+Tursiops_truncatus	KDM1B	ENSTTRG00000007141	Lysine demethylase	NA
+Tursiops_truncatus	FHOD3	ENSTTRG00000007147	Others	NA
+Tursiops_truncatus	DEK	ENSTTRG00000007148	Other_CRF	NA
+Tursiops_truncatus	CAVIN1	ENSTTRG00000007169	Others	NA
+Tursiops_truncatus	NRBF2	ENSTTRG00000007178	Nuclear receptor coactivator	101335624
+Tursiops_truncatus	JMJD1C	ENSTTRG00000007180	Other_CRF	NA
+Tursiops_truncatus	EGLN2	ENSTTRG00000007185	Others	NA
+Tursiops_truncatus	CASK	ENSTTRG00000007225	CAMK	NA
+Tursiops_truncatus	GTF2H3	ENSTTRG00000007259	GTF	NA
+Tursiops_truncatus	CAMK4	ENSTTRG00000007265	CAMK	101326887
+Tursiops_truncatus	GTF2A2	ENSTTRG00000007286	GTF	NA
+Tursiops_truncatus	BTF3	ENSTTRG00000007290	Others	101331676
+Tursiops_truncatus	ANKRA2	ENSTTRG00000007293	Ankyrin repeat	101319402
+Tursiops_truncatus	RBMX	ENSTTRG00000007322	RNA binding protein	NA
+Tursiops_truncatus	HMOX1	ENSTTRG00000007342	Others	NA
+Tursiops_truncatus	SS18	ENSTTRG00000007351	SS18	NA
+Tursiops_truncatus	CRYM	ENSTTRG00000007376	Others	NA
+Tursiops_truncatus	NUDT5	ENSTTRG00000007394	Other_CRF	NA
+Tursiops_truncatus	BEND3	ENSTTRG00000007417	Others	NA
+Tursiops_truncatus	HTATIP2	ENSTTRG00000007428	Others	NA
+Tursiops_truncatus	MBTD1	ENSTTRG00000007434	Others	NA
+Tursiops_truncatus	HCFC1	ENSTTRG00000007457	Others	NA
+Tursiops_truncatus	ITGB3BP	ENSTTRG00000007480	Others	NA
+Tursiops_truncatus	TLE5	ENSTTRG00000007488	Others	NA
+Tursiops_truncatus	EYA3	ENSTTRG00000007513	EYA	101333137
+Tursiops_truncatus	CHCHD3	ENSTTRG00000007514	Coiled-coil	NA
+Tursiops_truncatus	TADA3	ENSTTRG00000007537	Transcriptional adaptor	NA
+Tursiops_truncatus	RIPPLY1	ENSTTRG00000007540	Others	NA
+Tursiops_truncatus		ENSTTRG00000007560	Others	NA
+Tursiops_truncatus	FHL2	ENSTTRG00000007577	FHL	NA
+Tursiops_truncatus	NOTCH1	ENSTTRG00000007583	Notch	NA
+Tursiops_truncatus	HNRNPD	ENSTTRG00000007592	HNRNP	101327154
+Tursiops_truncatus	BRMS1L	ENSTTRG00000007595	Other_CRF	NA
+Tursiops_truncatus	YWHAB	ENSTTRG00000007615	Others	101317152
+Tursiops_truncatus	PELP1	ENSTTRG00000007616	Others	NA
+Tursiops_truncatus	PABPC1L	ENSTTRG00000007618	Other_CRF	NA
+Tursiops_truncatus	MED22	ENSTTRG00000007632	Mediator complex	NA
+Tursiops_truncatus	MALT1	ENSTTRG00000007656	Others	NA
+Tursiops_truncatus	DHX9	ENSTTRG00000007665	RNA helicase	NA
+Tursiops_truncatus	LIN54	ENSTTRG00000007680	Others	NA
+Tursiops_truncatus		ENSTTRG00000007681	Others	NA
+Tursiops_truncatus	ACTR5	ENSTTRG00000007690	ACTR	NA
+Tursiops_truncatus	ICE2	ENSTTRG00000007715	GTF	NA
+Tursiops_truncatus	SRFBP1	ENSTTRG00000007726	Others	NA
+Tursiops_truncatus	KDM1A	ENSTTRG00000007737	Lysine demethylase	NA
+Tursiops_truncatus	SIRT5	ENSTTRG00000007786	Sirtuin	NA
+Tursiops_truncatus	TAF11	ENSTTRG00000007855	TATA-box	NA
+Tursiops_truncatus	RFXAP	ENSTTRG00000007901	Others	NA
+Tursiops_truncatus	SUPT20H	ENSTTRG00000007908	SUPT	NA
+Tursiops_truncatus	BCL3	ENSTTRG00000007937	BCL	NA
+Tursiops_truncatus	DNAJB1	ENSTTRG00000007944	Others	NA
+Tursiops_truncatus	HCK	ENSTTRG00000007952	Others	NA
+Tursiops_truncatus	ASXL1	ENSTTRG00000007957	Others	NA
+Tursiops_truncatus	NFKBIA	ENSTTRG00000007970	NFKB associated	101319301
+Tursiops_truncatus	RALGAPA1	ENSTTRG00000007973	Others	NA
+Tursiops_truncatus	TCERG1L	ENSTTRG00000008059	TEF	NA
+Tursiops_truncatus	TRIP11	ENSTTRG00000008094	Thyroid hormone receptor	101334299
+Tursiops_truncatus		ENSTTRG00000008100	Transducin	NA
+Tursiops_truncatus	TRIM25	ENSTTRG00000008104	Tripartite motif	NA
+Tursiops_truncatus	FLII	ENSTTRG00000008161	Others	NA
+Tursiops_truncatus		ENSTTRG00000008168	FGF	NA
+Tursiops_truncatus	JADE1	ENSTTRG00000008170	Others	NA
+Tursiops_truncatus	CCNE1	ENSTTRG00000008174	Cyclin	NA
+Tursiops_truncatus	URI1	ENSTTRG00000008180	Others	NA
+Tursiops_truncatus	ERBB2	ENSTTRG00000008215	Erbb2	NA
+Tursiops_truncatus	GTF2A1	ENSTTRG00000008254	GTF	NA
+Tursiops_truncatus	ASCC3	ENSTTRG00000008255	ASCC	NA
+Tursiops_truncatus	GRHPR	ENSTTRG00000008273	Others	NA
+Tursiops_truncatus	ERCC2	ENSTTRG00000008297	Others	NA
+Tursiops_truncatus	LPIN2	ENSTTRG00000008304	LPIN	NA
+Tursiops_truncatus	NPM1	ENSTTRG00000008370	Nucleoplasmin	NA
+Tursiops_truncatus	SUFU	ENSTTRG00000008376	Others	NA
+Tursiops_truncatus	ADRB2	ENSTTRG00000008381	Others	101316390
+Tursiops_truncatus		ENSTTRG00000008389	GTF	NA
+Tursiops_truncatus	SETD7	ENSTTRG00000008398	SET	NA
+Tursiops_truncatus	PPARGC1B	ENSTTRG00000008430	Others	NA
+Tursiops_truncatus	MED1	ENSTTRG00000008439	Mediator complex	NA
+Tursiops_truncatus	CDK12	ENSTTRG00000008449	Cyclin	NA
+Tursiops_truncatus	SETD6	ENSTTRG00000008459	SET	NA
+Tursiops_truncatus	CNOT1	ENSTTRG00000008460	CCR4-NOT	NA
+Tursiops_truncatus	APBB1	ENSTTRG00000008514	Others	NA
+Tursiops_truncatus	PIN1	ENSTTRG00000008524	Others	NA
+Tursiops_truncatus	CREG1	ENSTTRG00000008541	Others	NA
+Tursiops_truncatus	DCAF6	ENSTTRG00000008570	Others	NA
+Tursiops_truncatus	MED6	ENSTTRG00000008580	Mediator complex	NA
+Tursiops_truncatus	MEAF6	ENSTTRG00000008594	Others	NA
+Tursiops_truncatus	SNIP1	ENSTTRG00000008598	Others	101332648
+Tursiops_truncatus	NEDD8	ENSTTRG00000008631	Others	NA
+Tursiops_truncatus	RIPK3	ENSTTRG00000008641	Others	NA
+Tursiops_truncatus	HINT1	ENSTTRG00000008653	Others	101330890
+Tursiops_truncatus	HSBP1	ENSTTRG00000008666	Heat shock protein	NA
+Tursiops_truncatus	MSL3	ENSTTRG00000008682	Others	NA
+Tursiops_truncatus	TARBP1	ENSTTRG00000008707	Others	NA
+Tursiops_truncatus	TRAK2	ENSTTRG00000008726	Others	NA
+Tursiops_truncatus	TRAF6	ENSTTRG00000008727	Others	NA
+Tursiops_truncatus	DDX5	ENSTTRG00000008793	RNA helicase	NA
+Tursiops_truncatus	DACT1	ENSTTRG00000008825	Others	NA
+Tursiops_truncatus	SMURF2	ENSTTRG00000008855	Others	NA
+Tursiops_truncatus	KDM5A	ENSTTRG00000008864	Lysine demethylase	NA
+Tursiops_truncatus	MEN1	ENSTTRG00000008874	Others	NA
+Tursiops_truncatus	AATF	ENSTTRG00000008903	Others	NA
+Tursiops_truncatus	ACTL6A	ENSTTRG00000008907	Actin	NA
+Tursiops_truncatus	ACTL6B	ENSTTRG00000008908	Actin	NA
+Tursiops_truncatus	VEGFA	ENSTTRG00000008961	Other_CRF	NA
+Tursiops_truncatus	TRIP13	ENSTTRG00000008987	Thyroid hormone receptor	NA
+Tursiops_truncatus	KDM8	ENSTTRG00000008990	Lysine demethylase	NA
+Tursiops_truncatus	INSR	ENSTTRG00000009054	Others	NA
+Tursiops_truncatus	XRN2	ENSTTRG00000009087	Others	NA
+Tursiops_truncatus	NCL	ENSTTRG00000009094	Others	101316728
+Tursiops_truncatus	PRNP	ENSTTRG00000009101	Others	101318154
+Tursiops_truncatus	AXIN1	ENSTTRG00000009104	Others	NA
+Tursiops_truncatus	DPF1	ENSTTRG00000009127	DPF	NA
+Tursiops_truncatus	CRKL	ENSTTRG00000009159	Others	101315844
+Tursiops_truncatus	POLR3C	ENSTTRG00000009216	POLR	NA
+Tursiops_truncatus	MED27	ENSTTRG00000009226	Mediator complex	NA
+Tursiops_truncatus	PSEN1	ENSTTRG00000009292	Others	NA
+Tursiops_truncatus	CDC73	ENSTTRG00000009299	Others	NA
+Tursiops_truncatus	SNW1	ENSTTRG00000009330	Others	101328274
+Tursiops_truncatus	CNOT6	ENSTTRG00000009363	CCR4-NOT	101325801
+Tursiops_truncatus	TRIM21	ENSTTRG00000009387	Tripartite motif	NA
+Tursiops_truncatus	EID1	ENSTTRG00000009407	EID	101329846
+Tursiops_truncatus	CBX6	ENSTTRG00000009409	Chromobox	NA
+Tursiops_truncatus		ENSTTRG00000009423	Mediator complex	NA
+Tursiops_truncatus	MUC1	ENSTTRG00000009426	Others	NA
+Tursiops_truncatus	TAF8	ENSTTRG00000009441	TATA-box	NA
+Tursiops_truncatus	CENPB	ENSTTRG00000009462	CENP	NA
+Tursiops_truncatus	DPPA2	ENSTTRG00000009500	Others	101326257
+Tursiops_truncatus	DPPA4	ENSTTRG00000009508	Others	NA
+Tursiops_truncatus	SMARCA4	ENSTTRG00000009519	SWI/SNF	NA
+Tursiops_truncatus	KDM7A	ENSTTRG00000009520	Lysine demethylase	NA
+Tursiops_truncatus	SAV1	ENSTTRG00000009567	Others	NA
+Tursiops_truncatus	NSD1	ENSTTRG00000009569	Nuclear receptor coactivator	NA
+Tursiops_truncatus	MYCBP	ENSTTRG00000009583	MYC	101327873
+Tursiops_truncatus	ERBIN	ENSTTRG00000009604	Erbb2	NA
+Tursiops_truncatus	NONO	ENSTTRG00000009605	Others	NA
+Tursiops_truncatus	CDKN1C	ENSTTRG00000009618	Cyclin	NA
+Tursiops_truncatus	TDG	ENSTTRG00000009643	Others	NA
+Tursiops_truncatus	TBPL1	ENSTTRG00000009662	TATA-box	NA
+Tursiops_truncatus	TRIP4	ENSTTRG00000009674	Thyroid hormone receptor	NA
+Tursiops_truncatus	SS18L2	ENSTTRG00000009685	SS18	NA
+Tursiops_truncatus		ENSTTRG00000009699	Others	NA
+Tursiops_truncatus	ASCC1	ENSTTRG00000009744	ASCC	NA
+Tursiops_truncatus	DVL2	ENSTTRG00000009756	Others	NA
+Tursiops_truncatus	GPS2	ENSTTRG00000009784	Others	NA
+Tursiops_truncatus	RBBP8	ENSTTRG00000009810	RBBP	NA
+Tursiops_truncatus	CTNND2	ENSTTRG00000009825	Casein	NA
+Tursiops_truncatus	SKI	ENSTTRG00000009834	SKI	NA
+Tursiops_truncatus	MMS19	ENSTTRG00000009892	Others	NA
+Tursiops_truncatus	ANKRD2	ENSTTRG00000009895	Ankyrin repeat	NA
+Tursiops_truncatus	COPRS	ENSTTRG00000009909	Others	NA
+Tursiops_truncatus	SUZ12	ENSTTRG00000009914	Others	101318217
+Tursiops_truncatus	NLK	ENSTTRG00000009921	Others	NA
+Tursiops_truncatus	MLLT3	ENSTTRG00000009922	GTF	NA
+Tursiops_truncatus	ZNF451	ENSTTRG00000009950	Zinc finger	NA
+Tursiops_truncatus	PER2	ENSTTRG00000009956	Others	NA
+Tursiops_truncatus	ARAF	ENSTTRG00000009969	Others	NA
+Tursiops_truncatus	BASP1	ENSTTRG00000009995	Others	NA
+Tursiops_truncatus	SAP130	ENSTTRG00000010050	SAP	NA
+Tursiops_truncatus	PLRG1	ENSTTRG00000010053	Others	NA
+Tursiops_truncatus	TDRD3	ENSTTRG00000010071	Others	NA
+Tursiops_truncatus	MAD2L2	ENSTTRG00000010078	Others	NA
+Tursiops_truncatus	ERBB4	ENSTTRG00000010092	Erbb2	NA
+Tursiops_truncatus	CBFA2T2	ENSTTRG00000010094	Others	NA
+Tursiops_truncatus	PAXIP1	ENSTTRG00000010135	Others	NA
+Tursiops_truncatus	SNAPC2	ENSTTRG00000010165	Others	101319326
+Tursiops_truncatus	RRN3	ENSTTRG00000010195	Others	NA
+Tursiops_truncatus	SNAPC5	ENSTTRG00000010201	Others	NA
+Tursiops_truncatus	TRADD	ENSTTRG00000010223	Others	NA
+Tursiops_truncatus	KDM6B	ENSTTRG00000010285	Lysine demethylase	NA
+Tursiops_truncatus	CHD3	ENSTTRG00000010295	CHD	NA
+Tursiops_truncatus	PRDX5	ENSTTRG00000010300	Others	NA
+Tursiops_truncatus	PNRC1	ENSTTRG00000010325	Others	NA
+Tursiops_truncatus	LIMD1	ENSTTRG00000010329	LIM	NA
+Tursiops_truncatus	KDM3A	ENSTTRG00000010387	Lysine demethylase	NA
+Tursiops_truncatus	BTG4	ENSTTRG00000010435	Others	NA
+Tursiops_truncatus	ELL	ENSTTRG00000010436	GTF	NA
+Tursiops_truncatus	HDAC5	ENSTTRG00000010455	Histone deacetylase	NA
+Tursiops_truncatus	ATXN7L3	ENSTTRG00000010493	Others	NA
+Tursiops_truncatus	CRTC1	ENSTTRG00000010501	CREB	NA
+Tursiops_truncatus	BRCA2	ENSTTRG00000010541	Others	NA
+Tursiops_truncatus	SCMH1	ENSTTRG00000010570	Others	NA
+Tursiops_truncatus	ACTN4	ENSTTRG00000010666	Actin	NA
+Tursiops_truncatus		ENSTTRG00000010712	TATA-box	NA
+Tursiops_truncatus	TESC	ENSTTRG00000010719	Others	NA
+Tursiops_truncatus	LBH	ENSTTRG00000010744	Others	NA
+Tursiops_truncatus	ATF7IP2	ENSTTRG00000010757	Others	NA
+Tursiops_truncatus	CNOT9	ENSTTRG00000010801	CCR4-NOT	NA
+Tursiops_truncatus	MED8	ENSTTRG00000010807	Mediator complex	NA
+Tursiops_truncatus	RNF25	ENSTTRG00000010815	Ring finger protein	101334071
+Tursiops_truncatus	STK36	ENSTTRG00000010816	Others	NA
+Tursiops_truncatus	ANP32B	ENSTTRG00000010825	ANP	NA
+Tursiops_truncatus	BIRC5	ENSTTRG00000010849	Others	NA
+Tursiops_truncatus	DSCAM	ENSTTRG00000010929	Others	NA
+Tursiops_truncatus	MTDH	ENSTTRG00000010981	Others	NA
+Tursiops_truncatus	PHF10	ENSTTRG00000011051	PHF	NA
+Tursiops_truncatus	SS18L1	ENSTTRG00000011062	SS18	NA
+Tursiops_truncatus	VGLL2	ENSTTRG00000011067	Vestigial like	NA
+Tursiops_truncatus	TRIP6	ENSTTRG00000011103	Thyroid hormone receptor	NA
+Tursiops_truncatus	HSPA8	ENSTTRG00000011139	Heat shock protein	NA
+Tursiops_truncatus	RBM14	ENSTTRG00000011156	RNA binding protein	NA
+Tursiops_truncatus	CRTC2	ENSTTRG00000011170	CREB	NA
+Tursiops_truncatus	HDAC11	ENSTTRG00000011189	Histone deacetylase	NA
+Tursiops_truncatus	PSIP1	ENSTTRG00000011225	Others	NA
+Tursiops_truncatus	CLU	ENSTTRG00000011261	Others	NA
+Tursiops_truncatus	PINK1	ENSTTRG00000011280	Others	NA
+Tursiops_truncatus	DGKQ	ENSTTRG00000011281	Others	NA
+Tursiops_truncatus	NIBAN1	ENSTTRG00000011326	FAM	NA
+Tursiops_truncatus	RNF2	ENSTTRG00000011331	Ring finger protein	NA
+Tursiops_truncatus	EZR	ENSTTRG00000011346	Others	NA
+Tursiops_truncatus	MED23	ENSTTRG00000011360	Mediator complex	101339143
+Tursiops_truncatus	HAT1	ENSTTRG00000011370	Others	NA
+Tursiops_truncatus	ARHGAP35	ENSTTRG00000011403	Others	NA
+Tursiops_truncatus	BDP1	ENSTTRG00000011415	GTF	NA
+Tursiops_truncatus	SIN3A	ENSTTRG00000011452	Other_CRF	NA
+Tursiops_truncatus	INO80	ENSTTRG00000011479	INO80 complex	NA
+Tursiops_truncatus	MRTFA	ENSTTRG00000011501	Others	NA
+Tursiops_truncatus	HCLS1	ENSTTRG00000011514	Others	NA
+Tursiops_truncatus	EAF2	ENSTTRG00000011517	Others	NA
+Tursiops_truncatus	ELOC	ENSTTRG00000011534	Others	NA
+Tursiops_truncatus	PRMT7	ENSTTRG00000011549	Arginine methyltransferase	NA
+Tursiops_truncatus	JAK2	ENSTTRG00000011560	Others	NA
+Tursiops_truncatus		ENSTTRG00000011570	Others	NA
+Tursiops_truncatus	SET	ENSTTRG00000011605	SET	NA
+Tursiops_truncatus	EAPP	ENSTTRG00000011628	Others	NA
+Tursiops_truncatus	TRIM29	ENSTTRG00000011666	Tripartite motif	NA
+Tursiops_truncatus	YAP1	ENSTTRG00000011670	Others	NA
+Tursiops_truncatus	EZH1	ENSTTRG00000011688	Others	NA
+Tursiops_truncatus	CHD1L	ENSTTRG00000011711	CHD	NA
+Tursiops_truncatus	LGALS12	ENSTTRG00000011714	Others	NA
+Tursiops_truncatus	DAB2	ENSTTRG00000011722	Others	NA
+Tursiops_truncatus	BRCA1	ENSTTRG00000011743	Others	101319443
+Tursiops_truncatus	ING4	ENSTTRG00000011748	ING	NA
+Tursiops_truncatus	SIRT2	ENSTTRG00000011788	Sirtuin	NA
+Tursiops_truncatus	NFKBIB	ENSTTRG00000011790	NFKB associated	NA
+Tursiops_truncatus	NIF3L1	ENSTTRG00000011791	Others	NA
+Tursiops_truncatus	ORC2	ENSTTRG00000011793	Others	NA
+Tursiops_truncatus	PCGF3	ENSTTRG00000011807	PCGF	NA
+Tursiops_truncatus	CHEK2	ENSTTRG00000011824	Others	NA
+Tursiops_truncatus	TCEA1	ENSTTRG00000011825	TEF	NA
+Tursiops_truncatus	NCOA4	ENSTTRG00000011832	Nuclear receptor coactivator	NA
+Tursiops_truncatus		ENSTTRG00000011847	Others	NA
+Tursiops_truncatus	NCK1	ENSTTRG00000011866	Others	NA
+Tursiops_truncatus	EWSR1	ENSTTRG00000011881	Others	NA
+Tursiops_truncatus	CHUK	ENSTTRG00000011882	Others	NA
+Tursiops_truncatus	GTF2B	ENSTTRG00000011903	GTF	NA
+Tursiops_truncatus	SPAG8	ENSTTRG00000011931	Others	NA
+Tursiops_truncatus	RBX1	ENSTTRG00000012018	Others	NA
+Tursiops_truncatus	HR	ENSTTRG00000012045	Lysine methyltransferase	NA
+Tursiops_truncatus	MED31	ENSTTRG00000012075	Mediator complex	101332742
+Tursiops_truncatus	MED30	ENSTTRG00000012139	Mediator complex	NA
+Tursiops_truncatus	RNF14	ENSTTRG00000012157	Ring finger protein	NA
+Tursiops_truncatus	PDLIM3	ENSTTRG00000012162	Others	NA
+Tursiops_truncatus	TOPORS	ENSTTRG00000012164	Others	NA
+Tursiops_truncatus	WDR77	ENSTTRG00000012169	WD	NA
+Tursiops_truncatus	MDM4	ENSTTRG00000012174	Others	NA
+Tursiops_truncatus	FBXW11	ENSTTRG00000012176	Others	NA
+Tursiops_truncatus	TPR	ENSTTRG00000012196	Others	NA
+Tursiops_truncatus	GTF2H4	ENSTTRG00000012237	GTF	NA
+Tursiops_truncatus	LOXL2	ENSTTRG00000012255	Others	NA
+Tursiops_truncatus	EED	ENSTTRG00000012266	Others	NA
+Tursiops_truncatus	ALYREF	ENSTTRG00000012275	Others	NA
+Tursiops_truncatus	SIRT7	ENSTTRG00000012279	Sirtuin	NA
+Tursiops_truncatus	HDAC10	ENSTTRG00000012295	Histone deacetylase	NA
+Tursiops_truncatus	ACTN1	ENSTTRG00000012305	Actin	NA
+Tursiops_truncatus	TAF6	ENSTTRG00000012315	TATA-box	NA
+Tursiops_truncatus	BCL9	ENSTTRG00000012320	BCL	NA
+Tursiops_truncatus	CTR9	ENSTTRG00000012321	Others	NA
+Tursiops_truncatus	TRIM24	ENSTTRG00000012351	Tripartite motif	NA
+Tursiops_truncatus	POU2AF1	ENSTTRG00000012377	Others	NA
+Tursiops_truncatus	HEATR1	ENSTTRG00000012382	Others	NA
+Tursiops_truncatus	EYA1	ENSTTRG00000012403	EYA	NA
+Tursiops_truncatus	ATF7IP	ENSTTRG00000012406	Others	NA
+Tursiops_truncatus	PIDD1	ENSTTRG00000012423	Others	NA
+Tursiops_truncatus	ITCH	ENSTTRG00000012426	Others	NA
+Tursiops_truncatus	RBPMS	ENSTTRG00000012451	RNA binding protein	NA
+Tursiops_truncatus	ACTN2	ENSTTRG00000012458	Actin	NA
+Tursiops_truncatus	TGFB1I1	ENSTTRG00000012492	Others	NA
+Tursiops_truncatus	NCOA6	ENSTTRG00000012494	Nuclear receptor coactivator	NA
+Tursiops_truncatus	SUPT7L	ENSTTRG00000012533	SUPT	NA
+Tursiops_truncatus	CNOT7	ENSTTRG00000012565	CCR4-NOT	NA
+Tursiops_truncatus	HDAC7	ENSTTRG00000012577	Histone deacetylase	NA
+Tursiops_truncatus	TRIM8	ENSTTRG00000012609	Tripartite motif	NA
+Tursiops_truncatus	CTBP2	ENSTTRG00000012648	Others	NA
+Tursiops_truncatus	MED10	ENSTTRG00000012656	Mediator complex	NA
+Tursiops_truncatus	ANXA4	ENSTTRG00000012669	Others	NA
+Tursiops_truncatus	CHD9	ENSTTRG00000012674	CHD	NA
+Tursiops_truncatus	RBL2	ENSTTRG00000012699	Other_Co-activator/repressors	NA
+Tursiops_truncatus	RNF168	ENSTTRG00000012708	Ring finger protein	NA
+Tursiops_truncatus		ENSTTRG00000012717	INO80 complex	NA
+Tursiops_truncatus	PCGF1	ENSTTRG00000012723	PCGF	NA
+Tursiops_truncatus	LOXL3	ENSTTRG00000012728	Others	NA
+Tursiops_truncatus		ENSTTRG00000012732	Others	NA
+Tursiops_truncatus	NRG1	ENSTTRG00000012741	Others	NA
+Tursiops_truncatus	CCAR2	ENSTTRG00000012752	Others	NA
+Tursiops_truncatus	INO80D	ENSTTRG00000012758	INO80 complex	NA
+Tursiops_truncatus	TAF7L	ENSTTRG00000012772	TATA-box	NA
+Tursiops_truncatus	BTK	ENSTTRG00000012776	Others	NA
+Tursiops_truncatus	ARL2BP	ENSTTRG00000012794	Others	NA
+Tursiops_truncatus	CRY1	ENSTTRG00000012811	Others	NA
+Tursiops_truncatus	TGFB1	ENSTTRG00000012848	Others	NA
+Tursiops_truncatus	TTF2	ENSTTRG00000012884	Others	NA
+Tursiops_truncatus	CTDSP1	ENSTTRG00000012919	Others	NA
+Tursiops_truncatus	JMY	ENSTTRG00000012967	Others	NA
+Tursiops_truncatus	DUSP26	ENSTTRG00000012995	Others	NA
+Tursiops_truncatus	NCOA2	ENSTTRG00000013003	Nuclear receptor coactivator	NA
+Tursiops_truncatus	CTH	ENSTTRG00000013009	Others	NA
+Tursiops_truncatus	NAB2	ENSTTRG00000013063	Others	NA
+Tursiops_truncatus	PRPF6	ENSTTRG00000013068	Others	101317106
+Tursiops_truncatus		ENSTTRG00000013096	TEF	NA
+Tursiops_truncatus	DMAP1	ENSTTRG00000013118	DNA_methylase	101320166
+Tursiops_truncatus		ENSTTRG00000013131	Others	NA
+Tursiops_truncatus		ENSTTRG00000013136	Others	NA
+Tursiops_truncatus	LPIN1	ENSTTRG00000013171	LPIN	NA
+Tursiops_truncatus	BCOR	ENSTTRG00000013183	Other_Co-activator/repressors	NA
+Tursiops_truncatus	FHIT	ENSTTRG00000013200	Others	NA
+Tursiops_truncatus	HELLS	ENSTTRG00000013263	Others	NA
+Tursiops_truncatus	AIP	ENSTTRG00000013265	Others	NA
+Tursiops_truncatus	EMSY	ENSTTRG00000013291	Others	NA
+Tursiops_truncatus	SSBP3	ENSTTRG00000013317	Others	NA
+Tursiops_truncatus	ASH1L	ENSTTRG00000013329	Others	NA
+Tursiops_truncatus	TXLNG	ENSTTRG00000013333	Others	NA
+Tursiops_truncatus	RBBP7	ENSTTRG00000013335	RBBP	NA
+Tursiops_truncatus	BRD7	ENSTTRG00000013378	Bromodomain	NA
+Tursiops_truncatus	NOD2	ENSTTRG00000013382	Others	NA
+Tursiops_truncatus	PARP9	ENSTTRG00000013406	PARP	NA
+Tursiops_truncatus	CHD6	ENSTTRG00000013438	CHD	NA
+Tursiops_truncatus	SFSWAP	ENSTTRG00000013478	Others	NA
+Tursiops_truncatus	PARP14	ENSTTRG00000013482	PARP	NA
+Tursiops_truncatus	PID1	ENSTTRG00000013484	Others	NA
+Tursiops_truncatus	FHL3	ENSTTRG00000013513	FHL	NA
+Tursiops_truncatus	SIRT3	ENSTTRG00000013531	Sirtuin	NA
+Tursiops_truncatus	NLRP3	ENSTTRG00000013577	Others	NA
+Tursiops_truncatus	SAFB2	ENSTTRG00000013585	Others	NA
+Tursiops_truncatus	SAFB	ENSTTRG00000013588	Others	NA
+Tursiops_truncatus	CITED2	ENSTTRG00000013631	CITED	NA
+Tursiops_truncatus	LZTS1	ENSTTRG00000013645	Others	NA
+Tursiops_truncatus	LDB2	ENSTTRG00000013661	LIM	NA
+Tursiops_truncatus		ENSTTRG00000013704	SLC	NA
+Tursiops_truncatus		ENSTTRG00000013707	TATA-box	NA
+Tursiops_truncatus	CHD1	ENSTTRG00000013714	CHD	NA
+Tursiops_truncatus	NELFA	ENSTTRG00000013718	GTF	NA
+Tursiops_truncatus	HDAC3	ENSTTRG00000013734	Histone deacetylase	NA
+Tursiops_truncatus	GTF2H1	ENSTTRG00000013755	GTF	NA
+Tursiops_truncatus	TSG101	ENSTTRG00000013758	Others	NA
+Tursiops_truncatus		ENSTTRG00000013793	Notch	NA
+Tursiops_truncatus	EHMT1	ENSTTRG00000013834	Histone lysine methyltransferase	NA
+Tursiops_truncatus	MNAT1	ENSTTRG00000013838	Others	101327555
+Tursiops_truncatus	BRD1	ENSTTRG00000013875	Bromodomain	NA
+Tursiops_truncatus	PRAME	ENSTTRG00000013917	Others	101318036
+Tursiops_truncatus	FLNA	ENSTTRG00000013919	Others	NA
+Tursiops_truncatus	NOL11	ENSTTRG00000013960	Nuclear coactivator	NA
+Tursiops_truncatus	BPTF	ENSTTRG00000013967	Bromodomain	NA
+Tursiops_truncatus	ASF1A	ENSTTRG00000013969	Others	NA
+Tursiops_truncatus	C1D	ENSTTRG00000013982	Other_Co-activator/repressors	NA
+Tursiops_truncatus	MED13L	ENSTTRG00000013985	Mediator complex	NA
+Tursiops_truncatus	AUTS2	ENSTTRG00000014016	Others	NA
+Tursiops_truncatus	DDX39B	ENSTTRG00000014074	RNA helicase	NA
+Tursiops_truncatus	RNF4	ENSTTRG00000014115	Ring finger protein	NA
+Tursiops_truncatus		ENSTTRG00000014138	Heat shock protein	NA
+Tursiops_truncatus	TAF15	ENSTTRG00000014145	TATA-box	NA
+Tursiops_truncatus	EHMT2	ENSTTRG00000014148	Histone lysine methyltransferase	NA
+Tursiops_truncatus	KANK1	ENSTTRG00000014170	Others	NA
+Tursiops_truncatus	VGLL3	ENSTTRG00000014216	Vestigial like	NA
+Tursiops_truncatus		ENSTTRG00000014219	SSX	NA
+Tursiops_truncatus	ZNF638	ENSTTRG00000014220	Zinc finger	NA
+Tursiops_truncatus	SSBP2	ENSTTRG00000014264	Others	NA
+Tursiops_truncatus	SIVA1	ENSTTRG00000014271	Others	101334076
+Tursiops_truncatus	POLR2A	ENSTTRG00000014273	POLR	NA
+Tursiops_truncatus	KDM2B	ENSTTRG00000014294	Lysine demethylase	NA
+Tursiops_truncatus	BRDT	ENSTTRG00000014360	Bromodomain	NA
+Tursiops_truncatus	EAF1	ENSTTRG00000014376	Others	NA
+Tursiops_truncatus	PPIE	ENSTTRG00000014385	Others	NA
+Tursiops_truncatus	BRMS1	ENSTTRG00000014425	Other_CRF	NA
+Tursiops_truncatus	RPAP2	ENSTTRG00000014437	Others	NA
+Tursiops_truncatus	HDGF	ENSTTRG00000014512	Others	NA
+Tursiops_truncatus	EPC2	ENSTTRG00000014520	Others	NA
+Tursiops_truncatus	SMYD1	ENSTTRG00000014531	SMYD	NA
+Tursiops_truncatus	TAB1	ENSTTRG00000014578	Others	NA
+Tursiops_truncatus	TAF4B	ENSTTRG00000014587	TATA-box	NA
+Tursiops_truncatus	ASF1B	ENSTTRG00000014692	Others	NA
+Tursiops_truncatus	ANKRD1	ENSTTRG00000014709	Ankyrin repeat	NA
+Tursiops_truncatus	C1QBP	ENSTTRG00000014738	Others	101333673
+Tursiops_truncatus	ILF2	ENSTTRG00000014759	Others	NA
+Tursiops_truncatus	DHX33	ENSTTRG00000014788	RNA helicase	NA
+Tursiops_truncatus	DNMT3B	ENSTTRG00000014808	DNA_methylase	NA
+Tursiops_truncatus	PCGF5	ENSTTRG00000014814	PCGF	NA
+Tursiops_truncatus	FRK	ENSTTRG00000014819	Others	NA
+Tursiops_truncatus	TBP	ENSTTRG00000014825	TATA-box	NA
+Tursiops_truncatus	KDM4C	ENSTTRG00000014860	Lysine demethylase	NA
+Tursiops_truncatus	TAF5L	ENSTTRG00000014863	TATA-box	NA
+Tursiops_truncatus	CCNT2	ENSTTRG00000014878	Cyclin	101321070
+Tursiops_truncatus	MED25	ENSTTRG00000014885	Mediator complex	NA
+Tursiops_truncatus	HDAC9	ENSTTRG00000014890	Histone deacetylase	NA
+Tursiops_truncatus	CALCOCO1	ENSTTRG00000014892	Others	NA
+Tursiops_truncatus	MED9	ENSTTRG00000014893	Mediator complex	101340085
+Tursiops_truncatus	HIRA	ENSTTRG00000014900	Others	NA
+Tursiops_truncatus	RASD1	ENSTTRG00000014907	Others	101315647
+Tursiops_truncatus	BTRC	ENSTTRG00000014908	Others	NA
+Tursiops_truncatus	RAI1	ENSTTRG00000014922	Others	NA
+Tursiops_truncatus		ENSTTRG00000014942	Nucleoplasmin	NA
+Tursiops_truncatus	NUP62	ENSTTRG00000014957	Others	101329235
+Tursiops_truncatus	PPRC1	ENSTTRG00000014966	Others	NA
+Tursiops_truncatus	RBBP4	ENSTTRG00000014972	RBBP	NA
+Tursiops_truncatus	CDK2	ENSTTRG00000014995	Cyclin	NA
+Tursiops_truncatus		ENSTTRG00000015017	Mediator complex	NA
+Tursiops_truncatus	H2AZ1	ENSTTRG00000015021	Others	NA
+Tursiops_truncatus	SIN3B	ENSTTRG00000015025	Others	NA
+Tursiops_truncatus	CDKN1B	ENSTTRG00000015034	Cyclin	NA
+Tursiops_truncatus	HDAC2	ENSTTRG00000015043	Histone deacetylase	NA
+Tursiops_truncatus	AGO1	ENSTTRG00000015088	Others	NA
+Tursiops_truncatus	THRAP3	ENSTTRG00000015101	Thyroid hormone receptor	101324720
+Tursiops_truncatus	HIPK2	ENSTTRG00000015161	HIPK	NA
+Tursiops_truncatus	ABL1	ENSTTRG00000015170	Others	NA
+Tursiops_truncatus	CHCHD2	ENSTTRG00000015185	Coiled-coil	NA
+Tursiops_truncatus	SIAH1	ENSTTRG00000015195	Others	NA
+Tursiops_truncatus	ALPK3	ENSTTRG00000015314	Others	NA
+Tursiops_truncatus	NELFB	ENSTTRG00000015366	GTF	NA
+Tursiops_truncatus	BRWD1	ENSTTRG00000015371	Bromodomain	NA
+Tursiops_truncatus	WDTC1	ENSTTRG00000015426	WD	NA
+Tursiops_truncatus	SENP1	ENSTTRG00000015447	Others	NA
+Tursiops_truncatus	ELOB	ENSTTRG00000015454	Others	NA
+Tursiops_truncatus	CBX2	ENSTTRG00000015466	Chromobox	NA
+Tursiops_truncatus	CBX8	ENSTTRG00000015476	Chromobox	NA
+Tursiops_truncatus	CBX4	ENSTTRG00000015488	Chromobox	NA
+Tursiops_truncatus	SETD1A	ENSTTRG00000015493	SET	NA
+Tursiops_truncatus	TRIB1	ENSTTRG00000015530	Others	NA
+Tursiops_truncatus	CXXC1	ENSTTRG00000015535	Others	NA
+Tursiops_truncatus	KAT8	ENSTTRG00000015552	Lysine acetyltransferase	NA
+Tursiops_truncatus	PADI2	ENSTTRG00000015553	Other_CRF	NA
+Tursiops_truncatus	PADI1	ENSTTRG00000015557	Others	NA
+Tursiops_truncatus	FUS	ENSTTRG00000015559	Others	NA
+Tursiops_truncatus	PARK7	ENSTTRG00000015613	Others	101325919
+Tursiops_truncatus	DCC	ENSTTRG00000015629	Others	NA
+Tursiops_truncatus	CCNH	ENSTTRG00000015645	Cyclin	NA
+Tursiops_truncatus	SPEN	ENSTTRG00000015704	Others	NA
+Tursiops_truncatus	MDM2	ENSTTRG00000015715	Others	NA
+Tursiops_truncatus	NAB1	ENSTTRG00000015723	Others	NA
+Tursiops_truncatus	TADA1	ENSTTRG00000015779	Transcriptional adaptor	101319063
+Tursiops_truncatus	CCDC62	ENSTTRG00000015859	Coiled-coil	NA
+Tursiops_truncatus	SETD2	ENSTTRG00000015870	SET	NA
+Tursiops_truncatus	WDR61	ENSTTRG00000015872	WD	NA
+Tursiops_truncatus	RECQL5	ENSTTRG00000015879	Others	NA
+Tursiops_truncatus	KMT5A	ENSTTRG00000015884	Lysine methyltransferase	NA
+Tursiops_truncatus	SAP30BP	ENSTTRG00000015886	SAP	NA
+Tursiops_truncatus	WBP2	ENSTTRG00000015892	WW	NA
+Tursiops_truncatus	RNF6	ENSTTRG00000015900	Ring finger protein	NA
+Tursiops_truncatus	CNOT8	ENSTTRG00000015951	CCR4-NOT	101326312
+Tursiops_truncatus	TNNI2	ENSTTRG00000015956	Others	NA
+Tursiops_truncatus	TAF9B	ENSTTRG00000015964	TATA-box	NA
+Tursiops_truncatus	SUDS3	ENSTTRG00000015970	Other_Co-activator/repressors	NA
+Tursiops_truncatus	MYO6	ENSTTRG00000015971	Others	NA
+Tursiops_truncatus	NOTCH3	ENSTTRG00000015980	Notch	NA
+Tursiops_truncatus	BRD4	ENSTTRG00000015991	Bromodomain	NA
+Tursiops_truncatus	UTP4	ENSTTRG00000016000	Others	NA
+Tursiops_truncatus		ENSTTRG00000016034	MAGE	NA
+Tursiops_truncatus	ZMYND11	ENSTTRG00000016048	Zinc finger	NA
+Tursiops_truncatus	HNRNPC	ENSTTRG00000016055	HNRNP	101328679
+Tursiops_truncatus	NIPBL	ENSTTRG00000016062	Others	NA
+Tursiops_truncatus	SUPT16H	ENSTTRG00000016068	SUPT	NA
+Tursiops_truncatus	TLE1	ENSTTRG00000016070	Transducin	NA
+Tursiops_truncatus	CHD8	ENSTTRG00000016076	CHD	NA
+Tursiops_truncatus		ENSTTRG00000016102	CHD	NA
+Tursiops_truncatus	TENM2	ENSTTRG00000016113	Others	NA
+Tursiops_truncatus	GMNN	ENSTTRG00000016125	Others	NA
+Tursiops_truncatus	WWC1	ENSTTRG00000016136	WW	NA
+Tursiops_truncatus	PNRC2	ENSTTRG00000016149	Others	101328209
+Tursiops_truncatus	PYGO2	ENSTTRG00000016177	Others	NA
+Tursiops_truncatus	PBXIP1	ENSTTRG00000016178	Others	NA
+Tursiops_truncatus	CDK8	ENSTTRG00000016195	Cyclin	NA
+Tursiops_truncatus	PIK3R1	ENSTTRG00000016211	Others	NA
+Tursiops_truncatus	WWOX	ENSTTRG00000016212	WW	NA
+Tursiops_truncatus	ING3	ENSTTRG00000016226	ING	NA
+Tursiops_truncatus	TP53BP1	ENSTTRG00000016238	Others	NA
+Tursiops_truncatus	LEO1	ENSTTRG00000016252	Others	NA
+Tursiops_truncatus	SIRT1	ENSTTRG00000016262	Sirtuin	NA
+Tursiops_truncatus	PPID	ENSTTRG00000016269	Others	NA
+Tursiops_truncatus	ABRA	ENSTTRG00000016363	Actin	NA
+Tursiops_truncatus	HIPK3	ENSTTRG00000016367	HIPK	NA
+Tursiops_truncatus	TDP2	ENSTTRG00000016376	Others	101330622
+Tursiops_truncatus	MDFI	ENSTTRG00000016384	Others	NA
+Tursiops_truncatus	BLM	ENSTTRG00000016386	Others	NA
+Tursiops_truncatus		ENSTTRG00000016414	Others	NA
+Tursiops_truncatus	CNOT11	ENSTTRG00000016449	CCR4-NOT	101321440
+Tursiops_truncatus	CDK9	ENSTTRG00000016462	Cyclin	NA
+Tursiops_truncatus	ENG	ENSTTRG00000016465	Others	NA
+Tursiops_truncatus	CTDP1	ENSTTRG00000016532	Others	NA
+Tursiops_truncatus	CDK5RAP3	ENSTTRG00000016552	Cyclin	NA
+Tursiops_truncatus	SKAP1	ENSTTRG00000016556	Others	NA
+Tursiops_truncatus		ENSTTRG00000016577	Others	NA
+Tursiops_truncatus	LMO1	ENSTTRG00000016589	LIM	NA
+Tursiops_truncatus	TAF1A	ENSTTRG00000016592	TATA-box	NA
+Tursiops_truncatus	CHAF1B	ENSTTRG00000016600	Others	NA
+Tursiops_truncatus	MORF4L1	ENSTTRG00000016606	Other_CRF	NA
+Tursiops_truncatus	NUP98	ENSTTRG00000016640	Others	NA
+Tursiops_truncatus	CARM1	ENSTTRG00000016644	Others	NA
+Tursiops_truncatus	GSK3B	ENSTTRG00000016652	Others	NA
+Tursiops_truncatus	GTF2E1	ENSTTRG00000016661	GTF	NA
+Tursiops_truncatus	RITA1	ENSTTRG00000016676	Others	NA
+Tursiops_truncatus	DDX54	ENSTTRG00000016678	RNA helicase	NA
+Tursiops_truncatus	DTX1	ENSTTRG00000016692	Others	NA
+Tursiops_truncatus		ENSTTRG00000016693	HNRNP	101319233
+Tursiops_truncatus	MTPN	ENSTTRG00000016695	Others	NA
+Tursiops_truncatus	H1-1	ENSTTRG00000016730	Histone cluster 1 H1	NA
+Tursiops_truncatus	RPRD1B	ENSTTRG00000016751	Others	NA
+Tursiops_truncatus	CNOT10	ENSTTRG00000016779	CCR4-NOT	NA
+Tursiops_truncatus	EYA4	ENSTTRG00000016805	EYA	NA
+Tursiops_truncatus	LRIF1	ENSTTRG00000016816	Others	NA
+Tursiops_truncatus	SDR16C5	ENSTTRG00000016853	Others	NA
+Tursiops_truncatus	MED12L	ENSTTRG00000016868	Mediator complex	NA
+Tursiops_truncatus	PCBD2	ENSTTRG00000016874	Others	NA
+Tursiops_truncatus	DHX36	ENSTTRG00000016883	RNA helicase	101332261
+Tursiops_truncatus	MED24	ENSTTRG00000016892	Mediator complex	NA
+Tursiops_truncatus	KDM4B	ENSTTRG00000016902	Lysine demethylase	NA
+Tursiops_truncatus	SAP18	ENSTTRG00000016912	SAP	NA
+Tursiops_truncatus		ENSTTRG00000016927	Lysine acetyltransferase	NA
+Tursiops_truncatus	CCDC85B	ENSTTRG00000016936	Coiled-coil	101332660
+Tursiops_truncatus	ZNF703	ENSTTRG00000016938	Zinc finger	NA
+Tursiops_truncatus	BRF2	ENSTTRG00000016942	GTF	NA
+Tursiops_truncatus	CREBBP	ENSTTRG00000016992	CREB	NA
+Tursiops_truncatus	CIR1	ENSTTRG00000017000	Other_Co-activator/repressors	NA
+Tursiops_truncatus	RUNX1T1	ENSTTRG00000017005	Others	NA
+Tursiops_truncatus	RBM39	ENSTTRG00000017039	RNA binding protein	NA
+Tursiops_truncatus	DVL1	ENSTTRG00000017040	Others	NA
+Tursiops_truncatus	PHF20	ENSTTRG00000017042	PHF	NA
+Tursiops_truncatus	AURKAIP1	ENSTTRG00000017044	Others	NA
+Tursiops_truncatus	SSU72	ENSTTRG00000017051	Others	NA
+Tursiops_truncatus	GRIP1	ENSTTRG00000017055	Others	NA
+Tursiops_truncatus	ERCC3	ENSTTRG00000017081	Others	NA
+Tursiops_truncatus	PUF60	ENSTTRG00000017088	Others	NA
+Tursiops_truncatus	TXNIP	ENSTTRG00000017112	Others	NA
+Tursiops_truncatus	ARHGAP5	ENSTTRG00000017127	Others	101316618
+Tursiops_truncatus	SETD3	ENSTTRG00000017132	SET	NA
+Tursiops_truncatus	CCNK	ENSTTRG00000017133	Cyclin	NA
+Tursiops_truncatus	COPS5	ENSTTRG00000017152	Others	101328620
+Tursiops_truncatus	COMMD1	ENSTTRG00000017169	Others	NA
+Tursiops_truncatus	TRIM37	ENSTTRG00000017192	Tripartite motif	NA
+Tursiops_truncatus	TAF1B	ENSTTRG00000017200	TATA-box	NA
+Tursiops_truncatus	TGS1	ENSTTRG00000017239	Others	NA
+Tursiops_truncatus	DPF2	ENSTTRG00000017257	DPF	NA
+Tursiops_truncatus	EGFR	ENSTTRG00000017277	Others	NA
+Tursiops_truncatus	ACTR8	ENSTTRG00000017288	ACTR	NA
+Tursiops_truncatus	CCND1	ENSTTRG00000017310	Cyclin	NA
+Tursiops_truncatus	RHOA	ENSTTRG00000017370	Others	101336652
+Tursiops_truncatus	EZH2	ENSTTRG00000017375	Others	NA
+Tursiops_truncatus	SCAI	ENSTTRG00000017396	Others	NA
+Tursiops_truncatus	PYCARD	ENSTTRG00000017403	Others	NA
+Tursiops_truncatus		ENSTTRG00000021382	Others	NA
+Tursiops_truncatus	TRIM16	ENSTTRG00000021424	Tripartite motif	NA

@@ -1,0 +1,953 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Gorilla_gorilla_gorilla	CBX5	ENSGGOG00000000041	Chromobox	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000000166	Others	NA
+Gorilla_gorilla_gorilla	CNOT10	ENSGGOG00000000171	CCR4-NOT	NA
+Gorilla_gorilla_gorilla	WWTR1	ENSGGOG00000000214	WW	NA
+Gorilla_gorilla_gorilla	ELL2	ENSGGOG00000000216	GTF	NA
+Gorilla_gorilla_gorilla	CCDC62	ENSGGOG00000000255	Coiled-coil	NA
+Gorilla_gorilla_gorilla	PHF1	ENSGGOG00000000264	PHF	NA
+Gorilla_gorilla_gorilla	LGALS12	ENSGGOG00000000279	Others	NA
+Gorilla_gorilla_gorilla	CITED1	ENSGGOG00000000290	CITED	NA
+Gorilla_gorilla_gorilla	TLE4	ENSGGOG00000000292	Transducin	NA
+Gorilla_gorilla_gorilla	GRIP1	ENSGGOG00000000298	Others	NA
+Gorilla_gorilla_gorilla	GTF2F1	ENSGGOG00000000318	GTF	NA
+Gorilla_gorilla_gorilla	LPIN2	ENSGGOG00000000330	LPIN	NA
+Gorilla_gorilla_gorilla	LDB2	ENSGGOG00000000354	LIM	NA
+Gorilla_gorilla_gorilla	ILK	ENSGGOG00000000391	Others	NA
+Gorilla_gorilla_gorilla	TCF20	ENSGGOG00000000461	Others	NA
+Gorilla_gorilla_gorilla	TRIP11	ENSGGOG00000000502	Thyroid hormone receptor	NA
+Gorilla_gorilla_gorilla	PRMT1	ENSGGOG00000000503	Arginine methyltransferase	NA
+Gorilla_gorilla_gorilla	KDM4C	ENSGGOG00000000506	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	SMARCA2	ENSGGOG00000000513	SWI/SNF	NA
+Gorilla_gorilla_gorilla	BDP1	ENSGGOG00000000517	GTF	NA
+Gorilla_gorilla_gorilla	MTDH	ENSGGOG00000000539	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000000575	Others	NA
+Gorilla_gorilla_gorilla	KMT2E	ENSGGOG00000000579	Lysine methyltransferase	NA
+Gorilla_gorilla_gorilla	LZTS1	ENSGGOG00000000591	Others	NA
+Gorilla_gorilla_gorilla	NIBAN2	ENSGGOG00000000650	FAM	NA
+Gorilla_gorilla_gorilla	ACTR8	ENSGGOG00000000679	ACTR	NA
+Gorilla_gorilla_gorilla	CARM1	ENSGGOG00000000695	Others	NA
+Gorilla_gorilla_gorilla	PRDM7	ENSGGOG00000000711	Others	NA
+Gorilla_gorilla_gorilla	TLE1	ENSGGOG00000000751	Transducin	NA
+Gorilla_gorilla_gorilla	ELANE	ENSGGOG00000000779	Others	NA
+Gorilla_gorilla_gorilla	MED16	ENSGGOG00000000782	Mediator complex	NA
+Gorilla_gorilla_gorilla	BEND6	ENSGGOG00000000788	Others	NA
+Gorilla_gorilla_gorilla	KDM3B	ENSGGOG00000000833	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	ACTR6	ENSGGOG00000000854	ACTR	NA
+Gorilla_gorilla_gorilla	S100A9	ENSGGOG00000000857	Others	NA
+Gorilla_gorilla_gorilla	RLIM	ENSGGOG00000000885	Ring finger protein	NA
+Gorilla_gorilla_gorilla	TNIP1	ENSGGOG00000000891	Others	NA
+Gorilla_gorilla_gorilla	TAF1C	ENSGGOG00000000942	TATA-box	NA
+Gorilla_gorilla_gorilla	ENG	ENSGGOG00000000945	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000000946	Lysine methyltransferase	NA
+Gorilla_gorilla_gorilla	MED23	ENSGGOG00000000978	Mediator complex	NA
+Gorilla_gorilla_gorilla	CRTC1	ENSGGOG00000000987	CREB	NA
+Gorilla_gorilla_gorilla	HIRA	ENSGGOG00000000992	Others	NA
+Gorilla_gorilla_gorilla	RBM15B	ENSGGOG00000001037	RNA binding protein	NA
+Gorilla_gorilla_gorilla	DCAF1	ENSGGOG00000001039	Others	NA
+Gorilla_gorilla_gorilla	TBPL2	ENSGGOG00000001055	TATA-box	NA
+Gorilla_gorilla_gorilla	CHD1L	ENSGGOG00000001067	CHD	NA
+Gorilla_gorilla_gorilla	SMARCD3	ENSGGOG00000001089	SWI/SNF	NA
+Gorilla_gorilla_gorilla	TFB2M	ENSGGOG00000001095	Others	NA
+Gorilla_gorilla_gorilla	PHF5A	ENSGGOG00000001104	PHF	NA
+Gorilla_gorilla_gorilla	MED28	ENSGGOG00000001114	Mediator complex	NA
+Gorilla_gorilla_gorilla	ACTB	ENSGGOG00000001133	Actin	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000001149	Others	NA
+Gorilla_gorilla_gorilla	TAF1A	ENSGGOG00000001183	TATA-box	NA
+Gorilla_gorilla_gorilla	HLTF	ENSGGOG00000001261	Others	NA
+Gorilla_gorilla_gorilla	MTF2	ENSGGOG00000001308	Others	NA
+Gorilla_gorilla_gorilla	PRDX5	ENSGGOG00000001337	Others	NA
+Gorilla_gorilla_gorilla	NAB2	ENSGGOG00000001421	Others	NA
+Gorilla_gorilla_gorilla	H1-5	ENSGGOG00000001435	Histone cluster 1 H1	NA
+Gorilla_gorilla_gorilla	LBH	ENSGGOG00000001468	Others	NA
+Gorilla_gorilla_gorilla	SGK1	ENSGGOG00000001495	Others	NA
+Gorilla_gorilla_gorilla	TRIP6	ENSGGOG00000001505	Thyroid hormone receptor	NA
+Gorilla_gorilla_gorilla	MCRS1	ENSGGOG00000001566	Others	NA
+Gorilla_gorilla_gorilla	PRMT7	ENSGGOG00000001568	Arginine methyltransferase	NA
+Gorilla_gorilla_gorilla	PARP14	ENSGGOG00000001623	PARP	NA
+Gorilla_gorilla_gorilla	GPS2	ENSGGOG00000001672	Others	NA
+Gorilla_gorilla_gorilla	PHF20	ENSGGOG00000001674	PHF	NA
+Gorilla_gorilla_gorilla	PHIP	ENSGGOG00000001706	Others	NA
+Gorilla_gorilla_gorilla	PARP10	ENSGGOG00000001802	PARP	NA
+Gorilla_gorilla_gorilla	ILF2	ENSGGOG00000001814	Others	NA
+Gorilla_gorilla_gorilla	RSF1	ENSGGOG00000001833	Others	NA
+Gorilla_gorilla_gorilla	CTNNB1	ENSGGOG00000001840	Casein	NA
+Gorilla_gorilla_gorilla	PAF1	ENSGGOG00000001843	Others	NA
+Gorilla_gorilla_gorilla	MED29	ENSGGOG00000001844	Mediator complex	NA
+Gorilla_gorilla_gorilla	SLC30A9	ENSGGOG00000001861	SLC	NA
+Gorilla_gorilla_gorilla	NELFB	ENSGGOG00000001897	GTF	NA
+Gorilla_gorilla_gorilla	RNF25	ENSGGOG00000001901	Ring finger protein	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000001905	Others	NA
+Gorilla_gorilla_gorilla	LPXN	ENSGGOG00000001916	Others	NA
+Gorilla_gorilla_gorilla	TRAK1	ENSGGOG00000001920	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000001930	CHD	NA
+Gorilla_gorilla_gorilla	TRIM29	ENSGGOG00000001938	Tripartite motif	NA
+Gorilla_gorilla_gorilla	NFATC2IP	ENSGGOG00000001960	Nuclear coactivator	NA
+Gorilla_gorilla_gorilla	DAPK3	ENSGGOG00000002018	Others	NA
+Gorilla_gorilla_gorilla	NACA2	ENSGGOG00000002110	Others	NA
+Gorilla_gorilla_gorilla	SFMBT2	ENSGGOG00000002114	Others	NA
+Gorilla_gorilla_gorilla	APBB1	ENSGGOG00000002121	Others	NA
+Gorilla_gorilla_gorilla	ANXA4	ENSGGOG00000002124	Others	NA
+Gorilla_gorilla_gorilla	LIN9	ENSGGOG00000002125	Others	NA
+Gorilla_gorilla_gorilla	APEX1	ENSGGOG00000002128	Others	NA
+Gorilla_gorilla_gorilla	PSEN1	ENSGGOG00000002132	Others	NA
+Gorilla_gorilla_gorilla	CREG1	ENSGGOG00000002145	Others	NA
+Gorilla_gorilla_gorilla	LDB1	ENSGGOG00000002151	LIM	NA
+Gorilla_gorilla_gorilla	PPRC1	ENSGGOG00000002155	Others	NA
+Gorilla_gorilla_gorilla	CCNA2	ENSGGOG00000002166	Cyclin	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000002188	Others	NA
+Gorilla_gorilla_gorilla	CDC73	ENSGGOG00000002210	Others	NA
+Gorilla_gorilla_gorilla	SUPT16H	ENSGGOG00000002243	SUPT	NA
+Gorilla_gorilla_gorilla	CHD8	ENSGGOG00000002251	CHD	NA
+Gorilla_gorilla_gorilla	NOTCH3	ENSGGOG00000002258	Notch	NA
+Gorilla_gorilla_gorilla	NELFE	ENSGGOG00000002265	GTF	NA
+Gorilla_gorilla_gorilla	PHF19	ENSGGOG00000002281	PHF	NA
+Gorilla_gorilla_gorilla	PHF21A	ENSGGOG00000002304	PHF	NA
+Gorilla_gorilla_gorilla	CDK2	ENSGGOG00000002312	Cyclin	NA
+Gorilla_gorilla_gorilla	NOTCH4	ENSGGOG00000002332	Notch	NA
+Gorilla_gorilla_gorilla	JADE1	ENSGGOG00000002344	Others	NA
+Gorilla_gorilla_gorilla	CENPF	ENSGGOG00000002373	CENP	NA
+Gorilla_gorilla_gorilla	TXLNG	ENSGGOG00000002388	Others	NA
+Gorilla_gorilla_gorilla	CCAR2	ENSGGOG00000002424	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000002438	GTF	NA
+Gorilla_gorilla_gorilla	TAF9B	ENSGGOG00000002470	TATA-box	NA
+Gorilla_gorilla_gorilla	SIRT2	ENSGGOG00000002487	Sirtuin	NA
+Gorilla_gorilla_gorilla	NFKBIB	ENSGGOG00000002491	NFKB associated	NA
+Gorilla_gorilla_gorilla	BRWD1	ENSGGOG00000002545	Bromodomain	NA
+Gorilla_gorilla_gorilla	MED7	ENSGGOG00000002565	Mediator complex	NA
+Gorilla_gorilla_gorilla	TP53BP1	ENSGGOG00000002588	Others	NA
+Gorilla_gorilla_gorilla	ARHGAP5	ENSGGOG00000002593	Others	NA
+Gorilla_gorilla_gorilla	MDFI	ENSGGOG00000002680	Others	NA
+Gorilla_gorilla_gorilla	TAF1B	ENSGGOG00000002685	TATA-box	NA
+Gorilla_gorilla_gorilla	AATF	ENSGGOG00000002706	Others	NA
+Gorilla_gorilla_gorilla	RAI1	ENSGGOG00000002711	Others	NA
+Gorilla_gorilla_gorilla	RGCC	ENSGGOG00000002722	Others	NA
+Gorilla_gorilla_gorilla	TESC	ENSGGOG00000002737	Others	NA
+Gorilla_gorilla_gorilla	RHOC	ENSGGOG00000002741	Others	NA
+Gorilla_gorilla_gorilla	C1QBP	ENSGGOG00000002745	Others	NA
+Gorilla_gorilla_gorilla	TAF6	ENSGGOG00000002747	TATA-box	NA
+Gorilla_gorilla_gorilla	DHX33	ENSGGOG00000002748	RNA helicase	NA
+Gorilla_gorilla_gorilla	LIMD1	ENSGGOG00000002756	LIM	NA
+Gorilla_gorilla_gorilla	CCAR1	ENSGGOG00000002776	Others	NA
+Gorilla_gorilla_gorilla	ASCC3	ENSGGOG00000002790	ASCC	NA
+Gorilla_gorilla_gorilla	PIR	ENSGGOG00000002791	Others	NA
+Gorilla_gorilla_gorilla	COPS2	ENSGGOG00000002827	Others	NA
+Gorilla_gorilla_gorilla	IRF2BPL	ENSGGOG00000002839	Others	NA
+Gorilla_gorilla_gorilla	HCK	ENSGGOG00000002861	Others	NA
+Gorilla_gorilla_gorilla	AURKB	ENSGGOG00000002867	Others	NA
+Gorilla_gorilla_gorilla	RUNX1T1	ENSGGOG00000002874	Others	NA
+Gorilla_gorilla_gorilla	FHL3	ENSGGOG00000002876	FHL	NA
+Gorilla_gorilla_gorilla	TRRAP	ENSGGOG00000002928	Others	NA
+Gorilla_gorilla_gorilla	MEN1	ENSGGOG00000002975	Others	NA
+Gorilla_gorilla_gorilla	TRAK2	ENSGGOG00000003014	Others	NA
+Gorilla_gorilla_gorilla	FLII	ENSGGOG00000003074	Others	NA
+Gorilla_gorilla_gorilla	MED10	ENSGGOG00000003086	Mediator complex	NA
+Gorilla_gorilla_gorilla	MMS19	ENSGGOG00000003110	Others	NA
+Gorilla_gorilla_gorilla	RNF141	ENSGGOG00000003129	Ring finger protein	NA
+Gorilla_gorilla_gorilla	EYA1	ENSGGOG00000003213	EYA	NA
+Gorilla_gorilla_gorilla	GTF2A1	ENSGGOG00000003265	GTF	NA
+Gorilla_gorilla_gorilla	KAT5	ENSGGOG00000003283	Lysine acetyltransferase	NA
+Gorilla_gorilla_gorilla	ANKRA2	ENSGGOG00000003298	Ankyrin repeat	NA
+Gorilla_gorilla_gorilla	KDM1B	ENSGGOG00000003302	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	AGO1	ENSGGOG00000003316	Others	NA
+Gorilla_gorilla_gorilla	ASXL1	ENSGGOG00000003328	Others	NA
+Gorilla_gorilla_gorilla	TCERG1	ENSGGOG00000003329	TEF	NA
+Gorilla_gorilla_gorilla	LRRK2	ENSGGOG00000003336	Other_CRF	NA
+Gorilla_gorilla_gorilla	EZH1	ENSGGOG00000003375	Others	NA
+Gorilla_gorilla_gorilla	PSPC1	ENSGGOG00000003414	Others	NA
+Gorilla_gorilla_gorilla	RRN3	ENSGGOG00000003478	Others	NA
+Gorilla_gorilla_gorilla	TENM1	ENSGGOG00000003488	Others	NA
+Gorilla_gorilla_gorilla	VGLL4	ENSGGOG00000003500	Vestigial like	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000003524	Others	NA
+Gorilla_gorilla_gorilla	TPR	ENSGGOG00000003533	Others	NA
+Gorilla_gorilla_gorilla	DMAP1	ENSGGOG00000003546	DNA_methylase	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000003578	Others	NA
+Gorilla_gorilla_gorilla	THRSP	ENSGGOG00000003652	Others	NA
+Gorilla_gorilla_gorilla	RBM15	ENSGGOG00000003655	RNA binding protein	NA
+Gorilla_gorilla_gorilla	KDM1A	ENSGGOG00000003664	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	CNOT6	ENSGGOG00000003675	CCR4-NOT	NA
+Gorilla_gorilla_gorilla	SNAPC5	ENSGGOG00000003693	Others	NA
+Gorilla_gorilla_gorilla	FUS	ENSGGOG00000003707	Others	NA
+Gorilla_gorilla_gorilla	MBTD1	ENSGGOG00000003708	Others	NA
+Gorilla_gorilla_gorilla	GRHPR	ENSGGOG00000003710	Others	NA
+Gorilla_gorilla_gorilla	YEATS2	ENSGGOG00000003713	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000003737	Others	NA
+Gorilla_gorilla_gorilla	THOC5	ENSGGOG00000003767	Others	NA
+Gorilla_gorilla_gorilla	NFKBIZ	ENSGGOG00000003769	NFKB associated	NA
+Gorilla_gorilla_gorilla	CBL	ENSGGOG00000003804	Others	NA
+Gorilla_gorilla_gorilla	KDM7A	ENSGGOG00000003842	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	TCEA2	ENSGGOG00000003862	TEF	NA
+Gorilla_gorilla_gorilla	TRIM8	ENSGGOG00000003887	Tripartite motif	NA
+Gorilla_gorilla_gorilla	RBM39	ENSGGOG00000003950	RNA binding protein	NA
+Gorilla_gorilla_gorilla	TAF4B	ENSGGOG00000003977	TATA-box	NA
+Gorilla_gorilla_gorilla	NOTCH2	ENSGGOG00000004007	Notch	NA
+Gorilla_gorilla_gorilla	SDR16C5	ENSGGOG00000004025	Others	NA
+Gorilla_gorilla_gorilla	HIPK2	ENSGGOG00000004050	HIPK	NA
+Gorilla_gorilla_gorilla	RNF20	ENSGGOG00000004054	Ring finger protein	NA
+Gorilla_gorilla_gorilla	HNRNPU	ENSGGOG00000004061	HNRNP	NA
+Gorilla_gorilla_gorilla	KMT5B	ENSGGOG00000004122	Lysine methyltransferase	NA
+Gorilla_gorilla_gorilla	MED14	ENSGGOG00000004125	Mediator complex	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000004126	TATA-box	NA
+Gorilla_gorilla_gorilla	LIN54	ENSGGOG00000004161	Others	NA
+Gorilla_gorilla_gorilla	WWP2	ENSGGOG00000004167	WW	NA
+Gorilla_gorilla_gorilla	MED15	ENSGGOG00000004182	Mediator complex	NA
+Gorilla_gorilla_gorilla	FLNA	ENSGGOG00000004199	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000004202	GTF	NA
+Gorilla_gorilla_gorilla	ELP1	ENSGGOG00000004204	ELP	NA
+Gorilla_gorilla_gorilla	FHL5	ENSGGOG00000004224	FHL	NA
+Gorilla_gorilla_gorilla	RPRD1B	ENSGGOG00000004246	Others	NA
+Gorilla_gorilla_gorilla	PIK3R1	ENSGGOG00000004248	Others	NA
+Gorilla_gorilla_gorilla	NCL	ENSGGOG00000004300	Others	NA
+Gorilla_gorilla_gorilla	HIF1AN	ENSGGOG00000004308	Others	NA
+Gorilla_gorilla_gorilla	SENP1	ENSGGOG00000004325	Others	NA
+Gorilla_gorilla_gorilla	ING3	ENSGGOG00000004349	ING	NA
+Gorilla_gorilla_gorilla	PHF2	ENSGGOG00000004414	PHF	NA
+Gorilla_gorilla_gorilla	AEBP1	ENSGGOG00000004418	Others	NA
+Gorilla_gorilla_gorilla	SSU72	ENSGGOG00000004421	Others	NA
+Gorilla_gorilla_gorilla	SAP30L	ENSGGOG00000004441	SAP	NA
+Gorilla_gorilla_gorilla	TGFB1I1	ENSGGOG00000004450	Others	NA
+Gorilla_gorilla_gorilla	EAF1	ENSGGOG00000004453	Others	NA
+Gorilla_gorilla_gorilla	SS18	ENSGGOG00000004461	SS18	NA
+Gorilla_gorilla_gorilla	TAF7L	ENSGGOG00000004463	TATA-box	NA
+Gorilla_gorilla_gorilla	HR	ENSGGOG00000004484	Lysine methyltransferase	NA
+Gorilla_gorilla_gorilla	POLE4	ENSGGOG00000004491	Other_CRF	NA
+Gorilla_gorilla_gorilla	MLLT3	ENSGGOG00000004505	GTF	NA
+Gorilla_gorilla_gorilla	ERBB2	ENSGGOG00000004509	Erbb2	NA
+Gorilla_gorilla_gorilla	HDAC6	ENSGGOG00000004525	Histone deacetylase	NA
+Gorilla_gorilla_gorilla	UTP4	ENSGGOG00000004526	Others	NA
+Gorilla_gorilla_gorilla	PER2	ENSGGOG00000004542	Others	NA
+Gorilla_gorilla_gorilla	KDM5A	ENSGGOG00000004563	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	CIDEA	ENSGGOG00000004573	Others	NA
+Gorilla_gorilla_gorilla	YWHAB	ENSGGOG00000004580	Others	NA
+Gorilla_gorilla_gorilla	PABPC1L	ENSGGOG00000004584	Other_CRF	NA
+Gorilla_gorilla_gorilla	EHMT1	ENSGGOG00000004616	Histone lysine methyltransferase	NA
+Gorilla_gorilla_gorilla	PUF60	ENSGGOG00000004646	Others	NA
+Gorilla_gorilla_gorilla	ELP2	ENSGGOG00000004679	ELP	NA
+Gorilla_gorilla_gorilla	KAT6A	ENSGGOG00000004681	Lysine acetyltransferase	NA
+Gorilla_gorilla_gorilla	RIPK3	ENSGGOG00000004710	Others	NA
+Gorilla_gorilla_gorilla	ITGB3BP	ENSGGOG00000004727	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000004743	SKI	NA
+Gorilla_gorilla_gorilla	PELP1	ENSGGOG00000004778	Others	NA
+Gorilla_gorilla_gorilla	DRAP1	ENSGGOG00000004797	Others	NA
+Gorilla_gorilla_gorilla	ELP3	ENSGGOG00000004808	ELP	NA
+Gorilla_gorilla_gorilla	CSRP3	ENSGGOG00000004823	Others	NA
+Gorilla_gorilla_gorilla	NLRP3	ENSGGOG00000004835	Others	NA
+Gorilla_gorilla_gorilla	CBX7	ENSGGOG00000004873	Chromobox	NA
+Gorilla_gorilla_gorilla	IKBKG	ENSGGOG00000004896	Others	NA
+Gorilla_gorilla_gorilla	MED8	ENSGGOG00000004931	Mediator complex	NA
+Gorilla_gorilla_gorilla	ASCC2	ENSGGOG00000004933	ASCC	NA
+Gorilla_gorilla_gorilla	WDR5	ENSGGOG00000004997	WD	NA
+Gorilla_gorilla_gorilla	BTRC	ENSGGOG00000005023	Others	NA
+Gorilla_gorilla_gorilla	MED24	ENSGGOG00000005054	Mediator complex	NA
+Gorilla_gorilla_gorilla	CNOT11	ENSGGOG00000005070	CCR4-NOT	NA
+Gorilla_gorilla_gorilla	SAP30	ENSGGOG00000005082	SAP	NA
+Gorilla_gorilla_gorilla	CCNH	ENSGGOG00000005172	Cyclin	NA
+Gorilla_gorilla_gorilla	WDR77	ENSGGOG00000005208	WD	NA
+Gorilla_gorilla_gorilla	NCOA2	ENSGGOG00000005276	Nuclear receptor coactivator	NA
+Gorilla_gorilla_gorilla	TRIB1	ENSGGOG00000005304	Others	NA
+Gorilla_gorilla_gorilla	HDAC2	ENSGGOG00000005428	Histone deacetylase	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000005443	TATA-box	NA
+Gorilla_gorilla_gorilla	ADRB2	ENSGGOG00000005445	Others	NA
+Gorilla_gorilla_gorilla	RIPPLY1	ENSGGOG00000005449	Others	NA
+Gorilla_gorilla_gorilla	BEND3	ENSGGOG00000005456	Others	NA
+Gorilla_gorilla_gorilla	KAT2A	ENSGGOG00000005463	Lysine acetyltransferase	NA
+Gorilla_gorilla_gorilla	KANK1	ENSGGOG00000005466	Others	NA
+Gorilla_gorilla_gorilla	ARRB2	ENSGGOG00000005467	Others	NA
+Gorilla_gorilla_gorilla	ARL2BP	ENSGGOG00000005471	Others	NA
+Gorilla_gorilla_gorilla	MED11	ENSGGOG00000005473	Mediator complex	NA
+Gorilla_gorilla_gorilla	RBL1	ENSGGOG00000005495	Other_Co-activator/repressors	NA
+Gorilla_gorilla_gorilla	TERF2IP	ENSGGOG00000005519	Others	NA
+Gorilla_gorilla_gorilla	SS18L1	ENSGGOG00000005638	SS18	NA
+Gorilla_gorilla_gorilla	WAC	ENSGGOG00000005639	WW	NA
+Gorilla_gorilla_gorilla	EP400	ENSGGOG00000005669	Others	NA
+Gorilla_gorilla_gorilla	FBP1	ENSGGOG00000005671	Others	NA
+Gorilla_gorilla_gorilla	TAF15	ENSGGOG00000005693	TATA-box	NA
+Gorilla_gorilla_gorilla	SMYD2	ENSGGOG00000005698	SMYD	NA
+Gorilla_gorilla_gorilla	SFMBT1	ENSGGOG00000005765	Others	NA
+Gorilla_gorilla_gorilla	ASH2L	ENSGGOG00000005777	Others	NA
+Gorilla_gorilla_gorilla	MYCBP	ENSGGOG00000005810	MYC	NA
+Gorilla_gorilla_gorilla	KMT5C	ENSGGOG00000005847	Lysine methyltransferase	NA
+Gorilla_gorilla_gorilla	DPF1	ENSGGOG00000005852	DPF	NA
+Gorilla_gorilla_gorilla	TRAF6	ENSGGOG00000005854	Others	NA
+Gorilla_gorilla_gorilla	DAB2	ENSGGOG00000005856	Others	NA
+Gorilla_gorilla_gorilla	URI1	ENSGGOG00000005886	Others	NA
+Gorilla_gorilla_gorilla	ACTN4	ENSGGOG00000005899	Actin	NA
+Gorilla_gorilla_gorilla	LPIN1	ENSGGOG00000005901	LPIN	NA
+Gorilla_gorilla_gorilla	MPHOSPH8	ENSGGOG00000005909	Others	NA
+Gorilla_gorilla_gorilla	MNDA	ENSGGOG00000005937	Others	NA
+Gorilla_gorilla_gorilla	MACROH2A2	ENSGGOG00000005947	Others	NA
+Gorilla_gorilla_gorilla	DDX39B	ENSGGOG00000005989	RNA helicase	NA
+Gorilla_gorilla_gorilla	CREBBP	ENSGGOG00000006025	CREB	NA
+Gorilla_gorilla_gorilla	CDYL2	ENSGGOG00000006084	Chromodomain Y	NA
+Gorilla_gorilla_gorilla	STRN3	ENSGGOG00000006096	Others	NA
+Gorilla_gorilla_gorilla	AIM2	ENSGGOG00000006135	Others	NA
+Gorilla_gorilla_gorilla	NONO	ENSGGOG00000006194	Others	NA
+Gorilla_gorilla_gorilla	BAHCC1	ENSGGOG00000006265	Others	NA
+Gorilla_gorilla_gorilla	PCGF1	ENSGGOG00000006296	PCGF	NA
+Gorilla_gorilla_gorilla	NUDT5	ENSGGOG00000006325	Other_CRF	NA
+Gorilla_gorilla_gorilla	LOXL3	ENSGGOG00000006334	Others	NA
+Gorilla_gorilla_gorilla	MED6	ENSGGOG00000006341	Mediator complex	NA
+Gorilla_gorilla_gorilla	BRMS1L	ENSGGOG00000006388	Other_CRF	NA
+Gorilla_gorilla_gorilla	MYBBP1A	ENSGGOG00000006396	MYB	NA
+Gorilla_gorilla_gorilla	KDM8	ENSGGOG00000006500	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	SLC26A3	ENSGGOG00000006523	SLC	NA
+Gorilla_gorilla_gorilla	ERN1	ENSGGOG00000006532	Others	NA
+Gorilla_gorilla_gorilla	VGLL1	ENSGGOG00000006552	Vestigial like	NA
+Gorilla_gorilla_gorilla	WNT3A	ENSGGOG00000006562	Others	NA
+Gorilla_gorilla_gorilla	RNF6	ENSGGOG00000006568	Ring finger protein	NA
+Gorilla_gorilla_gorilla	CDK8	ENSGGOG00000006569	Cyclin	NA
+Gorilla_gorilla_gorilla	ZNF593	ENSGGOG00000006573	Zinc finger	NA
+Gorilla_gorilla_gorilla	MSL3	ENSGGOG00000006582	Others	NA
+Gorilla_gorilla_gorilla	DOT1L	ENSGGOG00000006592	Others	NA
+Gorilla_gorilla_gorilla	DAXX	ENSGGOG00000006601	Other_CRF	NA
+Gorilla_gorilla_gorilla	KDM6A	ENSGGOG00000006607	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	RPAP2	ENSGGOG00000006674	Others	NA
+Gorilla_gorilla_gorilla	SKOR2	ENSGGOG00000006679	SKI	NA
+Gorilla_gorilla_gorilla	ESF1	ENSGGOG00000006692	Others	NA
+Gorilla_gorilla_gorilla	NELFCD	ENSGGOG00000006713	GTF	NA
+Gorilla_gorilla_gorilla	CHEK1	ENSGGOG00000006741	Others	NA
+Gorilla_gorilla_gorilla	CRK	ENSGGOG00000006758	Others	NA
+Gorilla_gorilla_gorilla	DVL2	ENSGGOG00000006765	Others	NA
+Gorilla_gorilla_gorilla	IKBKB	ENSGGOG00000006769	Others	NA
+Gorilla_gorilla_gorilla	SMARCD2	ENSGGOG00000006814	SWI/SNF	NA
+Gorilla_gorilla_gorilla	RPTOR	ENSGGOG00000006841	Others	NA
+Gorilla_gorilla_gorilla	HEATR1	ENSGGOG00000006913	Others	NA
+Gorilla_gorilla_gorilla	THRAP3	ENSGGOG00000006917	Thyroid hormone receptor	NA
+Gorilla_gorilla_gorilla	TXN	ENSGGOG00000006925	Others	NA
+Gorilla_gorilla_gorilla	KDM3A	ENSGGOG00000006940	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	SMURF2	ENSGGOG00000007009	Others	NA
+Gorilla_gorilla_gorilla	NPM2	ENSGGOG00000007071	Nucleoplasmin	NA
+Gorilla_gorilla_gorilla	BRD8	ENSGGOG00000007095	Bromodomain	NA
+Gorilla_gorilla_gorilla	HYAL2	ENSGGOG00000007096	Others	NA
+Gorilla_gorilla_gorilla	H1-3	ENSGGOG00000007174	Histone cluster 1 H1	NA
+Gorilla_gorilla_gorilla	BTAF1	ENSGGOG00000007216	Others	NA
+Gorilla_gorilla_gorilla	NPM1	ENSGGOG00000007220	Nucleoplasmin	NA
+Gorilla_gorilla_gorilla	ERBIN	ENSGGOG00000007225	Erbb2	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000007230	Others	NA
+Gorilla_gorilla_gorilla	SUPT4H1	ENSGGOG00000007232	SUPT	NA
+Gorilla_gorilla_gorilla	ITCH	ENSGGOG00000007233	Others	NA
+Gorilla_gorilla_gorilla	JAK2	ENSGGOG00000007243	Others	NA
+Gorilla_gorilla_gorilla	LRIF1	ENSGGOG00000007251	Others	NA
+Gorilla_gorilla_gorilla	POLR3C	ENSGGOG00000007279	POLR	NA
+Gorilla_gorilla_gorilla	COPRS	ENSGGOG00000007292	Others	NA
+Gorilla_gorilla_gorilla	CTBP2	ENSGGOG00000007304	Others	NA
+Gorilla_gorilla_gorilla	DCC	ENSGGOG00000007343	Others	NA
+Gorilla_gorilla_gorilla	GSK3B	ENSGGOG00000007367	Others	NA
+Gorilla_gorilla_gorilla	RPRD1A	ENSGGOG00000007369	Others	NA
+Gorilla_gorilla_gorilla	H1-4	ENSGGOG00000007375	Histone cluster 1 H1	NA
+Gorilla_gorilla_gorilla	ZMYM2	ENSGGOG00000007409	Zinc finger	NA
+Gorilla_gorilla_gorilla	CCNC	ENSGGOG00000007422	Cyclin	NA
+Gorilla_gorilla_gorilla	DVL3	ENSGGOG00000007433	Others	NA
+Gorilla_gorilla_gorilla	SRC	ENSGGOG00000007437	Others	NA
+Gorilla_gorilla_gorilla	TAF2	ENSGGOG00000007483	TATA-box	NA
+Gorilla_gorilla_gorilla	EED	ENSGGOG00000007517	Others	NA
+Gorilla_gorilla_gorilla	TBL1X	ENSGGOG00000007537	Transducin	NA
+Gorilla_gorilla_gorilla	MED18	ENSGGOG00000007555	Mediator complex	NA
+Gorilla_gorilla_gorilla	ASCC1	ENSGGOG00000007559	ASCC	NA
+Gorilla_gorilla_gorilla	TRIB3	ENSGGOG00000007575	Others	NA
+Gorilla_gorilla_gorilla	CAMK4	ENSGGOG00000007589	CAMK	NA
+Gorilla_gorilla_gorilla	COMMD1	ENSGGOG00000007602	Others	NA
+Gorilla_gorilla_gorilla	BRF1	ENSGGOG00000007611	GTF	NA
+Gorilla_gorilla_gorilla	EGFR	ENSGGOG00000007623	Others	NA
+Gorilla_gorilla_gorilla	SNX6	ENSGGOG00000007659	Others	NA
+Gorilla_gorilla_gorilla	H1-2	ENSGGOG00000007676	Histone cluster 1 H1	NA
+Gorilla_gorilla_gorilla	KDM5C	ENSGGOG00000007680	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	BLM	ENSGGOG00000007710	Others	NA
+Gorilla_gorilla_gorilla	SRFBP1	ENSGGOG00000007725	Others	NA
+Gorilla_gorilla_gorilla	NOC2L	ENSGGOG00000007732	Others	NA
+Gorilla_gorilla_gorilla	HDAC11	ENSGGOG00000007735	Histone deacetylase	NA
+Gorilla_gorilla_gorilla	EAPP	ENSGGOG00000007784	Others	NA
+Gorilla_gorilla_gorilla	CASK	ENSGGOG00000007796	CAMK	NA
+Gorilla_gorilla_gorilla	PID1	ENSGGOG00000007797	Others	NA
+Gorilla_gorilla_gorilla	TENM2	ENSGGOG00000007856	Others	NA
+Gorilla_gorilla_gorilla	WWC1	ENSGGOG00000007877	WW	NA
+Gorilla_gorilla_gorilla	FBXW11	ENSGGOG00000007880	Others	NA
+Gorilla_gorilla_gorilla	CDK13	ENSGGOG00000007884	Cyclin	NA
+Gorilla_gorilla_gorilla	HEXIM2	ENSGGOG00000007926	Others	NA
+Gorilla_gorilla_gorilla	PCGF2	ENSGGOG00000007987	PCGF	NA
+Gorilla_gorilla_gorilla	TOB1	ENSGGOG00000008005	Others	NA
+Gorilla_gorilla_gorilla	CD3D	ENSGGOG00000008009	Others	NA
+Gorilla_gorilla_gorilla	TAB1	ENSGGOG00000008015	Others	NA
+Gorilla_gorilla_gorilla	EPC1	ENSGGOG00000008088	Others	NA
+Gorilla_gorilla_gorilla	PHF21B	ENSGGOG00000008097	PHF	NA
+Gorilla_gorilla_gorilla	HELLS	ENSGGOG00000008103	Others	NA
+Gorilla_gorilla_gorilla	BCL9L	ENSGGOG00000008144	BCL	NA
+Gorilla_gorilla_gorilla	ANKRD1	ENSGGOG00000008160	Ankyrin repeat	NA
+Gorilla_gorilla_gorilla	TADA1	ENSGGOG00000008168	Transcriptional adaptor	NA
+Gorilla_gorilla_gorilla	LEO1	ENSGGOG00000008181	Others	NA
+Gorilla_gorilla_gorilla	EP300	ENSGGOG00000008201	Others	NA
+Gorilla_gorilla_gorilla	AURKAIP1	ENSGGOG00000008239	Others	NA
+Gorilla_gorilla_gorilla	MBD3L1	ENSGGOG00000008272	MBD	NA
+Gorilla_gorilla_gorilla	HDGF	ENSGGOG00000008298	Others	NA
+Gorilla_gorilla_gorilla	DDX17	ENSGGOG00000008309	RNA helicase	NA
+Gorilla_gorilla_gorilla	BIRC2	ENSGGOG00000008327	Others	NA
+Gorilla_gorilla_gorilla	FGFR2	ENSGGOG00000008336	FGF	NA
+Gorilla_gorilla_gorilla	RALGAPA1	ENSGGOG00000008354	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000008381	Heat shock protein	NA
+Gorilla_gorilla_gorilla	GTF2H1	ENSGGOG00000008405	GTF	NA
+Gorilla_gorilla_gorilla	CCNE1	ENSGGOG00000008452	Cyclin	NA
+Gorilla_gorilla_gorilla	RNF14	ENSGGOG00000008542	Ring finger protein	NA
+Gorilla_gorilla_gorilla	EYA3	ENSGGOG00000008544	EYA	NA
+Gorilla_gorilla_gorilla	JMY	ENSGGOG00000008560	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000008564	TATA-box	NA
+Gorilla_gorilla_gorilla	TGS1	ENSGGOG00000008624	Others	NA
+Gorilla_gorilla_gorilla	HELZ2	ENSGGOG00000008640	Others	NA
+Gorilla_gorilla_gorilla	NAA15	ENSGGOG00000008676	Others	NA
+Gorilla_gorilla_gorilla	MED1	ENSGGOG00000008749	Mediator complex	NA
+Gorilla_gorilla_gorilla	KAT6B	ENSGGOG00000008756	Lysine acetyltransferase	NA
+Gorilla_gorilla_gorilla	MRTFB	ENSGGOG00000008762	Others	NA
+Gorilla_gorilla_gorilla	SIRT6	ENSGGOG00000008838	Sirtuin	NA
+Gorilla_gorilla_gorilla	BRIP1	ENSGGOG00000008859	Others	NA
+Gorilla_gorilla_gorilla	MYOCD	ENSGGOG00000008879	Others	NA
+Gorilla_gorilla_gorilla	NLRP12	ENSGGOG00000008880	Others	NA
+Gorilla_gorilla_gorilla	PCGF3	ENSGGOG00000008926	PCGF	NA
+Gorilla_gorilla_gorilla	RBPMS2	ENSGGOG00000008984	RNA binding protein	NA
+Gorilla_gorilla_gorilla	CSNK2A1	ENSGGOG00000008997	Casein	NA
+Gorilla_gorilla_gorilla	TOP1	ENSGGOG00000009000	Other_CRF	NA
+Gorilla_gorilla_gorilla	KDM4A	ENSGGOG00000009042	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	PICALM	ENSGGOG00000009116	Others	NA
+Gorilla_gorilla_gorilla	BCAS3	ENSGGOG00000009123	Others	NA
+Gorilla_gorilla_gorilla	MNAT1	ENSGGOG00000009127	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000009139	DPF	NA
+Gorilla_gorilla_gorilla	MED30	ENSGGOG00000009161	Mediator complex	NA
+Gorilla_gorilla_gorilla	GTF2H3	ENSGGOG00000009173	GTF	NA
+Gorilla_gorilla_gorilla	WBP2	ENSGGOG00000009241	WW	NA
+Gorilla_gorilla_gorilla	RUVBL2	ENSGGOG00000009245	Other_CRF	NA
+Gorilla_gorilla_gorilla	CBX4	ENSGGOG00000009288	Chromobox	NA
+Gorilla_gorilla_gorilla	MED12	ENSGGOG00000009289	Mediator complex	NA
+Gorilla_gorilla_gorilla	BCL9	ENSGGOG00000009304	BCL	NA
+Gorilla_gorilla_gorilla	TOP1MT	ENSGGOG00000009313	Other_CRF	NA
+Gorilla_gorilla_gorilla	MUC1	ENSGGOG00000009317	Others	NA
+Gorilla_gorilla_gorilla	HAT1	ENSGGOG00000009353	Others	NA
+Gorilla_gorilla_gorilla	ALPK3	ENSGGOG00000009380	Others	NA
+Gorilla_gorilla_gorilla	ATAD2	ENSGGOG00000009390	Others	NA
+Gorilla_gorilla_gorilla	NFKBIA	ENSGGOG00000009397	NFKB associated	NA
+Gorilla_gorilla_gorilla	MAD2L2	ENSGGOG00000009404	Others	NA
+Gorilla_gorilla_gorilla	NUP98	ENSGGOG00000009475	Others	NA
+Gorilla_gorilla_gorilla	RECQL5	ENSGGOG00000009481	Others	NA
+Gorilla_gorilla_gorilla	VGLL3	ENSGGOG00000009492	Vestigial like	NA
+Gorilla_gorilla_gorilla	SAP30BP	ENSGGOG00000009499	SAP	NA
+Gorilla_gorilla_gorilla	PPARGC1B	ENSGGOG00000009505	Others	NA
+Gorilla_gorilla_gorilla	SMYD1	ENSGGOG00000009513	SMYD	NA
+Gorilla_gorilla_gorilla	SIN3B	ENSGGOG00000009520	Others	NA
+Gorilla_gorilla_gorilla	TAF13	ENSGGOG00000009529	TATA-box	NA
+Gorilla_gorilla_gorilla	TBL1XR1	ENSGGOG00000009532	Transducin	NA
+Gorilla_gorilla_gorilla	DNMT3B	ENSGGOG00000009533	DNA_methylase	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000009544	SET	NA
+Gorilla_gorilla_gorilla	CNOT1	ENSGGOG00000009547	CCR4-NOT	NA
+Gorilla_gorilla_gorilla	GMNN	ENSGGOG00000009587	Others	NA
+Gorilla_gorilla_gorilla	SND1	ENSGGOG00000009614	Others	NA
+Gorilla_gorilla_gorilla	MED13	ENSGGOG00000009616	Mediator complex	NA
+Gorilla_gorilla_gorilla	TRIM16	ENSGGOG00000009625	Tripartite motif	NA
+Gorilla_gorilla_gorilla	HMOX1	ENSGGOG00000009660	Others	NA
+Gorilla_gorilla_gorilla	ARRB1	ENSGGOG00000009699	Others	NA
+Gorilla_gorilla_gorilla	TLE3	ENSGGOG00000009717	Transducin	NA
+Gorilla_gorilla_gorilla	AXIN1	ENSGGOG00000009760	Others	NA
+Gorilla_gorilla_gorilla	KDM4B	ENSGGOG00000009769	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	HCFC1	ENSGGOG00000009800	Others	NA
+Gorilla_gorilla_gorilla	CBX2	ENSGGOG00000009801	Chromobox	NA
+Gorilla_gorilla_gorilla	CBX8	ENSGGOG00000009807	Chromobox	NA
+Gorilla_gorilla_gorilla	PPARGC1A	ENSGGOG00000009810	Others	NA
+Gorilla_gorilla_gorilla	BRCA1	ENSGGOG00000009827	Others	NA
+Gorilla_gorilla_gorilla	KCNIP3	ENSGGOG00000009841	Others	NA
+Gorilla_gorilla_gorilla	RING1	ENSGGOG00000009842	Ring finger protein	NA
+Gorilla_gorilla_gorilla	SMARCA4	ENSGGOG00000009882	SWI/SNF	NA
+Gorilla_gorilla_gorilla	TCEAL5	ENSGGOG00000009915	TEF	NA
+Gorilla_gorilla_gorilla	DNAJA3	ENSGGOG00000009927	Others	NA
+Gorilla_gorilla_gorilla	STRAP	ENSGGOG00000009939	Others	NA
+Gorilla_gorilla_gorilla	FHOD1	ENSGGOG00000010001	Others	NA
+Gorilla_gorilla_gorilla	ASF1A	ENSGGOG00000010053	Others	NA
+Gorilla_gorilla_gorilla	KDM4D	ENSGGOG00000010102	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	JUP	ENSGGOG00000010104	Others	NA
+Gorilla_gorilla_gorilla	AIP	ENSGGOG00000010142	Others	NA
+Gorilla_gorilla_gorilla	MED25	ENSGGOG00000010163	Mediator complex	NA
+Gorilla_gorilla_gorilla	SIRT1	ENSGGOG00000010187	Sirtuin	NA
+Gorilla_gorilla_gorilla	PRMT8	ENSGGOG00000010268	Arginine methyltransferase	NA
+Gorilla_gorilla_gorilla	DGKQ	ENSGGOG00000010295	Others	NA
+Gorilla_gorilla_gorilla	BPTF	ENSGGOG00000010341	Bromodomain	NA
+Gorilla_gorilla_gorilla	SUZ12	ENSGGOG00000010352	Others	NA
+Gorilla_gorilla_gorilla	ENO1	ENSGGOG00000010357	Others	NA
+Gorilla_gorilla_gorilla	TSG101	ENSGGOG00000010359	Others	NA
+Gorilla_gorilla_gorilla	SYK	ENSGGOG00000010377	Others	NA
+Gorilla_gorilla_gorilla	DTX1	ENSGGOG00000010380	Others	NA
+Gorilla_gorilla_gorilla	MED27	ENSGGOG00000010390	Mediator complex	NA
+Gorilla_gorilla_gorilla	MED17	ENSGGOG00000010401	Mediator complex	NA
+Gorilla_gorilla_gorilla	BRD4	ENSGGOG00000010410	Bromodomain	NA
+Gorilla_gorilla_gorilla	DDX54	ENSGGOG00000010414	RNA helicase	NA
+Gorilla_gorilla_gorilla	RITA1	ENSGGOG00000010436	Others	NA
+Gorilla_gorilla_gorilla	VHL	ENSGGOG00000010456	Others	NA
+Gorilla_gorilla_gorilla	CNOT8	ENSGGOG00000010459	CCR4-NOT	NA
+Gorilla_gorilla_gorilla	SKI	ENSGGOG00000010476	SKI	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000010519	Other_CRF	NA
+Gorilla_gorilla_gorilla	RUVBL1	ENSGGOG00000010520	Other_CRF	NA
+Gorilla_gorilla_gorilla	NLK	ENSGGOG00000010535	Others	NA
+Gorilla_gorilla_gorilla	CTBP1	ENSGGOG00000010541	Others	NA
+Gorilla_gorilla_gorilla	ABL1	ENSGGOG00000010586	Others	NA
+Gorilla_gorilla_gorilla	MTOR	ENSGGOG00000010597	Others	NA
+Gorilla_gorilla_gorilla	TSPYL2	ENSGGOG00000010604	Others	NA
+Gorilla_gorilla_gorilla	HDAC5	ENSGGOG00000010608	Histone deacetylase	NA
+Gorilla_gorilla_gorilla	POU2AF1	ENSGGOG00000010611	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000010663	EID	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000010688	SSX	NA
+Gorilla_gorilla_gorilla	TRIM22	ENSGGOG00000010715	Tripartite motif	NA
+Gorilla_gorilla_gorilla	PRMT2	ENSGGOG00000010719	Arginine methyltransferase	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000010731	Others	NA
+Gorilla_gorilla_gorilla	PIDD1	ENSGGOG00000010775	Others	NA
+Gorilla_gorilla_gorilla	MYCBP2	ENSGGOG00000010778	MYC	NA
+Gorilla_gorilla_gorilla	NOD2	ENSGGOG00000010795	Others	NA
+Gorilla_gorilla_gorilla	PRMT5	ENSGGOG00000010839	Arginine methyltransferase	NA
+Gorilla_gorilla_gorilla	MLLT1	ENSGGOG00000010872	GTF	NA
+Gorilla_gorilla_gorilla	MAGEA1	ENSGGOG00000010904	MAGE	NA
+Gorilla_gorilla_gorilla	ATXN7L3	ENSGGOG00000010959	Others	NA
+Gorilla_gorilla_gorilla	SUDS3	ENSGGOG00000011016	Other_Co-activator/repressors	NA
+Gorilla_gorilla_gorilla	CDK9	ENSGGOG00000011054	Cyclin	NA
+Gorilla_gorilla_gorilla	CTDP1	ENSGGOG00000011089	Others	NA
+Gorilla_gorilla_gorilla	CNOT9	ENSGGOG00000011091	CCR4-NOT	NA
+Gorilla_gorilla_gorilla	MED13L	ENSGGOG00000011098	Mediator complex	NA
+Gorilla_gorilla_gorilla	NOL11	ENSGGOG00000011155	Nuclear coactivator	NA
+Gorilla_gorilla_gorilla	SETD3	ENSGGOG00000011169	SET	NA
+Gorilla_gorilla_gorilla	ASH1L	ENSGGOG00000011218	Others	NA
+Gorilla_gorilla_gorilla	SUFU	ENSGGOG00000011242	Others	NA
+Gorilla_gorilla_gorilla	MED9	ENSGGOG00000011246	Mediator complex	NA
+Gorilla_gorilla_gorilla	RASD1	ENSGGOG00000011248	Others	NA
+Gorilla_gorilla_gorilla	SPAG8	ENSGGOG00000011256	Others	NA
+Gorilla_gorilla_gorilla	EPC2	ENSGGOG00000011299	Others	NA
+Gorilla_gorilla_gorilla	RBBP4	ENSGGOG00000011313	RBBP	NA
+Gorilla_gorilla_gorilla	TASOR	ENSGGOG00000011356	FAM	NA
+Gorilla_gorilla_gorilla	LMO1	ENSGGOG00000011385	LIM	NA
+Gorilla_gorilla_gorilla	MYO6	ENSGGOG00000011400	Others	NA
+Gorilla_gorilla_gorilla	AGO2	ENSGGOG00000011412	Others	NA
+Gorilla_gorilla_gorilla	PQBP1	ENSGGOG00000011431	Others	NA
+Gorilla_gorilla_gorilla	CTR9	ENSGGOG00000011435	Others	NA
+Gorilla_gorilla_gorilla	GNL3	ENSGGOG00000011444	Others	NA
+Gorilla_gorilla_gorilla	CHD1	ENSGGOG00000011463	CHD	NA
+Gorilla_gorilla_gorilla	WDR61	ENSGGOG00000011473	WD	NA
+Gorilla_gorilla_gorilla	SMURF1	ENSGGOG00000011481	Others	NA
+Gorilla_gorilla_gorilla	ATF7IP	ENSGGOG00000011504	Others	NA
+Gorilla_gorilla_gorilla	CALCOCO1	ENSGGOG00000011541	Others	NA
+Gorilla_gorilla_gorilla	POLR3F	ENSGGOG00000011543	POLR	NA
+Gorilla_gorilla_gorilla	TAF8	ENSGGOG00000011576	TATA-box	NA
+Gorilla_gorilla_gorilla	HDAC8	ENSGGOG00000011587	Histone deacetylase	NA
+Gorilla_gorilla_gorilla	EAF2	ENSGGOG00000011594	Others	NA
+Gorilla_gorilla_gorilla	ANP32B	ENSGGOG00000011631	ANP	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000011642	Thyroid hormone receptor	NA
+Gorilla_gorilla_gorilla	TNKS	ENSGGOG00000011691	Others	NA
+Gorilla_gorilla_gorilla	SLC19A1	ENSGGOG00000011734	SLC	NA
+Gorilla_gorilla_gorilla	HDAC1	ENSGGOG00000011741	Histone deacetylase	NA
+Gorilla_gorilla_gorilla	NSD1	ENSGGOG00000011744	Nuclear receptor coactivator	NA
+Gorilla_gorilla_gorilla	SETD7	ENSGGOG00000011774	SET	NA
+Gorilla_gorilla_gorilla	TRIM25	ENSGGOG00000011793	Tripartite motif	NA
+Gorilla_gorilla_gorilla	ZNF703	ENSGGOG00000011795	Zinc finger	NA
+Gorilla_gorilla_gorilla	AUTS2	ENSGGOG00000011797	Others	NA
+Gorilla_gorilla_gorilla	TAF6L	ENSGGOG00000011807	TATA-box	NA
+Gorilla_gorilla_gorilla	RAD21	ENSGGOG00000011809	Others	NA
+Gorilla_gorilla_gorilla	TXNIP	ENSGGOG00000011838	Others	NA
+Gorilla_gorilla_gorilla	TBP	ENSGGOG00000011840	TATA-box	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000011883	Others	NA
+Gorilla_gorilla_gorilla	CENPU	ENSGGOG00000011892	CENP	NA
+Gorilla_gorilla_gorilla	NSD3	ENSGGOG00000011894	Nuclear receptor coactivator	NA
+Gorilla_gorilla_gorilla	ACTN2	ENSGGOG00000011905	Actin	NA
+Gorilla_gorilla_gorilla	SUPT20H	ENSGGOG00000011916	SUPT	NA
+Gorilla_gorilla_gorilla	HINT1	ENSGGOG00000011967	Others	NA
+Gorilla_gorilla_gorilla	INO80E	ENSGGOG00000012004	INO80 complex	NA
+Gorilla_gorilla_gorilla	WDTC1	ENSGGOG00000012009	WD	NA
+Gorilla_gorilla_gorilla	SPEN	ENSGGOG00000012041	Others	NA
+Gorilla_gorilla_gorilla	PARK7	ENSGGOG00000012105	Others	NA
+Gorilla_gorilla_gorilla	EWSR1	ENSGGOG00000012212	Others	NA
+Gorilla_gorilla_gorilla	CHD7	ENSGGOG00000012224	CHD	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000012263	Others	NA
+Gorilla_gorilla_gorilla	TCERG1L	ENSGGOG00000012281	TEF	NA
+Gorilla_gorilla_gorilla	UTF1	ENSGGOG00000012311	Others	NA
+Gorilla_gorilla_gorilla	HABP4	ENSGGOG00000012317	Others	NA
+Gorilla_gorilla_gorilla	PHF12	ENSGGOG00000012335	PHF	NA
+Gorilla_gorilla_gorilla	TCEAL1	ENSGGOG00000012344	TEF	NA
+Gorilla_gorilla_gorilla	TAF11	ENSGGOG00000012371	TATA-box	NA
+Gorilla_gorilla_gorilla	HIPK1	ENSGGOG00000012442	HIPK	NA
+Gorilla_gorilla_gorilla	DDX1	ENSGGOG00000012482	RNA helicase	NA
+Gorilla_gorilla_gorilla	ZNF638	ENSGGOG00000012511	Zinc finger	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000012567	BCL	NA
+Gorilla_gorilla_gorilla	SMARCA5	ENSGGOG00000012595	SWI/SNF	NA
+Gorilla_gorilla_gorilla	SKAP1	ENSGGOG00000012624	Others	NA
+Gorilla_gorilla_gorilla	NPAT	ENSGGOG00000012653	Nuclear coactivator	NA
+Gorilla_gorilla_gorilla	CBFA2T3	ENSGGOG00000012681	Others	NA
+Gorilla_gorilla_gorilla	TNNI1	ENSGGOG00000012698	Others	NA
+Gorilla_gorilla_gorilla	VEGFA	ENSGGOG00000012714	Other_CRF	NA
+Gorilla_gorilla_gorilla	FAM83G	ENSGGOG00000012726	FAM	NA
+Gorilla_gorilla_gorilla	PPID	ENSGGOG00000012727	Others	NA
+Gorilla_gorilla_gorilla	PEX14	ENSGGOG00000012729	Others	NA
+Gorilla_gorilla_gorilla	BTN3A3	ENSGGOG00000012756	Others	NA
+Gorilla_gorilla_gorilla	PLK1	ENSGGOG00000012842	Others	NA
+Gorilla_gorilla_gorilla	DEK	ENSGGOG00000012846	Other_CRF	NA
+Gorilla_gorilla_gorilla	PBXIP1	ENSGGOG00000012847	Others	NA
+Gorilla_gorilla_gorilla	PYGO2	ENSGGOG00000012856	Others	NA
+Gorilla_gorilla_gorilla	BRF2	ENSGGOG00000012892	GTF	NA
+Gorilla_gorilla_gorilla	MDM2	ENSGGOG00000012907	Others	NA
+Gorilla_gorilla_gorilla	EMSY	ENSGGOG00000012926	Others	NA
+Gorilla_gorilla_gorilla	MDM4	ENSGGOG00000012957	Others	NA
+Gorilla_gorilla_gorilla	SIVA1	ENSGGOG00000012979	Others	NA
+Gorilla_gorilla_gorilla	CNOT3	ENSGGOG00000012996	CCR4-NOT	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000013010	ING	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000013016	Nuclear receptor coactivator	NA
+Gorilla_gorilla_gorilla	DYRK1B	ENSGGOG00000013068	Others	NA
+Gorilla_gorilla_gorilla	FGFR1	ENSGGOG00000013080	FGF	NA
+Gorilla_gorilla_gorilla	CCNT1	ENSGGOG00000013082	Cyclin	NA
+Gorilla_gorilla_gorilla	LPIN3	ENSGGOG00000013110	LPIN	NA
+Gorilla_gorilla_gorilla	CHD6	ENSGGOG00000013123	CHD	NA
+Gorilla_gorilla_gorilla	SIRT3	ENSGGOG00000013147	Sirtuin	NA
+Gorilla_gorilla_gorilla	ARGLU1	ENSGGOG00000013175	Others	NA
+Gorilla_gorilla_gorilla	ELL3	ENSGGOG00000013225	GTF	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000013261	INO80 complex	NA
+Gorilla_gorilla_gorilla	EZR	ENSGGOG00000013301	Others	NA
+Gorilla_gorilla_gorilla	ASF1B	ENSGGOG00000013302	Others	NA
+Gorilla_gorilla_gorilla	CDK1	ENSGGOG00000013311	Cyclin	NA
+Gorilla_gorilla_gorilla	NKAP	ENSGGOG00000013330	NFKB associated	NA
+Gorilla_gorilla_gorilla	TRIM28	ENSGGOG00000013347	Tripartite motif	NA
+Gorilla_gorilla_gorilla	CDK7	ENSGGOG00000013349	Cyclin	NA
+Gorilla_gorilla_gorilla	SMARCD1	ENSGGOG00000013355	SWI/SNF	NA
+Gorilla_gorilla_gorilla	CTDSP1	ENSGGOG00000013361	Others	NA
+Gorilla_gorilla_gorilla	BRPF3	ENSGGOG00000013411	Bromodomain	NA
+Gorilla_gorilla_gorilla	L3MBTL2	ENSGGOG00000013451	Others	NA
+Gorilla_gorilla_gorilla	TRIM24	ENSGGOG00000013456	Tripartite motif	NA
+Gorilla_gorilla_gorilla	PELI1	ENSGGOG00000013460	Others	NA
+Gorilla_gorilla_gorilla	RNF10	ENSGGOG00000013495	Ring finger protein	NA
+Gorilla_gorilla_gorilla	CHD3	ENSGGOG00000013496	CHD	NA
+Gorilla_gorilla_gorilla	EYA4	ENSGGOG00000013499	EYA	NA
+Gorilla_gorilla_gorilla	RTF1	ENSGGOG00000013514	Others	NA
+Gorilla_gorilla_gorilla	NMI	ENSGGOG00000013518	Others	NA
+Gorilla_gorilla_gorilla	DHX9	ENSGGOG00000013533	RNA helicase	NA
+Gorilla_gorilla_gorilla	KAT8	ENSGGOG00000013606	Lysine acetyltransferase	NA
+Gorilla_gorilla_gorilla	HDAC9	ENSGGOG00000013656	Histone deacetylase	NA
+Gorilla_gorilla_gorilla	INSR	ENSGGOG00000013703	Others	NA
+Gorilla_gorilla_gorilla	XRN2	ENSGGOG00000013738	Others	NA
+Gorilla_gorilla_gorilla	ZMYND8	ENSGGOG00000013752	Zinc finger	NA
+Gorilla_gorilla_gorilla	UFL1	ENSGGOG00000013798	Others	NA
+Gorilla_gorilla_gorilla	LOXL2	ENSGGOG00000013825	Others	NA
+Gorilla_gorilla_gorilla	NAB1	ENSGGOG00000013842	Others	NA
+Gorilla_gorilla_gorilla	LMCD1	ENSGGOG00000013915	LIM	NA
+Gorilla_gorilla_gorilla	ALYREF	ENSGGOG00000013935	Others	NA
+Gorilla_gorilla_gorilla	C6orf89	ENSGGOG00000013941	Other_CRF	NA
+Gorilla_gorilla_gorilla	SIRT7	ENSGGOG00000013961	Sirtuin	NA
+Gorilla_gorilla_gorilla	PCBD1	ENSGGOG00000013985	Others	NA
+Gorilla_gorilla_gorilla	TIRAP	ENSGGOG00000013987	Others	NA
+Gorilla_gorilla_gorilla	KDM2B	ENSGGOG00000014021	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	CIITA	ENSGGOG00000014044	Others	NA
+Gorilla_gorilla_gorilla	VGLL2	ENSGGOG00000014045	Vestigial like	NA
+Gorilla_gorilla_gorilla	NIF3L1	ENSGGOG00000014060	Others	NA
+Gorilla_gorilla_gorilla	ORC2	ENSGGOG00000014070	Others	NA
+Gorilla_gorilla_gorilla	MED4	ENSGGOG00000014132	Mediator complex	NA
+Gorilla_gorilla_gorilla	NELFA	ENSGGOG00000014161	GTF	NA
+Gorilla_gorilla_gorilla	CXXC5	ENSGGOG00000014181	Others	NA
+Gorilla_gorilla_gorilla	RNF168	ENSGGOG00000014184	Ring finger protein	NA
+Gorilla_gorilla_gorilla	TDP2	ENSGGOG00000014237	Others	NA
+Gorilla_gorilla_gorilla	GTF2H4	ENSGGOG00000014239	GTF	NA
+Gorilla_gorilla_gorilla	TADA3	ENSGGOG00000014281	Transcriptional adaptor	NA
+Gorilla_gorilla_gorilla	ERBB4	ENSGGOG00000014309	Erbb2	NA
+Gorilla_gorilla_gorilla	HDAC4	ENSGGOG00000014323	Histone deacetylase	NA
+Gorilla_gorilla_gorilla	DUSP26	ENSGGOG00000014340	Others	NA
+Gorilla_gorilla_gorilla	JMJD6	ENSGGOG00000014361	Others	NA
+Gorilla_gorilla_gorilla	HEXIM1	ENSGGOG00000014370	Others	NA
+Gorilla_gorilla_gorilla	PDLIM1	ENSGGOG00000014381	Others	NA
+Gorilla_gorilla_gorilla	RNF2	ENSGGOG00000014400	Ring finger protein	NA
+Gorilla_gorilla_gorilla	SUPT5H	ENSGGOG00000014425	SUPT	NA
+Gorilla_gorilla_gorilla	MED22	ENSGGOG00000014437	Mediator complex	NA
+Gorilla_gorilla_gorilla	HDAC10	ENSGGOG00000014445	Histone deacetylase	NA
+Gorilla_gorilla_gorilla	RBM14	ENSGGOG00000014455	RNA binding protein	NA
+Gorilla_gorilla_gorilla	PLRG1	ENSGGOG00000014469	Others	NA
+Gorilla_gorilla_gorilla	REXO4	ENSGGOG00000014508	Others	NA
+Gorilla_gorilla_gorilla	BRD3	ENSGGOG00000014515	Bromodomain	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000014535	SAP	NA
+Gorilla_gorilla_gorilla	AJUBA	ENSGGOG00000014539	Others	NA
+Gorilla_gorilla_gorilla	PINK1	ENSGGOG00000014568	Others	NA
+Gorilla_gorilla_gorilla	SAV1	ENSGGOG00000014607	Others	NA
+Gorilla_gorilla_gorilla	SUPT3H	ENSGGOG00000014631	SUPT	NA
+Gorilla_gorilla_gorilla	SIAH2	ENSGGOG00000014662	Others	NA
+Gorilla_gorilla_gorilla	DSCAM	ENSGGOG00000014691	Others	NA
+Gorilla_gorilla_gorilla	PHF8	ENSGGOG00000014703	PHF	NA
+Gorilla_gorilla_gorilla	EDF1	ENSGGOG00000014750	Others	NA
+Gorilla_gorilla_gorilla	TLE2	ENSGGOG00000014765	Transducin	NA
+Gorilla_gorilla_gorilla	RBBP5	ENSGGOG00000014796	RBBP	NA
+Gorilla_gorilla_gorilla	POLR2A	ENSGGOG00000014800	POLR	NA
+Gorilla_gorilla_gorilla	TRIM5	ENSGGOG00000014804	Tripartite motif	NA
+Gorilla_gorilla_gorilla	CHD9	ENSGGOG00000014816	CHD	NA
+Gorilla_gorilla_gorilla	PML	ENSGGOG00000014823	Others	NA
+Gorilla_gorilla_gorilla	BRD7	ENSGGOG00000014824	Bromodomain	NA
+Gorilla_gorilla_gorilla	CDK12	ENSGGOG00000014828	Cyclin	NA
+Gorilla_gorilla_gorilla	CTNND2	ENSGGOG00000014843	Casein	NA
+Gorilla_gorilla_gorilla	EZH2	ENSGGOG00000014846	Others	NA
+Gorilla_gorilla_gorilla	OGT	ENSGGOG00000014867	Others	NA
+Gorilla_gorilla_gorilla	SFSWAP	ENSGGOG00000014877	Others	NA
+Gorilla_gorilla_gorilla	BCOR	ENSGGOG00000014889	Other_Co-activator/repressors	NA
+Gorilla_gorilla_gorilla	CHCHD2	ENSGGOG00000014938	Coiled-coil	NA
+Gorilla_gorilla_gorilla	EGLN2	ENSGGOG00000014955	Others	NA
+Gorilla_gorilla_gorilla	RNF8	ENSGGOG00000014987	Ring finger protein	NA
+Gorilla_gorilla_gorilla	WWP1	ENSGGOG00000014988	WW	NA
+Gorilla_gorilla_gorilla	CECR2	ENSGGOG00000015014	Other_CRF	NA
+Gorilla_gorilla_gorilla	GTF2B	ENSGGOG00000015017	GTF	NA
+Gorilla_gorilla_gorilla	SAFB2	ENSGGOG00000015093	Others	NA
+Gorilla_gorilla_gorilla	SAFB	ENSGGOG00000015109	Others	NA
+Gorilla_gorilla_gorilla	BUD31	ENSGGOG00000015119	Others	NA
+Gorilla_gorilla_gorilla	DPPA4	ENSGGOG00000015121	Others	NA
+Gorilla_gorilla_gorilla	PIM1	ENSGGOG00000015170	Others	NA
+Gorilla_gorilla_gorilla	MRTFA	ENSGGOG00000015180	Others	NA
+Gorilla_gorilla_gorilla	ANKRD2	ENSGGOG00000015227	Ankyrin repeat	NA
+Gorilla_gorilla_gorilla	CTNND1	ENSGGOG00000015229	Casein	NA
+Gorilla_gorilla_gorilla	PHF10	ENSGGOG00000015238	PHF	NA
+Gorilla_gorilla_gorilla	PADI4	ENSGGOG00000015246	Others	NA
+Gorilla_gorilla_gorilla	MAK	ENSGGOG00000015249	Others	NA
+Gorilla_gorilla_gorilla	ERCC3	ENSGGOG00000015255	Others	NA
+Gorilla_gorilla_gorilla	PLK3	ENSGGOG00000015294	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000015306	Others	NA
+Gorilla_gorilla_gorilla	KDM6B	ENSGGOG00000015307	Lysine demethylase	NA
+Gorilla_gorilla_gorilla	NFKBID	ENSGGOG00000015319	NFKB associated	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000015340	Others	NA
+Gorilla_gorilla_gorilla	DACT1	ENSGGOG00000015389	Others	NA
+Gorilla_gorilla_gorilla	ANP32A	ENSGGOG00000015417	ANP	NA
+Gorilla_gorilla_gorilla	DDX5	ENSGGOG00000015418	RNA helicase	NA
+Gorilla_gorilla_gorilla	EFCAB6	ENSGGOG00000015468	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000015500	HNRNP	NA
+Gorilla_gorilla_gorilla	MLLT6	ENSGGOG00000015509	Others	NA
+Gorilla_gorilla_gorilla	INO80D	ENSGGOG00000015570	INO80 complex	NA
+Gorilla_gorilla_gorilla	DDX20	ENSGGOG00000015576	RNA helicase	NA
+Gorilla_gorilla_gorilla	MED12L	ENSGGOG00000015584	Mediator complex	NA
+Gorilla_gorilla_gorilla	TDG	ENSGGOG00000015648	Others	NA
+Gorilla_gorilla_gorilla	TAF1	ENSGGOG00000015672	TATA-box	NA
+Gorilla_gorilla_gorilla	HTATIP2	ENSGGOG00000015692	Others	NA
+Gorilla_gorilla_gorilla	JMJD1C	ENSGGOG00000015694	Other_CRF	NA
+Gorilla_gorilla_gorilla	ACTL6A	ENSGGOG00000015710	Actin	NA
+Gorilla_gorilla_gorilla	CHAF1B	ENSGGOG00000015726	Others	NA
+Gorilla_gorilla_gorilla	CNOT7	ENSGGOG00000015762	CCR4-NOT	NA
+Gorilla_gorilla_gorilla	PPIE	ENSGGOG00000015783	Others	NA
+Gorilla_gorilla_gorilla	TTF2	ENSGGOG00000015790	Others	NA
+Gorilla_gorilla_gorilla	BRCA2	ENSGGOG00000015808	Others	NA
+Gorilla_gorilla_gorilla	ERCC2	ENSGGOG00000015842	Others	NA
+Gorilla_gorilla_gorilla	SLTM	ENSGGOG00000015866	Others	NA
+Gorilla_gorilla_gorilla	XRCC6	ENSGGOG00000015885	Others	NA
+Gorilla_gorilla_gorilla	TRIM27	ENSGGOG00000015891	Tripartite motif	NA
+Gorilla_gorilla_gorilla	PARP9	ENSGGOG00000015971	PARP	NA
+Gorilla_gorilla_gorilla	LANCL2	ENSGGOG00000016009	Others	NA
+Gorilla_gorilla_gorilla	ING4	ENSGGOG00000016035	ING	NA
+Gorilla_gorilla_gorilla	SETD1A	ENSGGOG00000016052	SET	NA
+Gorilla_gorilla_gorilla	NCOA7	ENSGGOG00000016074	Nuclear receptor coactivator	NA
+Gorilla_gorilla_gorilla	SAP130	ENSGGOG00000016083	SAP	NA
+Gorilla_gorilla_gorilla	CITED2	ENSGGOG00000016096	CITED	NA
+Gorilla_gorilla_gorilla	ZCCHC18	ENSGGOG00000016097	Zinc finger	NA
+Gorilla_gorilla_gorilla	NEDD8	ENSGGOG00000016105	Others	NA
+Gorilla_gorilla_gorilla	CALR	ENSGGOG00000016129	Others	NA
+Gorilla_gorilla_gorilla	PSIP1	ENSGGOG00000016152	Others	NA
+Gorilla_gorilla_gorilla	ANKAR	ENSGGOG00000016191	Ankyrin repeat	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000016197	Others	NA
+Gorilla_gorilla_gorilla	TONSL	ENSGGOG00000016222	Others	NA
+Gorilla_gorilla_gorilla	MED20	ENSGGOG00000016233	Mediator complex	NA
+Gorilla_gorilla_gorilla	PADI2	ENSGGOG00000016279	Other_CRF	NA
+Gorilla_gorilla_gorilla	ABRA	ENSGGOG00000016286	Actin	NA
+Gorilla_gorilla_gorilla	COPS5	ENSGGOG00000016289	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000016307	SSX	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000016313	Mediator complex	NA
+Gorilla_gorilla_gorilla	DEPDC1	ENSGGOG00000016316	Others	NA
+Gorilla_gorilla_gorilla	CRYM	ENSGGOG00000016331	Others	NA
+Gorilla_gorilla_gorilla	HDAC3	ENSGGOG00000016365	Histone deacetylase	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000016370	Mediator complex	NA
+Gorilla_gorilla_gorilla	NCOA4	ENSGGOG00000016416	Nuclear receptor coactivator	NA
+Gorilla_gorilla_gorilla	ECD	ENSGGOG00000016428	Others	NA
+Gorilla_gorilla_gorilla	TRIM33	ENSGGOG00000016429	Tripartite motif	NA
+Gorilla_gorilla_gorilla	RB1	ENSGGOG00000016440	Other_Co-activator/repressors	NA
+Gorilla_gorilla_gorilla	CHTOP	ENSGGOG00000016450	Others	NA
+Gorilla_gorilla_gorilla	HDAC7	ENSGGOG00000016461	Histone deacetylase	NA
+Gorilla_gorilla_gorilla	ZMYND11	ENSGGOG00000016536	Zinc finger	NA
+Gorilla_gorilla_gorilla	CTH	ENSGGOG00000016539	Others	NA
+Gorilla_gorilla_gorilla	ENY2	ENSGGOG00000016540	Others	NA
+Gorilla_gorilla_gorilla	ACTN1	ENSGGOG00000016541	Actin	NA
+Gorilla_gorilla_gorilla	ATF7IP2	ENSGGOG00000016549	Others	NA
+Gorilla_gorilla_gorilla	TIMELESS	ENSGGOG00000016556	Others	NA
+Gorilla_gorilla_gorilla	BAZ1B	ENSGGOG00000016557	Bromodomain	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000016564	TEF	NA
+Gorilla_gorilla_gorilla	DNMT1	ENSGGOG00000016574	DNA_methylase	NA
+Gorilla_gorilla_gorilla	TGFB1	ENSGGOG00000016591	Others	NA
+Gorilla_gorilla_gorilla	PIH1D1	ENSGGOG00000016642	Other_CRF	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000016687	Others	NA
+Gorilla_gorilla_gorilla	SUPT6H	ENSGGOG00000016688	SUPT	NA
+Gorilla_gorilla_gorilla	KAT2B	ENSGGOG00000016696	Lysine acetyltransferase	NA
+Gorilla_gorilla_gorilla	TAF3	ENSGGOG00000016706	TATA-box	NA
+Gorilla_gorilla_gorilla	HCLS1	ENSGGOG00000016791	Others	NA
+Gorilla_gorilla_gorilla	MORF4L1	ENSGGOG00000016826	Other_CRF	NA
+Gorilla_gorilla_gorilla	PRPF6	ENSGGOG00000016876	Others	NA
+Gorilla_gorilla_gorilla	CDK5	ENSGGOG00000016879	Cyclin	NA
+Gorilla_gorilla_gorilla	TRIM11	ENSGGOG00000016890	Tripartite motif	NA
+Gorilla_gorilla_gorilla	CLU	ENSGGOG00000016926	Others	NA
+Gorilla_gorilla_gorilla	PTTG1	ENSGGOG00000016937	Others	NA
+Gorilla_gorilla_gorilla	CXXC1	ENSGGOG00000016976	Others	NA
+Gorilla_gorilla_gorilla	RNF111	ENSGGOG00000017000	Ring finger protein	NA
+Gorilla_gorilla_gorilla	MRGBP	ENSGGOG00000017018	Others	NA
+Gorilla_gorilla_gorilla	CASP8AP2	ENSGGOG00000017136	Others	NA
+Gorilla_gorilla_gorilla	PYCARD	ENSGGOG00000017148	Others	NA
+Gorilla_gorilla_gorilla	SCMH1	ENSGGOG00000017190	Others	NA
+Gorilla_gorilla_gorilla	MEAF6	ENSGGOG00000017191	Others	NA
+Gorilla_gorilla_gorilla	RAP2C	ENSGGOG00000021967	Others	NA
+Gorilla_gorilla_gorilla	BEX1	ENSGGOG00000022009	Others	NA
+Gorilla_gorilla_gorilla	BTK	ENSGGOG00000022176	Others	NA
+Gorilla_gorilla_gorilla	ICE2	ENSGGOG00000022206	GTF	NA
+Gorilla_gorilla_gorilla	SETD2	ENSGGOG00000022300	SET	NA
+Gorilla_gorilla_gorilla	SFRP4	ENSGGOG00000022312	Others	NA
+Gorilla_gorilla_gorilla	SNAPC2	ENSGGOG00000022392	Others	NA
+Gorilla_gorilla_gorilla	ZMYM5	ENSGGOG00000022435	Zinc finger	NA
+Gorilla_gorilla_gorilla	EID2	ENSGGOG00000022517	EID	NA
+Gorilla_gorilla_gorilla	CDYL	ENSGGOG00000022529	Chromodomain Y	NA
+Gorilla_gorilla_gorilla	TRIP4	ENSGGOG00000022608	Thyroid hormone receptor	NA
+Gorilla_gorilla_gorilla	WNT4	ENSGGOG00000022618	Others	NA
+Gorilla_gorilla_gorilla	SNIP1	ENSGGOG00000022697	Others	NA
+Gorilla_gorilla_gorilla	RALY	ENSGGOG00000022709	Others	NA
+Gorilla_gorilla_gorilla	CAMK2D	ENSGGOG00000022729	CAMK	NA
+Gorilla_gorilla_gorilla	GTF2E1	ENSGGOG00000022773	GTF	NA
+Gorilla_gorilla_gorilla	TARBP1	ENSGGOG00000022879	Others	NA
+Gorilla_gorilla_gorilla	LGALS9	ENSGGOG00000022973	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000022994	Cyclin	NA
+Gorilla_gorilla_gorilla	BRDT	ENSGGOG00000022996	Bromodomain	NA
+Gorilla_gorilla_gorilla	SMARCAD1	ENSGGOG00000023001	SWI/SNF	NA
+Gorilla_gorilla_gorilla	HNRNPC	ENSGGOG00000023015	HNRNP	NA
+Gorilla_gorilla_gorilla	RAF1	ENSGGOG00000023025	Others	NA
+Gorilla_gorilla_gorilla	CHEK2	ENSGGOG00000023242	Others	NA
+Gorilla_gorilla_gorilla	MALT1	ENSGGOG00000023405	Others	NA
+Gorilla_gorilla_gorilla	CNOT6L	ENSGGOG00000023412	CCR4-NOT	NA
+Gorilla_gorilla_gorilla	TOPORS	ENSGGOG00000023417	Others	NA
+Gorilla_gorilla_gorilla	CRTC2	ENSGGOG00000023553	CREB	NA
+Gorilla_gorilla_gorilla	TCEA1	ENSGGOG00000023652	TEF	NA
+Gorilla_gorilla_gorilla	CENPB	ENSGGOG00000023994	CENP	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000024027	Others	NA
+Gorilla_gorilla_gorilla	SAMD4B	ENSGGOG00000024088	Others	NA
+Gorilla_gorilla_gorilla	MAML2	ENSGGOG00000024120	MAML	NA
+Gorilla_gorilla_gorilla	GTF2A2	ENSGGOG00000024127	GTF	NA
+Gorilla_gorilla_gorilla	RWDD3	ENSGGOG00000024263	Others	NA
+Gorilla_gorilla_gorilla	EGLN1	ENSGGOG00000024267	Others	NA
+Gorilla_gorilla_gorilla	FBXW7	ENSGGOG00000024434	Others	NA
+Gorilla_gorilla_gorilla	DNAJB1	ENSGGOG00000024610	Others	NA
+Gorilla_gorilla_gorilla	CAVIN1	ENSGGOG00000024672	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000024776	MBD	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000024780	Cyclin	NA
+Gorilla_gorilla_gorilla	NRG1	ENSGGOG00000024870	Others	NA
+Gorilla_gorilla_gorilla	LMO2	ENSGGOG00000024903	LIM	NA
+Gorilla_gorilla_gorilla	ATRX	ENSGGOG00000024999	Others	NA
+Gorilla_gorilla_gorilla	TRIM32	ENSGGOG00000025006	Tripartite motif	NA
+Gorilla_gorilla_gorilla	TRIM37	ENSGGOG00000025045	Tripartite motif	NA
+Gorilla_gorilla_gorilla	CCNA1	ENSGGOG00000025062	Cyclin	NA
+Gorilla_gorilla_gorilla	GTF2H5	ENSGGOG00000025095	GTF	NA
+Gorilla_gorilla_gorilla	SIRT5	ENSGGOG00000025115	Sirtuin	NA
+Gorilla_gorilla_gorilla	PCBD2	ENSGGOG00000025134	Others	NA
+Gorilla_gorilla_gorilla	PNRC1	ENSGGOG00000025222	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000025225	Others	NA
+Gorilla_gorilla_gorilla	CEP290	ENSGGOG00000025227	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000025243	Others	NA
+Gorilla_gorilla_gorilla	SLC25A15	ENSGGOG00000025261	SLC	NA
+Gorilla_gorilla_gorilla	CCDC59	ENSGGOG00000025296	Coiled-coil	NA
+Gorilla_gorilla_gorilla	TCEAL2	ENSGGOG00000025332	TEF	NA
+Gorilla_gorilla_gorilla	HSBP1L1	ENSGGOG00000025369	Heat shock protein	NA
+Gorilla_gorilla_gorilla	TAB3	ENSGGOG00000025392	Others	NA
+Gorilla_gorilla_gorilla	CSNK2A2	ENSGGOG00000025458	Casein	NA
+Gorilla_gorilla_gorilla	HIPK3	ENSGGOG00000025468	HIPK	NA
+Gorilla_gorilla_gorilla	NCK1	ENSGGOG00000025524	Others	NA
+Gorilla_gorilla_gorilla	PDCD4	ENSGGOG00000025550	Others	NA
+Gorilla_gorilla_gorilla	TDRD3	ENSGGOG00000025560	Others	NA
+Gorilla_gorilla_gorilla	RFXAP	ENSGGOG00000025564	Others	NA
+Gorilla_gorilla_gorilla	FGF1	ENSGGOG00000025578	FGF	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000025615	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000025705	Others	NA
+Gorilla_gorilla_gorilla	SFR1	ENSGGOG00000025713	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000025716	SET	NA
+Gorilla_gorilla_gorilla	PARP15	ENSGGOG00000025733	PARP	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000025853	Chromobox	NA
+Gorilla_gorilla_gorilla	ICE1	ENSGGOG00000025867	Others	NA
+Gorilla_gorilla_gorilla	RBL2	ENSGGOG00000025953	Other_Co-activator/repressors	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000025982	Other_Co-activator/repressors	NA
+Gorilla_gorilla_gorilla	SNW1	ENSGGOG00000026016	Others	NA
+Gorilla_gorilla_gorilla	YY1AP1	ENSGGOG00000026024	Others	NA
+Gorilla_gorilla_gorilla	HTATSF1	ENSGGOG00000026072	Others	NA
+Gorilla_gorilla_gorilla	MAGED1	ENSGGOG00000026104	MAGE	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000026107	SSX	NA
+Gorilla_gorilla_gorilla	NIPBL	ENSGGOG00000026268	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000026287	Others	NA
+Gorilla_gorilla_gorilla	INO80C	ENSGGOG00000026291	INO80 complex	NA
+Gorilla_gorilla_gorilla	PFDN5	ENSGGOG00000026308	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000026359	Others	NA
+Gorilla_gorilla_gorilla	DPF2	ENSGGOG00000026412	DPF	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000026439	Others	NA
+Gorilla_gorilla_gorilla	EHMT2	ENSGGOG00000026532	Histone lysine methyltransferase	NA
+Gorilla_gorilla_gorilla	HCFC2	ENSGGOG00000026557	Others	NA
+Gorilla_gorilla_gorilla	MCIDAS	ENSGGOG00000026647	Others	NA
+Gorilla_gorilla_gorilla	HNRNPD	ENSGGOG00000026760	HNRNP	NA
+Gorilla_gorilla_gorilla	SSBP2	ENSGGOG00000026863	Others	NA
+Gorilla_gorilla_gorilla	SKIL	ENSGGOG00000026891	SKI	NA
+Gorilla_gorilla_gorilla	SQSTM1	ENSGGOG00000026960	Others	NA
+Gorilla_gorilla_gorilla	MED19	ENSGGOG00000027027	Mediator complex	NA
+Gorilla_gorilla_gorilla	NRIP2	ENSGGOG00000027051	Nuclear coactivator	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000027066	Lysine methyltransferase	NA
+Gorilla_gorilla_gorilla	CRY1	ENSGGOG00000027205	Others	NA
+Gorilla_gorilla_gorilla	ARHGAP35	ENSGGOG00000027302	Others	NA
+Gorilla_gorilla_gorilla	CNOT2	ENSGGOG00000027402	CCR4-NOT	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000027414	PCGF	NA
+Gorilla_gorilla_gorilla	EDRF1	ENSGGOG00000027465	Others	NA
+Gorilla_gorilla_gorilla	NPM3	ENSGGOG00000027500	Nucleoplasmin	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000027619	RNA binding protein	NA
+Gorilla_gorilla_gorilla	SUV39H1	ENSGGOG00000027774	Others	NA
+Gorilla_gorilla_gorilla	H2AZ1	ENSGGOG00000027801	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000027818	ELP	NA
+Gorilla_gorilla_gorilla	HSPA1L	ENSGGOG00000027934	Heat shock protein	NA
+Gorilla_gorilla_gorilla	SUV39H2	ENSGGOG00000028243	Others	NA
+Gorilla_gorilla_gorilla	TBPL1	ENSGGOG00000028298	TATA-box	NA
+Gorilla_gorilla_gorilla	DCAF6	ENSGGOG00000028357	Others	NA
+Gorilla_gorilla_gorilla	RBBP8	ENSGGOG00000028381	RBBP	NA
+Gorilla_gorilla_gorilla	TAF1D	ENSGGOG00000028407	TATA-box	NA
+Gorilla_gorilla_gorilla	DR1	ENSGGOG00000028511	Others	NA
+Gorilla_gorilla_gorilla	PRMT6	ENSGGOG00000028522	Arginine methyltransferase	NA
+Gorilla_gorilla_gorilla	MAML1	ENSGGOG00000028537	MAML	NA
+Gorilla_gorilla_gorilla	TAF5L	ENSGGOG00000028544	TATA-box	NA
+Gorilla_gorilla_gorilla	SMYD3	ENSGGOG00000034875	SMYD	NA
+Gorilla_gorilla_gorilla	FRK	ENSGGOG00000034876	Others	NA
+Gorilla_gorilla_gorilla	SCAI	ENSGGOG00000034880	Others	NA
+Gorilla_gorilla_gorilla	SMARCB1	ENSGGOG00000034931	SWI/SNF	NA
+Gorilla_gorilla_gorilla	DHX36	ENSGGOG00000034937	RNA helicase	NA
+Gorilla_gorilla_gorilla	WBP2NL	ENSGGOG00000034969	Others	NA
+Gorilla_gorilla_gorilla	STK3	ENSGGOG00000034989	Others	NA
+Gorilla_gorilla_gorilla	EYA2	ENSGGOG00000034998	EYA	NA
+Gorilla_gorilla_gorilla	ZNF451	ENSGGOG00000036272	Zinc finger	NA
+Gorilla_gorilla_gorilla	RNF4	ENSGGOG00000036446	Ring finger protein	NA
+Gorilla_gorilla_gorilla	PRNP	ENSGGOG00000036480	Others	NA
+Gorilla_gorilla_gorilla	SUPT7L	ENSGGOG00000036544	SUPT	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000036564	Heat shock protein	NA
+Gorilla_gorilla_gorilla	SS18L2	ENSGGOG00000036655	SS18	NA
+Gorilla_gorilla_gorilla	DPY30	ENSGGOG00000037149	Others	NA
+Gorilla_gorilla_gorilla	BIRC5	ENSGGOG00000037263	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000037332	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000037349	Coiled-coil	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000037627	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000037793	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000037803	Cyclin	NA
+Gorilla_gorilla_gorilla	MTPN	ENSGGOG00000038259	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000038328	Others	NA
+Gorilla_gorilla_gorilla	PEX2	ENSGGOG00000038623	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000039256	ANP	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000039437	Others	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000039455	FGF	NA
+Gorilla_gorilla_gorilla	CDK5R1	ENSGGOG00000040028	Cyclin	NA
+Gorilla_gorilla_gorilla	BASP1	ENSGGOG00000040563	Others	NA
+Gorilla_gorilla_gorilla	CCNT2	ENSGGOG00000040615	Cyclin	NA
+Gorilla_gorilla_gorilla	NDUFA13	ENSGGOG00000040690	Others	NA
+Gorilla_gorilla_gorilla	RYBP	ENSGGOG00000040802	Others	NA
+Gorilla_gorilla_gorilla	DPPA2	ENSGGOG00000040863	Others	NA
+Gorilla_gorilla_gorilla	TAF10	ENSGGOG00000041258	TATA-box	NA
+Gorilla_gorilla_gorilla	SERTAD3	ENSGGOG00000041714	Others	NA
+Gorilla_gorilla_gorilla	CTNNBIP1	ENSGGOG00000042065	Casein	NA
+Gorilla_gorilla_gorilla	PCGF5	ENSGGOG00000042231	PCGF	NA
+Gorilla_gorilla_gorilla	TCP10L	ENSGGOG00000042620	Others	NA
+Gorilla_gorilla_gorilla	MED31	ENSGGOG00000042648	Mediator complex	NA
+Gorilla_gorilla_gorilla	SRA1	ENSGGOG00000042935	Others	NA
+Gorilla_gorilla_gorilla	FHIT	ENSGGOG00000042949	Others	NA
+Gorilla_gorilla_gorilla	WWOX	ENSGGOG00000042973	WW	NA
+Gorilla_gorilla_gorilla		ENSGGOG00000043097	Others	NA
+Gorilla_gorilla_gorilla	PAGR1	ENSGGOG00000043142	Others	NA
+Gorilla_gorilla_gorilla	PA2G4	ENSGGOG00000043173	Others	NA
+Gorilla_gorilla_gorilla	BRD2	ENSGGOG00000043461	Bromodomain	NA
+Gorilla_gorilla_gorilla	SERTAD2	ENSGGOG00000043510	Others	NA
+Gorilla_gorilla_gorilla	CBX6	ENSGGOG00000043581	Chromobox	NA
+Gorilla_gorilla_gorilla	NRIP1	ENSGGOG00000043844	Nuclear receptor coactivator	NA
+Gorilla_gorilla_gorilla	CGGBP1	ENSGGOG00000044102	Others	NA
+Gorilla_gorilla_gorilla	PAK6	ENSGGOG00000044172	Others	NA
+Gorilla_gorilla_gorilla	ZCCHC12	ENSGGOG00000044194	Zinc finger	NA

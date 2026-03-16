@@ -1,0 +1,916 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Pteropus_vampyrus	HNRNPD	ENSPVAG00000000003	HNRNP	NA
+Pteropus_vampyrus	MED8	ENSPVAG00000000016	Mediator complex	NA
+Pteropus_vampyrus	SERTAD3	ENSPVAG00000000027	Others	NA
+Pteropus_vampyrus	EPC1	ENSPVAG00000000030	Others	NA
+Pteropus_vampyrus	SNAPC5	ENSPVAG00000000067	Others	NA
+Pteropus_vampyrus		ENSPVAG00000000086	Others	NA
+Pteropus_vampyrus	MACROH2A2	ENSPVAG00000000092	Others	NA
+Pteropus_vampyrus	TLE1	ENSPVAG00000000134	Transducin	NA
+Pteropus_vampyrus	SMARCD2	ENSPVAG00000000168	SWI/SNF	NA
+Pteropus_vampyrus	NELFCD	ENSPVAG00000000198	GTF	NA
+Pteropus_vampyrus	MYBBP1A	ENSPVAG00000000200	MYB	NA
+Pteropus_vampyrus	ARHGAP5	ENSPVAG00000000228	Others	NA
+Pteropus_vampyrus	LMCD1	ENSPVAG00000000229	LIM	NA
+Pteropus_vampyrus	BRCA2	ENSPVAG00000000246	Others	NA
+Pteropus_vampyrus	JAK2	ENSPVAG00000000247	Others	NA
+Pteropus_vampyrus	SUPT16H	ENSPVAG00000000271	SUPT	NA
+Pteropus_vampyrus	CHD8	ENSPVAG00000000272	CHD	NA
+Pteropus_vampyrus	NCL	ENSPVAG00000000297	Others	NA
+Pteropus_vampyrus	SERTAD2	ENSPVAG00000000301	Others	NA
+Pteropus_vampyrus	PML	ENSPVAG00000000302	Others	NA
+Pteropus_vampyrus	CBX5	ENSPVAG00000000321	Chromobox	NA
+Pteropus_vampyrus	SMYD3	ENSPVAG00000000352	SMYD	NA
+Pteropus_vampyrus	TFB2M	ENSPVAG00000000353	Others	NA
+Pteropus_vampyrus	PCBD2	ENSPVAG00000000384	Others	NA
+Pteropus_vampyrus	TRADD	ENSPVAG00000000401	Others	NA
+Pteropus_vampyrus	POLR3F	ENSPVAG00000000403	POLR	NA
+Pteropus_vampyrus		ENSPVAG00000000406	Others	NA
+Pteropus_vampyrus	ATF7IP	ENSPVAG00000000436	Others	NA
+Pteropus_vampyrus	HCFC1	ENSPVAG00000000466	Others	NA
+Pteropus_vampyrus	TBPL1	ENSPVAG00000000468	TATA-box	NA
+Pteropus_vampyrus	ERN1	ENSPVAG00000000484	Others	NA
+Pteropus_vampyrus	TCEA2	ENSPVAG00000000513	TEF	NA
+Pteropus_vampyrus	NLRP12	ENSPVAG00000000522	Others	NA
+Pteropus_vampyrus	AXIN1	ENSPVAG00000000549	Others	NA
+Pteropus_vampyrus	RPRD1B	ENSPVAG00000000573	Others	NA
+Pteropus_vampyrus	RNF111	ENSPVAG00000000604	Ring finger protein	NA
+Pteropus_vampyrus	JMY	ENSPVAG00000000625	Others	NA
+Pteropus_vampyrus	MORF4L1	ENSPVAG00000000696	Other_CRF	NA
+Pteropus_vampyrus	CCNE1	ENSPVAG00000000719	Cyclin	NA
+Pteropus_vampyrus	FGFR2	ENSPVAG00000000720	FGF	NA
+Pteropus_vampyrus	FBP1	ENSPVAG00000000731	Others	NA
+Pteropus_vampyrus	EAF1	ENSPVAG00000000736	Others	NA
+Pteropus_vampyrus	GRIP1	ENSPVAG00000000783	Others	NA
+Pteropus_vampyrus	SLC26A3	ENSPVAG00000000785	SLC	NA
+Pteropus_vampyrus	PBXIP1	ENSPVAG00000000805	Others	NA
+Pteropus_vampyrus	PYGO2	ENSPVAG00000000806	Others	NA
+Pteropus_vampyrus	YAP1	ENSPVAG00000000824	Others	NA
+Pteropus_vampyrus	DHX9	ENSPVAG00000000836	RNA helicase	NA
+Pteropus_vampyrus	NELFA	ENSPVAG00000000849	GTF	NA
+Pteropus_vampyrus	ANKAR	ENSPVAG00000000867	Ankyrin repeat	NA
+Pteropus_vampyrus	GSK3B	ENSPVAG00000000885	Others	NA
+Pteropus_vampyrus	SMARCA2	ENSPVAG00000000901	SWI/SNF	NA
+Pteropus_vampyrus	RNF168	ENSPVAG00000000916	Ring finger protein	NA
+Pteropus_vampyrus	NIBAN2	ENSPVAG00000000941	FAM	NA
+Pteropus_vampyrus	RNF20	ENSPVAG00000000945	Ring finger protein	NA
+Pteropus_vampyrus	CDK9	ENSPVAG00000000960	Cyclin	NA
+Pteropus_vampyrus	ENG	ENSPVAG00000000962	Others	NA
+Pteropus_vampyrus	TIRAP	ENSPVAG00000000996	Others	NA
+Pteropus_vampyrus		ENSPVAG00000001044	Others	NA
+Pteropus_vampyrus	DAB2	ENSPVAG00000001050	Others	NA
+Pteropus_vampyrus	EP400	ENSPVAG00000001070	Others	NA
+Pteropus_vampyrus	LRRK2	ENSPVAG00000001079	Other_CRF	NA
+Pteropus_vampyrus		ENSPVAG00000001107	Cyclin	NA
+Pteropus_vampyrus	H2AZ2	ENSPVAG00000001109	Others	NA
+Pteropus_vampyrus	TOB2	ENSPVAG00000001161	Others	NA
+Pteropus_vampyrus	PHF5A	ENSPVAG00000001162	PHF	NA
+Pteropus_vampyrus	XRCC6	ENSPVAG00000001168	Others	NA
+Pteropus_vampyrus	FHL3	ENSPVAG00000001175	FHL	NA
+Pteropus_vampyrus	WBP2NL	ENSPVAG00000001192	Others	NA
+Pteropus_vampyrus	TCF20	ENSPVAG00000001198	Others	NA
+Pteropus_vampyrus	PELI2	ENSPVAG00000001201	Others	NA
+Pteropus_vampyrus	ANXA4	ENSPVAG00000001240	Others	NA
+Pteropus_vampyrus	TBPL2	ENSPVAG00000001280	TATA-box	NA
+Pteropus_vampyrus	CCNA2	ENSPVAG00000001285	Cyclin	NA
+Pteropus_vampyrus	CCDC62	ENSPVAG00000001293	Coiled-coil	NA
+Pteropus_vampyrus	ESF1	ENSPVAG00000001295	Others	NA
+Pteropus_vampyrus	PPARGC1B	ENSPVAG00000001308	Others	NA
+Pteropus_vampyrus	ERCC2	ENSPVAG00000001328	Others	NA
+Pteropus_vampyrus	NOTCH1	ENSPVAG00000001360	Notch	NA
+Pteropus_vampyrus	MYCBP2	ENSPVAG00000001375	MYC	NA
+Pteropus_vampyrus	ARL2BP	ENSPVAG00000001391	Others	NA
+Pteropus_vampyrus	NCOA7	ENSPVAG00000001412	Nuclear receptor coactivator	NA
+Pteropus_vampyrus	CHCHD2	ENSPVAG00000001424	Coiled-coil	NA
+Pteropus_vampyrus	REXO4	ENSPVAG00000001429	Others	NA
+Pteropus_vampyrus		ENSPVAG00000001438	MAGE	NA
+Pteropus_vampyrus	EYA3	ENSPVAG00000001453	EYA	NA
+Pteropus_vampyrus	LGALS12	ENSPVAG00000001465	Others	NA
+Pteropus_vampyrus	EGLN2	ENSPVAG00000001492	Others	NA
+Pteropus_vampyrus	ABL1	ENSPVAG00000001515	Others	NA
+Pteropus_vampyrus	TRIM37	ENSPVAG00000001529	Tripartite motif	NA
+Pteropus_vampyrus	NIPBL	ENSPVAG00000001535	Others	NA
+Pteropus_vampyrus	ASCC1	ENSPVAG00000001554	ASCC	NA
+Pteropus_vampyrus	TAF7L	ENSPVAG00000001564	TATA-box	NA
+Pteropus_vampyrus	BTK	ENSPVAG00000001567	Others	NA
+Pteropus_vampyrus	CRY1	ENSPVAG00000001590	Others	NA
+Pteropus_vampyrus	RBPMS	ENSPVAG00000001661	RNA binding protein	NA
+Pteropus_vampyrus	WDR5	ENSPVAG00000001666	WD	NA
+Pteropus_vampyrus	PCBD1	ENSPVAG00000001675	Others	NA
+Pteropus_vampyrus	CCNC	ENSPVAG00000001693	Cyclin	NA
+Pteropus_vampyrus	SAP130	ENSPVAG00000001697	SAP	NA
+Pteropus_vampyrus	SUPT3H	ENSPVAG00000001719	SUPT	NA
+Pteropus_vampyrus	CCNT1	ENSPVAG00000001757	Cyclin	NA
+Pteropus_vampyrus	SMARCAD1	ENSPVAG00000001760	SWI/SNF	NA
+Pteropus_vampyrus		ENSPVAG00000001767	SSX	NA
+Pteropus_vampyrus	NCK1	ENSPVAG00000001788	Others	NA
+Pteropus_vampyrus	PHF12	ENSPVAG00000001799	PHF	NA
+Pteropus_vampyrus	MTPN	ENSPVAG00000001825	Others	NA
+Pteropus_vampyrus	INO80	ENSPVAG00000001852	INO80 complex	NA
+Pteropus_vampyrus	CAMK4	ENSPVAG00000001906	CAMK	NA
+Pteropus_vampyrus	DDX5	ENSPVAG00000001932	RNA helicase	NA
+Pteropus_vampyrus	MAD2L2	ENSPVAG00000001949	Others	NA
+Pteropus_vampyrus		ENSPVAG00000001976	CAMK	NA
+Pteropus_vampyrus	EYA4	ENSPVAG00000001977	EYA	NA
+Pteropus_vampyrus	TAF1B	ENSPVAG00000002000	TATA-box	NA
+Pteropus_vampyrus		ENSPVAG00000002007	Others	NA
+Pteropus_vampyrus	BIRC5	ENSPVAG00000002023	Others	NA
+Pteropus_vampyrus		ENSPVAG00000002032	Others	NA
+Pteropus_vampyrus	TLE3	ENSPVAG00000002060	Transducin	NA
+Pteropus_vampyrus	TAF5L	ENSPVAG00000002107	TATA-box	NA
+Pteropus_vampyrus	PPIE	ENSPVAG00000002120	Others	NA
+Pteropus_vampyrus	NPM1	ENSPVAG00000002211	Nucleoplasmin	NA
+Pteropus_vampyrus	RNF10	ENSPVAG00000002232	Ring finger protein	NA
+Pteropus_vampyrus	SAP30L	ENSPVAG00000002260	SAP	NA
+Pteropus_vampyrus	CNOT8	ENSPVAG00000002264	CCR4-NOT	NA
+Pteropus_vampyrus	MLLT6	ENSPVAG00000002268	Others	NA
+Pteropus_vampyrus	PCGF2	ENSPVAG00000002269	PCGF	NA
+Pteropus_vampyrus	TLE2	ENSPVAG00000002285	Transducin	NA
+Pteropus_vampyrus	SNAPC2	ENSPVAG00000002296	Others	NA
+Pteropus_vampyrus	SUMO1	ENSPVAG00000002306	Others	NA
+Pteropus_vampyrus	NOTCH2	ENSPVAG00000002316	Notch	NA
+Pteropus_vampyrus	NELFB	ENSPVAG00000002317	GTF	NA
+Pteropus_vampyrus	SUPT4H1	ENSPVAG00000002320	SUPT	NA
+Pteropus_vampyrus	LDB2	ENSPVAG00000002331	LIM	NA
+Pteropus_vampyrus	ATF7IP2	ENSPVAG00000002337	Others	NA
+Pteropus_vampyrus	HIPK3	ENSPVAG00000002355	HIPK	NA
+Pteropus_vampyrus	FBXW11	ENSPVAG00000002369	Others	NA
+Pteropus_vampyrus	MED31	ENSPVAG00000002400	Mediator complex	NA
+Pteropus_vampyrus	APBB1	ENSPVAG00000002411	Others	NA
+Pteropus_vampyrus	ILK	ENSPVAG00000002421	Others	NA
+Pteropus_vampyrus	TAF10	ENSPVAG00000002422	TATA-box	NA
+Pteropus_vampyrus	C1QBP	ENSPVAG00000002466	Others	NA
+Pteropus_vampyrus	DHX33	ENSPVAG00000002467	RNA helicase	NA
+Pteropus_vampyrus	S100A8	ENSPVAG00000002509	Others	NA
+Pteropus_vampyrus	SCMH1	ENSPVAG00000002511	Others	NA
+Pteropus_vampyrus	RRN3	ENSPVAG00000002553	Others	NA
+Pteropus_vampyrus	HNRNPU	ENSPVAG00000002581	HNRNP	NA
+Pteropus_vampyrus	CDKN1B	ENSPVAG00000002637	Cyclin	NA
+Pteropus_vampyrus	ACTR5	ENSPVAG00000002670	ACTR	NA
+Pteropus_vampyrus	TRRAP	ENSPVAG00000002685	Others	NA
+Pteropus_vampyrus	CNOT6L	ENSPVAG00000002690	CCR4-NOT	NA
+Pteropus_vampyrus	WNT3A	ENSPVAG00000002699	Others	NA
+Pteropus_vampyrus	CBFA2T3	ENSPVAG00000002712	Others	NA
+Pteropus_vampyrus	MALT1	ENSPVAG00000002737	Others	NA
+Pteropus_vampyrus	RB1	ENSPVAG00000002744	Other_Co-activator/repressors	NA
+Pteropus_vampyrus	SNX6	ENSPVAG00000002793	Others	NA
+Pteropus_vampyrus	BCL10	ENSPVAG00000002808	BCL	NA
+Pteropus_vampyrus	TNIP2	ENSPVAG00000002858	Others	NA
+Pteropus_vampyrus		ENSPVAG00000002861	Others	NA
+Pteropus_vampyrus	NLK	ENSPVAG00000002870	Others	NA
+Pteropus_vampyrus	UFL1	ENSPVAG00000002878	Others	NA
+Pteropus_vampyrus	FHL5	ENSPVAG00000002885	FHL	NA
+Pteropus_vampyrus	SUPT6H	ENSPVAG00000002919	SUPT	NA
+Pteropus_vampyrus	CNOT11	ENSPVAG00000002962	CCR4-NOT	NA
+Pteropus_vampyrus	SPAG8	ENSPVAG00000003027	Others	NA
+Pteropus_vampyrus	CNOT6	ENSPVAG00000003069	CCR4-NOT	NA
+Pteropus_vampyrus	KAT8	ENSPVAG00000003091	Lysine acetyltransferase	NA
+Pteropus_vampyrus	FUS	ENSPVAG00000003097	Others	NA
+Pteropus_vampyrus	PYCARD	ENSPVAG00000003101	Others	NA
+Pteropus_vampyrus	MED27	ENSPVAG00000003147	Mediator complex	NA
+Pteropus_vampyrus	KDM7A	ENSPVAG00000003162	Lysine demethylase	NA
+Pteropus_vampyrus	CRTC1	ENSPVAG00000003176	CREB	NA
+Pteropus_vampyrus	SS18L2	ENSPVAG00000003197	SS18	NA
+Pteropus_vampyrus	TAB1	ENSPVAG00000003210	Others	NA
+Pteropus_vampyrus	DCAF1	ENSPVAG00000003223	Others	NA
+Pteropus_vampyrus	SDR16C5	ENSPVAG00000003240	Others	NA
+Pteropus_vampyrus	RAP2A	ENSPVAG00000003265	Others	NA
+Pteropus_vampyrus	TRAK2	ENSPVAG00000003275	Others	NA
+Pteropus_vampyrus	CDK13	ENSPVAG00000003300	Cyclin	NA
+Pteropus_vampyrus	DCAF6	ENSPVAG00000003310	Others	NA
+Pteropus_vampyrus	VEGFA	ENSPVAG00000003322	Other_CRF	NA
+Pteropus_vampyrus	RIPPLY2	ENSPVAG00000003345	Others	NA
+Pteropus_vampyrus	MMS19	ENSPVAG00000003375	Others	NA
+Pteropus_vampyrus	ANKRD2	ENSPVAG00000003380	Ankyrin repeat	NA
+Pteropus_vampyrus	SET	ENSPVAG00000003437	SET	NA
+Pteropus_vampyrus	LANCL2	ENSPVAG00000003466	Others	NA
+Pteropus_vampyrus	TAF6L	ENSPVAG00000003486	TATA-box	NA
+Pteropus_vampyrus	RALGAPA1	ENSPVAG00000003512	Others	NA
+Pteropus_vampyrus	BRMS1L	ENSPVAG00000003523	Other_CRF	NA
+Pteropus_vampyrus	PHF21A	ENSPVAG00000003534	PHF	NA
+Pteropus_vampyrus		ENSPVAG00000003601	Mediator complex	NA
+Pteropus_vampyrus	PRNP	ENSPVAG00000003606	Others	NA
+Pteropus_vampyrus	CRK	ENSPVAG00000003666	Others	NA
+Pteropus_vampyrus	KMT2E	ENSPVAG00000003668	Lysine methyltransferase	NA
+Pteropus_vampyrus	DNMT1	ENSPVAG00000003676	DNA_methylase	NA
+Pteropus_vampyrus	TBL1XR1	ENSPVAG00000003704	Transducin	NA
+Pteropus_vampyrus	TAF2	ENSPVAG00000003714	TATA-box	NA
+Pteropus_vampyrus	LPIN1	ENSPVAG00000003723	LPIN	NA
+Pteropus_vampyrus	FLNA	ENSPVAG00000003735	Others	NA
+Pteropus_vampyrus	DCC	ENSPVAG00000003765	Others	NA
+Pteropus_vampyrus	NSD1	ENSPVAG00000003826	Nuclear receptor coactivator	NA
+Pteropus_vampyrus	KAT2A	ENSPVAG00000003859	Lysine acetyltransferase	NA
+Pteropus_vampyrus	CAVIN1	ENSPVAG00000003892	Others	NA
+Pteropus_vampyrus	BCOR	ENSPVAG00000003896	Other_Co-activator/repressors	NA
+Pteropus_vampyrus	TRIM25	ENSPVAG00000003923	Tripartite motif	NA
+Pteropus_vampyrus	PSEN1	ENSPVAG00000003942	Others	NA
+Pteropus_vampyrus	NAB2	ENSPVAG00000003945	Others	NA
+Pteropus_vampyrus	NFATC2IP	ENSPVAG00000003975	Nuclear coactivator	NA
+Pteropus_vampyrus	PELP1	ENSPVAG00000003992	Others	NA
+Pteropus_vampyrus	ARRB2	ENSPVAG00000004005	Others	NA
+Pteropus_vampyrus	MED11	ENSPVAG00000004010	Mediator complex	NA
+Pteropus_vampyrus	NPM3	ENSPVAG00000004038	Nucleoplasmin	NA
+Pteropus_vampyrus	LDB1	ENSPVAG00000004047	LIM	NA
+Pteropus_vampyrus	PPRC1	ENSPVAG00000004048	Others	NA
+Pteropus_vampyrus	SLC25A2	ENSPVAG00000004069	SLC	NA
+Pteropus_vampyrus	TAF7	ENSPVAG00000004070	TATA-box	NA
+Pteropus_vampyrus	MTDH	ENSPVAG00000004083	Others	NA
+Pteropus_vampyrus	RBBP5	ENSPVAG00000004123	RBBP	NA
+Pteropus_vampyrus	TAF9	ENSPVAG00000004136	TATA-box	NA
+Pteropus_vampyrus	CNOT10	ENSPVAG00000004149	CCR4-NOT	NA
+Pteropus_vampyrus	PCGF6	ENSPVAG00000004169	PCGF	NA
+Pteropus_vampyrus	TAF5	ENSPVAG00000004172	TATA-box	NA
+Pteropus_vampyrus	BRD7	ENSPVAG00000004174	Bromodomain	NA
+Pteropus_vampyrus	GTF2H4	ENSPVAG00000004195	GTF	NA
+Pteropus_vampyrus	SFR1	ENSPVAG00000004202	Others	NA
+Pteropus_vampyrus	PEX2	ENSPVAG00000004208	Others	NA
+Pteropus_vampyrus	SETD2	ENSPVAG00000004211	SET	NA
+Pteropus_vampyrus	SENP1	ENSPVAG00000004217	Others	NA
+Pteropus_vampyrus	SETD6	ENSPVAG00000004240	SET	NA
+Pteropus_vampyrus	CNOT1	ENSPVAG00000004243	CCR4-NOT	NA
+Pteropus_vampyrus	CDK5RAP3	ENSPVAG00000004258	Cyclin	NA
+Pteropus_vampyrus	HCK	ENSPVAG00000004263	Others	NA
+Pteropus_vampyrus	ACTL6A	ENSPVAG00000004278	Actin	NA
+Pteropus_vampyrus	VGLL2	ENSPVAG00000004297	Vestigial like	NA
+Pteropus_vampyrus		ENSPVAG00000004323	Mediator complex	NA
+Pteropus_vampyrus	SIN3B	ENSPVAG00000004332	Others	NA
+Pteropus_vampyrus	KDM6A	ENSPVAG00000004373	Lysine demethylase	NA
+Pteropus_vampyrus	KDM8	ENSPVAG00000004385	Lysine demethylase	NA
+Pteropus_vampyrus	GTF2A2	ENSPVAG00000004432	GTF	NA
+Pteropus_vampyrus	BEND3	ENSPVAG00000004442	Others	NA
+Pteropus_vampyrus	RBMX	ENSPVAG00000004453	RNA binding protein	NA
+Pteropus_vampyrus	DEPDC1	ENSPVAG00000004463	Others	NA
+Pteropus_vampyrus	NRG1	ENSPVAG00000004487	Others	NA
+Pteropus_vampyrus		ENSPVAG00000004499	HNRNP	NA
+Pteropus_vampyrus	CHEK2	ENSPVAG00000004522	Others	NA
+Pteropus_vampyrus	TOP1	ENSPVAG00000004530	Other_CRF	NA
+Pteropus_vampyrus	CHEK1	ENSPVAG00000004535	Others	NA
+Pteropus_vampyrus	LPIN3	ENSPVAG00000004536	LPIN	NA
+Pteropus_vampyrus	CHD6	ENSPVAG00000004543	CHD	NA
+Pteropus_vampyrus	DACT1	ENSPVAG00000004564	Others	NA
+Pteropus_vampyrus	XRN2	ENSPVAG00000004596	Others	NA
+Pteropus_vampyrus	FGF1	ENSPVAG00000004597	FGF	NA
+Pteropus_vampyrus	BAZ1B	ENSPVAG00000004601	Bromodomain	NA
+Pteropus_vampyrus	CSNK2A2	ENSPVAG00000004620	Casein	NA
+Pteropus_vampyrus		ENSPVAG00000004632	Lysine methyltransferase	NA
+Pteropus_vampyrus	DDX39B	ENSPVAG00000004653	RNA helicase	NA
+Pteropus_vampyrus	DDX20	ENSPVAG00000004664	RNA helicase	NA
+Pteropus_vampyrus	PADI4	ENSPVAG00000004680	Others	NA
+Pteropus_vampyrus	WNT4	ENSPVAG00000004686	Others	NA
+Pteropus_vampyrus	DUSP26	ENSPVAG00000004700	Others	NA
+Pteropus_vampyrus	KDM5C	ENSPVAG00000004704	Lysine demethylase	NA
+Pteropus_vampyrus	TRAF6	ENSPVAG00000004727	Others	NA
+Pteropus_vampyrus	KDM5A	ENSPVAG00000004774	Lysine demethylase	NA
+Pteropus_vampyrus	DVL3	ENSPVAG00000004837	Others	NA
+Pteropus_vampyrus	SAFB	ENSPVAG00000004913	Others	NA
+Pteropus_vampyrus	PPARGC1A	ENSPVAG00000004965	Others	NA
+Pteropus_vampyrus	MSL3	ENSPVAG00000005000	Others	NA
+Pteropus_vampyrus	TDP2	ENSPVAG00000005002	Others	NA
+Pteropus_vampyrus	ENO1	ENSPVAG00000005030	Others	NA
+Pteropus_vampyrus	PSPC1	ENSPVAG00000005036	Others	NA
+Pteropus_vampyrus	DVL2	ENSPVAG00000005043	Others	NA
+Pteropus_vampyrus	GPS2	ENSPVAG00000005052	Others	NA
+Pteropus_vampyrus	FGF11	ENSPVAG00000005066	FGF	NA
+Pteropus_vampyrus	POLR2A	ENSPVAG00000005069	POLR	NA
+Pteropus_vampyrus	AGO1	ENSPVAG00000005082	Others	NA
+Pteropus_vampyrus	LRIF1	ENSPVAG00000005127	Others	NA
+Pteropus_vampyrus	EHMT2	ENSPVAG00000005128	Histone lysine methyltransferase	NA
+Pteropus_vampyrus	NOTCH4	ENSPVAG00000005156	Notch	NA
+Pteropus_vampyrus	HDAC10	ENSPVAG00000005194	Histone deacetylase	NA
+Pteropus_vampyrus	TPR	ENSPVAG00000005208	Others	NA
+Pteropus_vampyrus	NMI	ENSPVAG00000005219	Others	NA
+Pteropus_vampyrus	TCEA1	ENSPVAG00000005245	TEF	NA
+Pteropus_vampyrus	FRK	ENSPVAG00000005299	Others	NA
+Pteropus_vampyrus	PHF20	ENSPVAG00000005306	PHF	NA
+Pteropus_vampyrus	SCAND1	ENSPVAG00000005317	Others	NA
+Pteropus_vampyrus	UXT	ENSPVAG00000005328	Others	NA
+Pteropus_vampyrus	TRIM21	ENSPVAG00000005402	Tripartite motif	NA
+Pteropus_vampyrus	PRMT2	ENSPVAG00000005428	Arginine methyltransferase	NA
+Pteropus_vampyrus		ENSPVAG00000005436	Zinc finger	NA
+Pteropus_vampyrus	BTG1	ENSPVAG00000005437	Others	NA
+Pteropus_vampyrus	ITCH	ENSPVAG00000005445	Others	NA
+Pteropus_vampyrus	NCOA6	ENSPVAG00000005450	Nuclear receptor coactivator	NA
+Pteropus_vampyrus	FAM83G	ENSPVAG00000005515	FAM	NA
+Pteropus_vampyrus	TAF1D	ENSPVAG00000005521	TATA-box	NA
+Pteropus_vampyrus	HDAC9	ENSPVAG00000005525	Histone deacetylase	NA
+Pteropus_vampyrus	HDAC11	ENSPVAG00000005552	Histone deacetylase	NA
+Pteropus_vampyrus	PER2	ENSPVAG00000005574	Others	NA
+Pteropus_vampyrus	DPY30	ENSPVAG00000005599	Others	NA
+Pteropus_vampyrus	CBL	ENSPVAG00000005606	Others	NA
+Pteropus_vampyrus	ZMYM2	ENSPVAG00000005607	Zinc finger	NA
+Pteropus_vampyrus	MDM4	ENSPVAG00000005663	Others	NA
+Pteropus_vampyrus	ARHGAP35	ENSPVAG00000005679	Others	NA
+Pteropus_vampyrus	CENPU	ENSPVAG00000005695	CENP	NA
+Pteropus_vampyrus	MAML2	ENSPVAG00000005721	MAML	NA
+Pteropus_vampyrus	PICALM	ENSPVAG00000005725	Others	NA
+Pteropus_vampyrus	MAGED1	ENSPVAG00000005734	MAGE	NA
+Pteropus_vampyrus	BRDT	ENSPVAG00000005740	Bromodomain	NA
+Pteropus_vampyrus	TENM2	ENSPVAG00000005758	Others	NA
+Pteropus_vampyrus	WWC1	ENSPVAG00000005759	WW	NA
+Pteropus_vampyrus	RAI1	ENSPVAG00000005763	Others	NA
+Pteropus_vampyrus	FLII	ENSPVAG00000005787	Others	NA
+Pteropus_vampyrus		ENSPVAG00000005790	Others	NA
+Pteropus_vampyrus	CHAF1B	ENSPVAG00000005814	Others	NA
+Pteropus_vampyrus	TCERG1	ENSPVAG00000005815	TEF	NA
+Pteropus_vampyrus	RAF1	ENSPVAG00000005823	Others	NA
+Pteropus_vampyrus	BTN1A1	ENSPVAG00000005834	Others	NA
+Pteropus_vampyrus	ELANE	ENSPVAG00000005848	Others	NA
+Pteropus_vampyrus	CCNT2	ENSPVAG00000005887	Cyclin	NA
+Pteropus_vampyrus	ACTR6	ENSPVAG00000005898	ACTR	NA
+Pteropus_vampyrus	TRIB1	ENSPVAG00000005905	Others	NA
+Pteropus_vampyrus	RNF2	ENSPVAG00000005957	Ring finger protein	NA
+Pteropus_vampyrus	MED9	ENSPVAG00000005960	Mediator complex	NA
+Pteropus_vampyrus	RASD1	ENSPVAG00000005963	Others	NA
+Pteropus_vampyrus	ZNF703	ENSPVAG00000005996	Zinc finger	NA
+Pteropus_vampyrus	BRF2	ENSPVAG00000006008	GTF	NA
+Pteropus_vampyrus	ASH2L	ENSPVAG00000006014	Others	NA
+Pteropus_vampyrus	ATN1	ENSPVAG00000006017	Others	NA
+Pteropus_vampyrus	NLRP3	ENSPVAG00000006026	Others	NA
+Pteropus_vampyrus	NSD3	ENSPVAG00000006027	Nuclear receptor coactivator	NA
+Pteropus_vampyrus	CHD1L	ENSPVAG00000006084	CHD	NA
+Pteropus_vampyrus	MED10	ENSPVAG00000006085	Mediator complex	NA
+Pteropus_vampyrus	SIRT5	ENSPVAG00000006108	Sirtuin	NA
+Pteropus_vampyrus	GTF2H5	ENSPVAG00000006137	GTF	NA
+Pteropus_vampyrus	ING1	ENSPVAG00000006147	ING	NA
+Pteropus_vampyrus	EZR	ENSPVAG00000006155	Others	NA
+Pteropus_vampyrus	SAV1	ENSPVAG00000006177	Others	NA
+Pteropus_vampyrus	CCAR2	ENSPVAG00000006188	Others	NA
+Pteropus_vampyrus	MDM2	ENSPVAG00000006202	Others	NA
+Pteropus_vampyrus	CD3D	ENSPVAG00000006234	Others	NA
+Pteropus_vampyrus	HCLS1	ENSPVAG00000006240	Others	NA
+Pteropus_vampyrus		ENSPVAG00000006246	Lysine methyltransferase	NA
+Pteropus_vampyrus	JMJD4	ENSPVAG00000006255	Others	NA
+Pteropus_vampyrus	INSR	ENSPVAG00000006288	Others	NA
+Pteropus_vampyrus	CBX3	ENSPVAG00000006297	Chromobox	NA
+Pteropus_vampyrus	WAC	ENSPVAG00000006362	WW	NA
+Pteropus_vampyrus	PARP10	ENSPVAG00000006369	PARP	NA
+Pteropus_vampyrus		ENSPVAG00000006372	ANP	NA
+Pteropus_vampyrus	INO80D	ENSPVAG00000006390	INO80 complex	NA
+Pteropus_vampyrus	ALPK3	ENSPVAG00000006405	Others	NA
+Pteropus_vampyrus	HIRA	ENSPVAG00000006410	Others	NA
+Pteropus_vampyrus	SNW1	ENSPVAG00000006421	Others	NA
+Pteropus_vampyrus	KCNIP3	ENSPVAG00000006437	Others	NA
+Pteropus_vampyrus	BTRC	ENSPVAG00000006474	Others	NA
+Pteropus_vampyrus	SMARCA5	ENSPVAG00000006482	SWI/SNF	NA
+Pteropus_vampyrus	WWP1	ENSPVAG00000006504	WW	NA
+Pteropus_vampyrus	TAF3	ENSPVAG00000006513	TATA-box	NA
+Pteropus_vampyrus	MED16	ENSPVAG00000006525	Mediator complex	NA
+Pteropus_vampyrus	ANP32B	ENSPVAG00000006569	ANP	NA
+Pteropus_vampyrus	CREBBP	ENSPVAG00000006579	CREB	NA
+Pteropus_vampyrus	PHF8	ENSPVAG00000006680	PHF	NA
+Pteropus_vampyrus	RFXAP	ENSPVAG00000006689	Others	NA
+Pteropus_vampyrus	SMARCD1	ENSPVAG00000006702	SWI/SNF	NA
+Pteropus_vampyrus	KAT2B	ENSPVAG00000006733	Lysine acetyltransferase	NA
+Pteropus_vampyrus	TERF2IP	ENSPVAG00000006744	Others	NA
+Pteropus_vampyrus	ABT1	ENSPVAG00000006751	Others	NA
+Pteropus_vampyrus	CTBP1	ENSPVAG00000006760	Others	NA
+Pteropus_vampyrus	TONSL	ENSPVAG00000006766	Others	NA
+Pteropus_vampyrus	PHIP	ENSPVAG00000006808	Others	NA
+Pteropus_vampyrus	CHD1	ENSPVAG00000006905	CHD	NA
+Pteropus_vampyrus	DNAJB1	ENSPVAG00000006956	Others	NA
+Pteropus_vampyrus	PIM1	ENSPVAG00000006958	Others	NA
+Pteropus_vampyrus	RNF8	ENSPVAG00000006965	Ring finger protein	NA
+Pteropus_vampyrus	VGLL3	ENSPVAG00000006968	Vestigial like	NA
+Pteropus_vampyrus	ITGB3BP	ENSPVAG00000006975	Others	NA
+Pteropus_vampyrus	HSBP1	ENSPVAG00000006994	Heat shock protein	NA
+Pteropus_vampyrus	TAF1C	ENSPVAG00000007005	TATA-box	NA
+Pteropus_vampyrus	RIPK3	ENSPVAG00000007041	Others	NA
+Pteropus_vampyrus	RUVBL1	ENSPVAG00000007066	Other_CRF	NA
+Pteropus_vampyrus	BRIP1	ENSPVAG00000007069	Others	NA
+Pteropus_vampyrus	MED13	ENSPVAG00000007072	Mediator complex	NA
+Pteropus_vampyrus	CNOT2	ENSPVAG00000007074	CCR4-NOT	NA
+Pteropus_vampyrus	CBX7	ENSPVAG00000007075	Chromobox	NA
+Pteropus_vampyrus	CDK5	ENSPVAG00000007092	Cyclin	NA
+Pteropus_vampyrus	SIRT1	ENSPVAG00000007129	Sirtuin	NA
+Pteropus_vampyrus	ELL3	ENSPVAG00000007136	GTF	NA
+Pteropus_vampyrus	BTF3	ENSPVAG00000007160	Others	NA
+Pteropus_vampyrus	ANKRA2	ENSPVAG00000007161	Ankyrin repeat	NA
+Pteropus_vampyrus	HELZ2	ENSPVAG00000007183	Others	NA
+Pteropus_vampyrus	RBM15	ENSPVAG00000007193	RNA binding protein	NA
+Pteropus_vampyrus	GTF2H1	ENSPVAG00000007205	GTF	NA
+Pteropus_vampyrus	TSG101	ENSPVAG00000007210	Others	NA
+Pteropus_vampyrus	LPIN2	ENSPVAG00000007221	LPIN	NA
+Pteropus_vampyrus	MLLT1	ENSPVAG00000007239	GTF	NA
+Pteropus_vampyrus	GTF2F1	ENSPVAG00000007249	GTF	NA
+Pteropus_vampyrus	KDM4C	ENSPVAG00000007254	Lysine demethylase	NA
+Pteropus_vampyrus	TXN	ENSPVAG00000007265	Others	NA
+Pteropus_vampyrus	HIPK2	ENSPVAG00000007267	HIPK	NA
+Pteropus_vampyrus	TDG	ENSPVAG00000007280	Others	NA
+Pteropus_vampyrus	HCFC2	ENSPVAG00000007282	Others	NA
+Pteropus_vampyrus	ACTG2	ENSPVAG00000007293	Actin	NA
+Pteropus_vampyrus	KMT5C	ENSPVAG00000007305	Lysine methyltransferase	NA
+Pteropus_vampyrus		ENSPVAG00000007349	Others	NA
+Pteropus_vampyrus	RWDD3	ENSPVAG00000007375	Others	NA
+Pteropus_vampyrus	LPXN	ENSPVAG00000007377	Others	NA
+Pteropus_vampyrus	ASF1A	ENSPVAG00000007400	Others	NA
+Pteropus_vampyrus	AUTS2	ENSPVAG00000007423	Others	NA
+Pteropus_vampyrus	SETD3	ENSPVAG00000007426	SET	NA
+Pteropus_vampyrus	CCNK	ENSPVAG00000007430	Cyclin	NA
+Pteropus_vampyrus	VGLL4	ENSPVAG00000007473	Vestigial like	NA
+Pteropus_vampyrus	ELP3	ENSPVAG00000007474	ELP	NA
+Pteropus_vampyrus	IKBKG	ENSPVAG00000007488	Others	NA
+Pteropus_vampyrus	SYK	ENSPVAG00000007490	Others	NA
+Pteropus_vampyrus	BUD31	ENSPVAG00000007527	Others	NA
+Pteropus_vampyrus	EED	ENSPVAG00000007530	Others	NA
+Pteropus_vampyrus	GTF2B	ENSPVAG00000007549	GTF	NA
+Pteropus_vampyrus	CDK2	ENSPVAG00000007555	Cyclin	NA
+Pteropus_vampyrus		ENSPVAG00000007563	Others	NA
+Pteropus_vampyrus	MDFI	ENSPVAG00000007579	Others	NA
+Pteropus_vampyrus		ENSPVAG00000007601	Mediator complex	NA
+Pteropus_vampyrus	TIMELESS	ENSPVAG00000007604	Others	NA
+Pteropus_vampyrus	TAF8	ENSPVAG00000007614	TATA-box	NA
+Pteropus_vampyrus	HDAC6	ENSPVAG00000007639	Histone deacetylase	NA
+Pteropus_vampyrus	PQBP1	ENSPVAG00000007644	Others	NA
+Pteropus_vampyrus	HABP4	ENSPVAG00000007654	Others	NA
+Pteropus_vampyrus	BTAF1	ENSPVAG00000007657	Others	NA
+Pteropus_vampyrus	HDAC4	ENSPVAG00000007679	Histone deacetylase	NA
+Pteropus_vampyrus	SIRT6	ENSPVAG00000007709	Sirtuin	NA
+Pteropus_vampyrus		ENSPVAG00000007727	Others	NA
+Pteropus_vampyrus	FRZB	ENSPVAG00000007746	Others	NA
+Pteropus_vampyrus	NOTCH3	ENSPVAG00000007778	Notch	NA
+Pteropus_vampyrus	ERBB4	ENSPVAG00000007780	Erbb2	NA
+Pteropus_vampyrus	SMARCA4	ENSPVAG00000007787	SWI/SNF	NA
+Pteropus_vampyrus	EYA2	ENSPVAG00000007807	EYA	NA
+Pteropus_vampyrus	ZMYND8	ENSPVAG00000007809	Zinc finger	NA
+Pteropus_vampyrus	PIK3R1	ENSPVAG00000007814	Others	NA
+Pteropus_vampyrus	JADE1	ENSPVAG00000007854	Others	NA
+Pteropus_vampyrus	DGKQ	ENSPVAG00000007859	Others	NA
+Pteropus_vampyrus	MEN1	ENSPVAG00000007887	Others	NA
+Pteropus_vampyrus	DPF2	ENSPVAG00000007932	DPF	NA
+Pteropus_vampyrus	GRHPR	ENSPVAG00000007938	Others	NA
+Pteropus_vampyrus	ENY2	ENSPVAG00000007947	Others	NA
+Pteropus_vampyrus	ELL2	ENSPVAG00000007953	GTF	NA
+Pteropus_vampyrus	HIF1AN	ENSPVAG00000008013	Others	NA
+Pteropus_vampyrus		ENSPVAG00000008015	Others	NA
+Pteropus_vampyrus	CHUK	ENSPVAG00000008027	Others	NA
+Pteropus_vampyrus	ASXL1	ENSPVAG00000008048	Others	NA
+Pteropus_vampyrus	TNIP1	ENSPVAG00000008063	Others	NA
+Pteropus_vampyrus	AEBP1	ENSPVAG00000008074	Others	NA
+Pteropus_vampyrus	SCAI	ENSPVAG00000008093	Others	NA
+Pteropus_vampyrus	ELOC	ENSPVAG00000008105	Others	NA
+Pteropus_vampyrus	NIF3L1	ENSPVAG00000008116	Others	NA
+Pteropus_vampyrus	ORC2	ENSPVAG00000008117	Others	NA
+Pteropus_vampyrus		ENSPVAG00000008133	Others	NA
+Pteropus_vampyrus	HIPK1	ENSPVAG00000008209	HIPK	NA
+Pteropus_vampyrus	TRIM33	ENSPVAG00000008217	Tripartite motif	NA
+Pteropus_vampyrus	BRD3	ENSPVAG00000008247	Bromodomain	NA
+Pteropus_vampyrus		ENSPVAG00000008278	MBD	NA
+Pteropus_vampyrus	CITED1	ENSPVAG00000008285	CITED	NA
+Pteropus_vampyrus		ENSPVAG00000008286	Histone deacetylase	NA
+Pteropus_vampyrus	TRIM29	ENSPVAG00000008293	Tripartite motif	NA
+Pteropus_vampyrus	KDM3B	ENSPVAG00000008349	Lysine demethylase	NA
+Pteropus_vampyrus	ZNF638	ENSPVAG00000008368	Zinc finger	NA
+Pteropus_vampyrus	TNNI1	ENSPVAG00000008372	Others	NA
+Pteropus_vampyrus	WDTC1	ENSPVAG00000008400	WD	NA
+Pteropus_vampyrus	PDLIM1	ENSPVAG00000008409	Others	NA
+Pteropus_vampyrus	MED4	ENSPVAG00000008415	Mediator complex	NA
+Pteropus_vampyrus	PLK1	ENSPVAG00000008443	Others	NA
+Pteropus_vampyrus	RECQL5	ENSPVAG00000008452	Others	NA
+Pteropus_vampyrus	SAP30BP	ENSPVAG00000008454	SAP	NA
+Pteropus_vampyrus	RUNX1T1	ENSPVAG00000008458	Others	NA
+Pteropus_vampyrus	WBP2	ENSPVAG00000008463	WW	NA
+Pteropus_vampyrus	DHX36	ENSPVAG00000008465	RNA helicase	NA
+Pteropus_vampyrus	RPTOR	ENSPVAG00000008489	Others	NA
+Pteropus_vampyrus	MED1	ENSPVAG00000008504	Mediator complex	NA
+Pteropus_vampyrus	CDK12	ENSPVAG00000008505	Cyclin	NA
+Pteropus_vampyrus	ERBB2	ENSPVAG00000008524	Erbb2	NA
+Pteropus_vampyrus	KDM2A	ENSPVAG00000008538	Lysine demethylase	NA
+Pteropus_vampyrus	MED24	ENSPVAG00000008547	Mediator complex	NA
+Pteropus_vampyrus	AIP	ENSPVAG00000008580	Others	NA
+Pteropus_vampyrus	MYO6	ENSPVAG00000008607	Others	NA
+Pteropus_vampyrus	BEND6	ENSPVAG00000008623	Others	NA
+Pteropus_vampyrus	PIN1	ENSPVAG00000008629	Others	NA
+Pteropus_vampyrus	THRAP3	ENSPVAG00000008632	Thyroid hormone receptor	NA
+Pteropus_vampyrus	RPAP2	ENSPVAG00000008680	Others	NA
+Pteropus_vampyrus	DSCAM	ENSPVAG00000008687	Others	NA
+Pteropus_vampyrus	RHOA	ENSPVAG00000008738	Others	NA
+Pteropus_vampyrus	EZH1	ENSPVAG00000008794	Others	NA
+Pteropus_vampyrus	BRCA1	ENSPVAG00000008824	Others	NA
+Pteropus_vampyrus	URI1	ENSPVAG00000008830	Others	NA
+Pteropus_vampyrus	TP53BP1	ENSPVAG00000008848	Others	NA
+Pteropus_vampyrus	CDYL2	ENSPVAG00000008876	Chromodomain Y	NA
+Pteropus_vampyrus	TAF13	ENSPVAG00000008895	TATA-box	NA
+Pteropus_vampyrus	CTNNB1	ENSPVAG00000008910	Casein	NA
+Pteropus_vampyrus	TRAK1	ENSPVAG00000008915	Others	NA
+Pteropus_vampyrus	SLC19A1	ENSPVAG00000008949	SLC	NA
+Pteropus_vampyrus	WDR61	ENSPVAG00000009032	WD	NA
+Pteropus_vampyrus	SMYD2	ENSPVAG00000009068	SMYD	NA
+Pteropus_vampyrus	HNRNPK	ENSPVAG00000009078	HNRNP	NA
+Pteropus_vampyrus	CTDP1	ENSPVAG00000009100	Others	NA
+Pteropus_vampyrus	EZH2	ENSPVAG00000009107	Others	NA
+Pteropus_vampyrus	EDRF1	ENSPVAG00000009128	Others	NA
+Pteropus_vampyrus	RPRD1A	ENSPVAG00000009176	Others	NA
+Pteropus_vampyrus	ELP2	ENSPVAG00000009181	ELP	NA
+Pteropus_vampyrus	FHOD3	ENSPVAG00000009194	Others	NA
+Pteropus_vampyrus	NCOA2	ENSPVAG00000009208	Nuclear receptor coactivator	NA
+Pteropus_vampyrus	TOPORS	ENSPVAG00000009210	Others	NA
+Pteropus_vampyrus	CASK	ENSPVAG00000009243	CAMK	NA
+Pteropus_vampyrus	NRIP2	ENSPVAG00000009252	Nuclear coactivator	NA
+Pteropus_vampyrus	SETD7	ENSPVAG00000009291	SET	NA
+Pteropus_vampyrus	HDAC7	ENSPVAG00000009384	Histone deacetylase	NA
+Pteropus_vampyrus	CHCHD3	ENSPVAG00000009414	Coiled-coil	NA
+Pteropus_vampyrus	PHF21B	ENSPVAG00000009446	PHF	NA
+Pteropus_vampyrus	KDM3A	ENSPVAG00000009451	Lysine demethylase	NA
+Pteropus_vampyrus	LIMD1	ENSPVAG00000009464	LIM	NA
+Pteropus_vampyrus	RUVBL2	ENSPVAG00000009574	Other_CRF	NA
+Pteropus_vampyrus	NAA15	ENSPVAG00000009583	Others	NA
+Pteropus_vampyrus	KAT6B	ENSPVAG00000009599	Lysine acetyltransferase	NA
+Pteropus_vampyrus	EDF1	ENSPVAG00000009635	Others	NA
+Pteropus_vampyrus	SRA1	ENSPVAG00000009698	Others	NA
+Pteropus_vampyrus	BPTF	ENSPVAG00000009712	Bromodomain	NA
+Pteropus_vampyrus		ENSPVAG00000009762	Erbb2	NA
+Pteropus_vampyrus	PADI2	ENSPVAG00000009793	Other_CRF	NA
+Pteropus_vampyrus	EWSR1	ENSPVAG00000009815	Others	NA
+Pteropus_vampyrus	LOXL2	ENSPVAG00000009826	Others	NA
+Pteropus_vampyrus	NPM2	ENSPVAG00000009848	Nucleoplasmin	NA
+Pteropus_vampyrus	HR	ENSPVAG00000009862	Lysine methyltransferase	NA
+Pteropus_vampyrus	PLK3	ENSPVAG00000009863	Others	NA
+Pteropus_vampyrus	NFKBIZ	ENSPVAG00000009894	NFKB associated	NA
+Pteropus_vampyrus	NCOA3	ENSPVAG00000009909	Nuclear receptor coactivator	NA
+Pteropus_vampyrus	ELL	ENSPVAG00000009924	GTF	NA
+Pteropus_vampyrus	SS18	ENSPVAG00000009955	SS18	NA
+Pteropus_vampyrus	TAF4B	ENSPVAG00000009968	TATA-box	NA
+Pteropus_vampyrus	GTF2E1	ENSPVAG00000010014	GTF	NA
+Pteropus_vampyrus	MTF2	ENSPVAG00000010018	Others	NA
+Pteropus_vampyrus	SIN3A	ENSPVAG00000010031	Other_CRF	NA
+Pteropus_vampyrus	EAPP	ENSPVAG00000010091	Others	NA
+Pteropus_vampyrus	ING3	ENSPVAG00000010112	ING	NA
+Pteropus_vampyrus	MEAF6	ENSPVAG00000010122	Others	NA
+Pteropus_vampyrus	SNIP1	ENSPVAG00000010125	Others	NA
+Pteropus_vampyrus	DDX17	ENSPVAG00000010133	RNA helicase	NA
+Pteropus_vampyrus	DNTTIP2	ENSPVAG00000010151	Others	NA
+Pteropus_vampyrus	CBX6	ENSPVAG00000010157	Chromobox	NA
+Pteropus_vampyrus	DOT1L	ENSPVAG00000010228	Others	NA
+Pteropus_vampyrus	BANP	ENSPVAG00000010231	Others	NA
+Pteropus_vampyrus	MED7	ENSPVAG00000010236	Mediator complex	NA
+Pteropus_vampyrus	RGCC	ENSPVAG00000010250	Others	NA
+Pteropus_vampyrus	KDM2B	ENSPVAG00000010258	Lysine demethylase	NA
+Pteropus_vampyrus	HTATSF1	ENSPVAG00000010281	Others	NA
+Pteropus_vampyrus	VGLL1	ENSPVAG00000010284	Vestigial like	NA
+Pteropus_vampyrus	CBFA2T2	ENSPVAG00000010286	Others	NA
+Pteropus_vampyrus	SMURF1	ENSPVAG00000010298	Others	NA
+Pteropus_vampyrus	TRIM2	ENSPVAG00000010458	Tripartite motif	NA
+Pteropus_vampyrus	CDC73	ENSPVAG00000010460	Others	NA
+Pteropus_vampyrus	RBM14	ENSPVAG00000010483	RNA binding protein	NA
+Pteropus_vampyrus	CIR1	ENSPVAG00000010517	Other_Co-activator/repressors	NA
+Pteropus_vampyrus	CITED4	ENSPVAG00000010526	CITED	NA
+Pteropus_vampyrus	INO80E	ENSPVAG00000010548	INO80 complex	NA
+Pteropus_vampyrus	TDRD3	ENSPVAG00000010549	Others	NA
+Pteropus_vampyrus	LZTS1	ENSPVAG00000010593	Others	NA
+Pteropus_vampyrus	WDR77	ENSPVAG00000010603	WD	NA
+Pteropus_vampyrus	JUP	ENSPVAG00000010631	Others	NA
+Pteropus_vampyrus	TAF1A	ENSPVAG00000010655	TATA-box	NA
+Pteropus_vampyrus	DPPA4	ENSPVAG00000010677	Others	NA
+Pteropus_vampyrus	CTNND2	ENSPVAG00000010680	Casein	NA
+Pteropus_vampyrus	WWOX	ENSPVAG00000010723	WW	NA
+Pteropus_vampyrus	NFKBIA	ENSPVAG00000010724	NFKB associated	NA
+Pteropus_vampyrus	KMT5B	ENSPVAG00000010726	Lysine methyltransferase	NA
+Pteropus_vampyrus	APEX1	ENSPVAG00000010736	Others	NA
+Pteropus_vampyrus	NEDD8	ENSPVAG00000010768	Others	NA
+Pteropus_vampyrus	ELOB	ENSPVAG00000010777	Others	NA
+Pteropus_vampyrus	TBP	ENSPVAG00000010820	TATA-box	NA
+Pteropus_vampyrus		ENSPVAG00000010828	Others	NA
+Pteropus_vampyrus	KDM1B	ENSPVAG00000010834	Lysine demethylase	NA
+Pteropus_vampyrus	DEK	ENSPVAG00000010840	Other_CRF	NA
+Pteropus_vampyrus	CDK7	ENSPVAG00000010844	Cyclin	NA
+Pteropus_vampyrus	DYRK1B	ENSPVAG00000010847	Others	NA
+Pteropus_vampyrus	BRD8	ENSPVAG00000010855	Bromodomain	NA
+Pteropus_vampyrus	SFMBT2	ENSPVAG00000010859	Others	NA
+Pteropus_vampyrus	SMARCB1	ENSPVAG00000010908	SWI/SNF	NA
+Pteropus_vampyrus	BDP1	ENSPVAG00000010924	GTF	NA
+Pteropus_vampyrus	PIH1D1	ENSPVAG00000010953	Other_CRF	NA
+Pteropus_vampyrus	PRMT1	ENSPVAG00000010970	Arginine methyltransferase	NA
+Pteropus_vampyrus	MED25	ENSPVAG00000010975	Mediator complex	NA
+Pteropus_vampyrus	RBBP4	ENSPVAG00000010981	RBBP	NA
+Pteropus_vampyrus	MLLT3	ENSPVAG00000010997	GTF	NA
+Pteropus_vampyrus	TNKS	ENSPVAG00000011017	Others	NA
+Pteropus_vampyrus	KDM5B	ENSPVAG00000011030	Lysine demethylase	NA
+Pteropus_vampyrus		ENSPVAG00000011033	Others	NA
+Pteropus_vampyrus		ENSPVAG00000011049	SET	NA
+Pteropus_vampyrus	CIITA	ENSPVAG00000011070	Others	NA
+Pteropus_vampyrus	CHTOP	ENSPVAG00000011074	Others	NA
+Pteropus_vampyrus	ILF2	ENSPVAG00000011077	Others	NA
+Pteropus_vampyrus	CRTC2	ENSPVAG00000011088	CREB	NA
+Pteropus_vampyrus	TADA3	ENSPVAG00000011104	Transcriptional adaptor	NA
+Pteropus_vampyrus	SAMD4B	ENSPVAG00000011118	Others	NA
+Pteropus_vampyrus	PAF1	ENSPVAG00000011119	Others	NA
+Pteropus_vampyrus	MED29	ENSPVAG00000011122	Mediator complex	NA
+Pteropus_vampyrus	SUPT5H	ENSPVAG00000011129	SUPT	NA
+Pteropus_vampyrus	HINT1	ENSPVAG00000011171	Others	NA
+Pteropus_vampyrus	PEX14	ENSPVAG00000011210	Others	NA
+Pteropus_vampyrus	TRIB3	ENSPVAG00000011250	Others	NA
+Pteropus_vampyrus	CCDC59	ENSPVAG00000011261	Coiled-coil	NA
+Pteropus_vampyrus	ARRB1	ENSPVAG00000011267	Others	NA
+Pteropus_vampyrus	SUFU	ENSPVAG00000011292	Others	NA
+Pteropus_vampyrus	TRIM8	ENSPVAG00000011293	Tripartite motif	NA
+Pteropus_vampyrus	HAT1	ENSPVAG00000011328	Others	NA
+Pteropus_vampyrus	ICE2	ENSPVAG00000011404	GTF	NA
+Pteropus_vampyrus	HMOX1	ENSPVAG00000011414	Others	NA
+Pteropus_vampyrus	ING4	ENSPVAG00000011436	ING	NA
+Pteropus_vampyrus	EGFR	ENSPVAG00000011454	Others	NA
+Pteropus_vampyrus	GMNN	ENSPVAG00000011481	Others	NA
+Pteropus_vampyrus	SIAH2	ENSPVAG00000011544	Others	NA
+Pteropus_vampyrus	CBX2	ENSPVAG00000011599	Chromobox	NA
+Pteropus_vampyrus	SIRT2	ENSPVAG00000011600	Sirtuin	NA
+Pteropus_vampyrus	CBX8	ENSPVAG00000011601	Chromobox	NA
+Pteropus_vampyrus	NFKBIB	ENSPVAG00000011602	NFKB associated	NA
+Pteropus_vampyrus	MED15	ENSPVAG00000011614	Mediator complex	NA
+Pteropus_vampyrus	BLM	ENSPVAG00000011642	Others	NA
+Pteropus_vampyrus	CRYM	ENSPVAG00000011685	Others	NA
+Pteropus_vampyrus	ACTN1	ENSPVAG00000011687	Actin	NA
+Pteropus_vampyrus	CNOT7	ENSPVAG00000011722	CCR4-NOT	NA
+Pteropus_vampyrus	TRIM24	ENSPVAG00000011741	Tripartite motif	NA
+Pteropus_vampyrus		ENSPVAG00000011752	Others	NA
+Pteropus_vampyrus	PHF19	ENSPVAG00000011782	PHF	NA
+Pteropus_vampyrus	TRIP13	ENSPVAG00000011794	Thyroid hormone receptor	NA
+Pteropus_vampyrus		ENSPVAG00000011820	EID	NA
+Pteropus_vampyrus	PHF1	ENSPVAG00000011865	PHF	NA
+Pteropus_vampyrus	CHD7	ENSPVAG00000011873	CHD	NA
+Pteropus_vampyrus	EHMT1	ENSPVAG00000011904	Histone lysine methyltransferase	NA
+Pteropus_vampyrus	RBX1	ENSPVAG00000011914	Others	NA
+Pteropus_vampyrus	CTH	ENSPVAG00000011920	Others	NA
+Pteropus_vampyrus	EMSY	ENSPVAG00000011933	Others	NA
+Pteropus_vampyrus	LBH	ENSPVAG00000011983	Others	NA
+Pteropus_vampyrus	YEATS2	ENSPVAG00000012005	Others	NA
+Pteropus_vampyrus	BRD2	ENSPVAG00000012010	Bromodomain	NA
+Pteropus_vampyrus	ACTL6B	ENSPVAG00000012016	Actin	NA
+Pteropus_vampyrus	CECR2	ENSPVAG00000012049	Other_CRF	NA
+Pteropus_vampyrus	BRD1	ENSPVAG00000012051	Bromodomain	NA
+Pteropus_vampyrus	PCGF5	ENSPVAG00000012067	PCGF	NA
+Pteropus_vampyrus	CARM1	ENSPVAG00000012161	Others	NA
+Pteropus_vampyrus	LEO1	ENSPVAG00000012180	Others	NA
+Pteropus_vampyrus	CLU	ENSPVAG00000012193	Others	NA
+Pteropus_vampyrus		ENSPVAG00000012230	Heat shock protein	NA
+Pteropus_vampyrus	SSBP3	ENSPVAG00000012261	Others	NA
+Pteropus_vampyrus	CDK8	ENSPVAG00000012267	Cyclin	NA
+Pteropus_vampyrus	RNF6	ENSPVAG00000012270	Ring finger protein	NA
+Pteropus_vampyrus	PFDN5	ENSPVAG00000012274	Others	NA
+Pteropus_vampyrus	CALCOCO1	ENSPVAG00000012293	Others	NA
+Pteropus_vampyrus		ENSPVAG00000012346	MYC	NA
+Pteropus_vampyrus	PLRG1	ENSPVAG00000012374	Others	NA
+Pteropus_vampyrus	BCL9L	ENSPVAG00000012485	BCL	NA
+Pteropus_vampyrus	PIR	ENSPVAG00000012497	Others	NA
+Pteropus_vampyrus	CSRP3	ENSPVAG00000012521	Others	NA
+Pteropus_vampyrus	TGFB1I1	ENSPVAG00000012530	Others	NA
+Pteropus_vampyrus	WWTR1	ENSPVAG00000012542	WW	NA
+Pteropus_vampyrus		ENSPVAG00000012574	CHD	NA
+Pteropus_vampyrus	HLTF	ENSPVAG00000012583	Others	NA
+Pteropus_vampyrus	GNL3	ENSPVAG00000012586	Others	NA
+Pteropus_vampyrus	FGFR1	ENSPVAG00000012606	FGF	NA
+Pteropus_vampyrus	SFMBT1	ENSPVAG00000012611	Others	NA
+Pteropus_vampyrus		ENSPVAG00000012622	Others	NA
+Pteropus_vampyrus	YWHAB	ENSPVAG00000012662	Others	NA
+Pteropus_vampyrus	PABPC1L	ENSPVAG00000012663	Other_CRF	NA
+Pteropus_vampyrus	TXLNG	ENSPVAG00000012681	Others	NA
+Pteropus_vampyrus	RBBP7	ENSPVAG00000012682	RBBP	NA
+Pteropus_vampyrus	C1D	ENSPVAG00000012692	Other_Co-activator/repressors	NA
+Pteropus_vampyrus	ELP1	ENSPVAG00000012701	ELP	NA
+Pteropus_vampyrus	PARP9	ENSPVAG00000012713	PARP	NA
+Pteropus_vampyrus	PARP15	ENSPVAG00000012719	PARP	NA
+Pteropus_vampyrus	PARP14	ENSPVAG00000012722	PARP	NA
+Pteropus_vampyrus		ENSPVAG00000012765	Casein	NA
+Pteropus_vampyrus	EP300	ENSPVAG00000012771	Others	NA
+Pteropus_vampyrus	L3MBTL2	ENSPVAG00000012775	Others	NA
+Pteropus_vampyrus	ABRA	ENSPVAG00000012808	Actin	NA
+Pteropus_vampyrus	ASCC3	ENSPVAG00000012827	ASCC	NA
+Pteropus_vampyrus	KMT2B	ENSPVAG00000012828	Lysine methyltransferase	NA
+Pteropus_vampyrus	NRIP1	ENSPVAG00000012855	Nuclear receptor coactivator	NA
+Pteropus_vampyrus	NFKBID	ENSPVAG00000012859	NFKB associated	NA
+Pteropus_vampyrus	BRMS1	ENSPVAG00000012863	Other_CRF	NA
+Pteropus_vampyrus	ACTN4	ENSPVAG00000012899	Actin	NA
+Pteropus_vampyrus	RYBP	ENSPVAG00000012905	Others	NA
+Pteropus_vampyrus	EFCAB6	ENSPVAG00000012944	Others	NA
+Pteropus_vampyrus	ECD	ENSPVAG00000012992	Others	NA
+Pteropus_vampyrus	RNF141	ENSPVAG00000013046	Ring finger protein	NA
+Pteropus_vampyrus	TGFB1	ENSPVAG00000013079	Others	NA
+Pteropus_vampyrus	HEXIM2	ENSPVAG00000013115	Others	NA
+Pteropus_vampyrus	ATAD2	ENSPVAG00000013235	Others	NA
+Pteropus_vampyrus	BCAS3	ENSPVAG00000013236	Others	NA
+Pteropus_vampyrus		ENSPVAG00000013237	Other_CRF	NA
+Pteropus_vampyrus	AGO2	ENSPVAG00000013238	Others	NA
+Pteropus_vampyrus	RSF1	ENSPVAG00000013248	Others	NA
+Pteropus_vampyrus	THRSP	ENSPVAG00000013256	Others	NA
+Pteropus_vampyrus	BAZ1A	ENSPVAG00000013283	Bromodomain	NA
+Pteropus_vampyrus	HDAC1	ENSPVAG00000013325	Histone deacetylase	NA
+Pteropus_vampyrus	WWP2	ENSPVAG00000013333	WW	NA
+Pteropus_vampyrus	MED12L	ENSPVAG00000013354	Mediator complex	NA
+Pteropus_vampyrus	TAB3	ENSPVAG00000013356	Others	NA
+Pteropus_vampyrus	MED21	ENSPVAG00000013357	Mediator complex	NA
+Pteropus_vampyrus	CEP290	ENSPVAG00000013442	Others	NA
+Pteropus_vampyrus	MED13L	ENSPVAG00000013460	Mediator complex	NA
+Pteropus_vampyrus	ANP32E	ENSPVAG00000013462	ANP	NA
+Pteropus_vampyrus	MED23	ENSPVAG00000013512	Mediator complex	NA
+Pteropus_vampyrus	STK3	ENSPVAG00000013535	Others	NA
+Pteropus_vampyrus	FBXW7	ENSPVAG00000013542	Others	NA
+Pteropus_vampyrus	TIGD4	ENSPVAG00000013544	CENP	NA
+Pteropus_vampyrus	PHF2	ENSPVAG00000013554	PHF	NA
+Pteropus_vampyrus	SLC30A9	ENSPVAG00000013593	SLC	NA
+Pteropus_vampyrus	PNRC2	ENSPVAG00000013612	Others	NA
+Pteropus_vampyrus	DDX1	ENSPVAG00000013618	RNA helicase	NA
+Pteropus_vampyrus	TAF6	ENSPVAG00000013657	TATA-box	NA
+Pteropus_vampyrus	FHL2	ENSPVAG00000013663	FHL	NA
+Pteropus_vampyrus	HDAC5	ENSPVAG00000013712	Histone deacetylase	NA
+Pteropus_vampyrus	ATXN7L3	ENSPVAG00000013721	Others	NA
+Pteropus_vampyrus	TSPYL2	ENSPVAG00000013733	Others	NA
+Pteropus_vampyrus	ERCC3	ENSPVAG00000013774	Others	NA
+Pteropus_vampyrus	PRMT5	ENSPVAG00000013786	Arginine methyltransferase	NA
+Pteropus_vampyrus	SPEN	ENSPVAG00000013794	Others	NA
+Pteropus_vampyrus	AJUBA	ENSPVAG00000013795	Others	NA
+Pteropus_vampyrus	PINK1	ENSPVAG00000013859	Others	NA
+Pteropus_vampyrus	HEATR1	ENSPVAG00000013860	Others	NA
+Pteropus_vampyrus	ACTN2	ENSPVAG00000013868	Actin	NA
+Pteropus_vampyrus	TOB1	ENSPVAG00000013898	Others	NA
+Pteropus_vampyrus	MBTD1	ENSPVAG00000013903	Others	NA
+Pteropus_vampyrus	BRF1	ENSPVAG00000013913	GTF	NA
+Pteropus_vampyrus	SUV39H2	ENSPVAG00000013929	Others	NA
+Pteropus_vampyrus	S100A9	ENSPVAG00000013936	Others	NA
+Pteropus_vampyrus	SND1	ENSPVAG00000013945	Others	NA
+Pteropus_vampyrus	PID1	ENSPVAG00000013955	Others	NA
+Pteropus_vampyrus		ENSPVAG00000013956	INO80 complex	NA
+Pteropus_vampyrus	PCGF1	ENSPVAG00000013962	PCGF	NA
+Pteropus_vampyrus	TRIM28	ENSPVAG00000013976	Tripartite motif	NA
+Pteropus_vampyrus	LOXL3	ENSPVAG00000013979	Others	NA
+Pteropus_vampyrus	RNF14	ENSPVAG00000014001	Ring finger protein	NA
+Pteropus_vampyrus	COPS2	ENSPVAG00000014002	Others	NA
+Pteropus_vampyrus	TADA1	ENSPVAG00000014119	Transcriptional adaptor	NA
+Pteropus_vampyrus	CIDEA	ENSPVAG00000014184	Others	NA
+Pteropus_vampyrus	NOD2	ENSPVAG00000014192	Others	NA
+Pteropus_vampyrus	KDM1A	ENSPVAG00000014204	Lysine demethylase	NA
+Pteropus_vampyrus	MRTFA	ENSPVAG00000014217	Others	NA
+Pteropus_vampyrus	ARGLU1	ENSPVAG00000014273	Others	NA
+Pteropus_vampyrus	PRPF6	ENSPVAG00000014316	Others	NA
+Pteropus_vampyrus	COPS5	ENSPVAG00000014324	Others	NA
+Pteropus_vampyrus	PAXIP1	ENSPVAG00000014347	Others	NA
+Pteropus_vampyrus	EYA1	ENSPVAG00000014354	EYA	NA
+Pteropus_vampyrus	SKIL	ENSPVAG00000014378	SKI	NA
+Pteropus_vampyrus	SKOR1	ENSPVAG00000014384	SKI	NA
+Pteropus_vampyrus	KDM4A	ENSPVAG00000014431	Lysine demethylase	NA
+Pteropus_vampyrus	RAD21	ENSPVAG00000014438	Others	NA
+Pteropus_vampyrus	TXNIP	ENSPVAG00000014463	Others	NA
+Pteropus_vampyrus	POLR3C	ENSPVAG00000014483	POLR	NA
+Pteropus_vampyrus	SMARCD3	ENSPVAG00000014505	SWI/SNF	NA
+Pteropus_vampyrus	SMYD1	ENSPVAG00000014562	SMYD	NA
+Pteropus_vampyrus	SMURF2	ENSPVAG00000014600	Others	NA
+Pteropus_vampyrus	SUPT20H	ENSPVAG00000014609	SUPT	NA
+Pteropus_vampyrus	C6orf89	ENSPVAG00000014628	Other_CRF	NA
+Pteropus_vampyrus	SAP30	ENSPVAG00000014657	SAP	NA
+Pteropus_vampyrus	LIN9	ENSPVAG00000014687	Others	NA
+Pteropus_vampyrus	COMMD1	ENSPVAG00000014708	Others	NA
+Pteropus_vampyrus	CALR	ENSPVAG00000014715	Others	NA
+Pteropus_vampyrus	MTOR	ENSPVAG00000014783	Others	NA
+Pteropus_vampyrus	TARBP1	ENSPVAG00000014798	Others	NA
+Pteropus_vampyrus	KAT6A	ENSPVAG00000014808	Lysine acetyltransferase	NA
+Pteropus_vampyrus	IKBKB	ENSPVAG00000014813	Others	NA
+Pteropus_vampyrus	KANK1	ENSPVAG00000014838	Others	NA
+Pteropus_vampyrus	TTF2	ENSPVAG00000014881	Others	NA
+Pteropus_vampyrus	SFSWAP	ENSPVAG00000014918	Others	NA
+Pteropus_vampyrus	RBM39	ENSPVAG00000014944	RNA binding protein	NA
+Pteropus_vampyrus	MED6	ENSPVAG00000015024	Mediator complex	NA
+Pteropus_vampyrus	EAF2	ENSPVAG00000015047	Others	NA
+Pteropus_vampyrus	SLTM	ENSPVAG00000015056	Others	NA
+Pteropus_vampyrus	CDK1	ENSPVAG00000015063	Cyclin	NA
+Pteropus_vampyrus	SUPT7L	ENSPVAG00000015222	SUPT	NA
+Pteropus_vampyrus	MAK	ENSPVAG00000015258	Others	NA
+Pteropus_vampyrus	TRIP6	ENSPVAG00000015278	Thyroid hormone receptor	NA
+Pteropus_vampyrus	MNAT1	ENSPVAG00000015308	Others	NA
+Pteropus_vampyrus	TRIP11	ENSPVAG00000015309	Thyroid hormone receptor	NA
+Pteropus_vampyrus	KMT5A	ENSPVAG00000015312	Lysine methyltransferase	NA
+Pteropus_vampyrus	GTF2H3	ENSPVAG00000015323	GTF	NA
+Pteropus_vampyrus	DMAP1	ENSPVAG00000015331	DNA_methylase	NA
+Pteropus_vampyrus	ATRX	ENSPVAG00000015392	Others	NA
+Pteropus_vampyrus	TENM1	ENSPVAG00000015402	Others	NA
+Pteropus_vampyrus	CXXC5	ENSPVAG00000015440	Others	NA
+Pteropus_vampyrus	BIRC2	ENSPVAG00000015448	Others	NA
+Pteropus_vampyrus	MRTFB	ENSPVAG00000015462	Others	NA
+Pteropus_vampyrus		ENSPVAG00000015463	SSX	NA
+Pteropus_vampyrus	MAML1	ENSPVAG00000015490	MAML	NA
+Pteropus_vampyrus	SQSTM1	ENSPVAG00000015501	Others	NA
+Pteropus_vampyrus	SGK1	ENSPVAG00000015517	Others	NA
+Pteropus_vampyrus	SKAP1	ENSPVAG00000015519	Others	NA
+Pteropus_vampyrus		ENSPVAG00000015537	ELP	NA
+Pteropus_vampyrus	CNOT3	ENSPVAG00000015564	CCR4-NOT	NA
+Pteropus_vampyrus	TAF11	ENSPVAG00000015600	TATA-box	NA
+Pteropus_vampyrus	CXXC1	ENSPVAG00000015608	Others	NA
+Pteropus_vampyrus	RBL2	ENSPVAG00000015616	Other_Co-activator/repressors	NA
+Pteropus_vampyrus	CHD9	ENSPVAG00000015617	CHD	NA
+Pteropus_vampyrus	AATF	ENSPVAG00000015638	Others	NA
+Pteropus_vampyrus	HDAC3	ENSPVAG00000015643	Histone deacetylase	NA
+Pteropus_vampyrus	SIVA1	ENSPVAG00000015684	Others	NA
+Pteropus_vampyrus	BRWD1	ENSPVAG00000015689	Bromodomain	NA
+Pteropus_vampyrus	MED28	ENSPVAG00000015716	Mediator complex	NA
+Pteropus_vampyrus	COPRS	ENSPVAG00000015758	Others	NA
+Pteropus_vampyrus	SUZ12	ENSPVAG00000015760	Others	NA
+Pteropus_vampyrus	LMO1	ENSPVAG00000015767	LIM	NA
+Pteropus_vampyrus	BCL9	ENSPVAG00000015770	BCL	NA
+Pteropus_vampyrus	RBBP8	ENSPVAG00000015813	RBBP	NA
+Pteropus_vampyrus	RALY	ENSPVAG00000015827	Others	NA
+Pteropus_vampyrus		ENSPVAG00000015844	Others	NA
+Pteropus_vampyrus	MCRS1	ENSPVAG00000015866	Others	NA
+Pteropus_vampyrus	DNMT3B	ENSPVAG00000015884	DNA_methylase	NA
+Pteropus_vampyrus	ARHGEF5	ENSPVAG00000015919	Others	NA
+Pteropus_vampyrus	BCL3	ENSPVAG00000015934	BCL	NA
+Pteropus_vampyrus		ENSPVAG00000015938	Others	NA
+Pteropus_vampyrus	UTP4	ENSPVAG00000015975	Others	NA
+Pteropus_vampyrus	FHIT	ENSPVAG00000016009	Others	NA
+Pteropus_vampyrus	NOL11	ENSPVAG00000016037	Nuclear coactivator	NA
+Pteropus_vampyrus	GTF2A1	ENSPVAG00000016046	GTF	NA
+Pteropus_vampyrus	MIER2	ENSPVAG00000016076	MIER	NA
+Pteropus_vampyrus	CASP8AP2	ENSPVAG00000016149	Others	NA
+Pteropus_vampyrus	PUF60	ENSPVAG00000016167	Others	NA
+Pteropus_vampyrus	CCND1	ENSPVAG00000016173	Cyclin	NA
+Pteropus_vampyrus	PRMT8	ENSPVAG00000016180	Arginine methyltransferase	NA
+Pteropus_vampyrus	EPC2	ENSPVAG00000016223	Others	NA
+Pteropus_vampyrus	CENPF	ENSPVAG00000016232	CENP	NA
+Pteropus_vampyrus	PDCD4	ENSPVAG00000016247	Others	NA
+Pteropus_vampyrus	MED19	ENSPVAG00000016274	Mediator complex	NA
+Pteropus_vampyrus	CTNND1	ENSPVAG00000016279	Casein	NA
+Pteropus_vampyrus	ACTR8	ENSPVAG00000016289	ACTR	NA
+Pteropus_vampyrus	SAP18	ENSPVAG00000016315	SAP	NA
+Pteropus_vampyrus	SUDS3	ENSPVAG00000016320	Other_Co-activator/repressors	NA
+Pteropus_vampyrus	KDM6B	ENSPVAG00000016339	Lysine demethylase	NA
+Pteropus_vampyrus	CHD3	ENSPVAG00000016344	CHD	NA
+Pteropus_vampyrus		ENSPVAG00000016361	TEF	NA
+Pteropus_vampyrus	TCEAL1	ENSPVAG00000016364	TEF	NA
+Pteropus_vampyrus	MORF4L2	ENSPVAG00000016365	Other_CRF	NA
+Pteropus_vampyrus	AURKB	ENSPVAG00000016378	Others	NA
+Pteropus_vampyrus	NPAT	ENSPVAG00000016398	Nuclear coactivator	NA
+Pteropus_vampyrus	TGS1	ENSPVAG00000016399	Others	NA
+Pteropus_vampyrus	NUP98	ENSPVAG00000016439	Others	NA
+Pteropus_vampyrus	STRAP	ENSPVAG00000016452	Others	NA
+Pteropus_vampyrus	MED12	ENSPVAG00000016492	Mediator complex	NA
+Pteropus_vampyrus	NONO	ENSPVAG00000016503	Others	NA
+Pteropus_vampyrus		ENSPVAG00000016505	TATA-box	NA
+Pteropus_vampyrus	MED14	ENSPVAG00000016571	Mediator complex	NA
+Pteropus_vampyrus	TRIP4	ENSPVAG00000016613	Thyroid hormone receptor	NA
+Pteropus_vampyrus	PRMT7	ENSPVAG00000016630	Arginine methyltransferase	NA
+Pteropus_vampyrus	PARK7	ENSPVAG00000016725	Others	NA
+Pteropus_vampyrus	OGT	ENSPVAG00000016731	Others	NA
+Pteropus_vampyrus		ENSPVAG00000016745	Others	NA
+Pteropus_vampyrus	NCOA4	ENSPVAG00000016758	Nuclear receptor coactivator	NA
+Pteropus_vampyrus		ENSPVAG00000016799	Chromodomain Y	NA
+Pteropus_vampyrus	LIN54	ENSPVAG00000016818	Others	NA
+Pteropus_vampyrus	CTR9	ENSPVAG00000016827	Others	NA
+Pteropus_vampyrus	YAF2	ENSPVAG00000016833	Others	NA
+Pteropus_vampyrus		ENSPVAG00000016910	Bromodomain	NA
+Pteropus_vampyrus	PPID	ENSPVAG00000016913	Others	NA
+Pteropus_vampyrus	KAT5	ENSPVAG00000016949	Lysine acetyltransferase	NA
+Pteropus_vampyrus	CCDC85B	ENSPVAG00000016963	Coiled-coil	NA
+Pteropus_vampyrus	DRAP1	ENSPVAG00000016967	Others	NA
+Pteropus_vampyrus	PSIP1	ENSPVAG00000016981	Others	NA
+Pteropus_vampyrus	RNF4	ENSPVAG00000017017	Ring finger protein	NA
+Pteropus_vampyrus	MED22	ENSPVAG00000017043	Mediator complex	NA
+Pteropus_vampyrus	PAK6	ENSPVAG00000017079	Others	NA
+Pteropus_vampyrus	PRAME	ENSPVAG00000017081	Others	NA
+Pteropus_vampyrus	HYAL2	ENSPVAG00000017115	Others	NA
+Pteropus_vampyrus		ENSPVAG00000017131	Other_CRF	NA
+Pteropus_vampyrus	PRDX5	ENSPVAG00000017135	Others	NA
+Pteropus_vampyrus	CTDSP1	ENSPVAG00000017147	Others	NA
+Pteropus_vampyrus	CNOT9	ENSPVAG00000017152	CCR4-NOT	NA
+Pteropus_vampyrus	RNF25	ENSPVAG00000017156	Ring finger protein	NA
+Pteropus_vampyrus	STK36	ENSPVAG00000017158	Others	NA
+Pteropus_vampyrus	STRN3	ENSPVAG00000017159	Others	NA
+Pteropus_vampyrus	CDK5R2	ENSPVAG00000017171	Cyclin	NA
+Pteropus_vampyrus		ENSPVAG00000017182	Cyclin	NA
+Pteropus_vampyrus	RAB38	ENSPVAG00000017185	Others	NA
+Pteropus_vampyrus	NSMCE4A	ENSPVAG00000017186	EID	NA
+Pteropus_vampyrus	PAGR1	ENSPVAG00000017212	Others	NA
+Pteropus_vampyrus	MED30	ENSPVAG00000017221	Mediator complex	NA
+Pteropus_vampyrus	TRIM11	ENSPVAG00000017236	Tripartite motif	NA
+Pteropus_vampyrus	ZNF593	ENSPVAG00000017253	Zinc finger	NA
+Pteropus_vampyrus	NUDT5	ENSPVAG00000017294	Other_CRF	NA
+Pteropus_vampyrus	KDM4B	ENSPVAG00000017297	Lysine demethylase	NA
+Pteropus_vampyrus	DTX1	ENSPVAG00000017343	Others	NA
+Pteropus_vampyrus	DDX54	ENSPVAG00000017347	RNA helicase	NA
+Pteropus_vampyrus	ADRB2	ENSPVAG00000017405	Others	NA
+Pteropus_vampyrus	TAF9B	ENSPVAG00000017408	TATA-box	NA
+Pteropus_vampyrus	DAPK3	ENSPVAG00000017494	Others	NA
+Pteropus_vampyrus		ENSPVAG00000017512	Others	NA
+Pteropus_vampyrus	ASF1B	ENSPVAG00000017558	Others	NA
+Pteropus_vampyrus	PCGF3	ENSPVAG00000017562	PCGF	NA
+Pteropus_vampyrus	MYOCD	ENSPVAG00000017566	Others	NA
+Pteropus_vampyrus	TLE4	ENSPVAG00000017591	Transducin	NA
+Pteropus_vampyrus	MED18	ENSPVAG00000017599	Mediator complex	NA
+Pteropus_vampyrus		ENSPVAG00000017620	Histone cluster 1 H1	NA
+Pteropus_vampyrus	NAB1	ENSPVAG00000017639	Others	NA
+Pteropus_vampyrus	RLIM	ENSPVAG00000017672	Ring finger protein	NA
+Pteropus_vampyrus	DPPA2	ENSPVAG00000017688	Others	NA
+Pteropus_vampyrus	ZNF451	ENSPVAG00000017691	Zinc finger	NA
+Pteropus_vampyrus	SSU72	ENSPVAG00000017695	Others	NA
+Pteropus_vampyrus	SIRT3	ENSPVAG00000017703	Sirtuin	NA
+Pteropus_vampyrus	HTATIP2	ENSPVAG00000017705	Others	NA
+Pteropus_vampyrus	CREG1	ENSPVAG00000017737	Others	NA
+Pteropus_vampyrus	RBL1	ENSPVAG00000017778	Other_Co-activator/repressors	NA
+Pteropus_vampyrus	SRC	ENSPVAG00000017785	Others	NA
+Pteropus_vampyrus	DNAJA3	ENSPVAG00000017807	Others	NA
+Pteropus_vampyrus	ASH1L	ENSPVAG00000017858	Others	NA
+Pteropus_vampyrus	ZMYND11	ENSPVAG00000017861	Zinc finger	NA
+Pteropus_vampyrus	ALYREF	ENSPVAG00000017866	Others	NA
+Pteropus_vampyrus	THOC5	ENSPVAG00000017870	Others	NA
+Pteropus_vampyrus	SIRT7	ENSPVAG00000017872	Sirtuin	NA
+Pteropus_vampyrus	ASCC2	ENSPVAG00000017883	ASCC	NA
+Pteropus_vampyrus	HELLS	ENSPVAG00000017899	Others	NA
+Pteropus_vampyrus	TAF4	ENSPVAG00000017917	TATA-box	NA
+Pteropus_vampyrus	SS18L1	ENSPVAG00000017920	SS18	NA
+Pteropus_vampyrus	CTBP2	ENSPVAG00000017929	Others	NA
+Pteropus_vampyrus	NRBF2	ENSPVAG00000017944	Nuclear receptor coactivator	NA
+Pteropus_vampyrus	JMJD1C	ENSPVAG00000017945	Other_CRF	NA

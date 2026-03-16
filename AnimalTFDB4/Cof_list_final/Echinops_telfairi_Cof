@@ -1,0 +1,768 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Echinops_telfairi	MED10	ENSETEG00000000027	Mediator complex	101658202
+Echinops_telfairi	MED11	ENSETEG00000000222	Mediator complex	101660841
+Echinops_telfairi	CCDC59	ENSETEG00000000256	Coiled-coil	101650729
+Echinops_telfairi		ENSETEG00000000261	Nuclear receptor coactivator	NA
+Echinops_telfairi	PRDX5	ENSETEG00000000264	Others	NA
+Echinops_telfairi	INO80	ENSETEG00000000288	INO80 complex	NA
+Echinops_telfairi		ENSETEG00000000292	SSX	NA
+Echinops_telfairi	CCDC85B	ENSETEG00000000346	Coiled-coil	NA
+Echinops_telfairi	SND1	ENSETEG00000000375	Others	NA
+Echinops_telfairi	PHF8	ENSETEG00000000388	PHF	NA
+Echinops_telfairi	PAF1	ENSETEG00000000404	Others	NA
+Echinops_telfairi	MED29	ENSETEG00000000406	Mediator complex	101639764
+Echinops_telfairi	EPC1	ENSETEG00000000440	Others	NA
+Echinops_telfairi	KDM4A	ENSETEG00000000445	Lysine demethylase	NA
+Echinops_telfairi		ENSETEG00000000453	Others	NA
+Echinops_telfairi	PLK2	ENSETEG00000000552	Others	101642662
+Echinops_telfairi		ENSETEG00000000568	Other_CRF	NA
+Echinops_telfairi	PHIP	ENSETEG00000000570	Others	NA
+Echinops_telfairi	CNOT6L	ENSETEG00000000589	CCR4-NOT	NA
+Echinops_telfairi	KDM7A	ENSETEG00000000607	Lysine demethylase	NA
+Echinops_telfairi	HCLS1	ENSETEG00000000660	Others	NA
+Echinops_telfairi	ASCC1	ENSETEG00000000692	ASCC	NA
+Echinops_telfairi	WBP2	ENSETEG00000000716	WW	101659448
+Echinops_telfairi	TPR	ENSETEG00000000753	Others	NA
+Echinops_telfairi	ARRDC4	ENSETEG00000000798	Others	NA
+Echinops_telfairi		ENSETEG00000000800	Others	NA
+Echinops_telfairi		ENSETEG00000000811	Others	NA
+Echinops_telfairi	UTP4	ENSETEG00000000859	Others	NA
+Echinops_telfairi	APBB1	ENSETEG00000000871	Others	NA
+Echinops_telfairi	RIPPLY1	ENSETEG00000000978	Others	NA
+Echinops_telfairi	C6orf89	ENSETEG00000000999	Other_CRF	NA
+Echinops_telfairi		ENSETEG00000001003	MAML	NA
+Echinops_telfairi	LIN54	ENSETEG00000001008	Others	NA
+Echinops_telfairi	BTRC	ENSETEG00000001031	Others	NA
+Echinops_telfairi	MAML3	ENSETEG00000001036	MAML	NA
+Echinops_telfairi	CD3D	ENSETEG00000001096	Others	NA
+Echinops_telfairi		ENSETEG00000001141	Others	NA
+Echinops_telfairi	MLLT3	ENSETEG00000001142	GTF	NA
+Echinops_telfairi	PHF1	ENSETEG00000001148	PHF	NA
+Echinops_telfairi	LOXL2	ENSETEG00000001152	Others	NA
+Echinops_telfairi	ASH1L	ENSETEG00000001159	Others	NA
+Echinops_telfairi	ACTN1	ENSETEG00000001200	Actin	NA
+Echinops_telfairi		ENSETEG00000001204	Tripartite motif	NA
+Echinops_telfairi	CBX5	ENSETEG00000001220	Chromobox	101638037
+Echinops_telfairi	TAF2	ENSETEG00000001294	TATA-box	NA
+Echinops_telfairi	URI1	ENSETEG00000001311	Others	NA
+Echinops_telfairi	SMARCA5	ENSETEG00000001315	SWI/SNF	NA
+Echinops_telfairi	PSIP1	ENSETEG00000001332	Others	NA
+Echinops_telfairi	TAF15	ENSETEG00000001337	TATA-box	NA
+Echinops_telfairi	BRD1	ENSETEG00000001347	Bromodomain	NA
+Echinops_telfairi	DAPK2	ENSETEG00000001356	Others	101647387
+Echinops_telfairi	HELLS	ENSETEG00000001367	Others	NA
+Echinops_telfairi		ENSETEG00000001378	Others	NA
+Echinops_telfairi	KDM1A	ENSETEG00000001401	Lysine demethylase	NA
+Echinops_telfairi	SSBP2	ENSETEG00000001418	Others	NA
+Echinops_telfairi	CNOT7	ENSETEG00000001515	CCR4-NOT	NA
+Echinops_telfairi	HIPK2	ENSETEG00000001529	HIPK	NA
+Echinops_telfairi	TRIP4	ENSETEG00000001597	Thyroid hormone receptor	NA
+Echinops_telfairi	TOP1	ENSETEG00000001621	Other_CRF	NA
+Echinops_telfairi	DNAJA3	ENSETEG00000001622	Others	NA
+Echinops_telfairi		ENSETEG00000001634	Others	NA
+Echinops_telfairi	RNF4	ENSETEG00000001683	Ring finger protein	NA
+Echinops_telfairi		ENSETEG00000001694	CCR4-NOT	NA
+Echinops_telfairi	WHAMM	ENSETEG00000001700	Others	NA
+Echinops_telfairi	NFATC2IP	ENSETEG00000001722	Nuclear coactivator	NA
+Echinops_telfairi	XRN2	ENSETEG00000001740	Others	NA
+Echinops_telfairi		ENSETEG00000001747	TATA-box	NA
+Echinops_telfairi	UXT	ENSETEG00000001771	Others	NA
+Echinops_telfairi	MED31	ENSETEG00000001907	Mediator complex	101644106
+Echinops_telfairi		ENSETEG00000001919	Others	NA
+Echinops_telfairi		ENSETEG00000001971	Others	NA
+Echinops_telfairi	MPHOSPH8	ENSETEG00000001973	Others	NA
+Echinops_telfairi	ZMYND8	ENSETEG00000001974	Zinc finger	NA
+Echinops_telfairi	HCFC1	ENSETEG00000002028	Others	NA
+Echinops_telfairi	CNOT11	ENSETEG00000002098	CCR4-NOT	NA
+Echinops_telfairi	PFDN5	ENSETEG00000002111	Others	NA
+Echinops_telfairi	LZTS1	ENSETEG00000002149	Others	NA
+Echinops_telfairi	METAP2	ENSETEG00000002189	Others	101655952
+Echinops_telfairi		ENSETEG00000002260	Histone deacetylase	NA
+Echinops_telfairi	PHF19	ENSETEG00000002306	PHF	NA
+Echinops_telfairi	SUFU	ENSETEG00000002367	Others	NA
+Echinops_telfairi	TRIM8	ENSETEG00000002370	Tripartite motif	NA
+Echinops_telfairi	BTAF1	ENSETEG00000002447	Others	NA
+Echinops_telfairi	RBM15	ENSETEG00000002452	RNA binding protein	NA
+Echinops_telfairi	PEX14	ENSETEG00000002464	Others	101638470
+Echinops_telfairi	MMS19	ENSETEG00000002473	Others	NA
+Echinops_telfairi	EP300	ENSETEG00000002487	Others	NA
+Echinops_telfairi	HAT1	ENSETEG00000002539	Others	NA
+Echinops_telfairi	POLR2A	ENSETEG00000002540	POLR	NA
+Echinops_telfairi	BAZ1B	ENSETEG00000002632	Bromodomain	NA
+Echinops_telfairi		ENSETEG00000002643	Cyclin	NA
+Echinops_telfairi	CTDSP2	ENSETEG00000002701	Others	NA
+Echinops_telfairi	DPPA4	ENSETEG00000002722	Others	NA
+Echinops_telfairi		ENSETEG00000002726	RNA helicase	NA
+Echinops_telfairi	ELL2	ENSETEG00000002785	GTF	101652387
+Echinops_telfairi	PARP14	ENSETEG00000002790	PARP	NA
+Echinops_telfairi	LEO1	ENSETEG00000002814	Others	NA
+Echinops_telfairi	BRCA1	ENSETEG00000002829	Others	NA
+Echinops_telfairi	TBPL2	ENSETEG00000002834	TATA-box	NA
+Echinops_telfairi	NOTCH4	ENSETEG00000002861	Notch	NA
+Echinops_telfairi	DAB2	ENSETEG00000002867	Others	NA
+Echinops_telfairi		ENSETEG00000002870	Cyclin	NA
+Echinops_telfairi	ERBB2	ENSETEG00000002908	Erbb2	NA
+Echinops_telfairi		ENSETEG00000002917	Others	NA
+Echinops_telfairi		ENSETEG00000002953	Other_CRF	NA
+Echinops_telfairi	RNF20	ENSETEG00000002997	Ring finger protein	NA
+Echinops_telfairi	ARHGAP5	ENSETEG00000003000	Others	NA
+Echinops_telfairi		ENSETEG00000003011	Mediator complex	NA
+Echinops_telfairi		ENSETEG00000003012	Casein	NA
+Echinops_telfairi	TRAK2	ENSETEG00000003041	Others	NA
+Echinops_telfairi		ENSETEG00000003065	Others	NA
+Echinops_telfairi	BTG1	ENSETEG00000003130	Others	NA
+Echinops_telfairi	ASF1A	ENSETEG00000003232	Others	105978546
+Echinops_telfairi		ENSETEG00000003238	Others	NA
+Echinops_telfairi	TLE4	ENSETEG00000003352	Transducin	NA
+Echinops_telfairi	PDLIM4	ENSETEG00000003446	Others	NA
+Echinops_telfairi	RLIM	ENSETEG00000003468	Ring finger protein	101641898
+Echinops_telfairi	SLC25A15	ENSETEG00000003469	SLC	101660591
+Echinops_telfairi	SUPT20H	ENSETEG00000003501	SUPT	NA
+Echinops_telfairi	AATF	ENSETEG00000003518	Others	101648575
+Echinops_telfairi	RGCC	ENSETEG00000003529	Others	NA
+Echinops_telfairi	THRAP3	ENSETEG00000003542	Thyroid hormone receptor	NA
+Echinops_telfairi	LDB2	ENSETEG00000003574	LIM	NA
+Echinops_telfairi	KAT2B	ENSETEG00000003600	Lysine acetyltransferase	NA
+Echinops_telfairi	STRN3	ENSETEG00000003611	Others	NA
+Echinops_telfairi	GMNN	ENSETEG00000003616	Others	101652965
+Echinops_telfairi	MED6	ENSETEG00000003636	Mediator complex	NA
+Echinops_telfairi		ENSETEG00000003652	Others	NA
+Echinops_telfairi	RNF8	ENSETEG00000003665	Ring finger protein	NA
+Echinops_telfairi	PCGF1	ENSETEG00000003666	PCGF	NA
+Echinops_telfairi	TRIM25	ENSETEG00000003682	Tripartite motif	NA
+Echinops_telfairi		ENSETEG00000003707	SWI/SNF	NA
+Echinops_telfairi	SIVA1	ENSETEG00000003708	Others	NA
+Echinops_telfairi		ENSETEG00000003797	ASCC	NA
+Echinops_telfairi		ENSETEG00000003804	Others	NA
+Echinops_telfairi		ENSETEG00000003827	GTF	NA
+Echinops_telfairi	TAF1B	ENSETEG00000003853	TATA-box	NA
+Echinops_telfairi	EWSR1	ENSETEG00000003856	Others	NA
+Echinops_telfairi		ENSETEG00000003898	SWI/SNF	NA
+Echinops_telfairi		ENSETEG00000003921	GTF	NA
+Echinops_telfairi	RAF1	ENSETEG00000003974	Others	NA
+Echinops_telfairi		ENSETEG00000003989	Others	NA
+Echinops_telfairi	TCEAL1	ENSETEG00000004018	TEF	NA
+Echinops_telfairi	CCNE1	ENSETEG00000004030	Cyclin	101649401
+Echinops_telfairi	LANCL2	ENSETEG00000004034	Others	NA
+Echinops_telfairi	LPXN	ENSETEG00000004142	Others	NA
+Echinops_telfairi	HEATR1	ENSETEG00000004144	Others	NA
+Echinops_telfairi	ERN1	ENSETEG00000004162	Others	NA
+Echinops_telfairi		ENSETEG00000004176	Others	NA
+Echinops_telfairi	MED13L	ENSETEG00000004211	Mediator complex	NA
+Echinops_telfairi	GTF2A2	ENSETEG00000004218	GTF	NA
+Echinops_telfairi	PHF12	ENSETEG00000004263	PHF	NA
+Echinops_telfairi	WDR61	ENSETEG00000004321	WD	NA
+Echinops_telfairi		ENSETEG00000004332	Others	101650032
+Echinops_telfairi	SAMD4B	ENSETEG00000004346	Others	NA
+Echinops_telfairi	CSRP3	ENSETEG00000004362	Others	NA
+Echinops_telfairi	CCNT1	ENSETEG00000004370	Cyclin	NA
+Echinops_telfairi	ATF7IP	ENSETEG00000004381	Others	NA
+Echinops_telfairi	PCGF6	ENSETEG00000004417	PCGF	NA
+Echinops_telfairi		ENSETEG00000004423	Others	NA
+Echinops_telfairi	PRPF6	ENSETEG00000004447	Others	NA
+Echinops_telfairi		ENSETEG00000004450	CITED	NA
+Echinops_telfairi	JMJD1C	ENSETEG00000004451	Other_CRF	NA
+Echinops_telfairi		ENSETEG00000004460	Others	NA
+Echinops_telfairi	ESF1	ENSETEG00000004471	Others	NA
+Echinops_telfairi		ENSETEG00000004523	Others	NA
+Echinops_telfairi	ERCC2	ENSETEG00000004529	Others	NA
+Echinops_telfairi	EAF1	ENSETEG00000004576	Others	NA
+Echinops_telfairi	ATF7IP2	ENSETEG00000004581	Others	NA
+Echinops_telfairi		ENSETEG00000004585	Others	NA
+Echinops_telfairi		ENSETEG00000004611	Others	NA
+Echinops_telfairi	ANKAR	ENSETEG00000004628	Ankyrin repeat	NA
+Echinops_telfairi	FBXW11	ENSETEG00000004637	Others	NA
+Echinops_telfairi	DCAF6	ENSETEG00000004639	Others	NA
+Echinops_telfairi		ENSETEG00000004683	Others	NA
+Echinops_telfairi	SUPT3H	ENSETEG00000004704	SUPT	NA
+Echinops_telfairi	TARBP1	ENSETEG00000004737	Others	NA
+Echinops_telfairi	NRIP1	ENSETEG00000004808	Nuclear receptor coactivator	101658914
+Echinops_telfairi	MED13	ENSETEG00000004823	Mediator complex	NA
+Echinops_telfairi	TLE1	ENSETEG00000004827	Transducin	NA
+Echinops_telfairi		ENSETEG00000004855	Others	101650609
+Echinops_telfairi		ENSETEG00000004901	Cyclin	NA
+Echinops_telfairi	OGT	ENSETEG00000004924	Others	NA
+Echinops_telfairi	TRIP11	ENSETEG00000004944	Thyroid hormone receptor	NA
+Echinops_telfairi	PAK1	ENSETEG00000005004	Others	NA
+Echinops_telfairi		ENSETEG00000005039	MBD	115873075
+Echinops_telfairi	KDM4C	ENSETEG00000005045	Lysine demethylase	NA
+Echinops_telfairi	TGS1	ENSETEG00000005126	Others	NA
+Echinops_telfairi	EYA4	ENSETEG00000005172	EYA	NA
+Echinops_telfairi	PRMT7	ENSETEG00000005176	Arginine methyltransferase	NA
+Echinops_telfairi	IKBKB	ENSETEG00000005205	Others	NA
+Echinops_telfairi	SS18	ENSETEG00000005228	SS18	NA
+Echinops_telfairi	HDGF	ENSETEG00000005243	Others	NA
+Echinops_telfairi	RSF1	ENSETEG00000005263	Others	NA
+Echinops_telfairi	AIP	ENSETEG00000005294	Others	NA
+Echinops_telfairi	BCL10	ENSETEG00000005322	BCL	101646857
+Echinops_telfairi		ENSETEG00000005386	Others	NA
+Echinops_telfairi	HIRA	ENSETEG00000005420	Others	NA
+Echinops_telfairi		ENSETEG00000005423	Others	NA
+Echinops_telfairi		ENSETEG00000005428	Others	NA
+Echinops_telfairi	HLTF	ENSETEG00000005442	Others	NA
+Echinops_telfairi	PRMT5	ENSETEG00000005453	Arginine methyltransferase	NA
+Echinops_telfairi	TERF2IP	ENSETEG00000005496	Others	NA
+Echinops_telfairi	NIPBL	ENSETEG00000005501	Others	NA
+Echinops_telfairi	SAP18	ENSETEG00000005565	SAP	NA
+Echinops_telfairi	NFKBIZ	ENSETEG00000005581	NFKB associated	NA
+Echinops_telfairi	TRIM37	ENSETEG00000005585	Tripartite motif	NA
+Echinops_telfairi		ENSETEG00000005604	Others	NA
+Echinops_telfairi	RBFOX2	ENSETEG00000005638	Others	NA
+Echinops_telfairi	TAF5	ENSETEG00000005642	TATA-box	NA
+Echinops_telfairi	WWP2	ENSETEG00000005730	WW	NA
+Echinops_telfairi	BCOR	ENSETEG00000005739	Other_Co-activator/repressors	NA
+Echinops_telfairi	RASD1	ENSETEG00000005822	Others	101642801
+Echinops_telfairi	NSMCE4A	ENSETEG00000005835	EID	NA
+Echinops_telfairi	WNT3	ENSETEG00000005881	Others	NA
+Echinops_telfairi	TOPORS	ENSETEG00000005900	Others	NA
+Echinops_telfairi		ENSETEG00000005912	CHD	NA
+Echinops_telfairi	TGFB1I1	ENSETEG00000005955	Others	NA
+Echinops_telfairi		ENSETEG00000005970	Others	NA
+Echinops_telfairi		ENSETEG00000006025	Vestigial like	NA
+Echinops_telfairi	RBL2	ENSETEG00000006041	Other_Co-activator/repressors	NA
+Echinops_telfairi	PRMT2	ENSETEG00000006076	Arginine methyltransferase	NA
+Echinops_telfairi	RAB27B	ENSETEG00000006089	Others	101650329
+Echinops_telfairi	DYRK1A	ENSETEG00000006110	Others	NA
+Echinops_telfairi	GTF2A1	ENSETEG00000006142	GTF	NA
+Echinops_telfairi	MED21	ENSETEG00000006223	Mediator complex	101643365
+Echinops_telfairi	LGALS4	ENSETEG00000006256	Others	NA
+Echinops_telfairi	MED24	ENSETEG00000006257	Mediator complex	NA
+Echinops_telfairi	SIRT2	ENSETEG00000006258	Sirtuin	NA
+Echinops_telfairi	CNOT3	ENSETEG00000006305	CCR4-NOT	NA
+Echinops_telfairi	NPM3	ENSETEG00000006307	Nucleoplasmin	101660221
+Echinops_telfairi	TDRD3	ENSETEG00000006369	Others	NA
+Echinops_telfairi		ENSETEG00000006377	Others	NA
+Echinops_telfairi	GTF2H1	ENSETEG00000006383	GTF	NA
+Echinops_telfairi	DPY30	ENSETEG00000006389	Others	NA
+Echinops_telfairi	NUDT5	ENSETEG00000006403	Other_CRF	NA
+Echinops_telfairi	FGF20	ENSETEG00000006421	FGF	NA
+Echinops_telfairi	BAZ1A	ENSETEG00000006426	Bromodomain	NA
+Echinops_telfairi	SS18L1	ENSETEG00000006427	SS18	NA
+Echinops_telfairi	INO80E	ENSETEG00000006431	INO80 complex	NA
+Echinops_telfairi	TRRAP	ENSETEG00000006437	Others	NA
+Echinops_telfairi	CTNNB1	ENSETEG00000006456	Casein	NA
+Echinops_telfairi	CHCHD3	ENSETEG00000006503	Coiled-coil	NA
+Echinops_telfairi	VGLL3	ENSETEG00000006515	Vestigial like	NA
+Echinops_telfairi	TRIM33	ENSETEG00000006521	Tripartite motif	NA
+Echinops_telfairi	TGFB2	ENSETEG00000006537	Others	NA
+Echinops_telfairi	CNOT9	ENSETEG00000006614	CCR4-NOT	NA
+Echinops_telfairi	WAC	ENSETEG00000006618	WW	NA
+Echinops_telfairi		ENSETEG00000006653	Others	NA
+Echinops_telfairi		ENSETEG00000006657	Others	NA
+Echinops_telfairi		ENSETEG00000006691	Others	NA
+Echinops_telfairi	MRTFA	ENSETEG00000006697	Others	NA
+Echinops_telfairi	SETD2	ENSETEG00000006721	SET	NA
+Echinops_telfairi	NOD2	ENSETEG00000006727	Others	NA
+Echinops_telfairi		ENSETEG00000006747	Other_CRF	NA
+Echinops_telfairi	DNAJB4	ENSETEG00000006777	Others	101654466
+Echinops_telfairi	MED27	ENSETEG00000006789	Mediator complex	101656413
+Echinops_telfairi	JAK2	ENSETEG00000006901	Others	NA
+Echinops_telfairi		ENSETEG00000006963	Others	NA
+Echinops_telfairi	CNOT6	ENSETEG00000006975	CCR4-NOT	NA
+Echinops_telfairi		ENSETEG00000007010	SLC	NA
+Echinops_telfairi	TLE2	ENSETEG00000007011	Transducin	NA
+Echinops_telfairi	MED4	ENSETEG00000007061	Mediator complex	NA
+Echinops_telfairi	NAB1	ENSETEG00000007065	Others	NA
+Echinops_telfairi		ENSETEG00000007099	Others	NA
+Echinops_telfairi	TRIB2	ENSETEG00000007113	Others	NA
+Echinops_telfairi	DPF1	ENSETEG00000007173	DPF	NA
+Echinops_telfairi	SS18L2	ENSETEG00000007192	SS18	101655143
+Echinops_telfairi		ENSETEG00000007211	TATA-box	NA
+Echinops_telfairi		ENSETEG00000007267	Bromodomain	NA
+Echinops_telfairi	NIF3L1	ENSETEG00000007279	Others	NA
+Echinops_telfairi		ENSETEG00000007281	Others	NA
+Echinops_telfairi	CEP290	ENSETEG00000007292	Others	NA
+Echinops_telfairi		ENSETEG00000007294	Others	NA
+Echinops_telfairi	RHOB	ENSETEG00000007301	Others	NA
+Echinops_telfairi	UFL1	ENSETEG00000007315	Others	NA
+Echinops_telfairi	FHL5	ENSETEG00000007318	FHL	NA
+Echinops_telfairi	RNF25	ENSETEG00000007361	Ring finger protein	101661289
+Echinops_telfairi	STK36	ENSETEG00000007364	Others	NA
+Echinops_telfairi	NCK1	ENSETEG00000007365	Others	NA
+Echinops_telfairi	PRMT1	ENSETEG00000007396	Arginine methyltransferase	NA
+Echinops_telfairi		ENSETEG00000007442	Others	101653299
+Echinops_telfairi	ELL3	ENSETEG00000007460	GTF	101651489
+Echinops_telfairi	TAB1	ENSETEG00000007478	Others	NA
+Echinops_telfairi	TSG101	ENSETEG00000007520	Others	NA
+Echinops_telfairi	SRC	ENSETEG00000007521	Others	NA
+Echinops_telfairi	ENO2	ENSETEG00000007582	Others	NA
+Echinops_telfairi	GRIP1	ENSETEG00000007584	Others	NA
+Echinops_telfairi	AGO1	ENSETEG00000007626	Others	NA
+Echinops_telfairi	CNOT2	ENSETEG00000007655	CCR4-NOT	NA
+Echinops_telfairi	SFRP4	ENSETEG00000007680	Others	NA
+Echinops_telfairi		ENSETEG00000007772	Others	NA
+Echinops_telfairi	KDM6A	ENSETEG00000007802	Lysine demethylase	NA
+Echinops_telfairi		ENSETEG00000007883	Lysine demethylase	NA
+Echinops_telfairi	CBL	ENSETEG00000007952	Others	NA
+Echinops_telfairi	PQBP1	ENSETEG00000007961	Others	101640619
+Echinops_telfairi	FBP2	ENSETEG00000007962	Others	NA
+Echinops_telfairi	PIM2	ENSETEG00000007968	Others	NA
+Echinops_telfairi		ENSETEG00000007985	Others	101652297
+Echinops_telfairi	ATAD1	ENSETEG00000007992	Thyroid hormone receptor	NA
+Echinops_telfairi	SLTM	ENSETEG00000008003	Others	NA
+Echinops_telfairi	PRMT8	ENSETEG00000008011	Arginine methyltransferase	NA
+Echinops_telfairi	SAV1	ENSETEG00000008021	Others	NA
+Echinops_telfairi		ENSETEG00000008024	Others	NA
+Echinops_telfairi	AEBP1	ENSETEG00000008050	Others	NA
+Echinops_telfairi	PIR	ENSETEG00000008150	Others	NA
+Echinops_telfairi	CDK1	ENSETEG00000008169	Cyclin	NA
+Echinops_telfairi	ZMYM2	ENSETEG00000008178	Zinc finger	NA
+Echinops_telfairi	CTH	ENSETEG00000008200	Others	NA
+Echinops_telfairi	BRD2	ENSETEG00000008209	Bromodomain	NA
+Echinops_telfairi	ZMYND11	ENSETEG00000008222	Zinc finger	NA
+Echinops_telfairi	CRY1	ENSETEG00000008264	Others	NA
+Echinops_telfairi	AUTS2	ENSETEG00000008270	Others	NA
+Echinops_telfairi	RBM15B	ENSETEG00000008333	RNA binding protein	NA
+Echinops_telfairi	DCAF1	ENSETEG00000008336	Others	NA
+Echinops_telfairi	SIRT7	ENSETEG00000008342	Sirtuin	NA
+Echinops_telfairi		ENSETEG00000008357	Others	NA
+Echinops_telfairi	BTK	ENSETEG00000008404	Others	NA
+Echinops_telfairi	CDK9	ENSETEG00000008420	Cyclin	NA
+Echinops_telfairi		ENSETEG00000008430	RNA helicase	NA
+Echinops_telfairi	CHD1L	ENSETEG00000008445	CHD	NA
+Echinops_telfairi	CHUK	ENSETEG00000008453	Others	NA
+Echinops_telfairi	XIAP	ENSETEG00000008467	Others	NA
+Echinops_telfairi		ENSETEG00000008468	Histone deacetylase	NA
+Echinops_telfairi	CAVIN1	ENSETEG00000008546	Others	NA
+Echinops_telfairi	EZH1	ENSETEG00000008561	Others	NA
+Echinops_telfairi	SKAP1	ENSETEG00000008617	Others	NA
+Echinops_telfairi	HYAL2	ENSETEG00000008624	Others	NA
+Echinops_telfairi	TCERG1	ENSETEG00000008680	TEF	NA
+Echinops_telfairi	RBM14	ENSETEG00000008737	RNA binding protein	NA
+Echinops_telfairi	WWTR1	ENSETEG00000008764	WW	NA
+Echinops_telfairi	MRTFB	ENSETEG00000008792	Others	NA
+Echinops_telfairi	CRTC2	ENSETEG00000008802	CREB	NA
+Echinops_telfairi	ILK	ENSETEG00000008882	Others	NA
+Echinops_telfairi	TAF10	ENSETEG00000008886	TATA-box	101652591
+Echinops_telfairi	SKIL	ENSETEG00000008910	SKI	NA
+Echinops_telfairi	NIBAN2	ENSETEG00000008950	FAM	NA
+Echinops_telfairi		ENSETEG00000008995	Others	NA
+Echinops_telfairi		ENSETEG00000009013	Others	NA
+Echinops_telfairi	EAPP	ENSETEG00000009023	Others	NA
+Echinops_telfairi	RNF111	ENSETEG00000009035	Ring finger protein	NA
+Echinops_telfairi	POLE4	ENSETEG00000009092	Other_CRF	101651057
+Echinops_telfairi	DHX36	ENSETEG00000009104	RNA helicase	NA
+Echinops_telfairi	ERBB4	ENSETEG00000009141	Erbb2	NA
+Echinops_telfairi	ARHGAP35	ENSETEG00000009197	Others	NA
+Echinops_telfairi	PPARGC1B	ENSETEG00000009222	Others	NA
+Echinops_telfairi		ENSETEG00000009240	Mediator complex	NA
+Echinops_telfairi	RNF10	ENSETEG00000009277	Ring finger protein	NA
+Echinops_telfairi	NSD3	ENSETEG00000009300	Nuclear receptor coactivator	NA
+Echinops_telfairi	KDM2A	ENSETEG00000009328	Lysine demethylase	NA
+Echinops_telfairi	GSK3B	ENSETEG00000009355	Others	NA
+Echinops_telfairi		ENSETEG00000009386	Heat shock protein	101660593
+Echinops_telfairi	MED30	ENSETEG00000009453	Mediator complex	101661974
+Echinops_telfairi	TOB1	ENSETEG00000009459	Others	NA
+Echinops_telfairi	RAD21	ENSETEG00000009475	Others	NA
+Echinops_telfairi	HDAC7	ENSETEG00000009479	Histone deacetylase	NA
+Echinops_telfairi		ENSETEG00000009497	SUPT	NA
+Echinops_telfairi	BRIP1	ENSETEG00000009527	Others	NA
+Echinops_telfairi	FGFR1	ENSETEG00000009560	FGF	NA
+Echinops_telfairi	CHD9	ENSETEG00000009565	CHD	NA
+Echinops_telfairi	OPTN	ENSETEG00000009589	Others	NA
+Echinops_telfairi	CHD1	ENSETEG00000009629	CHD	NA
+Echinops_telfairi	MORF4L2	ENSETEG00000009630	Other_CRF	NA
+Echinops_telfairi	RUVBL1	ENSETEG00000009642	Other_CRF	NA
+Echinops_telfairi	DDX39B	ENSETEG00000009649	RNA helicase	NA
+Echinops_telfairi		ENSETEG00000009660	CAMK	NA
+Echinops_telfairi	FHL3	ENSETEG00000009663	FHL	101644775
+Echinops_telfairi		ENSETEG00000009695	Lysine methyltransferase	NA
+Echinops_telfairi	DHX9	ENSETEG00000009729	RNA helicase	NA
+Echinops_telfairi		ENSETEG00000009762	Nuclear coactivator	NA
+Echinops_telfairi		ENSETEG00000009790	Others	NA
+Echinops_telfairi	DPF2	ENSETEG00000009861	DPF	NA
+Echinops_telfairi	HIPK1	ENSETEG00000009883	HIPK	NA
+Echinops_telfairi		ENSETEG00000009947	Others	NA
+Echinops_telfairi	CDK12	ENSETEG00000009954	Cyclin	NA
+Echinops_telfairi	YWHAB	ENSETEG00000009967	Others	101650912
+Echinops_telfairi	PABPC1L	ENSETEG00000009969	Other_CRF	NA
+Echinops_telfairi	TAF1A	ENSETEG00000010126	TATA-box	NA
+Echinops_telfairi		ENSETEG00000010140	CENP	NA
+Echinops_telfairi	SAG	ENSETEG00000010197	Others	NA
+Echinops_telfairi	SGK1	ENSETEG00000010201	Others	NA
+Echinops_telfairi		ENSETEG00000010207	Other_CRF	NA
+Echinops_telfairi	GTF2E1	ENSETEG00000010209	GTF	101653573
+Echinops_telfairi	NMI	ENSETEG00000010210	Others	NA
+Echinops_telfairi	KCNIP4	ENSETEG00000010253	Others	NA
+Echinops_telfairi	SLC26A3	ENSETEG00000010322	SLC	NA
+Echinops_telfairi		ENSETEG00000010327	Lysine demethylase	NA
+Echinops_telfairi	SNW1	ENSETEG00000010346	Others	NA
+Echinops_telfairi	PHF10	ENSETEG00000010354	PHF	NA
+Echinops_telfairi	ELP2	ENSETEG00000010378	ELP	NA
+Echinops_telfairi	SENP1	ENSETEG00000010380	Others	NA
+Echinops_telfairi	SAP30BP	ENSETEG00000010423	SAP	NA
+Echinops_telfairi	KDM5A	ENSETEG00000010475	Lysine demethylase	NA
+Echinops_telfairi	MAML1	ENSETEG00000010506	MAML	NA
+Echinops_telfairi	YAP1	ENSETEG00000010542	Others	NA
+Echinops_telfairi	TADA3	ENSETEG00000010576	Transcriptional adaptor	NA
+Echinops_telfairi	LGALS12	ENSETEG00000010585	Others	NA
+Echinops_telfairi		ENSETEG00000010599	Cyclin	NA
+Echinops_telfairi		ENSETEG00000010694	ASCC	NA
+Echinops_telfairi		ENSETEG00000010698	Others	NA
+Echinops_telfairi	WDR77	ENSETEG00000010710	WD	NA
+Echinops_telfairi	DNTTIP2	ENSETEG00000010714	Others	NA
+Echinops_telfairi	TOB2	ENSETEG00000010740	Others	101648439
+Echinops_telfairi	PHF5A	ENSETEG00000010741	PHF	101648740
+Echinops_telfairi	FLII	ENSETEG00000010751	Others	NA
+Echinops_telfairi		ENSETEG00000010757	Others	NA
+Echinops_telfairi	CENPF	ENSETEG00000010760	CENP	NA
+Echinops_telfairi		ENSETEG00000010778	Others	NA
+Echinops_telfairi	ENG	ENSETEG00000010836	Others	NA
+Echinops_telfairi	ENY2	ENSETEG00000010882	Others	NA
+Echinops_telfairi	PARK7	ENSETEG00000010915	Others	NA
+Echinops_telfairi		ENSETEG00000010955	ELP	NA
+Echinops_telfairi	EYA3	ENSETEG00000010968	EYA	101652714
+Echinops_telfairi		ENSETEG00000010996	Heat shock protein	NA
+Echinops_telfairi		ENSETEG00000011004	GTF	NA
+Echinops_telfairi	FGFR2	ENSETEG00000011043	FGF	NA
+Echinops_telfairi	ATAD2	ENSETEG00000011096	Others	NA
+Echinops_telfairi	ASXL1	ENSETEG00000011100	Others	101656740
+Echinops_telfairi		ENSETEG00000011103	Others	NA
+Echinops_telfairi	TIGD4	ENSETEG00000011110	CENP	101662150
+Echinops_telfairi	PCGF5	ENSETEG00000011157	PCGF	NA
+Echinops_telfairi	TLE3	ENSETEG00000011165	Transducin	NA
+Echinops_telfairi	MDM2	ENSETEG00000011183	Others	NA
+Echinops_telfairi	LMCD1	ENSETEG00000011189	LIM	NA
+Echinops_telfairi	TNKS	ENSETEG00000011217	Others	NA
+Echinops_telfairi	MDM4	ENSETEG00000011245	Others	NA
+Echinops_telfairi	NCOA4	ENSETEG00000011267	Nuclear receptor coactivator	NA
+Echinops_telfairi		ENSETEG00000011350	Others	NA
+Echinops_telfairi	SMYD1	ENSETEG00000011355	SMYD	NA
+Echinops_telfairi	WWC1	ENSETEG00000011357	WW	NA
+Echinops_telfairi		ENSETEG00000011363	Others	NA
+Echinops_telfairi	TAF4B	ENSETEG00000011393	TATA-box	NA
+Echinops_telfairi		ENSETEG00000011395	Notch	NA
+Echinops_telfairi	ANXA4	ENSETEG00000011396	Others	NA
+Echinops_telfairi	HDAC9	ENSETEG00000011432	Histone deacetylase	NA
+Echinops_telfairi	CDK13	ENSETEG00000011455	Cyclin	NA
+Echinops_telfairi	HABP4	ENSETEG00000011475	Others	NA
+Echinops_telfairi	TRIM27	ENSETEG00000011485	Tripartite motif	NA
+Echinops_telfairi	RIPK3	ENSETEG00000011526	Others	NA
+Echinops_telfairi	ASH2L	ENSETEG00000011548	Others	NA
+Echinops_telfairi	ELP1	ENSETEG00000011634	ELP	NA
+Echinops_telfairi	BRWD1	ENSETEG00000011665	Bromodomain	NA
+Echinops_telfairi	TRIB3	ENSETEG00000011691	Others	101642304
+Echinops_telfairi		ENSETEG00000011698	Casein	NA
+Echinops_telfairi		ENSETEG00000011700	Others	NA
+Echinops_telfairi	BEND3	ENSETEG00000011710	Others	NA
+Echinops_telfairi	ABRA	ENSETEG00000011777	Actin	101641047
+Echinops_telfairi	CBX8	ENSETEG00000011785	Chromobox	101651596
+Echinops_telfairi	MED12L	ENSETEG00000011790	Mediator complex	NA
+Echinops_telfairi	HCFC2	ENSETEG00000011808	Others	NA
+Echinops_telfairi	LOXL3	ENSETEG00000011899	Others	NA
+Echinops_telfairi	ACTR6	ENSETEG00000012001	ACTR	NA
+Echinops_telfairi	RPRD1B	ENSETEG00000012020	Others	101641572
+Echinops_telfairi	MTOR	ENSETEG00000012044	Others	NA
+Echinops_telfairi	CITED4	ENSETEG00000012057	CITED	NA
+Echinops_telfairi	TIMELESS	ENSETEG00000012072	Others	101661066
+Echinops_telfairi	KDM5C	ENSETEG00000012074	Lysine demethylase	NA
+Echinops_telfairi		ENSETEG00000012147	Coiled-coil	NA
+Echinops_telfairi	ABL1	ENSETEG00000012177	Others	NA
+Echinops_telfairi	DVL3	ENSETEG00000012283	Others	NA
+Echinops_telfairi	SUPT16H	ENSETEG00000012350	SUPT	NA
+Echinops_telfairi	CHD8	ENSETEG00000012353	CHD	NA
+Echinops_telfairi		ENSETEG00000012371	Others	NA
+Echinops_telfairi		ENSETEG00000012465	Others	NA
+Echinops_telfairi	LPIN1	ENSETEG00000012466	LPIN	NA
+Echinops_telfairi	RPAP2	ENSETEG00000012476	Others	NA
+Echinops_telfairi		ENSETEG00000012480	Nuclear receptor coactivator	NA
+Echinops_telfairi	MYCBP2	ENSETEG00000012541	MYC	NA
+Echinops_telfairi		ENSETEG00000012574	DNA_methylase	NA
+Echinops_telfairi	LMO3	ENSETEG00000012589	LIM	101643758
+Echinops_telfairi	CHD6	ENSETEG00000012730	CHD	NA
+Echinops_telfairi	CDK8	ENSETEG00000012793	Cyclin	NA
+Echinops_telfairi	SETD6	ENSETEG00000012803	SET	NA
+Echinops_telfairi	CNOT1	ENSETEG00000012806	CCR4-NOT	NA
+Echinops_telfairi	BPTF	ENSETEG00000012826	Bromodomain	NA
+Echinops_telfairi	SF1	ENSETEG00000012830	Others	NA
+Echinops_telfairi	MEN1	ENSETEG00000012832	Others	NA
+Echinops_telfairi	RNF168	ENSETEG00000012845	Ring finger protein	NA
+Echinops_telfairi	ANP32E	ENSETEG00000012942	ANP	101650619
+Echinops_telfairi	ZNF451	ENSETEG00000012969	Zinc finger	NA
+Echinops_telfairi	ERBIN	ENSETEG00000012973	Erbb2	NA
+Echinops_telfairi	SNAPC2	ENSETEG00000012986	Others	NA
+Echinops_telfairi	CAMK4	ENSETEG00000012997	CAMK	NA
+Echinops_telfairi	CCAR1	ENSETEG00000013025	Others	NA
+Echinops_telfairi		ENSETEG00000013031	Coiled-coil	NA
+Echinops_telfairi	TXLNG	ENSETEG00000013033	Others	NA
+Echinops_telfairi	PDCD4	ENSETEG00000013056	Others	NA
+Echinops_telfairi	VGLL4	ENSETEG00000013136	Vestigial like	101658775
+Echinops_telfairi	NLK	ENSETEG00000013147	Others	NA
+Echinops_telfairi	RBMXL1	ENSETEG00000013178	RNA binding protein	NA
+Echinops_telfairi	DCC	ENSETEG00000013210	Others	NA
+Echinops_telfairi	ZNF638	ENSETEG00000013272	Zinc finger	NA
+Echinops_telfairi	SMARCA4	ENSETEG00000013361	SWI/SNF	NA
+Echinops_telfairi	ACTBL2	ENSETEG00000013386	Actin	101643178
+Echinops_telfairi	LRRK2	ENSETEG00000013411	Other_CRF	NA
+Echinops_telfairi	TNNI1	ENSETEG00000013453	Others	NA
+Echinops_telfairi	CCAR2	ENSETEG00000013463	Others	101654107
+Echinops_telfairi		ENSETEG00000013471	Others	NA
+Echinops_telfairi	DUSP13	ENSETEG00000013484	Others	NA
+Echinops_telfairi		ENSETEG00000013535	Others	NA
+Echinops_telfairi	CHAF1B	ENSETEG00000013589	Others	NA
+Echinops_telfairi	PER2	ENSETEG00000013594	Others	NA
+Echinops_telfairi	NCOA3	ENSETEG00000013657	Nuclear receptor coactivator	NA
+Echinops_telfairi	GTF2H5	ENSETEG00000013693	GTF	NA
+Echinops_telfairi	ING1	ENSETEG00000013695	ING	NA
+Echinops_telfairi	ASF1B	ENSETEG00000013713	Others	101645476
+Echinops_telfairi	TRAF6	ENSETEG00000013721	Others	NA
+Echinops_telfairi	L3MBTL2	ENSETEG00000013728	Others	NA
+Echinops_telfairi		ENSETEG00000013745	SWI/SNF	NA
+Echinops_telfairi	TAB3	ENSETEG00000013753	Others	101640111
+Echinops_telfairi		ENSETEG00000013756	Others	NA
+Echinops_telfairi	CHEK2	ENSETEG00000013790	Others	NA
+Echinops_telfairi	NONO	ENSETEG00000013823	Others	NA
+Echinops_telfairi		ENSETEG00000013832	Others	NA
+Echinops_telfairi	MORF4L1	ENSETEG00000013833	Other_CRF	NA
+Echinops_telfairi	Tnp1	ENSETEG00000013878	Other_CRF	101657496
+Echinops_telfairi		ENSETEG00000013881	Others	NA
+Echinops_telfairi		ENSETEG00000013891	TATA-box	101660335
+Echinops_telfairi	SUPT6H	ENSETEG00000013904	SUPT	NA
+Echinops_telfairi		ENSETEG00000013925	PARP	NA
+Echinops_telfairi		ENSETEG00000013930	SWI/SNF	NA
+Echinops_telfairi	SAP130	ENSETEG00000013941	SAP	NA
+Echinops_telfairi		ENSETEG00000013946	TEF	NA
+Echinops_telfairi	BCL9L	ENSETEG00000013987	BCL	NA
+Echinops_telfairi		ENSETEG00000013991	Others	NA
+Echinops_telfairi		ENSETEG00000014021	GTF	NA
+Echinops_telfairi	PHF20	ENSETEG00000014058	PHF	NA
+Echinops_telfairi	HDAC10	ENSETEG00000014061	Histone deacetylase	NA
+Echinops_telfairi	PBXIP1	ENSETEG00000014118	Others	NA
+Echinops_telfairi	PYGO2	ENSETEG00000014120	Others	101659476
+Echinops_telfairi	MED28	ENSETEG00000014131	Mediator complex	NA
+Echinops_telfairi		ENSETEG00000014151	Lysine methyltransferase	NA
+Echinops_telfairi	PHF2	ENSETEG00000014153	PHF	NA
+Echinops_telfairi		ENSETEG00000014170	SET	NA
+Echinops_telfairi		ENSETEG00000014178	Others	NA
+Echinops_telfairi	CTNND2	ENSETEG00000014182	Casein	NA
+Echinops_telfairi	TAF9	ENSETEG00000014186	TATA-box	NA
+Echinops_telfairi	DDX1	ENSETEG00000014259	RNA helicase	NA
+Echinops_telfairi		ENSETEG00000014282	Others	NA
+Echinops_telfairi	BCAS3	ENSETEG00000014283	Others	NA
+Echinops_telfairi		ENSETEG00000014344	Others	NA
+Echinops_telfairi	SNX32	ENSETEG00000014406	Others	NA
+Echinops_telfairi	NPAT	ENSETEG00000014437	Nuclear coactivator	101649619
+Echinops_telfairi	ADRB2	ENSETEG00000014449	Others	101661554
+Echinops_telfairi	TADA1	ENSETEG00000014483	Transcriptional adaptor	NA
+Echinops_telfairi	MACROH2A2	ENSETEG00000014538	Others	NA
+Echinops_telfairi	HNRNPU	ENSETEG00000014565	HNRNP	NA
+Echinops_telfairi	PICALM	ENSETEG00000014576	Others	NA
+Echinops_telfairi	PID1	ENSETEG00000014606	Others	NA
+Echinops_telfairi	PHF21A	ENSETEG00000014616	PHF	NA
+Echinops_telfairi	FLNA	ENSETEG00000014621	Others	NA
+Echinops_telfairi	MAD2L2	ENSETEG00000014676	Others	NA
+Echinops_telfairi		ENSETEG00000014689	PARP	NA
+Echinops_telfairi	NRIP2	ENSETEG00000014725	Nuclear coactivator	NA
+Echinops_telfairi	NFKBIB	ENSETEG00000014748	NFKB associated	NA
+Echinops_telfairi		ENSETEG00000014766	SWI/SNF	NA
+Echinops_telfairi	WWOX	ENSETEG00000014797	WW	NA
+Echinops_telfairi	RUNX1T1	ENSETEG00000014837	Others	NA
+Echinops_telfairi	BRD7	ENSETEG00000014849	Bromodomain	NA
+Echinops_telfairi	ECD	ENSETEG00000014869	Others	NA
+Echinops_telfairi		ENSETEG00000014883	Others	NA
+Echinops_telfairi	NAB2	ENSETEG00000014953	Others	NA
+Echinops_telfairi	SFMBT2	ENSETEG00000014972	Others	NA
+Echinops_telfairi	DEPDC1	ENSETEG00000014989	Others	NA
+Echinops_telfairi	BLM	ENSETEG00000015019	Others	NA
+Echinops_telfairi	SMYD3	ENSETEG00000015025	SMYD	NA
+Echinops_telfairi	PADI4	ENSETEG00000015054	Others	NA
+Echinops_telfairi	HMOX1	ENSETEG00000015092	Others	101642332
+Echinops_telfairi	ANKRD2	ENSETEG00000015123	Ankyrin repeat	NA
+Echinops_telfairi		ENSETEG00000015133	Others	NA
+Echinops_telfairi	RYBP	ENSETEG00000015145	Others	NA
+Echinops_telfairi	CCNA2	ENSETEG00000015197	Cyclin	NA
+Echinops_telfairi	MED1	ENSETEG00000015205	Mediator complex	NA
+Echinops_telfairi	FBXW7	ENSETEG00000015291	Others	NA
+Echinops_telfairi		ENSETEG00000015333	Others	NA
+Echinops_telfairi		ENSETEG00000015364	Others	101658140
+Echinops_telfairi		ENSETEG00000015413	Others	101662088
+Echinops_telfairi	SFR1	ENSETEG00000015444	Others	NA
+Echinops_telfairi	ELP3	ENSETEG00000015473	ELP	NA
+Echinops_telfairi	KAT6B	ENSETEG00000015484	Lysine acetyltransferase	NA
+Echinops_telfairi		ENSETEG00000015485	POLR	NA
+Echinops_telfairi	TIRAP	ENSETEG00000015502	Others	NA
+Echinops_telfairi	SIRT1	ENSETEG00000015512	Sirtuin	NA
+Echinops_telfairi	ANP32B	ENSETEG00000015514	ANP	NA
+Echinops_telfairi	BRD3	ENSETEG00000015528	Bromodomain	NA
+Echinops_telfairi		ENSETEG00000015571	Chromodomain Y	NA
+Echinops_telfairi	NRG1	ENSETEG00000015580	Others	NA
+Echinops_telfairi	TTF2	ENSETEG00000015619	Others	NA
+Echinops_telfairi	RBBP5	ENSETEG00000015684	RBBP	NA
+Echinops_telfairi	INO80D	ENSETEG00000015688	INO80 complex	NA
+Echinops_telfairi	ACTR8	ENSETEG00000015720	ACTR	NA
+Echinops_telfairi	WDR5	ENSETEG00000015731	WD	NA
+Echinops_telfairi	TAF8	ENSETEG00000015751	TATA-box	101639766
+Echinops_telfairi	NLRP3	ENSETEG00000015753	Others	101662492
+Echinops_telfairi	PPIE	ENSETEG00000015793	Others	NA
+Echinops_telfairi	RNF2	ENSETEG00000015824	Ring finger protein	NA
+Echinops_telfairi	RNF141	ENSETEG00000015884	Ring finger protein	NA
+Echinops_telfairi	SUPT7L	ENSETEG00000015928	SUPT	101664052
+Echinops_telfairi		ENSETEG00000016060	Others	NA
+Echinops_telfairi	LPIN2	ENSETEG00000016075	LPIN	NA
+Echinops_telfairi	PINK1	ENSETEG00000016150	Others	101644140
+Echinops_telfairi	ING3	ENSETEG00000016174	ING	NA
+Echinops_telfairi		ENSETEG00000016213	Notch	NA
+Echinops_telfairi		ENSETEG00000016215	ACTR	NA
+Echinops_telfairi	PNRC1	ENSETEG00000016258	Others	NA
+Echinops_telfairi	C1QBP	ENSETEG00000016264	Others	101641070
+Echinops_telfairi		ENSETEG00000016294	HNRNP	NA
+Echinops_telfairi	RBM39	ENSETEG00000016295	RNA binding protein	NA
+Echinops_telfairi	PIK3R1	ENSETEG00000016324	Others	NA
+Echinops_telfairi	PAXIP1	ENSETEG00000016334	Others	NA
+Echinops_telfairi	SUDS3	ENSETEG00000016353	Other_Co-activator/repressors	NA
+Echinops_telfairi	PELI1	ENSETEG00000016359	Others	NA
+Echinops_telfairi	MYOCD	ENSETEG00000016384	Others	NA
+Echinops_telfairi	ZNF703	ENSETEG00000016392	Zinc finger	NA
+Echinops_telfairi		ENSETEG00000016414	WD	NA
+Echinops_telfairi		ENSETEG00000016528	Mediator complex	NA
+Echinops_telfairi		ENSETEG00000016534	Others	NA
+Echinops_telfairi	RBBP8	ENSETEG00000016538	RBBP	NA
+Echinops_telfairi	KDM3A	ENSETEG00000016555	Lysine demethylase	NA
+Echinops_telfairi	MYBBP1A	ENSETEG00000016631	MYB	NA
+Echinops_telfairi	FRK	ENSETEG00000016635	Others	NA
+Echinops_telfairi	DSCAM	ENSETEG00000016640	Others	NA
+Echinops_telfairi	MSL3	ENSETEG00000016654	Others	NA
+Echinops_telfairi	SFSWAP	ENSETEG00000016657	Others	NA
+Echinops_telfairi	PCBD2	ENSETEG00000016658	Others	NA
+Echinops_telfairi	ATN1	ENSETEG00000016682	Others	NA
+Echinops_telfairi		ENSETEG00000016689	CHD	NA
+Echinops_telfairi		ENSETEG00000016692	Others	NA
+Echinops_telfairi	HNRNPD	ENSETEG00000016709	HNRNP	NA
+Echinops_telfairi	HSD17B11	ENSETEG00000016740	Others	NA
+Echinops_telfairi	SET	ENSETEG00000016746	SET	NA
+Echinops_telfairi	TAF6L	ENSETEG00000016786	TATA-box	NA
+Echinops_telfairi		ENSETEG00000016863	Transducin	NA
+Echinops_telfairi	S100A12	ENSETEG00000016875	Others	101645189
+Echinops_telfairi		ENSETEG00000016917	Others	NA
+Echinops_telfairi		ENSETEG00000016926	Cyclin	NA
+Echinops_telfairi	TAF5L	ENSETEG00000016933	TATA-box	NA
+Echinops_telfairi	SKOR1	ENSETEG00000016942	SKI	NA
+Echinops_telfairi	CNOT10	ENSETEG00000016979	CCR4-NOT	NA
+Echinops_telfairi		ENSETEG00000017019	Lysine methyltransferase	NA
+Echinops_telfairi		ENSETEG00000017042	Others	NA
+Echinops_telfairi	PIH1D1	ENSETEG00000017070	Other_CRF	NA
+Echinops_telfairi		ENSETEG00000017147	SMYD	101662628
+Echinops_telfairi	PNMA6A	ENSETEG00000017187	Zinc finger	NA
+Echinops_telfairi	MED12	ENSETEG00000017191	Mediator complex	NA
+Echinops_telfairi		ENSETEG00000017231	Histone deacetylase	NA
+Echinops_telfairi		ENSETEG00000017239	Others	NA
+Echinops_telfairi	CRKL	ENSETEG00000017267	Others	NA
+Echinops_telfairi		ENSETEG00000017286	Other_CRF	NA
+Echinops_telfairi		ENSETEG00000017322	Notch	NA
+Echinops_telfairi	BTF3	ENSETEG00000017341	Others	NA
+Echinops_telfairi	MTDH	ENSETEG00000017374	Others	NA
+Echinops_telfairi		ENSETEG00000017376	GTF	NA
+Echinops_telfairi	PELP1	ENSETEG00000017394	Others	NA
+Echinops_telfairi	STK4	ENSETEG00000017416	Others	NA
+Echinops_telfairi		ENSETEG00000017437	Others	NA
+Echinops_telfairi		ENSETEG00000017442	Others	NA
+Echinops_telfairi		ENSETEG00000017511	MAGE	NA
+Echinops_telfairi	CASK	ENSETEG00000017560	CAMK	NA
+Echinops_telfairi	NAA15	ENSETEG00000017562	Others	NA
+Echinops_telfairi	HTATIP2	ENSETEG00000017578	Others	101660804
+Echinops_telfairi	RBPMS	ENSETEG00000017582	RNA binding protein	NA
+Echinops_telfairi	CTR9	ENSETEG00000017690	Others	NA
+Echinops_telfairi	POLR3C	ENSETEG00000017696	POLR	NA
+Echinops_telfairi	TRIM32	ENSETEG00000017727	Tripartite motif	NA
+Echinops_telfairi	KAT6A	ENSETEG00000017730	Lysine acetyltransferase	NA
+Echinops_telfairi	CHD3	ENSETEG00000017733	CHD	NA
+Echinops_telfairi	SIAH2	ENSETEG00000017765	Others	NA
+Echinops_telfairi		ENSETEG00000017784	Other_CRF	NA
+Echinops_telfairi	EGLN2	ENSETEG00000017792	Others	NA
+Echinops_telfairi	WWP1	ENSETEG00000017794	WW	NA
+Echinops_telfairi	HIF1AN	ENSETEG00000017798	Others	NA
+Echinops_telfairi	CREG1	ENSETEG00000017822	Others	NA
+Echinops_telfairi	CDC73	ENSETEG00000017829	Others	NA
+Echinops_telfairi		ENSETEG00000017870	Others	NA
+Echinops_telfairi	H1-4	ENSETEG00000017882	Histone cluster 1 H1	NA
+Echinops_telfairi	AJUBA	ENSETEG00000017920	Others	NA
+Echinops_telfairi	SPAG8	ENSETEG00000017928	Others	NA
+Echinops_telfairi	INSR	ENSETEG00000017958	Others	NA
+Echinops_telfairi	CREBBP	ENSETEG00000017976	CREB	NA
+Echinops_telfairi	JADE1	ENSETEG00000017978	Others	NA
+Echinops_telfairi	SUV39H2	ENSETEG00000017998	Others	101650388
+Echinops_telfairi	LRIF1	ENSETEG00000018002	Others	NA
+Echinops_telfairi	RB1	ENSETEG00000018009	Other_Co-activator/repressors	NA
+Echinops_telfairi	NCOA2	ENSETEG00000018046	Nuclear receptor coactivator	101649975
+Echinops_telfairi		ENSETEG00000018062	Mediator complex	NA
+Echinops_telfairi	PPARGC1A	ENSETEG00000018091	Others	NA
+Echinops_telfairi	KDM5B	ENSETEG00000018113	Lysine demethylase	NA
+Echinops_telfairi		ENSETEG00000018128	Others	NA
+Echinops_telfairi	TCF20	ENSETEG00000018150	Others	101654161
+Echinops_telfairi		ENSETEG00000018188	Other_CRF	NA
+Echinops_telfairi		ENSETEG00000018224	Mediator complex	101639132
+Echinops_telfairi	TRIM24	ENSETEG00000018236	Tripartite motif	NA
+Echinops_telfairi	CDYL2	ENSETEG00000018326	Chromodomain Y	NA
+Echinops_telfairi		ENSETEG00000018330	Others	NA
+Echinops_telfairi	NEDD8	ENSETEG00000018391	Others	NA
+Echinops_telfairi		ENSETEG00000018409	Histone lysine methyltransferase	NA
+Echinops_telfairi	NFKBID	ENSETEG00000018468	NFKB associated	NA
+Echinops_telfairi	MDFI	ENSETEG00000018479	Others	NA
+Echinops_telfairi	HEXIM2	ENSETEG00000018494	Others	NA
+Echinops_telfairi		ENSETEG00000018579	Chromobox	NA
+Echinops_telfairi	MYO6	ENSETEG00000018626	Others	NA
+Echinops_telfairi	SAFB	ENSETEG00000018679	Others	NA
+Echinops_telfairi		ENSETEG00000018688	Ring finger protein	NA
+Echinops_telfairi	ANKRD1	ENSETEG00000018827	Ankyrin repeat	101638047
+Echinops_telfairi	MED23	ENSETEG00000018836	Mediator complex	NA
+Echinops_telfairi		ENSETEG00000018855	Others	NA
+Echinops_telfairi	FHL2	ENSETEG00000018866	FHL	NA
+Echinops_telfairi		ENSETEG00000018886	Other_Co-activator/repressors	NA
+Echinops_telfairi	ICE2	ENSETEG00000018916	GTF	NA
+Echinops_telfairi		ENSETEG00000018937	Others	NA
+Echinops_telfairi	CBFA2T2	ENSETEG00000018942	Others	101652244
+Echinops_telfairi		ENSETEG00000018967	TATA-box	NA
+Echinops_telfairi	GTF2B	ENSETEG00000019063	GTF	NA
+Echinops_telfairi	RALGAPA1	ENSETEG00000019090	Others	NA
+Echinops_telfairi	BRMS1L	ENSETEG00000019095	Other_CRF	NA
+Echinops_telfairi	TDP2	ENSETEG00000019096	Others	101650478
+Echinops_telfairi		ENSETEG00000019101	Bromodomain	NA
+Echinops_telfairi	FGF11	ENSETEG00000019128	FGF	101651205
+Echinops_telfairi	TENM1	ENSETEG00000019170	Others	NA
+Echinops_telfairi	DHX33	ENSETEG00000019173	RNA helicase	NA
+Echinops_telfairi		ENSETEG00000019174	Sirtuin	NA
+Echinops_telfairi	SCMH1	ENSETEG00000019187	Others	NA
+Echinops_telfairi	HR	ENSETEG00000019194	Lysine methyltransferase	NA
+Echinops_telfairi	SMARCD2	ENSETEG00000019236	SWI/SNF	NA
+Echinops_telfairi	PPRC1	ENSETEG00000019254	Others	NA
+Echinops_telfairi	BIRC2	ENSETEG00000019268	Others	NA
+Echinops_telfairi	EMSY	ENSETEG00000019269	Others	NA
+Echinops_telfairi	RNF6	ENSETEG00000019271	Ring finger protein	NA
+Echinops_telfairi		ENSETEG00000019319	Others	NA
+Echinops_telfairi	GTF2F1	ENSETEG00000019335	GTF	NA
+Echinops_telfairi	ACTL6A	ENSETEG00000019357	Actin	NA
+Echinops_telfairi	CBX6	ENSETEG00000019374	Chromobox	101641599
+Echinops_telfairi	JUP	ENSETEG00000019463	Others	NA
+Echinops_telfairi	SLC30A9	ENSETEG00000019487	SLC	NA
+Echinops_telfairi	CDK7	ENSETEG00000019495	Cyclin	NA
+Echinops_telfairi		ENSETEG00000019513	Histone deacetylase	NA
+Echinops_telfairi	COPS2	ENSETEG00000019523	Others	NA
+Echinops_telfairi	PLK1	ENSETEG00000019524	Others	NA
+Echinops_telfairi	KAT2A	ENSETEG00000019619	Lysine acetyltransferase	NA
+Echinops_telfairi	SNIP1	ENSETEG00000019622	Others	NA
+Echinops_telfairi	BTN1A1	ENSETEG00000019641	Others	NA
+Echinops_telfairi	NRBF2	ENSETEG00000019705	Nuclear receptor coactivator	NA
+Echinops_telfairi		ENSETEG00000019736	Others	NA
+Echinops_telfairi	TP53BP1	ENSETEG00000019738	Others	NA
+Echinops_telfairi	RAP2C	ENSETEG00000019782	Others	NA
+Echinops_telfairi	COPRS	ENSETEG00000019818	Others	NA
+Echinops_telfairi	CRYM	ENSETEG00000019828	Others	NA
+Echinops_telfairi	ERCC3	ENSETEG00000019887	Others	NA
+Echinops_telfairi	TNIP1	ENSETEG00000019888	Others	NA
+Echinops_telfairi	ZNF593	ENSETEG00000019920	Zinc finger	101662340
+Echinops_telfairi	TDG	ENSETEG00000019930	Others	101648943
+Echinops_telfairi	DDX5	ENSETEG00000019950	RNA helicase	101661415
+Echinops_telfairi	SMURF2	ENSETEG00000019956	Others	NA
+Echinops_telfairi	ELANE	ENSETEG00000019975	Others	101653944
+Echinops_telfairi	RBBP4	ENSETEG00000020008	RBBP	101663826
+Echinops_telfairi		ENSETEG00000020044	Lysine acetyltransferase	NA
+Echinops_telfairi		ENSETEG00000020088	Others	NA
+Echinops_telfairi	RTF1	ENSETEG00000020103	Others	NA
+Echinops_telfairi	BRD8	ENSETEG00000020114	Bromodomain	NA
+Echinops_telfairi	TAF1D	ENSETEG00000020222	TATA-box	101641127
+Echinops_telfairi		ENSETEG00000020238	Histone lysine methyltransferase	NA
+Echinops_telfairi	KDM3B	ENSETEG00000020297	Lysine demethylase	NA
+Echinops_telfairi	EZH2	ENSETEG00000020305	Others	NA
+Echinops_telfairi	DNMT3B	ENSETEG00000020313	DNA_methylase	NA
+Echinops_telfairi	EYA1	ENSETEG00000020330	EYA	101648717
+Echinops_telfairi	DR1	ENSETEG00000020331	Others	101661467

@@ -1,0 +1,812 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Carassius_auratus	slc19a1	ENSCARG00000000192	SLC	113096571
+Carassius_auratus	TOB2	ENSCARG00000000196	Others	113048670
+Carassius_auratus	NDUFA13	ENSCARG00000000265	Others	113111522
+Carassius_auratus	actl6a	ENSCARG00000000347	Actin	NA
+Carassius_auratus	hnrnpc	ENSCARG00000000496	HNRNP	NA
+Carassius_auratus	grip1	ENSCARG00000000502	Others	113060508
+Carassius_auratus	depdc1a	ENSCARG00000000766	Others	113107076
+Carassius_auratus	rnf10	ENSCARG00000000906	Ring finger protein	113107402
+Carassius_auratus	cnot11	ENSCARG00000000909	CCR4-NOT	NA
+Carassius_auratus	bptf	ENSCARG00000001062	Bromodomain	113047753
+Carassius_auratus	cry1a	ENSCARG00000001071	Others	113062861
+Carassius_auratus	taf5l	ENSCARG00000001144	TATA-box	113059232
+Carassius_auratus	CBX4	ENSCARG00000001347	Chromobox	113098321
+Carassius_auratus	ercc3	ENSCARG00000001397	Others	113092319
+Carassius_auratus		ENSCARG00000001538	Others	113109203
+Carassius_auratus	commd1	ENSCARG00000001677	Others	113060202
+Carassius_auratus	snd1	ENSCARG00000001913	Others	113062885
+Carassius_auratus	cbx2	ENSCARG00000001922	Chromobox	113055003
+Carassius_auratus	trak2	ENSCARG00000001941	Others	NA
+Carassius_auratus	brdt	ENSCARG00000002024	Bromodomain	113098440
+Carassius_auratus	npm1b	ENSCARG00000002049	Nucleoplasmin	113113771
+Carassius_auratus	sqstm1	ENSCARG00000002079	Others	113113483
+Carassius_auratus	pcgf1	ENSCARG00000002101	PCGF	113113776
+Carassius_auratus	npm2b	ENSCARG00000002107	Nucleoplasmin	113110316
+Carassius_auratus	chaf1b	ENSCARG00000002155	Others	NA
+Carassius_auratus	trim37	ENSCARG00000002185	Tripartite motif	113109928
+Carassius_auratus	kdm5a	ENSCARG00000002276	Lysine demethylase	113065725
+Carassius_auratus	maml1	ENSCARG00000002416	MAML	113113487
+Carassius_auratus	RING1	ENSCARG00000002457	Ring finger protein	113119116
+Carassius_auratus	TRAPPC2B	ENSCARG00000002489	Others	NA
+Carassius_auratus	cdk5rap3	ENSCARG00000002583	Cyclin	113111482
+Carassius_auratus	phf19	ENSCARG00000002591	PHF	113107177
+Carassius_auratus	prmt1	ENSCARG00000002648	Arginine methyltransferase	113045754
+Carassius_auratus	phf1	ENSCARG00000002787	PHF	NA
+Carassius_auratus	mier3a	ENSCARG00000002801	MIER	113110155
+Carassius_auratus	pin1	ENSCARG00000002949	Others	113042237
+Carassius_auratus	ino80da	ENSCARG00000003020	INO80 complex	113108946
+Carassius_auratus		ENSCARG00000003068	Others	113048347
+Carassius_auratus	hsbp1b	ENSCARG00000003196	Heat shock protein	113118245
+Carassius_auratus	utp4	ENSCARG00000003247	Others	113118250
+Carassius_auratus	skia	ENSCARG00000003266	SKI	113107092
+Carassius_auratus	pih1d1	ENSCARG00000003286	Other_CRF	113045834
+Carassius_auratus	chd4a	ENSCARG00000003295	CHD	113119620
+Carassius_auratus	uri1	ENSCARG00000003315	Others	113118255
+Carassius_auratus	aebp1	ENSCARG00000003390	Others	113110159
+Carassius_auratus	xrcc6	ENSCARG00000003391	Others	NA
+Carassius_auratus	cbx7b	ENSCARG00000003445	Chromobox	113111712
+Carassius_auratus	trip13	ENSCARG00000003456	Thyroid hormone receptor	NA
+Carassius_auratus	dhx36	ENSCARG00000003560	RNA helicase	113118537
+Carassius_auratus	ccna1	ENSCARG00000003581	Cyclin	113110038
+Carassius_auratus	HDGFL3	ENSCARG00000003594	Others	113118065
+Carassius_auratus	orc2	ENSCARG00000003597	Others	113111275
+Carassius_auratus	myo6a	ENSCARG00000003683	Others	113121295
+Carassius_auratus	mnat1	ENSCARG00000003688	Others	113112576
+Carassius_auratus	crk	ENSCARG00000003721	Others	113115033
+Carassius_auratus		ENSCARG00000003753	MAML	113115390
+Carassius_auratus	ankrd1a	ENSCARG00000003778	Ankyrin repeat	113117126
+Carassius_auratus	rbm15	ENSCARG00000003833	RNA binding protein	NA
+Carassius_auratus	tasora	ENSCARG00000003849	FAM	113039706
+Carassius_auratus	helz2	ENSCARG00000003906	Others	113102079
+Carassius_auratus	dnmt3bb.1	ENSCARG00000004081	DNA_methylase	113041160
+Carassius_auratus	hif1an	ENSCARG00000004263	Others	113112650
+Carassius_auratus	sirt7	ENSCARG00000004370	Sirtuin	NA
+Carassius_auratus	phf12b	ENSCARG00000004620	PHF	113115041
+Carassius_auratus	wwtr1	ENSCARG00000004728	WW	113039722
+Carassius_auratus	RWDD3	ENSCARG00000004874	Others	113045500
+Carassius_auratus	fbp1b	ENSCARG00000004876	Others	113076174
+Carassius_auratus	epc1b	ENSCARG00000004918	Others	113114151
+Carassius_auratus	DTX1	ENSCARG00000005016	Others	113111811
+Carassius_auratus	cidec	ENSCARG00000005168	Others	113097511
+Carassius_auratus	slc26a3.2	ENSCARG00000005169	SLC	113063209
+Carassius_auratus	suds3	ENSCARG00000005332	Other_Co-activator/repressors	113071521
+Carassius_auratus	csnk2a2b	ENSCARG00000005338	Casein	113043054
+Carassius_auratus	brd2a	ENSCARG00000005514	Bromodomain	113119914
+Carassius_auratus	cdk5r1b	ENSCARG00000005645	Cyclin	NA
+Carassius_auratus	med22	ENSCARG00000005742	Mediator complex	113049386
+Carassius_auratus	itchb	ENSCARG00000005898	Others	113041390
+Carassius_auratus	hipk3b	ENSCARG00000005917	HIPK	113118552
+Carassius_auratus	epc2	ENSCARG00000005979	Others	113053256
+Carassius_auratus	med25	ENSCARG00000006019	Mediator complex	113046527
+Carassius_auratus	actn1	ENSCARG00000006047	Actin	113112482
+Carassius_auratus		ENSCARG00000006232	WD	113040345
+Carassius_auratus	bahcc1a	ENSCARG00000006321	Others	113053203
+Carassius_auratus	tradd	ENSCARG00000006351	Others	113049493
+Carassius_auratus	med4	ENSCARG00000006375	Mediator complex	113053259
+Carassius_auratus	taf4b	ENSCARG00000006472	TATA-box	113037748
+Carassius_auratus	med24	ENSCARG00000006516	Mediator complex	113056288
+Carassius_auratus	crtc1a	ENSCARG00000006577	CREB	NA
+Carassius_auratus	wdtc1	ENSCARG00000006598	WD	113115782
+Carassius_auratus	actr5	ENSCARG00000006789	ACTR	NA
+Carassius_auratus	txlng	ENSCARG00000006819	Others	113055164
+Carassius_auratus	pik3r2	ENSCARG00000006849	Others	113045905
+Carassius_auratus		ENSCARG00000006858	Tripartite motif	NA
+Carassius_auratus	dpy30	ENSCARG00000006863	Others	113044121
+Carassius_auratus	med6	ENSCARG00000007037	Mediator complex	113112494
+Carassius_auratus	kmt2e	ENSCARG00000007049	Lysine methyltransferase	NA
+Carassius_auratus	ascc1	ENSCARG00000007165	ASCC	113055810
+Carassius_auratus	heatr1	ENSCARG00000007191	Others	113056289
+Carassius_auratus	si:ch1073-296d18.1	ENSCARG00000007208	PARP	NA
+Carassius_auratus	phf5a	ENSCARG00000007284	PHF	NA
+Carassius_auratus		ENSCARG00000007546	Others	113038741
+Carassius_auratus	dmap1	ENSCARG00000007552	DNA_methylase	NA
+Carassius_auratus	ehmt2	ENSCARG00000007556	Histone lysine methyltransferase	NA
+Carassius_auratus	taf1	ENSCARG00000007562	TATA-box	113076412
+Carassius_auratus	TADA1	ENSCARG00000007603	Transcriptional adaptor	113039307
+Carassius_auratus	taf5	ENSCARG00000007611	TATA-box	NA
+Carassius_auratus	hnrnpua	ENSCARG00000007662	HNRNP	113117649
+Carassius_auratus	hmox1a	ENSCARG00000007675	Others	113051898
+Carassius_auratus	tob1a	ENSCARG00000007737	Others	113046642
+Carassius_auratus	siva1	ENSCARG00000007741	Others	113117822
+Carassius_auratus	nif3l1	ENSCARG00000007751	Others	113056415
+Carassius_auratus	auts2a	ENSCARG00000007769	Others	113054345
+Carassius_auratus	ell2	ENSCARG00000007791	GTF	113038839
+Carassius_auratus	taf1b	ENSCARG00000007909	TATA-box	113120869
+Carassius_auratus	ldb1b	ENSCARG00000007998	LIM	113055554
+Carassius_auratus	ctdp1	ENSCARG00000008130	Others	113119196
+Carassius_auratus	pagr1	ENSCARG00000008202	Others	113056420
+Carassius_auratus	tada3l	ENSCARG00000008264	Transcriptional adaptor	113055177
+Carassius_auratus	dyrk1b	ENSCARG00000008277	Others	113059518
+Carassius_auratus	ruvbl1	ENSCARG00000008311	Other_CRF	113095121
+Carassius_auratus	smarcd3a	ENSCARG00000008471	SWI/SNF	NA
+Carassius_auratus	axin1	ENSCARG00000008481	Others	113049900
+Carassius_auratus	SCMH1	ENSCARG00000008621	Others	113116000
+Carassius_auratus	med16	ENSCARG00000008675	Mediator complex	NA
+Carassius_auratus	gtf2h2	ENSCARG00000008707	GTF	NA
+Carassius_auratus	setd6	ENSCARG00000008807	SET	NA
+Carassius_auratus	gtf2a1	ENSCARG00000008814	GTF	113121159
+Carassius_auratus	kdm7ab	ENSCARG00000009026	Lysine demethylase	113043252
+Carassius_auratus	SAMD4B	ENSCARG00000009041	Others	113114653
+Carassius_auratus	gsk3ba	ENSCARG00000009054	Others	NA
+Carassius_auratus	rhoac	ENSCARG00000009276	Others	113040931
+Carassius_auratus	med23	ENSCARG00000009375	Mediator complex	113037698
+Carassius_auratus	pcbd1	ENSCARG00000009520	Others	113083902
+Carassius_auratus	DAB2	ENSCARG00000009548	Others	113049197
+Carassius_auratus	bcl9	ENSCARG00000009578	BCL	113067895
+Carassius_auratus	htatip2	ENSCARG00000009602	Others	NA
+Carassius_auratus	mrtfba	ENSCARG00000009646	Others	113111740
+Carassius_auratus	wdr61	ENSCARG00000009671	WD	113043160
+Carassius_auratus	sufu	ENSCARG00000009687	Others	113057097
+Carassius_auratus	ikbkb	ENSCARG00000009718	Others	113106968
+Carassius_auratus	bend3	ENSCARG00000009840	Others	NA
+Carassius_auratus	si:dkey-85a20.4	ENSCARG00000009843	Others	NA
+Carassius_auratus	ercc2	ENSCARG00000010071	Others	113115060
+Carassius_auratus	nsd3	ENSCARG00000010078	Nuclear receptor coactivator	113054245
+Carassius_auratus	trib2	ENSCARG00000010125	Others	113120679
+Carassius_auratus	TENM2	ENSCARG00000010151	Others	NA
+Carassius_auratus	med17	ENSCARG00000010204	Mediator complex	NA
+Carassius_auratus	gtf2f1	ENSCARG00000010355	GTF	113045179
+Carassius_auratus	hltf	ENSCARG00000010479	Others	113045910
+Carassius_auratus	dhx9	ENSCARG00000010493	RNA helicase	NA
+Carassius_auratus	ctnnd1	ENSCARG00000010533	Casein	113071693
+Carassius_auratus	taf6l	ENSCARG00000010594	TATA-box	113105510
+Carassius_auratus	pcgf6	ENSCARG00000010656	PCGF	113056933
+Carassius_auratus	ss18	ENSCARG00000010672	SS18	113039679
+Carassius_auratus	SGK1	ENSCARG00000010682	Others	113041413
+Carassius_auratus	safb	ENSCARG00000010750	Others	NA
+Carassius_auratus	si:ch211-103n10.5	ENSCARG00000010764	Histone cluster 1 H1	113107511
+Carassius_auratus	adrb2a	ENSCARG00000010977	Others	NA
+Carassius_auratus	ezrb	ENSCARG00000010988	Others	113121218
+Carassius_auratus	pir	ENSCARG00000011029	Others	113111078
+Carassius_auratus	KCNIP3	ENSCARG00000011073	Others	NA
+Carassius_auratus	eya4	ENSCARG00000011229	EYA	NA
+Carassius_auratus	trrap	ENSCARG00000011360	Others	113056240
+Carassius_auratus	trim16	ENSCARG00000011439	Tripartite motif	113055792
+Carassius_auratus	anxa4	ENSCARG00000011483	Others	113110305
+Carassius_auratus	TCERG1L	ENSCARG00000011527	TEF	113055922
+Carassius_auratus	banp	ENSCARG00000011549	Others	NA
+Carassius_auratus	aurkb	ENSCARG00000011568	Others	113114393
+Carassius_auratus	pnrc2	ENSCARG00000011616	Others	113059781
+Carassius_auratus	cdyl	ENSCARG00000011666	Chromodomain Y	113116749
+Carassius_auratus	si:dkey-6i22.5	ENSCARG00000011751	Others	113114328
+Carassius_auratus	loxl2b	ENSCARG00000011792	Others	NA
+Carassius_auratus	ppargc1b	ENSCARG00000011875	Others	NA
+Carassius_auratus	niban2b	ENSCARG00000011965	FAM	113074097
+Carassius_auratus	mrgbp	ENSCARG00000012006	Others	113041086
+Carassius_auratus		ENSCARG00000012187	PARP	113053301
+Carassius_auratus	leo1	ENSCARG00000012199	Others	113118569
+Carassius_auratus	chchd6a	ENSCARG00000012358	Coiled-coil	NA
+Carassius_auratus	trib3	ENSCARG00000012586	Others	113055206
+Carassius_auratus	cnot7	ENSCARG00000012675	CCR4-NOT	113057927
+Carassius_auratus	rnf6	ENSCARG00000012700	Ring finger protein	113041921
+Carassius_auratus	scai	ENSCARG00000012706	Others	113075174
+Carassius_auratus	cdk8	ENSCARG00000012746	Cyclin	NA
+Carassius_auratus	zmym2	ENSCARG00000012804	Zinc finger	113108784
+Carassius_auratus	ncoa6	ENSCARG00000012843	Nuclear receptor coactivator	113040966
+Carassius_auratus	erbb2	ENSCARG00000012928	Erbb2	113056299
+Carassius_auratus	ino80	ENSCARG00000012985	INO80 complex	113120899
+Carassius_auratus	mdm2	ENSCARG00000013140	Others	113048224
+Carassius_auratus	cited2	ENSCARG00000013178	CITED	113120722
+Carassius_auratus	sra1	ENSCARG00000013570	Others	113038290
+Carassius_auratus	brd1a	ENSCARG00000013600	Bromodomain	113062039
+Carassius_auratus	ruvbl2	ENSCARG00000013694	Other_CRF	113049445
+Carassius_auratus	snapc5	ENSCARG00000013818	Others	113118364
+Carassius_auratus	eaf1	ENSCARG00000013882	Others	113116494
+Carassius_auratus	hcfc1b	ENSCARG00000013922	Others	113107030
+Carassius_auratus	traf6	ENSCARG00000013932	Others	113051336
+Carassius_auratus	pawr	ENSCARG00000013984	Others	NA
+Carassius_auratus	eaf2	ENSCARG00000014124	Others	113053333
+Carassius_auratus	morf4l1	ENSCARG00000014135	Other_CRF	113118371
+Carassius_auratus	egfra	ENSCARG00000014167	Others	113045981
+Carassius_auratus	pdlim1	ENSCARG00000014247	Others	113056955
+Carassius_auratus	hspa8b	ENSCARG00000014253	Heat shock protein	NA
+Carassius_auratus	cbl	ENSCARG00000014330	Others	113115080
+Carassius_auratus	PRMT8	ENSCARG00000014373	Arginine methyltransferase	113118216
+Carassius_auratus	smarcb1b	ENSCARG00000014424	SWI/SNF	113038776
+Carassius_auratus	sap130b	ENSCARG00000014434	SAP	113045820
+Carassius_auratus	nod2	ENSCARG00000014533	Others	113051415
+Carassius_auratus	polr2a	ENSCARG00000014556	POLR	113111858
+Carassius_auratus	brd7	ENSCARG00000014597	Bromodomain	113051420
+Carassius_auratus	hdac6	ENSCARG00000014612	Histone deacetylase	113107032
+Carassius_auratus	rnf14	ENSCARG00000014796	Ring finger protein	113063812
+Carassius_auratus	smarcd2	ENSCARG00000014806	SWI/SNF	113111906
+Carassius_auratus	kat6b	ENSCARG00000014842	Lysine acetyltransferase	113112704
+Carassius_auratus	ran	ENSCARG00000014915	Others	113113662
+Carassius_auratus	med18	ENSCARG00000014978	Mediator complex	113116500
+Carassius_auratus	prmt2	ENSCARG00000015035	Arginine methyltransferase	113053500
+Carassius_auratus	sfmbt2	ENSCARG00000015126	Others	113048239
+Carassius_auratus	hyal2a	ENSCARG00000015275	Others	113050165
+Carassius_auratus	abrab	ENSCARG00000015352	Actin	113119251
+Carassius_auratus	ankra2	ENSCARG00000015382	Ankyrin repeat	NA
+Carassius_auratus	cnot10	ENSCARG00000015388	CCR4-NOT	NA
+Carassius_auratus	med30	ENSCARG00000015403	Mediator complex	113119255
+Carassius_auratus	btf3	ENSCARG00000015419	Others	113049531
+Carassius_auratus	anp32b	ENSCARG00000015489	ANP	NA
+Carassius_auratus	med29	ENSCARG00000015506	Mediator complex	NA
+Carassius_auratus	elp4	ENSCARG00000015584	ELP	113051995
+Carassius_auratus	arrb2b	ENSCARG00000015631	Others	NA
+Carassius_auratus	lbh	ENSCARG00000015712	Others	NA
+Carassius_auratus	med21	ENSCARG00000015864	Mediator complex	113064705
+Carassius_auratus	atxn7l3	ENSCARG00000015976	Others	113046855
+Carassius_auratus	ela3l	ENSCARG00000016120	Others	113049896
+Carassius_auratus	SSBP4	ENSCARG00000016148	Others	113045135
+Carassius_auratus	ctnnd2a	ENSCARG00000016199	Casein	NA
+Carassius_auratus	cdc73	ENSCARG00000016240	Others	113046095
+Carassius_auratus	hdac8	ENSCARG00000016264	Histone deacetylase	113106316
+Carassius_auratus	cbx8a	ENSCARG00000016326	Chromobox	113046660
+Carassius_auratus	ccnd1	ENSCARG00000016361	Cyclin	113051788
+Carassius_auratus	nab1b	ENSCARG00000016904	Others	NA
+Carassius_auratus	LRPPRC	ENSCARG00000016911	Others	113057116
+Carassius_auratus	apbb1	ENSCARG00000016913	Others	113109507
+Carassius_auratus	znf451	ENSCARG00000016921	Zinc finger	113113079
+Carassius_auratus	tbl1xr1a	ENSCARG00000016992	Transducin	113055009
+Carassius_auratus	aatf	ENSCARG00000016994	Others	NA
+Carassius_auratus	cdk1	ENSCARG00000017046	Cyclin	113117193
+Carassius_auratus	tab3	ENSCARG00000017112	Others	113107965
+Carassius_auratus	sgf29	ENSCARG00000017126	Others	113043974
+Carassius_auratus	trak1a	ENSCARG00000017166	Others	113116190
+Carassius_auratus	nfatc2ip	ENSCARG00000017168	Nuclear coactivator	NA
+Carassius_auratus	aip	ENSCARG00000017321	Others	113078376
+Carassius_auratus	ccdc62	ENSCARG00000017369	Coiled-coil	113110212
+Carassius_auratus	rybpb	ENSCARG00000017435	Others	113050339
+Carassius_auratus	ctnnb1	ENSCARG00000017481	Casein	113060111
+Carassius_auratus	prmt5	ENSCARG00000017490	Arginine methyltransferase	113044973
+Carassius_auratus	lpin2	ENSCARG00000017508	LPIN	113045727
+Carassius_auratus	prpf6	ENSCARG00000017518	Others	113041055
+Carassius_auratus	cbx5	ENSCARG00000017539	Chromobox	113041583
+Carassius_auratus	plk3	ENSCARG00000017546	Others	NA
+Carassius_auratus	smarca4a	ENSCARG00000017563	SWI/SNF	NA
+Carassius_auratus	chd7	ENSCARG00000017839	CHD	113117056
+Carassius_auratus	pabpc1l	ENSCARG00000017880	Other_CRF	113107325
+Carassius_auratus	tirap	ENSCARG00000017977	Others	NA
+Carassius_auratus	LIMD1	ENSCARG00000018013	LIM	113059815
+Carassius_auratus	dpf2	ENSCARG00000018041	DPF	113049594
+Carassius_auratus	cavin1b	ENSCARG00000018333	Others	113042175
+Carassius_auratus	hck	ENSCARG00000018406	Others	113041145
+Carassius_auratus	pcgf5a	ENSCARG00000018427	PCGF	113113685
+Carassius_auratus	mbtd1	ENSCARG00000018456	Others	113055970
+Carassius_auratus	sap18	ENSCARG00000018534	SAP	113108562
+Carassius_auratus	carm1	ENSCARG00000018587	Others	113047244
+Carassius_auratus	waca	ENSCARG00000018680	WW	113056108
+Carassius_auratus	rprd1b	ENSCARG00000018721	Others	NA
+Carassius_auratus	lyn	ENSCARG00000018896	Others	113045556
+Carassius_auratus	ralgapa1	ENSCARG00000018940	Others	113060789
+Carassius_auratus	fgfr2	ENSCARG00000018959	FGF	113056686
+Carassius_auratus	crym	ENSCARG00000019036	Others	113111916
+Carassius_auratus	cbx3a	ENSCARG00000019073	Chromobox	113120071
+Carassius_auratus	supt5h	ENSCARG00000019110	SUPT	113058398
+Carassius_auratus	drap1	ENSCARG00000019138	Others	113105395
+Carassius_auratus	strap	ENSCARG00000019165	Others	113065284
+Carassius_auratus	gtf2h1	ENSCARG00000019192	GTF	113042936
+Carassius_auratus	aurkaip1	ENSCARG00000019199	Others	113041464
+Carassius_auratus	jmjd1cb	ENSCARG00000019292	Other_CRF	113056328
+Carassius_auratus	tdrd3	ENSCARG00000019366	Others	113055451
+Carassius_auratus	nrbf2b	ENSCARG00000019378	Nuclear receptor coactivator	113056330
+Carassius_auratus	ctnnbip1	ENSCARG00000019384	Casein	113041470
+Carassius_auratus	ncl	ENSCARG00000019409	Others	NA
+Carassius_auratus	lin54	ENSCARG00000019440	Others	113109674
+Carassius_auratus	ccna2	ENSCARG00000019477	Cyclin	113114049
+Carassius_auratus	mms19	ENSCARG00000019507	Others	113056441
+Carassius_auratus	nipblb	ENSCARG00000019567	Others	113109975
+Carassius_auratus	nck1b	ENSCARG00000019664	Others	113042204
+Carassius_auratus	elp1	ENSCARG00000019697	ELP	113113839
+Carassius_auratus		ENSCARG00000019714	Others	NA
+Carassius_auratus	SPEN	ENSCARG00000019802	Others	113045596
+Carassius_auratus	ern1	ENSCARG00000019820	Others	113047104
+Carassius_auratus	HDAC3	ENSCARG00000019826	Histone deacetylase	NA
+Carassius_auratus	suv39h1b	ENSCARG00000019906	Others	NA
+Carassius_auratus		ENSCARG00000019952	CENP	NA
+Carassius_auratus	supt4h1	ENSCARG00000020208	SUPT	113068882
+Carassius_auratus		ENSCARG00000020318	Mediator complex	113058138
+Carassius_auratus	tnip2	ENSCARG00000020407	Others	NA
+Carassius_auratus	tgfb3	ENSCARG00000020480	Others	113060431
+Carassius_auratus	meaf6	ENSCARG00000020488	Others	113061994
+Carassius_auratus	skila	ENSCARG00000020587	SKI	113045490
+Carassius_auratus	zmynd11	ENSCARG00000020629	Zinc finger	113066151
+Carassius_auratus	kat2b	ENSCARG00000020707	Lysine acetyltransferase	113120092
+Carassius_auratus	nudt5	ENSCARG00000020744	Other_CRF	NA
+Carassius_auratus	cbfa2t2	ENSCARG00000020957	Others	NA
+Carassius_auratus	bcas3	ENSCARG00000020994	Others	113058509
+Carassius_auratus	crebbpa	ENSCARG00000021030	CREB	113039956
+Carassius_auratus	med8	ENSCARG00000021072	Mediator complex	113091262
+Carassius_auratus	nfkbib	ENSCARG00000021130	NFKB associated	113049579
+Carassius_auratus	brms1la	ENSCARG00000021169	Other_CRF	NA
+Carassius_auratus	dcc	ENSCARG00000021197	Others	NA
+Carassius_auratus	fgfr1a	ENSCARG00000021203	FGF	113107281
+Carassius_auratus	elof1	ENSCARG00000021212	GTF	113050710
+Carassius_auratus	cenpf	ENSCARG00000021252	CENP	NA
+Carassius_auratus	wu:fj64h06	ENSCARG00000021387	TATA-box	NA
+Carassius_auratus	dr1	ENSCARG00000021504	Others	113050663
+Carassius_auratus	rbm39a	ENSCARG00000021566	RNA binding protein	113111191
+Carassius_auratus	ing3	ENSCARG00000021616	ING	113048050
+Carassius_auratus	ctdsp1	ENSCARG00000021628	Others	113053699
+Carassius_auratus	CTH	ENSCARG00000021696	Others	113050543
+Carassius_auratus	PCGF3	ENSCARG00000021797	PCGF	113078357
+Carassius_auratus	pelp1	ENSCARG00000021830	Others	113052071
+Carassius_auratus	ankar	ENSCARG00000021908	Ankyrin repeat	113108362
+Carassius_auratus	camk4	ENSCARG00000021951	CAMK	113049834
+Carassius_auratus	supt20	ENSCARG00000022024	SUPT	113054452
+Carassius_auratus	vgll4b	ENSCARG00000022145	Vestigial like	113054928
+Carassius_auratus	hdac5	ENSCARG00000022174	Histone deacetylase	113046697
+Carassius_auratus	rnf4	ENSCARG00000022205	Ring finger protein	113113464
+Carassius_auratus	gtf2h5	ENSCARG00000022365	GTF	113045509
+Carassius_auratus	bcor	ENSCARG00000022443	Other_Co-activator/repressors	113064751
+Carassius_auratus	chuk	ENSCARG00000022486	Others	113056969
+Carassius_auratus	rgcc	ENSCARG00000022503	Others	113109030
+Carassius_auratus	FAM83G	ENSCARG00000022738	FAM	113044550
+Carassius_auratus	brf1b	ENSCARG00000022748	GTF	113063354
+Carassius_auratus	gtf2a1l	ENSCARG00000022761	GTF	113057336
+Carassius_auratus	pik3r1	ENSCARG00000022851	Others	113083631
+Carassius_auratus	trim25	ENSCARG00000022904	Tripartite motif	113050692
+Carassius_auratus	btg1	ENSCARG00000023016	Others	113060891
+Carassius_auratus	erbin	ENSCARG00000023042	Erbb2	113054179
+Carassius_auratus	raf1a	ENSCARG00000023115	Others	NA
+Carassius_auratus	ERBB4	ENSCARG00000023135	Erbb2	113108374
+Carassius_auratus	bcl10	ENSCARG00000023190	BCL	113046135
+Carassius_auratus		ENSCARG00000023689	Notch	113069904
+Carassius_auratus	znf593	ENSCARG00000024136	Zinc finger	NA
+Carassius_auratus	actr8	ENSCARG00000024193	ACTR	NA
+Carassius_auratus	KMT2A	ENSCARG00000024259	Lysine methyltransferase	113058440
+Carassius_auratus	PHF21B	ENSCARG00000024295	PHF	113048076
+Carassius_auratus	brca2	ENSCARG00000024322	Others	113114797
+Carassius_auratus	sltm	ENSCARG00000024427	Others	113105939
+Carassius_auratus	dhx33	ENSCARG00000024431	RNA helicase	113070148
+Carassius_auratus	hipk2	ENSCARG00000024457	HIPK	113061545
+Carassius_auratus	smyd2a	ENSCARG00000024597	SMYD	113060630
+Carassius_auratus	kmt5b	ENSCARG00000024726	Lysine methyltransferase	113118399
+Carassius_auratus	ywhaba	ENSCARG00000024825	Others	NA
+Carassius_auratus	rnf25	ENSCARG00000025152	Ring finger protein	113047157
+Carassius_auratus	pycard	ENSCARG00000025156	Others	113115898
+Carassius_auratus	kat8	ENSCARG00000025283	Lysine acetyltransferase	NA
+Carassius_auratus	phf2	ENSCARG00000025343	PHF	113111108
+Carassius_auratus	egln1b	ENSCARG00000025377	Others	113055383
+Carassius_auratus	sirt5	ENSCARG00000025396	Sirtuin	113063251
+Carassius_auratus	snw1	ENSCARG00000025483	Others	113121263
+Carassius_auratus	ascc3	ENSCARG00000025580	ASCC	113060039
+Carassius_auratus	setd1a	ENSCARG00000025627	SET	113047154
+Carassius_auratus	wnt4	ENSCARG00000025981	Others	113110862
+Carassius_auratus	cbx6a	ENSCARG00000026062	Chromobox	113039859
+Carassius_auratus	supt16h	ENSCARG00000026147	SUPT	NA
+Carassius_auratus		ENSCARG00000026322	Other_CRF	113066858
+Carassius_auratus	rad21b	ENSCARG00000026371	Others	113119276
+Carassius_auratus	cdkn1ba	ENSCARG00000026445	Cyclin	113048132
+Carassius_auratus	lrrc14b	ENSCARG00000026464	Others	113119278
+Carassius_auratus	sfr1	ENSCARG00000026718	Others	113056983
+Carassius_auratus		ENSCARG00000026755	Others	113055231
+Carassius_auratus	hcfc2	ENSCARG00000026971	Others	113059080
+Carassius_auratus	mllt1a	ENSCARG00000027097	GTF	113069914
+Carassius_auratus	SNIP1	ENSCARG00000027105	Others	113116128
+Carassius_auratus	creg1	ENSCARG00000027114	Others	113088201
+Carassius_auratus	sertad2b	ENSCARG00000027164	Others	NA
+Carassius_auratus	pex14	ENSCARG00000027167	Others	NA
+Carassius_auratus	ino80b	ENSCARG00000027266	INO80 complex	113096638
+Carassius_auratus	zgc:86598	ENSCARG00000027280	Casein	NA
+Carassius_auratus	ptena	ENSCARG00000027288	Others	113117513
+Carassius_auratus	eed	ENSCARG00000027290	Others	113090514
+Carassius_auratus	actn2b	ENSCARG00000027331	Actin	113094594
+Carassius_auratus		ENSCARG00000027491	Mediator complex	113115979
+Carassius_auratus	per2	ENSCARG00000027559	Others	113045318
+Carassius_auratus	smurf2	ENSCARG00000027623	Others	113046806
+Carassius_auratus	tbp	ENSCARG00000027705	TATA-box	NA
+Carassius_auratus	ilf2	ENSCARG00000027885	Others	NA
+Carassius_auratus	ddx5	ENSCARG00000027931	RNA helicase	113046808
+Carassius_auratus	jade1	ENSCARG00000027942	Others	113117524
+Carassius_auratus	mdm4	ENSCARG00000028036	Others	113111216
+Carassius_auratus	prmt7	ENSCARG00000028095	Arginine methyltransferase	NA
+Carassius_auratus	park7	ENSCARG00000028243	Others	113110895
+Carassius_auratus	cdk7	ENSCARG00000028255	Cyclin	NA
+Carassius_auratus	med1	ENSCARG00000028266	Mediator complex	113069194
+Carassius_auratus	plk1	ENSCARG00000028289	Others	113093854
+Carassius_auratus	ciita	ENSCARG00000028351	Others	NA
+Carassius_auratus	ccdc59	ENSCARG00000028434	Coiled-coil	113097440
+Carassius_auratus	hnrpkl	ENSCARG00000028600	HNRNP	113083953
+Carassius_auratus	fbxw11a	ENSCARG00000028608	Others	113069547
+Carassius_auratus	polr3f	ENSCARG00000028635	POLR	113065124
+Carassius_auratus	mrtfab	ENSCARG00000028698	Others	113056061
+Carassius_auratus	npm3	ENSCARG00000028937	Nucleoplasmin	113112824
+Carassius_auratus	sirt1	ENSCARG00000028958	Sirtuin	NA
+Carassius_auratus	kdm1a	ENSCARG00000029095	Lysine demethylase	NA
+Carassius_auratus	trip4	ENSCARG00000029273	Thyroid hormone receptor	NA
+Carassius_auratus	nlk2	ENSCARG00000029328	Others	113114806
+Carassius_auratus	hint1	ENSCARG00000029519	Others	113109521
+Carassius_auratus	camk2d1	ENSCARG00000029535	CAMK	113106329
+Carassius_auratus	nelfcd	ENSCARG00000029655	GTF	NA
+Carassius_auratus	dact1	ENSCARG00000029790	Others	113117655
+Carassius_auratus	tbpl2	ENSCARG00000029870	TATA-box	NA
+Carassius_auratus	tnksa	ENSCARG00000029889	Others	113064215
+Carassius_auratus	vegfc	ENSCARG00000029962	Other_CRF	NA
+Carassius_auratus	ccnh	ENSCARG00000030015	Cyclin	113049056
+Carassius_auratus	rnf2	ENSCARG00000030185	Ring finger protein	113116175
+Carassius_auratus	malt1	ENSCARG00000030281	Others	113049652
+Carassius_auratus	actr6	ENSCARG00000030303	ACTR	113066884
+Carassius_auratus	loxl3b	ENSCARG00000030382	Others	113057042
+Carassius_auratus	ccdc85b	ENSCARG00000030542	Coiled-coil	NA
+Carassius_auratus	prdx5	ENSCARG00000030588	Others	113038524
+Carassius_auratus	birc5a	ENSCARG00000030695	Others	113055953
+Carassius_auratus	kank1a	ENSCARG00000030842	Others	113078960
+Carassius_auratus	mphosph8	ENSCARG00000031027	Others	113053385
+Carassius_auratus	cxxc1a	ENSCARG00000031373	Others	NA
+Carassius_auratus	tpra	ENSCARG00000031380	Others	NA
+Carassius_auratus	chd9	ENSCARG00000031394	CHD	113106050
+Carassius_auratus	smarca2	ENSCARG00000031497	SWI/SNF	113079070
+Carassius_auratus	rbmx	ENSCARG00000031601	RNA binding protein	NA
+Carassius_auratus	txnipa	ENSCARG00000031649	Others	113068243
+Carassius_auratus	jak2b	ENSCARG00000031700	Others	NA
+Carassius_auratus	cnot3b	ENSCARG00000031829	CCR4-NOT	113120163
+Carassius_auratus	ecd	ENSCARG00000031885	Others	NA
+Carassius_auratus	padi2	ENSCARG00000032158	Other_CRF	113070203
+Carassius_auratus	brf2	ENSCARG00000032190	GTF	113054548
+Carassius_auratus		ENSCARG00000032298	Others	113095314
+Carassius_auratus	kdm2bb	ENSCARG00000032412	Lysine demethylase	NA
+Carassius_auratus	gtf2b	ENSCARG00000032661	GTF	113116168
+Carassius_auratus	syk	ENSCARG00000032674	Others	113109547
+Carassius_auratus	med31	ENSCARG00000033112	Mediator complex	NA
+Carassius_auratus	MED13L	ENSCARG00000033392	Mediator complex	113084485
+Carassius_auratus	smarcd1	ENSCARG00000033424	SWI/SNF	113076264
+Carassius_auratus	clu	ENSCARG00000033832	Others	113051028
+Carassius_auratus	eny2	ENSCARG00000033876	Others	113059218
+Carassius_auratus	grhpra	ENSCARG00000033900	Others	113091094
+Carassius_auratus	wwp1	ENSCARG00000033913	WW	NA
+Carassius_auratus	rbl1	ENSCARG00000033926	Other_Co-activator/repressors	113103149
+Carassius_auratus		ENSCARG00000034115	Others	113058682
+Carassius_auratus	slc30a9	ENSCARG00000034310	SLC	NA
+Carassius_auratus	cnot9	ENSCARG00000034596	CCR4-NOT	113064786
+Carassius_auratus	chek2	ENSCARG00000034647	Others	113067941
+Carassius_auratus	rnf111	ENSCARG00000034772	Ring finger protein	113051908
+Carassius_auratus	frzb	ENSCARG00000034798	Others	NA
+Carassius_auratus	abl1	ENSCARG00000034989	Others	113084559
+Carassius_auratus	smarcad1a	ENSCARG00000035209	SWI/SNF	113096349
+Carassius_auratus		ENSCARG00000035226	TATA-box	113061409
+Carassius_auratus	chd6	ENSCARG00000035261	CHD	113103175
+Carassius_auratus	ss18l2	ENSCARG00000035267	SS18	113061412
+Carassius_auratus	kdm5bb	ENSCARG00000035316	Lysine demethylase	113107752
+Carassius_auratus	rbfox1	ENSCARG00000035343	Others	113046992
+Carassius_auratus	top1l	ENSCARG00000035362	Other_CRF	113095891
+Carassius_auratus	ttf2	ENSCARG00000035443	Others	113053415
+Carassius_auratus	kdm4ab	ENSCARG00000035469	Lysine demethylase	113045633
+Carassius_auratus	plrg1	ENSCARG00000035490	Others	113107966
+Carassius_auratus	MTPN	ENSCARG00000035571	Others	113048571
+Carassius_auratus	pqbp1	ENSCARG00000035777	Others	113107383
+Carassius_auratus	mid1ip1l	ENSCARG00000035880	Others	NA
+Carassius_auratus	baz1a	ENSCARG00000035944	Bromodomain	NA
+Carassius_auratus	snx6	ENSCARG00000036262	Others	113117675
+Carassius_auratus	rprd1a	ENSCARG00000036295	Others	NA
+Carassius_auratus	ddx20	ENSCARG00000036303	RNA helicase	113107755
+Carassius_auratus		ENSCARG00000036365	Actin	NA
+Carassius_auratus	fhl3a	ENSCARG00000036572	FHL	113082595
+Carassius_auratus	MYOCD	ENSCARG00000036606	Others	NA
+Carassius_auratus	notch1b	ENSCARG00000036847	Notch	113049667
+Carassius_auratus	ssbp2	ENSCARG00000036927	Others	113054590
+Carassius_auratus	chd8	ENSCARG00000036983	CHD	113044991
+Carassius_auratus	flii	ENSCARG00000037021	Others	NA
+Carassius_auratus	ice2	ENSCARG00000037065	GTF	113077385
+Carassius_auratus	eya1	ENSCARG00000037304	EYA	NA
+Carassius_auratus		ENSCARG00000037367	Nuclear receptor coactivator	NA
+Carassius_auratus	ufl1	ENSCARG00000037382	Others	113121283
+Carassius_auratus	znf703	ENSCARG00000037387	Zinc finger	113048926
+Carassius_auratus	atad2	ENSCARG00000037549	Others	113059893
+Carassius_auratus	rbpms	ENSCARG00000037568	RNA binding protein	NA
+Carassius_auratus	ell	ENSCARG00000037628	GTF	NA
+Carassius_auratus	mtf2	ENSCARG00000037866	Others	113045646
+Carassius_auratus	runx1t1	ENSCARG00000037985	Others	113119442
+Carassius_auratus	pink1	ENSCARG00000038064	Others	113065696
+Carassius_auratus	eapp	ENSCARG00000038191	Others	113117676
+Carassius_auratus	ikbkg	ENSCARG00000038219	Others	NA
+Carassius_auratus	sirt3	ENSCARG00000038292	Sirtuin	113106362
+Carassius_auratus	calcoco1a	ENSCARG00000038313	Others	113065706
+Carassius_auratus		ENSCARG00000038323	Others	113061419
+Carassius_auratus	rpap2	ENSCARG00000038378	Others	113045650
+Carassius_auratus	kdm2ab	ENSCARG00000038595	Lysine demethylase	NA
+Carassius_auratus	lmo1	ENSCARG00000038653	LIM	113049469
+Carassius_auratus	ccnt1	ENSCARG00000038838	Cyclin	113065722
+Carassius_auratus	supt7l	ENSCARG00000038859	SUPT	113117036
+Carassius_auratus	ncoa3	ENSCARG00000038885	Nuclear receptor coactivator	113055267
+Carassius_auratus	nsmce4a	ENSCARG00000039001	EID	113056700
+Carassius_auratus	zmynd8	ENSCARG00000039082	Zinc finger	113055269
+Carassius_auratus	med19b	ENSCARG00000039228	Mediator complex	113095110
+Carassius_auratus	taf1a	ENSCARG00000039334	TATA-box	113120579
+Carassius_auratus	s100z	ENSCARG00000039501	Others	113075318
+Carassius_auratus	edrf1	ENSCARG00000039593	Others	113117688
+Carassius_auratus	pspc1	ENSCARG00000039755	Others	113108629
+Carassius_auratus	EZH1	ENSCARG00000039829	Others	113097179
+Carassius_auratus	ndnl2	ENSCARG00000039948	MAGE	113068695
+Carassius_auratus	pfdn5	ENSCARG00000039956	Others	113094379
+Carassius_auratus	pa2g4a	ENSCARG00000040036	Others	113050913
+Carassius_auratus	hdac7a	ENSCARG00000040066	Histone deacetylase	113094071
+Carassius_auratus	frk	ENSCARG00000040135	Others	113121287
+Carassius_auratus	kdm3b	ENSCARG00000040146	Lysine demethylase	113069575
+Carassius_auratus	ino80e	ENSCARG00000040223	INO80 complex	113116423
+Carassius_auratus	sap30bp	ENSCARG00000040273	SAP	113049237
+Carassius_auratus	chd1l	ENSCARG00000040322	CHD	NA
+Carassius_auratus	lzts1	ENSCARG00000040326	Others	113094881
+Carassius_auratus	tbpl1	ENSCARG00000040402	TATA-box	113065598
+Carassius_auratus		ENSCARG00000040442	PARP	113054191
+Carassius_auratus	HNRNPD	ENSCARG00000040446	HNRNP	NA
+Carassius_auratus	trim33	ENSCARG00000040523	Tripartite motif	113074131
+Carassius_auratus	wwc1	ENSCARG00000040647	WW	113038363
+Carassius_auratus	dot1l	ENSCARG00000040732	Others	113077116
+Carassius_auratus	rnf8	ENSCARG00000040760	Ring finger protein	113068536
+Carassius_auratus	naa15b	ENSCARG00000040839	Others	113100265
+Carassius_auratus	cnot8	ENSCARG00000040859	CCR4-NOT	113038365
+Carassius_auratus	CTBP1	ENSCARG00000041099	Others	113069583
+Carassius_auratus	emsy	ENSCARG00000041238	Others	113054780
+Carassius_auratus	ripply1	ENSCARG00000041379	Others	113070093
+Carassius_auratus	rap2c	ENSCARG00000041410	Others	113114223
+Carassius_auratus	taf11	ENSCARG00000041459	TATA-box	113094064
+Carassius_auratus	cdk9	ENSCARG00000041466	Cyclin	113038951
+Carassius_auratus	trip11	ENSCARG00000041493	Thyroid hormone receptor	113056714
+Carassius_auratus	tle3b	ENSCARG00000041501	Transducin	NA
+Carassius_auratus	elp2	ENSCARG00000041524	ELP	NA
+Carassius_auratus	siah2l	ENSCARG00000041682	Others	113070105
+Carassius_auratus	taf9	ENSCARG00000041715	TATA-box	113070106
+Carassius_auratus	mybbp1a	ENSCARG00000041801	MYB	113072879
+Carassius_auratus	taf7	ENSCARG00000041941	TATA-box	113075441
+Carassius_auratus	arrb1	ENSCARG00000041979	Others	113115330
+Carassius_auratus	ccnt2a	ENSCARG00000042017	Cyclin	NA
+Carassius_auratus	gps2	ENSCARG00000042155	Others	113048776
+Carassius_auratus	JUP	ENSCARG00000042204	Others	113062647
+Carassius_auratus	nab2	ENSCARG00000042282	Others	NA
+Carassius_auratus	mcrs1	ENSCARG00000042356	Others	113054902
+Carassius_auratus	nup98	ENSCARG00000042573	Others	113038383
+Carassius_auratus	dnmt1	ENSCARG00000042596	DNA_methylase	NA
+Carassius_auratus		ENSCARG00000042981	Tripartite motif	113099677
+Carassius_auratus	sin3aa	ENSCARG00000042984	Other_CRF	113079162
+Carassius_auratus	peli1b	ENSCARG00000042998	Others	113095732
+Carassius_auratus	ing4	ENSCARG00000043074	ING	NA
+Carassius_auratus	puf60a	ENSCARG00000043435	Others	113045683
+Carassius_auratus	trim32	ENSCARG00000043680	Tripartite motif	NA
+Carassius_auratus	hdac10	ENSCARG00000043707	Histone deacetylase	113066637
+Carassius_auratus	med11	ENSCARG00000043727	Mediator complex	113093064
+Carassius_auratus	pid1	ENSCARG00000043758	Others	113118633
+Carassius_auratus	actn4	ENSCARG00000044084	Actin	113058769
+Carassius_auratus	wwox	ENSCARG00000044173	WW	113067250
+Carassius_auratus		ENSCARG00000044342	Others	113115177
+Carassius_auratus	rexo4	ENSCARG00000044366	Others	113075724
+Carassius_auratus	setd7	ENSCARG00000044509	SET	113091145
+Carassius_auratus	raly	ENSCARG00000044633	Others	113105087
+Carassius_auratus	polr3c	ENSCARG00000044682	POLR	NA
+Carassius_auratus	med28	ENSCARG00000044879	Mediator complex	113044235
+Carassius_auratus	zgc:162255	ENSCARG00000045043	Other_CRF	113099000
+Carassius_auratus	ccar1	ENSCARG00000045370	Others	113112934
+Carassius_auratus	kat5a	ENSCARG00000045718	Lysine acetyltransferase	113048799
+Carassius_auratus	btk	ENSCARG00000046080	Others	NA
+Carassius_auratus	med14	ENSCARG00000046101	Mediator complex	113053095
+Carassius_auratus	actl6b	ENSCARG00000046153	Actin	113065779
+Carassius_auratus	gtf2e1	ENSCARG00000046283	GTF	113053237
+Carassius_auratus	taf2	ENSCARG00000046344	TATA-box	113078648
+Carassius_auratus		ENSCARG00000046663	ANP	113119338
+Carassius_auratus	dvl3b	ENSCARG00000046684	Others	NA
+Carassius_auratus	chrac1	ENSCARG00000046800	Other_CRF	113062065
+Carassius_auratus	KDM1B	ENSCARG00000046833	Lysine demethylase	NA
+Carassius_auratus	kdm5c	ENSCARG00000046843	Lysine demethylase	113070734
+Carassius_auratus	arglu1b	ENSCARG00000046869	Others	113044569
+Carassius_auratus	dcaf6	ENSCARG00000047048	Others	NA
+Carassius_auratus	gmnn	ENSCARG00000047049	Others	NA
+Carassius_auratus	rtf1	ENSCARG00000047080	Others	113056717
+Carassius_auratus	insra	ENSCARG00000047402	Others	113045021
+Carassius_auratus	wbp2	ENSCARG00000047471	WW	113081093
+Carassius_auratus	ssu72	ENSCARG00000047522	Others	113102980
+Carassius_auratus	chchd2	ENSCARG00000047627	Coiled-coil	113115335
+Carassius_auratus	ctbp2a	ENSCARG00000047656	Others	NA
+Carassius_auratus	btaf1	ENSCARG00000047810	Others	NA
+Carassius_auratus	brwd1	ENSCARG00000048155	Bromodomain	113115325
+Carassius_auratus	ago2	ENSCARG00000048183	Others	113119355
+Carassius_auratus	ppie	ENSCARG00000048236	Others	NA
+Carassius_auratus	nelfb	ENSCARG00000048424	GTF	113049313
+Carassius_auratus	lancl2	ENSCARG00000048503	Others	113076185
+Carassius_auratus	xrn2	ENSCARG00000048640	Others	113093348
+Carassius_auratus	dscamb	ENSCARG00000048654	Others	113115341
+Carassius_auratus	ccnk	ENSCARG00000048764	Cyclin	113063416
+Carassius_auratus	uxt	ENSCARG00000048972	Others	113074173
+Carassius_auratus	DCAF1	ENSCARG00000048990	Others	113107795
+Carassius_auratus	stk3	ENSCARG00000048992	Others	113119464
+Carassius_auratus	pak6a	ENSCARG00000049150	Others	NA
+Carassius_auratus	kdm6a	ENSCARG00000049200	Lysine demethylase	113053109
+Carassius_auratus	tsg101a	ENSCARG00000049670	Others	113067300
+Carassius_auratus	men1	ENSCARG00000049722	Others	113071381
+Carassius_auratus	si:dkey-46i9.6	ENSCARG00000049833	Tripartite motif	NA
+Carassius_auratus	tonsl	ENSCARG00000049958	Others	113060897
+Carassius_auratus	med10	ENSCARG00000050081	Mediator complex	113119542
+Carassius_auratus	taf8	ENSCARG00000050405	TATA-box	NA
+Carassius_auratus	cdk5	ENSCARG00000050431	Cyclin	113042631
+Carassius_auratus	HDAC11	ENSCARG00000050469	Histone deacetylase	NA
+Carassius_auratus	sin3b	ENSCARG00000050518	Others	113093563
+Carassius_auratus	sirt2	ENSCARG00000050602	Sirtuin	113115348
+Carassius_auratus	ilk	ENSCARG00000050671	Others	113078354
+Carassius_auratus	ddx39b	ENSCARG00000050917	RNA helicase	NA
+Carassius_auratus	OGT	ENSCARG00000050943	Others	113113353
+Carassius_auratus	rnf141	ENSCARG00000051028	Ring finger protein	113118300
+Carassius_auratus	macroh2a2	ENSCARG00000051088	Others	113057213
+Carassius_auratus	caska	ENSCARG00000051129	CAMK	113108412
+Carassius_auratus	gtf2h4	ENSCARG00000051135	GTF	NA
+Carassius_auratus	ccar2	ENSCARG00000051294	Others	NA
+Carassius_auratus	kdm4b	ENSCARG00000051402	Lysine demethylase	113074103
+Carassius_auratus	nrip2	ENSCARG00000051784	Nuclear coactivator	113075916
+Carassius_auratus	ash2l	ENSCARG00000051792	Others	113102523
+Carassius_auratus	skap1	ENSCARG00000051804	Others	113056178
+Carassius_auratus	gtf2a2	ENSCARG00000051989	GTF	113052300
+Carassius_auratus	stk36	ENSCARG00000052186	Others	113049336
+Carassius_auratus	cdk13	ENSCARG00000052206	Cyclin	113066342
+Carassius_auratus		ENSCARG00000052394	Others	NA
+Carassius_auratus	lin9	ENSCARG00000052409	Others	113092571
+Carassius_auratus	kdm8	ENSCARG00000052684	Lysine demethylase	113049803
+Carassius_auratus	rnf168	ENSCARG00000052893	Ring finger protein	113115355
+Carassius_auratus	kdm6ba	ENSCARG00000053004	Lysine demethylase	113052186
+Carassius_auratus	ezh2	ENSCARG00000053020	Others	NA
+Carassius_auratus	tescb	ENSCARG00000053055	Others	113049342
+Carassius_auratus	hira	ENSCARG00000053247	Others	113075832
+Carassius_auratus	wdr5	ENSCARG00000053384	WD	113064319
+Carassius_auratus	YEATS2	ENSCARG00000053676	Others	NA
+Carassius_auratus	dpf1	ENSCARG00000053705	DPF	NA
+Carassius_auratus	blm	ENSCARG00000053907	Others	113061627
+Carassius_auratus	csrp3	ENSCARG00000053989	Others	113105548
+Carassius_auratus	alyref	ENSCARG00000053991	Others	113046578
+Carassius_auratus	vhl	ENSCARG00000054091	Others	113095019
+Carassius_auratus	bud31	ENSCARG00000054131	Others	113078093
+Carassius_auratus	recql5	ENSCARG00000054155	Others	113046583
+Carassius_auratus	fhod1	ENSCARG00000054156	Others	113051492
+Carassius_auratus	pdcd4b	ENSCARG00000054264	Others	113065079
+Carassius_auratus	nfkbiaa	ENSCARG00000054404	NFKB associated	113063031
+Carassius_auratus	chd3	ENSCARG00000054425	CHD	NA
+Carassius_auratus	nrip1a	ENSCARG00000054432	Nuclear receptor coactivator	113058565
+Carassius_auratus	BRD3	ENSCARG00000054567	Bromodomain	113079791
+Carassius_auratus	irf2bpl	ENSCARG00000054578	Others	113060951
+Carassius_auratus	CIR1	ENSCARG00000054627	Other_Co-activator/repressors	113109112
+Carassius_auratus	edf1	ENSCARG00000054664	Others	113079836
+Carassius_auratus	jmjd6	ENSCARG00000054856	Others	113046594
+Carassius_auratus	pex2	ENSCARG00000055318	Others	NA
+Carassius_auratus		ENSCARG00000055438	Others	NA
+Carassius_auratus	SUMO3	ENSCARG00000055496	Others	NA
+Carassius_auratus	tfb2m	ENSCARG00000055555	Others	NA
+Carassius_auratus	cops5	ENSCARG00000055561	Others	NA
+Carassius_auratus	med20	ENSCARG00000055579	Mediator complex	113074905
+Carassius_auratus	smyd3	ENSCARG00000055602	SMYD	NA
+Carassius_auratus	c1qbp	ENSCARG00000055665	Others	113068033
+Carassius_auratus	mycbp	ENSCARG00000055793	MYC	NA
+Carassius_auratus	yaf2	ENSCARG00000055798	Others	113047990
+Carassius_auratus	ccne1	ENSCARG00000055913	Cyclin	113051508
+Carassius_auratus	cnot2	ENSCARG00000055929	CCR4-NOT	113066962
+Carassius_auratus		ENSCARG00000055938	NFKB associated	113059724
+Carassius_auratus	mak	ENSCARG00000056019	Others	113066115
+Carassius_auratus	sirt6	ENSCARG00000056048	Sirtuin	113079293
+Carassius_auratus	phf21ab	ENSCARG00000056050	PHF	113066514
+Carassius_auratus	hat1	ENSCARG00000056171	Others	113109120
+Carassius_auratus	hells	ENSCARG00000056179	Others	NA
+Carassius_auratus	ccnc	ENSCARG00000056349	Cyclin	113060094
+Carassius_auratus	SETD2	ENSCARG00000056535	SET	113060209
+Carassius_auratus	supt3h	ENSCARG00000056555	SUPT	NA
+Carassius_auratus	mad2l2	ENSCARG00000056775	Others	NA
+Carassius_auratus	chico	ENSCARG00000056852	Others	113079318
+Carassius_auratus	smurf1	ENSCARG00000056906	Others	NA
+Carassius_auratus	rbbp4	ENSCARG00000056919	RBBP	113091455
+Carassius_auratus	mycbp2	ENSCARG00000056996	MYC	113053452
+Carassius_auratus	rptor	ENSCARG00000057337	Others	113071303
+Carassius_auratus	vgll2a	ENSCARG00000057521	Vestigial like	113073781
+Carassius_auratus	h2az2a	ENSCARG00000057649	Others	113048729
+Carassius_auratus	ago1	ENSCARG00000057687	Others	NA
+Carassius_auratus	nsd1a	ENSCARG00000057758	Nuclear receptor coactivator	113114008
+Carassius_auratus	ncoa2	ENSCARG00000057827	Nuclear receptor coactivator	113042309
+Carassius_auratus	ascc2	ENSCARG00000057872	ASCC	113081537
+Carassius_auratus	src	ENSCARG00000058166	Others	113065632
+Carassius_auratus	atrx	ENSCARG00000058335	Others	NA
+Carassius_auratus	nelfa	ENSCARG00000058340	GTF	113052110
+Carassius_auratus	smarca5	ENSCARG00000058358	SWI/SNF	NA
+Carassius_auratus	setd3	ENSCARG00000058363	SET	113117421
+Carassius_auratus	SAP30L	ENSCARG00000058371	SAP	NA
+Carassius_auratus	sdr16c5b	ENSCARG00000058543	Others	113074269
+Carassius_auratus	pttg1	ENSCARG00000058576	Others	NA
+Carassius_auratus		ENSCARG00000058956	Heat shock protein	113047258
+Carassius_auratus	anp32a	ENSCARG00000058959	ANP	NA
+Carassius_auratus	txn	ENSCARG00000059020	Others	113052117
+Carassius_auratus	strn3	ENSCARG00000059044	Others	113098435
+Carassius_auratus	si:ch211-261n11.5	ENSCARG00000059200	Others	113076430
+Carassius_auratus	dapk3	ENSCARG00000059313	Others	113077829
+Carassius_auratus	ctr9	ENSCARG00000059709	Others	113106471
+Carassius_auratus	dnaja3a	ENSCARG00000060285	Others	113067409
+Carassius_auratus		ENSCARG00000060362	Others	113052120
+Carassius_auratus	DUSP26	ENSCARG00000060579	Others	113054702
+Carassius_auratus	si:dkey-185e18.7	ENSCARG00000060661	CENP	113074956
+Carassius_auratus	ajuba	ENSCARG00000060749	Others	113052122
+Carassius_auratus		ENSCARG00000060781	Others	113069188
+Carassius_auratus	ppid	ENSCARG00000060825	Others	113114029
+Carassius_auratus	kmt5aa	ENSCARG00000060929	Lysine methyltransferase	113054712
+Carassius_auratus	egln2	ENSCARG00000061139	Others	113115280
+Carassius_auratus	cnot6a	ENSCARG00000061491	CCR4-NOT	113063999
+Carassius_auratus	asf1bb	ENSCARG00000061584	Others	113097112
+Carassius_auratus	mtor	ENSCARG00000061627	Others	113097237
+Carassius_auratus	SFMBT1	ENSCARG00000061695	Others	113110978
+Carassius_auratus	suz12a	ENSCARG00000061839	Others	NA
+Carassius_auratus	nup62l	ENSCARG00000061885	Others	113113385
+Carassius_auratus	ash1l	ENSCARG00000062115	Others	NA
+Carassius_auratus	arhgap35a	ENSCARG00000062124	Others	113058590
+Carassius_auratus	gtf2h3	ENSCARG00000062162	GTF	113094249
+Carassius_auratus	tdp2b	ENSCARG00000062529	Others	113119593
+Carassius_auratus	supt6h	ENSCARG00000062608	SUPT	113038542
+Carassius_auratus	naca	ENSCARG00000062794	Others	NA
+Carassius_auratus	sf1	ENSCARG00000062797	Others	113052150
+Carassius_auratus	rbbp5	ENSCARG00000062828	RBBP	113096627
+Carassius_auratus	hdac1	ENSCARG00000062977	Histone deacetylase	113091445
+Carassius_auratus	RIPK2	ENSCARG00000063104	Others	NA
+Carassius_auratus	wnt3a	ENSCARG00000063189	Others	113095726
+Carassius_auratus	ldb2a	ENSCARG00000063386	LIM	113114044
+Carassius_auratus	trim8b	ENSCARG00000063403	Tripartite motif	113070564
+Carassius_auratus	tnni2b.1	ENSCARG00000063440	Others	113106117
+Carassius_auratus	paf1	ENSCARG00000063736	Others	NA
+Carassius_auratus	tab1	ENSCARG00000063952	Others	113095144
+Carassius_auratus	psen1	ENSCARG00000064003	Others	113060378
+Carassius_auratus	skor1a	ENSCARG00000064004	SKI	113106007
+Carassius_auratus	med12	ENSCARG00000064081	Mediator complex	113057849
+Carassius_auratus	wwp2	ENSCARG00000064230	WW	113067170
+Carassius_auratus	arl2bp	ENSCARG00000064261	Others	NA
+Carassius_auratus	rbx1	ENSCARG00000064356	Others	113047604
+Carassius_auratus	ehmt1b	ENSCARG00000064369	Histone lysine methyltransferase	NA
+Carassius_auratus	ncoa4	ENSCARG00000064498	Nuclear receptor coactivator	113057250
+Carassius_auratus	smyd1b	ENSCARG00000064718	SMYD	113106880
+Carassius_auratus		ENSCARG00000065243	Zinc finger	NA
+Carassius_auratus	phip	ENSCARG00000065312	Others	NA
+Carassius_auratus	cxxc5a	ENSCARG00000065388	Others	NA
+Carassius_auratus	taf10	ENSCARG00000065568	TATA-box	113093938
+Carassius_auratus	ankrd2	ENSCARG00000065598	Ankyrin repeat	NA
+Carassius_auratus	sav1	ENSCARG00000065867	Others	113056801
+Carassius_auratus	nol11	ENSCARG00000065893	Nuclear coactivator	113100031
+Carassius_auratus	dnajb1b	ENSCARG00000065920	Others	NA
+Carassius_auratus	tnip1	ENSCARG00000066046	Others	113057604
+Carassius_auratus	pidd1	ENSCARG00000066393	Others	113066528
+Carassius_auratus	hdac4	ENSCARG00000066478	Histone deacetylase	113052974
+Carassius_auratus	cdk2	ENSCARG00000066517	Cyclin	113069258
+Carassius_auratus	gnl3	ENSCARG00000066663	Others	113069413
+Carassius_auratus	ino80c	ENSCARG00000066751	INO80 complex	113116639
+Carassius_auratus	cnot6l	ENSCARG00000066787	CCR4-NOT	113049113
+Carassius_auratus	phf10	ENSCARG00000066956	PHF	113057271
+Carassius_auratus		ENSCARG00000067095	Others	113045545
+Carassius_auratus	pim1	ENSCARG00000067103	Others	NA
+Carassius_auratus	med27	ENSCARG00000067162	Mediator complex	113071768
+Carassius_auratus	c1d	ENSCARG00000067192	Other_Co-activator/repressors	NA
+Carassius_auratus	DGKQ	ENSCARG00000067269	Others	113057630
+Carassius_auratus	picalma	ENSCARG00000067334	Others	113109887
+Carassius_auratus	elp3	ENSCARG00000067485	ELP	113062948
+Carassius_auratus	apex1	ENSCARG00000067516	Others	113048533
+Carassius_auratus	PCBD2	ENSCARG00000067571	Others	NA
+Carassius_auratus	fhl2a	ENSCARG00000067750	FHL	113108903
+Carassius_auratus	brip1	ENSCARG00000067921	Others	113114902
+Carassius_auratus	lpin1	ENSCARG00000067927	LPIN	113117458
+Carassius_auratus	yap1	ENSCARG00000068036	Others	113061663
+Carassius_auratus	tenm1	ENSCARG00000068099	Others	NA
+Carassius_auratus	kmt2d	ENSCARG00000068124	Lysine methyltransferase	113065480
+Carassius_auratus	thoc5	ENSCARG00000068314	Others	113066567
+Carassius_auratus	tcea1	ENSCARG00000068370	TEF	113117928
+Carassius_auratus	slc25a15b	ENSCARG00000068423	SLC	113091290
+Carassius_auratus	mtdhb	ENSCARG00000068463	Others	113059534
+Carassius_auratus		ENSCARG00000068468	Thyroid hormone receptor	113105604
+Carassius_auratus	rrn3	ENSCARG00000068490	Others	NA
+Carassius_auratus	JMY	ENSCARG00000068495	Others	113089559
+Carassius_auratus	phf8	ENSCARG00000068503	PHF	113065491
+Carassius_auratus	fgf5	ENSCARG00000068598	FGF	113050013
+Carassius_auratus	arhgap5	ENSCARG00000068732	Others	113117341
+Carassius_auratus	nrg1	ENSCARG00000068883	Others	113053972
+Carassius_auratus	setb	ENSCARG00000069042	SET	113064088
+Carassius_auratus	baz1b	ENSCARG00000069049	Bromodomain	113061701
+Carassius_auratus	bmi1a	ENSCARG00000069102	Others	NA
+Carassius_auratus	calr	ENSCARG00000069141	Others	113069841
+Carassius_auratus	med13a	ENSCARG00000069188	Mediator complex	113097143
+Carassius_auratus	lrrk2	ENSCARG00000069416	Other_CRF	113067204
+Carassius_auratus	eno1a	ENSCARG00000069504	Others	113068891
+Carassius_auratus	rasd1	ENSCARG00000069545	Others	113068176
+Carassius_auratus	bcl9l	ENSCARG00000069590	BCL	113061761
+Carassius_auratus	cnot1	ENSCARG00000069596	CCR4-NOT	113066724
+Carassius_auratus	flncb	ENSCARG00000069751	Others	NA
+Carassius_auratus	prmt6	ENSCARG00000069837	Arginine methyltransferase	113042510
+Carassius_auratus		ENSCARG00000069912	Others	NA
+Carassius_auratus	cops2	ENSCARG00000069990	Others	113067039
+Carassius_auratus	rb1	ENSCARG00000069995	Other_Co-activator/repressors	113038593
+Carassius_auratus	nono	ENSCARG00000070037	Others	113091310
+Carassius_auratus	ddx1	ENSCARG00000070046	RNA helicase	113062986
+Carassius_auratus	cep290	ENSCARG00000070057	Others	113066742
+Carassius_auratus	abt1	ENSCARG00000070087	Others	113075232
+Carassius_auratus	rbl2	ENSCARG00000070118	Other_Co-activator/repressors	NA
+Carassius_auratus	birc2	ENSCARG00000070148	Others	113038605
+Carassius_auratus	chd1	ENSCARG00000070202	CHD	113053982
+Carassius_auratus	tdg.1	ENSCARG00000070207	Others	113066764
+Carassius_auratus	chek1	ENSCARG00000070315	Others	113038615
+Carassius_auratus	si:dkey-21c19.3	ENSCARG00000070353	Others	113068951

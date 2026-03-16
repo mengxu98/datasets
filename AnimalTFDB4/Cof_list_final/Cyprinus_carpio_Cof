@@ -1,0 +1,707 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Cyprinus_carpio	PCBD2	ENSCCRG00000000352	Others	NA
+Cyprinus_carpio	abl1	ENSCCRG00000000515	Others	109048738
+Cyprinus_carpio	ccdc59	ENSCCRG00000000722	Coiled-coil	NA
+Cyprinus_carpio	med19b	ENSCCRG00000000724	Mediator complex	109050397
+Cyprinus_carpio	chd8	ENSCCRG00000000874	CHD	NA
+Cyprinus_carpio	btg1	ENSCCRG00000000903	Others	109074968
+Cyprinus_carpio	hdac6	ENSCCRG00000000990	Histone deacetylase	NA
+Cyprinus_carpio	fgf5	ENSCCRG00000001042	FGF	109090909
+Cyprinus_carpio	hcls1	ENSCCRG00000001201	Others	NA
+Cyprinus_carpio		ENSCCRG00000001211	Others	109084505
+Cyprinus_carpio	hdac4	ENSCCRG00000001231	Histone deacetylase	NA
+Cyprinus_carpio	wdtc1	ENSCCRG00000001239	WD	NA
+Cyprinus_carpio	ctr9	ENSCCRG00000001301	Others	109093495
+Cyprinus_carpio	PCGF3	ENSCCRG00000001338	PCGF	109084566
+Cyprinus_carpio	smurf1	ENSCCRG00000001383	Others	NA
+Cyprinus_carpio	hspa8	ENSCCRG00000001416	Heat shock protein	NA
+Cyprinus_carpio	ankrd52a	ENSCCRG00000001588	BCL	NA
+Cyprinus_carpio	dnmt3bb.1	ENSCCRG00000001594	DNA_methylase	NA
+Cyprinus_carpio	kdm5bb	ENSCCRG00000001690	Lysine demethylase	NA
+Cyprinus_carpio	dact1	ENSCCRG00000001724	Others	109102542
+Cyprinus_carpio	cnot11	ENSCCRG00000001771	CCR4-NOT	NA
+Cyprinus_carpio	tab1	ENSCCRG00000001823	Others	NA
+Cyprinus_carpio		ENSCCRG00000001825	Other_Co-activator/repressors	NA
+Cyprinus_carpio	caska	ENSCCRG00000001879	CAMK	NA
+Cyprinus_carpio	ern1	ENSCCRG00000001889	Others	NA
+Cyprinus_carpio	arrb1	ENSCCRG00000001902	Others	NA
+Cyprinus_carpio	erbb2	ENSCCRG00000001972	Erbb2	109102100
+Cyprinus_carpio	hcfc1b	ENSCCRG00000002147	Others	NA
+Cyprinus_carpio	tenm1	ENSCCRG00000002235	Others	NA
+Cyprinus_carpio		ENSCCRG00000002281	Others	109096694
+Cyprinus_carpio	plk1	ENSCCRG00000002314	Others	109062389
+Cyprinus_carpio	gtf2h2	ENSCCRG00000002382	GTF	109083513
+Cyprinus_carpio	trip11	ENSCCRG00000002406	Thyroid hormone receptor	NA
+Cyprinus_carpio	traf6	ENSCCRG00000002480	Others	109093401
+Cyprinus_carpio	tnni2b.1	ENSCCRG00000002481	Others	109094252
+Cyprinus_carpio	smarca5	ENSCCRG00000002594	SWI/SNF	NA
+Cyprinus_carpio	syk	ENSCCRG00000002622	Others	NA
+Cyprinus_carpio	brca2	ENSCCRG00000002627	Others	NA
+Cyprinus_carpio	eny2	ENSCCRG00000002678	Others	109105567
+Cyprinus_carpio	rbm39a	ENSCCRG00000002686	RNA binding protein	109098944
+Cyprinus_carpio	hcfc2	ENSCCRG00000002808	Others	109106318
+Cyprinus_carpio	tgfb3	ENSCCRG00000002876	Others	109107375
+Cyprinus_carpio	wbp2	ENSCCRG00000002878	WW	NA
+Cyprinus_carpio	fhl3a	ENSCCRG00000002889	FHL	109106161
+Cyprinus_carpio		ENSCCRG00000002935	PHF	109106290
+Cyprinus_carpio	taf4b	ENSCCRG00000002963	TATA-box	109113383
+Cyprinus_carpio	utp4	ENSCCRG00000003012	Others	NA
+Cyprinus_carpio	phf20a	ENSCCRG00000003164	PHF	NA
+Cyprinus_carpio	rnf14	ENSCCRG00000003235	Ring finger protein	109096630
+Cyprinus_carpio		ENSCCRG00000003817	Others	NA
+Cyprinus_carpio	jade1	ENSCCRG00000003826	Others	109108093
+Cyprinus_carpio	chd1	ENSCCRG00000003831	CHD	NA
+Cyprinus_carpio	park7	ENSCCRG00000003997	Others	NA
+Cyprinus_carpio	cbx7b	ENSCCRG00000004053	Chromobox	109100093
+Cyprinus_carpio	xrcc6	ENSCCRG00000004076	Others	109100088
+Cyprinus_carpio	smurf2	ENSCCRG00000004233	Others	NA
+Cyprinus_carpio	TRAPPC2B	ENSCCRG00000004238	Others	109096934
+Cyprinus_carpio	birc2	ENSCCRG00000004278	Others	109057811
+Cyprinus_carpio	ralgapa1	ENSCCRG00000004287	Others	NA
+Cyprinus_carpio	heatr1	ENSCCRG00000004291	Others	NA
+Cyprinus_carpio	cdk2	ENSCCRG00000004367	Cyclin	NA
+Cyprinus_carpio	lancl2	ENSCCRG00000004580	Others	NA
+Cyprinus_carpio	cnot7	ENSCCRG00000004835	CCR4-NOT	NA
+Cyprinus_carpio	si:ch1073-296d18.1	ENSCCRG00000004880	PARP	NA
+Cyprinus_carpio	hsd17b7	ENSCCRG00000004923	WW	NA
+Cyprinus_carpio	csnk2a2b	ENSCCRG00000004969	Casein	109050582
+Cyprinus_carpio		ENSCCRG00000004981	Others	NA
+Cyprinus_carpio	pex2	ENSCCRG00000005124	Others	109049900
+Cyprinus_carpio	eapp	ENSCCRG00000005125	Others	NA
+Cyprinus_carpio	eya1	ENSCCRG00000005163	EYA	NA
+Cyprinus_carpio	mtdhb	ENSCCRG00000005263	Others	NA
+Cyprinus_carpio	cdk8	ENSCCRG00000005325	Cyclin	109053058
+Cyprinus_carpio	mycbp	ENSCCRG00000005382	MYC	109100106
+Cyprinus_carpio	CBX4	ENSCCRG00000005429	Chromobox	109102575
+Cyprinus_carpio	cbx8b	ENSCCRG00000005443	Chromobox	109102576
+Cyprinus_carpio	taf1a	ENSCCRG00000005524	TATA-box	109113518
+Cyprinus_carpio		ENSCCRG00000005587	Others	NA
+Cyprinus_carpio	ing1	ENSCCRG00000005634	ING	NA
+Cyprinus_carpio	men1	ENSCCRG00000005649	Others	109091724
+Cyprinus_carpio	chuk	ENSCCRG00000005719	Others	109100658
+Cyprinus_carpio	smarca4a	ENSCCRG00000005852	SWI/SNF	NA
+Cyprinus_carpio	lbh	ENSCCRG00000005924	Others	NA
+Cyprinus_carpio	safb	ENSCCRG00000006057	Others	NA
+Cyprinus_carpio	loxl3b	ENSCCRG00000006065	Others	NA
+Cyprinus_carpio	rbmx	ENSCCRG00000006089	RNA binding protein	109049093
+Cyprinus_carpio	crtc3	ENSCCRG00000006169	CREB	NA
+Cyprinus_carpio	ccna1	ENSCCRG00000006314	Cyclin	NA
+Cyprinus_carpio	supt20	ENSCCRG00000006395	SUPT	NA
+Cyprinus_carpio	puf60a	ENSCCRG00000006409	Others	NA
+Cyprinus_carpio	ankra2	ENSCCRG00000006412	Ankyrin repeat	109084814
+Cyprinus_carpio	malt1	ENSCCRG00000006466	Others	109109900
+Cyprinus_carpio	btf3	ENSCCRG00000006502	Others	109084858
+Cyprinus_carpio	tradd	ENSCCRG00000006559	Others	NA
+Cyprinus_carpio	prmt7	ENSCCRG00000006642	Arginine methyltransferase	NA
+Cyprinus_carpio	cops2	ENSCCRG00000006677	Others	109050786
+Cyprinus_carpio	cbx5	ENSCCRG00000006789	Chromobox	109046996
+Cyprinus_carpio	ell	ENSCCRG00000006843	GTF	109047348
+Cyprinus_carpio	fhl2a	ENSCCRG00000006856	FHL	109095905
+Cyprinus_carpio	pnrc2	ENSCCRG00000006880	Others	109104995
+Cyprinus_carpio	SCMH1	ENSCCRG00000006980	Others	NA
+Cyprinus_carpio	ccnd1	ENSCCRG00000007012	Cyclin	109093191
+Cyprinus_carpio	c1d	ENSCCRG00000007108	Other_Co-activator/repressors	109047245
+Cyprinus_carpio	wdr61	ENSCCRG00000007119	WD	109050553
+Cyprinus_carpio	lmo1	ENSCCRG00000007375	LIM	NA
+Cyprinus_carpio	notch3	ENSCCRG00000007386	Notch	NA
+Cyprinus_carpio		ENSCCRG00000007473	Others	NA
+Cyprinus_carpio	taf5	ENSCCRG00000007522	TATA-box	109110123
+Cyprinus_carpio	ecd	ENSCCRG00000007758	Others	NA
+Cyprinus_carpio	picalmb	ENSCCRG00000007787	Others	109103156
+Cyprinus_carpio	kat2b	ENSCCRG00000007857	Lysine acetyltransferase	109098454
+Cyprinus_carpio	chchd2	ENSCCRG00000007874	Coiled-coil	109097755
+Cyprinus_carpio	si:dkey-46i9.6	ENSCCRG00000007891	Tripartite motif	109055324
+Cyprinus_carpio	bcor	ENSCCRG00000007893	Other_Co-activator/repressors	NA
+Cyprinus_carpio	eya3	ENSCCRG00000007984	EYA	NA
+Cyprinus_carpio	anxa4	ENSCCRG00000008045	Others	109110310
+Cyprinus_carpio	nsmce4a	ENSCCRG00000008254	EID	109111066
+Cyprinus_carpio		ENSCCRG00000008362	Others	109054274
+Cyprinus_carpio	ino80c	ENSCCRG00000008384	INO80 complex	109104700
+Cyprinus_carpio	ing4	ENSCCRG00000008447	ING	NA
+Cyprinus_carpio	brf2	ENSCCRG00000008533	GTF	NA
+Cyprinus_carpio	csrp2	ENSCCRG00000008549	Others	109077148
+Cyprinus_carpio	pcgf6	ENSCCRG00000008611	PCGF	109111084
+Cyprinus_carpio	tdg.1	ENSCCRG00000008613	Others	109112013
+Cyprinus_carpio	cdkn1ba	ENSCCRG00000008675	Cyclin	109051418
+Cyprinus_carpio	axin2	ENSCCRG00000008741	Others	NA
+Cyprinus_carpio	ppid	ENSCCRG00000008796	Others	NA
+Cyprinus_carpio	rap2c	ENSCCRG00000008855	Others	109102147
+Cyprinus_carpio	dnaja3b	ENSCCRG00000009119	Others	NA
+Cyprinus_carpio	zgc:103482	ENSCCRG00000009120	Others	109045236
+Cyprinus_carpio	med10	ENSCCRG00000009145	Mediator complex	109111597
+Cyprinus_carpio	chd1l	ENSCCRG00000009230	CHD	NA
+Cyprinus_carpio	yap1	ENSCCRG00000009350	Others	109110178
+Cyprinus_carpio	hnrnpub	ENSCCRG00000009415	HNRNP	109047452
+Cyprinus_carpio	polr3f	ENSCCRG00000009452	POLR	NA
+Cyprinus_carpio	setd7	ENSCCRG00000009468	SET	109102488
+Cyprinus_carpio	mcrs1	ENSCCRG00000009474	Others	109054303
+Cyprinus_carpio	fgfr2	ENSCCRG00000009600	FGF	NA
+Cyprinus_carpio	hira	ENSCCRG00000009935	Others	NA
+Cyprinus_carpio	sqstm1	ENSCCRG00000010030	Others	NA
+Cyprinus_carpio	mllt1b	ENSCCRG00000010055	GTF	NA
+Cyprinus_carpio	mybbp1a	ENSCCRG00000010123	MYB	109049779
+Cyprinus_carpio	rnf4	ENSCCRG00000010189	Ring finger protein	NA
+Cyprinus_carpio	ehmt1b	ENSCCRG00000010210	Histone lysine methyltransferase	NA
+Cyprinus_carpio	drap1	ENSCCRG00000010243	Others	NA
+Cyprinus_carpio	ppargc1b	ENSCCRG00000010365	Others	NA
+Cyprinus_carpio	cnot6l	ENSCCRG00000010419	CCR4-NOT	109101394
+Cyprinus_carpio	ikbkb	ENSCCRG00000010485	Others	NA
+Cyprinus_carpio	ctnnd2a	ENSCCRG00000010505	Casein	NA
+Cyprinus_carpio	rexo4	ENSCCRG00000010519	Others	109057988
+Cyprinus_carpio	sltm	ENSCCRG00000010698	Others	NA
+Cyprinus_carpio	rnf111	ENSCCRG00000010706	Ring finger protein	109113684
+Cyprinus_carpio	brip1	ENSCCRG00000010742	Others	NA
+Cyprinus_carpio	flii	ENSCCRG00000010763	Others	NA
+Cyprinus_carpio	bptf	ENSCCRG00000010871	Bromodomain	NA
+Cyprinus_carpio	sin3b	ENSCCRG00000011013	Others	NA
+Cyprinus_carpio	FGF	ENSCCRG00000011056	FGF	109109517
+Cyprinus_carpio	actl6b	ENSCCRG00000011109	Actin	NA
+Cyprinus_carpio	kdm4ab	ENSCCRG00000011192	Lysine demethylase	NA
+Cyprinus_carpio	epc1b	ENSCCRG00000011359	Others	NA
+Cyprinus_carpio	rbl1	ENSCCRG00000011543	Other_Co-activator/repressors	NA
+Cyprinus_carpio	si:ch211-103n10.5	ENSCCRG00000011598	Histone cluster 1 H1	109095600
+Cyprinus_carpio	chd6	ENSCCRG00000011605	CHD	NA
+Cyprinus_carpio	sra1	ENSCCRG00000011609	Others	109053106
+Cyprinus_carpio	med14	ENSCCRG00000011704	Mediator complex	NA
+Cyprinus_carpio	hsbp1b	ENSCCRG00000011750	Heat shock protein	109108986
+Cyprinus_carpio	txlng	ENSCCRG00000011826	Others	NA
+Cyprinus_carpio	SNIP1	ENSCCRG00000011976	Others	109106126
+Cyprinus_carpio	actn1	ENSCCRG00000011985	Actin	NA
+Cyprinus_carpio	ascc2	ENSCCRG00000012017	ASCC	109090310
+Cyprinus_carpio	lrrc14b	ENSCCRG00000012040	Others	109096557
+Cyprinus_carpio	rad21b	ENSCCRG00000012084	Others	109096558
+Cyprinus_carpio	nfkbib	ENSCCRG00000012260	NFKB associated	109046696
+Cyprinus_carpio	cbfa2t2	ENSCCRG00000012347	Others	109061086
+Cyprinus_carpio	prmt5	ENSCCRG00000012565	Arginine methyltransferase	NA
+Cyprinus_carpio	snapc2	ENSCCRG00000012572	Others	109049226
+Cyprinus_carpio	bcl9l	ENSCCRG00000012597	BCL	NA
+Cyprinus_carpio	bud31	ENSCCRG00000012620	Others	109047768
+Cyprinus_carpio	hif1an	ENSCCRG00000012718	Others	109100806
+Cyprinus_carpio	ccar1	ENSCCRG00000013217	Others	109100575
+Cyprinus_carpio	csnk2a1	ENSCCRG00000013280	Casein	NA
+Cyprinus_carpio	med23	ENSCCRG00000013313	Mediator complex	NA
+Cyprinus_carpio	lpin2	ENSCCRG00000013375	LPIN	NA
+Cyprinus_carpio	cnot8	ENSCCRG00000013807	CCR4-NOT	109045455
+Cyprinus_carpio	NEO1	ENSCCRG00000013848	Others	NA
+Cyprinus_carpio	tescb	ENSCCRG00000013896	Others	109096975
+Cyprinus_carpio	med11	ENSCCRG00000014070	Mediator complex	109052032
+Cyprinus_carpio	ccnt2a	ENSCCRG00000014116	Cyclin	NA
+Cyprinus_carpio	emsy	ENSCCRG00000014133	Others	NA
+Cyprinus_carpio		ENSCCRG00000014217	Zinc finger	109097191
+Cyprinus_carpio	pdcd4b	ENSCCRG00000014285	Others	NA
+Cyprinus_carpio	dhx29	ENSCCRG00000014354	RNA helicase	NA
+Cyprinus_carpio	sertad2b	ENSCCRG00000014391	Others	NA
+Cyprinus_carpio	pir	ENSCCRG00000014470	Others	NA
+Cyprinus_carpio	jmjd1cb	ENSCCRG00000014475	Other_CRF	NA
+Cyprinus_carpio		ENSCCRG00000014545	Mediator complex	NA
+Cyprinus_carpio	rtf1	ENSCCRG00000014550	Others	NA
+Cyprinus_carpio	phf21ab	ENSCCRG00000014580	PHF	NA
+Cyprinus_carpio	cops5	ENSCCRG00000014593	Others	NA
+Cyprinus_carpio		ENSCCRG00000014864	Others	NA
+Cyprinus_carpio	tpra	ENSCCRG00000014978	Others	NA
+Cyprinus_carpio	apbb2b	ENSCCRG00000015040	Others	NA
+Cyprinus_carpio	bcl9	ENSCCRG00000015070	BCL	109076368
+Cyprinus_carpio	DAB2	ENSCCRG00000015125	Others	NA
+Cyprinus_carpio	daxx	ENSCCRG00000015214	Other_CRF	NA
+Cyprinus_carpio	pik3r2	ENSCCRG00000015337	Others	109099597
+Cyprinus_carpio	si:dkey-6i22.5	ENSCCRG00000015394	Others	109101417
+Cyprinus_carpio	ssbp3a	ENSCCRG00000015470	Others	NA
+Cyprinus_carpio	scai	ENSCCRG00000015472	Others	NA
+Cyprinus_carpio	nck1b	ENSCCRG00000015491	Others	109049057
+Cyprinus_carpio	gps2	ENSCCRG00000015767	Others	109090458
+Cyprinus_carpio	birc5a	ENSCCRG00000015915	Others	NA
+Cyprinus_carpio	nudt5	ENSCCRG00000015952	Other_CRF	NA
+Cyprinus_carpio	cnot6a	ENSCCRG00000015977	CCR4-NOT	109046087
+Cyprinus_carpio	CCNK	ENSCCRG00000016003	Cyclin	NA
+Cyprinus_carpio	nfkbiaa	ENSCCRG00000016010	NFKB associated	NA
+Cyprinus_carpio	actr8	ENSCCRG00000016095	ACTR	NA
+Cyprinus_carpio	cdk5	ENSCCRG00000016113	Cyclin	109050000
+Cyprinus_carpio	tnip2	ENSCCRG00000016128	Others	NA
+Cyprinus_carpio	mdm4	ENSCCRG00000016186	Others	NA
+Cyprinus_carpio	ncoa3	ENSCCRG00000016192	Nuclear receptor coactivator	NA
+Cyprinus_carpio	leo1	ENSCCRG00000016378	Others	109110294
+Cyprinus_carpio	nrbf2b	ENSCCRG00000016418	Nuclear receptor coactivator	109100037
+Cyprinus_carpio	arhgap35a	ENSCCRG00000016555	Others	NA
+Cyprinus_carpio	prmt8b	ENSCCRG00000016702	Arginine methyltransferase	NA
+Cyprinus_carpio	chek2	ENSCCRG00000016722	Others	NA
+Cyprinus_carpio		ENSCCRG00000016800	Others	NA
+Cyprinus_carpio	tirap	ENSCCRG00000016953	Others	109102433
+Cyprinus_carpio	taf10	ENSCCRG00000017003	TATA-box	109068264
+Cyprinus_carpio	fgfr1b	ENSCCRG00000017009	FGF	109060897
+Cyprinus_carpio	si:dkey-21c19.3	ENSCCRG00000017074	Others	NA
+Cyprinus_carpio	suv39h1b	ENSCCRG00000017203	Others	109068236
+Cyprinus_carpio	RWDD3	ENSCCRG00000017210	Others	NA
+Cyprinus_carpio	atxn7l3	ENSCCRG00000017230	Others	109052223
+Cyprinus_carpio	ctdsplb	ENSCCRG00000017242	Others	109103067
+Cyprinus_carpio	supt3h	ENSCCRG00000017396	SUPT	NA
+Cyprinus_carpio	jmjd6	ENSCCRG00000017528	Others	109065568
+Cyprinus_carpio	hnrnpd	ENSCCRG00000017619	HNRNP	109091802
+Cyprinus_carpio	dhrs3a	ENSCCRG00000017739	Others	NA
+Cyprinus_carpio	fbxw11b	ENSCCRG00000017773	Others	109102506
+Cyprinus_carpio	tcea2	ENSCCRG00000017822	TEF	NA
+Cyprinus_carpio	uri1	ENSCCRG00000017903	Others	NA
+Cyprinus_carpio	mbtd1	ENSCCRG00000017994	Others	NA
+Cyprinus_carpio	creg1	ENSCCRG00000017997	Others	NA
+Cyprinus_carpio	anp32b	ENSCCRG00000018034	ANP	109103099
+Cyprinus_carpio	si:dkey-97a13.6	ENSCCRG00000018098	Others	NA
+Cyprinus_carpio	macroh2a2	ENSCCRG00000018156	Others	109052390
+Cyprinus_carpio	kat8	ENSCCRG00000018157	Lysine acetyltransferase	NA
+Cyprinus_carpio	commd1	ENSCCRG00000018303	Others	109097194
+Cyprinus_carpio	cry1b	ENSCCRG00000018347	Others	109069230
+Cyprinus_carpio	med24	ENSCCRG00000018381	Mediator complex	NA
+Cyprinus_carpio	pcgf5b	ENSCCRG00000018504	PCGF	109099505
+Cyprinus_carpio	tcea1	ENSCCRG00000018683	TEF	NA
+Cyprinus_carpio	peli1b	ENSCCRG00000018790	Others	109108183
+Cyprinus_carpio	gtf2h1	ENSCCRG00000018846	GTF	109099419
+Cyprinus_carpio	kmt5ab	ENSCCRG00000018925	Lysine methyltransferase	NA
+Cyprinus_carpio	pabpc1l	ENSCCRG00000019167	Other_CRF	109047900
+Cyprinus_carpio	tp53bp1	ENSCCRG00000019255	Others	NA
+Cyprinus_carpio	nono	ENSCCRG00000019374	Others	109083096
+Cyprinus_carpio	bahcc1b	ENSCCRG00000019434	Others	NA
+Cyprinus_carpio	hdac3	ENSCCRG00000019469	Histone deacetylase	109064961
+Cyprinus_carpio	dscamb	ENSCCRG00000019611	Others	NA
+Cyprinus_carpio	psen1	ENSCCRG00000019623	Others	109054586
+Cyprinus_carpio	supt7l	ENSCCRG00000019647	SUPT	109107303
+Cyprinus_carpio	med28	ENSCCRG00000019706	Mediator complex	109101736
+Cyprinus_carpio	cideb	ENSCCRG00000019739	Others	109092933
+Cyprinus_carpio	mtf2	ENSCCRG00000019829	Others	NA
+Cyprinus_carpio	rnf10	ENSCCRG00000019888	Ring finger protein	NA
+Cyprinus_carpio	gsk3ba	ENSCCRG00000019917	Others	NA
+Cyprinus_carpio	ercc3	ENSCCRG00000020084	Others	109045193
+Cyprinus_carpio	smarcd2	ENSCCRG00000020106	SWI/SNF	NA
+Cyprinus_carpio	smarcd1	ENSCCRG00000020235	SWI/SNF	NA
+Cyprinus_carpio	trib3	ENSCCRG00000020311	Others	109109994
+Cyprinus_carpio	skila	ENSCCRG00000020313	SKI	109069563
+Cyprinus_carpio	trib1	ENSCCRG00000020372	Others	109111588
+Cyprinus_carpio	nab1b	ENSCCRG00000020436	Others	109096060
+Cyprinus_carpio	TADA1	ENSCCRG00000020495	Transcriptional adaptor	NA
+Cyprinus_carpio	FAM83G	ENSCCRG00000020507	FAM	NA
+Cyprinus_carpio	rprd1a	ENSCCRG00000020519	Others	NA
+Cyprinus_carpio	ran	ENSCCRG00000020704	Others	109071600
+Cyprinus_carpio	noc2l	ENSCCRG00000020728	Others	NA
+Cyprinus_carpio	pih1d1	ENSCCRG00000020730	Other_CRF	109058784
+Cyprinus_carpio	ppargc1a	ENSCCRG00000020738	Others	NA
+Cyprinus_carpio	kdm2ab	ENSCCRG00000021311	Lysine demethylase	NA
+Cyprinus_carpio	skia	ENSCCRG00000021349	SKI	NA
+Cyprinus_carpio		ENSCCRG00000021401	Others	109103103
+Cyprinus_carpio	frzb	ENSCCRG00000021580	Others	NA
+Cyprinus_carpio	taf2	ENSCCRG00000021581	TATA-box	NA
+Cyprinus_carpio	dvl2	ENSCCRG00000021583	Others	NA
+Cyprinus_carpio	elp1	ENSCCRG00000021647	ELP	NA
+Cyprinus_carpio	ilk	ENSCCRG00000021674	Others	109073624
+Cyprinus_carpio	bcas3	ENSCCRG00000021714	Others	NA
+Cyprinus_carpio	tpte	ENSCCRG00000021786	Others	NA
+Cyprinus_carpio	ajuba	ENSCCRG00000021852	Others	NA
+Cyprinus_carpio	eif4a3	ENSCCRG00000021882	RNA helicase	NA
+Cyprinus_carpio	gtf2b	ENSCCRG00000021960	GTF	109056860
+Cyprinus_carpio		ENSCCRG00000021971	Others	NA
+Cyprinus_carpio	cdk12	ENSCCRG00000021979	Cyclin	NA
+Cyprinus_carpio	cdk12	ENSCCRG00000021984	Cyclin	NA
+Cyprinus_carpio	itchb	ENSCCRG00000021992	Others	NA
+Cyprinus_carpio	lin9	ENSCCRG00000022138	Others	109103416
+Cyprinus_carpio	actb1	ENSCCRG00000022147	Actin	109051881
+Cyprinus_carpio	si:dkey-90l8.3	ENSCCRG00000022576	LIM	NA
+Cyprinus_carpio	chaf1b	ENSCCRG00000022589	Others	NA
+Cyprinus_carpio	ctnnd1	ENSCCRG00000022635	Casein	NA
+Cyprinus_carpio	cavin1b	ENSCCRG00000022822	Others	109050105
+Cyprinus_carpio	btr33	ENSCCRG00000022834	Tripartite motif	109050108
+Cyprinus_carpio	suz12b	ENSCCRG00000022847	Others	NA
+Cyprinus_carpio	raly	ENSCCRG00000022968	Others	109091589
+Cyprinus_carpio	cbfa2t3	ENSCCRG00000023047	Others	NA
+Cyprinus_carpio	nelfcd	ENSCCRG00000023059	GTF	NA
+Cyprinus_carpio	pin1	ENSCCRG00000023080	Others	109093472
+Cyprinus_carpio	ctbp1	ENSCCRG00000023359	Others	NA
+Cyprinus_carpio	ccna2	ENSCCRG00000023383	Cyclin	NA
+Cyprinus_carpio	kdm3b	ENSCCRG00000023418	Lysine demethylase	109071593
+Cyprinus_carpio	ela3l	ENSCCRG00000023442	Others	109073568
+Cyprinus_carpio	gnl3	ENSCCRG00000023714	Others	109056957
+Cyprinus_carpio	lrrk2	ENSCCRG00000023910	Other_CRF	NA
+Cyprinus_carpio	rbm15b	ENSCCRG00000023934	RNA binding protein	NA
+Cyprinus_carpio	si:ch211-219a4.3	ENSCCRG00000024064	PARP	NA
+Cyprinus_carpio	stk3	ENSCCRG00000024191	Others	109091699
+Cyprinus_carpio	slc25a15a	ENSCCRG00000024208	SLC	109058590
+Cyprinus_carpio	cbl	ENSCCRG00000024248	Others	NA
+Cyprinus_carpio	nelfb	ENSCCRG00000024287	GTF	NA
+Cyprinus_carpio	loxl2b	ENSCCRG00000024345	Others	NA
+Cyprinus_carpio	ankrd1a	ENSCCRG00000024493	Ankyrin repeat	NA
+Cyprinus_carpio	strap	ENSCCRG00000024611	Others	NA
+Cyprinus_carpio	ufl1	ENSCCRG00000024687	Others	NA
+Cyprinus_carpio		ENSCCRG00000024724	Others	109051864
+Cyprinus_carpio	actl6a	ENSCCRG00000024746	Actin	NA
+Cyprinus_carpio	cited2	ENSCCRG00000024794	CITED	109055586
+Cyprinus_carpio	rbbp4	ENSCCRG00000024901	RBBP	109066061
+Cyprinus_carpio	ccne1	ENSCCRG00000024938	Cyclin	109054911
+Cyprinus_carpio	taf11	ENSCCRG00000024971	TATA-box	NA
+Cyprinus_carpio	hexim1	ENSCCRG00000025024	Others	109068029
+Cyprinus_carpio	mid1ip1b	ENSCCRG00000025060	Others	109070452
+Cyprinus_carpio	taf8	ENSCCRG00000025147	TATA-box	NA
+Cyprinus_carpio	hdac7a	ENSCCRG00000025153	Histone deacetylase	NA
+Cyprinus_carpio		ENSCCRG00000025215	Erbb2	NA
+Cyprinus_carpio	kmt5b	ENSCCRG00000025233	Lysine methyltransferase	109059335
+Cyprinus_carpio	mak	ENSCCRG00000025272	Others	NA
+Cyprinus_carpio	kat5b	ENSCCRG00000025278	Lysine acetyltransferase	NA
+Cyprinus_carpio	si:ch211-195b13.1	ENSCCRG00000025282	Others	109055590
+Cyprinus_carpio	ncoa4	ENSCCRG00000025315	Nuclear receptor coactivator	NA
+Cyprinus_carpio	TOB2	ENSCCRG00000025316	Others	109068514
+Cyprinus_carpio		ENSCCRG00000025343	Other_CRF	NA
+Cyprinus_carpio	cxxc1a	ENSCCRG00000025486	Others	109095188
+Cyprinus_carpio	trim32	ENSCCRG00000025519	Tripartite motif	109062545
+Cyprinus_carpio	trim25	ENSCCRG00000025552	Tripartite motif	109092324
+Cyprinus_carpio	btk	ENSCCRG00000025705	Others	NA
+Cyprinus_carpio	wnt4	ENSCCRG00000025737	Others	109051933
+Cyprinus_carpio	abt1	ENSCCRG00000025767	Others	NA
+Cyprinus_carpio	arglu1b	ENSCCRG00000025849	Others	109071097
+Cyprinus_carpio	phf19	ENSCCRG00000025921	PHF	NA
+Cyprinus_carpio	trip13	ENSCCRG00000025985	Thyroid hormone receptor	109105135
+Cyprinus_carpio	smyd2a	ENSCCRG00000026022	SMYD	109064703
+Cyprinus_carpio	pspc1	ENSCCRG00000026082	Others	NA
+Cyprinus_carpio	supt4h1	ENSCCRG00000026085	SUPT	109090893
+Cyprinus_carpio	zmynd8	ENSCCRG00000026136	Zinc finger	NA
+Cyprinus_carpio	polr1a	ENSCCRG00000026214	POLR	NA
+Cyprinus_carpio	zmym2	ENSCCRG00000026387	Zinc finger	NA
+Cyprinus_carpio	rbpms2b	ENSCCRG00000026468	RNA binding protein	109095208
+Cyprinus_carpio	skap1	ENSCCRG00000026624	Others	NA
+Cyprinus_carpio	maml1	ENSCCRG00000026642	MAML	NA
+Cyprinus_carpio	waca	ENSCCRG00000026819	WW	NA
+Cyprinus_carpio	hdac8	ENSCCRG00000026960	Histone deacetylase	109094311
+Cyprinus_carpio	sirt2	ENSCCRG00000027025	Sirtuin	109075032
+Cyprinus_carpio	cenpf	ENSCCRG00000027044	CENP	NA
+Cyprinus_carpio	hells	ENSCCRG00000027223	Others	NA
+Cyprinus_carpio	tada3l	ENSCCRG00000027248	Transcriptional adaptor	NA
+Cyprinus_carpio	phf12b	ENSCCRG00000027270	PHF	NA
+Cyprinus_carpio	rnf141	ENSCCRG00000027293	Ring finger protein	109052428
+Cyprinus_carpio	rsf1b.1	ENSCCRG00000027392	Others	NA
+Cyprinus_carpio		ENSCCRG00000027440	Others	NA
+Cyprinus_carpio	zgc:162255	ENSCCRG00000027507	Other_CRF	NA
+Cyprinus_carpio	rbx1	ENSCCRG00000027541	Others	109076699
+Cyprinus_carpio	fbrsl1	ENSCCRG00000027573	Others	NA
+Cyprinus_carpio	mrtfbb	ENSCCRG00000027615	Others	109059350
+Cyprinus_carpio	trak1a	ENSCCRG00000027635	Others	109104597
+Cyprinus_carpio	ddx1	ENSCCRG00000027771	RNA helicase	109103535
+Cyprinus_carpio	myo6b	ENSCCRG00000027793	Others	NA
+Cyprinus_carpio	cdk5rap3	ENSCCRG00000027849	Cyclin	109073829
+Cyprinus_carpio	cdk5r1b	ENSCCRG00000027924	Cyclin	109076690
+Cyprinus_carpio	sap18	ENSCCRG00000028120	SAP	NA
+Cyprinus_carpio	egfra	ENSCCRG00000028255	Others	NA
+Cyprinus_carpio	pik3r1	ENSCCRG00000028267	Others	NA
+Cyprinus_carpio	nrip1a	ENSCCRG00000028270	Nuclear receptor coactivator	109103952
+Cyprinus_carpio	rbm15	ENSCCRG00000028295	RNA binding protein	NA
+Cyprinus_carpio	tasora	ENSCCRG00000028449	FAM	NA
+Cyprinus_carpio	ddx23	ENSCCRG00000028599	RNA helicase	NA
+Cyprinus_carpio	prpf6	ENSCCRG00000028675	Others	NA
+Cyprinus_carpio		ENSCCRG00000028679	Others	NA
+Cyprinus_carpio	gtf2e1	ENSCCRG00000028740	GTF	109071252
+Cyprinus_carpio	ago1	ENSCCRG00000028791	Others	NA
+Cyprinus_carpio	sin3ab	ENSCCRG00000028802	Other_CRF	109094044
+Cyprinus_carpio	ino80e	ENSCCRG00000028812	INO80 complex	109054049
+Cyprinus_carpio	crk	ENSCCRG00000029144	Others	109103249
+Cyprinus_carpio	hnrnpk	ENSCCRG00000029271	HNRNP	109081231
+Cyprinus_carpio	egln2	ENSCCRG00000029313	Others	109082858
+Cyprinus_carpio	h2az2b	ENSCCRG00000029355	Others	109062999
+Cyprinus_carpio	dgkaa	ENSCCRG00000029356	Others	NA
+Cyprinus_carpio	taf1	ENSCCRG00000029372	TATA-box	NA
+Cyprinus_carpio	hdac5	ENSCCRG00000029375	Histone deacetylase	NA
+Cyprinus_carpio	carm1	ENSCCRG00000029475	Others	NA
+Cyprinus_carpio	trim33	ENSCCRG00000029494	Tripartite motif	NA
+Cyprinus_carpio	raf1b	ENSCCRG00000029621	Others	NA
+Cyprinus_carpio	camk2b2	ENSCCRG00000029665	CAMK	109062978
+Cyprinus_carpio	depdc1a	ENSCCRG00000029667	Others	NA
+Cyprinus_carpio	slc26a3.2	ENSCCRG00000029675	SLC	109067879
+Cyprinus_carpio	med18	ENSCCRG00000029904	Mediator complex	NA
+Cyprinus_carpio	nlk1	ENSCCRG00000029985	Others	109110358
+Cyprinus_carpio	pdlim1	ENSCCRG00000030006	Others	109064247
+Cyprinus_carpio	camk4	ENSCCRG00000030088	CAMK	109108254
+Cyprinus_carpio	ankrd2	ENSCCRG00000030260	Ankyrin repeat	NA
+Cyprinus_carpio	snrnp200	ENSCCRG00000030376	ASCC	NA
+Cyprinus_carpio	rprd1b	ENSCCRG00000030457	Others	109048269
+Cyprinus_carpio	ppig	ENSCCRG00000030492	Others	NA
+Cyprinus_carpio	c1qbp	ENSCCRG00000030531	Others	109080121
+Cyprinus_carpio	lzts1	ENSCCRG00000030651	Others	NA
+Cyprinus_carpio	hipk3a	ENSCCRG00000030750	HIPK	NA
+Cyprinus_carpio		ENSCCRG00000030981	Transducin	109060628
+Cyprinus_carpio	hipk1a	ENSCCRG00000030994	HIPK	109082824
+Cyprinus_carpio	pcgf1	ENSCCRG00000031047	PCGF	NA
+Cyprinus_carpio	pqbp1	ENSCCRG00000031051	Others	109071706
+Cyprinus_carpio	taf1b	ENSCCRG00000031078	TATA-box	NA
+Cyprinus_carpio	cdyl	ENSCCRG00000031251	Chromodomain Y	NA
+Cyprinus_carpio	pink1	ENSCCRG00000031337	Others	109081627
+Cyprinus_carpio	slc19a1	ENSCCRG00000031546	SLC	109082951
+Cyprinus_carpio	supt6h	ENSCCRG00000031571	SUPT	NA
+Cyprinus_carpio	nrip2	ENSCCRG00000031738	Nuclear coactivator	109068527
+Cyprinus_carpio	meaf6	ENSCCRG00000031868	Others	109103292
+Cyprinus_carpio	npm1b	ENSCCRG00000031902	Nucleoplasmin	NA
+Cyprinus_carpio	tsg101a	ENSCCRG00000031935	Others	NA
+Cyprinus_carpio	aurkaip1	ENSCCRG00000031998	Others	109082699
+Cyprinus_carpio	PAF1	ENSCCRG00000032164	Others	NA
+Cyprinus_carpio	SAMD4B	ENSCCRG00000032179	Others	NA
+Cyprinus_carpio	rnf2	ENSCCRG00000032189	Ring finger protein	NA
+Cyprinus_carpio	mphosph8	ENSCCRG00000032192	Others	NA
+Cyprinus_carpio	trim8a	ENSCCRG00000032256	Tripartite motif	109083213
+Cyprinus_carpio	med20	ENSCCRG00000032332	Mediator complex	109080017
+Cyprinus_carpio	cxxc5a	ENSCCRG00000032352	Others	NA
+Cyprinus_carpio	cdk7	ENSCCRG00000032487	Cyclin	109078831
+Cyprinus_carpio	DTX1	ENSCCRG00000032493	Others	NA
+Cyprinus_carpio	rb1	ENSCCRG00000032593	Other_Co-activator/repressors	NA
+Cyprinus_carpio	hat1	ENSCCRG00000032601	Others	109075096
+Cyprinus_carpio	ccnh	ENSCCRG00000032654	Cyclin	109081538
+Cyprinus_carpio	kank1a	ENSCCRG00000032839	Others	NA
+Cyprinus_carpio	si:dkey-85a20.4	ENSCCRG00000032856	Others	NA
+Cyprinus_carpio		ENSCCRG00000032892	Others	109068582
+Cyprinus_carpio	dhx9	ENSCCRG00000033040	RNA helicase	NA
+Cyprinus_carpio	DUSP26	ENSCCRG00000033153	Others	109058981
+Cyprinus_carpio		ENSCCRG00000033265	Tripartite motif	109087509
+Cyprinus_carpio	sirt6	ENSCCRG00000033276	Sirtuin	NA
+Cyprinus_carpio	ncoa2	ENSCCRG00000033339	Nuclear receptor coactivator	NA
+Cyprinus_carpio	tnksb	ENSCCRG00000033635	Others	NA
+Cyprinus_carpio		ENSCCRG00000033901	Others	NA
+Cyprinus_carpio	med22	ENSCCRG00000034097	Mediator complex	109090660
+Cyprinus_carpio	pid1	ENSCCRG00000034178	Others	109109300
+Cyprinus_carpio	atrx	ENSCCRG00000034188	Others	NA
+Cyprinus_carpio	insrb	ENSCCRG00000034239	Others	NA
+Cyprinus_carpio	nup62l	ENSCCRG00000034247	Others	109079916
+Cyprinus_carpio	si:ch211-261n11.5	ENSCCRG00000034269	Others	109061995
+Cyprinus_carpio	mier3a	ENSCCRG00000034338	MIER	109112626
+Cyprinus_carpio	znf593	ENSCCRG00000034346	Zinc finger	109108166
+Cyprinus_carpio	pagr1	ENSCCRG00000034446	Others	109052231
+Cyprinus_carpio	dcaf6	ENSCCRG00000034711	Others	NA
+Cyprinus_carpio	DCAF1	ENSCCRG00000034770	Others	NA
+Cyprinus_carpio	hltf	ENSCCRG00000034796	Others	NA
+Cyprinus_carpio		ENSCCRG00000034937	Others	NA
+Cyprinus_carpio	siah1	ENSCCRG00000035087	Others	NA
+Cyprinus_carpio	tnip1	ENSCCRG00000035088	Others	NA
+Cyprinus_carpio	sgf29	ENSCCRG00000035145	Others	NA
+Cyprinus_carpio	txnipa	ENSCCRG00000035169	Others	109080771
+Cyprinus_carpio	nab2	ENSCCRG00000035174	Others	NA
+Cyprinus_carpio	padi2	ENSCCRG00000035188	Other_CRF	NA
+Cyprinus_carpio		ENSCCRG00000035427	Others	109105692
+Cyprinus_carpio	ccdc85b	ENSCCRG00000035584	Coiled-coil	NA
+Cyprinus_carpio	sap30bp	ENSCCRG00000035697	SAP	109059020
+Cyprinus_carpio	pttg1	ENSCCRG00000035754	Others	109102184
+Cyprinus_carpio	ccnc	ENSCCRG00000035824	Cyclin	109099729
+Cyprinus_carpio	smyd1b	ENSCCRG00000035829	SMYD	109104033
+Cyprinus_carpio	ago2	ENSCCRG00000035846	Others	NA
+Cyprinus_carpio	adrb2a	ENSCCRG00000035856	Others	109102190
+Cyprinus_carpio	cdk13	ENSCCRG00000035882	Cyclin	109058317
+Cyprinus_carpio	smarcad1a	ENSCCRG00000035884	SWI/SNF	NA
+Cyprinus_carpio	siva1	ENSCCRG00000036083	Others	109086365
+Cyprinus_carpio	atad2	ENSCCRG00000036184	Others	NA
+Cyprinus_carpio	nod2	ENSCCRG00000036448	Others	NA
+Cyprinus_carpio	nipbla	ENSCCRG00000036463	Others	NA
+Cyprinus_carpio	epc2	ENSCCRG00000036485	Others	NA
+Cyprinus_carpio	edrf1	ENSCCRG00000036587	Others	NA
+Cyprinus_carpio	med4	ENSCCRG00000036593	Mediator complex	NA
+Cyprinus_carpio	rbfox3b	ENSCCRG00000036735	Others	NA
+Cyprinus_carpio	supt16h	ENSCCRG00000036832	SUPT	NA
+Cyprinus_carpio	BRD3	ENSCCRG00000036933	Bromodomain	NA
+Cyprinus_carpio	cdc73	ENSCCRG00000036939	Others	NA
+Cyprinus_carpio	cbx6b	ENSCCRG00000037000	Chromobox	NA
+Cyprinus_carpio	asf1bb	ENSCCRG00000037186	Others	109063838
+Cyprinus_carpio	wwp2	ENSCCRG00000037246	WW	NA
+Cyprinus_carpio		ENSCCRG00000037316	WD	109096859
+Cyprinus_carpio	plk3	ENSCCRG00000037524	Others	NA
+Cyprinus_carpio	eaf1	ENSCCRG00000037576	Others	109105651
+Cyprinus_carpio	ezh2	ENSCCRG00000037596	Others	109074719
+Cyprinus_carpio	cbx3a	ENSCCRG00000037620	Chromobox	109110995
+Cyprinus_carpio	dnajb1b	ENSCCRG00000037628	Others	NA
+Cyprinus_carpio	brd2a	ENSCCRG00000037698	Bromodomain	NA
+Cyprinus_carpio	pim3	ENSCCRG00000037849	Others	NA
+Cyprinus_carpio	gtf2h3	ENSCCRG00000037853	GTF	109074168
+Cyprinus_carpio	nelfa	ENSCCRG00000037937	GTF	109092954
+Cyprinus_carpio	bmi1a	ENSCCRG00000037975	Others	NA
+Cyprinus_carpio	ino80da	ENSCCRG00000038100	INO80 complex	NA
+Cyprinus_carpio	abrab	ENSCCRG00000038206	Actin	NA
+Cyprinus_carpio	med30	ENSCCRG00000038209	Mediator complex	109094685
+Cyprinus_carpio	med13b	ENSCCRG00000038435	Mediator complex	NA
+Cyprinus_carpio	flnca	ENSCCRG00000038494	Others	NA
+Cyprinus_carpio	nol11	ENSCCRG00000038511	Nuclear coactivator	NA
+Cyprinus_carpio	chd4a	ENSCCRG00000038557	CHD	NA
+Cyprinus_carpio	rbl2	ENSCCRG00000038831	Other_Co-activator/repressors	109056327
+Cyprinus_carpio	snx6	ENSCCRG00000038863	Others	NA
+Cyprinus_carpio	erbin	ENSCCRG00000038937	Erbb2	NA
+Cyprinus_carpio	brd1b	ENSCCRG00000038987	Bromodomain	NA
+Cyprinus_carpio	rasd1	ENSCCRG00000039192	Others	109063017
+Cyprinus_carpio	vgll4b	ENSCCRG00000039243	Vestigial like	109098380
+Cyprinus_carpio	sfswap	ENSCCRG00000039373	Others	NA
+Cyprinus_carpio	grip1	ENSCCRG00000039461	Others	NA
+Cyprinus_carpio	fbp2	ENSCCRG00000039499	Others	NA
+Cyprinus_carpio	znf703	ENSCCRG00000039593	Zinc finger	NA
+Cyprinus_carpio	arrb2b	ENSCCRG00000039802	Others	NA
+Cyprinus_carpio	lyn	ENSCCRG00000039885	Others	NA
+Cyprinus_carpio	lyn	ENSCCRG00000040006	Others	109067021
+Cyprinus_carpio	med21	ENSCCRG00000040014	Mediator complex	109092366
+Cyprinus_carpio	dr1	ENSCCRG00000040100	Others	109092368
+Cyprinus_carpio	elp2	ENSCCRG00000040164	ELP	NA
+Cyprinus_carpio	dpf2	ENSCCRG00000040168	DPF	109088764
+Cyprinus_carpio	znf451	ENSCCRG00000040270	Zinc finger	NA
+Cyprinus_carpio	SFMBT1	ENSCCRG00000040306	Others	NA
+Cyprinus_carpio	ccnt1	ENSCCRG00000040310	Cyclin	NA
+Cyprinus_carpio	eya4	ENSCCRG00000040327	EYA	109064050
+Cyprinus_carpio	baz1b	ENSCCRG00000040577	Bromodomain	NA
+Cyprinus_carpio	frk	ENSCCRG00000040581	Others	109063457
+Cyprinus_carpio	egln1b	ENSCCRG00000040597	Others	109063801
+Cyprinus_carpio	mad2l2	ENSCCRG00000040612	Others	NA
+Cyprinus_carpio	ccar2	ENSCCRG00000040641	Others	NA
+Cyprinus_carpio	med6	ENSCCRG00000040658	Mediator complex	109062773
+Cyprinus_carpio	ciita	ENSCCRG00000040841	Others	NA
+Cyprinus_carpio	MSL3	ENSCCRG00000040866	Others	NA
+Cyprinus_carpio	brdt	ENSCCRG00000040960	Bromodomain	NA
+Cyprinus_carpio	wnt3a	ENSCCRG00000041083	Others	109102306
+Cyprinus_carpio		ENSCCRG00000041126	WD	NA
+Cyprinus_carpio	med17	ENSCCRG00000041411	Mediator complex	NA
+Cyprinus_carpio	ywhaba	ENSCCRG00000041414	Others	NA
+Cyprinus_carpio	ino80b	ENSCCRG00000041468	INO80 complex	109055678
+Cyprinus_carpio	clu	ENSCCRG00000041611	Others	NA
+Cyprinus_carpio	dpf1	ENSCCRG00000041615	DPF	NA
+Cyprinus_carpio	xrn2	ENSCCRG00000041635	Others	NA
+Cyprinus_carpio	nup98	ENSCCRG00000041643	Others	NA
+Cyprinus_carpio	cnot9	ENSCCRG00000041798	CCR4-NOT	109072576
+Cyprinus_carpio	seta	ENSCCRG00000041850	SET	NA
+Cyprinus_carpio	gtf2h5	ENSCCRG00000041999	GTF	109066145
+Cyprinus_carpio	cnot3a	ENSCCRG00000042028	CCR4-NOT	109074803
+Cyprinus_carpio	kat2a	ENSCCRG00000042040	Lysine acetyltransferase	NA
+Cyprinus_carpio	ddx20	ENSCCRG00000042049	RNA helicase	NA
+Cyprinus_carpio	chrac1	ENSCCRG00000042236	Other_CRF	109073072
+Cyprinus_carpio	brd7	ENSCCRG00000042239	Bromodomain	NA
+Cyprinus_carpio	calcoco1a	ENSCCRG00000042250	Others	NA
+Cyprinus_carpio	tle5	ENSCCRG00000042264	Others	109110244
+Cyprinus_carpio	crtc1b	ENSCCRG00000042315	CREB	NA
+Cyprinus_carpio	wwp1	ENSCCRG00000042325	WW	NA
+Cyprinus_carpio	TENM2	ENSCCRG00000042371	Others	NA
+Cyprinus_carpio	phf1	ENSCCRG00000042672	PHF	109072367
+Cyprinus_carpio	LRPPRC	ENSCCRG00000042706	Others	NA
+Cyprinus_carpio	lpin1	ENSCCRG00000042725	LPIN	109107104
+Cyprinus_carpio	hdac1	ENSCCRG00000042730	Histone deacetylase	NA
+Cyprinus_carpio	nsd3	ENSCCRG00000042742	Nuclear receptor coactivator	NA
+Cyprinus_carpio	bcl10	ENSCCRG00000042794	BCL	109075133
+Cyprinus_carpio	gtf2h4	ENSCCRG00000042922	GTF	NA
+Cyprinus_carpio	rrn3	ENSCCRG00000042996	Others	109073836
+Cyprinus_carpio	actr6	ENSCCRG00000043023	ACTR	109076551
+Cyprinus_carpio	top1l	ENSCCRG00000043096	Other_CRF	109098535
+Cyprinus_carpio	pfdn5	ENSCCRG00000043137	Others	109063481
+Cyprinus_carpio	skor1b	ENSCCRG00000043233	SKI	109077210
+Cyprinus_carpio	banp	ENSCCRG00000043253	Others	NA
+Cyprinus_carpio	anp32e	ENSCCRG00000043266	ANP	NA
+Cyprinus_carpio	morf4l1	ENSCCRG00000043359	Other_CRF	NA
+Cyprinus_carpio	ldb2a	ENSCCRG00000043494	LIM	NA
+Cyprinus_carpio	mdm2	ENSCCRG00000043637	Others	109110269
+Cyprinus_carpio		ENSCCRG00000043638	Others	NA
+Cyprinus_carpio		ENSCCRG00000043760	Others	NA
+Cyprinus_carpio	trim37	ENSCCRG00000043783	Tripartite motif	NA
+Cyprinus_carpio	polr3c	ENSCCRG00000043910	POLR	NA
+Cyprinus_carpio	arhgap5	ENSCCRG00000043965	Others	NA
+Cyprinus_carpio		ENSCCRG00000043979	Mediator complex	109056362
+Cyprinus_carpio	phf8	ENSCCRG00000043998	PHF	NA
+Cyprinus_carpio	kcnip3b	ENSCCRG00000044038	Others	109076596
+Cyprinus_carpio	med29	ENSCCRG00000044093	Mediator complex	109076621
+Cyprinus_carpio	hyal2a	ENSCCRG00000044268	Others	109080507
+Cyprinus_carpio	tfb2m	ENSCCRG00000044274	Others	109062634
+Cyprinus_carpio	mnat1	ENSCCRG00000044337	Others	NA
+Cyprinus_carpio	YEATS2	ENSCCRG00000044350	Others	NA
+Cyprinus_carpio	ldb1b	ENSCCRG00000044594	LIM	NA
+Cyprinus_carpio		ENSCCRG00000044698	Sirtuin	NA
+Cyprinus_carpio	dpy30	ENSCCRG00000045135	Others	109079737
+Cyprinus_carpio	phip	ENSCCRG00000045237	Others	NA
+Cyprinus_carpio	zgc:55733	ENSCCRG00000045293	HNRNP	109070894
+Cyprinus_carpio	orc2	ENSCCRG00000045296	Others	NA
+Cyprinus_carpio	crebbpa	ENSCCRG00000045531	CREB	NA
+Cyprinus_carpio	slc30a9-1	ENSCCRG00000045705	SLC	109086661
+Cyprinus_carpio	taf6l	ENSCCRG00000045842	TATA-box	109069121
+Cyprinus_carpio		ENSCCRG00000045936	Others	NA
+Cyprinus_carpio	chek1	ENSCCRG00000046093	Others	NA
+Cyprinus_carpio	phf2	ENSCCRG00000046148	PHF	NA
+Cyprinus_carpio	cnot1	ENSCCRG00000046160	CCR4-NOT	NA
+Cyprinus_carpio		ENSCCRG00000046206	NFKB associated	109074128
+Cyprinus_carpio	ruvbl1	ENSCCRG00000046351	Other_CRF	NA
+Cyprinus_carpio	setd6	ENSCCRG00000046514	SET	109050664
+Cyprinus_carpio	HDAC11	ENSCCRG00000046711	Histone deacetylase	NA
+Cyprinus_carpio	tbl1xr1b	ENSCCRG00000046768	Transducin	NA
+Cyprinus_carpio	sfr1	ENSCCRG00000046790	Others	109071045
+Cyprinus_carpio	smarcb1b	ENSCCRG00000047018	SWI/SNF	109081449
+Cyprinus_carpio	trip6	ENSCCRG00000047066	Thyroid hormone receptor	NA
+Cyprinus_carpio	dmap1	ENSCCRG00000047074	DNA_methylase	109079496
+Cyprinus_carpio	tbpl1	ENSCCRG00000047143	TATA-box	109071060
+Cyprinus_carpio	RIPK2	ENSCCRG00000047291	Others	109085372
+Cyprinus_carpio	elp3	ENSCCRG00000047319	ELP	NA
+Cyprinus_carpio	sfmbt2	ENSCCRG00000047339	Others	109048871
+Cyprinus_carpio	mrtfba	ENSCCRG00000047481	Others	NA
+Cyprinus_carpio	bend3	ENSCCRG00000047572	Others	NA
+Cyprinus_carpio		ENSCCRG00000047583	Nuclear receptor coactivator	NA
+Cyprinus_carpio	taf9	ENSCCRG00000047635	TATA-box	NA
+Cyprinus_carpio	ilf2	ENSCCRG00000047715	Others	109081137
+Cyprinus_carpio	notch1b	ENSCCRG00000047875	Notch	NA
+Cyprinus_carpio	med31	ENSCCRG00000047937	Mediator complex	NA
+Cyprinus_carpio	htatip2	ENSCCRG00000047942	Others	109064445
+Cyprinus_carpio	EDF1	ENSCCRG00000047989	Others	109064453
+Cyprinus_carpio	med16	ENSCCRG00000048045	Mediator complex	NA
+Cyprinus_carpio		ENSCCRG00000048064	Coiled-coil	NA
+Cyprinus_carpio	naa15b	ENSCCRG00000048129	Others	NA
+Cyprinus_carpio	trim16	ENSCCRG00000048215	Tripartite motif	NA
+Cyprinus_carpio	kdm4b	ENSCCRG00000048245	Lysine demethylase	NA
+Cyprinus_carpio	lin54	ENSCCRG00000048304	Others	109062798
+Cyprinus_carpio	ikbkg	ENSCCRG00000048358	Others	NA
+Cyprinus_carpio	kmt2ba	ENSCCRG00000048536	Lysine methyltransferase	NA
+Cyprinus_carpio	ndnl2	ENSCCRG00000048582	MAGE	NA
+Cyprinus_carpio	brms1la	ENSCCRG00000048641	Other_CRF	NA
+Cyprinus_carpio	taf7	ENSCCRG00000048654	TATA-box	109101520
+Cyprinus_carpio		ENSCCRG00000048750	Lysine demethylase	109050707
+Cyprinus_carpio	wwc1	ENSCCRG00000048791	WW	NA
+Cyprinus_carpio	suds3	ENSCCRG00000048809	Other_Co-activator/repressors	NA
+Cyprinus_carpio	brf1a	ENSCCRG00000048813	GTF	NA
+Cyprinus_carpio	ctnnb1	ENSCCRG00000048956	Casein	109081477
+Cyprinus_carpio	supt5h	ENSCCRG00000048960	SUPT	109104364
+Cyprinus_carpio		ENSCCRG00000048987	Others	109053532
+Cyprinus_carpio	ash1l	ENSCCRG00000048996	Others	NA
+Cyprinus_carpio	cnot2	ENSCCRG00000049060	CCR4-NOT	NA
+Cyprinus_carpio	PLRG1	ENSCCRG00000049078	Others	109053644
+Cyprinus_carpio	vgll2a	ENSCCRG00000049116	Vestigial like	NA
+Cyprinus_carpio	actn2b	ENSCCRG00000049118	Actin	NA
+Cyprinus_carpio	dnmt1	ENSCCRG00000049138	DNA_methylase	NA
+Cyprinus_carpio	tdp2b	ENSCCRG00000049159	Others	109110922
+Cyprinus_carpio	kdm6al	ENSCCRG00000049168	Lysine demethylase	NA
+Cyprinus_carpio	gmnn	ENSCCRG00000049174	Others	NA
+Cyprinus_carpio	pycard	ENSCCRG00000049408	Others	109083915
+Cyprinus_carpio	sufu	ENSCCRG00000049426	Others	NA
+Cyprinus_carpio	tdrd3	ENSCCRG00000049503	Others	109050780
+Cyprinus_carpio	ss18l2	ENSCCRG00000049534	SS18	109072486
+Cyprinus_carpio	strn3	ENSCCRG00000049681	Others	NA
+Cyprinus_carpio		ENSCCRG00000049709	Others	109062479
+Cyprinus_carpio	pa2g4a	ENSCCRG00000049835	Others	109062387
+Cyprinus_carpio	sav1	ENSCCRG00000049836	Others	NA
+Cyprinus_carpio	rnf6	ENSCCRG00000050042	Ring finger protein	109064579
+Cyprinus_carpio	rnf168	ENSCCRG00000050080	Ring finger protein	109081361
+Cyprinus_carpio	ssu72	ENSCCRG00000050134	Others	109088547
+Cyprinus_carpio	ercc2	ENSCCRG00000050233	Others	109084136
+Cyprinus_carpio	tob1b	ENSCCRG00000050292	Others	109079822
+Cyprinus_carpio	nrg2b	ENSCCRG00000050709	Others	109070412
+Cyprinus_carpio	ruvbl2	ENSCCRG00000050717	Other_CRF	NA
+Cyprinus_carpio		ENSCCRG00000050792	Others	109065138
+Cyprinus_carpio	tab3	ENSCCRG00000050912	Others	NA
+Cyprinus_carpio	ice2	ENSCCRG00000050938	GTF	NA
+Cyprinus_carpio	npm3	ENSCCRG00000050945	Nucleoplasmin	109083211
+Cyprinus_carpio	cnot10	ENSCCRG00000051108	CCR4-NOT	NA
+Cyprinus_carpio	setd3	ENSCCRG00000051156	SET	109061752
+Cyprinus_carpio	zmynd11	ENSCCRG00000051207	Zinc finger	109089269
+Cyprinus_carpio	aatf	ENSCCRG00000051261	Others	NA
+Cyprinus_carpio	ash2l	ENSCCRG00000051361	Others	NA
+Cyprinus_carpio	rgcc	ENSCCRG00000051426	Others	NA
+Cyprinus_carpio	src	ENSCCRG00000051450	Others	NA
+Cyprinus_carpio	eed	ENSCCRG00000051665	Others	109088957
+Cyprinus_carpio	alyref	ENSCCRG00000051715	Others	NA
+Cyprinus_carpio	med8	ENSCCRG00000051770	Mediator complex	109063283
+Cyprinus_carpio	dyrk1b	ENSCCRG00000051787	Others	109064526
+Cyprinus_carpio	per2	ENSCCRG00000051829	Others	109057293
+Cyprinus_carpio	aip	ENSCCRG00000051981	Others	NA
+Cyprinus_carpio	vhl	ENSCCRG00000052030	Others	109091426
+Cyprinus_carpio	smarcd3b	ENSCCRG00000052072	SWI/SNF	NA
+Cyprinus_carpio	niban2b	ENSCCRG00000052126	FAM	109063160
+Cyprinus_carpio	ctnnbip1	ENSCCRG00000052150	Casein	109060963
+Cyprinus_carpio	SETD2	ENSCCRG00000052156	SET	NA
+Cyprinus_carpio	mrgbp	ENSCCRG00000052182	Others	109049664
+Cyprinus_carpio	yaf2	ENSCCRG00000052281	Others	NA
+Cyprinus_carpio	eno1b	ENSCCRG00000052321	Others	109091474
+Cyprinus_carpio	sap130b	ENSCCRG00000052327	SAP	NA
+Cyprinus_carpio	nedd8l	ENSCCRG00000052544	Others	109062911
+Cyprinus_carpio	setd1ba	ENSCCRG00000052546	SET	NA
+Cyprinus_carpio	snw1	ENSCCRG00000052579	Others	NA
+Cyprinus_carpio	irf2bpl	ENSCCRG00000052595	Others	109055428
+Cyprinus_carpio	jak2b	ENSCCRG00000052623	Others	109062878

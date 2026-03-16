@@ -1,0 +1,780 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Amphiprion_percula	fhod1	ENSAPEG00000000022	Others	NA
+Amphiprion_percula	gtf2a2	ENSAPEG00000000044	GTF	NA
+Amphiprion_percula	kmt5b	ENSAPEG00000000060	Lysine methyltransferase	NA
+Amphiprion_percula	traf6	ENSAPEG00000000112	Others	NA
+Amphiprion_percula	htatip2	ENSAPEG00000000140	Others	NA
+Amphiprion_percula	csrp3	ENSAPEG00000000145	Others	NA
+Amphiprion_percula	tp53bp1	ENSAPEG00000000195	Others	NA
+Amphiprion_percula	sirt3	ENSAPEG00000000204	Sirtuin	NA
+Amphiprion_percula	ldb2a	ENSAPEG00000000307	LIM	NA
+Amphiprion_percula	supt7l	ENSAPEG00000000325	SUPT	NA
+Amphiprion_percula	PER2	ENSAPEG00000000330	Others	NA
+Amphiprion_percula		ENSAPEG00000000358	Casein	NA
+Amphiprion_percula	myo6a	ENSAPEG00000000388	Others	NA
+Amphiprion_percula	actr8	ENSAPEG00000000422	ACTR	NA
+Amphiprion_percula	RSF1	ENSAPEG00000000468	Others	NA
+Amphiprion_percula	gsk3ba	ENSAPEG00000000490	Others	NA
+Amphiprion_percula	SFMBT1	ENSAPEG00000000504	Others	NA
+Amphiprion_percula	siva1	ENSAPEG00000000607	Others	NA
+Amphiprion_percula	crym	ENSAPEG00000000669	Others	NA
+Amphiprion_percula	phf8	ENSAPEG00000000698	PHF	NA
+Amphiprion_percula	ppid	ENSAPEG00000000717	Others	NA
+Amphiprion_percula	pcgf1	ENSAPEG00000000782	PCGF	NA
+Amphiprion_percula	si:ch73-60h1.1	ENSAPEG00000000787	CAMK	NA
+Amphiprion_percula	TADA1	ENSAPEG00000000816	Transcriptional adaptor	NA
+Amphiprion_percula	birc5a	ENSAPEG00000000850	Others	NA
+Amphiprion_percula	ino80c	ENSAPEG00000000884	INO80 complex	NA
+Amphiprion_percula	ankra2	ENSAPEG00000000895	Ankyrin repeat	NA
+Amphiprion_percula	slc26a3.2	ENSAPEG00000000908	SLC	NA
+Amphiprion_percula	btf3	ENSAPEG00000000915	Others	NA
+Amphiprion_percula	rbl1	ENSAPEG00000000926	Other_Co-activator/repressors	NA
+Amphiprion_percula	TLE3	ENSAPEG00000000988	Transducin	NA
+Amphiprion_percula	FAM83G	ENSAPEG00000001071	FAM	NA
+Amphiprion_percula	hsbp1b	ENSAPEG00000001078	Heat shock protein	NA
+Amphiprion_percula	bend3	ENSAPEG00000001132	Others	NA
+Amphiprion_percula	RBBP4	ENSAPEG00000001177	RBBP	NA
+Amphiprion_percula	snx6	ENSAPEG00000001199	Others	NA
+Amphiprion_percula	src	ENSAPEG00000001308	Others	NA
+Amphiprion_percula	c1d	ENSAPEG00000001403	Other_Co-activator/repressors	NA
+Amphiprion_percula	dact1	ENSAPEG00000001412	Others	NA
+Amphiprion_percula	taf8	ENSAPEG00000001414	TATA-box	NA
+Amphiprion_percula	hells	ENSAPEG00000001422	Others	NA
+Amphiprion_percula	fbp1b	ENSAPEG00000001478	Others	NA
+Amphiprion_percula	zgc:55733	ENSAPEG00000001489	HNRNP	NA
+Amphiprion_percula	dhx36	ENSAPEG00000001495	RNA helicase	NA
+Amphiprion_percula	actr6	ENSAPEG00000001522	ACTR	NA
+Amphiprion_percula	dab2	ENSAPEG00000001533	Others	NA
+Amphiprion_percula	si:dkeyp-118b1.2	ENSAPEG00000001614	Others	NA
+Amphiprion_percula	mak	ENSAPEG00000001703	Others	NA
+Amphiprion_percula	strap	ENSAPEG00000001709	Others	NA
+Amphiprion_percula	PELI1	ENSAPEG00000001720	Others	NA
+Amphiprion_percula	flii	ENSAPEG00000001747	Others	NA
+Amphiprion_percula	trrap	ENSAPEG00000001755	Others	NA
+Amphiprion_percula	TRAK1	ENSAPEG00000001768	Others	NA
+Amphiprion_percula	PCGF3	ENSAPEG00000001795	PCGF	NA
+Amphiprion_percula	dpf2	ENSAPEG00000001796	DPF	NA
+Amphiprion_percula	TGFB3	ENSAPEG00000001818	Others	NA
+Amphiprion_percula	cdk1	ENSAPEG00000001888	Cyclin	NA
+Amphiprion_percula	ufl1	ENSAPEG00000001918	Others	NA
+Amphiprion_percula	phf21ab	ENSAPEG00000001925	PHF	NA
+Amphiprion_percula	tnip2	ENSAPEG00000001942	Others	NA
+Amphiprion_percula	kat5b	ENSAPEG00000001944	Lysine acetyltransferase	NA
+Amphiprion_percula	elp1	ENSAPEG00000001949	ELP	NA
+Amphiprion_percula	sin3b	ENSAPEG00000001999	Others	NA
+Amphiprion_percula	plrg1	ENSAPEG00000002050	Others	NA
+Amphiprion_percula	ppargc1b	ENSAPEG00000002056	Others	NA
+Amphiprion_percula	erbin	ENSAPEG00000002081	Erbb2	NA
+Amphiprion_percula	cdyl	ENSAPEG00000002095	Chromodomain Y	NA
+Amphiprion_percula		ENSAPEG00000002126	Others	NA
+Amphiprion_percula		ENSAPEG00000002204	Others	NA
+Amphiprion_percula	CTBP1	ENSAPEG00000002347	Others	NA
+Amphiprion_percula	pik3r1	ENSAPEG00000002394	Others	NA
+Amphiprion_percula	eaf1	ENSAPEG00000002400	Others	NA
+Amphiprion_percula	ccnd1	ENSAPEG00000002429	Cyclin	NA
+Amphiprion_percula	prmt1	ENSAPEG00000002435	Arginine methyltransferase	NA
+Amphiprion_percula	cdk5	ENSAPEG00000002446	Cyclin	NA
+Amphiprion_percula	hexim1	ENSAPEG00000002466	Others	NA
+Amphiprion_percula	ell2	ENSAPEG00000002487	GTF	NA
+Amphiprion_percula	anp32a	ENSAPEG00000002578	ANP	NA
+Amphiprion_percula	taf6	ENSAPEG00000002619	TATA-box	NA
+Amphiprion_percula		ENSAPEG00000002669	Others	NA
+Amphiprion_percula	hipk2	ENSAPEG00000002674	HIPK	NA
+Amphiprion_percula	ncl	ENSAPEG00000002769	Others	NA
+Amphiprion_percula	med10	ENSAPEG00000002798	Mediator complex	NA
+Amphiprion_percula	frk	ENSAPEG00000002853	Others	NA
+Amphiprion_percula	HDAC2	ENSAPEG00000002885	Histone deacetylase	NA
+Amphiprion_percula	HYAL2	ENSAPEG00000002907	Others	NA
+Amphiprion_percula	lrpprc	ENSAPEG00000002937	Others	NA
+Amphiprion_percula	slc25a15b	ENSAPEG00000002967	SLC	NA
+Amphiprion_percula	lpin1	ENSAPEG00000003038	LPIN	NA
+Amphiprion_percula		ENSAPEG00000003041	Others	NA
+Amphiprion_percula	cthl	ENSAPEG00000003061	Others	NA
+Amphiprion_percula	med14	ENSAPEG00000003095	Mediator complex	NA
+Amphiprion_percula	ZNF703	ENSAPEG00000003147	Zinc finger	NA
+Amphiprion_percula	med28	ENSAPEG00000003158	Mediator complex	NA
+Amphiprion_percula	crk	ENSAPEG00000003246	Others	NA
+Amphiprion_percula	macroh2a2	ENSAPEG00000003265	Others	NA
+Amphiprion_percula	cdc73	ENSAPEG00000003342	Others	NA
+Amphiprion_percula		ENSAPEG00000003350	Others	NA
+Amphiprion_percula	JMY	ENSAPEG00000003353	Others	NA
+Amphiprion_percula	txlng	ENSAPEG00000003372	Others	NA
+Amphiprion_percula	taf3	ENSAPEG00000003384	TATA-box	NA
+Amphiprion_percula	bptf	ENSAPEG00000003435	Bromodomain	NA
+Amphiprion_percula	HINT1	ENSAPEG00000003438	Others	NA
+Amphiprion_percula		ENSAPEG00000003485	Transducin	NA
+Amphiprion_percula	nol11	ENSAPEG00000003525	Nuclear coactivator	NA
+Amphiprion_percula	ino80b	ENSAPEG00000003582	INO80 complex	NA
+Amphiprion_percula	si:dkey-21c19.3	ENSAPEG00000003609	Others	NA
+Amphiprion_percula	trip4	ENSAPEG00000003621	Thyroid hormone receptor	NA
+Amphiprion_percula		ENSAPEG00000003700	PARP	NA
+Amphiprion_percula	tab3	ENSAPEG00000003752	Others	NA
+Amphiprion_percula	calcoco1a	ENSAPEG00000003811	Others	NA
+Amphiprion_percula		ENSAPEG00000003828	Others	NA
+Amphiprion_percula	skor2	ENSAPEG00000003830	SKI	NA
+Amphiprion_percula	CHUK	ENSAPEG00000003851	Others	NA
+Amphiprion_percula	med16	ENSAPEG00000003863	Mediator complex	NA
+Amphiprion_percula	nab1a	ENSAPEG00000003868	Others	NA
+Amphiprion_percula	ezh2	ENSAPEG00000003874	Others	NA
+Amphiprion_percula	smarcad1a	ENSAPEG00000003889	SWI/SNF	NA
+Amphiprion_percula	RING1	ENSAPEG00000003906	Ring finger protein	NA
+Amphiprion_percula	slc30a9	ENSAPEG00000003940	SLC	NA
+Amphiprion_percula	bahcc1a	ENSAPEG00000003966	Others	NA
+Amphiprion_percula	kdm4b	ENSAPEG00000003981	Lysine demethylase	NA
+Amphiprion_percula	cbx5	ENSAPEG00000004148	Chromobox	NA
+Amphiprion_percula	rb1	ENSAPEG00000004185	Other_Co-activator/repressors	NA
+Amphiprion_percula		ENSAPEG00000004188	SMYD	NA
+Amphiprion_percula	kat6a	ENSAPEG00000004193	Lysine acetyltransferase	NA
+Amphiprion_percula		ENSAPEG00000004211	Others	NA
+Amphiprion_percula	dmap1	ENSAPEG00000004218	DNA_methylase	NA
+Amphiprion_percula	jade1	ENSAPEG00000004283	Others	NA
+Amphiprion_percula	tfb2m	ENSAPEG00000004298	Others	NA
+Amphiprion_percula	taf1	ENSAPEG00000004317	TATA-box	NA
+Amphiprion_percula	nelfa	ENSAPEG00000004348	GTF	NA
+Amphiprion_percula	cnot9	ENSAPEG00000004365	CCR4-NOT	NA
+Amphiprion_percula	polr3c	ENSAPEG00000004426	POLR	NA
+Amphiprion_percula	ago1	ENSAPEG00000004458	Others	NA
+Amphiprion_percula	taf2	ENSAPEG00000004501	TATA-box	NA
+Amphiprion_percula		ENSAPEG00000004542	Others	NA
+Amphiprion_percula	med12	ENSAPEG00000004577	Mediator complex	NA
+Amphiprion_percula	zgc:113279	ENSAPEG00000004589	NFKB associated	NA
+Amphiprion_percula	park7	ENSAPEG00000004618	Others	NA
+Amphiprion_percula		ENSAPEG00000004624	Others	NA
+Amphiprion_percula	skap1	ENSAPEG00000004678	Others	NA
+Amphiprion_percula	wwox	ENSAPEG00000004689	WW	NA
+Amphiprion_percula	cdk5rap3	ENSAPEG00000004768	Cyclin	NA
+Amphiprion_percula	taf9	ENSAPEG00000004777	TATA-box	NA
+Amphiprion_percula	btk	ENSAPEG00000004821	Others	NA
+Amphiprion_percula	kat2a	ENSAPEG00000004833	Lysine acetyltransferase	NA
+Amphiprion_percula	arrb2a	ENSAPEG00000004849	Others	NA
+Amphiprion_percula	mycbp2	ENSAPEG00000004870	MYC	NA
+Amphiprion_percula	lin9	ENSAPEG00000004895	Others	NA
+Amphiprion_percula	setd7	ENSAPEG00000004903	SET	NA
+Amphiprion_percula	pnrc2	ENSAPEG00000004927	Others	NA
+Amphiprion_percula	sfswap	ENSAPEG00000004965	Others	NA
+Amphiprion_percula	siah2l	ENSAPEG00000004986	Others	NA
+Amphiprion_percula	waca	ENSAPEG00000005091	WW	NA
+Amphiprion_percula	smyd2a	ENSAPEG00000005120	SMYD	NA
+Amphiprion_percula	taf5l	ENSAPEG00000005137	TATA-box	NA
+Amphiprion_percula	vgll4b	ENSAPEG00000005138	Vestigial like	NA
+Amphiprion_percula	ecd	ENSAPEG00000005177	Others	NA
+Amphiprion_percula	fhl3a	ENSAPEG00000005272	FHL	NA
+Amphiprion_percula	actn2b	ENSAPEG00000005278	Actin	NA
+Amphiprion_percula	rnf4	ENSAPEG00000005316	Ring finger protein	NA
+Amphiprion_percula	cdk5r1b	ENSAPEG00000005355	Cyclin	NA
+Amphiprion_percula	btaf1	ENSAPEG00000005376	Others	NA
+Amphiprion_percula	cnot10	ENSAPEG00000005389	CCR4-NOT	NA
+Amphiprion_percula	chchd6a	ENSAPEG00000005397	Coiled-coil	NA
+Amphiprion_percula	bcor	ENSAPEG00000005401	Other_Co-activator/repressors	NA
+Amphiprion_percula	utp4	ENSAPEG00000005422	Others	NA
+Amphiprion_percula	phf10	ENSAPEG00000005441	PHF	NA
+Amphiprion_percula	med24	ENSAPEG00000005476	Mediator complex	NA
+Amphiprion_percula	hdac7a	ENSAPEG00000005486	Histone deacetylase	NA
+Amphiprion_percula		ENSAPEG00000005508	Others	NA
+Amphiprion_percula	loxl3b	ENSAPEG00000005513	Others	NA
+Amphiprion_percula	tbp	ENSAPEG00000005538	TATA-box	NA
+Amphiprion_percula	SNIP1	ENSAPEG00000005542	Others	NA
+Amphiprion_percula	wnt3	ENSAPEG00000005543	Others	NA
+Amphiprion_percula	hnrnpd	ENSAPEG00000005603	HNRNP	NA
+Amphiprion_percula	pdcd4b	ENSAPEG00000005735	Others	NA
+Amphiprion_percula	actl6a	ENSAPEG00000005765	Actin	NA
+Amphiprion_percula	ss18	ENSAPEG00000005771	SS18	NA
+Amphiprion_percula	med31	ENSAPEG00000005835	Mediator complex	NA
+Amphiprion_percula	yaf2	ENSAPEG00000005856	Others	NA
+Amphiprion_percula		ENSAPEG00000005867	Casein	NA
+Amphiprion_percula	nup98	ENSAPEG00000005930	Others	NA
+Amphiprion_percula	chd4b	ENSAPEG00000005957	CHD	NA
+Amphiprion_percula	ctdp1	ENSAPEG00000005963	Others	NA
+Amphiprion_percula	kmt2ba	ENSAPEG00000005977	Lysine methyltransferase	NA
+Amphiprion_percula	brip1	ENSAPEG00000006057	Others	NA
+Amphiprion_percula	sap30l	ENSAPEG00000006110	SAP	NA
+Amphiprion_percula	ASF1B	ENSAPEG00000006121	Others	NA
+Amphiprion_percula	gnl3	ENSAPEG00000006146	Others	NA
+Amphiprion_percula	ccne1	ENSAPEG00000006177	Cyclin	NA
+Amphiprion_percula	ascc3	ENSAPEG00000006181	ASCC	NA
+Amphiprion_percula	si:ch211-219a4.3	ENSAPEG00000006205	PARP	NA
+Amphiprion_percula		ENSAPEG00000006223	PARP	NA
+Amphiprion_percula		ENSAPEG00000006251	CENP	NA
+Amphiprion_percula	bcas3	ENSAPEG00000006257	Others	NA
+Amphiprion_percula	cnot8	ENSAPEG00000006259	CCR4-NOT	NA
+Amphiprion_percula	dnajb1a	ENSAPEG00000006279	Others	NA
+Amphiprion_percula	dhx9	ENSAPEG00000006339	RNA helicase	NA
+Amphiprion_percula		ENSAPEG00000006355	Others	NA
+Amphiprion_percula	ccdc59	ENSAPEG00000006365	Coiled-coil	NA
+Amphiprion_percula	tnksb	ENSAPEG00000006372	Others	NA
+Amphiprion_percula	notch2	ENSAPEG00000006378	Notch	NA
+Amphiprion_percula	rnf40	ENSAPEG00000006447	Ring finger protein	NA
+Amphiprion_percula	phf12b	ENSAPEG00000006475	PHF	NA
+Amphiprion_percula	PRMT8	ENSAPEG00000006496	Arginine methyltransferase	NA
+Amphiprion_percula	med18	ENSAPEG00000006502	Mediator complex	NA
+Amphiprion_percula	mdm4	ENSAPEG00000006515	Others	NA
+Amphiprion_percula	wwc1	ENSAPEG00000006521	WW	NA
+Amphiprion_percula	epc1a	ENSAPEG00000006522	Others	NA
+Amphiprion_percula		ENSAPEG00000006531	Tripartite motif	NA
+Amphiprion_percula	smyd1b	ENSAPEG00000006550	SMYD	NA
+Amphiprion_percula	ssbp4	ENSAPEG00000006563	Others	NA
+Amphiprion_percula	SCMH1	ENSAPEG00000006567	Others	NA
+Amphiprion_percula	rnf25	ENSAPEG00000006580	Ring finger protein	NA
+Amphiprion_percula	ell	ENSAPEG00000006602	GTF	NA
+Amphiprion_percula	cnot3a	ENSAPEG00000006624	CCR4-NOT	NA
+Amphiprion_percula	kat8	ENSAPEG00000006637	Lysine acetyltransferase	NA
+Amphiprion_percula	dot1l	ENSAPEG00000006653	Others	NA
+Amphiprion_percula	ccnc	ENSAPEG00000006657	Cyclin	NA
+Amphiprion_percula	ddx20	ENSAPEG00000006690	RNA helicase	NA
+Amphiprion_percula	clu	ENSAPEG00000006738	Others	NA
+Amphiprion_percula	rnf10	ENSAPEG00000006746	Ring finger protein	NA
+Amphiprion_percula	picalmb	ENSAPEG00000006786	Others	NA
+Amphiprion_percula	psen1	ENSAPEG00000006847	Others	NA
+Amphiprion_percula	jmjd6	ENSAPEG00000006866	Others	NA
+Amphiprion_percula	taf7	ENSAPEG00000006881	TATA-box	NA
+Amphiprion_percula	commd1	ENSAPEG00000006933	Others	NA
+Amphiprion_percula	cdkn1bb	ENSAPEG00000006959	Cyclin	NA
+Amphiprion_percula	crebbpb	ENSAPEG00000006999	CREB	NA
+Amphiprion_percula	prmt7	ENSAPEG00000007044	Arginine methyltransferase	NA
+Amphiprion_percula	lgals9l5	ENSAPEG00000007060	Others	NA
+Amphiprion_percula	snd1	ENSAPEG00000007067	Others	NA
+Amphiprion_percula	FHL2	ENSAPEG00000007116	FHL	NA
+Amphiprion_percula		ENSAPEG00000007210	Others	NA
+Amphiprion_percula	wwp2	ENSAPEG00000007235	WW	NA
+Amphiprion_percula	DUSP26	ENSAPEG00000007246	Others	NA
+Amphiprion_percula	sgf29	ENSAPEG00000007284	Others	NA
+Amphiprion_percula	edrf1	ENSAPEG00000007285	Others	NA
+Amphiprion_percula	rbmx	ENSAPEG00000007316	RNA binding protein	NA
+Amphiprion_percula	nfatc2ip	ENSAPEG00000007344	Nuclear coactivator	NA
+Amphiprion_percula	bcl3	ENSAPEG00000007347	BCL	NA
+Amphiprion_percula	brd4	ENSAPEG00000007382	Bromodomain	NA
+Amphiprion_percula	btg1	ENSAPEG00000007416	Others	NA
+Amphiprion_percula	ash2l	ENSAPEG00000007420	Others	NA
+Amphiprion_percula	hdac10	ENSAPEG00000007437	Histone deacetylase	NA
+Amphiprion_percula	HDGF	ENSAPEG00000007615	Others	NA
+Amphiprion_percula	hdac4	ENSAPEG00000007631	Histone deacetylase	NA
+Amphiprion_percula	SMARCA2	ENSAPEG00000007646	SWI/SNF	NA
+Amphiprion_percula	ASF1B	ENSAPEG00000007657	Others	NA
+Amphiprion_percula		ENSAPEG00000007660	Thyroid hormone receptor	NA
+Amphiprion_percula	ddx1	ENSAPEG00000007699	RNA helicase	NA
+Amphiprion_percula	elp4	ENSAPEG00000007707	ELP	NA
+Amphiprion_percula	gtf2f1	ENSAPEG00000007714	GTF	NA
+Amphiprion_percula	banp	ENSAPEG00000007735	Others	NA
+Amphiprion_percula	nlk2	ENSAPEG00000007834	Others	NA
+Amphiprion_percula	dvl2	ENSAPEG00000007874	Others	NA
+Amphiprion_percula	hipk3b	ENSAPEG00000007989	HIPK	NA
+Amphiprion_percula	aurkb	ENSAPEG00000008030	Others	NA
+Amphiprion_percula	plk3	ENSAPEG00000008118	Others	NA
+Amphiprion_percula	eed	ENSAPEG00000008130	Others	NA
+Amphiprion_percula	mllt1b	ENSAPEG00000008132	GTF	NA
+Amphiprion_percula	fgfr1a	ENSAPEG00000008176	FGF	NA
+Amphiprion_percula	tob1a	ENSAPEG00000008187	Others	NA
+Amphiprion_percula	SAMD4B	ENSAPEG00000008190	Others	NA
+Amphiprion_percula	paf1	ENSAPEG00000008238	Others	NA
+Amphiprion_percula	nab2	ENSAPEG00000008259	Others	NA
+Amphiprion_percula	pbxip1a	ENSAPEG00000008283	Others	NA
+Amphiprion_percula	mtor	ENSAPEG00000008291	Others	NA
+Amphiprion_percula	CDYL2	ENSAPEG00000008292	Chromodomain Y	NA
+Amphiprion_percula	prpf6	ENSAPEG00000008301	Others	NA
+Amphiprion_percula	dgkab	ENSAPEG00000008311	Others	NA
+Amphiprion_percula	trip11	ENSAPEG00000008409	Thyroid hormone receptor	NA
+Amphiprion_percula	SGK1	ENSAPEG00000008427	Others	NA
+Amphiprion_percula	ILK	ENSAPEG00000008428	Others	NA
+Amphiprion_percula	rtf1	ENSAPEG00000008446	Others	NA
+Amphiprion_percula	apbb1	ENSAPEG00000008448	Others	NA
+Amphiprion_percula	tbpl1	ENSAPEG00000008485	TATA-box	NA
+Amphiprion_percula		ENSAPEG00000008569	Ankyrin repeat	NA
+Amphiprion_percula	eya4	ENSAPEG00000008574	EYA	NA
+Amphiprion_percula	npm1a	ENSAPEG00000008594	Nucleoplasmin	NA
+Amphiprion_percula	tab1	ENSAPEG00000008652	Others	NA
+Amphiprion_percula	prmt6	ENSAPEG00000008762	Arginine methyltransferase	NA
+Amphiprion_percula	nelfcd	ENSAPEG00000008808	GTF	NA
+Amphiprion_percula	ccdc85b	ENSAPEG00000008848	Coiled-coil	NA
+Amphiprion_percula	trim33	ENSAPEG00000008852	Tripartite motif	NA
+Amphiprion_percula	med6	ENSAPEG00000008870	Mediator complex	NA
+Amphiprion_percula	taf6l	ENSAPEG00000008884	TATA-box	NA
+Amphiprion_percula	sin3aa	ENSAPEG00000008918	Other_CRF	NA
+Amphiprion_percula	ash1l	ENSAPEG00000008936	Others	NA
+Amphiprion_percula	sfr1	ENSAPEG00000009026	Others	NA
+Amphiprion_percula	wdr61	ENSAPEG00000009046	WD	NA
+Amphiprion_percula	actn1	ENSAPEG00000009049	Actin	NA
+Amphiprion_percula	rap2c	ENSAPEG00000009059	Others	NA
+Amphiprion_percula	lmo1	ENSAPEG00000009063	LIM	NA
+Amphiprion_percula	rexo4	ENSAPEG00000009106	Others	NA
+Amphiprion_percula		ENSAPEG00000009134	Others	NA
+Amphiprion_percula	men1	ENSAPEG00000009154	Others	NA
+Amphiprion_percula	txnipa	ENSAPEG00000009185	Others	NA
+Amphiprion_percula	cdk2	ENSAPEG00000009199	Cyclin	NA
+Amphiprion_percula	cbx6a	ENSAPEG00000009256	Chromobox	NA
+Amphiprion_percula	prdx5	ENSAPEG00000009267	Others	NA
+Amphiprion_percula	cnot7	ENSAPEG00000009270	CCR4-NOT	NA
+Amphiprion_percula	kank1a	ENSAPEG00000009278	Others	NA
+Amphiprion_percula	gtf2h4	ENSAPEG00000009332	GTF	NA
+Amphiprion_percula	dnaja3b	ENSAPEG00000009391	Others	NA
+Amphiprion_percula	trip13	ENSAPEG00000009408	Thyroid hormone receptor	NA
+Amphiprion_percula	timeless	ENSAPEG00000009458	Others	NA
+Amphiprion_percula	tasorb	ENSAPEG00000009461	FAM	NA
+Amphiprion_percula	sf1	ENSAPEG00000009498	Others	NA
+Amphiprion_percula	creg1	ENSAPEG00000009561	Others	NA
+Amphiprion_percula	tsg101a	ENSAPEG00000009574	Others	NA
+Amphiprion_percula	dnmt3ab	ENSAPEG00000009584	DNA_methylase	NA
+Amphiprion_percula	notch1b	ENSAPEG00000009619	Notch	NA
+Amphiprion_percula	mcrs1	ENSAPEG00000009649	Others	NA
+Amphiprion_percula	rnf141	ENSAPEG00000009781	Ring finger protein	NA
+Amphiprion_percula	DCAF1	ENSAPEG00000009801	Others	NA
+Amphiprion_percula	chd9	ENSAPEG00000009859	CHD	NA
+Amphiprion_percula	rnf8	ENSAPEG00000009914	Ring finger protein	NA
+Amphiprion_percula	trim69	ENSAPEG00000009920	Tripartite motif	NA
+Amphiprion_percula	rnf2	ENSAPEG00000009924	Ring finger protein	NA
+Amphiprion_percula	lancl2	ENSAPEG00000009945	Others	NA
+Amphiprion_percula	tenm1	ENSAPEG00000009984	Others	NA
+Amphiprion_percula	heatr1	ENSAPEG00000009996	Others	NA
+Amphiprion_percula	taf1a	ENSAPEG00000010113	TATA-box	NA
+Amphiprion_percula	sav1	ENSAPEG00000010126	Others	NA
+Amphiprion_percula	rrn3	ENSAPEG00000010199	Others	NA
+Amphiprion_percula	anxa4	ENSAPEG00000010229	Others	NA
+Amphiprion_percula	nod2	ENSAPEG00000010272	Others	NA
+Amphiprion_percula	brf2	ENSAPEG00000010287	GTF	NA
+Amphiprion_percula	spen	ENSAPEG00000010288	Others	NA
+Amphiprion_percula	ctr9	ENSAPEG00000010314	Others	NA
+Amphiprion_percula	mad2l2	ENSAPEG00000010318	Others	NA
+Amphiprion_percula	chd7	ENSAPEG00000010332	CHD	NA
+Amphiprion_percula	xiap	ENSAPEG00000010429	Others	NA
+Amphiprion_percula	pabpc1b	ENSAPEG00000010435	Other_CRF	NA
+Amphiprion_percula	brd7	ENSAPEG00000010466	Bromodomain	NA
+Amphiprion_percula	itcha	ENSAPEG00000010493	Others	NA
+Amphiprion_percula	dnmt1	ENSAPEG00000010505	DNA_methylase	NA
+Amphiprion_percula	TENM2	ENSAPEG00000010534	Others	NA
+Amphiprion_percula	kdm2bb	ENSAPEG00000010540	Lysine demethylase	NA
+Amphiprion_percula	cdk13	ENSAPEG00000010623	Cyclin	NA
+Amphiprion_percula	nif3l1	ENSAPEG00000010674	Others	NA
+Amphiprion_percula	ino80e	ENSAPEG00000010817	INO80 complex	NA
+Amphiprion_percula	stk3	ENSAPEG00000010839	Others	NA
+Amphiprion_percula	pagr1	ENSAPEG00000010886	Others	NA
+Amphiprion_percula	ss18l2	ENSAPEG00000010908	SS18	NA
+Amphiprion_percula		ENSAPEG00000010943	Mediator complex	NA
+Amphiprion_percula		ENSAPEG00000010971	TATA-box	NA
+Amphiprion_percula	mtdha	ENSAPEG00000010998	Others	NA
+Amphiprion_percula	smarcd1	ENSAPEG00000011033	SWI/SNF	NA
+Amphiprion_percula	smurf1	ENSAPEG00000011048	Others	NA
+Amphiprion_percula	suds3	ENSAPEG00000011097	Other_Co-activator/repressors	NA
+Amphiprion_percula	smarca5	ENSAPEG00000011117	SWI/SNF	NA
+Amphiprion_percula	gtf2e1	ENSAPEG00000011172	GTF	NA
+Amphiprion_percula	arhgap35a	ENSAPEG00000011195	Others	NA
+Amphiprion_percula		ENSAPEG00000011197	Actin	NA
+Amphiprion_percula	PLK1	ENSAPEG00000011207	Others	NA
+Amphiprion_percula	ern1	ENSAPEG00000011263	Others	NA
+Amphiprion_percula	ing4	ENSAPEG00000011274	ING	NA
+Amphiprion_percula	pin1	ENSAPEG00000011284	Others	NA
+Amphiprion_percula	cdk9	ENSAPEG00000011302	Cyclin	NA
+Amphiprion_percula	egln2	ENSAPEG00000011316	Others	NA
+Amphiprion_percula	cnot2	ENSAPEG00000011343	CCR4-NOT	NA
+Amphiprion_percula	skia	ENSAPEG00000011354	SKI	NA
+Amphiprion_percula	TGFB1I1	ENSAPEG00000011357	Others	NA
+Amphiprion_percula	nono	ENSAPEG00000011383	Others	NA
+Amphiprion_percula		ENSAPEG00000011413	Others	NA
+Amphiprion_percula	med11	ENSAPEG00000011444	Mediator complex	NA
+Amphiprion_percula	tdg.1	ENSAPEG00000011460	Others	NA
+Amphiprion_percula	emsy	ENSAPEG00000011470	Others	NA
+Amphiprion_percula	kdm2ab	ENSAPEG00000011558	Lysine demethylase	NA
+Amphiprion_percula	adrb2a	ENSAPEG00000011560	Others	NA
+Amphiprion_percula	mrtfbb	ENSAPEG00000011634	Others	NA
+Amphiprion_percula	tescb	ENSAPEG00000011711	Others	NA
+Amphiprion_percula	ran	ENSAPEG00000011729	Others	NA
+Amphiprion_percula	hif1an	ENSAPEG00000011731	Others	NA
+Amphiprion_percula		ENSAPEG00000011750	Others	NA
+Amphiprion_percula	tdp2b	ENSAPEG00000011823	Others	NA
+Amphiprion_percula	bud31	ENSAPEG00000011830	Others	NA
+Amphiprion_percula	nrip1b	ENSAPEG00000011870	Nuclear receptor coactivator	NA
+Amphiprion_percula	dyrk1b	ENSAPEG00000011885	Others	NA
+Amphiprion_percula	puf60b	ENSAPEG00000011923	Others	NA
+Amphiprion_percula	chrac1	ENSAPEG00000011924	Other_CRF	NA
+Amphiprion_percula	NDUFA13	ENSAPEG00000011952	Others	NA
+Amphiprion_percula	med19a	ENSAPEG00000011969	Mediator complex	NA
+Amphiprion_percula	si:dkey-6i22.5	ENSAPEG00000012007	Others	NA
+Amphiprion_percula	lrrc14b	ENSAPEG00000012019	Others	NA
+Amphiprion_percula	thrsp	ENSAPEG00000012027	Others	NA
+Amphiprion_percula	vgll2a	ENSAPEG00000012057	Vestigial like	NA
+Amphiprion_percula	kdm8	ENSAPEG00000012122	Lysine demethylase	NA
+Amphiprion_percula	rbx1	ENSAPEG00000012157	Others	NA
+Amphiprion_percula	scai	ENSAPEG00000012227	Others	NA
+Amphiprion_percula	axin1	ENSAPEG00000012281	Others	NA
+Amphiprion_percula	rnf111	ENSAPEG00000012304	Ring finger protein	NA
+Amphiprion_percula	smarcd3b	ENSAPEG00000012305	SWI/SNF	NA
+Amphiprion_percula		ENSAPEG00000012322	MAML	NA
+Amphiprion_percula	yap1	ENSAPEG00000012326	Others	NA
+Amphiprion_percula	med29	ENSAPEG00000012356	Mediator complex	NA
+Amphiprion_percula	sltm	ENSAPEG00000012366	Others	NA
+Amphiprion_percula	TOB2	ENSAPEG00000012405	Others	NA
+Amphiprion_percula	hltf	ENSAPEG00000012535	Others	NA
+Amphiprion_percula	tnip1	ENSAPEG00000012538	Others	NA
+Amphiprion_percula	polr2a	ENSAPEG00000012623	POLR	NA
+Amphiprion_percula	malt1	ENSAPEG00000012842	Others	NA
+Amphiprion_percula		ENSAPEG00000012868	RNA helicase	NA
+Amphiprion_percula	erbb2	ENSAPEG00000012879	Erbb2	NA
+Amphiprion_percula	sirt6	ENSAPEG00000012889	Sirtuin	NA
+Amphiprion_percula	NIPBL	ENSAPEG00000013035	Others	NA
+Amphiprion_percula	bcl9l	ENSAPEG00000013117	BCL	NA
+Amphiprion_percula	ANP32E	ENSAPEG00000013122	ANP	NA
+Amphiprion_percula	ankrd1a	ENSAPEG00000013127	Ankyrin repeat	NA
+Amphiprion_percula	trib1	ENSAPEG00000013133	Others	NA
+Amphiprion_percula	MSL3	ENSAPEG00000013147	Others	NA
+Amphiprion_percula	pcgf5a	ENSAPEG00000013154	PCGF	NA
+Amphiprion_percula	supt4h1	ENSAPEG00000013170	SUPT	NA
+Amphiprion_percula	ccar1	ENSAPEG00000013204	Others	NA
+Amphiprion_percula	jak2b	ENSAPEG00000013219	Others	NA
+Amphiprion_percula	runx1t1	ENSAPEG00000013263	Others	NA
+Amphiprion_percula	tradd	ENSAPEG00000013337	Others	NA
+Amphiprion_percula	kat2b	ENSAPEG00000013389	Lysine acetyltransferase	NA
+Amphiprion_percula	c1qbp	ENSAPEG00000013414	Others	NA
+Amphiprion_percula	actr5	ENSAPEG00000013418	ACTR	NA
+Amphiprion_percula	CBL	ENSAPEG00000013441	Others	NA
+Amphiprion_percula	syk	ENSAPEG00000013443	Others	NA
+Amphiprion_percula	chd1	ENSAPEG00000013544	CHD	NA
+Amphiprion_percula	KMT2A	ENSAPEG00000013559	Lysine methyltransferase	NA
+Amphiprion_percula		ENSAPEG00000013560	Others	NA
+Amphiprion_percula	trim16	ENSAPEG00000013588	Tripartite motif	NA
+Amphiprion_percula	dhx33	ENSAPEG00000013599	RNA helicase	NA
+Amphiprion_percula	trim25	ENSAPEG00000013603	Tripartite motif	NA
+Amphiprion_percula	TAF4	ENSAPEG00000013714	TATA-box	NA
+Amphiprion_percula	chchd2	ENSAPEG00000013734	Coiled-coil	NA
+Amphiprion_percula	eapp	ENSAPEG00000013780	Others	NA
+Amphiprion_percula	SS18L1	ENSAPEG00000013802	SS18	NA
+Amphiprion_percula	rprd1b	ENSAPEG00000013819	Others	NA
+Amphiprion_percula	rprd1a	ENSAPEG00000013832	Others	NA
+Amphiprion_percula	gtf2a1l	ENSAPEG00000013898	GTF	NA
+Amphiprion_percula		ENSAPEG00000013905	Others	NA
+Amphiprion_percula	rptor	ENSAPEG00000013927	Others	NA
+Amphiprion_percula		ENSAPEG00000013969	Transducin	NA
+Amphiprion_percula	brd1a	ENSAPEG00000014005	Bromodomain	NA
+Amphiprion_percula	cep290	ENSAPEG00000014041	Others	NA
+Amphiprion_percula	gps2	ENSAPEG00000014060	Others	NA
+Amphiprion_percula	sirt7	ENSAPEG00000014084	Sirtuin	NA
+Amphiprion_percula	elp3	ENSAPEG00000014113	ELP	NA
+Amphiprion_percula	arhgap5	ENSAPEG00000014117	Others	NA
+Amphiprion_percula		ENSAPEG00000014125	Others	NA
+Amphiprion_percula	erbb4b	ENSAPEG00000014144	Erbb2	NA
+Amphiprion_percula	abl1	ENSAPEG00000014156	Others	NA
+Amphiprion_percula	ssu72	ENSAPEG00000014164	Others	NA
+Amphiprion_percula	gtf2b	ENSAPEG00000014215	GTF	NA
+Amphiprion_percula		ENSAPEG00000014235	Heat shock protein	NA
+Amphiprion_percula	ddx54	ENSAPEG00000014287	RNA helicase	NA
+Amphiprion_percula	CTDSP1	ENSAPEG00000014300	Others	NA
+Amphiprion_percula	maml3	ENSAPEG00000014342	MAML	NA
+Amphiprion_percula	kat6b	ENSAPEG00000014355	Lysine acetyltransferase	NA
+Amphiprion_percula	raf1a	ENSAPEG00000014392	Others	NA
+Amphiprion_percula	ogt.1	ENSAPEG00000014401	Others	NA
+Amphiprion_percula	ruvbl2	ENSAPEG00000014402	Other_CRF	NA
+Amphiprion_percula	MED13L	ENSAPEG00000014442	Mediator complex	NA
+Amphiprion_percula	brd2a	ENSAPEG00000014443	Bromodomain	NA
+Amphiprion_percula	rpap2	ENSAPEG00000014512	Others	NA
+Amphiprion_percula	lrrk2	ENSAPEG00000014513	Other_CRF	NA
+Amphiprion_percula	taf10	ENSAPEG00000014524	TATA-box	NA
+Amphiprion_percula	ldb1b	ENSAPEG00000014581	LIM	NA
+Amphiprion_percula	kdm5a	ENSAPEG00000014594	Lysine demethylase	NA
+Amphiprion_percula	alyref	ENSAPEG00000014603	Others	NA
+Amphiprion_percula	recql5	ENSAPEG00000014670	Others	NA
+Amphiprion_percula	hnrnpub	ENSAPEG00000014679	HNRNP	NA
+Amphiprion_percula	ddx5	ENSAPEG00000014685	RNA helicase	NA
+Amphiprion_percula	supt3h	ENSAPEG00000014690	SUPT	NA
+Amphiprion_percula	suv39h1a	ENSAPEG00000014698	Others	NA
+Amphiprion_percula	mtf2	ENSAPEG00000014722	Others	NA
+Amphiprion_percula	smurf2	ENSAPEG00000014725	Others	NA
+Amphiprion_percula	med20	ENSAPEG00000014763	Mediator complex	NA
+Amphiprion_percula	nrbf2b	ENSAPEG00000014845	Nuclear receptor coactivator	NA
+Amphiprion_percula	med22	ENSAPEG00000014864	Mediator complex	NA
+Amphiprion_percula	med13a	ENSAPEG00000014866	Mediator complex	NA
+Amphiprion_percula	xrn2	ENSAPEG00000014871	Others	NA
+Amphiprion_percula	cited1	ENSAPEG00000014902	CITED	NA
+Amphiprion_percula	hdac8	ENSAPEG00000014917	Histone deacetylase	NA
+Amphiprion_percula	jmjd1cb	ENSAPEG00000014950	Other_CRF	NA
+Amphiprion_percula	dpy30	ENSAPEG00000014984	Others	NA
+Amphiprion_percula	fbxw11a	ENSAPEG00000015067	Others	NA
+Amphiprion_percula	nelfb	ENSAPEG00000015068	GTF	NA
+Amphiprion_percula	med1	ENSAPEG00000015121	Mediator complex	NA
+Amphiprion_percula	camk2d1	ENSAPEG00000015153	CAMK	NA
+Amphiprion_percula	prmt2	ENSAPEG00000015165	Arginine methyltransferase	NA
+Amphiprion_percula	auts2a	ENSAPEG00000015219	Others	NA
+Amphiprion_percula	polr3f	ENSAPEG00000015263	POLR	NA
+Amphiprion_percula	elp2	ENSAPEG00000015373	ELP	NA
+Amphiprion_percula	CBX4	ENSAPEG00000015378	Chromobox	NA
+Amphiprion_percula	wdr5	ENSAPEG00000015385	WD	NA
+Amphiprion_percula	cbx8b	ENSAPEG00000015391	Chromobox	NA
+Amphiprion_percula	slc19a1	ENSAPEG00000015397	SLC	NA
+Amphiprion_percula	wnt4	ENSAPEG00000015471	Others	NA
+Amphiprion_percula	pfdn5	ENSAPEG00000015512	Others	NA
+Amphiprion_percula	HDAC3	ENSAPEG00000015573	Histone deacetylase	NA
+Amphiprion_percula	nfkbiaa	ENSAPEG00000015610	NFKB associated	NA
+Amphiprion_percula		ENSAPEG00000015619	Others	NA
+Amphiprion_percula	brms1lb	ENSAPEG00000015631	Other_CRF	NA
+Amphiprion_percula	ctnnd1	ENSAPEG00000015682	Casein	NA
+Amphiprion_percula	lbh	ENSAPEG00000015696	Others	NA
+Amphiprion_percula	gtf2a1	ENSAPEG00000015768	GTF	NA
+Amphiprion_percula	npm3	ENSAPEG00000015863	Nucleoplasmin	NA
+Amphiprion_percula	hdac11	ENSAPEG00000015895	Histone deacetylase	NA
+Amphiprion_percula	sufu	ENSAPEG00000015906	Others	NA
+Amphiprion_percula	pspc1	ENSAPEG00000015927	Others	NA
+Amphiprion_percula	nsmce4a	ENSAPEG00000015945	EID	NA
+Amphiprion_percula	depdc1a	ENSAPEG00000015954	Others	NA
+Amphiprion_percula	grhpra	ENSAPEG00000015976	Others	NA
+Amphiprion_percula	trim32	ENSAPEG00000016012	Tripartite motif	NA
+Amphiprion_percula		ENSAPEG00000016014	Mediator complex	NA
+Amphiprion_percula	crtc1a	ENSAPEG00000016019	CREB	NA
+Amphiprion_percula	ela3l	ENSAPEG00000016020	Others	NA
+Amphiprion_percula	snw1	ENSAPEG00000016075	Others	NA
+Amphiprion_percula	pik3r2	ENSAPEG00000016119	Others	NA
+Amphiprion_percula	drap1	ENSAPEG00000016121	Others	NA
+Amphiprion_percula	setd3	ENSAPEG00000016132	SET	NA
+Amphiprion_percula	mycbp	ENSAPEG00000016191	MYC	NA
+Amphiprion_percula	ccnt2b	ENSAPEG00000016213	Cyclin	NA
+Amphiprion_percula		ENSAPEG00000016281	Others	NA
+Amphiprion_percula	ncoa4	ENSAPEG00000016283	Nuclear receptor coactivator	NA
+Amphiprion_percula	edf1	ENSAPEG00000016362	Others	NA
+Amphiprion_percula	tnni2a.1	ENSAPEG00000016379	Others	NA
+Amphiprion_percula	WDR77	ENSAPEG00000016476	WD	NA
+Amphiprion_percula	lzts1	ENSAPEG00000016485	Others	NA
+Amphiprion_percula	pa2g4a	ENSAPEG00000016538	Others	NA
+Amphiprion_percula	ripk3	ENSAPEG00000016608	Others	NA
+Amphiprion_percula	KDM1B	ENSAPEG00000016633	Lysine demethylase	NA
+Amphiprion_percula	vhl	ENSAPEG00000016667	Others	NA
+Amphiprion_percula	ercc2	ENSAPEG00000016712	Others	NA
+Amphiprion_percula	phip	ENSAPEG00000016748	Others	NA
+Amphiprion_percula	hck	ENSAPEG00000016838	Others	NA
+Amphiprion_percula	dvl3a	ENSAPEG00000016879	Others	NA
+Amphiprion_percula	cnot6b	ENSAPEG00000016949	CCR4-NOT	NA
+Amphiprion_percula	sirt5	ENSAPEG00000016999	Sirtuin	NA
+Amphiprion_percula	ruvbl1	ENSAPEG00000017040	Other_CRF	NA
+Amphiprion_percula	ilf2	ENSAPEG00000017042	Others	NA
+Amphiprion_percula	atrx	ENSAPEG00000017044	Others	NA
+Amphiprion_percula	supt16h	ENSAPEG00000017067	SUPT	NA
+Amphiprion_percula	ikbkb	ENSAPEG00000017117	Others	NA
+Amphiprion_percula	DDX39A	ENSAPEG00000017193	RNA helicase	NA
+Amphiprion_percula	nck1a	ENSAPEG00000017248	Others	NA
+Amphiprion_percula	brf1b	ENSAPEG00000017279	GTF	NA
+Amphiprion_percula	epc2	ENSAPEG00000017295	Others	NA
+Amphiprion_percula	rlim	ENSAPEG00000017317	Ring finger protein	NA
+Amphiprion_percula	ikbkg	ENSAPEG00000017364	Others	NA
+Amphiprion_percula	kdm1a	ENSAPEG00000017416	Lysine demethylase	NA
+Amphiprion_percula	csnk2a4	ENSAPEG00000017478	Casein	NA
+Amphiprion_percula	MYOCD	ENSAPEG00000017512	Others	NA
+Amphiprion_percula	ENY2	ENSAPEG00000017519	Others	NA
+Amphiprion_percula	EZH1	ENSAPEG00000017520	Others	NA
+Amphiprion_percula	sap18	ENSAPEG00000017547	SAP	NA
+Amphiprion_percula	chd1l	ENSAPEG00000017573	CHD	NA
+Amphiprion_percula	ACTN4	ENSAPEG00000017602	Actin	NA
+Amphiprion_percula	niban2a	ENSAPEG00000017683	FAM	NA
+Amphiprion_percula	ctnnb1	ENSAPEG00000017688	Casein	NA
+Amphiprion_percula	kdm3b	ENSAPEG00000017737	Lysine demethylase	NA
+Amphiprion_percula	nsd3	ENSAPEG00000017752	Nuclear receptor coactivator	NA
+Amphiprion_percula	sfmbt2	ENSAPEG00000017891	Others	NA
+Amphiprion_percula	trak2	ENSAPEG00000017902	Others	NA
+Amphiprion_percula	med17	ENSAPEG00000017905	Mediator complex	NA
+Amphiprion_percula	pex14	ENSAPEG00000017969	Others	NA
+Amphiprion_percula	KCNIP3	ENSAPEG00000017984	Others	NA
+Amphiprion_percula	taf11	ENSAPEG00000017987	TATA-box	NA
+Amphiprion_percula	pphln1	ENSAPEG00000017993	Others	NA
+Amphiprion_percula	ehmt1b	ENSAPEG00000018047	Histone lysine methyltransferase	NA
+Amphiprion_percula	pim1	ENSAPEG00000018085	Others	NA
+Amphiprion_percula	blm	ENSAPEG00000018105	Others	NA
+Amphiprion_percula	rnf14	ENSAPEG00000018135	Ring finger protein	NA
+Amphiprion_percula	aip	ENSAPEG00000018153	Others	NA
+Amphiprion_percula	naa15a	ENSAPEG00000018184	Others	NA
+Amphiprion_percula	baz1b	ENSAPEG00000018276	Bromodomain	NA
+Amphiprion_percula		ENSAPEG00000018296	Others	NA
+Amphiprion_percula	pak6b	ENSAPEG00000018320	Others	NA
+Amphiprion_percula	cavin1a	ENSAPEG00000018341	Others	NA
+Amphiprion_percula	mbtd1	ENSAPEG00000018347	Others	NA
+Amphiprion_percula	atad2	ENSAPEG00000018408	Others	NA
+Amphiprion_percula	ago2	ENSAPEG00000018425	Others	NA
+Amphiprion_percula	ccnh	ENSAPEG00000018429	Cyclin	NA
+Amphiprion_percula	loxl2b	ENSAPEG00000018430	Others	NA
+Amphiprion_percula	supt6h	ENSAPEG00000018434	SUPT	NA
+Amphiprion_percula	med23	ENSAPEG00000018490	Mediator complex	NA
+Amphiprion_percula	ctnnbip1	ENSAPEG00000018525	Casein	NA
+Amphiprion_percula		ENSAPEG00000018668	Others	NA
+Amphiprion_percula	smarcd2	ENSAPEG00000018712	SWI/SNF	NA
+Amphiprion_percula	ascc2	ENSAPEG00000018769	ASCC	NA
+Amphiprion_percula	pid1	ENSAPEG00000018849	Others	NA
+Amphiprion_percula	znf593	ENSAPEG00000018888	Zinc finger	NA
+Amphiprion_percula	fgf1a	ENSAPEG00000018936	FGF	NA
+Amphiprion_percula	rad21b	ENSAPEG00000018981	Others	NA
+Amphiprion_percula	mdm2	ENSAPEG00000018985	Others	NA
+Amphiprion_percula	wdtc1	ENSAPEG00000019007	WD	NA
+Amphiprion_percula	ice2	ENSAPEG00000019068	GTF	NA
+Amphiprion_percula	tonsl	ENSAPEG00000019090	Others	NA
+Amphiprion_percula	med30	ENSAPEG00000019120	Mediator complex	NA
+Amphiprion_percula	YWHAB	ENSAPEG00000019152	Others	NA
+Amphiprion_percula	cnot11	ENSAPEG00000019235	CCR4-NOT	NA
+Amphiprion_percula	ppie	ENSAPEG00000019253	Others	NA
+Amphiprion_percula	pih1d1	ENSAPEG00000019265	Other_CRF	NA
+Amphiprion_percula	abrab	ENSAPEG00000019326	Actin	NA
+Amphiprion_percula	cbx3a	ENSAPEG00000019335	Chromobox	NA
+Amphiprion_percula	kdm6ba	ENSAPEG00000019387	Lysine demethylase	NA
+Amphiprion_percula	LIMD1	ENSAPEG00000019388	LIM	NA
+Amphiprion_percula	ccna2	ENSAPEG00000019431	Cyclin	NA
+Amphiprion_percula	med4	ENSAPEG00000019456	Mediator complex	NA
+Amphiprion_percula	rasd1	ENSAPEG00000019480	Others	NA
+Amphiprion_percula	taf1b	ENSAPEG00000019659	TATA-box	NA
+Amphiprion_percula	fgf5	ENSAPEG00000019694	FGF	NA
+Amphiprion_percula	prmt5	ENSAPEG00000019711	Arginine methyltransferase	NA
+Amphiprion_percula	lyn	ENSAPEG00000019723	Others	NA
+Amphiprion_percula	znf451	ENSAPEG00000019729	Zinc finger	NA
+Amphiprion_percula	ascc1	ENSAPEG00000019742	ASCC	NA
+Amphiprion_percula	cdk8	ENSAPEG00000019833	Cyclin	NA
+Amphiprion_percula	hnrpkl	ENSAPEG00000019850	HNRNP	NA
+Amphiprion_percula	hcls1	ENSAPEG00000019883	Others	NA
+Amphiprion_percula	NEDD8	ENSAPEG00000019896	Others	NA
+Amphiprion_percula		ENSAPEG00000019906	Tripartite motif	NA
+Amphiprion_percula	frzb	ENSAPEG00000019967	Others	NA
+Amphiprion_percula	cnot6l	ENSAPEG00000020035	CCR4-NOT	NA
+Amphiprion_percula	rbm15	ENSAPEG00000020077	RNA binding protein	NA
+Amphiprion_percula	wbp2	ENSAPEG00000020125	WW	NA
+Amphiprion_percula	hdac5	ENSAPEG00000020144	Histone deacetylase	NA
+Amphiprion_percula	KDM7A	ENSAPEG00000020214	Lysine demethylase	NA
+Amphiprion_percula	hspa1b	ENSAPEG00000020226	Heat shock protein	NA
+Amphiprion_percula	CASK	ENSAPEG00000020227	CAMK	NA
+Amphiprion_percula	phf5a	ENSAPEG00000020260	PHF	NA
+Amphiprion_percula	taf5	ENSAPEG00000020262	TATA-box	NA
+Amphiprion_percula	seta	ENSAPEG00000020267	SET	NA
+Amphiprion_percula	rfxap	ENSAPEG00000020305	Others	NA
+Amphiprion_percula		ENSAPEG00000020306	CHD	NA
+Amphiprion_percula	supt20	ENSAPEG00000020441	SUPT	NA
+Amphiprion_percula	SMARCB1	ENSAPEG00000020460	SWI/SNF	NA
+Amphiprion_percula	cdk7	ENSAPEG00000020556	Cyclin	NA
+Amphiprion_percula		ENSAPEG00000020560	Zinc finger	NA
+Amphiprion_percula	mtpn	ENSAPEG00000020630	Others	NA
+Amphiprion_percula	cbx7b	ENSAPEG00000020659	Chromobox	NA
+Amphiprion_percula	aurkaip1	ENSAPEG00000020662	Others	NA
+Amphiprion_percula	kdm6a	ENSAPEG00000020685	Lysine demethylase	NA
+Amphiprion_percula	dscamb	ENSAPEG00000020708	Others	NA
+Amphiprion_percula	xrcc6	ENSAPEG00000020712	Others	NA
+Amphiprion_percula	sap130a	ENSAPEG00000020745	SAP	NA
+Amphiprion_percula		ENSAPEG00000020775	Others	NA
+Amphiprion_percula	sdr16c5a	ENSAPEG00000020799	Others	NA
+Amphiprion_percula	cops5	ENSAPEG00000020811	Others	NA
+Amphiprion_percula	CRTC2	ENSAPEG00000020812	CREB	NA
+Amphiprion_percula	wu:fj64h06	ENSAPEG00000020827	TATA-box	NA
+Amphiprion_percula	sap30bp	ENSAPEG00000020896	SAP	NA
+Amphiprion_percula	dek	ENSAPEG00000020997	Other_CRF	NA
+Amphiprion_percula	mrtfab	ENSAPEG00000021018	Others	NA
+Amphiprion_percula	cbfa2t2	ENSAPEG00000021039	Others	NA
+Amphiprion_percula	supt5h	ENSAPEG00000021060	SUPT	NA
+Amphiprion_percula	snapc5	ENSAPEG00000021082	Others	NA
+Amphiprion_percula	carm1	ENSAPEG00000021106	Others	NA
+Amphiprion_percula	rgcc	ENSAPEG00000021108	Others	NA
+Amphiprion_percula	kdm5c	ENSAPEG00000021178	Lysine demethylase	NA
+Amphiprion_percula	jupa	ENSAPEG00000021206	Others	NA
+Amphiprion_percula	hira	ENSAPEG00000021212	Others	NA
+Amphiprion_percula	zgc:162255	ENSAPEG00000021290	Other_CRF	NA
+Amphiprion_percula	dcc	ENSAPEG00000021303	Others	NA
+Amphiprion_percula	morf4l1	ENSAPEG00000021329	Other_CRF	NA
+Amphiprion_percula	eno1a	ENSAPEG00000021374	Others	NA
+Amphiprion_percula	mms19	ENSAPEG00000021413	Others	NA
+Amphiprion_percula	apex1	ENSAPEG00000021453	Others	NA
+Amphiprion_percula	med25	ENSAPEG00000021464	Mediator complex	NA
+Amphiprion_percula	mybbp1a	ENSAPEG00000021477	MYB	NA
+Amphiprion_percula	cry1a	ENSAPEG00000021519	Others	NA
+Amphiprion_percula	noc2l	ENSAPEG00000021569	Others	NA
+Amphiprion_percula	hat1	ENSAPEG00000021589	Others	NA
+Amphiprion_percula	arl2bp	ENSAPEG00000021625	Others	NA
+Amphiprion_percula	skila	ENSAPEG00000021648	SKI	NA
+Amphiprion_percula	rybpa	ENSAPEG00000021704	Others	NA
+Amphiprion_percula	ncoa2	ENSAPEG00000021732	Nuclear receptor coactivator	NA
+Amphiprion_percula	thoc5	ENSAPEG00000021756	Others	NA
+Amphiprion_percula	dapk3	ENSAPEG00000021762	Others	NA
+Amphiprion_percula	orc2	ENSAPEG00000021850	Others	NA
+Amphiprion_percula	eya1	ENSAPEG00000021858	EYA	NA
+Amphiprion_percula	pycard	ENSAPEG00000021864	Others	NA
+Amphiprion_percula	oxr1b	ENSAPEG00000021874	Nuclear receptor coactivator	NA
+Amphiprion_percula	insra	ENSAPEG00000021882	Others	NA
+Amphiprion_percula	nrip2	ENSAPEG00000021926	Nuclear coactivator	NA
+Amphiprion_percula		ENSAPEG00000021927	RNA binding protein	NA
+Amphiprion_percula	setd2	ENSAPEG00000021950	SET	NA
+Amphiprion_percula	meaf6	ENSAPEG00000022021	Others	NA
+Amphiprion_percula	trib3	ENSAPEG00000022071	Others	NA
+Amphiprion_percula	CIR1	ENSAPEG00000022133	Other_Co-activator/repressors	NA
+Amphiprion_percula	lmcd1	ENSAPEG00000022134	LIM	NA
+Amphiprion_percula	med21	ENSAPEG00000022165	Mediator complex	NA
+Amphiprion_percula	pidd1	ENSAPEG00000022185	Others	NA
+Amphiprion_percula	ndnl2	ENSAPEG00000022215	MAGE	NA
+Amphiprion_percula	eloca	ENSAPEG00000022242	Others	NA
+Amphiprion_percula	tirap	ENSAPEG00000022270	Others	NA
+Amphiprion_percula	KDM5B	ENSAPEG00000022284	Lysine demethylase	NA
+Amphiprion_percula	setd6	ENSAPEG00000022329	SET	NA
+Amphiprion_percula	cnot1	ENSAPEG00000022342	CCR4-NOT	NA
+Amphiprion_percula	esf1	ENSAPEG00000022385	Others	NA
+Amphiprion_percula	ttf2	ENSAPEG00000022425	Others	NA
+Amphiprion_percula	PCBD2	ENSAPEG00000022459	Others	NA
+Amphiprion_percula	rbbp5	ENSAPEG00000022468	RBBP	NA
+Amphiprion_percula	gtf2h1	ENSAPEG00000022504	GTF	NA
+Amphiprion_percula	zmym2	ENSAPEG00000022524	Zinc finger	NA
+Amphiprion_percula	uxt	ENSAPEG00000022571	Others	NA
+Amphiprion_percula	mnat1	ENSAPEG00000022745	Others	NA
+Amphiprion_percula	tdrd3	ENSAPEG00000022810	Others	NA
+Amphiprion_percula	nudt5	ENSAPEG00000022869	Other_CRF	NA
+Amphiprion_percula	ino80da	ENSAPEG00000022901	INO80 complex	NA
+Amphiprion_percula	ino80	ENSAPEG00000022911	INO80 complex	NA
+Amphiprion_percula		ENSAPEG00000023046	Others	NA
+Amphiprion_percula	phf1	ENSAPEG00000023049	PHF	NA
+Amphiprion_percula	ercc3	ENSAPEG00000023077	Others	NA
+Amphiprion_percula		ENSAPEG00000023086	Transducin	NA
+Amphiprion_percula	SMARCA4	ENSAPEG00000023108	SWI/SNF	NA
+Amphiprion_percula	rbm15b	ENSAPEG00000023123	RNA binding protein	NA
+Amphiprion_percula	arglu1a	ENSAPEG00000023143	Others	NA
+Amphiprion_percula	cxxc1b	ENSAPEG00000023253	Others	NA
+Amphiprion_percula	HMOX1	ENSAPEG00000023325	Others	NA
+Amphiprion_percula	safb	ENSAPEG00000023342	Others	NA
+Amphiprion_percula	BRD3	ENSAPEG00000023345	Bromodomain	NA
+Amphiprion_percula	mrgbp	ENSAPEG00000023381	Others	NA
+Amphiprion_percula	aatf	ENSAPEG00000023422	Others	NA
+Amphiprion_percula	top1l	ENSAPEG00000023452	Other_CRF	NA
+Amphiprion_percula	trim8b	ENSAPEG00000023453	Tripartite motif	NA
+Amphiprion_percula	padi2	ENSAPEG00000023471	Other_CRF	NA
+Amphiprion_percula	med8	ENSAPEG00000023489	Mediator complex	NA
+Amphiprion_percula	birc2	ENSAPEG00000023491	Others	NA
+Amphiprion_percula	STRN	ENSAPEG00000023506	Others	NA
+Amphiprion_percula	grip1	ENSAPEG00000023516	Others	NA
+Amphiprion_percula	RBPMS	ENSAPEG00000023543	RNA binding protein	NA
+Amphiprion_percula	tada3l	ENSAPEG00000023555	Transcriptional adaptor	NA
+Amphiprion_percula	suz12b	ENSAPEG00000023614	Others	NA
+Amphiprion_percula	abt1	ENSAPEG00000023617	Others	NA
+Amphiprion_percula		ENSAPEG00000023637	Others	NA
+Amphiprion_percula	dr1	ENSAPEG00000023674	Others	NA
+Amphiprion_percula	bmi1a	ENSAPEG00000023692	Others	NA
+Amphiprion_percula	chek2	ENSAPEG00000023750	Others	NA
+Amphiprion_percula	chek1	ENSAPEG00000023791	Others	NA
+Amphiprion_percula	hcfc2	ENSAPEG00000023861	Others	NA
+Amphiprion_percula	zmynd8	ENSAPEG00000023865	Zinc finger	NA
+Amphiprion_percula	tgfbr3	ENSAPEG00000023993	Others	NA
+Amphiprion_percula	ncoa3	ENSAPEG00000024040	Nuclear receptor coactivator	NA
+Amphiprion_percula	fhit	ENSAPEG00000024091	Others	NA
+Amphiprion_percula	raly	ENSAPEG00000024106	Others	NA
+Amphiprion_percula	phf19	ENSAPEG00000024121	PHF	NA
+Amphiprion_percula	hdac6	ENSAPEG00000024131	Histone deacetylase	NA
+Amphiprion_percula	nrg2a	ENSAPEG00000024139	Others	NA
+Amphiprion_percula	ewsr1b	ENSAPEG00000024145	Others	NA
+Amphiprion_percula	trappc2	ENSAPEG00000024146	Others	NA
+Amphiprion_percula	phf20a	ENSAPEG00000024148	PHF	NA
+Amphiprion_percula	egln1a	ENSAPEG00000024153	Others	NA
+Amphiprion_percula	pex2	ENSAPEG00000024201	Others	NA
+Amphiprion_percula	med27	ENSAPEG00000024213	Mediator complex	NA
+Amphiprion_percula	cxxc5a	ENSAPEG00000024231	Others	NA
+Amphiprion_percula	tbl1x	ENSAPEG00000024249	Transducin	NA
+Amphiprion_percula	lpin2	ENSAPEG00000024316	LPIN	NA
+Amphiprion_percula	chaf1b	ENSAPEG00000024404	Others	NA
+Amphiprion_percula	gtf2h2	ENSAPEG00000024408	GTF	NA
+Amphiprion_percula	cidec	ENSAPEG00000024412	Others	NA
+Amphiprion_percula	dpf1	ENSAPEG00000024421	DPF	NA
+Amphiprion_percula	flncb	ENSAPEG00000024425	Others	NA
+Amphiprion_percula	bcl9	ENSAPEG00000024430	BCL	NA
+Amphiprion_percula	ing3	ENSAPEG00000024493	ING	NA
+Amphiprion_percula	fgfr2	ENSAPEG00000024530	FGF	NA
+Amphiprion_percula	tcea1	ENSAPEG00000024556	TEF	NA
+Amphiprion_percula	sirt2	ENSAPEG00000024575	Sirtuin	NA
+Amphiprion_percula	pir	ENSAPEG00000024590	Others	NA
+Amphiprion_percula	kmt5ab	ENSAPEG00000024620	Lysine methyltransferase	NA
+Amphiprion_percula		ENSAPEG00000024636	PHF	NA
+Amphiprion_percula	pink1	ENSAPEG00000024649	Others	NA
+Amphiprion_percula	sirt1	ENSAPEG00000024712	Sirtuin	NA
+Amphiprion_percula	gtf2h3	ENSAPEG00000024750	GTF	NA
+Amphiprion_percula	leo1	ENSAPEG00000024770	Others	NA
+Amphiprion_percula	pcbd1	ENSAPEG00000024773	Others	NA
+Amphiprion_percula	pdlim1	ENSAPEG00000024781	Others	NA
+Amphiprion_percula	bcl10	ENSAPEG00000024783	BCL	NA
+Amphiprion_percula	egfra	ENSAPEG00000024805	Others	NA
+Amphiprion_percula	cops2	ENSAPEG00000024841	Others	NA

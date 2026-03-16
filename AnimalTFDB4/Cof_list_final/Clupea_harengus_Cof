@@ -1,0 +1,735 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Clupea_harengus		ENSCHAG00000000067	Others	105905288
+Clupea_harengus	snapc5	ENSCHAG00000000160	Others	105892507
+Clupea_harengus	tbl1x	ENSCHAG00000000193	Transducin	NA
+Clupea_harengus	pink1	ENSCHAG00000000230	Others	105912719
+Clupea_harengus	med27	ENSCHAG00000000274	Mediator complex	105894582
+Clupea_harengus	mnat1	ENSCHAG00000000350	Others	105909450
+Clupea_harengus		ENSCHAG00000000424	Others	NA
+Clupea_harengus	lgals9l5	ENSCHAG00000000430	Others	105902811
+Clupea_harengus	fgf5	ENSCHAG00000000579	FGF	105906880
+Clupea_harengus	sav1	ENSCHAG00000000615	Others	105891001
+Clupea_harengus	rad21b	ENSCHAG00000000617	Others	105904922
+Clupea_harengus	uxt	ENSCHAG00000000675	Others	105898979
+Clupea_harengus	si:dkey-6i22.5	ENSCHAG00000000686	Others	NA
+Clupea_harengus	mtpn	ENSCHAG00000000699	Others	105896750
+Clupea_harengus	dek	ENSCHAG00000000704	Other_CRF	NA
+Clupea_harengus	med4	ENSCHAG00000000715	Mediator complex	NA
+Clupea_harengus	tdg.1	ENSCHAG00000000720	Others	105891516
+Clupea_harengus	yeats2	ENSCHAG00000000756	Others	NA
+Clupea_harengus	med19a	ENSCHAG00000000765	Mediator complex	NA
+Clupea_harengus		ENSCHAG00000000877	Thyroid hormone receptor	105907179
+Clupea_harengus	meaf6	ENSCHAG00000000917	Others	105890396
+Clupea_harengus	med30	ENSCHAG00000000947	Mediator complex	NA
+Clupea_harengus	chek2	ENSCHAG00000000974	Others	105890008
+Clupea_harengus	tbp	ENSCHAG00000001081	TATA-box	105911617
+Clupea_harengus	kank1a	ENSCHAG00000001123	Others	NA
+Clupea_harengus	cxxc1b	ENSCHAG00000001131	Others	105907910
+Clupea_harengus	hint1	ENSCHAG00000001132	Others	105908434
+Clupea_harengus	FBXW11	ENSCHAG00000001156	Others	NA
+Clupea_harengus	nif3l1	ENSCHAG00000001183	Others	105909130
+Clupea_harengus	MED31	ENSCHAG00000001214	Mediator complex	NA
+Clupea_harengus	rnf10	ENSCHAG00000001227	Ring finger protein	NA
+Clupea_harengus	ercc2	ENSCHAG00000001242	Others	105899857
+Clupea_harengus	prmt1	ENSCHAG00000001278	Arginine methyltransferase	105898787
+Clupea_harengus	axin1	ENSCHAG00000001311	Others	NA
+Clupea_harengus	phf10	ENSCHAG00000001338	PHF	105911624
+Clupea_harengus	ercc3	ENSCHAG00000001369	Others	NA
+Clupea_harengus	dmap1	ENSCHAG00000001402	DNA_methylase	105895256
+Clupea_harengus	arl2bp	ENSCHAG00000001459	Others	NA
+Clupea_harengus	zgc:162255	ENSCHAG00000001515	Other_CRF	105900431
+Clupea_harengus	smarca2	ENSCHAG00000001539	SWI/SNF	NA
+Clupea_harengus	polr3f	ENSCHAG00000001546	POLR	105909358
+Clupea_harengus	mybbp1a	ENSCHAG00000001549	MYB	NA
+Clupea_harengus	malt2	ENSCHAG00000001575	Others	NA
+Clupea_harengus	carm1	ENSCHAG00000001581	Others	NA
+Clupea_harengus	fgfr2	ENSCHAG00000001587	FGF	NA
+Clupea_harengus	atrx	ENSCHAG00000001593	Others	NA
+Clupea_harengus	kat2a	ENSCHAG00000001612	Lysine acetyltransferase	NA
+Clupea_harengus	ascc2	ENSCHAG00000001620	ASCC	NA
+Clupea_harengus	rbbp5	ENSCHAG00000001651	RBBP	NA
+Clupea_harengus	skia	ENSCHAG00000001665	SKI	NA
+Clupea_harengus	ago3b	ENSCHAG00000001696	Others	NA
+Clupea_harengus	trim8a	ENSCHAG00000001725	Tripartite motif	105911637
+Clupea_harengus	abrab	ENSCHAG00000001737	Actin	105909067
+Clupea_harengus	clu	ENSCHAG00000001780	Others	NA
+Clupea_harengus	sufu	ENSCHAG00000001799	Others	105911643
+Clupea_harengus	taf8	ENSCHAG00000001815	TATA-box	105900144
+Clupea_harengus	edf1	ENSCHAG00000001820	Others	105889339
+Clupea_harengus	hif1an	ENSCHAG00000001875	Others	105910146
+Clupea_harengus	lrrc14b	ENSCHAG00000001886	Others	NA
+Clupea_harengus	cnot1	ENSCHAG00000001898	CCR4-NOT	105895616
+Clupea_harengus	nsd3	ENSCHAG00000001902	Nuclear receptor coactivator	NA
+Clupea_harengus	nab2	ENSCHAG00000001959	Others	105897834
+Clupea_harengus	TENM2	ENSCHAG00000001976	Others	NA
+Clupea_harengus	leo1	ENSCHAG00000002019	Others	105889149
+Clupea_harengus	ddx1	ENSCHAG00000002054	RNA helicase	NA
+Clupea_harengus	pagr1	ENSCHAG00000002092	Others	NA
+Clupea_harengus	kdm6a	ENSCHAG00000002100	Lysine demethylase	NA
+Clupea_harengus	pid1	ENSCHAG00000002196	Others	105902807
+Clupea_harengus	CCND1	ENSCHAG00000002200	Cyclin	105911298
+Clupea_harengus	taf10	ENSCHAG00000002213	TATA-box	105902208
+Clupea_harengus	cnot8	ENSCHAG00000002252	CCR4-NOT	105890529
+Clupea_harengus	SMARCA5	ENSCHAG00000002317	SWI/SNF	NA
+Clupea_harengus	MED13L	ENSCHAG00000002320	Mediator complex	NA
+Clupea_harengus	mdm4	ENSCHAG00000002329	Others	NA
+Clupea_harengus	mbtd1	ENSCHAG00000002547	Others	NA
+Clupea_harengus	med29	ENSCHAG00000002557	Mediator complex	105911734
+Clupea_harengus	ralgapa1	ENSCHAG00000002656	Others	NA
+Clupea_harengus	dot1l	ENSCHAG00000002671	Others	NA
+Clupea_harengus	trim37	ENSCHAG00000002706	Tripartite motif	NA
+Clupea_harengus	waca	ENSCHAG00000002743	WW	105889356
+Clupea_harengus	chd4a	ENSCHAG00000002793	CHD	NA
+Clupea_harengus	kdm5bb	ENSCHAG00000002807	Lysine demethylase	NA
+Clupea_harengus	creg1	ENSCHAG00000002868	Others	105896490
+Clupea_harengus	PHF21B	ENSCHAG00000002870	PHF	NA
+Clupea_harengus	HNRNPAB	ENSCHAG00000002939	HNRNP	NA
+Clupea_harengus	pir	ENSCHAG00000002954	Others	NA
+Clupea_harengus	tcea1	ENSCHAG00000002960	TEF	NA
+Clupea_harengus	ino80b	ENSCHAG00000003024	INO80 complex	105902958
+Clupea_harengus	ell	ENSCHAG00000003040	GTF	105910838
+Clupea_harengus	ing3	ENSCHAG00000003187	ING	NA
+Clupea_harengus	edrf1	ENSCHAG00000003211	Others	105910583
+Clupea_harengus	rptor	ENSCHAG00000003256	Others	NA
+Clupea_harengus	gtf2a1	ENSCHAG00000003305	GTF	NA
+Clupea_harengus	kdm5a	ENSCHAG00000003306	Lysine demethylase	NA
+Clupea_harengus	lmcd1	ENSCHAG00000003423	LIM	NA
+Clupea_harengus	zgc:55733	ENSCHAG00000003425	HNRNP	105896004
+Clupea_harengus	alyref	ENSCHAG00000003444	Others	105904970
+Clupea_harengus	gtf2h5	ENSCHAG00000003474	GTF	NA
+Clupea_harengus	anp32b	ENSCHAG00000003481	ANP	NA
+Clupea_harengus	DTX1	ENSCHAG00000003678	Others	NA
+Clupea_harengus	ran	ENSCHAG00000003682	Others	105906005
+Clupea_harengus	pspc1	ENSCHAG00000003763	Others	105911767
+Clupea_harengus	recql5	ENSCHAG00000003867	Others	NA
+Clupea_harengus	slc25a15b	ENSCHAG00000003887	SLC	NA
+Clupea_harengus	sin3b	ENSCHAG00000003941	Others	NA
+Clupea_harengus	nfkbiaa	ENSCHAG00000004012	NFKB associated	105892972
+Clupea_harengus	snapc2	ENSCHAG00000004075	Others	NA
+Clupea_harengus	sap30bp	ENSCHAG00000004144	SAP	NA
+Clupea_harengus	pin1	ENSCHAG00000004216	Others	105893691
+Clupea_harengus	jmjd6	ENSCHAG00000004221	Others	NA
+Clupea_harengus	ss18l2	ENSCHAG00000004241	SS18	NA
+Clupea_harengus	smarcad1a	ENSCHAG00000004280	SWI/SNF	105902893
+Clupea_harengus		ENSCHAG00000004309	Others	105908958
+Clupea_harengus	zgc:113340	ENSCHAG00000004372	Others	NA
+Clupea_harengus	lpin2	ENSCHAG00000004581	LPIN	NA
+Clupea_harengus	bptf	ENSCHAG00000004659	Bromodomain	NA
+Clupea_harengus	irf2bp1	ENSCHAG00000004756	Others	NA
+Clupea_harengus	nedd8l	ENSCHAG00000004765	Others	NA
+Clupea_harengus	pdlim1	ENSCHAG00000004797	Others	105890879
+Clupea_harengus	ddx20	ENSCHAG00000004831	RNA helicase	NA
+Clupea_harengus	med11	ENSCHAG00000004839	Mediator complex	105904857
+Clupea_harengus	DGKQ	ENSCHAG00000004892	Others	NA
+Clupea_harengus	med18	ENSCHAG00000004970	Mediator complex	105910045
+Clupea_harengus	cdk13	ENSCHAG00000005036	Cyclin	NA
+Clupea_harengus	ctr9	ENSCHAG00000005037	Others	NA
+Clupea_harengus	sap18	ENSCHAG00000005103	SAP	105913270
+Clupea_harengus	ripply1	ENSCHAG00000005123	Others	NA
+Clupea_harengus	suds3	ENSCHAG00000005153	Other_Co-activator/repressors	105893887
+Clupea_harengus	taf7	ENSCHAG00000005185	TATA-box	NA
+Clupea_harengus	slc30a9	ENSCHAG00000005202	SLC	NA
+Clupea_harengus	arrb1	ENSCHAG00000005260	Others	NA
+Clupea_harengus	arrb2a	ENSCHAG00000005285	Others	105902401
+Clupea_harengus	pcbd1	ENSCHAG00000005326	Others	105890891
+Clupea_harengus	mrtfba	ENSCHAG00000005332	Others	NA
+Clupea_harengus		ENSCHAG00000005360	Nuclear receptor coactivator	NA
+Clupea_harengus	NDUFA13	ENSCHAG00000005365	Others	105909241
+Clupea_harengus	rprd1a	ENSCHAG00000005456	Others	NA
+Clupea_harengus	cnot6b	ENSCHAG00000005476	CCR4-NOT	NA
+Clupea_harengus	sf1	ENSCHAG00000005483	Others	NA
+Clupea_harengus		ENSCHAG00000005491	Others	NA
+Clupea_harengus		ENSCHAG00000005677	Others	NA
+Clupea_harengus	taf5	ENSCHAG00000005692	TATA-box	105891040
+Clupea_harengus	taf2	ENSCHAG00000005735	TATA-box	NA
+Clupea_harengus	btg1	ENSCHAG00000005758	Others	105897546
+Clupea_harengus	nup62l	ENSCHAG00000005819	Others	105903949
+Clupea_harengus	lyn	ENSCHAG00000005851	Others	105900525
+Clupea_harengus	tesca	ENSCHAG00000005856	Others	NA
+Clupea_harengus	sirt7	ENSCHAG00000005946	Sirtuin	NA
+Clupea_harengus	puf60b	ENSCHAG00000005982	Others	105889354
+Clupea_harengus	abt1	ENSCHAG00000006011	Others	105899055
+Clupea_harengus	dnajb1b	ENSCHAG00000006020	Others	NA
+Clupea_harengus	dhx33	ENSCHAG00000006024	RNA helicase	105896090
+Clupea_harengus	pidd1	ENSCHAG00000006080	Others	NA
+Clupea_harengus	nup98	ENSCHAG00000006088	Others	105892264
+Clupea_harengus	atad2b	ENSCHAG00000006107	Others	NA
+Clupea_harengus	cbx3a	ENSCHAG00000006118	Chromobox	105907686
+Clupea_harengus		ENSCHAG00000006121	Others	NA
+Clupea_harengus	cnot7	ENSCHAG00000006124	CCR4-NOT	105912767
+Clupea_harengus	pdcd4b	ENSCHAG00000006130	Others	NA
+Clupea_harengus	phf1	ENSCHAG00000006133	PHF	105891741
+Clupea_harengus	zmym2	ENSCHAG00000006155	Zinc finger	NA
+Clupea_harengus	mphosph8	ENSCHAG00000006172	Others	NA
+Clupea_harengus	mdm2	ENSCHAG00000006190	Others	NA
+Clupea_harengus	trim32	ENSCHAG00000006233	Tripartite motif	105890522
+Clupea_harengus	prmt5	ENSCHAG00000006322	Arginine methyltransferase	105907056
+Clupea_harengus	sirt6	ENSCHAG00000006454	Sirtuin	NA
+Clupea_harengus	c1qbp	ENSCHAG00000006549	Others	105896094
+Clupea_harengus	arhgap35a	ENSCHAG00000006647	Others	NA
+Clupea_harengus	vegfc	ENSCHAG00000006654	Other_CRF	105908459
+Clupea_harengus	egln1b	ENSCHAG00000006825	Others	105893867
+Clupea_harengus	plk1	ENSCHAG00000006826	Others	NA
+Clupea_harengus	brms1la	ENSCHAG00000006850	Other_CRF	NA
+Clupea_harengus	kmt2bb	ENSCHAG00000006896	Lysine methyltransferase	NA
+Clupea_harengus	taf5l	ENSCHAG00000006916	TATA-box	105893839
+Clupea_harengus	WDR77	ENSCHAG00000006920	WD	105900477
+Clupea_harengus	supt4h1	ENSCHAG00000006986	SUPT	105896067
+Clupea_harengus	KDM1B	ENSCHAG00000007035	Lysine demethylase	NA
+Clupea_harengus	TGFB1I1	ENSCHAG00000007055	Others	NA
+Clupea_harengus	actb1	ENSCHAG00000007065	Actin	105899933
+Clupea_harengus	ddx54	ENSCHAG00000007106	RNA helicase	105890186
+Clupea_harengus	med1	ENSCHAG00000007223	Mediator complex	NA
+Clupea_harengus	cdk9	ENSCHAG00000007237	Cyclin	NA
+Clupea_harengus	taf11	ENSCHAG00000007240	TATA-box	105894266
+Clupea_harengus	runx1t1	ENSCHAG00000007293	Others	105907693
+Clupea_harengus	znf451	ENSCHAG00000007308	Zinc finger	105890961
+Clupea_harengus	tdp2b	ENSCHAG00000007342	Others	NA
+Clupea_harengus	gmnn	ENSCHAG00000007410	Others	NA
+Clupea_harengus		ENSCHAG00000007489	Tripartite motif	NA
+Clupea_harengus	ccdc85b	ENSCHAG00000007557	Coiled-coil	NA
+Clupea_harengus	ctbp2a	ENSCHAG00000007630	Others	NA
+Clupea_harengus	cnot11	ENSCHAG00000007676	CCR4-NOT	NA
+Clupea_harengus	smurf2	ENSCHAG00000007684	Others	NA
+Clupea_harengus	trib1	ENSCHAG00000007726	Others	105907672
+Clupea_harengus	cbx6a	ENSCHAG00000007811	Chromobox	NA
+Clupea_harengus	actn1	ENSCHAG00000007871	Actin	105890994
+Clupea_harengus	actn2b	ENSCHAG00000008103	Actin	NA
+Clupea_harengus	supt3h	ENSCHAG00000008121	SUPT	105909467
+Clupea_harengus	grip1	ENSCHAG00000008136	Others	NA
+Clupea_harengus		ENSCHAG00000008196	Others	NA
+Clupea_harengus	ankra2	ENSCHAG00000008294	Ankyrin repeat	105891070
+Clupea_harengus		ENSCHAG00000008316	Transducin	105913194
+Clupea_harengus	SRA1	ENSCHAG00000008355	Others	105904617
+Clupea_harengus	JMY	ENSCHAG00000008365	Others	NA
+Clupea_harengus	btf3	ENSCHAG00000008388	Others	105890349
+Clupea_harengus	znf703	ENSCHAG00000008443	Zinc finger	NA
+Clupea_harengus	polr3c	ENSCHAG00000008491	POLR	105906731
+Clupea_harengus	crk	ENSCHAG00000008508	Others	105907844
+Clupea_harengus	arglu1a	ENSCHAG00000008530	Others	105912353
+Clupea_harengus		ENSCHAG00000008559	Others	NA
+Clupea_harengus	gtf2f1	ENSCHAG00000008618	GTF	105892195
+Clupea_harengus	jak2a	ENSCHAG00000008676	Others	NA
+Clupea_harengus	nelfcd	ENSCHAG00000008753	GTF	105904168
+Clupea_harengus	ctnnd2a	ENSCHAG00000008800	Casein	NA
+Clupea_harengus	ncoa4	ENSCHAG00000008809	Nuclear receptor coactivator	NA
+Clupea_harengus	aurkb	ENSCHAG00000008856	Others	NA
+Clupea_harengus	grhpra	ENSCHAG00000008900	Others	NA
+Clupea_harengus	tirap	ENSCHAG00000009030	Others	NA
+Clupea_harengus	bcas3	ENSCHAG00000009069	Others	NA
+Clupea_harengus	phf5a	ENSCHAG00000009088	PHF	105888846
+Clupea_harengus		ENSCHAG00000009138	Others	105898793
+Clupea_harengus	hsbp1b	ENSCHAG00000009231	Heat shock protein	NA
+Clupea_harengus	utp4	ENSCHAG00000009273	Others	NA
+Clupea_harengus	asf1ba	ENSCHAG00000009357	Others	105891271
+Clupea_harengus	erbb4a	ENSCHAG00000009363	Erbb2	NA
+Clupea_harengus	erbb2	ENSCHAG00000009403	Erbb2	NA
+Clupea_harengus	wnt4	ENSCHAG00000009418	Others	105895932
+Clupea_harengus	FHIT	ENSCHAG00000009456	Others	NA
+Clupea_harengus	pex2	ENSCHAG00000009460	Others	105890165
+Clupea_harengus	brip1	ENSCHAG00000009519	Others	NA
+Clupea_harengus	lancl2	ENSCHAG00000009575	Others	105890171
+Clupea_harengus	TENM1	ENSCHAG00000009693	Others	NA
+Clupea_harengus	wbp2nl	ENSCHAG00000009726	WW	105898834
+Clupea_harengus	mtdha	ENSCHAG00000009785	Others	NA
+Clupea_harengus	taf1a	ENSCHAG00000009794	TATA-box	105899429
+Clupea_harengus	eaf1	ENSCHAG00000009875	Others	105908928
+Clupea_harengus	kdm4b	ENSCHAG00000009900	Lysine demethylase	NA
+Clupea_harengus	stk3	ENSCHAG00000009925	Others	105907728
+Clupea_harengus	rap2c	ENSCHAG00000009930	Others	105911927
+Clupea_harengus	mllt1b	ENSCHAG00000010040	GTF	NA
+Clupea_harengus	ctdspla	ENSCHAG00000010049	Others	NA
+Clupea_harengus	abl1	ENSCHAG00000010052	Others	105889585
+Clupea_harengus	sgf29	ENSCHAG00000010057	Others	NA
+Clupea_harengus	park7	ENSCHAG00000010079	Others	105908352
+Clupea_harengus	SETD2	ENSCHAG00000010089	SET	NA
+Clupea_harengus	scai	ENSCHAG00000010110	Others	NA
+Clupea_harengus	ep300a	ENSCHAG00000010123	CREB	NA
+Clupea_harengus	RING1	ENSCHAG00000010131	Ring finger protein	NA
+Clupea_harengus	cdk5	ENSCHAG00000010193	Cyclin	105889514
+Clupea_harengus	src	ENSCHAG00000010199	Others	NA
+Clupea_harengus	vgll3	ENSCHAG00000010237	Vestigial like	NA
+Clupea_harengus	suz12b	ENSCHAG00000010279	Others	NA
+Clupea_harengus	RBM15	ENSCHAG00000010286	RNA binding protein	NA
+Clupea_harengus	nab1b	ENSCHAG00000010377	Others	NA
+Clupea_harengus	rnf8	ENSCHAG00000010396	Ring finger protein	105899449
+Clupea_harengus	ANP32E	ENSCHAG00000010456	ANP	105904919
+Clupea_harengus	zmynd8	ENSCHAG00000010593	Zinc finger	105912276
+Clupea_harengus	taf1b	ENSCHAG00000010599	TATA-box	105897029
+Clupea_harengus	emsy	ENSCHAG00000010628	Others	NA
+Clupea_harengus	btr30	ENSCHAG00000010646	Tripartite motif	NA
+Clupea_harengus	DDX17	ENSCHAG00000010703	RNA helicase	105898819
+Clupea_harengus	aurkaip1	ENSCHAG00000010712	Others	105894260
+Clupea_harengus	adrb2b	ENSCHAG00000010726	Others	105907392
+Clupea_harengus	PABPC3	ENSCHAG00000010795	Other_CRF	NA
+Clupea_harengus	cdkn1bb	ENSCHAG00000010926	Cyclin	105913428
+Clupea_harengus	med24	ENSCHAG00000010997	Mediator complex	NA
+Clupea_harengus	cttn	ENSCHAG00000011070	Others	NA
+Clupea_harengus	mad2l2	ENSCHAG00000011079	Others	105892819
+Clupea_harengus	baz1b	ENSCHAG00000011090	Bromodomain	NA
+Clupea_harengus	csrp3	ENSCHAG00000011105	Others	105899781
+Clupea_harengus	si:dkey-85a20.4	ENSCHAG00000011158	Others	105890850
+Clupea_harengus	pcgf1	ENSCHAG00000011180	PCGF	105893676
+Clupea_harengus	nudt5	ENSCHAG00000011212	Other_CRF	NA
+Clupea_harengus	csnk2a4	ENSCHAG00000011229	Casein	105895941
+Clupea_harengus	npm1b	ENSCHAG00000011252	Nucleoplasmin	NA
+Clupea_harengus	npat	ENSCHAG00000011255	Nuclear coactivator	NA
+Clupea_harengus	elp4	ENSCHAG00000011336	ELP	105899797
+Clupea_harengus	wwp2	ENSCHAG00000011365	WW	NA
+Clupea_harengus	bmi1a	ENSCHAG00000011440	Others	NA
+Clupea_harengus	med23	ENSCHAG00000011470	Mediator complex	105902221
+Clupea_harengus	depdc1a	ENSCHAG00000011503	Others	105895187
+Clupea_harengus	lrrc7	ENSCHAG00000011575	Erbb2	NA
+Clupea_harengus	frzb	ENSCHAG00000011599	Others	105905918
+Clupea_harengus	cnot9	ENSCHAG00000011642	CCR4-NOT	NA
+Clupea_harengus	cbl	ENSCHAG00000011672	Others	NA
+Clupea_harengus	rnf4	ENSCHAG00000011674	Ring finger protein	NA
+Clupea_harengus	CTBP1	ENSCHAG00000011734	Others	NA
+Clupea_harengus	lrrk2	ENSCHAG00000011745	Other_CRF	NA
+Clupea_harengus	arhgap5	ENSCHAG00000011757	Others	NA
+Clupea_harengus	brd2a	ENSCHAG00000011771	Bromodomain	105909047
+Clupea_harengus	ddx39aa	ENSCHAG00000011776	RNA helicase	NA
+Clupea_harengus	ezh2	ENSCHAG00000011817	Others	NA
+Clupea_harengus		ENSCHAG00000011848	Others	NA
+Clupea_harengus	siah1	ENSCHAG00000011918	Others	NA
+Clupea_harengus	tnip1	ENSCHAG00000011940	Others	NA
+Clupea_harengus	rnf14	ENSCHAG00000011948	Ring finger protein	105909195
+Clupea_harengus	btaf1	ENSCHAG00000011990	Others	NA
+Clupea_harengus	ldb1a	ENSCHAG00000012037	LIM	105900301
+Clupea_harengus	KDM7A	ENSCHAG00000012059	Lysine demethylase	NA
+Clupea_harengus	nrg1	ENSCHAG00000012120	Others	NA
+Clupea_harengus	xrn2	ENSCHAG00000012251	Others	NA
+Clupea_harengus	med21	ENSCHAG00000012305	Mediator complex	105897522
+Clupea_harengus	cnot6l	ENSCHAG00000012356	CCR4-NOT	105901208
+Clupea_harengus	rnf111	ENSCHAG00000012427	Ring finger protein	NA
+Clupea_harengus	ccnk	ENSCHAG00000012441	Cyclin	NA
+Clupea_harengus	niban2b	ENSCHAG00000012455	FAM	NA
+Clupea_harengus		ENSCHAG00000012460	Chromobox	NA
+Clupea_harengus	actr6	ENSCHAG00000012469	ACTR	105913389
+Clupea_harengus	xrcc6	ENSCHAG00000012490	Others	105888877
+Clupea_harengus	taf6l	ENSCHAG00000012510	TATA-box	105904866
+Clupea_harengus	esf1	ENSCHAG00000012540	Others	NA
+Clupea_harengus	hdac4	ENSCHAG00000012588	Histone deacetylase	105907960
+Clupea_harengus	nsmce4a	ENSCHAG00000012591	EID	NA
+Clupea_harengus	cabz01076234.2	ENSCHAG00000012684	Others	105904625
+Clupea_harengus	ikbkg	ENSCHAG00000012691	Others	105894130
+Clupea_harengus	atxn7l3	ENSCHAG00000012748	Others	NA
+Clupea_harengus	loxl3b	ENSCHAG00000012809	Others	NA
+Clupea_harengus	sdr16c5b	ENSCHAG00000012868	Others	NA
+Clupea_harengus	cops2	ENSCHAG00000012891	Others	105892523
+Clupea_harengus	tob1a	ENSCHAG00000012937	Others	NA
+Clupea_harengus	gtf2h3	ENSCHAG00000012938	GTF	NA
+Clupea_harengus	DUSP26	ENSCHAG00000013022	Others	105889903
+Clupea_harengus	chuk	ENSCHAG00000013036	Others	NA
+Clupea_harengus		ENSCHAG00000013048	Mediator complex	NA
+Clupea_harengus	aip	ENSCHAG00000013063	Others	NA
+Clupea_harengus	taf1	ENSCHAG00000013156	TATA-box	105893216
+Clupea_harengus	ehmt2	ENSCHAG00000013161	Histone lysine methyltransferase	NA
+Clupea_harengus	jupb	ENSCHAG00000013165	Others	NA
+Clupea_harengus	brf1b	ENSCHAG00000013246	GTF	NA
+Clupea_harengus	nrip2	ENSCHAG00000013336	Nuclear coactivator	NA
+Clupea_harengus	med28	ENSCHAG00000013382	Mediator complex	105908436
+Clupea_harengus	fhod1	ENSCHAG00000013415	Others	NA
+Clupea_harengus	ino80e	ENSCHAG00000013535	INO80 complex	105894672
+Clupea_harengus	elp2	ENSCHAG00000013564	ELP	NA
+Clupea_harengus	ppid	ENSCHAG00000013565	Others	105906178
+Clupea_harengus	wdtc1	ENSCHAG00000013568	WD	105910087
+Clupea_harengus	rpap2	ENSCHAG00000013576	Others	105893814
+Clupea_harengus	ern1	ENSCHAG00000013586	Others	NA
+Clupea_harengus	trip13	ENSCHAG00000013596	Thyroid hormone receptor	NA
+Clupea_harengus	mtf2	ENSCHAG00000013616	Others	NA
+Clupea_harengus	commd1	ENSCHAG00000013763	Others	NA
+Clupea_harengus	drap1	ENSCHAG00000013792	Others	NA
+Clupea_harengus	NCK1	ENSCHAG00000013825	Others	105900527
+Clupea_harengus	hltf	ENSCHAG00000013843	Others	105900580
+Clupea_harengus	ccnc	ENSCHAG00000013848	Cyclin	105889834
+Clupea_harengus	CAVIN1	ENSCHAG00000013873	Others	105905374
+Clupea_harengus	supt5h	ENSCHAG00000013878	SUPT	105900715
+Clupea_harengus	brdt	ENSCHAG00000013886	Bromodomain	NA
+Clupea_harengus	TCERG1	ENSCHAG00000013892	TEF	NA
+Clupea_harengus	si:ch1073-296d18.1	ENSCHAG00000013952	PARP	NA
+Clupea_harengus	brd7	ENSCHAG00000013986	Bromodomain	105899788
+Clupea_harengus		ENSCHAG00000014016	Others	105893881
+Clupea_harengus	wu:fj64h06	ENSCHAG00000014023	TATA-box	105902431
+Clupea_harengus	nod2	ENSCHAG00000014031	Others	NA
+Clupea_harengus	naa15b	ENSCHAG00000014034	Others	105908469
+Clupea_harengus	dhrsx	ENSCHAG00000014044	WW	NA
+Clupea_harengus	trim25	ENSCHAG00000014045	Tripartite motif	NA
+Clupea_harengus	lbh	ENSCHAG00000014117	Others	105905060
+Clupea_harengus	TCERG1L	ENSCHAG00000014167	TEF	NA
+Clupea_harengus	STRN	ENSCHAG00000014228	Others	NA
+Clupea_harengus	bcl9	ENSCHAG00000014233	BCL	105908672
+Clupea_harengus	hipk3b	ENSCHAG00000014240	HIPK	NA
+Clupea_harengus	chaf1b	ENSCHAG00000014260	Others	NA
+Clupea_harengus	rrn3	ENSCHAG00000014388	Others	NA
+Clupea_harengus	hcfc2	ENSCHAG00000014475	Others	105896752
+Clupea_harengus	setd7	ENSCHAG00000014492	SET	NA
+Clupea_harengus	gtf2b	ENSCHAG00000014515	GTF	105893802
+Clupea_harengus	ppargc1b	ENSCHAG00000014619	Others	NA
+Clupea_harengus	suv39h1b	ENSCHAG00000014633	Others	105893664
+Clupea_harengus		ENSCHAG00000014648	Others	NA
+Clupea_harengus	chd9	ENSCHAG00000014665	CHD	NA
+Clupea_harengus	CBX4	ENSCHAG00000014731	Chromobox	NA
+Clupea_harengus	fgf2	ENSCHAG00000014751	FGF	105901770
+Clupea_harengus	s100a10b	ENSCHAG00000014774	Others	NA
+Clupea_harengus	kdm3b	ENSCHAG00000014832	Lysine demethylase	NA
+Clupea_harengus	chd7	ENSCHAG00000014841	CHD	NA
+Clupea_harengus	supt16h	ENSCHAG00000014855	SUPT	105908837
+Clupea_harengus	nelfb	ENSCHAG00000014916	GTF	105890048
+Clupea_harengus	skap1	ENSCHAG00000014938	Others	NA
+Clupea_harengus	epc1a	ENSCHAG00000014987	Others	NA
+Clupea_harengus	mycbp2	ENSCHAG00000015025	MYC	NA
+Clupea_harengus	elp3	ENSCHAG00000015071	ELP	105907329
+Clupea_harengus	pik3r2	ENSCHAG00000015117	Others	105900602
+Clupea_harengus	raf1b	ENSCHAG00000015158	Others	105904961
+Clupea_harengus	ccnh	ENSCHAG00000015179	Cyclin	105901136
+Clupea_harengus	ascc3	ENSCHAG00000015189	ASCC	NA
+Clupea_harengus	dact1	ENSCHAG00000015231	Others	NA
+Clupea_harengus	kmt2e	ENSCHAG00000015395	Lysine methyltransferase	NA
+Clupea_harengus	rbmx	ENSCHAG00000015491	RNA binding protein	NA
+Clupea_harengus	TADA1	ENSCHAG00000015522	Transcriptional adaptor	105891329
+Clupea_harengus	hspa8b	ENSCHAG00000015525	Heat shock protein	105903789
+Clupea_harengus	si:ch211-219a4.3	ENSCHAG00000015530	PARP	105908675
+Clupea_harengus		ENSCHAG00000015546	PARP	105908656
+Clupea_harengus	rnf6	ENSCHAG00000015549	Ring finger protein	NA
+Clupea_harengus	cdk8	ENSCHAG00000015572	Cyclin	NA
+Clupea_harengus	HNRNPU	ENSCHAG00000015653	HNRNP	NA
+Clupea_harengus	wnt3a	ENSCHAG00000015657	Others	105900539
+Clupea_harengus	mier3a	ENSCHAG00000015660	MIER	NA
+Clupea_harengus	rbx1	ENSCHAG00000015674	Others	105897984
+Clupea_harengus	OGT	ENSCHAG00000015769	Others	NA
+Clupea_harengus	rbb4l	ENSCHAG00000015783	RBBP	105893332
+Clupea_harengus	pcgf5b	ENSCHAG00000015788	PCGF	105905416
+Clupea_harengus	rtf1	ENSCHAG00000015808	Others	105896637
+Clupea_harengus	banp	ENSCHAG00000015817	Others	NA
+Clupea_harengus	seta	ENSCHAG00000015839	SET	105891608
+Clupea_harengus	paf1	ENSCHAG00000015847	Others	NA
+Clupea_harengus	kat2b	ENSCHAG00000015861	Lysine acetyltransferase	NA
+Clupea_harengus	ctnnb2	ENSCHAG00000015874	Casein	NA
+Clupea_harengus	hcfc1b	ENSCHAG00000015879	Others	NA
+Clupea_harengus	dyrk1b	ENSCHAG00000015932	Others	NA
+Clupea_harengus	tnni2a.1	ENSCHAG00000015975	Others	NA
+Clupea_harengus	dnmt1	ENSCHAG00000015979	DNA_methylase	105905749
+Clupea_harengus	ash2l	ENSCHAG00000016087	Others	NA
+Clupea_harengus	vgll2a	ENSCHAG00000016093	Vestigial like	NA
+Clupea_harengus	myo6a	ENSCHAG00000016112	Others	NA
+Clupea_harengus		ENSCHAG00000016179	Others	105900832
+Clupea_harengus	pycard	ENSCHAG00000016298	Others	NA
+Clupea_harengus	trak1a	ENSCHAG00000016326	Others	NA
+Clupea_harengus	txnipa	ENSCHAG00000016348	Others	105901470
+Clupea_harengus	rb1	ENSCHAG00000016419	Other_Co-activator/repressors	105904470
+Clupea_harengus	txlng	ENSCHAG00000016421	Others	NA
+Clupea_harengus	tonsl	ENSCHAG00000016424	Others	NA
+Clupea_harengus		ENSCHAG00000016432	Others	NA
+Clupea_harengus		ENSCHAG00000016447	Others	NA
+Clupea_harengus	SSBP4	ENSCHAG00000016455	Others	105906991
+Clupea_harengus	cdk20	ENSCHAG00000016474	Cyclin	105898999
+Clupea_harengus	trim16	ENSCHAG00000016491	Tripartite motif	NA
+Clupea_harengus	stk36	ENSCHAG00000016545	Others	NA
+Clupea_harengus	gtf2h1	ENSCHAG00000016605	GTF	105892519
+Clupea_harengus	calr	ENSCHAG00000016619	Others	NA
+Clupea_harengus	fhl3a	ENSCHAG00000016623	FHL	NA
+Clupea_harengus	hmox1a	ENSCHAG00000016675	Others	NA
+Clupea_harengus	SAMD4B	ENSCHAG00000016717	Others	105911041
+Clupea_harengus	hdac6	ENSCHAG00000016727	Histone deacetylase	105899069
+Clupea_harengus	tgfb1b	ENSCHAG00000016831	Others	NA
+Clupea_harengus	snip1	ENSCHAG00000016834	Others	105898175
+Clupea_harengus	prmt7	ENSCHAG00000016897	Arginine methyltransferase	105895637
+Clupea_harengus	dscamb	ENSCHAG00000016941	Others	NA
+Clupea_harengus	chchd10	ENSCHAG00000016962	Coiled-coil	NA
+Clupea_harengus	pim1	ENSCHAG00000016969	Others	NA
+Clupea_harengus	ankrd1a	ENSCHAG00000016988	Ankyrin repeat	NA
+Clupea_harengus		ENSCHAG00000017036	CITED	NA
+Clupea_harengus	smarcb1b	ENSCHAG00000017037	SWI/SNF	105893343
+Clupea_harengus	APBB1	ENSCHAG00000017101	Others	105901423
+Clupea_harengus	trip11	ENSCHAG00000017105	Thyroid hormone receptor	NA
+Clupea_harengus	crtc1a	ENSCHAG00000017119	CREB	NA
+Clupea_harengus		ENSCHAG00000017137	Mediator complex	105900581
+Clupea_harengus	hdac3	ENSCHAG00000017256	Histone deacetylase	105898498
+Clupea_harengus	EZH1	ENSCHAG00000017285	Others	105898624
+Clupea_harengus	nipblb	ENSCHAG00000017290	Others	NA
+Clupea_harengus	tsg101a	ENSCHAG00000017309	Others	NA
+Clupea_harengus	nrip1b	ENSCHAG00000017318	Nuclear receptor coactivator	105904441
+Clupea_harengus	ccar2	ENSCHAG00000017319	Others	NA
+Clupea_harengus	vgll4b	ENSCHAG00000017431	Vestigial like	NA
+Clupea_harengus	znf593	ENSCHAG00000017473	Zinc finger	105896141
+Clupea_harengus	gtf2h4	ENSCHAG00000017497	GTF	NA
+Clupea_harengus	MSL3	ENSCHAG00000017515	Others	105902841
+Clupea_harengus	tp53bp1	ENSCHAG00000017528	Others	NA
+Clupea_harengus	mms19	ENSCHAG00000017534	Others	NA
+Clupea_harengus	fbxw7	ENSCHAG00000017560	Others	NA
+Clupea_harengus	rbm39a	ENSCHAG00000017579	RNA binding protein	105912244
+Clupea_harengus	dpf1	ENSCHAG00000017608	DPF	NA
+Clupea_harengus	sfmbt2	ENSCHAG00000017611	Others	105898355
+Clupea_harengus	cnot10	ENSCHAG00000017640	CCR4-NOT	NA
+Clupea_harengus	smyd3	ENSCHAG00000017656	SMYD	NA
+Clupea_harengus	CDYL2	ENSCHAG00000017662	Chromodomain Y	NA
+Clupea_harengus	pfdn5	ENSCHAG00000017753	Others	105897861
+Clupea_harengus	loxl2b	ENSCHAG00000017766	Others	NA
+Clupea_harengus	kdm5c	ENSCHAG00000017824	Lysine demethylase	105893665
+Clupea_harengus	tfb2m	ENSCHAG00000017853	Others	105890817
+Clupea_harengus	tdrd3	ENSCHAG00000017885	Others	105911912
+Clupea_harengus		ENSCHAG00000017897	Sirtuin	NA
+Clupea_harengus	ccna1	ENSCHAG00000017967	Cyclin	105896259
+Clupea_harengus	DVL2	ENSCHAG00000017981	Others	NA
+Clupea_harengus	chd1	ENSCHAG00000018116	CHD	NA
+Clupea_harengus	ruvbl1	ENSCHAG00000018143	Other_CRF	105908254
+Clupea_harengus	trib3	ENSCHAG00000018185	Others	105912188
+Clupea_harengus	ndnl2	ENSCHAG00000018210	MAGE	105900181
+Clupea_harengus	trip4	ENSCHAG00000018218	Thyroid hormone receptor	105892940
+Clupea_harengus	kat8	ENSCHAG00000018309	Lysine acetyltransferase	NA
+Clupea_harengus	cops5	ENSCHAG00000018362	Others	105890250
+Clupea_harengus	brpf3b	ENSCHAG00000018370	Bromodomain	NA
+Clupea_harengus	mcrs1	ENSCHAG00000018468	Others	105912191
+Clupea_harengus		ENSCHAG00000018470	Lysine acetyltransferase	105906597
+Clupea_harengus	psen1	ENSCHAG00000018476	Others	105899117
+Clupea_harengus	c1d	ENSCHAG00000018513	Other_Co-activator/repressors	NA
+Clupea_harengus	gps2	ENSCHAG00000018515	Others	NA
+Clupea_harengus	trim33	ENSCHAG00000018593	Tripartite motif	NA
+Clupea_harengus	timeless	ENSCHAG00000018595	Others	105912197
+Clupea_harengus		ENSCHAG00000018603	Others	NA
+Clupea_harengus	ice2	ENSCHAG00000018645	GTF	NA
+Clupea_harengus	sertad2b	ENSCHAG00000018647	Others	NA
+Clupea_harengus	pih1d1	ENSCHAG00000018711	Other_CRF	NA
+Clupea_harengus	ccdc59	ENSCHAG00000018719	Coiled-coil	105889645
+Clupea_harengus	vhl	ENSCHAG00000018721	Others	105897902
+Clupea_harengus	smyd1b	ENSCHAG00000018761	SMYD	NA
+Clupea_harengus	lzts1	ENSCHAG00000018830	Others	NA
+Clupea_harengus	peli1b	ENSCHAG00000018837	Others	NA
+Clupea_harengus	pak6b	ENSCHAG00000018854	Others	105909558
+Clupea_harengus	plrg1	ENSCHAG00000018895	Others	105904036
+Clupea_harengus	cdk2	ENSCHAG00000018905	Cyclin	NA
+Clupea_harengus	taf6	ENSCHAG00000018957	TATA-box	105901883
+Clupea_harengus	sap130a	ENSCHAG00000019008	SAP	105898313
+Clupea_harengus	DDX5	ENSCHAG00000019087	RNA helicase	105900217
+Clupea_harengus	dvl3b	ENSCHAG00000019103	Others	NA
+Clupea_harengus	dnmt3bb.1	ENSCHAG00000019109	DNA_methylase	NA
+Clupea_harengus	cry1a	ENSCHAG00000019111	Others	105900698
+Clupea_harengus	LRPPRC	ENSCHAG00000019114	Others	NA
+Clupea_harengus	sirt3	ENSCHAG00000019155	Sirtuin	105892937
+Clupea_harengus	snx5	ENSCHAG00000019163	Others	105902335
+Clupea_harengus	setd3	ENSCHAG00000019177	SET	NA
+Clupea_harengus	btk	ENSCHAG00000019204	Others	105911755
+Clupea_harengus	lin54	ENSCHAG00000019229	Others	105893336
+Clupea_harengus	wwp1	ENSCHAG00000019304	WW	NA
+Clupea_harengus	aatf	ENSCHAG00000019367	Others	NA
+Clupea_harengus	skila	ENSCHAG00000019389	SKI	105889464
+Clupea_harengus	polr2a	ENSCHAG00000019416	POLR	NA
+Clupea_harengus	actl6b	ENSCHAG00000019451	Actin	NA
+Clupea_harengus	pqbp1	ENSCHAG00000019490	Others	NA
+Clupea_harengus	hexim1	ENSCHAG00000019498	Others	NA
+Clupea_harengus	cdk5r1b	ENSCHAG00000019504	Cyclin	105888835
+Clupea_harengus	slc26a3.2	ENSCHAG00000019565	SLC	NA
+Clupea_harengus	ruvbl2	ENSCHAG00000019655	Other_CRF	105896088
+Clupea_harengus	bend3	ENSCHAG00000019663	Others	105897066
+Clupea_harengus	pex14	ENSCHAG00000019709	Others	NA
+Clupea_harengus	kmt5ab	ENSCHAG00000019730	Lysine methyltransferase	105905089
+Clupea_harengus	tradd	ENSCHAG00000019753	Others	105891104
+Clupea_harengus	sfr1	ENSCHAG00000019792	Others	NA
+Clupea_harengus	eny2	ENSCHAG00000019801	Others	105908906
+Clupea_harengus	kmt5b	ENSCHAG00000019873	Lysine methyltransferase	NA
+Clupea_harengus	per2	ENSCHAG00000019894	Others	NA
+Clupea_harengus	snd1	ENSCHAG00000019912	Others	NA
+Clupea_harengus	cidec	ENSCHAG00000019931	Others	NA
+Clupea_harengus	syk	ENSCHAG00000019937	Others	NA
+Clupea_harengus	ywhaba	ENSCHAG00000020012	Others	105901861
+Clupea_harengus	crtc3	ENSCHAG00000020062	CREB	NA
+Clupea_harengus	ccna2	ENSCHAG00000020323	Cyclin	105904183
+Clupea_harengus	LIN9	ENSCHAG00000020338	Others	NA
+Clupea_harengus	snw1	ENSCHAG00000020347	Others	105889660
+Clupea_harengus	epc2	ENSCHAG00000020427	Others	NA
+Clupea_harengus	ccne1	ENSCHAG00000020517	Cyclin	105889144
+Clupea_harengus	camk2d1	ENSCHAG00000020557	CAMK	NA
+Clupea_harengus	sap30l	ENSCHAG00000020577	SAP	NA
+Clupea_harengus	chd6	ENSCHAG00000020596	CHD	NA
+Clupea_harengus	frk	ENSCHAG00000020829	Others	105894825
+Clupea_harengus	FHL2	ENSCHAG00000020834	FHL	105893277
+Clupea_harengus	sqstm1	ENSCHAG00000020888	Others	NA
+Clupea_harengus	dapk3	ENSCHAG00000021006	Others	105889531
+Clupea_harengus	ago2	ENSCHAG00000021026	Others	NA
+Clupea_harengus	ufl1	ENSCHAG00000021051	Others	105894867
+Clupea_harengus	ezrb	ENSCHAG00000021133	Others	NA
+Clupea_harengus	cnot3b	ENSCHAG00000021156	CCR4-NOT	NA
+Clupea_harengus	ccnt2a	ENSCHAG00000021198	Cyclin	NA
+Clupea_harengus	bahcc1b	ENSCHAG00000021207	Others	NA
+Clupea_harengus	rhoab	ENSCHAG00000021217	Others	105904931
+Clupea_harengus	chd3	ENSCHAG00000021251	CHD	NA
+Clupea_harengus	ncoa2	ENSCHAG00000021282	Nuclear receptor coactivator	NA
+Clupea_harengus	med14	ENSCHAG00000021314	Mediator complex	NA
+Clupea_harengus	cdk5rap3	ENSCHAG00000021352	Cyclin	NA
+Clupea_harengus	CELA3A	ENSCHAG00000021369	Others	NA
+Clupea_harengus	insra	ENSCHAG00000021370	Others	NA
+Clupea_harengus	dcc	ENSCHAG00000021384	Others	NA
+Clupea_harengus	flnca	ENSCHAG00000021401	Others	105910408
+Clupea_harengus	ajuba	ENSCHAG00000021423	Others	NA
+Clupea_harengus	eya1	ENSCHAG00000021446	EYA	NA
+Clupea_harengus	TLE5	ENSCHAG00000021477	Others	NA
+Clupea_harengus	prpf6	ENSCHAG00000021497	Others	105912748
+Clupea_harengus	dhx36	ENSCHAG00000021541	RNA helicase	105904817
+Clupea_harengus	supt6h	ENSCHAG00000021554	SUPT	NA
+Clupea_harengus	gtf2a2	ENSCHAG00000021562	GTF	NA
+Clupea_harengus	supt7l	ENSCHAG00000021668	SUPT	105909484
+Clupea_harengus	ppie	ENSCHAG00000021720	Others	NA
+Clupea_harengus	hyal2a	ENSCHAG00000021760	Others	NA
+Clupea_harengus	hdac1	ENSCHAG00000021775	Histone deacetylase	105892066
+Clupea_harengus	hdac10	ENSCHAG00000021810	Histone deacetylase	105913455
+Clupea_harengus	nol11	ENSCHAG00000021822	Nuclear coactivator	105900232
+Clupea_harengus	thoc5	ENSCHAG00000021874	Others	NA
+Clupea_harengus	notch1b	ENSCHAG00000021929	Notch	105902865
+Clupea_harengus	trrap	ENSCHAG00000022036	Others	NA
+Clupea_harengus	dr1	ENSCHAG00000022113	Others	105895188
+Clupea_harengus	nelfa	ENSCHAG00000022143	GTF	105904552
+Clupea_harengus	brf2	ENSCHAG00000022152	GTF	NA
+Clupea_harengus	anxa4	ENSCHAG00000022206	Others	NA
+Clupea_harengus	itcha	ENSCHAG00000022207	Others	NA
+Clupea_harengus	ing4	ENSCHAG00000022286	ING	105902037
+Clupea_harengus	gtf2a1l	ENSCHAG00000022448	GTF	NA
+Clupea_harengus	SGK1	ENSCHAG00000022452	Others	105894676
+Clupea_harengus	med10	ENSCHAG00000022478	Mediator complex	105892076
+Clupea_harengus	KMT2A	ENSCHAG00000022504	Lysine methyltransferase	NA
+Clupea_harengus	med8	ENSCHAG00000022518	Mediator complex	105895075
+Clupea_harengus	elocb	ENSCHAG00000022534	Others	NA
+Clupea_harengus	tbpl1	ENSCHAG00000022560	TATA-box	105894673
+Clupea_harengus	eya4	ENSCHAG00000022588	EYA	105894669
+Clupea_harengus	phf19	ENSCHAG00000022635	PHF	NA
+Clupea_harengus	ehmt1b	ENSCHAG00000022747	Histone lysine methyltransferase	105902570
+Clupea_harengus	med22	ENSCHAG00000022804	Mediator complex	105911093
+Clupea_harengus	MYOCD	ENSCHAG00000022934	Others	NA
+Clupea_harengus	dcaf6	ENSCHAG00000022971	Others	NA
+Clupea_harengus	med6	ENSCHAG00000023014	Mediator complex	105908343
+Clupea_harengus	TAF4	ENSCHAG00000023023	TATA-box	NA
+Clupea_harengus		ENSCHAG00000023024	Others	NA
+Clupea_harengus	med12	ENSCHAG00000023052	Mediator complex	NA
+Clupea_harengus	phip	ENSCHAG00000023066	Others	NA
+Clupea_harengus	anp32a	ENSCHAG00000023079	ANP	NA
+Clupea_harengus	SS18L1	ENSCHAG00000023094	SS18	105903041
+Clupea_harengus	top1	ENSCHAG00000023109	Other_CRF	NA
+Clupea_harengus	cep290	ENSCHAG00000023128	Others	NA
+Clupea_harengus	heatr1	ENSCHAG00000023131	Others	NA
+Clupea_harengus	egfra	ENSCHAG00000023240	Others	NA
+Clupea_harengus	TLE3	ENSCHAG00000023284	Transducin	105906541
+Clupea_harengus	med13a	ENSCHAG00000023322	Mediator complex	105909186
+Clupea_harengus	morf4l1	ENSCHAG00000023342	Other_CRF	NA
+Clupea_harengus	cenpf	ENSCHAG00000023466	CENP	105908159
+Clupea_harengus	smyd2a	ENSCHAG00000023508	SMYD	NA
+Clupea_harengus	bcor	ENSCHAG00000023536	Other_Co-activator/repressors	NA
+Clupea_harengus	eed	ENSCHAG00000023540	Others	105896569
+Clupea_harengus	mid1ip1b	ENSCHAG00000023555	Others	105893335
+Clupea_harengus	gnl3	ENSCHAG00000023603	Others	NA
+Clupea_harengus	nfkbiz	ENSCHAG00000023627	NFKB associated	NA
+Clupea_harengus	camk4	ENSCHAG00000023645	CAMK	105890927
+Clupea_harengus	skor1b	ENSCHAG00000023652	SKI	NA
+Clupea_harengus		ENSCHAG00000023664	PCGF	NA
+Clupea_harengus	RWDD3	ENSCHAG00000023669	Others	105910817
+Clupea_harengus		ENSCHAG00000023702	Mediator complex	NA
+Clupea_harengus	elp1	ENSCHAG00000023787	ELP	NA
+Clupea_harengus	SFMBT1	ENSCHAG00000023789	Others	105912269
+Clupea_harengus	wwc1	ENSCHAG00000023796	WW	105911322
+Clupea_harengus	jade2	ENSCHAG00000023829	Others	105893236
+Clupea_harengus	chd1l	ENSCHAG00000023830	CHD	NA
+Clupea_harengus	chrac1	ENSCHAG00000023881	Other_CRF	105904947
+Clupea_harengus	notch2	ENSCHAG00000023952	Notch	NA
+Clupea_harengus	hnrpkl	ENSCHAG00000023962	HNRNP	105890375
+Clupea_harengus	fbp1b	ENSCHAG00000024056	Others	105902633
+Clupea_harengus	tnip2	ENSCHAG00000024057	Others	105908461
+Clupea_harengus	macroh2a2	ENSCHAG00000024058	Others	105890953
+Clupea_harengus	rbl1	ENSCHAG00000024062	Other_Co-activator/repressors	NA
+Clupea_harengus	hells	ENSCHAG00000024099	Others	105890957
+Clupea_harengus	ino80da	ENSCHAG00000024111	INO80 complex	NA
+Clupea_harengus	NCOA3	ENSCHAG00000024119	Nuclear receptor coactivator	105906377
+Clupea_harengus	gtf2h2	ENSCHAG00000024126	GTF	105889985
+Clupea_harengus	cbfa2t2	ENSCHAG00000024199	Others	NA
+Clupea_harengus	ino80	ENSCHAG00000024223	INO80 complex	105907647
+Clupea_harengus	jmjd1cb	ENSCHAG00000024226	Other_CRF	105891208
+Clupea_harengus	rprd1b	ENSCHAG00000024227	Others	105894348
+Clupea_harengus	plk3	ENSCHAG00000024304	Others	105899230
+Clupea_harengus	nrbf2b	ENSCHAG00000024345	Nuclear receptor coactivator	105891224
+Clupea_harengus	GSK3B	ENSCHAG00000024359	Others	NA
+Clupea_harengus		ENSCHAG00000024391	RNA binding protein	105903148
+Clupea_harengus	mrgbp	ENSCHAG00000024401	Others	105906435
+Clupea_harengus	sirt5	ENSCHAG00000024475	Sirtuin	105910741
+Clupea_harengus	zmynd11	ENSCHAG00000024539	Zinc finger	NA
+Clupea_harengus	bcl9l	ENSCHAG00000024677	BCL	NA
+Clupea_harengus	TTF2	ENSCHAG00000024680	Others	NA
+Clupea_harengus	yaf2	ENSCHAG00000024722	Others	NA
+Clupea_harengus	ascc1	ENSCHAG00000024723	ASCC	105903384
+Clupea_harengus	auts2a	ENSCHAG00000024732	Others	NA
+Clupea_harengus	nlk2	ENSCHAG00000024771	Others	105902814
+Clupea_harengus	phf8	ENSCHAG00000024803	PHF	NA
+Clupea_harengus	actr8	ENSCHAG00000024806	ACTR	NA
+Clupea_harengus	cdk1	ENSCHAG00000024822	Cyclin	105910582
+Clupea_harengus	helz2	ENSCHAG00000024918	Others	NA
+Clupea_harengus	men1	ENSCHAG00000024973	Others	105903139
+Clupea_harengus		ENSCHAG00000024974	Other_CRF	NA
+Clupea_harengus	lmo1	ENSCHAG00000025047	LIM	NA
+Clupea_harengus		ENSCHAG00000025164	Others	NA
+Clupea_harengus	wwtr1	ENSCHAG00000025215	WW	NA
+Clupea_harengus	raly	ENSCHAG00000025255	Others	NA
+Clupea_harengus	TXN	ENSCHAG00000025301	Others	105894186
+Clupea_harengus	med20	ENSCHAG00000025410	Mediator complex	NA
+Clupea_harengus	phf12b	ENSCHAG00000025441	PHF	105897147
+Clupea_harengus	kdm2aa	ENSCHAG00000025485	Lysine demethylase	NA
+Clupea_harengus	dpf2	ENSCHAG00000025489	DPF	105912479
+Clupea_harengus	smarcd3b	ENSCHAG00000025492	SWI/SNF	105889295
+Clupea_harengus	ING2	ENSCHAG00000025560	ING	NA
+Clupea_harengus	strap	ENSCHAG00000025561	Others	105897561
+Clupea_harengus	ldb2b	ENSCHAG00000025587	LIM	NA
+Clupea_harengus	TAF3	ENSCHAG00000025602	TATA-box	NA
+Clupea_harengus	tab1	ENSCHAG00000025628	Others	105893549
+Clupea_harengus	rybpb	ENSCHAG00000025660	Others	NA
+Clupea_harengus	med16	ENSCHAG00000025667	Mediator complex	NA
+Clupea_harengus	uri1	ENSCHAG00000025744	Others	NA
+Clupea_harengus	pik3r1	ENSCHAG00000025810	Others	NA
+Clupea_harengus	pa2g4b	ENSCHAG00000025882	Others	105897345
+Clupea_harengus	ctnnd1	ENSCHAG00000026070	Casein	105908487
+Clupea_harengus	si:ch73-21k16.1	ENSCHAG00000026202	LPIN	NA
+Clupea_harengus	wdr5	ENSCHAG00000026230	WD	NA
+Clupea_harengus	brd3a	ENSCHAG00000026243	Bromodomain	NA
+Clupea_harengus	pawr	ENSCHAG00000026279	Others	105889579
+Clupea_harengus	pelp1	ENSCHAG00000026282	Others	NA
+Clupea_harengus	birc2	ENSCHAG00000026319	Others	105895386
+Clupea_harengus	hira	ENSCHAG00000026348	Others	NA
+Clupea_harengus	spen	ENSCHAG00000026359	Others	NA
+Clupea_harengus	smarca4a	ENSCHAG00000026467	SWI/SNF	NA
+Clupea_harengus	CNOT2	ENSCHAG00000026480	CCR4-NOT	NA
+Clupea_harengus	hdac8	ENSCHAG00000026502	Histone deacetylase	105891155
+Clupea_harengus	slc19a1	ENSCHAG00000026508	SLC	105894556
+Clupea_harengus	caska	ENSCHAG00000026530	CAMK	NA
+Clupea_harengus	chek1	ENSCHAG00000026565	Others	105895358
+Clupea_harengus	cdyl	ENSCHAG00000026580	Chromodomain Y	NA
+Clupea_harengus	DCAF1	ENSCHAG00000026637	Others	105910085
+Clupea_harengus		ENSCHAG00000026649	Zinc finger	NA
+Clupea_harengus	prdx5	ENSCHAG00000026652	Others	105900388
+Clupea_harengus	hdac11	ENSCHAG00000026731	Histone deacetylase	105909863
+Clupea_harengus	actr5	ENSCHAG00000026751	ACTR	NA
+Clupea_harengus	wdr61	ENSCHAG00000026754	WD	NA
+Clupea_harengus	si:dkey-21c19.3	ENSCHAG00000026771	Others	NA
+Clupea_harengus	hat1	ENSCHAG00000026776	Others	105907996
+Clupea_harengus	ss18	ENSCHAG00000026788	SS18	105900599
+Clupea_harengus	dhx9	ENSCHAG00000026797	RNA helicase	NA
+Clupea_harengus	DAB2	ENSCHAG00000026804	Others	NA
+Clupea_harengus	calcoco1a	ENSCHAG00000026808	Others	NA
+Clupea_harengus	siva1	ENSCHAG00000026915	Others	105908320
+Clupea_harengus	cxxc5a	ENSCHAG00000026926	Others	NA
+Clupea_harengus	hipk2	ENSCHAG00000026942	HIPK	NA
+Clupea_harengus	hck	ENSCHAG00000026993	Others	105898956
+Clupea_harengus	tnksb	ENSCHAG00000027167	Others	NA
+Clupea_harengus	ell2	ENSCHAG00000027215	GTF	NA
+Clupea_harengus	kdm4c	ENSCHAG00000027249	Lysine demethylase	NA
+Clupea_harengus	paxip1	ENSCHAG00000027286	Others	NA
+Clupea_harengus	kdm4aa	ENSCHAG00000027287	Lysine demethylase	NA
+Clupea_harengus	TRAPPC2B	ENSCHAG00000027293	Others	NA
+Clupea_harengus	rnf2	ENSCHAG00000027312	Ring finger protein	105907779
+Clupea_harengus	PRMT8	ENSCHAG00000027322	Arginine methyltransferase	NA
+Clupea_harengus	rexo4	ENSCHAG00000027355	Others	NA
+Clupea_harengus	ncl	ENSCHAG00000027366	Others	NA
+Clupea_harengus	sin3ab	ENSCHAG00000027465	Other_CRF	NA
+Clupea_harengus	traf6	ENSCHAG00000027515	Others	105889045
+Clupea_harengus	dnaja3a	ENSCHAG00000027539	Others	NA
+Clupea_harengus	kat6a	ENSCHAG00000027608	Lysine acetyltransferase	105889970
+Clupea_harengus	noc2l	ENSCHAG00000027620	Others	105899053
+Clupea_harengus	eno1a	ENSCHAG00000027659	Others	105899007
+Clupea_harengus	picalma	ENSCHAG00000027704	Others	NA
+Clupea_harengus	kdm1a	ENSCHAG00000027737	Lysine demethylase	NA
+Clupea_harengus		ENSCHAG00000027777	MAML	NA
+Clupea_harengus	psip1a	ENSCHAG00000027848	Others	NA

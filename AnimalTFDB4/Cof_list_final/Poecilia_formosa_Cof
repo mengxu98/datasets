@@ -1,0 +1,792 @@
+Species	Symbol	Ensembl	Family	Entrez_ID
+Poecilia_formosa	gtf2a2	ENSPFOG00000000048	GTF	103129418
+Poecilia_formosa	ilf2	ENSPFOG00000000095	Others	103130657
+Poecilia_formosa	dyrk1b	ENSPFOG00000000109	Others	103129840
+Poecilia_formosa	aurkaip1	ENSPFOG00000000146	Others	103139036
+Poecilia_formosa	trip13	ENSPFOG00000000149	Thyroid hormone receptor	NA
+Poecilia_formosa	ccnt2a	ENSPFOG00000000164	Cyclin	103131022
+Poecilia_formosa	cnot11	ENSPFOG00000000176	CCR4-NOT	103156461
+Poecilia_formosa	nup98	ENSPFOG00000000270	Others	103156602
+Poecilia_formosa	fhod1	ENSPFOG00000000338	Others	NA
+Poecilia_formosa	eya3	ENSPFOG00000000356	EYA	103154963
+Poecilia_formosa	setd7	ENSPFOG00000000382	SET	103131843
+Poecilia_formosa	taf8	ENSPFOG00000000384	TATA-box	103152496
+Poecilia_formosa	med20	ENSPFOG00000000444	Mediator complex	103150668
+Poecilia_formosa	mad2l1	ENSPFOG00000000539	Others	103155072
+Poecilia_formosa	med31	ENSPFOG00000000575	Mediator complex	103156613
+Poecilia_formosa	btk	ENSPFOG00000000615	Others	103151723
+Poecilia_formosa	meaf6	ENSPFOG00000000680	Others	103154971
+Poecilia_formosa	depdc1a	ENSPFOG00000000694	Others	103153752
+Poecilia_formosa	fbxw11a	ENSPFOG00000000705	Others	103129921
+Poecilia_formosa	med30	ENSPFOG00000000737	Mediator complex	103155381
+Poecilia_formosa	ndnl2	ENSPFOG00000000753	MAGE	103153465
+Poecilia_formosa	bcl9	ENSPFOG00000000816	BCL	103134202
+Poecilia_formosa	phip	ENSPFOG00000000873	Others	NA
+Poecilia_formosa	chaf1b	ENSPFOG00000000916	Others	103134204
+Poecilia_formosa	med12	ENSPFOG00000000954	Mediator complex	NA
+Poecilia_formosa	pik3r1	ENSPFOG00000001009	Others	103154504
+Poecilia_formosa	ldb1b	ENSPFOG00000001150	LIM	103150493
+Poecilia_formosa	dot1l	ENSPFOG00000001183	Others	NA
+Poecilia_formosa	ppargc1a	ENSPFOG00000001263	Others	NA
+Poecilia_formosa	gtf2a1	ENSPFOG00000001381	GTF	103147680
+Poecilia_formosa	tradd	ENSPFOG00000001400	Others	103153798
+Poecilia_formosa	kdm4ab	ENSPFOG00000001401	Lysine demethylase	103153021
+Poecilia_formosa	ascc3	ENSPFOG00000001462	ASCC	NA
+Poecilia_formosa	trak2	ENSPFOG00000001467	Others	NA
+Poecilia_formosa	utp4	ENSPFOG00000001510	Others	103156944
+Poecilia_formosa	med1	ENSPFOG00000001519	Mediator complex	103142263
+Poecilia_formosa	anp32b	ENSPFOG00000001522	ANP	103131735
+Poecilia_formosa	PELI1	ENSPFOG00000001528	Others	103152459
+Poecilia_formosa	snd1	ENSPFOG00000001557	Others	103146200
+Poecilia_formosa	setd2	ENSPFOG00000001574	SET	NA
+Poecilia_formosa	WDR77	ENSPFOG00000001577	WD	103150685
+Poecilia_formosa	zgc:55733	ENSPFOG00000001583	HNRNP	NA
+Poecilia_formosa		ENSPFOG00000001606	Others	103132058
+Poecilia_formosa	cnot7	ENSPFOG00000001614	CCR4-NOT	103139883
+Poecilia_formosa	trrap	ENSPFOG00000001619	Others	NA
+Poecilia_formosa	brca2	ENSPFOG00000001640	Others	103140692
+Poecilia_formosa	elp3	ENSPFOG00000001657	ELP	103148813
+Poecilia_formosa	hdac6	ENSPFOG00000001762	Histone deacetylase	NA
+Poecilia_formosa	mybbp1a	ENSPFOG00000001774	MYB	NA
+Poecilia_formosa	lin54	ENSPFOG00000001836	Others	103151005
+Poecilia_formosa	ell	ENSPFOG00000001842	GTF	103155508
+Poecilia_formosa	SMARCA2	ENSPFOG00000001856	SWI/SNF	103134867
+Poecilia_formosa	cbx5	ENSPFOG00000001880	Chromobox	103141097
+Poecilia_formosa	kdm5c	ENSPFOG00000001947	Lysine demethylase	103139054
+Poecilia_formosa	hells	ENSPFOG00000001954	Others	103155799
+Poecilia_formosa	hdac4	ENSPFOG00000001958	Histone deacetylase	103153510
+Poecilia_formosa	SFMBT1	ENSPFOG00000001980	Others	103145766
+Poecilia_formosa	grhpra	ENSPFOG00000002020	Others	103135493
+Poecilia_formosa		ENSPFOG00000002041	Others	103153809
+Poecilia_formosa	erbb4b	ENSPFOG00000002105	Erbb2	NA
+Poecilia_formosa	ssbp4	ENSPFOG00000002131	Others	103155510
+Poecilia_formosa	calcoco1a	ENSPFOG00000002150	Others	103141108
+Poecilia_formosa	supt16h	ENSPFOG00000002159	SUPT	103144622
+Poecilia_formosa	lin9	ENSPFOG00000002168	Others	103138588
+Poecilia_formosa	skor2	ENSPFOG00000002242	SKI	NA
+Poecilia_formosa	brf1b	ENSPFOG00000002266	GTF	NA
+Poecilia_formosa	fhl3a	ENSPFOG00000002275	FHL	103141529
+Poecilia_formosa	ss18	ENSPFOG00000002394	SS18	103143015
+Poecilia_formosa	arrb2a	ENSPFOG00000002404	Others	103156624
+Poecilia_formosa	notch1a	ENSPFOG00000002502	Notch	NA
+Poecilia_formosa	pa2g4a	ENSPFOG00000002512	Others	103143204
+Poecilia_formosa	ppie	ENSPFOG00000002535	Others	NA
+Poecilia_formosa	slc19a1	ENSPFOG00000002551	SLC	103151915
+Poecilia_formosa	tnip1	ENSPFOG00000002568	Others	103144522
+Poecilia_formosa	yap1	ENSPFOG00000002579	Others	NA
+Poecilia_formosa	hnrnpd	ENSPFOG00000002596	HNRNP	103151014
+Poecilia_formosa	aurkb	ENSPFOG00000002658	Others	103149574
+Poecilia_formosa	cbx3a	ENSPFOG00000002688	Chromobox	103145272
+Poecilia_formosa	si:dkey-21c19.3	ENSPFOG00000002714	Others	103141114
+Poecilia_formosa	tnni1a	ENSPFOG00000002725	Others	NA
+Poecilia_formosa	ccnh	ENSPFOG00000002746	Cyclin	NA
+Poecilia_formosa		ENSPFOG00000002797	Others	103130888
+Poecilia_formosa	vhl	ENSPFOG00000002802	Others	103143209
+Poecilia_formosa	taf9	ENSPFOG00000002806	TATA-box	NA
+Poecilia_formosa	tsg101a	ENSPFOG00000002824	Others	103151610
+Poecilia_formosa	tbl1x	ENSPFOG00000002848	Transducin	103134225
+Poecilia_formosa	snw1	ENSPFOG00000002858	Others	103147683
+Poecilia_formosa	hnrnpub	ENSPFOG00000002908	HNRNP	103148827
+Poecilia_formosa	taf1	ENSPFOG00000002932	TATA-box	NA
+Poecilia_formosa	rbbp5	ENSPFOG00000003020	RBBP	103130792
+Poecilia_formosa	cbfa2t2	ENSPFOG00000003025	Others	103135396
+Poecilia_formosa	hira	ENSPFOG00000003040	Others	103152632
+Poecilia_formosa	slc26a3.2	ENSPFOG00000003042	SLC	NA
+Poecilia_formosa	sirt7	ENSPFOG00000003047	Sirtuin	103150514
+Poecilia_formosa	vgll2a	ENSPFOG00000003074	Vestigial like	103152688
+Poecilia_formosa	tirap	ENSPFOG00000003099	Others	103145357
+Poecilia_formosa	sirt2	ENSPFOG00000003110	Sirtuin	103155951
+Poecilia_formosa	wwp2	ENSPFOG00000003126	WW	103142433
+Poecilia_formosa	pqbp1	ENSPFOG00000003147	Others	103139060
+Poecilia_formosa	ccar1	ENSPFOG00000003164	Others	103147718
+Poecilia_formosa	brd2a	ENSPFOG00000003172	Bromodomain	103146400
+Poecilia_formosa	slc30a9	ENSPFOG00000003213	SLC	103149583
+Poecilia_formosa		ENSPFOG00000003214	Other_CRF	NA
+Poecilia_formosa		ENSPFOG00000003216	Mediator complex	103153038
+Poecilia_formosa	sap130a	ENSPFOG00000003244	SAP	103151360
+Poecilia_formosa	crtc1a	ENSPFOG00000003260	CREB	103153039
+Poecilia_formosa	pspc1	ENSPFOG00000003362	Others	NA
+Poecilia_formosa	abrab	ENSPFOG00000003389	Actin	103156262
+Poecilia_formosa	jupa	ENSPFOG00000003394	Others	103131252
+Poecilia_formosa	ripk3	ENSPFOG00000003441	Others	NA
+Poecilia_formosa	insra	ENSPFOG00000003462	Others	103146076
+Poecilia_formosa	HDAC3	ENSPFOG00000003483	Histone deacetylase	103149284
+Poecilia_formosa		ENSPFOG00000003485	Others	NA
+Poecilia_formosa	cnot1	ENSPFOG00000003497	CCR4-NOT	103138894
+Poecilia_formosa	CTBP1	ENSPFOG00000003535	Others	103155983
+Poecilia_formosa	emsy	ENSPFOG00000003557	Others	103146127
+Poecilia_formosa	ruvbl1	ENSPFOG00000003640	Other_CRF	103143219
+Poecilia_formosa	rad21b	ENSPFOG00000003658	Others	103154570
+Poecilia_formosa	si:ch73-60h1.1	ENSPFOG00000003659	CAMK	NA
+Poecilia_formosa	c1d	ENSPFOG00000003686	Other_Co-activator/repressors	103137375
+Poecilia_formosa	uri1	ENSPFOG00000003724	Others	103144380
+Poecilia_formosa	prmt7	ENSPFOG00000003755	Arginine methyltransferase	NA
+Poecilia_formosa	jade1	ENSPFOG00000003792	Others	103149430
+Poecilia_formosa	ice2	ENSPFOG00000003869	GTF	103141221
+Poecilia_formosa	rb1	ENSPFOG00000003889	Other_Co-activator/repressors	103145620
+Poecilia_formosa	commd1	ENSPFOG00000003910	Others	103150757
+Poecilia_formosa	kdm6ba	ENSPFOG00000003914	Lysine demethylase	103146601
+Poecilia_formosa	dnajb1b	ENSPFOG00000003933	Others	103154160
+Poecilia_formosa	pik3r2	ENSPFOG00000003942	Others	103153044
+Poecilia_formosa	setd6	ENSPFOG00000003956	SET	103138819
+Poecilia_formosa	htatip2	ENSPFOG00000003994	Others	103142624
+Poecilia_formosa	cops5	ENSPFOG00000004051	Others	103139708
+Poecilia_formosa	sap18	ENSPFOG00000004079	SAP	103130326
+Poecilia_formosa	sdr16c5a	ENSPFOG00000004082	Others	NA
+Poecilia_formosa	actr8	ENSPFOG00000004085	ACTR	103156025
+Poecilia_formosa	mnat1	ENSPFOG00000004095	Others	103154793
+Poecilia_formosa	ddx5	ENSPFOG00000004109	RNA helicase	103143670
+Poecilia_formosa	waca	ENSPFOG00000004149	WW	103149361
+Poecilia_formosa	ezh2	ENSPFOG00000004156	Others	103131053
+Poecilia_formosa	apex1	ENSPFOG00000004178	Others	103151290
+Poecilia_formosa	xrn2	ENSPFOG00000004182	Others	103156411
+Poecilia_formosa	rnf111	ENSPFOG00000004203	Ring finger protein	103150737
+Poecilia_formosa	trappc2	ENSPFOG00000004286	Others	NA
+Poecilia_formosa	pih1d1	ENSPFOG00000004303	Other_CRF	NA
+Poecilia_formosa	mycbp	ENSPFOG00000004312	MYC	103143464
+Poecilia_formosa	smurf2	ENSPFOG00000004347	Others	103143671
+Poecilia_formosa	sltm	ENSPFOG00000004372	Others	103150738
+Poecilia_formosa	tab1	ENSPFOG00000004374	Others	103156067
+Poecilia_formosa		ENSPFOG00000004401	Others	NA
+Poecilia_formosa	pex14	ENSPFOG00000004478	Others	NA
+Poecilia_formosa	wnt4	ENSPFOG00000004485	Others	NA
+Poecilia_formosa	znf703	ENSPFOG00000004495	Zinc finger	103146721
+Poecilia_formosa	med10	ENSPFOG00000004550	Mediator complex	103146024
+Poecilia_formosa	KDM1B	ENSPFOG00000004666	Lysine demethylase	103143469
+Poecilia_formosa		ENSPFOG00000004681	Others	NA
+Poecilia_formosa	ASF1B	ENSPFOG00000004693	Others	103154168
+Poecilia_formosa	csnk2a1	ENSPFOG00000004720	Casein	NA
+Poecilia_formosa		ENSPFOG00000004727	Actin	NA
+Poecilia_formosa	cops2	ENSPFOG00000004790	Others	103146154
+Poecilia_formosa	nif3l1	ENSPFOG00000004793	Others	103152338
+Poecilia_formosa	pin1	ENSPFOG00000004816	Others	NA
+Poecilia_formosa	PCGF3	ENSPFOG00000004820	PCGF	103152187
+Poecilia_formosa		ENSPFOG00000004852	NFKB associated	NA
+Poecilia_formosa	ino80b	ENSPFOG00000004856	INO80 complex	NA
+Poecilia_formosa	chd7	ENSPFOG00000004891	CHD	103146987
+Poecilia_formosa	elp2	ENSPFOG00000004952	ELP	103135031
+Poecilia_formosa	paf1	ENSPFOG00000004967	Others	103139627
+Poecilia_formosa		ENSPFOG00000004982	Others	NA
+Poecilia_formosa		ENSPFOG00000004990	Others	103146079
+Poecilia_formosa	vgll3	ENSPFOG00000005002	Vestigial like	103141465
+Poecilia_formosa	pdcd4b	ENSPFOG00000005006	Others	NA
+Poecilia_formosa	tada3l	ENSPFOG00000005009	Transcriptional adaptor	NA
+Poecilia_formosa	med29	ENSPFOG00000005051	Mediator complex	103136229
+Poecilia_formosa	blm	ENSPFOG00000005059	Others	103147843
+Poecilia_formosa	tcea1	ENSPFOG00000005100	TEF	103135695
+Poecilia_formosa		ENSPFOG00000005110	Arginine methyltransferase	103146211
+Poecilia_formosa	tenm1	ENSPFOG00000005145	Others	NA
+Poecilia_formosa	SAMD4B	ENSPFOG00000005162	Others	103139628
+Poecilia_formosa	txlng	ENSPFOG00000005186	Others	NA
+Poecilia_formosa	CBX2	ENSPFOG00000005226	Chromobox	103147077
+Poecilia_formosa		ENSPFOG00000005272	Others	NA
+Poecilia_formosa	ago2	ENSPFOG00000005321	Others	103145293
+Poecilia_formosa	RING1	ENSPFOG00000005375	Ring finger protein	103149753
+Poecilia_formosa	skila	ENSPFOG00000005377	SKI	NA
+Poecilia_formosa	cdk9	ENSPFOG00000005383	Cyclin	103153946
+Poecilia_formosa	NCOA7	ENSPFOG00000005513	Nuclear receptor coactivator	103138610
+Poecilia_formosa	PCBD2	ENSPFOG00000005561	Others	103129816
+Poecilia_formosa	pagr1	ENSPFOG00000005564	Others	103152343
+Poecilia_formosa	ccdc59	ENSPFOG00000005611	Coiled-coil	103146215
+Poecilia_formosa	macroh2a1	ENSPFOG00000005617	Others	103129818
+Poecilia_formosa	dnmt1	ENSPFOG00000005624	DNA_methylase	103143736
+Poecilia_formosa	ncoa4	ENSPFOG00000005630	Nuclear receptor coactivator	103130877
+Poecilia_formosa	nlk2	ENSPFOG00000005722	Others	103152788
+Poecilia_formosa	kmt5aa	ENSPFOG00000005772	Lysine methyltransferase	NA
+Poecilia_formosa		ENSPFOG00000005842	Nuclear coactivator	NA
+Poecilia_formosa	taf5	ENSPFOG00000005851	TATA-box	103131507
+Poecilia_formosa	ago1	ENSPFOG00000005867	Others	103139283
+Poecilia_formosa	calr	ENSPFOG00000005960	Others	103138474
+Poecilia_formosa	yeats2	ENSPFOG00000005980	Others	NA
+Poecilia_formosa	heatr1	ENSPFOG00000006008	Others	103147082
+Poecilia_formosa	bmi1a	ENSPFOG00000006111	Others	NA
+Poecilia_formosa	ralyl	ENSPFOG00000006120	Others	103146091
+Poecilia_formosa	plk3	ENSPFOG00000006121	Others	103148307
+Poecilia_formosa	zmym2	ENSPFOG00000006133	Zinc finger	103156384
+Poecilia_formosa	PER2	ENSPFOG00000006138	Others	103140706
+Poecilia_formosa		ENSPFOG00000006275	Others	103133034
+Poecilia_formosa	recql5	ENSPFOG00000006282	Others	103153325
+Poecilia_formosa	cnot6b	ENSPFOG00000006291	CCR4-NOT	103135533
+Poecilia_formosa		ENSPFOG00000006340	Others	103154613
+Poecilia_formosa	mphosph8	ENSPFOG00000006395	Others	NA
+Poecilia_formosa	prpf6	ENSPFOG00000006431	Others	NA
+Poecilia_formosa	ttf2	ENSPFOG00000006601	Others	103156385
+Poecilia_formosa	flii	ENSPFOG00000006633	Others	NA
+Poecilia_formosa	kmt2bb	ENSPFOG00000006642	Lysine methyltransferase	NA
+Poecilia_formosa	creg1	ENSPFOG00000006710	Others	103130097
+Poecilia_formosa	cdc73	ENSPFOG00000006725	Others	NA
+Poecilia_formosa	skor1a	ENSPFOG00000006793	SKI	NA
+Poecilia_formosa	ascc2	ENSPFOG00000006820	ASCC	103134879
+Poecilia_formosa	rnf14	ENSPFOG00000006823	Ring finger protein	NA
+Poecilia_formosa	KDM5B	ENSPFOG00000006840	Lysine demethylase	103139096
+Poecilia_formosa	rgcc	ENSPFOG00000006844	Others	103151373
+Poecilia_formosa	loxl2b	ENSPFOG00000006854	Others	103152815
+Poecilia_formosa	ncoa3	ENSPFOG00000006902	Nuclear receptor coactivator	NA
+Poecilia_formosa	gps2	ENSPFOG00000006949	Others	NA
+Poecilia_formosa	setd3	ENSPFOG00000006952	SET	103138750
+Poecilia_formosa	nelfb	ENSPFOG00000007019	GTF	NA
+Poecilia_formosa	chd2	ENSPFOG00000007050	CHD	103147862
+Poecilia_formosa	nelfa	ENSPFOG00000007089	GTF	103145964
+Poecilia_formosa	niban2a	ENSPFOG00000007114	FAM	103155545
+Poecilia_formosa	phf12b	ENSPFOG00000007125	PHF	103152794
+Poecilia_formosa	JMY	ENSPFOG00000007145	Others	103135834
+Poecilia_formosa	ILK	ENSPFOG00000007194	Others	103148510
+Poecilia_formosa		ENSPFOG00000007205	Tripartite motif	103147464
+Poecilia_formosa	malt1	ENSPFOG00000007322	Others	103142002
+Poecilia_formosa	TGFB1I1	ENSPFOG00000007368	Others	103152358
+Poecilia_formosa	ern1	ENSPFOG00000007378	Others	103141628
+Poecilia_formosa	smyd1b	ENSPFOG00000007466	SMYD	103141785
+Poecilia_formosa	kdm6a	ENSPFOG00000007467	Lysine demethylase	103151380
+Poecilia_formosa	gsk3ba	ENSPFOG00000007468	Others	103129498
+Poecilia_formosa	taf2	ENSPFOG00000007488	TATA-box	103136949
+Poecilia_formosa	CTNND1	ENSPFOG00000007490	Casein	NA
+Poecilia_formosa	TGFB3	ENSPFOG00000007494	Others	103138621
+Poecilia_formosa	TLE3	ENSPFOG00000007542	Transducin	103146181
+Poecilia_formosa	cxxc1b	ENSPFOG00000007618	Others	103147338
+Poecilia_formosa	HDGF	ENSPFOG00000007632	Others	103146854
+Poecilia_formosa	serbp1a	ENSPFOG00000007643	Others	103155179
+Poecilia_formosa	smarca5	ENSPFOG00000007649	SWI/SNF	103144828
+Poecilia_formosa	erbb2	ENSPFOG00000007662	Erbb2	NA
+Poecilia_formosa	phf20a	ENSPFOG00000007723	PHF	NA
+Poecilia_formosa	si:ch73-21k16.1	ENSPFOG00000007732	LPIN	103144111
+Poecilia_formosa	CBL	ENSPFOG00000007742	Others	103136255
+Poecilia_formosa	safb	ENSPFOG00000007745	Others	NA
+Poecilia_formosa	aip	ENSPFOG00000007751	Others	103137892
+Poecilia_formosa	TENM2	ENSPFOG00000007794	Others	NA
+Poecilia_formosa	tp53bp1	ENSPFOG00000007823	Others	103132650
+Poecilia_formosa	polr2a	ENSPFOG00000007890	POLR	103137507
+Poecilia_formosa	smarca4a	ENSPFOG00000007892	SWI/SNF	103143696
+Poecilia_formosa	lmo1	ENSPFOG00000007913	LIM	103139450
+Poecilia_formosa	bcl10	ENSPFOG00000007917	BCL	NA
+Poecilia_formosa	pink1	ENSPFOG00000007920	Others	103156800
+Poecilia_formosa	lzts1	ENSPFOG00000007930	Others	103145518
+Poecilia_formosa	cdk2	ENSPFOG00000008012	Cyclin	103129575
+Poecilia_formosa	rbbp4	ENSPFOG00000008052	RBBP	NA
+Poecilia_formosa	cdk8	ENSPFOG00000008071	Cyclin	103139744
+Poecilia_formosa	slc25a15b	ENSPFOG00000008150	SLC	103145647
+Poecilia_formosa	rnf6	ENSPFOG00000008161	Ring finger protein	103139747
+Poecilia_formosa	anp32a	ENSPFOG00000008166	ANP	103146187
+Poecilia_formosa	apbb2b	ENSPFOG00000008167	Others	NA
+Poecilia_formosa	actr5	ENSPFOG00000008196	ACTR	103156051
+Poecilia_formosa	ela3l	ENSPFOG00000008218	Others	103145530
+Poecilia_formosa	ccnd1	ENSPFOG00000008228	Cyclin	103150949
+Poecilia_formosa	hipk2	ENSPFOG00000008233	HIPK	103138855
+Poecilia_formosa	hcfc2	ENSPFOG00000008236	Others	NA
+Poecilia_formosa	YWHAB	ENSPFOG00000008238	Others	103143238
+Poecilia_formosa	JAK2	ENSPFOG00000008325	Others	103142013
+Poecilia_formosa	med28	ENSPFOG00000008370	Mediator complex	103136391
+Poecilia_formosa	pdlim1	ENSPFOG00000008379	Others	103148239
+Poecilia_formosa	si:dkey-6i22.5	ENSPFOG00000008389	Others	NA
+Poecilia_formosa	txnipa	ENSPFOG00000008396	Others	103156725
+Poecilia_formosa	med19a	ENSPFOG00000008429	Mediator complex	NA
+Poecilia_formosa	timeless	ENSPFOG00000008468	Others	NA
+Poecilia_formosa	mtor	ENSPFOG00000008483	Others	103142336
+Poecilia_formosa	gtf2e1	ENSPFOG00000008552	GTF	NA
+Poecilia_formosa	taf6	ENSPFOG00000008575	TATA-box	103145655
+Poecilia_formosa	nrbf2b	ENSPFOG00000008621	Nuclear receptor coactivator	103142349
+Poecilia_formosa	picalmb	ENSPFOG00000008623	Others	103139663
+Poecilia_formosa	btg1	ENSPFOG00000008625	Others	103146241
+Poecilia_formosa	cnot3a	ENSPFOG00000008693	CCR4-NOT	103136644
+Poecilia_formosa	rap2c	ENSPFOG00000008698	Others	103140099
+Poecilia_formosa	kdm3b	ENSPFOG00000008703	Lysine demethylase	103135554
+Poecilia_formosa	pcbd1	ENSPFOG00000008707	Others	103148241
+Poecilia_formosa	kat6b	ENSPFOG00000008817	Lysine acetyltransferase	103142326
+Poecilia_formosa	egfra	ENSPFOG00000008848	Others	103135727
+Poecilia_formosa	ash1l	ENSPFOG00000008852	Others	103144472
+Poecilia_formosa	med16	ENSPFOG00000008857	Mediator complex	103156905
+Poecilia_formosa	strap	ENSPFOG00000008873	Others	103155458
+Poecilia_formosa	dvl3a	ENSPFOG00000008888	Others	103147008
+Poecilia_formosa	phf2	ENSPFOG00000008892	PHF	103152735
+Poecilia_formosa	egln2	ENSPFOG00000008899	Others	103136266
+Poecilia_formosa	ATXN7L3	ENSPFOG00000008910	Others	103148773
+Poecilia_formosa	mcrs1	ENSPFOG00000008921	Others	103129583
+Poecilia_formosa		ENSPFOG00000008930	RBBP	NA
+Poecilia_formosa	CILK1	ENSPFOG00000008953	Others	103134065
+Poecilia_formosa	taf11	ENSPFOG00000008998	TATA-box	103144035
+Poecilia_formosa	cideb	ENSPFOG00000009017	Others	NA
+Poecilia_formosa	dpf1	ENSPFOG00000009072	DPF	103154635
+Poecilia_formosa	CASK	ENSPFOG00000009088	CAMK	103151387
+Poecilia_formosa	chd4a	ENSPFOG00000009089	CHD	103146445
+Poecilia_formosa	jmjd1cb	ENSPFOG00000009146	Other_CRF	103142379
+Poecilia_formosa	pak6a	ENSPFOG00000009238	Others	103136083
+Poecilia_formosa	prmt1	ENSPFOG00000009260	Arginine methyltransferase	103130280
+Poecilia_formosa	ajuba	ENSPFOG00000009281	Others	103145984
+Poecilia_formosa	loxl3b	ENSPFOG00000009296	Others	103150072
+Poecilia_formosa	zmynd11	ENSPFOG00000009308	Zinc finger	103137947
+Poecilia_formosa	morf4l1	ENSPFOG00000009311	Other_CRF	103141278
+Poecilia_formosa	jmjd6	ENSPFOG00000009322	Others	103153086
+Poecilia_formosa	c1qbp	ENSPFOG00000009344	Others	103142069
+Poecilia_formosa	sin3b	ENSPFOG00000009364	Others	103138493
+Poecilia_formosa		ENSPFOG00000009366	Others	103140985
+Poecilia_formosa	mycbp2	ENSPFOG00000009394	MYC	103134730
+Poecilia_formosa		ENSPFOG00000009404	Others	NA
+Poecilia_formosa	dhx33	ENSPFOG00000009426	RNA helicase	103142070
+Poecilia_formosa		ENSPFOG00000009434	Thyroid hormone receptor	NA
+Poecilia_formosa	hspa8	ENSPFOG00000009543	Heat shock protein	103130283
+Poecilia_formosa	ran	ENSPFOG00000009552	Others	103147490
+Poecilia_formosa	stk36	ENSPFOG00000009594	Others	103145663
+Poecilia_formosa	dhx36	ENSPFOG00000009598	RNA helicase	103148059
+Poecilia_formosa	rprd1a	ENSPFOG00000009698	Others	NA
+Poecilia_formosa		ENSPFOG00000009718	Others	103135577
+Poecilia_formosa	fbxw7	ENSPFOG00000009723	Others	NA
+Poecilia_formosa	hdac11	ENSPFOG00000009746	Histone deacetylase	103152741
+Poecilia_formosa	ccnc	ENSPFOG00000009757	Cyclin	103144130
+Poecilia_formosa	brd1a	ENSPFOG00000009805	Bromodomain	103156044
+Poecilia_formosa	kdm2ab	ENSPFOG00000009817	Lysine demethylase	103147495
+Poecilia_formosa	rnf141	ENSPFOG00000009819	Ring finger protein	103147586
+Poecilia_formosa	drap1	ENSPFOG00000009825	Others	103140623
+Poecilia_formosa	lgals9l6	ENSPFOG00000009857	Others	103150895
+Poecilia_formosa	pfdn5	ENSPFOG00000009905	Others	NA
+Poecilia_formosa	CIITA	ENSPFOG00000010007	Others	NA
+Poecilia_formosa	sgf29	ENSPFOG00000010035	Others	103153094
+Poecilia_formosa	SS18L1	ENSPFOG00000010044	SS18	103147789
+Poecilia_formosa	wdtc1	ENSPFOG00000010064	WD	103143174
+Poecilia_formosa	DDX39A	ENSPFOG00000010070	RNA helicase	103154947
+Poecilia_formosa	nfatc2ip	ENSPFOG00000010096	Nuclear coactivator	NA
+Poecilia_formosa	esf1	ENSPFOG00000010101	Others	NA
+Poecilia_formosa	FLNB	ENSPFOG00000010118	Others	103154444
+Poecilia_formosa	kdm1a	ENSPFOG00000010119	Lysine demethylase	103147265
+Poecilia_formosa	TAF4	ENSPFOG00000010171	TATA-box	103147791
+Poecilia_formosa	dvl2	ENSPFOG00000010190	Others	103137527
+Poecilia_formosa	kat5b	ENSPFOG00000010293	Lysine acetyltransferase	103145675
+Poecilia_formosa	siva1	ENSPFOG00000010308	Others	103136098
+Poecilia_formosa	hipk3a	ENSPFOG00000010317	HIPK	103142493
+Poecilia_formosa	sirt1	ENSPFOG00000010349	Sirtuin	103148255
+Poecilia_formosa	phf8	ENSPFOG00000010366	PHF	103141155
+Poecilia_formosa	edf1	ENSPFOG00000010394	Others	103142762
+Poecilia_formosa	kdm5a	ENSPFOG00000010419	Lysine demethylase	103156122
+Poecilia_formosa	eya4	ENSPFOG00000010496	EYA	NA
+Poecilia_formosa	dab2	ENSPFOG00000010523	Others	103135869
+Poecilia_formosa	DCAF1	ENSPFOG00000010529	Others	103145018
+Poecilia_formosa	ddx20	ENSPFOG00000010540	RNA helicase	103141885
+Poecilia_formosa	TADA1	ENSPFOG00000010567	Transcriptional adaptor	103140032
+Poecilia_formosa	cavin1b	ENSPFOG00000010568	Others	103142478
+Poecilia_formosa	med23	ENSPFOG00000010598	Mediator complex	103144159
+Poecilia_formosa	frzb	ENSPFOG00000010631	Others	103151394
+Poecilia_formosa	hdac10	ENSPFOG00000010646	Histone deacetylase	103134467
+Poecilia_formosa	bcl9l	ENSPFOG00000010684	BCL	NA
+Poecilia_formosa	SMYD3	ENSPFOG00000010727	SMYD	103129358
+Poecilia_formosa	fbp1b	ENSPFOG00000010778	Others	103135872
+Poecilia_formosa	dnaja3a	ENSPFOG00000010811	Others	103140997
+Poecilia_formosa	med4	ENSPFOG00000010829	Mediator complex	103130646
+Poecilia_formosa	tfb2m	ENSPFOG00000010834	Others	103129359
+Poecilia_formosa	kat2b	ENSPFOG00000010842	Lysine acetyltransferase	103135087
+Poecilia_formosa	arrb1	ENSPFOG00000010848	Others	103152990
+Poecilia_formosa	kank1b	ENSPFOG00000010851	Others	103135873
+Poecilia_formosa	KCNIP3	ENSPFOG00000010871	Others	103145855
+Poecilia_formosa	sgk1	ENSPFOG00000010875	Others	NA
+Poecilia_formosa	dpf2	ENSPFOG00000010917	DPF	103145678
+Poecilia_formosa	eapp	ENSPFOG00000010918	Others	103147764
+Poecilia_formosa		ENSPFOG00000010939	CHD	NA
+Poecilia_formosa	gtf2f1	ENSPFOG00000010996	GTF	103145448
+Poecilia_formosa	CSNK2A2	ENSPFOG00000011023	Casein	103142503
+Poecilia_formosa		ENSPFOG00000011027	Transducin	103142032
+Poecilia_formosa		ENSPFOG00000011078	Others	NA
+Poecilia_formosa		ENSPFOG00000011124	Tripartite motif	NA
+Poecilia_formosa	supt5h	ENSPFOG00000011126	SUPT	NA
+Poecilia_formosa	dnmt3bb.1	ENSPFOG00000011151	DNA_methylase	103148175
+Poecilia_formosa	supt6h	ENSPFOG00000011171	SUPT	103139525
+Poecilia_formosa	nsd3	ENSPFOG00000011218	Nuclear receptor coactivator	NA
+Poecilia_formosa	lrpprc	ENSPFOG00000011227	Others	103137447
+Poecilia_formosa	prkcbp1l	ENSPFOG00000011234	Zinc finger	NA
+Poecilia_formosa	baz1b	ENSPFOG00000011249	Bromodomain	103146301
+Poecilia_formosa	supt7l	ENSPFOG00000011285	SUPT	103154256
+Poecilia_formosa	znf451	ENSPFOG00000011368	Zinc finger	NA
+Poecilia_formosa	lrrk2	ENSPFOG00000011381	Other_CRF	NA
+Poecilia_formosa	crtc3	ENSPFOG00000011402	CREB	NA
+Poecilia_formosa	runx1t1	ENSPFOG00000011423	Others	NA
+Poecilia_formosa	plk1	ENSPFOG00000011431	Others	103156475
+Poecilia_formosa	wdr5	ENSPFOG00000011436	WD	103144573
+Poecilia_formosa	btaf1	ENSPFOG00000011461	Others	103148266
+Poecilia_formosa		ENSPFOG00000011476	Other_CRF	103138880
+Poecilia_formosa	LIMD1	ENSPFOG00000011498	LIM	103151192
+Poecilia_formosa	abt1	ENSPFOG00000011510	Others	NA
+Poecilia_formosa	crk	ENSPFOG00000011530	Others	103145206
+Poecilia_formosa	taf10	ENSPFOG00000011536	TATA-box	103138996
+Poecilia_formosa	phf19	ENSPFOG00000011566	PHF	NA
+Poecilia_formosa	crebbpb	ENSPFOG00000011580	CREB	103141006
+Poecilia_formosa	med21	ENSPFOG00000011604	Mediator complex	NA
+Poecilia_formosa	ctr9	ENSPFOG00000011619	Others	103139472
+Poecilia_formosa	fgf5	ENSPFOG00000011697	FGF	103134893
+Poecilia_formosa	pidd1	ENSPFOG00000011729	Others	103141309
+Poecilia_formosa	kdm8	ENSPFOG00000011740	Lysine demethylase	NA
+Poecilia_formosa	chek2	ENSPFOG00000011753	Others	103156298
+Poecilia_formosa	ccne1	ENSPFOG00000011801	Cyclin	103149207
+Poecilia_formosa	trib1	ENSPFOG00000011808	Others	103135094
+Poecilia_formosa		ENSPFOG00000011812	Others	NA
+Poecilia_formosa	lmcd1	ENSPFOG00000011850	LIM	103143257
+Poecilia_formosa	ncoa2	ENSPFOG00000011859	Nuclear receptor coactivator	NA
+Poecilia_formosa		ENSPFOG00000011861	RNA helicase	NA
+Poecilia_formosa	rtf1	ENSPFOG00000011867	Others	NA
+Poecilia_formosa	ddx1	ENSPFOG00000011921	RNA helicase	103138685
+Poecilia_formosa	brms1lb	ENSPFOG00000011925	Other_CRF	NA
+Poecilia_formosa	setd5	ENSPFOG00000011963	Lysine methyltransferase	103152718
+Poecilia_formosa	nfkbiaa	ENSPFOG00000011973	NFKB associated	NA
+Poecilia_formosa	btf3	ENSPFOG00000011979	Others	NA
+Poecilia_formosa	toporsa	ENSPFOG00000011988	Others	103148473
+Poecilia_formosa	trip11	ENSPFOG00000011999	Thyroid hormone receptor	103131499
+Poecilia_formosa		ENSPFOG00000012002	Others	103138230
+Poecilia_formosa	hint1	ENSPFOG00000012020	Others	103137452
+Poecilia_formosa	ankra2	ENSPFOG00000012023	Ankyrin repeat	103135887
+Poecilia_formosa	med27	ENSPFOG00000012024	Mediator complex	103156315
+Poecilia_formosa	paxip1	ENSPFOG00000012055	Others	NA
+Poecilia_formosa	hsbp1b	ENSPFOG00000012112	Heat shock protein	NA
+Poecilia_formosa	kat2a	ENSPFOG00000012126	Lysine acetyltransferase	103142194
+Poecilia_formosa	axin1	ENSPFOG00000012149	Others	103143797
+Poecilia_formosa	ruvbl2	ENSPFOG00000012154	Other_CRF	103142082
+Poecilia_formosa	cnot8	ENSPFOG00000012222	CCR4-NOT	103152877
+Poecilia_formosa	hat1	ENSPFOG00000012224	Others	103134291
+Poecilia_formosa	cnot2	ENSPFOG00000012236	CCR4-NOT	103144404
+Poecilia_formosa	cdkn1bb	ENSPFOG00000012244	Cyclin	NA
+Poecilia_formosa	med22	ENSPFOG00000012247	Mediator complex	103145929
+Poecilia_formosa	taf5l	ENSPFOG00000012282	TATA-box	103153638
+Poecilia_formosa	med25	ENSPFOG00000012284	Mediator complex	NA
+Poecilia_formosa	tnip2	ENSPFOG00000012293	Others	103156486
+Poecilia_formosa	phf21ab	ENSPFOG00000012323	PHF	NA
+Poecilia_formosa	cdyl	ENSPFOG00000012329	Chromodomain Y	NA
+Poecilia_formosa		ENSPFOG00000012350	RNA binding protein	103131234
+Poecilia_formosa	grip1	ENSPFOG00000012379	Others	NA
+Poecilia_formosa	eya1	ENSPFOG00000012382	EYA	103139776
+Poecilia_formosa	trim16	ENSPFOG00000012420	Tripartite motif	103150858
+Poecilia_formosa	gtf2h4	ENSPFOG00000012432	GTF	NA
+Poecilia_formosa	tdrd3	ENSPFOG00000012450	Others	103139399
+Poecilia_formosa	wwp1	ENSPFOG00000012457	WW	103143359
+Poecilia_formosa	smarcd3b	ENSPFOG00000012463	SWI/SNF	NA
+Poecilia_formosa	plrg1	ENSPFOG00000012502	Others	103156488
+Poecilia_formosa	trim8b	ENSPFOG00000012519	Tripartite motif	NA
+Poecilia_formosa	smarcd1	ENSPFOG00000012569	SWI/SNF	103134552
+Poecilia_formosa	sap30l	ENSPFOG00000012595	SAP	103152884
+Poecilia_formosa	ogt.1	ENSPFOG00000012620	Others	103135630
+Poecilia_formosa	ctdp1	ENSPFOG00000012661	Others	103146679
+Poecilia_formosa	NUP62	ENSPFOG00000012667	Others	103134296
+Poecilia_formosa	rbm15	ENSPFOG00000012754	RNA binding protein	NA
+Poecilia_formosa	sirt6	ENSPFOG00000012759	Sirtuin	103151239
+Poecilia_formosa	elp1	ENSPFOG00000012791	ELP	103130075
+Poecilia_formosa	gtf2h1	ENSPFOG00000012801	GTF	103141320
+Poecilia_formosa	vgll4b	ENSPFOG00000012835	Vestigial like	103136249
+Poecilia_formosa	ikbkb	ENSPFOG00000012837	Others	103145827
+Poecilia_formosa	rnf10	ENSPFOG00000012846	Ring finger protein	NA
+Poecilia_formosa	bend3	ENSPFOG00000012907	Others	103154443
+Poecilia_formosa	men1	ENSPFOG00000012951	Others	103148881
+Poecilia_formosa	mbtd1	ENSPFOG00000012998	Others	103142596
+Poecilia_formosa	si:dkey-85a20.4	ENSPFOG00000013020	Others	NA
+Poecilia_formosa	si:ch1073-296d18.1	ENSPFOG00000013067	PARP	103146682
+Poecilia_formosa	kmt5c	ENSPFOG00000013078	Lysine methyltransferase	NA
+Poecilia_formosa	ino80	ENSPFOG00000013082	INO80 complex	NA
+Poecilia_formosa	SRC	ENSPFOG00000013135	Others	103134564
+Poecilia_formosa	cnot6l	ENSPFOG00000013163	CCR4-NOT	103134923
+Poecilia_formosa	taf3	ENSPFOG00000013168	TATA-box	103154907
+Poecilia_formosa	rbl2	ENSPFOG00000013187	Other_Co-activator/repressors	103148634
+Poecilia_formosa	rbmx	ENSPFOG00000013193	RNA binding protein	103140150
+Poecilia_formosa	ing4	ENSPFOG00000013196	ING	103136729
+Poecilia_formosa	cdk5	ENSPFOG00000013234	Cyclin	103135762
+Poecilia_formosa	pabpc1l	ENSPFOG00000013241	Other_CRF	103145056
+Poecilia_formosa	lancl1	ENSPFOG00000013256	Others	103148682
+Poecilia_formosa	eloca	ENSPFOG00000013264	Others	103139787
+Poecilia_formosa	pid1	ENSPFOG00000013285	Others	103152926
+Poecilia_formosa	cnot9	ENSPFOG00000013296	CCR4-NOT	103138132
+Poecilia_formosa	thrap3a	ENSPFOG00000013297	Thyroid hormone receptor	NA
+Poecilia_formosa	nudt5	ENSPFOG00000013330	Other_CRF	103151529
+Poecilia_formosa	casp8ap2	ENSPFOG00000013352	Others	103150844
+Poecilia_formosa	hif1an	ENSPFOG00000013397	Others	103133483
+Poecilia_formosa	actr6	ENSPFOG00000013412	ACTR	103148636
+Poecilia_formosa	HMOX1	ENSPFOG00000013418	Others	103137730
+Poecilia_formosa	ufl1	ENSPFOG00000013460	Others	103131130
+Poecilia_formosa	lrrc14b	ENSPFOG00000013462	Others	103135127
+Poecilia_formosa	chrac1	ENSPFOG00000013499	Other_CRF	103135129
+Poecilia_formosa	hnrpkl	ENSPFOG00000013507	HNRNP	NA
+Poecilia_formosa	taf6l	ENSPFOG00000013589	TATA-box	103148891
+Poecilia_formosa	znf593	ENSPFOG00000013615	Zinc finger	103153282
+Poecilia_formosa	seta	ENSPFOG00000013616	SET	103134917
+Poecilia_formosa	arhgap5	ENSPFOG00000013666	Others	103129906
+Poecilia_formosa	rprd1b	ENSPFOG00000013678	Others	103139005
+Poecilia_formosa	sf1	ENSPFOG00000013683	Others	103148892
+Poecilia_formosa	EZH1	ENSPFOG00000013708	Others	103142220
+Poecilia_formosa	tdp2b	ENSPFOG00000013712	Others	NA
+Poecilia_formosa	supt3h	ENSPFOG00000013723	SUPT	NA
+Poecilia_formosa	dmap1	ENSPFOG00000013730	DNA_methylase	103138530
+Poecilia_formosa	tonsl	ENSPFOG00000013779	Others	NA
+Poecilia_formosa	gmnn	ENSPFOG00000013783	Others	103135137
+Poecilia_formosa	nck1a	ENSPFOG00000013847	Others	103140415
+Poecilia_formosa	park7	ENSPFOG00000013906	Others	103136417
+Poecilia_formosa	tprb	ENSPFOG00000013919	Others	103137288
+Poecilia_formosa	taf7	ENSPFOG00000013936	TATA-box	103140163
+Poecilia_formosa	hltf	ENSPFOG00000013939	Others	103146550
+Poecilia_formosa		ENSPFOG00000013940	Others	NA
+Poecilia_formosa	itchb	ENSPFOG00000013961	Others	NA
+Poecilia_formosa	auts2a	ENSPFOG00000013965	Others	103142101
+Poecilia_formosa	SMARCB1	ENSPFOG00000013980	SWI/SNF	NA
+Poecilia_formosa	med14	ENSPFOG00000013987	Mediator complex	103134765
+Poecilia_formosa		ENSPFOG00000013994	Others	NA
+Poecilia_formosa	cenpf	ENSPFOG00000014027	CENP	NA
+Poecilia_formosa	nol11	ENSPFOG00000014037	Nuclear coactivator	103148446
+Poecilia_formosa		ENSPFOG00000014088	Casein	103151547
+Poecilia_formosa	bptf	ENSPFOG00000014098	Bromodomain	NA
+Poecilia_formosa	polr3c	ENSPFOG00000014106	POLR	103140772
+Poecilia_formosa	smyd2a	ENSPFOG00000014139	SMYD	103136485
+Poecilia_formosa	rbfox2	ENSPFOG00000014209	Others	103137756
+Poecilia_formosa	eno1a	ENSPFOG00000014263	Others	NA
+Poecilia_formosa	sin3aa	ENSPFOG00000014269	Other_CRF	103134526
+Poecilia_formosa	tab3	ENSPFOG00000014274	Others	103138537
+Poecilia_formosa	rbx1	ENSPFOG00000014301	Others	103153424
+Poecilia_formosa	med18	ENSPFOG00000014426	Mediator complex	103141570
+Poecilia_formosa	SCMH1	ENSPFOG00000014437	Others	103141572
+Poecilia_formosa	wdr61	ENSPFOG00000014439	WD	103134528
+Poecilia_formosa	dcaf6	ENSPFOG00000014465	Others	NA
+Poecilia_formosa	cited4b	ENSPFOG00000014490	CITED	NA
+Poecilia_formosa	FAM83G	ENSPFOG00000014493	FAM	103130692
+Poecilia_formosa	skia	ENSPFOG00000014560	SKI	103150451
+Poecilia_formosa	H2AZ1	ENSPFOG00000014573	Others	103148906
+Poecilia_formosa	rbm15b	ENSPFOG00000014574	RNA binding protein	103153859
+Poecilia_formosa	dscama	ENSPFOG00000014617	Others	103129771
+Poecilia_formosa	suz12b	ENSPFOG00000014624	Others	103137767
+Poecilia_formosa	mllt1b	ENSPFOG00000014628	GTF	103137264
+Poecilia_formosa	suds3	ENSPFOG00000014637	Other_Co-activator/repressors	NA
+Poecilia_formosa	phf10	ENSPFOG00000014670	PHF	103136494
+Poecilia_formosa	orc2	ENSPFOG00000014686	Others	103138365
+Poecilia_formosa	npm3	ENSPFOG00000014692	Nucleoplasmin	103152237
+Poecilia_formosa	mtdha	ENSPFOG00000014697	Others	103135167
+Poecilia_formosa	trip4	ENSPFOG00000014732	Thyroid hormone receptor	103135950
+Poecilia_formosa	CTDSP1	ENSPFOG00000014754	Others	103148703
+Poecilia_formosa	bud31	ENSPFOG00000014763	Others	103153432
+Poecilia_formosa	sufu	ENSPFOG00000014765	Others	103152239
+Poecilia_formosa	tbp	ENSPFOG00000014770	TATA-box	NA
+Poecilia_formosa	stk3	ENSPFOG00000014785	Others	103135175
+Poecilia_formosa	eed	ENSPFOG00000014791	Others	103139207
+Poecilia_formosa	ss18l2	ENSPFOG00000014827	SS18	NA
+Poecilia_formosa	actl6a	ENSPFOG00000014996	Actin	NA
+Poecilia_formosa	cep290	ENSPFOG00000015079	Others	NA
+Poecilia_formosa	birc5a	ENSPFOG00000015136	Others	103143011
+Poecilia_formosa	gtf2a1l	ENSPFOG00000015159	GTF	NA
+Poecilia_formosa	rrn3	ENSPFOG00000015208	Others	103149250
+Poecilia_formosa	s100t	ENSPFOG00000015212	Others	103140809
+Poecilia_formosa	smurf1	ENSPFOG00000015224	Others	103153444
+Poecilia_formosa	frk	ENSPFOG00000015256	Others	103150868
+Poecilia_formosa	siah1	ENSPFOG00000015278	Others	NA
+Poecilia_formosa	FHL2	ENSPFOG00000015302	FHL	103140343
+Poecilia_formosa	crym	ENSPFOG00000015311	Others	NA
+Poecilia_formosa	smarcd2	ENSPFOG00000015313	SWI/SNF	103131345
+Poecilia_formosa	HDAC2	ENSPFOG00000015383	Histone deacetylase	103150870
+Poecilia_formosa	EPC1	ENSPFOG00000015392	Others	103138020
+Poecilia_formosa	zap70	ENSPFOG00000015396	Others	NA
+Poecilia_formosa	nelfcd	ENSPFOG00000015410	GTF	103144285
+Poecilia_formosa	ino80da	ENSPFOG00000015413	INO80 complex	NA
+Poecilia_formosa	banp	ENSPFOG00000015454	Others	NA
+Poecilia_formosa	cdk1	ENSPFOG00000015459	Cyclin	NA
+Poecilia_formosa	kmt5b	ENSPFOG00000015505	Lysine methyltransferase	NA
+Poecilia_formosa	brd7	ENSPFOG00000015523	Bromodomain	103138070
+Poecilia_formosa	tesca	ENSPFOG00000015541	Others	103134960
+Poecilia_formosa		ENSPFOG00000015547	Others	103156810
+Poecilia_formosa	lbh	ENSPFOG00000015556	Others	103154928
+Poecilia_formosa	pphln1	ENSPFOG00000015565	Others	103156733
+Poecilia_formosa	top1l	ENSPFOG00000015574	Other_CRF	103147358
+Poecilia_formosa	chchd2	ENSPFOG00000015595	Coiled-coil	103155201
+Poecilia_formosa	ercc3	ENSPFOG00000015604	Others	103143525
+Poecilia_formosa	neo1a	ENSPFOG00000015615	Others	NA
+Poecilia_formosa		ENSPFOG00000015620	PHF	NA
+Poecilia_formosa	NDUFA13	ENSPFOG00000015652	Others	NA
+Poecilia_formosa	ino80e	ENSPFOG00000015663	INO80 complex	103136791
+Poecilia_formosa	nod2	ENSPFOG00000015686	Others	103138073
+Poecilia_formosa	hck	ENSPFOG00000015724	Others	103150214
+Poecilia_formosa		ENSPFOG00000015747	Others	NA
+Poecilia_formosa	taf1b	ENSPFOG00000015766	TATA-box	103146798
+Poecilia_formosa	NAA15	ENSPFOG00000015774	Others	103132842
+Poecilia_formosa	kmt2a	ENSPFOG00000015779	Lysine methyltransferase	103155206
+Poecilia_formosa	padi2	ENSPFOG00000015807	Other_CRF	NA
+Poecilia_formosa	chd9	ENSPFOG00000015839	CHD	103138085
+Poecilia_formosa		ENSPFOG00000015853	Transducin	103139815
+Poecilia_formosa	rfxap	ENSPFOG00000015903	Others	103140107
+Poecilia_formosa	sfr1	ENSPFOG00000015904	Others	103133536
+Poecilia_formosa	chd1l	ENSPFOG00000015948	CHD	NA
+Poecilia_formosa	raf1a	ENSPFOG00000015974	Others	NA
+Poecilia_formosa	trim33	ENSPFOG00000016002	Tripartite motif	103150480
+Poecilia_formosa	supt20	ENSPFOG00000016051	SUPT	NA
+Poecilia_formosa	bcas3	ENSPFOG00000016190	Others	NA
+Poecilia_formosa	nab2	ENSPFOG00000016225	Others	NA
+Poecilia_formosa	med8	ENSPFOG00000016252	Mediator complex	103139832
+Poecilia_formosa	ikbkg	ENSPFOG00000016262	Others	103150228
+Poecilia_formosa	MSL3	ENSPFOG00000016323	Others	103141442
+Poecilia_formosa	KDM7A	ENSPFOG00000016338	Lysine demethylase	103140218
+Poecilia_formosa	chd8	ENSPFOG00000016369	CHD	103138397
+Poecilia_formosa	dr1	ENSPFOG00000016390	Others	103139839
+Poecilia_formosa	CBX4	ENSPFOG00000016429	Chromobox	103133063
+Poecilia_formosa	nono	ENSPFOG00000016436	Others	NA
+Poecilia_formosa	brip1	ENSPFOG00000016438	Others	NA
+Poecilia_formosa	cbx8b	ENSPFOG00000016440	Chromobox	103133078
+Poecilia_formosa	trim25	ENSPFOG00000016457	Tripartite motif	103133107
+Poecilia_formosa		ENSPFOG00000016476	Others	103138300
+Poecilia_formosa	clu	ENSPFOG00000016489	Others	103156430
+Poecilia_formosa	thoc5	ENSPFOG00000016511	Others	103142924
+Poecilia_formosa	nsmce4a	ENSPFOG00000016549	EID	103134139
+Poecilia_formosa	med24	ENSPFOG00000016585	Mediator complex	103143264
+Poecilia_formosa	NEDD8	ENSPFOG00000016661	Others	103138412
+Poecilia_formosa	rptor	ENSPFOG00000016673	Others	NA
+Poecilia_formosa	si:ch211-219a4.3	ENSPFOG00000016743	PARP	103138172
+Poecilia_formosa		ENSPFOG00000016796	PARP	NA
+Poecilia_formosa	phf5a	ENSPFOG00000016814	PHF	NA
+Poecilia_formosa	pir	ENSPFOG00000016817	Others	103143559
+Poecilia_formosa	DGKQ	ENSPFOG00000016841	Others	103131210
+Poecilia_formosa	brdt	ENSPFOG00000016852	Bromodomain	103139854
+Poecilia_formosa		ENSPFOG00000016863	Others	103140229
+Poecilia_formosa	prmt5	ENSPFOG00000016877	Arginine methyltransferase	103138414
+Poecilia_formosa	hdac5	ENSPFOG00000016912	Histone deacetylase	NA
+Poecilia_formosa	arglu1a	ENSPFOG00000016913	Others	103138192
+Poecilia_formosa		ENSPFOG00000016981	CHD	NA
+Poecilia_formosa	suv39h1a	ENSPFOG00000016985	Others	103154222
+Poecilia_formosa		ENSPFOG00000017004	Others	NA
+Poecilia_formosa		ENSPFOG00000017016	Others	103144329
+Poecilia_formosa	ercc2	ENSPFOG00000017021	Others	NA
+Poecilia_formosa		ENSPFOG00000017123	Ring finger protein	103131218
+Poecilia_formosa	sqstm1	ENSPFOG00000017129	Others	103131220
+Poecilia_formosa	DTX1	ENSPFOG00000017139	Others	103146821
+Poecilia_formosa	cbx7b	ENSPFOG00000017155	Chromobox	103143382
+Poecilia_formosa	RBPMS	ENSPFOG00000017158	RNA binding protein	103145192
+Poecilia_formosa	tdg.1	ENSPFOG00000017171	Others	103156561
+Poecilia_formosa	gtf2b	ENSPFOG00000017172	GTF	103149521
+Poecilia_formosa	xrcc6	ENSPFOG00000017173	Others	103143395
+Poecilia_formosa	mrtfab	ENSPFOG00000017227	Others	103143432
+Poecilia_formosa		ENSPFOG00000017235	Others	103133456
+Poecilia_formosa	actn1	ENSPFOG00000017260	Actin	103144745
+Poecilia_formosa	rpap2	ENSPFOG00000017280	Others	NA
+Poecilia_formosa	mdm4	ENSPFOG00000017284	Others	103144334
+Poecilia_formosa	mdm2	ENSPFOG00000017322	Others	103154036
+Poecilia_formosa	mtf2	ENSPFOG00000017365	Others	103149533
+Poecilia_formosa	hdac7a	ENSPFOG00000017391	Histone deacetylase	103154328
+Poecilia_formosa	cdk7	ENSPFOG00000017422	Cyclin	103142949
+Poecilia_formosa	mms19	ENSPFOG00000017424	Others	NA
+Poecilia_formosa	ACTN4	ENSPFOG00000017428	Actin	103138327
+Poecilia_formosa	ankrd1a	ENSPFOG00000017432	Ankyrin repeat	103149000
+Poecilia_formosa	CDYL2	ENSPFOG00000017464	Chromodomain Y	103136549
+Poecilia_formosa	ep400	ENSPFOG00000017466	Others	NA
+Poecilia_formosa	med6	ENSPFOG00000017524	Mediator complex	NA
+Poecilia_formosa	wwox	ENSPFOG00000017571	WW	103133736
+Poecilia_formosa		ENSPFOG00000017574	Others	103154103
+Poecilia_formosa	gnl3	ENSPFOG00000017601	Others	NA
+Poecilia_formosa	ehmt1b	ENSPFOG00000017624	Histone lysine methyltransferase	NA
+Poecilia_formosa	edrf1	ENSPFOG00000017678	Others	NA
+Poecilia_formosa	zgc:162255	ENSPFOG00000017681	Other_CRF	NA
+Poecilia_formosa	pawr	ENSPFOG00000017689	Others	NA
+Poecilia_formosa	ino80c	ENSPFOG00000017709	INO80 complex	103140878
+Poecilia_formosa	rexo4	ENSPFOG00000017751	Others	103151435
+Poecilia_formosa	sumo1	ENSPFOG00000017752	Others	103154107
+Poecilia_formosa	fgfr1a	ENSPFOG00000017757	FGF	103148401
+Poecilia_formosa	wnt3	ENSPFOG00000017788	Others	103151969
+Poecilia_formosa	cry1a	ENSPFOG00000017846	Others	103140254
+Poecilia_formosa	med17	ENSPFOG00000017880	Mediator complex	103138336
+Poecilia_formosa	cdk5r1b	ENSPFOG00000017899	Cyclin	103151995
+Poecilia_formosa	SPEN	ENSPFOG00000017986	Others	103130289
+Poecilia_formosa	cdk5rap3	ENSPFOG00000018092	Cyclin	103152077
+Poecilia_formosa	gtf2h3	ENSPFOG00000018098	GTF	NA
+Poecilia_formosa	skap1	ENSPFOG00000018142	Others	103152145
+Poecilia_formosa	dpy30	ENSPFOG00000018184	Others	103130110
+Poecilia_formosa	rnf25	ENSPFOG00000018212	Ring finger protein	103146892
+Poecilia_formosa	ssu72	ENSPFOG00000018223	Others	103130300
+Poecilia_formosa	si:ch211-130m23.3	ENSPFOG00000018292	Others	103142975
+Poecilia_formosa	fgf2	ENSPFOG00000018316	FGF	NA
+Poecilia_formosa	polr3f	ENSPFOG00000018334	POLR	103130115
+Poecilia_formosa	wbp2	ENSPFOG00000018368	WW	103144075
+Poecilia_formosa	pcgf1	ENSPFOG00000018369	PCGF	103137303
+Poecilia_formosa	eaf1	ENSPFOG00000018388	Others	103153693
+Poecilia_formosa	birc2	ENSPFOG00000018396	Others	103140982
+Poecilia_formosa	supt4h1	ENSPFOG00000018406	SUPT	103133835
+Poecilia_formosa	strn3	ENSPFOG00000018432	Others	103156170
+Poecilia_formosa	ccna2	ENSPFOG00000018447	Cyclin	103137313
+Poecilia_formosa	prmt2	ENSPFOG00000018449	Arginine methyltransferase	103155487
+Poecilia_formosa	actn2b	ENSPFOG00000018513	Actin	103133606
+Poecilia_formosa	CHUK	ENSPFOG00000018514	Others	103152473
+Poecilia_formosa	BAZ1A	ENSPFOG00000018550	Bromodomain	103156176
+Poecilia_formosa	cnot10	ENSPFOG00000018554	CCR4-NOT	103132260
+Poecilia_formosa	ldb2a	ENSPFOG00000018565	LIM	103137320
+Poecilia_formosa	ctnnb1	ENSPFOG00000018568	Casein	103137683
+Poecilia_formosa	sap30bp	ENSPFOG00000018575	SAP	103144189
+Poecilia_formosa	snx6	ENSPFOG00000018600	Others	103156178
+Poecilia_formosa	ash2l	ENSPFOG00000018601	Others	103151737
+Poecilia_formosa	chek1	ENSPFOG00000018605	Others	103142157
+Poecilia_formosa	ecd	ENSPFOG00000018614	Others	103133619
+Poecilia_formosa	nipbla	ENSPFOG00000018626	Others	103135377
+Poecilia_formosa	HYAL2	ENSPFOG00000018627	Others	103137977
+Poecilia_formosa	aebp1	ENSPFOG00000018631	Others	103151738
+Poecilia_formosa	DUSP26	ENSPFOG00000018670	Others	103151740
+Poecilia_formosa	ppid	ENSPFOG00000018717	Others	103137327
+Poecilia_formosa	CAMK2B	ENSPFOG00000018758	CAMK	103151746
+Poecilia_formosa	tle5	ENSPFOG00000018806	Others	103142607
+Poecilia_formosa	rnf8	ENSPFOG00000018868	Ring finger protein	103133735
+Poecilia_formosa	taf1a	ENSPFOG00000018902	TATA-box	103133770
+Poecilia_formosa	nab1a	ENSPFOG00000018918	Others	103129702
+Poecilia_formosa	wu:fj64h06	ENSPFOG00000018957	TATA-box	NA
+Poecilia_formosa	nrg2a	ENSPFOG00000018958	Others	NA
+Poecilia_formosa		ENSPFOG00000018960	Transducin	103135397
+Poecilia_formosa	atad2	ENSPFOG00000018961	Others	NA
+Poecilia_formosa		ENSPFOG00000018965	Others	NA
+Poecilia_formosa	cxxc5a	ENSPFOG00000018974	Others	103141297
+Poecilia_formosa	prdx5	ENSPFOG00000019013	Others	103133896
+Poecilia_formosa	ezrb	ENSPFOG00000019019	Others	103133834
+Poecilia_formosa		ENSPFOG00000019038	Others	103141084
+Poecilia_formosa	noc2l	ENSPFOG00000019047	Others	NA
+Poecilia_formosa	rhoab	ENSPFOG00000019065	Others	103138302
+Poecilia_formosa	smarcad1a	ENSPFOG00000019116	SWI/SNF	103135410
+Poecilia_formosa	fgfr2	ENSPFOG00000019148	FGF	NA
+Poecilia_formosa	rbl1	ENSPFOG00000019149	Other_Co-activator/repressors	NA
+Poecilia_formosa		ENSPFOG00000019152	RNA helicase	103156146
+Poecilia_formosa	npm1a	ENSPFOG00000019173	Nucleoplasmin	103133919
+Poecilia_formosa	puf60b	ENSPFOG00000019217	Others	NA
+Poecilia_formosa	eny2	ENSPFOG00000019257	Others	103146331
+Poecilia_formosa	traf6	ENSPFOG00000019321	Others	103153578
+Poecilia_formosa	egln1a	ENSPFOG00000019345	Others	NA
+Poecilia_formosa	cdk13	ENSPFOG00000019409	Cyclin	103147566
+Poecilia_formosa	pim1	ENSPFOG00000019499	Others	NA
+Poecilia_formosa	arhgap35b	ENSPFOG00000019539	Others	103133990
+Poecilia_formosa	gtf2h5	ENSPFOG00000019551	GTF	103134721
+Poecilia_formosa	carm1	ENSPFOG00000019570	Others	NA
+Poecilia_formosa	kat8	ENSPFOG00000019613	Lysine acetyltransferase	NA
+Poecilia_formosa	sfswap	ENSPFOG00000019657	Others	103147434
+Poecilia_formosa	anxa4	ENSPFOG00000019753	Others	NA
+Poecilia_formosa	brf2	ENSPFOG00000019755	GTF	103148752
+Poecilia_formosa	kdm2bb	ENSPFOG00000019763	Lysine demethylase	NA
+Poecilia_formosa	abl1	ENSPFOG00000019820	Others	103149563
+Poecilia_formosa	ddx54	ENSPFOG00000019822	RNA helicase	103149601
+Poecilia_formosa	MED13L	ENSPFOG00000019825	Mediator complex	103149633
+Poecilia_formosa		ENSPFOG00000019868	ANP	NA
+Poecilia_formosa	prmt6	ENSPFOG00000019926	Arginine methyltransferase	103148004
+Poecilia_formosa	trim32	ENSPFOG00000019956	Tripartite motif	103150120
+Poecilia_formosa	MID1IP1	ENSPFOG00000020004	Others	103150944
+Poecilia_formosa	pex2	ENSPFOG00000020042	Others	103135264
+Poecilia_formosa	hdac8	ENSPFOG00000020106	Histone deacetylase	NA
+Poecilia_formosa	adrb1	ENSPFOG00000020184	Others	103153377
+Poecilia_formosa	tob1b	ENSPFOG00000020246	Others	103144242
+Poecilia_formosa	sertad2b	ENSPFOG00000020562	Others	NA
+Poecilia_formosa	pnrc2	ENSPFOG00000020653	Others	NA
+Poecilia_formosa		ENSPFOG00000020655	Mediator complex	103155888
+Poecilia_formosa	ccdc85b	ENSPFOG00000020748	Coiled-coil	103140112
+Poecilia_formosa	aatf	ENSPFOG00000020853	Others	NA
+Poecilia_formosa	hsp70.3	ENSPFOG00000020871	Heat shock protein	103132027
+Poecilia_formosa	TOB2	ENSPFOG00000020913	Others	NA
+Poecilia_formosa	snapc5	ENSPFOG00000021667	Others	103141271
+Poecilia_formosa	ctnnbip1	ENSPFOG00000021679	Casein	103155590
+Poecilia_formosa	lpin2	ENSPFOG00000021718	LPIN	NA
+Poecilia_formosa		ENSPFOG00000021772	NFKB associated	103130062
+Poecilia_formosa	ripply2	ENSPFOG00000021975	Others	NA
+Poecilia_formosa	tasorb	ENSPFOG00000021990	FAM	103141831
+Poecilia_formosa	cthl	ENSPFOG00000022043	Others	103130688
+Poecilia_formosa	ing3	ENSPFOG00000022186	ING	103131781
+Poecilia_formosa		ENSPFOG00000022236	Others	103146748
+Poecilia_formosa	sirt5	ENSPFOG00000022391	Sirtuin	NA
+Poecilia_formosa	alyref	ENSPFOG00000022825	Others	NA
+Poecilia_formosa	cbx6a	ENSPFOG00000022826	Chromobox	103154832
+Poecilia_formosa	pcgf5a	ENSPFOG00000023300	PCGF	103149001
+Poecilia_formosa	trim37	ENSPFOG00000023323	Tripartite motif	NA
+Poecilia_formosa	naca	ENSPFOG00000023414	Others	103147808
+Poecilia_formosa	ascc1	ENSPFOG00000023421	ASCC	103142296
+Poecilia_formosa		ENSPFOG00000023598	MAML	NA
+Poecilia_formosa	bcl3	ENSPFOG00000023616	BCL	103139242
+Poecilia_formosa	psen1	ENSPFOG00000023620	Others	103150041
+Poecilia_formosa	csrp3	ENSPFOG00000023629	Others	103142630
+Poecilia_formosa		ENSPFOG00000023647	Others	NA
+Poecilia_formosa	dact1	ENSPFOG00000023754	Others	103156184
+Poecilia_formosa		ENSPFOG00000023812	PARP	103130859
+Poecilia_formosa	arl2bp	ENSPFOG00000023992	Others	NA
+Poecilia_formosa	ncl	ENSPFOG00000024205	Others	103130221
+Poecilia_formosa	med13a	ENSPFOG00000024209	Mediator complex	NA
+Poecilia_formosa	nrip2	ENSPFOG00000024434	Nuclear coactivator	103140266
+Poecilia_formosa	sav1	ENSPFOG00000024474	Others	103144727
+Poecilia_formosa		ENSPFOG00000024676	Others	103145971
