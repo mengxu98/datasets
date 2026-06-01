@@ -6,8 +6,7 @@ motif_dir="$(cd "${script_dir}/.." && pwd)"
 
 mkdir -p \
   "${motif_dir}/JASPAR2024" \
-  "${motif_dir}/HOCOMOCO_v14" \
-  "${motif_dir}/legacy_mixed_human"
+  "${motif_dir}/HOCOMOCO_v14"
 
 curl -L \
   "https://jaspar.elixir.no/download/data/2024/CORE/JASPAR2024_CORE_vertebrates_non-redundant_pfms_jaspar.txt" \
@@ -32,5 +31,8 @@ curl -L \
 shasum -a 256 \
   "${motif_dir}/JASPAR2024/"* \
   "${motif_dir}/HOCOMOCO_v14/"* \
-  "${motif_dir}/legacy_mixed_human/"* \
+  "${motif_dir}/motif2tf.rda" \
+  "${motif_dir}/motif2tf.tsv" \
+  "${motif_dir}/motifs.rda" \
+  "${motif_dir}/summary.tsv" \
   > "${motif_dir}/SHA256SUMS.txt"
