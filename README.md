@@ -14,3 +14,5 @@ If you have any copyright or license concerns, please contact us for removal.
 - `motifs/`: TF motif resources for regulatory-network inference, including
   JASPAR2024, HOCOMOCO v14, FigR/cisBP, PlantTFDB, MEME Suite motif database
   bundles, and human motif objects.
+- `tAge/`: R-native Elastic Net transcriptomic clock models converted from the
+  tAge Zenodo release.
