@@ -13,4 +13,4 @@ If you have any copyright or license concerns, please contact us for removal.
 
 - `motifs/`: TF motif resources for regulatory-network inference, including
   JASPAR2024 CORE vertebrate PFMs, HOCOMOCO v14 CORE motif files and
-  annotations, and a legacy mixed human motif resource.
+  annotations, and human motif objects.

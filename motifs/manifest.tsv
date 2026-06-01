@@ -4,6 +4,7 @@ HOCOMOCO_CORE	v14	human_mouse	motifs/HOCOMOCO_v14/H14CORE_pfms.txt	HOCOMOCO PFM 
 HOCOMOCO_CORE	v14	human_mouse	motifs/HOCOMOCO_v14/H14CORE_jaspar_format.txt	JASPAR-format motif flat file	https://hocomoco14.autosome.org/final_bundle/hocomoco14/H14CORE/formatted_motifs/H14CORE_jaspar_format.txt	HOCOMOCO site states motif collection is distributed under WTFPL and can be treated as CC-BY
 HOCOMOCO_CORE	v14	human_mouse	motifs/HOCOMOCO_v14/H14CORE_annotation.jsonl	JSONL annotation	https://hocomoco14.autosome.org/final_bundle/hocomoco14/H14CORE/H14CORE_annotation.jsonl	HOCOMOCO site states motif collection is distributed under WTFPL and can be treated as CC-BY
 HOCOMOCO_CORE_MOUSE	v14	mouse	motifs/HOCOMOCO_v14/H14CORE-MOUSE_annotation.jsonl	JSONL annotation	https://hocomoco14.autosome.org/final_bundle/hocomoco14/H14CORE/H14CORE-MOUSE_annotation.jsonl	HOCOMOCO site states motif collection is distributed under WTFPL and can be treated as CC-BY
-legacy_mixed_human	current	mainly_human	motifs/legacy_mixed_human/motifs.rda	R TFBSTools PFMatrixList	local	Legacy mixed motif object; refer to upstream component licenses
-legacy_mixed_human	current	mainly_human	motifs/legacy_mixed_human/motif2tf.rda	R data.frame	local	Legacy motif-to-TF map; refer to upstream component licenses
-legacy_mixed_human	current	mainly_human	motifs/legacy_mixed_human/motif2tf.tsv	TSV	local	Export of legacy motif-to-TF map
+human_motif_objects	current	mainly_human	motifs/motifs.rda	R TFBSTools PFMatrixList	local	Mixed human motif object; refer to upstream component licenses
+human_motif_objects	current	mainly_human	motifs/motif2tf.rda	R data.frame	local	Motif-to-TF map; refer to upstream component licenses
+human_motif_objects	current	mainly_human	motifs/motif2tf.tsv	TSV	local	Export of motif-to-TF map
+human_motif_objects	current	mainly_human	motifs/summary.tsv	TSV	local	Summary for motifs.rda and motif2tf.rda
