@@ -1,0 +1,7 @@
+resource	reason_not_mirrored	recommended_handling	source_url	notes
+Factorbook_TF_Motif_Catalog	direct_download_links_are_served_from_a_dynamic_site	and_download_when_stable_urls_are_available	https://www.factorbook.org/downloads	Small MEME-format ChIP-seq and HT-SELEX motif catalogs; webpage reports 10477 ChIP-seq motifs and 6700 HT-SELEX motifs.
+cisTarget_SCENIC_rankings	very_large_ranking_databases	not_store_in_git_download_on_demand	https://resources.aertslab.org/cistarget/databases/	Gene/region ranking databases for regulon analysis rather than raw motif matrices.
+TRANSFAC	license_restricted	require_user_local_files	https://genexplain.com/transfac/	Do not redistribute without compatible license terms.
+HOMER_known_motifs	no_stable_single_upstream_archive_confirmed	document_or_download_through_HOMER_install	https://homer.ucsd.edu/homer/motif/knownMotifs.html	Common motif resource in HOMER workflows; format conversion may be needed.
+Codebook_MEX	no_stable_direct_aggregate_download_confirmed	document_or_download_when_public_bundle_is_available	https://mex.autosome.org/	Recent human TF motif catalog with benchmarked motifs and metadata.
+ENCODE_ReMap_Cistrome_peak_sets	large_binding_evidence_not_raw_motif_matrix	keep_as_tf_binding_prior_not_motif_bundle	https://www.encodeproject.org/	Useful later for TF-target priors and validation, but should not be mixed with motif PFMs.
