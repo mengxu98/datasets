@@ -1,0 +1,9 @@
+resource	version	species_scope	file	format	source_url	license_note
+JASPAR_CORE	2024	vertebrates	motifs/JASPAR2024/JASPAR2024_CORE_vertebrates_nonredundant_pfms_jaspar.txt	JASPAR PFM flat file	https://jaspar.elixir.no/download/data/2024/CORE/JASPAR2024_CORE_vertebrates_non-redundant_pfms_jaspar.txt	Refer to JASPAR licensing and citation guidance
+HOCOMOCO_CORE	v14	human_mouse	motifs/HOCOMOCO_v14/H14CORE_pfms.txt	HOCOMOCO PFM flat file	https://hocomoco14.autosome.org/final_bundle/hocomoco14/H14CORE/formatted_motifs/H14CORE_pfms.txt	HOCOMOCO site states motif collection is distributed under WTFPL and can be treated as CC-BY
+HOCOMOCO_CORE	v14	human_mouse	motifs/HOCOMOCO_v14/H14CORE_jaspar_format.txt	JASPAR-format motif flat file	https://hocomoco14.autosome.org/final_bundle/hocomoco14/H14CORE/formatted_motifs/H14CORE_jaspar_format.txt	HOCOMOCO site states motif collection is distributed under WTFPL and can be treated as CC-BY
+HOCOMOCO_CORE	v14	human_mouse	motifs/HOCOMOCO_v14/H14CORE_annotation.jsonl	JSONL annotation	https://hocomoco14.autosome.org/final_bundle/hocomoco14/H14CORE/H14CORE_annotation.jsonl	HOCOMOCO site states motif collection is distributed under WTFPL and can be treated as CC-BY
+HOCOMOCO_CORE_MOUSE	v14	mouse	motifs/HOCOMOCO_v14/H14CORE-MOUSE_annotation.jsonl	JSONL annotation	https://hocomoco14.autosome.org/final_bundle/hocomoco14/H14CORE/H14CORE-MOUSE_annotation.jsonl	HOCOMOCO site states motif collection is distributed under WTFPL and can be treated as CC-BY
+legacy_mixed_human	current	mainly_human	motifs/legacy_mixed_human/motifs.rda	R TFBSTools PFMatrixList	local	Legacy mixed motif object; refer to upstream component licenses
+legacy_mixed_human	current	mainly_human	motifs/legacy_mixed_human/motif2tf.rda	R data.frame	local	Legacy motif-to-TF map; refer to upstream component licenses
+legacy_mixed_human	current	mainly_human	motifs/legacy_mixed_human/motif2tf.tsv	TSV	local	Export of legacy motif-to-TF map

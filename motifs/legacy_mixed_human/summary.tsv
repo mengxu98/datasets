@@ -1,0 +1,3 @@
+resource	source	n_motifs	n_tfs	n_links	notes
+legacy_mixed_human_motifs	mixed	1590	NA	NA	TFBSTools PFMatrixList legacy mixed human motif resource
+legacy_mixed_human_motif2tf	mixed	1590	1372	2347	CIS-BP=711; JASPAR2020=1061; SEQ_SIMILARITY=575
