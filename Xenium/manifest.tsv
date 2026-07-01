@@ -1,1 +1,2 @@
 dataset	file	object	source	cells	features	assay	sha256	size_bytes	description
+xenium_human_pancreas_sub	xenium_human_pancreas_sub.rds	Seurat	TENxXeniumData::sfe_human_pancreas()	3000	416	Xenium	53d54e09709e83122dbcca23e80e6a8cb3d4f775295db1d8d76394b45bb551ac	175688	Compact 10x Xenium human pancreas Seurat object for scop examples.
