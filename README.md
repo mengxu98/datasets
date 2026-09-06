@@ -15,8 +15,6 @@ This repository is used for storing and backing up various bioinformatics-relate
 | `scFEA/` | scFEA M168 model resources. |
 | `scMetabolism/` | Metabolism gene set resources. |
 | `tAge/` | Converted tAge model resources. |
-| `SCOPExamples/` | Compact, source-traceable real objects used by `scop` documentation examples and integration checks. |
-| `Xenium/` | Compact Xenium example data preparation assets for `scop`. |
 
 ## License Notice
 
